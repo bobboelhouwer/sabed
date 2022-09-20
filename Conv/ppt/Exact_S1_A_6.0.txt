@@ -1,0 +1,2983 @@
+EVENWICHTEN
+VOOR
+ZUREN EN BASEN
+
+ Principe van Arrhenius
+
+Een zuur is een chemisch bestanddeel dat waterstofionen afsplitst
+bij oplossen in water
+
+H  zuurrest
+
+ water
+ 
+
+H
+
+ zuurrest 
+
+Een base is een chemisch bestanddeel dat hydroxide-ionen afsplitst
+bij oplossen in water
+
+HO  baserest
+
+ water
+ 
+
+baserest
+
+
+
+ OH 
+
+ Zuur/base concept volgens Brønsted en Lowry
+Ionen in waterige oplossing
+De H+-ionen zijn dermate klein dat de positieve lading zich concentreert op
+de kern van het H-atoom. Daardoor kan een « vrij sterke binding » aangegaan
+worden met omringende watermoleculen.
+De interactie met water is zo sterk
+dat deze tijdelijke binding een
+permanent karakter krijgt
+(hydroxoniumion)
+H2O
+
+H
+
+ H 2O 
+
+H  zuurrest
+H-zuurrest
+
++
+
+H 3O 
+
+ H 2O
+
+H 2O
+
+H3O+
+
+ water
+ 
+H3O+
+
+evenwichtsreactie
+
++
+
+H 3O 
+zuurrest-
+
+ zuurrest 
+Kc
+
+ Zuur/base concept volgens Brønsted en Lowry
+Complementariteit van zuren en basen
+Een base is een verbinding die H+-ionen kan opnemen bij oplossen in water
+
+base
+
+ water
+ 
+
+base  H 2O
+
+H  base 
+ water
+ 
+
+H  base
+
+ OH 
+
+Een ZUUR is een PROTONDONOR in waterige oplossing
+
+H  rest
+
+ H 2O
+
+ water
+ 
+
+H 3O 
+
+ rest 
+
+Een BASE is een PROTONACCEPTOR in waterige oplossing
+
+base  H 2O
+
+ water
+ 
+
+H  base
+
+ OH 
+
+ Zuur/base concept volgens Brønsted en Lowry
+Donor-acceptor principe
+HB
+
++
+
+ZUUR
+
+B
+
+BASE
+
++
+
+H2O
+
+H3O+
+
+BASE
+
+ZUUR
+
+H2O
+
+HB+
+
+ZUUR
+
+ZUUR
+
++
+
+B-
+
+BASE
+
++
+
+OH-
+
+BASE
+
+ Zuur/base concept volgens Brønsted en Lowry
+Geconjugeerd zuur-base systeem
+Voor het zuur
+
+HB
+
++
+
+H 2O
+
+H3O+
+
++
+
+B-
+
+(●)
+
+Voor de base
+
+B-
+
++
+
+H2O
+
+HB
+
++
+
+OH-
+
+(●●)
+
+De som van (●) en (●●) levert ons de eigendissociatie van H2O
+2 H2O
+
+H3O+
+
++ OH-
+
+Het verschil van (●) en (●●) levert ons:
+2 HB - B-
+
+waaruit:
+
+HB
+
+++
+2HH
+2 B- - HB + (2
++ OH-) 3O
+
+H+ + B-
+
+OH-
+
+GECONJUGEERD
+ZUUR – BASE PAAR
+
+d.i. EEN GECONJUGEERD ZUUR-BASE SYSTEEM
+
+ Zuurconstante, baseconstante, ionenproduct
+Oplossen van een zuur in water
+HB
+
++
+
+H2O
+
+H3O+
+
++
+
+B-
+
+We kunnen hiervoor de uitdrukking voor de evenwichtsconstante KC schrijven:
+
+ H O  B 
+
+
+Kc
+
+
+
+
+
+3
+
+ HB  H 2O
+
+Gezien de concentratie van H2O in zuiver water 55,5 M is
+(1L zuiver water = 1000 g, MM van H2O = 18 g/mol)
+
+K c 55,5 
+
+Kz
+
+ H O  B 
+3
+
+
+
+ HB 
+
+ H  B 
+
+
+
+
+
+
+
+
+ HB
+
+(= zuurconstante)
+
+Zo kunnen we voorgaande reactievergelijking eenvoudiger schrijven:
+HB
+
+H+
+
++
+
+B-
+
+ Zuurconstante, baseconstante, ionenproduct
+
+Oplossen van een base in water, geeft de vergelijking:
+B-
+
++
+
+H 2O
+
+HB
+
++
+
+OH-
+
+We kunnen hiervoor de uitdrukking van de evenwichtsconstante KC schrijven:
+
+Kc
+
+
+
+K c 55,5 
+
+ HB OH  
+ B    H 2O
+ HB OH  
+
+B 
+
+
+K b (= baseconstante)
+
+ Zuurconstante, baseconstante, ionenproduct van water
+De eigendissociatie van water:
+H2O (zuur) + H2O (base)
+
+H3O+
+
++ OH-
+
+We kunnen hiervoor de uitdrukking van de evenwichtsconstante KC schrijven:
+
+Kc
+
+
+
+ H O OH 
+
+
+3
+
+
+
+ H OH 
+
+
+K c 55,5 
+
+ H 2O  H 2O
+
+ K z , water
+
+ H 2O
+
+ K b, water
+Kw
+
+ 
+
+
+
+10  15,74
+(uit tabel)
+
+= 55,5 M
+
+
+
+ H  OH  10  14
+= ionenproduct: het mathematisch product van de concentraties
+van de gevormde ionen na dissociatie
+
+Voor een willekeurig geconjugeerd zuur-base systeem:
+
+ H  B   HBOH 
+
+ HB
+B 
+
+
+K z K b
+
+
+
+
+
+
+
+ 
+
+
+
+ H  OH   K w 10  14
+
+ Zuurconstante, baseconstante, ionenproduct
+H3O+
+
+H+ + H2O
+
+K z 55,5
+
+x
+
+10  14
+
+K b 10  15,74
+H2O
+
+10  14 
+HB
+
+Kz
+
+K z 10  15,74
+H+ + B-
+
+x
+
+H+ + OH-
+
+Kb
+
+x
+
+K b 55,5
+
+10  14
+
+Hoe sterker het zuur HB (of hoe groter Kz) des te zwakker de geconjugeerde base BHoe sterker de base B- (of hoe kleiner Kz) des te zwakker het geconjugeerde zuur HB
+
+ evenwicht tussen twee zuur-base systemen
+Oplossen van een zuur van systeem 1 in H2O
+
+H2O is protonenacceptor
+
+Oplossen van een base van systeem 2 in H2O
+
+H2O is protonendonor
+
+Oplossen van 2 zuur-base systemen tegelijkertijd ????
+Het zuur van een eerste zuur-base systeem reageert met de base
+van een tweede zuur-base systeem in die richting waarbij het sterkere zuur
+en de sterkere base zich omzetten tot een zwakker zuur en een zwakkere base
+
+HB1
+
+H+
+
++
+
+B 1-
+
+HB2
+
+H+
+
++
+
+B2-
+
+HB1
+
++
+
+B2-
+
+HB2
+
++
+
+B 1-
+
+ Everytime I get
+a proton, …..
+something
+funny
+Hello!
+My name is Alfie.
+happens I’m
+to me.
+a base! I like to I’m a little confused …
+Some acids I can give
+… I’m
+an acid
+protons
+… and I
+I becomereceive
+a
+protons.
+are
+reallyBillyI …
+like to give
+protons
+can receive
+protons
+…
+conjugateThis
+acidis!!my
+friend,
+strong ….
+to Alfie
+I’m amphoteric
+!!! !!!
+like me !!!
+… and I become a
+conjugate base
+
+Some acids can
+give more than
+one proton …
+
+ Het begrip pH, zuurtegraad van oplossingen
+De theoretische pH-schaal
+het begrip
+
+zuurtegraad of pH
+= het negatief natuurlijk logaritme van de H+-concentratie (mol/l)
+
+ 
+
+pH  log H 
+
+en naar analogie
+
+
+
+pOH  log OH 
+
+Op dezelfde manier bekomen we ook:
+
+pK z  log K z
+
+pK b  log K b
+
+pK w  log K w
+
+
+
+ Het begrip pH, zuurtegraad van oplossingen
+De theoretische pH-schaal
+sterk zuur
+en/of hoge
+concentratie
+
+zwak zuur
+en/of lage
+concentratie
+
+zwakke base
+en/of lage
+concentratie
+
+toevoegen van BASE
+
+toevoegen van ZUUR
+
+0
+
+sterke base
+en/of hoge
+concentratie
+
+7
+NEUTRAAL H2O
+
+14
+
+ Het begrip pH, zuurtegraad van oplossingen
+De theoretische pH-schaal
+
+ Het begrip pH, zuurtegraad van oplossingen
+De theoretische pH-schaal
+10
+
+KB
+
+-15,74
+
+15,74
+
+zeer sterke
+zuren met zeer
+zwakke
+geconjugeerde
+base
+
+55,5
+
+-1,74
+
+pKB
+
+sterkere zuren
+met zwakkere
+geconjugeerde
+base
+
+-1,74
+
+55,5
+
+zeer zwakke
+zuren met zeer
+sterke
+geconjugeerde
+base
+
+zwakkere zuren
+met sterkere
+geconjugeerde
+base
+
+pKHB
+
+KHB
+
+15,74
+10-15,74
+
+ Het begrip pH, zuurtegraad van oplossingen
+Relatieve sterkte van geconjugeerde zuur-base paren
+
+ Het begrip pH, zuurtegraad van oplossingen
+
+17-4 Strong Acids and Bases
+sterk zuur vs. zwak zuur
+
+Enkele sterke zuren en basen
+
+HCl
+
+CH3CO2H
+
+ Het begrip pH, zuurtegraad van oplossingen
+De pH-waarde van enkele materialen
+
+ Het begrip pH, zuurtegraad van oplossing
+evenwicht tussen twee zuur-base systemen
+Oplossen van een zuur in H2O
+
+H2O is protonenacceptor
+
+Oplossen van een base in H2O
+
+H2O is protonendonor
+
+Oplossen van 2 zuur-base systemen ????
+Het zuur van een eerste zuur-base systeem reageert met de base
+van een tweede zuur-base systeem in die richting waarbij het sterkere zuur
+en de sterkere base zich omzetten tot een zwakker zuur en een zwakkere base
+
+H  B 
+
+
+HB1
+
+H+
+
++
+
+K HB1
+
+B 1-
+
+
+
+ HB1 
+
+H  B 
+
+
+HB2
+
+HB1
+
+H+
+
++
+
+B
+
+2
+
++
+
+K HB2
+
+B2-
+
+HB2
+
++
+
+B1
+
+
+
+-
+
+
+1
+
+
+2
+
+ HB2 
+K ev.
+
+
+
+K HB1
+K HB2
+
+ Meerwaardige zuren en basen
+Sommige zuren bevatten meerdere afsplitsbare waterstofatomen.
+H2CO3
+
+H+
+
++
+
+HCO3-
+
+HCO3-
+
+H+
+
++
+
+CO32-
+
+BASE
+
+KZ1 = 10-6,4
+KZ2 = 10-10,4
+
+ZUUR
+
+Meestal gaat het reeds om zwakke zuren, waarbij het evenwicht vooral
+naar links ligt.
+Het afsplitsen van een 2de H+ zal nog moeilijker zijn
+KZ2 < KZ1
+HCO3- = amfoteer deeltje = amfolyt
+Uitzondering : H2SO4
+Bij niet al te hoge concentraties gedragen de twee waterstoffen zich sterk
+en dissociëren praktisch volledig.
+
+ Meerwaardige zuren en basen
+
+Fosforzuur - triwaterstoffosfaat
+een driewaardig zuur
+
+H3PO4 + H2O ⇄ H3O+ + H2PO4-
+
+Kz = 7.1x10-3
+
+H2PO4- + H2O ⇄ H3O+ + HPO42-
+
+Kz = 6.3x10-8
+
+HPO42- + H2O ⇄ H3O+ + PO43-
+
+Kz = 4.2x10-13
+
+ Meerwaardige zuren en basen
+zuurconstanten van enkele meerwaardige zuren
+
+ pH van zouten
+zouten van het type NaCl
+
+NaCl
+
+Na+
+
+= het geconjugeerde zuur
+van sterke base NaOH
+= als zuur zwakker dan water
+
++
+
+Cl= het geconjugeerde base
+van sterk zuur HCl
+= als base zwakker dan water
+
+geen invloed op pH van de oplossing
+
+ pH van zouten
+zouten van het type NH4Cl
+
+NH4Cl
+
+NH4+
+
+= een zwak zuur, maar
+toch sterker dan water
+NH4+
+
+H+ + NH3
+
++
+
+Cl= als base zwakker
+dan water
+geen invloed op pH
+
+K z 10  9, 24  K z , water 10  15,74
+
+de pH van de oplossing wordt < 7
+omwille van het zwak zure deeltje NH4+
+
+ pH van zouten
+zouten van het type NaAc
+
+NaAc
+
+Na+
+
++
+
+Ac-
+
+= als zuur zwakker
+dan water
+geen invloed op pH
+
+= als base sterker
+dan water
+Ac- + H2O
+Kb
+
+10 14
+
+10 4, 76
+
+ 10 9, 24
+
+>
+
+Kw
+
+Kz
+
+OH- + HAc
+
+K b, water 10  15,74
+
+de pH van de oplossing wordt > 7
+omwille van het zwak basische deeltje Ac-
+
+ pH van zouten
+zouten van het type NH4Ac
+NH4Ac
+
+NH4+
+
++
+
+Ac-
+
+= een zwak zuur, maar
+toch sterker dan water
+NH4+
+
+K z 10
+
+= als base sterker
+dan water
+
+H+ + NH3
+ 9, 24
+
+ K z , water 10
+
+ 15, 74
+
+Ac- + H2O
+Kb
+
+10 14
+
+10 4, 76
+
+ 10 9, 24
+
+>
+
+Kw
+
+Kz
+
+OH- + HAc
+
+K b, water 10  15,74
+
+de pH van de oplossing wordt tegelijkertijd bepaald door
+het zwak zure en het zwak basische deeltje
+het sterkere van de twee zal de pH > of < 7 brengen
+In dit geval is de zuurconstante van NH4+ gelijk aan de baseconstante van Ac-.
+De pH blijft dus precies op 7
+
+ pH van zouten
+zouten van het type NH4Ac
+KZ > KB (het zwakke zuur is sterker zuur dan de zwakke base basisch)
+zuur deeltje haalt pH MEER
+naar beneden
+
+basisch deeltje haalt pH MINDER
+naar omhoog
+pH = 7
+
+pH < 7
+
+KZ < KB (de zwakke base is sterker basisch dan het zwakke zuur zuur)
+zuur deeltje haalt pH MINDER
+naar beneden
+
+basisch deeltje haalt pH MEER
+naar omhoog
+
+pH = 7
+pH > 7
+
+ pH-formules
+pH van sterke zuren en sterke basen
+Bij sterke zuren en basen, is de dissociatie nagenoeg volledig
+d.w.z. dat het evenwicht extreem ver naar rechts gelegen is
+HCl
+
+H+ + Cl-
+
+H 
+
+
+OH 
+
+ cHCl
+
+
+
+Kw
+
+ 
+
+
+pH
+
+  log H
+
+pH
+
+  log cHCl
+
+pH
+
+NaOH
+
+  log c Z
+
+!! Wanneer 2 H+/2 OH- worden afgesplitst:
+
+H 
+
+
+H 
+
+
+Na+ +
+
+OH-
+
+ cNaOH
+ c NaOH
+
+
+
+Kw
+cNaOH
+
+pH
+
+  log K w  log c B
+
+pH
+
+ 14  log c B
+
+Cz wordt 2.Cz / Cb wordt 2.Cb
+
+ pH-formules
+pH van sterke zuren en sterke basen
+wanneer formules niet gebruiken ???
+Voor concentraties > 1 M zijn de formules niet meer geldig
+(oplossingen zijn pas voldoende verdund voor concentraties
+in de orde van 0,1 M of minder )
+
+Voor concentraties < 10-6 M zijn de formules niet meer geldig,
+omdat vanaf dit moment rekening moet gehouden worden met de
+eigendissociatie van water (werd als verwaarloosbaar beschouwd)
+Hoe sterker de oplossingen verdund worden, hoe meer de pH
+evolueert naar pH 7
+Deze beperkingen gelden ook voor de formules van
+zwakke zuren en basen
+
+ pH-formules
+pH van sterke zuren en sterke basen: beperkingen
+pH
+
+0,1 M
+
+10-6 M
+
+13
+
+- log cb
+7
+- log cz
+
+1
+
+ pH-formules
+pH van zwakke eenwaardige zuren
+HB
+
+H+
+
+c0
+
+-
+
+-
+
+c0 – x
+
+x
+
+x
+
+begin
+evenwicht
+
+K HB
+
+x2
+
+c0  x
+
++
+
+ 2
+
+
+
+H 
+c  H 
+0
+
+
+
+te verwaarlozen t.o.v. C0
+wegens zwak zuur, weining dissociatie
+
+ 2
+
+K HB
+
+H 
+
+
+
+
+
+H 
+c0
+
+K HB c0
+
+B-
+
+pH
+
+1
+1
+
+pK Z 
+log c Z
+2
+2
+
+ pH-formules
+pH van zwakke eenwaardige basen
+Bbegin
+evenwicht
+
+H  B 
+
+
+K HB
+
+
+
+ HB
+
+
+
+x  OH 
+
+H 
+
+
+
+
+
+
+
+
+
+
+K w K HB
+c0
+
++
+
+H2O
+
+HB
+
+c0
+
+overmaat
+
+-
+
+-
+
+c0 - x
+
+overmaat
+
+x
+
+x
+
+ 
+
+
+Kw B
+
+OH   HB
+
+
+
+K w c0
+K HB
+
+
+
++
+
+OH-
+
+K w  c0  x 
+x2
+te verwaarlozen hydrolyse
+t.o.v. C0
+
+pH
+
+ 7
+
+1
+1
+pK Z  log c B
+2
+2
+
+ pH van zwakke eenwaardige zuren en basen:
+beperkingen
+0,1 M
+pH
+-6
+
+10 M
+
+13
+sterke
+base
+
+11,5
+
+7
+
+zwakke
+base
+
+- log cb
+- log cz
+
+zwak
+zuur
+2,5
+1
+
+sterk
+zuur
+
+ pH-formules
+pH van meerwaardige zwakke zuren
+oplossen van
+
+H2CO3
+
+pKZ1
+
+pKZ2
+
++
+weinig
+afgesplitst
+weinig H
+H+ afgesplitst
+
+HCO3-
+
++
+zeer
+zeerweinig
+weinigH
+H+ afgesplitst
+afgesplitst
+
+CO32-
+
+Wegens de heel lage Kz2 waarde van dit zuur, is de hoeveelheid
+waterstofionen dat nog extra vrijkomt bij de 2de dissociatie te verwaarlozen t.o.v. de hoeveelheid afkomstig van de 1ste dissociatie.
+We mogen dus de formule voor een éénwaardig zwak zuur gebruiken
+mits gebruik van de juiste pKz waarde (pKz1)
+pH
+
+
+
+1
+1
+pK Z 1 
+log c Z
+2
+2
+
+ pH-formules
+pH van meerwaardige zwakke basen
+pKZ1
+
+H2CO3
+
+pKZ2
+
++
+weinig
+H Hafgesplitst
+zeer
+weinig
+opgenomen
+
++
+
+HCO3-
+
+oplossen van
+
++
+zeerweinig
+weinig
+afgesplitst
+H +H
+opgenomen
+
+CO32-
+
+Naar analogie met de meerwaardige zwakke zuren
+mogen we dus de formule voor een éénwaardig zwakke base gebruiken
+mits gebruik van de juiste pKz waarde (pKZ2)
+
+pH
+
+ 7
+
+1
+1
+pK Z 2  log c B
+2
+2
+
+ pH-formules
+pH van amfolyten
+pKZ1
+
+H2CO3
+
+oplossen van
+
++
+weinig
+afgesplitst
+weinig H
+H+ opgenomen
+
+HCO3-
+
+pKZ2
+
++
++
+zeerweinig
+weinigHH
+afgesplitst
+afgesplitst
+
+CO32-
+
+De pH kan eenvoudig en vrij nauwkeurig berekend worden door uitmiddelen
+van de pKz waarden die bepalend zijn voor de zure en basische kenmerken
+
+pH
+
+
+
+1
+ pK Z 1  pK Z 2 
+2
+
+ pH-formules
+beknopte samenvatting
+pH
+
+STERK ZUUR
+ZWAK ZUUR
+
+pH
+
+STERKE BASE
+
+pH
+
+1
+1
+pK Z 
+log c Z
+2
+2
+
+
+
+1
+ pK Z 1  pK Z 2 
+2
+
+ 7
+
+1
+1
+pK Z  log c B
+2
+2
+
+pH
+
+AMFOLYT
+
+ZWAKKE BASE
+
+
+
+  log c Z
+
+pH
+
+ 14  log c B
+
+ BUFFERS
+EN
+TITRATIE
+
+ Bufferoplossingen
+wat ??
+een mengsel van een zwak zuur met de eigen geconjugeerde base
+OF
+een mengsel van een zwakke base met het eigen geconjugeerd zuur
+HB
+
+H+
+
+[HB] = cHB
+
+K HB
+
+
+
+B-
+
+[B-] = cB
+
+ H  B 
+
+
++
+
+H  c
+
+
+
+
+K HB
+
+ HB
+
+H 
+
+
+pH
+
+
+
+ K HB
+
+B
+
+cZ
+
+ HB
+
+B 
+
+ pK HB
+
+
+
+ K HB
+
+cB
+ log
+cZ
+
+cZ
+cB
+
+ Bufferoplossingen
+voorbeeld acetaatbuffer : CH3COOH / CH3COO-
+
+ Bufferoplossingen
+rekenvoorbeeld: toevoegen van zuur en base aan een azijnzuur/acetaatbuffer
+HCl
+
++
+
+Ac-
+
+HAc
+
+begin
+
+0,01M
+
+0,1M
+
+0,1M
+
+einde
+
+-
+
+0,09M
+
+0,11M
+
+pH
+
+NaOH
+
+ 4,76  log
+
+0,09
+0,11
+
++ HAc
+
++
+
+Cl0,01M
+
+ 4,67
+
+Ac-
+
++
+
+Na+ +
+
+H 2O
+
+begin
+
+0,02M
+
+0,1M
+
+0,1M
+
+-
+
+-
+
+einde
+
+-
+
+0,08M
+
+0,12M
+
+0,02M
+
+0,02M
+
+pH
+
+ 4,76  log
+
+0,12
+0,08
+
+ 4,94
+
+ Bufferoplossingen
+toevoegen van zuur en base aan water
+buffer
+
+ Bufferoplossingen
+toevoegen van zuur en base aan water
+buffer
+
+ Bufferoplossingen
+3 methoden voor de bereiding van een buffer
+1. Mengsel HB (0,1M) en B- (0,1M)
+
+pH
+
+ pK Z
+
+ log
+
+0,1
+ 4,76
+0,1
+
+2. Mengsel HAc (0,2M) en NaOH (0,1M)
+NaOH
+
++ HAc
+
+Ac-
+
++
+
+Na+ +
+
+H2O
+
+begin
+
+0,1 M
+
+0,2 M
+
+-
+
+-
+
+oplosmiddel
+
+einde
+
+-
+
+0,1 M
+
+0,1 M
+
+0,1 M
+
+0,1 M
+
+buffer
+
+pH = 4,76
+
+ Bufferoplossingen
+
+3. Mengsel Ac- (0,2M) en HCl (0,1M)
+HCl
+
++
+
+Ac-
+
+HAc
+
+begin
+
+0,1 M
+
+0,2 M
+
+-
+
+einde
+
+-
+
+0,1 M
+
+0,1 M
+
+buffer
+
+pH = 4,76
+
++
+
+Cl0,1M
+
+ Bufferoplossingen
+Omzetting van 0,1 M HAc tot Ac- met 0,1 M NaOH
+
+λ
+[HAc]
+[Ac-]
+[Ac-]/[HAc]
+pH
+
+0
+
+0,01
+
+0,1
+
+0,25
+
+0,5
+
+0,75
+
+0,9
+
+0,99
+
+1
+
+~ 0,1
+
+0,099
+
+0,09
+
+0,075
+
+0,05
+
+0,025
+
+0,01
+
+0,001
+
+~0
+
+~0
+
+0,001
+
+0,01
+
+0,025
+
+0,05
+
+0,075
+
+0,09
+
+0,099
+
+~ 0,1
+
+-
+
+1/99
+
+1/9
+
+1/3
+
+1
+
+3
+
+9
+
+99
+
+-
+
+2,88
+
+2,76
+
+3,81
+
+4,28
+
+4,76
+
+5,24
+
+5,71
+
+6,76
+
+8,88
+
+Omzetting van 0,1 M Ac- tot HAc met 0,1 M HCl
+
+λ
+[Ac-]
+[HAc]
+[Ac-]/[HAc]
+pH
+
+0
+
+0,01
+
+0,1
+
+0,25
+
+0,5
+
+0,75
+
+0,9
+
+0,99
+
+1
+
+~ 0,1
+
+0,099
+
+0,09
+
+0,075
+
+0,05
+
+0,025
+
+0,01
+
+0,001
+
+~0
+
+~0
+
+0,001
+
+0,01
+
+0,025
+
+0,05
+
+0,075
+
+0,09
+
+0,099
+
+~ 0,1
+
+-
+
+99
+
+9
+
+3
+
+1
+
+1/3
+
+1/9
+
+1/99
+
+-
+
+8,88
+
+6,76
+
+5,71
+
+5,24
+
+4,76
+
+4,28
+
+3,81
+
+2,76
+
+2,88
+
+ Bufferoplossingen
+ideale buffergebied
+8
+
+pH
+
+IDEALE BUFFERGEBIED
+
+7
+6
+5
+
+pKHAc
+
+4
+3
+2
+0,0
+1/99
+
+1/9
+
+0,4
+1/3
+
+1,0
+
+3,2
+3
+
+9
+[Ac-]/[HAc]
+
+99
+
+ H3PO4
+
+H2PO4-
+
+HPO42-
+
+PO43-
+
+de twee samen
+
+de twee samen
+
+de twee samen
+
+BUFFER
+
+BUFFER
+
+BUFFER
+
+pH  pK1  log
+
+ base
+ zuur 
+
+pH  pK 2  log
+
+ base
+ zuur 
+
+pH  pK 3  log
+
+AMFOLYT
+
+AMFOLYT
+
+pH = ½ (pK1 + pK2)
+
+pH = ½ (pK2 + pK3)
+
+ZWAK ZUUR
+pH = ½ pK1 – ½ log c
+
+ base
+ zuur 
+
+ZWAKKE BASE
+pH = 7 + ½ pK3 + ½ log c
+
+ Zuur-base titraties
+Een kwantitatieve bepaling van de concentratie van een zuur of een base
+door de uitvoering van een zuur-base reactie
+NaOH
+
+HCl
+
++
+
+NaOH
+
+Na+
+
++
+
+Cl-
+
++
+
+H2O
+
+wanneer gelijke hoeveelheden zuur en base gereageerd hebben,
+wordt het equivalentiepunt bereikt, d.w.z.
+aantal mol zuur = aantal mol base
+nzuur = nbase
+czuur x Vzuur = cbase x Vbase
+cz x Vz
+HCl
+
+(mol/l)
+(ml)
+(mmol)
+
+=
+
+c b x Vb
+(mol/l)
+(ml)
+(mmol)
+
+ Zuur-base titraties
+titratie van een sterk zuur met een sterke base
+HCl (0,1M)
+NaOH (0,1M)
+100 ml
+ml NaOH
+toegevoegd
+
+mol NaOH
+toegevoegd
+
+mol HCl
+over
+
+cHCl over
+(mol.l-1)
+
+cNaOH in
+overmaat
+
+pH
+
+0
+
+0
+
+0,01
+
+0,1
+
+-
+
+1
+
+1
+
+0,0001
+
+0,0099
+
+0,099
+
+-
+
+1,004
+
+10
+
+0,001
+
+0,009
+
+0,09
+
+-
+
+1,05
+
+50
+
+0,005
+
+0,005
+
+0,05
+
+-
+
+1,30
+
+90
+
+0,009
+
+0,001
+
+0,01
+
+-
+
+2
+
+99
+
+0,0099
+
+0,0001
+
+0,001
+
+-
+
+3
+
+100
+
+0,01
+
+-
+
+-
+
+-
+
+7
+
+101
+
+0,0101
+
+-
+
+-
+
+0,001
+
+11
+
+110
+
+0,011
+
+-
+
+-
+
+0,01
+
+12
+
+150
+
+0,015
+
+-
+
+-
+
+0,05
+
+12,70
+
+190
+
+0,019
+
+-
+
+-
+
+0,09
+
+12,95
+
+199
+
+0,0199
+
+-
+
+-
+
+0,099
+
+12,996
+
+200
+
+0,02
+
+-
+
+-
+
+0,1
+
+13
+
+STERK
+ZUUR
+
+E.P.
+Na+ Cl- opl.
+
+STERKE
+BASE
+
+ 14
+
+pH
+
+12
+10
+8
+
+E.P
+pH = 7
+
+6
+4
+2
+
+ml NaOH toegevoegd
+
+0
+0
+λ=0
+
+25
+
+50
+
+75
+
+100
+λ=1
+
+125
+
+150
+
+175
+
+200
+λ=2
+
+ Zuur-base titraties
+titratie van een sterk zuur met een sterke base
+invloed van de concentratie van zuur en base
+Bij lagere concentraties van de gebruikte zuren en basen,
+merken we een steeds kleinere pH-sprong bij het EP.
+De pH van het EP blijft echter onveranderd
+14
+
+pH
+
+0,1 M
+0,01 M
+0,001 M
+
+12
+10
+8
+6
+
+E.P.
+neutraal pH = 7
+
+4
+2
+
+ml NaOH toegevoegd
+
+0
+0
+
+25
+
+50
+
+75
+
+100
+
+125
+
+150
+
+175
+
+200
+
+ Zuur-base titraties
+titratie van een zwak zuur met een sterke base
+
+pHpH
+: geconjugeerde
+wordt bepaald
+-buffer
+pH
+van
+Zwak
+zuur
+in
+door
+base
+overmaat
+Ac
+HAcbase
+/ Ac
+oplossing
+form.sterke
+zwakke
+base
+
+HAc (0,1M) 100 ml NaOH (0,1M)
+HAc
+
++
+
+NaOH
+
+Na+
+
++
+
+Ac-
+
++
+
+H 2O
+
+mol NaOH
+toegev.
+
+mol HAc
+over
+
+mol Acgevormd
+
+cHAc
+over
+
+cAcgevormd
+
+cAc- /cHAc
+
+cNaOH in
+overmaat
+
+pH
+
+0
+
+0,01
+
+-
+
+0,1
+
+-
+
+~0
+
+-
+
+3
+
+0,0001
+
+0,0099
+
+0,0001
+
+0,099
+
+0,001
+
+1/99
+
+-
+
+3,004
+
+0,001
+
+0,009
+
+0,001
+
+0,09
+
+0,01
+
+1/9
+
+-
+
+4,05
+
+0,005
+
+0,005
+
+0,005
+
+0,05
+
+0,05
+
+1
+
+-
+
+5
+
+0,009
+
+0,001
+
+0,009
+
+0,01
+
+0,09
+
+9
+
+-
+
+5,95
+
+0,0099
+
+0,0001
+
+0,0099
+
+0,001
+
+0,099
+
+99
+
+-
+
+6,996
+
+0,01
+
+-
+
+0,01
+
+-
+
+0,1
+
+-
+
+-
+
+9
+
+0,0101
+
+-
+
+0,01
+
+-
+
+0,1
+
+-
+
+0,001
+
+11
+
+0,011
+
+-
+
+0,01
+
+-
+
+0,1
+
+-
+
+0,01
+
+12
+
+0,015
+
+-
+
+0,01
+
+-
+
+0,1
+
+-
+
+0,05
+
+12,70
+
+0,019
+
+-
+
+0,01
+
+-
+
+0,1
+
+-
+
+0,09
+
+12,95
+
+0,0199
+
+-
+
+0,01
+
+-
+
+0,1
+
+-
+
+0,099
+
+12,996
+
+0,02
+
+-
+
+0,01
+
+-
+
+0,1
+
+-
+
+0,1
+
+13
+
+ Zuur-base titraties
+titratie van een zwak zuur met een sterke base
+HAc (0,1M)
+100 ml
+
+HAc
+
+14
+
++
+
+NaOH (0,1M)
+
+NaOH
+
+Na+
+
++
+
+Ac-
+
++
+
+H 2O
+
+pH
+
+12
+
+pH wordt volledig bepaald
+Al
+het overmaat
+zuur is omgezet
+tot de
+door
+sterke base
+geconjugeerde base:
+van zwakke base
+E.P. pHNaOH
+pH > 7
+
+pH wordt volledig bepaald
+10
+door de bufferoplossing
+8
+
+HAc / Ac-
+
+6
+4
+
+pH wordt bepaald door zwak zuur (HAc) in oplossing
+
+2
+
+ml NaOH toegevoegd
+
+0
+0
+
+25
+
+50
+
+75
+
+100
+
+125
+
+150
+
+175
+
+200
+
+ Zuur-base titraties
+titratie van een zwak zuur met een sterke base
+invloed van de zuursterkte op de titratiecurve
+
+ Zuur-base titraties
+titratie van een zwak zuur met een zwakke base
+b.v. HAc (0,1M)
+
+b.v. NH3 (0,1M)
+
+100 ml
+HB1 (pK1 = 4) + B2- (pK2 = 10)
+
+?
+
+Kev = 10
+
+B1 -
+
+6
+
++
+
+HB2
+
+%λ
+
+[HB1]
+
+[B1-]
+
+[B1-] / [HB1]
+
+[HB2]
+
+[B2-]
+
+0
+
+0,1
+
+-
+
+~0
+
+-
+
+-
+
+-
+
+2,5
+
+1
+
+0,099
+
+0,001
+
+1/99
+
+0,001
+
+-
+
+-
+
+2,5
+
+10
+
+0,09
+
+0,01
+
+1/9
+
+0,01
+
+-
+
+-
+
+3,06
+
+50
+
+0,05
+
+0,05
+
+1
+
+0,05
+
+-
+
+-
+
+4
+
+90
+
+0,01
+
+0,09
+
+9
+
+0,09
+
+-
+
+-
+
+4,95
+
+99
+
+0,001
+
+0,099
+
+99
+
+0,099
+
+-
+
+-
+
+6
+
+100
+
+-
+
+0,1
+
+-
+
+0,1
+
+-
+
+-
+
+7
+
+101
+
+-
+
+0,1
+
+-
+
+0,1
+
+0,001
+
+0,01
+
+8
+
+110
+
+-
+
+0,1
+
+-
+
+0,1
+
+0,01
+
+0,1
+
+9
+
+150
+
+-
+
+0,1
+
+-
+
+0,1
+
+0,05
+
+0,5
+
+9,70
+
+190
+
+-
+
+0,1
+
+-
+
+0,1
+
+0,09
+
+0,9
+
+9,95
+
+199
+
+-
+
+0,1
+
+-
+
+0,1
+
+0,099
+
+9,9
+
+9,996
+
+200
+
+-
+
+0,1
+
+-
+
+0,1
+
+0,1
+
+1
+
+10
+
+[B2-] / [HB2]
+
+pH
+
+ 14
+12
+10
+8
+6
+4
+2
+0
+0
+
+25
+
+50
+
+75
+
+100
+
+125
+
+150
+
+175
+
+200
+
+ Zuur-base titraties
+indicatoren
+Een indicator kan een indicatie geven van een sterke pH-verandering
+b.v. bij een equivalentiepunt
+Een indicator is zelf een zwak gecongugeerd zuur-base systeem,
+waarbij ten minste één van de vormen sterk gekleurd is
+HIn
+
+zure kleur
+
+H+
+
++
+
+In-
+
+pKHIn , pKz
+
+basische kleur
+
+
+
+pH
+
+ pK Z
+
+pH
+
+ In 
+
+
+basische kleur
+
+ HIn
+
+pKz + 1
+
+pH
+pKz
+
+omslaggebied
+
+pKz - 1
+
+1/10
+
+ HIn
+
+ 10  pH  pK HIn 
+
+als [ In  ] [ HIn]
+
+
+10/1
+
+
+
+ pK Z ( HIn)
+
+ In 
+
+zure kleur
+
+ In 
+log
+
+ HIn
+
+ Zuur-base titraties
+indicatoren : toepassing op een zuur-base titratie
+fictieve indicator met pKind = 7
+We nemen de titratie van een sterk zuur met een sterke base
+Net voor het equivalentiepunt, was de pH slechts 3
+In de formule levert ons dat
+
+ In 
+
+
+ HIn
+
+ 10  pH  pK HIn 
+
+ 10  3  7 
+
+ 10  4
+
+Dit betekent dat in de oplossing nog ± 10.000 keer meer HIn (zure kleur)
+zit dan In- (basische kleur). De zure kleur overheerst dus.
+
+Net na het equivalentiepunt, was de pH 11
+In de formule levert ons dat
+
+ In 
+
+
+ HIn
+
+ 10  pH  pK HIn 
+
+ 10 11  7 
+
+In dit geval overheerst de basische kleur, omdat er veel meer Inin de oplossing zit
+
+ 10 4
+
+ Zuur-base titraties
+indicatoren : toepassing op een zuur-base titratie
+
+ Zuur-base titraties
+titratie van een sterk zuur met een sterke base
+titratie van een zwak zuur met een sterke base
+
+ Zuur-base titraties
+titratie van een zwakke base en een sterk zuur
+
+ Zuur-base titraties
+
+gebruik van indicatoren
+
+ Zuur-base titraties
+titratie van een meerwaardig zuur met een sterke base
+NaOH
+
+H3PO4 ⇄
+
+H2PO4-
+
+NaOH
+
+⇄
+
+HPO42- ⇄
+buffer rond pKZ3
+
+amfolyt HPO42- (9,75)
+
+3-waardig zwak zuur
+
+buffer rond pKz2
+
+amfolyt H2PO4- (4,7)
+buffer rond pKz1
+
+PO43-
+
+ 

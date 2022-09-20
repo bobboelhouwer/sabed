@@ -1,0 +1,638 @@
+MULTIFACTORIELE
+ERFELIJKHEID
+
+ Complexe kenmerken en aandoeningen
+MONOGEEN
+
+POLYGEEN
+
+MULTIFACTORIEEL
+
+genen
+1 gen
+
+vele genen
+
+geen
+
+veel
+omgevingsfactoren
+
+ Complexe kenmerken en aandoeningen
+Meer dan 1 gen of een combinatie van één of
+meer genen en omgevingsfactoren liggen
+aan de basis van een
+complexe aandoening
+
+ Complexe kenmerken en aandoeningen
+ interactie van
+- verschillende genloci onderling
+Polygenetisch
+- genen met toevoeging van omgevingsinvloed
+Multifactorieel
+ interactie tussen genen en omgeving is niet statisch:
+omgeving heeft andere invloed volgens genotype van persoon
+
+ i
+
+z
+e
+
+k
+
+ ziek
+
+ Multifactoriële kenmerken:
+Bloeddruk, lengte, intelligentie, huidskleur
+
+Multifactoriële aandoeningen:
+• aanwezig geboorte: hartafwijkingen, lipspleet, spina bifida
+• later in leven: astma, suikerziekte, kanker, hypertensie,
+psychiatrische aandoeningen
+
+Frequent + belang volksgezondheid is groot
+
+ Complexe kenmerken en aandoeningen
+
+1. Additieve polygenie (continue variabelen)
+2. Drempel polygenie (discontinue variabelen)
+
+ Complexe kenmerken en aandoeningen
+
+1. Additieve polygenie (continue variabelen)
+2. Drempel polygenie (discontinue variabelen)
+
+ 1. KWANTITATIEF MEETBARE EIGENSCHAPPEN DOOR
+ADDITIEVE POLYGENIE
+
+A
+a
+
+A
+AA
+aA
+
+a
+Aa
+aa
+
+Een bepaald gen komt voor onder twee vormen: allel A en allel a
+Allel frequenties gelijk: p=q=0.5
+Zo Hardy-Weinberg evenwicht genotypes: 1(AA)/2(Aa)/1(aa) (p²/2pq/q²)
+
+ 1. KWANTITATIEF MEETBARE EIGENSCHAPPEN DOOR
+ADDITIEVE POLYGENIE
+
+aantal
+
+aa
+
+Aa
+aA
+
+AA
+
+1
+
+2
+
+1
+
+A levert grotere bijdrage aan lichaamslengte dan a
+
+lengte
+
+  1. KWANTITATIEF MEETBARE EIGENSCHAPPEN DOOR
+ADDITIEVE POLYGENIE
+
+AB
+Ab
+aB
+ab
+
+AB
+AABB
+AAbB
+aABB
+aAbB
+
+Ab
+AABb
+Aabb
+aABb
+aAbb
+
+aB
+AaBB
+AabB
+aaBB
+aabB
+
+ab
+AaBb
+Aabb
+aaBb
+aabb
+
+A en B: grotere bijdrage aan lichaamslengte dan a en b
++
++
+-
+
+ 1. KWANTITATIEF MEETBARE EIGENSCHAPPEN DOOR
+ADDITIEVE POLYGENIE
+aantal
+
+aabb
+
+AABB
+lengte
+
+ alle mogelijke GENETISCHE
+en OMGEVINGS factoren
+
+Voorbeeld: huidskleur, lengte, IQ
+
+ CONTINUE VARIABELEN
+
+Cut-off waarden voor afwijkend
+
+ Complexe kenmerken en aandoeningen
+
+1. Additieve polygenie (continue variabelen)
+2. Drempel polygenie (discontinue variabelen)
+
+   2. DREMPELPOLYGENIE: DISCONTINUE VARIABELEN: JA/NEE
+NORMALE VERDELING VAN VATBAARHEID
+
+Aantal individuen
+
+normaal
+
+Prevalentie in de bevolking
+
+Aantal individuen
+
+Aantal defecte allelen
+
+Verhoogd
+risico
+Prevalentie in familieleden van
+de aangetaste persoon
+
+ monogeen
+
+multifactorieel
+
+ Single-Nucleotide Polymorphisms (SNP)
+één van de belangrijkste vormen van variatie
+
+Deze SNPs (varianten) komen ook voor binnen de coderende
+sequenties van genen, en hebben soms een positieve
+of negatieve invloed op de werking van het overeenkomstige eiwit
+
+ SNP variant
+C
+
+Gen X individu 1
+
+neutraal
+T
+
+Gen X individu 2
+
+ongunstig
+G
+gunstig
+
+Gen X individu 3
+
+ SNP geassocieerd met de aandoening
+
+ Identificatie van Genen betrokken in
+Complexe Quantitatieve Aandoeningen/Kenmerken
+
+ • Gen betrokken bij een complexe aandoening (poly-gen model) noemt men
+een Quantitative Trait Locus (QTL)
+• QTL worden overgeërfd volgens de wetten van Mendel
+• In een poly-gen model hebben ze elk een relatief klein effect (hoe meer
+genen dat het kenmerk bepalen hoe kleiner het individueel aandeel)
+
+Hoe vinden we deze QTL ?
+
+ Hoe vinden we deze QTL ?
+
+1. Dier modellen:
+zowel genetische manipulatie van het proefdier, als manipulatie
+van de omgeving
+2. Whole Genome Association Studies (WGAS):
+zoeken van QTLs geassocieerd aan het fenotype
+
+ 1. Dier modellen: zowel genetische manipulatie als
+manipulatie van de omgeving
+
+voorbeelden: huidskleur, gedrag ..
+
+ Huidskleur
+• “golden” gen (SLC24A5 bij de
+mens) codeert voor een eiwit
+betrokken in de vorming en
+funktie van melanocyten
+(pigmentcellen).
+
+wt
+
+gol
+
+• Mutaties in “golden” gen
+resulteert in meer blekere en
+transparante visjes.
+
+wt
+
+Lamason et al., (2005) Science 310:1782-1786
+
+gol
+
+ SLC24A5 bij de mens ?
+•Oorspronkelijke allel is sterk
+geconserveerd in Afrika, OostAzie.
+•Variante allel is gefixeerd in
+Europese bevolkingsgroepen met
+lichter huidtype
+•Study suggest that SLC24A5
+explains 25-38% of the
+European-African difference in
+skin melanin index.
+
+Lamason et al., (2005) Science 310, 1782 -1786
+
+ huid en oogkleur
+variatie
+SNP
+
+mutatie
+
+albinisme
+
+ Omgeving ?
+
+ Gedrag
+• Verschillende loci geidentificeerd die bijdragen aan gedrag en
+afwijkend gedrag
+– Bipolar disorder, Schizophrenie
+?
+– Autisme
+– ADD and ADHD
+– …
+
+?
+
+?
+
+• Studies in honden:
+– “Rage” in English Spring Spaniels
+– Obsessief Compulsief Disorder in Bull Terriers
+– Ander natuurlijk gedrag zoals hoeden, prooi drijven, leren, etc.
+
+ 2. Whole Genome Association Studies
+
+Ondervragen van duizenden tot
+miljoenen variabele punten in
+ons genoom: SNP
+Dit in een grote groep van personen:
+Aandoening versus Controles
+Identificatie van SNPs / QTL die een
+aandeel hebben in de betreffende
+complexe ziekte
+
+ Technologie is beschikbaar: SNP arrays
+Affymetrix
+
+Illumina
+
+ SNP Chip Image
+
+ vb. Associatie van SNP rs2236639 met ontstaan van
+ziekte van Parkinson (Fictief !)
+Personen > 60
+jaar
+Variant Allele
+(A)
+
+ziek
+
+geen ziekte
+ontwikkeld
+
+Present
+
+10
+
+70
+
+80
+
+Absent
+
+40
+
+880
+
+920
+
+Total
+
+50
+
+950
+
+1,000
+
+Risico bij drager A
+Relatieve Risico =
+
+Risico bij drager
+normale allel
+
+10/80
+=
+
+40/920
+
+totaal
+
+12.5%
+=
+
+4.3%
+
+= 2.9
+
+ Pijnpunten
+- Grote cohorten nodig om voldoende statische power
+- Vaak niet repliceerbaar in andere populaties/studies
+- Vaak varianten met zeer klein effect : klinisch nut ?
+
+“Each discovery of a biologically relevant locus is a potential first
+step in a translational journey, and some journeys will be shorter
+than others. With a more complete collection of relevant genes and
+pathways, we can hope to shorten the interval between biologic
+knowledge and improved patient care.”
+
+ VOORBEELDEN VAN GEKENDE QTL BIJ
+MULTIFACTORIELE
+AANDOENINGEN
+
+ neurale buis defecten
+
+ Voorkomen van neurale buis defecten
+
+ FOLIUMZUUR METABOLISME
+MTHFR (methyleen tetrahydrofoliumzuur reductase) = enzyme
+2 allelen :
+* C-allel : normale aktiviteit
+* T-allel : verminderde aktiviteit
+= op positie 677 van het gen is een cytosine
+vervangen door een thymine (Ala->Val)
+3 mogelijke genotypes :
+CC
+CT
+TT = verlaagde concentraties foliumzuur
+verhoogde concentraties homocysteine
+
+ FOLIUMZUUR METABOLISME
+
+TT
+
+CT
+
+CC
+
+NBD
+(n = 271)
+
+52
+
+119
+
+100
+
+Controle
+
+19
+
+109
+(n = 242)
+
+114
+
+ Is dit polymorfisme de oorzaak van NBD?
+1. 8% van de bevolking is TT incidentie NBD = 1/1000
+2. Dus enkel een risicofactor :
+Relatief risico op NBD bij TT = 52/71 : 219/442 = 1,5 x
+3. Niet enige factor : 37% van NBD : heeft CC genotype
+
+Het T-allel van MTHFR is geassocieerd met NBD
+
+ Ernst Covid infectie
+Welke genetische factoren spelen een rol in de ernst van
+een COVID-19 infectie?
+
+ Associatie studie
+2244 COVID-19
+patiënten (ICU)
+
+normale Britse bevolking
+
+Cases
+
+Controles
+
+Allerlei klinische
+kenmerken
+
+Allerlei klinische
+kenmerken
+
+zijn er verschillen
+in frequentie van bepaalde kenmerken ?
+
+kritisch zieke mensen
+hebben vaker
+-Obesitas
+-Suikerziekte
+-Oudere leeftijd
+-Ziekten van hart- en bloedvaten
+
+= risico-factoren voor ernstige ziekte
+vb : overgewicht :
+- 40% meer kans op hospitalisatie
+
+  Associatie studie
+2244 COVID-19
+patiënten (ICU)
+
+normale Britse bevolking
+
+Cases
+
+Controles
+
+Genoom-wijde
+SNP bepaling
+(730,059 SNPs)
+
+zijn er verschillen
+in frequentie van bepaalde SNPs?
+
+Genoom-wijde
+SNP bepaling
+(730,059 SNPs)
+
+ Significantie
+
+Chromosomale positie SNP’s
+
+Chromosoom 3 :
+- meest significante SNP in gen LZTFL1
+
+-Normale allel C – risico allel T
+-Frequentie T = 8% van alle allelen
+-Grootte van risico : iemand die T-allel draagt: méér dan 2 keer zoveel kans
+om ernstig ziek te zijn (Odds ratio = relatieve risico = 2,14)
+
+ Geografische verschillen in frequentie van (een andere) SNP in deze regio
+Europa : allel T = 8%
+Zuid-Azië : 25%
+Afrika : afwezig
+
+this genetic region is almost identical to that of a 50,000-year old
+Neanderthal from southern Europe. Further analysis has shown that,
+through interbreeding, the variants came over from the Neanderthals
+to the ancestors of modern humans about 60,000 years ago, when the
+two groups met,
+
+ Migratie van Homo sapiens (out of Africa) - +/ 50,000 yrs geleden
+
+Homo neanderthalensis : 400,000 – 40,000 yrs geleden
+
+mating
+
+ HUMAAN GENOOM (Eurasia) 1-2%
+Neanderthaler
+sequenties
+
+NEANDERTHALER GENOOM
+
+vertegenwoordigen 20%
+van het Neanderthaler genoom
+
+ Darwiniaanse evolutie
+1.“MUTATIE”
+* Europese homo sapiens verwerft nieuwe genetische varianten
+van de Neanderthaler
+2. SELECTIE
+* Neanderthaler leefde hier al 400,000 jaar, en is dus goed aan
+de omgeving aangepast (= klimaat, voeding, pathogenen,…)
+shortcut in de evolutie
+voordelige Neanderthaler genen werden weerhouden
+-bloedstolling
+-keratine (huid & haar)
+-immuniteit - onder andere weerstand tegen virussen
+
+ POLYMORFISME
+
+MUTATIE
+
+Bv:
+- Sikkel cel anemie
+- ziekte van Huntington
+- Achondroplasie
+-…
+
+Bv:
+-silent substituties
+-meeste CA-repeats
+-…
+
+“FUNCTIONEEL POLYMORFISME”
+* Gewijzigde genfunctie maar fenotypisch effect
+is afhankelijk van bijkomende genetische
+en omgevingsfactoren.
+Bv :
+- MTHFR C/T allel
+
+ Hoe wordt bij een multifactoriële aandoening
+de herhalingskans berekend ?
+
+ A. ERNST VAN DE AANDOENING
+
+?
+lip/verhemeltespleet
+
+3-5%
+
+unilaterale lipspleet
+
+2.5%
+
+bilaterale lip+verhemelte
+
+6%
+
+ normaal
+
+Verhoogd
+risico
+
+ B. AANTAL AANGEDANE VERWANTEN
+
+twee eerstegraadsverwanten
+
+?
+
+?
+
+10%
+
+10%
+
+ C. GRAAD VAN VERWANTSCHAP.
+* 2de graad
+
+* 3de graad
+
+0.6%
+
+* 4de graad
+= populatierisico (0.1%)
+
+0.3%
+
+ D. GESLACHT VAN AANGEDANE PERSOON
+
+?
+
+>
+
+?
+
+incidentie : jongens > meisjes
+herhalingsrisico hoger
+* als meisje aandoening heeft
+* voor jongens dan meisjes
+
+ E. POPULATIE FREQUENTIE
+Genetische kenmerken
+Genetische ziekten
+
+geografie
+
+ genetische variatie (spontaan)
+
+adaptieve evolutie
+
+niet adaptieve evolutie
+
+ 

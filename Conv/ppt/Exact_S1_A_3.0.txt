@@ -1,0 +1,1580 @@
+De Chemische Binding
+
+ De ionaire binding
+Na
+
+of
+
+1s2 2s2 2p6 3s1
+
+Na+
+
+of
+
+1s2 2s2 2p6
+
+OCTETCONFIGURATIE
+
+Cl
+
+of 1s2 2s2 2p6 3s2 3p5
+
+Cl-
+
+of 1s2 2s2 2p6 3s2 3p6
+OCTETCONFIGURATIE
+
+ +
+
+r
+
+Eaantr
+
+q2
+ 
+r
+
+2 maal Eaantr voor 2 afzonderlijke moleculen
+
+4 maal Eaantr voor ionengroep Na2Cl2
+maar ook 2 maal afstoting
+
+Eafst
+
+
+
+q2
+2r
+
+ E
+
+ 4 E aantr
+
+ 2 E afst
+
+q2
+  4 2
+r
+
+
+
+
+
+q2
+  2,586
+r
+
+= 0,586 q2/r stabieler is dan 2 afzonderlijke moleculen
+
+Na+
+
+Cl-
+
+ Na+
+
+Na+
+
+Na+
+
+Cl-
+
+Cl-
+
+Cl-
+
+ dichtste bolstapeling
+Cs+
+
+Cl-
+
+ Na+(g) +
+
+e- + Cl(g)
+
+Helek.aff. = -349 kJ
+Hionisatie = 496 kJ
+
+Na+(g)
+
+Na(g)
+
++
+
+Cl(g)
+
+Na(g)
+
++
+
+½ Cl2 (g)
+
+Na(v)
+
++
+
+½ Cl2 (g)
+
++
+
+Cl-(g)
+
+Hdissociatie = 121,5 kJ
+Hsublimatie = 108 kJ
+
+Hrooster = -788 kJ
+
+H°vorming = -411 kJ
+
+NaCl(v)
+
+ De covalente binding
+H
+
+H
+
+H
+
+H
+
+potentiële energie
+
+afstoting
+
+E afstoting
+
+1
+ 6
+r
+afstand tussen de atomen
+
+afstand van laagste energie
+BINDINGSAFSTAND
+
+aantrekking
+
+E aantrekking
+
+ 
+
+1
+r
+
+resultaat
+
+ Elektronen in moleculen komen voor als elektronenparen
+In moleculen heeft elk atoom 8 elektronen (2 voor H) op de
+buitenste schil (valentie-elektronen)
+
+H
+
+H
+
+H
+
+C
+
+C
+
+H
+
+H
+
+H
+
+H
+
+F
+
+F
+
+H
+
+F
+
+H
+H
+
+H
+
+N
+
+N
+H
+
+H
+
+H
+
+F
+
+ het carbonaation CO32-
+
+voor C : 4
+
+TEL het aantal valentie-elektronen
+
+voor O : 3 x 6 = 18
+
+TOTAAL = 24
+
+2 extra’s
+om elk atoom 8 elektronen te geven (octetstructuur), zijn 32 elektronen nodig
+er zullen dus 32 – 24 = 8 elektronen moeten gedeeld worden (4 BINDINGEN)
+er blijven nog 24 - 8 elektronen over
+
+REST = 16
+
+ze worden verdeeld als elektronenparen
+
+8 PAAR
+
+ELK ATOOM VERKRIJGT OCTETSTRUCTUUR
+GEEN ONGEPAARDE ELEKTRONEN ACHTERLATEN
+de FORMELE LADING bij elk atoom
+aantal valentie-elektronen bij elk atoom
+MIN aantal niet gedeelde elektronen
+MIN de helft van aantal gedeelde elektronen
+
+O
+δ = -1
+
+O
+C
+
+δ=0
+
+δ=0
+
+O
+δ = -1
+
+ Elektronenpaarbinding volgens de golfmechanica
+H2
+
+een gebied met gemeenschappelijke elektronendenstiteit tussen de kernen
+
+ sH  sH
+F2
+
+HF
+
+ pF 
+
+pF
+
+ sH  pF
+
+ H2O
+
+NH3
+
+Z
+
+Z
+
+Y
+
+X
+
+Y
+
+X
+
+ O2
+z
+
+z
+
+ pO 
+
+pO
+
+z
+
+z
+
+ pO 
+
+pO
+
+2 gebieden van gemeenschappelijke elektronendensiteit
+boven en onder de bindingsas
+
+N2
+
+Z
+
+ De datieve binding
+-
+
+nitrietion (NO2 )
+-
+
+-1
+O
+
+N
+
+O
+
+?
+
+nitraation (NO3-)
+Het bijkomende O-atoom
+
+?
+datieve σ
+
+Het centrale N-atoom
+σ
+-1
+O
+
+N
+O
+
+O
+
+-
+
+σ en π
+O
+
+O
+
+ -1
+O
+
+oxidatietrap of valentie
+
+N
+
+-
+
+O
+
+O
+
+- II
+
++ II
+
+O
+
+O
++ II + I
+
+N
+
+- II
+
+formele lading (-1)
+
+N heeft kleinste elektronegativiteit
+O heeft grootste elektronegativiteit
+
++V
+
+O
+
+-I -I
+
+- II
+
+ RUIMTELIJKE STRUCTUREN
+
+CO2
+
+valentieschil-elektronenpaar repulsie
+(VSEPR)
+
+
+
+
+O
+
+dat
+
+C
+
+180°
+
+O
+
+ _
+
+NO3
+
+
+
+-1
+
+
+
+dat
+
+δ-1
+O
+
+120°
+
+N
+O
+
+O
+
+-
+
+ 
+Cl
+
+SnCl2
+
+
+
+< 120°
+Sn
+
+ongebruikt
+vrij paar
+
+Cl
+
+een ongebruikt vij elektronenpaar eist ook zijn ruimtelijke plaats op
+
+
+
+
+O
+< 120°
+
+SO2
+dat
+ongebruikt
+vrij paar
+
+S
+O
+
+ PO43
+
+O
+
+-1
+
+
+
+-1
+
+
+
+
+
+ O
+
+-
+
+P
+O
+
+-1
+
+dat
+
+O
+
+
+
+-
+
+ SO42-
+
+O
+-1
+
+
+
+-
+
+ O
+-1
+
+O
+
+dat
+
+dat
+
+S
+
+- O
+
+
+ NH3
+
+H
+
+N
+H
+
+ongebruikt
+vrij paar
+
+107 °
+H
+
+ H 2O
+
+H
+105 °
+ongebruikte
+vrije paren
+
+H
+
+O
+
+ BeF2
+
+Hybridisatie
+
+sp-hybridisatie
+
+bij het hybridiseren van een s- en een p-orbitaal worden twee
+nieuwe sp-hybrideorbitalen verkregen met gelijke energieinhoud en onderling gericht volgens hoeken van 180°
+
+180 °
+
+F
+x
+
+F
+
+ BF3
+
+bij het hybridiseren van een s- en 2 p-orbitalen
+worden drie nieuwe sp2-hybrideorbitalen verkregen
+met gelijke energie-inhoud en gericht in een vlak
+volgens hoeken van 120°
+
+F
+120 °
+
+F
+
+sp2-hybridisatie
+
+F
+
+ CCl4
+
+z
+
+z
+z
+
+y
+
+x
+z
+Cl
+
+109 ° 28'
+
+z
+
+Cl
+
+z
+
+Cl
+
+sp3-hybridisatie
+Cl
+x
+bij het hybridiseren van een s- en 3 p-orbitalen worden vier
+nieuwe sp3-hybrideorbitalen verkregen met gelijke energieinhoud en gericht volgens de hoekpunten van een tetraeder
+
+y
+
+ PF5
+z
+
+z
+z
+
+z
+
+y
+
+F
+
+F
+
+F
+
+F
+
+x
+
+F
+
+z
+z
+
+90 °
+
+120 °
+
+z
+
+z
+
+bij het hybridiseren van een s-, 3 p- en
+1d-orbitaal worden vijf nieuwe sp3dhybrideorbitalen verkregen met gelijke
+energie-inhoud en gericht volgens de
+hoekpunten van een trigonale bipiramide
+
+x
+
+y
+
+ SF4
+
+F
+
+S
+
+F
+
+F
+EP
+
+F
+
+F
+
+F
+
+F
+
+F
+
+ClF3
+
+F
+
+Cl
+
+EP
+
+EP
+
+F
+
+F
+
+F
+
+F
+
+F
+
+ XeF2
+
+F
+
+Xe
+EP
+
+EP EP F
+
+F
+
+F
+
+ SF6
+
+F
+
+F
+
+F
+
+F
+
+F
+
+F
+
+F
+
+z
+
+F
+
+z
+
+F
+
+90 °
+
+z
+
+S
+
+x
+
+y
+
+F
+
+F
+F
+
+ BrF5
+
+F
+F
+
+F
+
+Br
+F
+
+F
+EP
+
+F
+
+F
+
+F
+
+F
+
+F
+
+XeF4
+
+F
+
+F
+
+Xe
+F
+EP
+
+EP F
+
+F
+
+F
+
+F
+
+F
+
+ DIPOOLMOMENT
++
+
+H
+
+H
+
+-
+
+H
+
+Cl
+d
+
+bindend elektronenpaar
+in het midden
+
+bindend elektronenpaar verschoven
+naar meest elektronegatief element
+
++
+
+μgemeten = 0,34 10-29 Cm
+
+-
+
+H
+
+Cl
+d
+
+
+0,34 10 29
+100 
+100  9,7 %
+ 29
+ max
+3,37 10
+
+2,11 10-10 m
+3,37 10-29 Cm
+
+ Δ EN
+
+%
+ionenkarakter
+
+∆ EN
+
+%
+ionenkarakter
+
+100
+
+0,2
+
+1
+
+1,8
+
+55
+
+0,4
+
+4
+
+2,0
+
+63
+
+80
+
+0,6
+
+9
+
+2,2
+
+70
+
+60
+
+0,8
+
+15
+
+2,4
+
+76
+
+40
+
+1,0
+
+22
+
+2,6
+
+82
+
+20
+
+1,2
+
+30
+
+2,8
+
+88
+
+0
+
+1,4
+
+39
+
+3,0
+
+89
+
+1,6
+
+47
+
+0,2
+
+1
+
+1,8
+
+2,6
+
+O
+
+O
+
+C
+
+O
+
+S
+O
+
+O
+
+H
+
+H
+
+H
+
+O
+H
+
+N
+
+H
+
+ KOOLSTOFVERBINDINGEN
+sp3
+
+sp3
+
+σ
+H
+
+ethaan
+
+H
+
+H
+
+H
+
+H
+
+H
+
+ KOOLSTOFVERBINDINGEN
+sp2
+π
+
+H
+
+σ
+
+H
+
+H
+
+H
+
+H
+
+H
+
+H
+
+H
+
+H
+
+H
+
+H
+
+H
+
+etheen
+
+ KOOLSTOFVERBINDINGEN
+
+π
+π
+H
+
+H
+
+σ
+
+H
+
+CO2
+
+H
+
+H
+
+H
+
+π
+
+π
+
+σ
+
+σ
+
+ethyn
+
+ benzeen
+
+H
+H
+
+H
+
+H
+
+H
+H
+
+ H
+
+H
+
+H
+
+H
+
+H
+
+H
+
+H
+
+H
+
+H
+
+H
+
+H
+
+H
+
+H
+
+H
+
+H
+
+H
+
+H
+
+180 °
+
+H
+
+ F
+
+F
+
+MAAR
+
+F
+
+F
+
+benzeen is relatief weinig reactief
+alle bindingsafstanden tussen de C-atomen zijn gelijk
+er bestaat slechts 1 soort digesubstitueerd benzeenderivaat
+
+RESONANTIE
+
+ H
+
+H
+
+H
+
+H
+
+H
+
+H
+
+o
+
+ O
+S
+
+O
+
+O
+
+S
+
+S
+
+O
+
+O
+
+3-
+
+-1
+
+-1
+
+-1
+O
+
+P
+
+3-
+
+O
+
+O
+-1
+
+O
+
+
+
+-1
+
+O
+
+O
+
+P
+O
+
+O
+3-
+
+O
+-1
+
+O
+
+
+O
+-1
+
+
+
+-1
+
+O
+
+P
+O
+
+3-
+
+-1
+
+O
+-1
+
+-1
+O
+
+P
+O
+
+O
+-1
+
+ MOLECULAIRE ORBITALEN
+z
+
+z
+
+σ1s*
+
+1s1
+
+1s1
+at.orb. H
+
+σ1s
+
+mol.orb. H2
+
+at.orb. H
+
+ σ*1s
+
+1s2
+
+1s2
+σ1s
+
+at.orb. He
+
+at.orb. He
+mol.orb. He2
+
+z
+
+z
+
+ π*2px en π*2py
+
+2px
+
+2py
+
+2px
+
+2py
+
+π2px en π2py
+AO’s
+
+MO’s
+
+AO’s
+
+ σ2pz*
+π2px*
+
+π2py*
+
+2p5
+
+2p5
+π2px
+
+π2py
+
+σ2pz
+
+F2
+
+σ2s*
+2s2
+
+BO 
+
+ bindende e
+
+
+
+2s2
+σ2s
+
+ anti  bindende e
+2
+
+σ1s*
+BO = 1
+
+1s2
+
+1s2
+σ1s
+
+AO’s F
+
+MO’s F2
+
+AO’s F
+
+ σ2pz*
+π2px*
+
+N2
+
+π2py*
+2p3
+
+2p3
+π2px
+
+π2py
+
+σ2pz
+
+σ2s*
+2s2
+
+2s2
+σ2s
+
+σ1s*
+1s2
+
+1s2
+BO = 3
+
+σ1s
+AO’s N
+
+MO’s N2
+
+AO’s N
+
+ σ2pz*
+
+O2
+
+π2px*
+
+π2py*
+
+2p5
+
+2p5
+π2px
+
+π2py
+
+σ2pz
+
+BO = 2
+
+σ2s*
+2s2
+
+2s2
+σ2s
+
+2 ongepaarde elektronen
+paramagnetische molecule
+
+σ1s*
+
+1s2
+
+1s2
+σ1s
+
+AO’s O
+
+MO’s O2
+
+AO’s O
+
+ σ2pz*
+π2px* π2py*
+
+CO
+2p2
+
+σ 2pz
+π 2px π 2py
+
+2p4
+
+σ2s*
+
+2s2
+
+2s2
+
+σ2s
+
+N2
+
+σ1s*
+
+1s2
+
+1s2
+
+σ 1s
+AO’s C
+
+MO’s CO
+
+AO’s O
+
+ GEDELOCALISEERDE MOLECUULORBITALEN
+H
+
+H
+
+H
+
+H
+
+H
+
+H
+
+H
+
+H
+
+H
+
+H
+
+H
+
+H
+
+H
+
+H
+
+H
+
+H
+
+H
+
+H
+
+ DE BINDING IN METALEN
+Na
+
+1s2 2s2 2p6 3s1
+
+grotere bindingsafstand
+kortere bindingsafstand
+
+AO’s
+MO’s
+
+molecuulorbitaalband
+bindingsafstand
+
+ LEEG
+3p0
+
+LEEG
+
+20 maal 1 elektron
+20 e
+
+3s1
+20 maal 6 elektronen
+
+120 e
+
+2p6
+20 maal 2 elektronen
+
+40 e
+
+2s2
+
+20 maal 2 elektronen
+40 e
+
+1s2
+bindingsafstand
+afstand van nadering
+
+ LEEG
+LEEG
+
+conductieband
+
+VOL
+
+valentieband
+120 e
+
+3s1
+
+2p6
+
+40 e
+
+GELEIDER
+
+3p0
+
+2s2
+
+ISOLATOR
+
+40 e
+
+1s2
+bindingsafstand
+afstand van nadering
+
+ CB
+
+CB
+
+VB
+
+ΔE klein
+
+VB
+
+ΔE groot
+
+korte bindingsafstand
+
+grotere bindingsafstand
+
+ LEEG
+CB van Si
+VB van P
+
+ΔE >>>
+
+ΔE <
+
+BEZET
+
+ΔE <
+
+LEEG
+CB van B
+VB van Si
+BEZET
+
+halfgeleider
+p-type
+acceptortype
+
+isolator Si
+
+halfgeleider
+n-type
+donortype
+
+ intermoleculaire bindingen
+
++
+
+H
+
+F-
+
+δ+
+
+H
+
++
+
+F
+
+δ-
+
+F
+
+I
+
+F
+F
+
+K+
+
+HF2-
+
+H
+
+F
+
+-
+
+ H
+H O
+H O
+H
+
+H O
+H
+
+ 

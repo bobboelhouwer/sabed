@@ -1,0 +1,566 @@
+Les 9: Impuls
+1. Impuls en de relatie met kracht
+2. Behoud van impuls
+3. Botsingen en stoot
+4. Behoud van energie en impuls bij botsingen
+5. Elastische botsingen in één dimensie
+6. Niet-elastische botsingen
+7. Botsingen in twee of drie dimensies
+8. Massamiddelpunt
+9. Massamiddelpunt en translationele beweging
+10. Systemen met variabele massa; raketaandrijving
+Keigoede les
+Dynamica en energie, les 9
+
+1
+
+ Herhaling
+
+houd van mechanische energie in een conservatief sys
+
+E1 = K1 + U1 = K2 +
+U2 = E2
+ΔK + ΔU
+=0
+Behoud van energie in het algemeen
+ΔK + ΔU + (veranderingen van alle vormen
+van energie )= 0
+Dynamica en energie, les 9
+
+2
+
+ Dynamica en energie, les 9
+
+3
+
+ Dynamica en energie, les 9
+
+4
+
+ 8.1 Impuls en de relatie met kracht
+Definitie van impuls p
+p = mv
+
+m de impuls van een voorwerp te veranderen, is een kracht
+Dynamica en energie, les 9
+
+5
+
+ 8.1 Impuls en de relatie met kracht
+De snelheid van de verandering van de
+impuls van een voorwerp is gelijk aan de
+nettokracht die erop uitgeoefend wordt.
+
+d𝐩
+∑ 𝐅 = dt
+
+Stel dat m=constante dan
+
+=m
+a
+Dynamica en energie, les 9
+
+6
+
+ 8.1 Impuls en de relatie met kracht
+
+ave A: zeilen op zonlicht
+http://deredactie.be/cm/vrtnieuws/wetenschap/1.2627757
+
+https://videolab.avnet.kuleuven.be/video/?id=99f49f4938cabd140a05d
+7554720a78f&height=390&width=640&autoplay=false
+Dynamica en energie, les 9
+
+7
+
+ 8.1 Impuls en de relatie met kracht
+
+ave A: zeilen op zonlicht
+Moet het materiaal, waaruit men het
+zonnescherm construeert, sterk
+absorberend of sterk reflecterend zijn
+om een maximale kracht van het
+zonlicht te kunnen opwekken?
+
+Dynamica en energie, les 9
+
+8
+
+ Dynamica en energie, les 9
+
+9
+
+ 8.1 Impuls en de relatie met kracht
+
+ave A: zeilen op zonlicht
+
+absorberend
+
+p1
+Δpx = p2x – p1x = -p1x
+
+reflecterend
+
+p1
+p2x = -p1x
+p2
+Dynamica en energie, les 9
+
+Δpx = p2x – p1x = -2p1x
+
+ 8.1 Impuls en de relatie met kracht
+Voorbeeld 8.2
+
+Gegeven:
+1,5 kg water stroomt per s door de sla
+snelheid water = 20 m/s (horizontaal)
+Water komt tot stilstand op de wagen
+Verwaarloos de zwaartekracht dankzij
+korte tijdspanne van de botsing.
+Gevraagd:
+Fdoor het water op de auto = ?
+Dynamica en energie, les 9
+
+11
+
+ 8.1 Impuls en de relatie met kracht
+Voorbeeld 8.1
+
+Oplossing
+Fdoor het water op de auto = - Fdoor de auto op het wa
+Fdoor de auto op het water =
+
+Pwater begin = m v = 1,5 kg 20 m/s = 30 kg m
+Pwater eind = 0 kg m/s
+Fdoor het water op de auto = - () = 30 N
+x
+Dynamica en energie, les 9
+
+12
+
+ Dynamica en energie, les 9
+
+13
+
+ 8.1 Impuls en de relatie met kracht
+Voorbeeld 8.1: als het water terugspettert
+
+Pwater begin = m v = 1,5 kg 20 m/s = 30 kgm/s
+Pwater eind = x < 0
+ Fdoor het water op de auto = - () > 30 N
+
+x
+Dynamica en energie, les 9
+
+14
+
+ 8.2 Behoud van impuls
+
+oud van impuls (indien geen netto uitwendige krachte
+
+mA vA + mB vB = mA v’A + mB v’B
+
+Dynamica en energie, les 9
+
+15
+
+ 8.2 Behoud van impuls
+
+ewijs via de bewegingswetten van Newton
+
+Fdoor A op B = F =
+Fdoor B op A = F’ = -F =
+0=F-F
+d ( 𝐩A + 𝐩B )
+0=
+dt
+= constant
+Dynamica en energie, les 9
+
+16
+
+ 8.2 Behoud van impuls
+Voorbeeld 8.3
+
+x
+
+Gegeven:
+mwagon = 10000 kg
+vA = 24 m/s
+vB = 0 m/s
+De wagons haken aan elkaar
+vast na de botsing.
+Wrijving verwaarlozen dankzij
+korte tijdspanne van de botsin
+Gevraagd:
+v’A = v’B = v’ = ?
+
+Dynamica en energie, les 9
+
+17
+
+ 8.2 Behoud van impuls
+Voorbeeld 8.3
+Oplossing:
+pbegin = peind
+mA vA + mB vB = (mA + mB)
+v’ = vA /2 = 12 m/s
+x
+
+Dynamica en energie, les 9
+
+18
+
+ Dynamica en energie, les 9
+
+19
+
+ 8.2 Behoud van impuls
+
+Vergroten van de massa van wagon B?
+Oplossing:
+pbegin = peind
+mA vA = (mA + mB) v’
+
+x
+
+ v’ wordt kleiner want
+mA vA = constant
+
+Dynamica en energie, les 9
+
+20
+
+ 8.2 Behoud van impuls
+Opgave C
+Iemand met een massa van 50kg rent met een
+snelheid van 2 m/s een steiger af en landt in een
+roeiboot met een massa van 150kg.
+Met welke snelheid beweegt de roeiboot weg van de
+kant?
+
+Dynamica en energie, les 9
+
+21
+
+ Dynamica en energie, les 9
+
+22
+
+ 8.2 Behoud van impuls
+Oplossing Opgave C
+pbegin = peind
+mpersoon vpersoon + mboot vboot = msamen vsamen
+vsamen = (mpersoon vpersoon)/msamen
+vsamen = 100/200 = 0,5 m/s
+
+Dynamica en energie, les 9
+
+23
+
+ 8.2 Behoud van impuls
+Opmerkingen
+1. Wat als er uitwendige krachten
+aanwezig zijn?
+Impulsen meten onmiddellijk voor en na de
+botsing!
+De kracht bij de botsing is op dat moment
+heel groot.
+Vb Kracht bij slag op tennisbal = enkele
+d𝐏
+honderden N 𝐅
+= met P = ∑ p
+
+∑
+
+𝐮𝐢𝐭𝐰
+
+dt
+
+i
+
+2. Wat als er veel voorwerpen botsen?
+Dynamica en energie, les 9
+
+24
+
+ 8.2 Behoud van impuls
+Conceptvoorbeeld
+Een lege slede glijdt wrijvingsloos over ijs.
+Suzanne valt vanuit een boom naar beneden en
+belandt op de slede.
+Zal de slede versnellen, vertragen of met
+dezelfde snelheid blijven bewegen?
+
+Dynamica en energie, les 9
+
+25
+
+ Dynamica en energie, les 9
+
+26
+
+ 8.2 Behoud van impuls
+Conceptvoorbeeld
+Suzanne valt vanuit een boom naar beneden en
+belandt op de slede.
+pbegin = peind
+mpersoon vpersoon + mslede vslede = msamen vsamen
+vsamen = (mslede vslede)/msamen
+vsamen < vslede
+Dynamica en energie, les 9
+
+27
+
+ 8.2 Behoud van impuls
+Conceptvoorbeeld
+Een lege slede glijdt wrijvingsloos over ijs.
+Suzanne valt zijdelings van de slede af.
+Zal de slede versnellen, vertragen of met
+dezelfde snelheid blijven bewegen?
+
+Dynamica en energie, les 9
+
+28
+
+ Dynamica en energie, les 9
+
+29
+
+ 8.2 Behoud van impuls
+Conceptvoorbeeld
+Suzanne valt zijdelings van de slede af.
+pbegin = peinde
+msamen vsamen = mpersoon vpersoon + mslede vslede
+vpersoon na de val = vsamen want geen kracht op persoon
+vslede = ((msamen - mpersoon )/mslede ) vsamen
+vsamen = vslede
+Dynamica en energie, les 9
+
+30
+
+ Dynamica en energie, les 9
+
+31
+
+ 8.2 Behoud van impuls
+Antwoord
+pbegin = peinde
+(mstenen + mwagon) vsamen = mstenen vstenen + mwagon vwagon
+vwagon = (msamen vsamen - mstenen vstenen ) / mwagon
+negatief
+vwagon > vsamen
+
+x
+
+Dynamica en energie, les 9
+
+32
+
+ Dynamica en energie, les 9
+
+33
+
+ 8.2 Behoud van impuls
+Antwoord
+pbegin = peinde
+(mstenen + mwagon) vsamen = mstenen vsamen + mwagon vwagon
+vwagon = (msamen - mstenen )/mwagon ) vsamen
+vwagon = vsamen
+
+x
+
+Dynamica en energie, les 9
+
+34
+
+ 8.4 Behoud van energie en impuls
+bij botsingen
+Elastische botsing
+
+= botsing waarbij de totale kinetische energie behouden blij
+
+Niet-elastische botsing
+= botsing waarbij een deel van de energie omgezet wordt,
+bijvoorbeeld in warmte.
+Merk op: de twee ballen laten elkaar na de botsing terug los
+Dynamica en energie, les 9
+
+37
+
+ 8.4 Behoud van energie en impuls
+bij botsingen
+Elastische botsing
+
+= botsing waarbij de totale kinetische energie behouden blij
+KA + KB = K’A + K’B
+Niet-elastische botsing
+= botsing waarbij een deel van de energie omgezet wordt,
+bijvoorbeeld in warmte.
+
+KA + KB = K’A + K’B + thermische en andere vormen van ener
+Dynamica en energie, les 9
+
+38
+
+ 8.4 Behoud van energie en impuls
+bij botsingen
+Elastische botsing
+
+= botsing waarbij de totale kinetische energie behouden blij
+
+Niet-elastische botsing
+= botsing waarbij een deel van de energie omgezet wordt,
+bijvoorbeeld in warmte.
+
+Dynamica en energie, les 9
+
+39
+
+ 8.4 Behoud van energie en impuls
+bij botsingen
+Elastische botsing
+
+= botsing waarbij de totale kinetische energie behouden blij
+
+Niet-elastische botsing
+= botsing waarbij een deel van de energie omgezet wordt,
+bijvoorbeeld in warmte.
+
+Dynamica en energie, les 9
+
+40
+
+ 8.5 Elastische botsingen in 1
+dimensie
+
+houd van energie en behoud van impuls toepassen
+
+mA vA + mB vB = mA v’A + mB v’B
+
+vA - vB = - (v’A - v’B)
+½ mA vA² + ½ mB vB² = ½ mA v’A² + ½ mB v’B²
+Dynamica en energie, les 9
+
+Relatieve snelheid =- (relatieve
+voor de botsing
+snelheid
+na de botsing)
+onafhankelijk van de massa’s!
+41
+
+ 8.5 Elastische botsingen in 1
+dimensie
+Voorbeeld 8.7
+
+Gegeven:
+Twee identieke biljartballen botsen via elastische botsing
+a) vA en vB verschillend van 0 m/s
+b) vB = 0m/s
+Gevraagd:
+v’A = ?
+v’B = ?
+Dynamica en energie, les 9
+
+42
+
+ 8.5 Elastische botsingen in 1
+dimensie
+Voorbeeld 8.7
+vA + vB = v’A + v’B
+
+vA = v’B
+
+vA - vB = - (v’A - v’B)
+
+vB = v’A
+
+vB = 0m/s = v’A
+
+Dynamica en energie, les 9
+
+43
+
+ 8.5 Elastische botsingen in 1
+dimensie
+Voorbeeld 8.8
+
+Gegeven:
+en zwaar bewegend voorwerp A botst elastisch in 1D tegen
+en licht stilstaand voorwerp B.
+
+Gevraagd:
+’A en v’B
+
+Dynamica en energie, les 9
+
+44
+
+ 8.5 Elastische botsingen in 1
+dimensie
+Voorbeeld 8.8
+mA (vA - v’A ) = mB v’B
+
+v’B = vA (2mA / (mA + mB))
+
+vA = - v’A + v’B
+
+v’A = vA ((mA-mB)/(mA+mB))
+
+v’B ≈ 2vA
+v’A ≈ vA
+Dynamica en energie, les 9
+
+45
+
+ 8.6 Niet-elastische botsingen
+
+Volkomen niet-elastische botsingen
+Voorbeelden
+
+Dynamica en energie, les 9
+
+46
+
+ 8.7 Botsingen in 2 of 3 dimensies
+
+Dynamica en energie, les 9
+
+47
+
+ 8.7 Botsingen in 2 of 3 dimensies
+
+mA vAx + mB vBx = mA v’Ax + mB v’Bx
+mA vAy+ mB vBy = mA v’Ay + mB v’By
+mA vAz+ mB vBz = mA v’Az + mB v’Bz
+
+Dynamica en energie, les 9
+
+48
+
+ 8.8 Massamiddelpunt
+Niet kennen
+
+Dynamica en energie, les 9
+
+49
+
+ 8.9 Massamiddelpunt en
+translationele beweging
+Niet kennen
+
+Dynamica en energie, les 9
+
+50
+
+ 8.10 Systemen met variabele
+massa; raketaandrijving
+Niet kennen
+v’B = vA (2mA / (mA + mB))
+v’A = vA ((mA-mB)/(mA+mB))
+
+Dynamica en energie, les 9
+
+51
+
+ 

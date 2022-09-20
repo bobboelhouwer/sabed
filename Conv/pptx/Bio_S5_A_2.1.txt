@@ -1,0 +1,348 @@
+Aanvullingen op
+Mendel
+
+ Onvolledige dominantie
+• heterozygoten hebben een
+fenotype dat het midden
+houdt van de fenotypes van
+de homozygoten
+• vb. kleur in sommige
+bloemen
+
+ Co-dominantie
+• genen met > 2 allelen die elk tot expressie komen in
+fenotype
+vb. bloedgroepen: allelen IA, IB en i (zowel IA als IB komen
+tot expressie)
+
+ Co-dominantie
+3 allelelen geven 4 mogelijke
+fenotypes
+
+ Co-dominantie
+7 allelelen geven 22 mogelijke
+fenotypes
+
+ Letale allelen
+• sommige allelen zijn lethaal
+in homozygote toestand
+maar veroorzaken in
+heterozygote toestand een
+afwijkend (maar leefbaar)
+fenotype
+vb. gele vacht bij muizen
+
+ Letale allelen
+• sommige allelen zijn lethaal
+in homozygote toestand
+maar veroorzaken in
+heterozygote toestand een
+afwijkend (maar leefbaar)
+fenotype
+vb. achondroplasie (mutatie
+in fibroblast growth factor
+receptor 3, dominant)
+
+ Sikkelcelanemie
+Mutatie is pleiotroop (beïnvloed meerdere kenmerken)
+• Anemie
+recessief
+• Rode bloedlichaampjes
+co-dominant
+
+ Penetrantie en expressiviteit
+• Penetrantie: in hoeveel gevallen
+komt het genotype tot expressie in
+het fenotype?
+• Expressiviteit: in welke mate komt
+het genotype tot expressie in het
+fenotype?
+
+BRCA1 herstelt breuken in DNA keten,
+mutatie verhoogt kans op borstkanker
+• niet elke drager van BRCA1 mutatie
+ontwikkelt borstkanker, ook andere
+factoren spelen rol (penetrantie)
+• niet elke drager van BRCA1 ontwikkelt
+even agressieve kanker (expressiviteit)
+
+ Interacties tussen genen en
+omgeving
+• omgeving heeft
+invloed op fenotype
+• invloed van omgeving
+kan verschillen tussen
+genotypes
+
+ Polygene overerving
+• kenmerken die door meer
+dan één gen worden
+beïnvloed (kwantitatieve
+kenmerken)
+• geeft aanleiding tot
+continue variatie
+vb. grootte, huidskleur,…
+Vb. vele ziektes:
+hartafwijkingen, kanker,
+Alzheimer, diabetes,…
+
+ Polygene overerving
+• Variatie in kleur van tarwezaad (2 genen, 5
+kleurintensiteiten)
+
+ Polygene overerving en ziektes
+Genome wide association studies: link tussen
+fenotypische kenmerken en SNPs (single nucleotide
+polymorphisms)
+‘Manhattan plot’
+
+ Invloed van omgeving
+• vb. obesitas zowel
+beïnvloed door genen en
+door omgeving
+
+ Genetische basis van gedrag
+• bij dieren: selectie voor
+gedrag (vb. pitbull)
+
+ Bij mens: nature - nurture
+Omgeving Genen
+Adoptiebroer/zus
+100%
+0%
+∂
+Broer en zus
+100%
+50%
+Twee-eiige tweeling
+100%
+50%
+∂
+Eén-eiige tweeling
+100%
+100%
+∂
+Eén-eiige tweeling adoptie 0%
+100%
+opgelet: omgeving is meer dan opvoeding alleen; een
+groot deel van de invloed van omgeving is uniek en wordt
+niet gedeeld door broers/zussen
+
+ Monozygotic Twins Reared Apart
+vb. Jim Twins – afzonderlijke
+opvoeding, na 39 jaar terug samen
+•
+•
+•
+•
+
+Zelfde merk sigaretten
+Zelfde vakantiebestemming in Florida
+Zelfde hobby's
+Gehuwd met vrouw met zelfde
+voornaam
+•…
+
+ Erfelijke basis van
+gedragskenmerken
+dizygotisch
+intelligentie
+0.60
+schizofrenie
+0.15
+
+monozygotisch
+0.85
+0.50
+
+ook erfelijke basis voor autisme, hyperactiviteit,
+religiositeit, politieke voorkeur, altruïsme,… (vaak
+zelfde genetisch basis)
+MAAR: geen enkel gedragskenmerk is 100% erfelijk
+bepaald !
+
+ Genetische basis voor
+gedragskenmerken
+• vele genen hebben elk beperkte invloed op gedrag
+• additief effect
+• niet-additief effect (interactie tussen genen)
+vb. 107 SNP’s zijn
+geassocieerd met
+schizofrenie (vnl. in buurt
+van genen die actief zijn in
+hersenen of genen
+geassocieerd met het
+immuunsysteem)
+effect van gen met sterkste
+effect blijft zeer klein!
+
+ Bij mens: nature - nurture
+opgelet: omgeving
+is meer dan
+opvoeding alleen;
+een groot deel van
+de invloed van
+omgeving is uniek
+en wordt niet
+gedeeld door
+broers/zussen
+
+opvoeding
+(gedeelde
+omgeving)
+
+genen
+
+vrienden, school, toevallige gebeurtenissen,
+(niet-gedeelde omgeving)
+
+ Bij mens: nature - nurture
+genetische invloed op
+IQ wordt groter met
+leeftijd
+
+ Omgeving – gen interactie in gedrag
+omgeving is nodig om genen te activeren
+• vb. ‘feral child’: kinderen kunnen op latere leeftijd geen
+taal verwerven
+• vb. invloed van MAOA allel op agressief gedrag en link met
+slechte jeugd
+
+ Metabole keten
+Experimenten Beadle & Tatum: mutatie ~ één essentieel
+nutriënt dat niet meer aangemaakt kan worden
+
+ Metabole keten
+Experimenten Beadle & Tatum: één gen ~ één enzyme
+
+ Metabole keten
+
+ Metabole keten
+Metabole keten afbraak
+fenylalanine
+Vb. fenylketonurie: accumulatie
+fenyldruivezuur
+
+ Metabole keten
+Metabole keten afbraak
+fenylalanine
+Vb. cretinisme: geen vorming van
+groeihormoon
+
+ Signaaltransductie
+Regulatie van genexpressie
+
+ Complementatietest
+Twee zuivere lijnen hebben een
+zelfde mutant fenotype (wit):
+• mutaties in hetzelfde gen:
+kruising van homozygote
+mutanten levert mutante
+nakomelingen
+• mutaties in verschillende genen:
+kruising van homozygote
+mutanten levert wild type
+nakomelingen
+
+ Epistasie
+Expressie van een gen wordt
+beïnvloed door andere genen
+Vb. genotype van gen B komt
+niet tot expressie in genotype
+aa
+Gewijzigde verhouding bij
+nakomelingen (7/16)
+
+ Epistasie en kleurpatronen
+Genotype ee beïnvloed expressie van gen B
+
+B/-
+
+b/b
+
+zwart pigment
+↓
+E/pigment in vacht
+
+bruin pigment
+↓
+E/pigment in vacht
+
+B/- of b/b
+bruin of zwart
+pigment
+↓
+e/e
+pigment niet in
+vacht
+
+ Epistasie en kleurpatronen
+Kleur van de vacht bij paarden
+B gen
+
+Bbb
+
+zwart
+bruin
+
+zet bruin
+pigment om in
+zwart
+
+A gen
+
+Aaa
+
+enkel vorming van zwart pigment
+in manen, poten en staart
+egale pigmentering van vacht
+
+verdeling van
+pigment
+
+C gen
+
+Ccc
+
+pigment wordt gevormd
+er wordt geen pigment gevormd
+
+tyrosinase
+
+D gen
+
+Ddd
+
+volledige intensiteit van pigment
+intensiteit is verzwakt
+
+bepaalt de
+concentratie
+van pigment in
+de cel
+(verdunnend
+effect)
+
+S gen
+
+Sss
+
+gevlekt (‘piebald’)
+egaal
+
+verdeling
+melanocyten
+
+ Epistasie en kleurpatronen
+
+B- A-
+
+bb A- of bb aa
+
+B- aa
+
+ Epistasie en kleurpatronen
+
+ Epistasie en kleurpatronen
+
+ 

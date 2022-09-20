@@ -1,0 +1,370 @@
+﻿5	Moleculaire Orbitaaltheorie
+5.1	Gelocaliseerde molecuulorbitalen
+
+In voorgaande paragrafen werd een binding voorgesteld als een overlap tussen twee orbitalen van verschillende atomen. Naargelang de onderlinge oriëntatie van de orbitalen maakten we een onderscheid tussen een σ- en een π-binding. Het overlapgebied werd voorlopig gedefinieerd als een gebied met grote kans om het bindende elektronenpaar in aan te treffen.
+
+We zullen in deze paragraaf nog een stap verder zetten. Ter herinnering willen we nog eens kort meegeven dat een orbitaal tot stand komt uit de gekwadrateerde golffunctie met een radiaal en een axiaal gedeelte. De golffunctie van het elektron is een oplossing van de Schrodingervergelijking met daarin o.a. een energieterm als gevolg van de beweging van het elektron in het krachtveld van de kern.
+
+Op het ogenblik dat 2 atomen een binding vormen, bevindt het elektron van elk atoom zich niet meer alleen in het krachtveld van de eigen kern maar ook in dat van de andere kern. De potentiële energieterm in de Schrödingervergelijking verandert en als gevolg daarvan ook de golffuncties en tenslotte ook de energie-inhoud en de ruimtelijke vorm van de orbitalen van de betreffende elektronen.
+
+We zullen ons opnieuw de wiskundige uitwerking besparen en ons beperken tot de resultaten van dit principe. Het volstaat om aan te nemen dat nadat twee atomen een binding hebben gevormd, de oorspronkelijke atoomorbitalen ophouden te bestaan en de elektronen worden ondergebracht in evenveel nieuwe moleculaire orbitalen. De elektronen behoren vanaf dat moment niet meer toe aan de oorspronkelijke atomen maar wel aan de gevormde molecule. We zouden zelfs kunnen stellen dat de afzonderlijke atomen op zich niet meer bestaan maar een groter moleculair geheel hebben gevormd.
+
+Laten we dit toepassen op de molecule H2. Bij het tot elkaar naderen van de 2 H-atomen verstoren ze elkaars golffunctie en 1s-orbitaal. Wanneer ze genaderd zijn tot op bindingsafstand plaatsen de elektronen zich in 2 nieuwe moleculaire orbitalen  (MO) waarvan de ruimtelijke vorm hieronder is voorgesteld
+
+                 
+                    
+
+De eerste moleculaire orbitaal (onderaan in figuur) heeft vooral elektronendensiteit tussen de kernen en leidt tot stabilisatie. We noemen dit daarom een bindende molecuulorbitaal. Gezien deze orbitaal tot stand kwam via een manier van binden die we vroeger σ-binding hebben genoemd, spreken we over een bindende σ-orbitaal.
+De elektronendensiteit in de tweede orbitaal bevindt zich hoofdzakelijk buiten de kernen en zorgt voor destabilisatie. We spreken in dit verband van een anti-bindende σ-orbitaal of σ*-orbitaal.
+Dit is voorgesteld in volgend energieschema. De bindende MO ligt energetisch lager dan de oorspronkelijke AO’s, de anti-bindende MO ligt hoger.
+
+
+
+
+
+
+
+
+
+
+
+
+De opvulregels voor de MO’s zijn identiek dezelfde als die die werden gehanteerd bij het opvullen van AO’s (zie hoofdstuk 2), dus met in achtneming van de regel van Hund. Gezien de molecule H2 slechts 2 elektronen telt, is de bindende MO volledig bezet en de anti-bindende MO leeg. Ten opzichte van de afzonderlijke AO’s levert dit een energieverlaging op.
+
+Veronderstellen we dat de molecule He2 zou bestaan. In totaal zijn er dan 4 elektronen te plaatsen op de nieuwgevormde MO’s. Het volgend energieschema maakt duidelijk dat er evenveel stabilisatie als destabilisatie zou optreden waardoor de He-atomen er geen enkel voordeel bij hebben om samen een molecule te vormen. Zoals reeds bekend komt He, net als de andere edelgassen, voor als mono-atomisch.
+
+
+
+
+
+
+
+
+
+
+
+Bij de molecule F2 vormden we in paragraaf 3.1.2.1 een σ-binding tussen een 2pz-orbitaal van ieder F-atoom. De z-as wordt nog steeds bij voorkeur gekozen als bindingsas. Volgens een analoog principe als boven beschreven, herschikken de 2pz-orbitalen zich  tot twee nieuwe orbitalen waarbij opnieuw een bindende (σ) en anti-bindende (σ*) MO tot stand komt.
+
+          
+   
+In voorgaande paragrafen hebben we enkel die orbitalen in beschouwing genomen die in de oorspronkelijke atomen slechts waren bezet door een ongepaard elektron. Orbitalen met een volledig elektronenpaar kwamen niet in aanmerking voor overlap en binding tenzij in het geval van een datieve binding.
+Het is op basis van wat voorafging niet realistisch te stellen dat enkel half gevulde orbitalen in aanmerking kunnen komen voor overlapping en voor vorming van MO’s. Bij de vorming van een molecule overlappen alle orbitalen van het ene atoom met alle orbitalen van het andere atoom in min of meerdere mate. Dit betekent zoveel dat ieder orbitaal van het ene atoom zal combineren met ieder orbitaal van het andere atoom en omgekeerd. Om symmetrieredenen mogen we uiteraard wel stellen dat gelijksoortige orbitalen die qua vorm en oriëntatie het best op elkaar lijken, ook het best zullen kunnen overlappen en als dusdanig ook het best onderling zullen combineren tot MO’s. We zullen in wat volgt dan ook enkel de combinatie tussen gelijksoortige orbitalen in rekening brengen.
+Zowel s- als pz-orbitalen overlappen en combineren volgens een σ-symmetrie terwijl px- en py-orbitalen dit doen volgens een π-symmetrie. Zonder in detail te treden zullen we aannemen dat de overlap van px- en py-orbitalen onderling uiteindelijk aanleiding geeft tot vorming van bindende, respectievelijk anti-bindende π-MO’s met een ruimtelijke elektronendensiteit zoals hieronder voorgesteld.
+
+                     
+
+
+ Het energieschema met betrekking tot deze π-MO’s ziet eruit als volgt
+
+
+
+
+
+
+
+
+
+
+
+De opvulling van deze MO’s hangt uiteraard af van het aantal elektronen in de beschouwde molecule. De volgende globale schema’s geven deze opvulling weer voor de moleculen F2, O2, N2 en CO.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+We berekenen de bindingsorde als volgt
+
+
+
+
+Voor de molecule F2 levert dit bindingsorde (BO) = 1 wat uiteraard correspondeert met een enkelvoudige binding (zie vroeger) tussen de 2 F-atomen.
+Uit het energieschema wordt ook duidelijk dat de niet-buitenste elektronenschillen evenveel bindend als anti-bindend karakter veroorzaken wat in feite een nuloperatie teweeg brengt en wat ook bevestigt, zoals eerder besproken, dat enkel de valentie-elektronen in aanmerking komen voor chemische binding.
+
+Voor de molecule N2 berekenen we een BO = 3 corresponderend met de vroegere voorstelling met een drievoudige binding.
+
+In de molecule O2 wordt een BO = 2 berekend, eveneens in overeenstemming met de eerder beschreven dubbele binding. Opmerkelijk is weliswaar dat twee keer 1 ongepaard elektron te vinden is op het π2px* en het π2py*. Dit is het resultaat van het toepassen van de regel van Hund (maximale spinmultipliciteit). Deze hoogenergetische elektronen verklaren voor een groot stuk de reactiviteit van de O2-molecule.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Beschouwen we de binding tussen niet gelijksoortige atomen zoals in de molecule CO (koolstofmonoxide). De energieniveaus van zuurstof liggen systematisch lager dan die van koolstof omwille van de grotere kernlading bij het O-atoom. Toch wordt duidelijk dat in de CO-molecule een drievoudige binding aanwezig is, hetgeen niet kan worden verklaard aan de hand van voorgaande modellen.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        5.2 Gedelocaliseerde molecuulorbitalen
+
+Bij de bespreking van de molecule benzeen in paragraaf 4 hebben we het principe van resonantie toegelicht. Hierbij hebben we gesteld dat de werkelijke structuur van de molecule te zoeken was tussen twee uiterste vormen maar dat omwille van gebrek aan een sluitend model, de echte structuur niet kon worden voorgesteld. We zullen nu deze structuur beschrijven aan de hand van gedelocaliseerde orbitalen.
+
+Een chemische binding hoeft zich in feite niet enkel te beperken tot 2 atomen waarbij een bindend elektronenpaar zich positioneert tussen de respectievelijke kernen tot vorming van de besproken bindende σ- of π-orbitalen. De enige betrachting van een moleculaire structuur is het bereiken van de hoogste graad van symmetrie en energetische stabiliteit.
+Nemen we terug het voorbeeld van de benzeenmolecule. Nadat de diverse σ-bindingen werden gevormd, resteren er nog 6 elektronen op voorlopig ongebruikte p-orbitalen.
+
+
+
+
+
+In plaats van drie klassieke π-bindingen te vormen, kunnen de 6 resterende elektronen zich combineren tot vorming van 3 gedelocaliseerde bindende MO’s en evenveel anti-bindende tegenhangers. Met gedelocaliseerd wordt bedoeld dat de elektronen zich qua positie niet beperken tot een afgebakend gebied tussen de kernen van twee atomen, maar dat de elektronen zich verspreiden over de volledige molecule. Dit wordt ingegeven door het feit dat een molecule tracht om een maximale symmetrie en dus ook een maximale stabiliteit te verkrijgen.
+Op die manier worden na combinatie van 6 p-orbitalen zes nieuwe gedelocaliseerde MO’s gevormd waarvan 3 een bindend en 3 een anti-bindend karakter hebben. Hierbij worden enkel de bindende orbitalen bezet. Zonder in detail in te gaan op de exacte vorm van deze orbitalen kunnen wij ons een ruimtelijke structuur voorstellen zoals hieronder getekend.
+
+
+
+
+
+In gedelocaliseerde orbitalen blijven de elektronen niet ‘hangen’ tussen slechts twee kernen maar hebben ‘de vrijheid’ om zich te bewegen over de volledige molecule.
+
+Analoge situaties zijn te beschrijven voor moleculen zoals SO2 en andere vroegere voorbeelden. Bij de beschrijving beperken we ons door te stellen dat in die gevallen waarbij resonantiestructuren zich opdringen, de intermediaire tussenvorm kan worden uitgelegd door het invoeren van gedelocaliseerde MO’s die zich uitstrekken over de volledige molecule.
+
+
+
+    6 De binding in metalen
+
+Metalen zijn ons bekend als stevige, vaste structuren waarbij de metaalatomen zijn gerangschikt in een kristalrooster. Dit doet ons denken aan ionaire verbindingen die eveneens een roosterstructuur opbouwen. Nochtans is er bij metalen geen sprake van ionvorming. Het gaat immers over verbindingen tussen gelijksoortige atomen waarbij het element voorkomt in een oxidatietrap 0.
+
+We zullen in deze paragraaf gebruik maken van het begrip gedelocaliseerde orbitalen om de bindingskarakteristieken in het metaalrooster te verklaren. Nemen we als voorbeeld natriummetaal en beschouwen we een minuscuul klein stukje metaal bestaande uit slechts 20 atomen.
+
+De elektronenconfiguratie van het Na-atoom is 1s2, 2s2, 2p6, 3s1. Stellen we ons voor dat we de 20 atomen van op grote afstand tot elkaar laten naderen. Wanneer ze tot op bindingsafstand zijn gekomen, combineren hun verschillende atoomorbitalen tot molecuulorbitalen. 
+
+Uit wat voorafging weten we dat er steeds evenveel nieuwe MO’s worden gevormd als er AO’s zijn gecombineerd. De helft ervan heeft een bindend karakter (verlaagd in energie t.o.v. de AO’s), de andere helft een anti-bindend karakter. Hoe dichter de atomen tot elkaar kunnen naderen, hoe meer de bindende en de anti-bindende MO’s  energetisch van elkaar verschillen.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wanneer we nu zeer veel (in ons rekenvoorbeeld nemen we 20) atomen samenbrengen, dan heeft elk atoom rond zich een aantal (12, 8 of 6 of nog anders afhankelijk van het type kristalrooster) dichtste naburen. Een tweede reeks atomen (de buren van 2 huizen verder) bevinden zich op een grotere afstand en de volgende (de buren van 3 huizen ver) op een nog grotere afstand. Dit betekent (met inachtneming van de schema’s hierboven) dat de sterkste interactie zal worden aangegaan met de directe buren, een kleinere interactie met de volgende reeks, enz. Hierdoor ontstaan een zeer groot aantal MO’s met verschillende energie-inhoud. Doordat deze MO’s voor een groter wordend aantal atomen in het stukje metaal, zeer dicht bij elkaar liggen, is er nog nauwelijks een energieverschil merkbaar. De MO’s vervagen in wat we noemen een molecuulorbitaalband.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Zolang de atomen op grote onderlinge afstand zijn, bevinden de elektronen zich in de oorspronkelijke AO’s. Naarmate de atomen dichter naderen tot op bindingsafstand versmelten de AO’s en vormen zich om tot een MO-band.
+Dit mechanisme doet zich voor bij elk van de verschillende AO’s. We weten dat de elektronen van hogere schalen zich steeds verder van de kern uitstrekken. Om die reden zullen de valentie-elektronen bij nadering van de atomen het eerst tot interactie komen. De elektronen van de meer binnenste schalen (dichter bij de kernen) zullen dit pas doen op kortere afstand. Dit is geïllustreerd in volgend schema voor een stukje Na-metaal met 20 atomen.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Metalen vertonen als gemeenschappelijk kernmerk een grote dichtheid. Dit betekent dat de atomen vrij dicht tot elkaar kunnen naderen of een relatief korte bindingsafstand hebben.
+In bovenstaande figuur zijn 2 aspecten heel belangrijk. Gezien bij natrium op het buitenste 3s-niveau slechts 1 elektron voorkomt (er is weliswaar plaats voor 2) bevat de buitenste MO-band (naar analogie met valentie-elektronen, valentieband genoemd) slechts 20 elektronen waar er in principe plaats is voor 40. Dit geeft de elektronen een grote bewegingsvrijheid in tegenstelling tot een volledig gevulde band. Vergelijk dit met een halfgevuld lokaal waar nog plaats overblijft voor een comfortabele manoeuvreerruimte voor de aanwezigen en dit in tegenstelling tot een boordevolle zaal. Voor elektronen staat bewegingmogelijkheid doorheen de valantieband gelijk met elektrische geleidbaarheid. Het komt er op neer dat de valentieband zich uitstrekt over het volledige stukje metaal en de elektronen zich om het even waar ergens in dit stukje kunnen bevinden. Een MO-band is gedelocaliseerd over het volledige stuk metaal en de elektronen zijn niet meer gehouden te vertoeven bij hun oorspronkelijke atoomkern.
+Een tweede vaststelling uit bovenstaande figuur is de overlapping tussen de valentieband en de net erboven gelegen ledige MO-band of conductieband. Gezien hoger gelegen elektronenniveau’s steeds dichter bij elkaar komen te liggen (zie opvulling van de elektronenschalen) wordt de kans tot overlapping van de conductie- met de valentieband ook groter. Dit geeft aanleiding tot een nog veel betere elektrische geleidbaarheid voor metalen. De voorwaarde hierbij is evenwel dat de atomen elkaar voldoende dicht kunnen naderen zodat de overlapping inderdaad reëel wordt. 
+Voor andere stoffen (b.v. Si) met een gelijkaardig bindingspatroon is de onderlinge afstand van de atomen minder kort of liggen de valentie- en conductieband verder uit elkaar waardoor een overlap niet kan optreden. Dit geeft aan deze systemen isolatorkarakteristieken.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Een interessante toepassing is het gebruik van halfgeleiders. Door in het kristalrooster van b.v. Si (of Ge) op regelmatige plaatsen een Si-atoom te vervangen door een P-atoom (staat 1 plaats verder in het Periodiek Systeem) worden extra elektronen toegevoegd. Dit creëert een bijkomende valentieband van P die net onder de conductieband van Si is gelegen. Een andere mogelijkheid is een aantal Si-atomen te vervangen door B of In (staan in het Periodiek Systeem in de kolom links van Si) waardoor het aantal elektronen in het kristal daalt. Hierdoor wordt een bijkomende lege conductieband van B toegevoegd net boven de gevulde valentieband van Si. In onderstaande figuur zijn de afstanden tussen de diverse MO-banden getekend zoals ze voorkomen op bindingsafstand in het kristal van de halfgeleider.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+In zuiver Si is er een groot energieverschil tussen valentie- en conductieband. Hierdoor kost het veel energie om een elektron van de VB naar de CB te promoveren en is er nagenoeg geen geleiding mogelijk. Bij een halfgeleider van het acceptortype (links in bovenstaande figuur) kan het uit de VB van Si gepromoveerde elektron worden opgevangen in de net erboven gelegen CB van B. Hiertoe dient maar weinig energie te worden geïnvesteerd. Een analoge situatie doet zich voor bij een halfgeleider van het donortype.
+De noodzakelijke promotie-energie kan van thermische oorsprong zijn (temperatuursverhoging). Vandaar dat de geleidbaarheid van halfgeleiders toeneemt met de temperatuur. De energie kan ook aangevoerd worden via straling. In dit verband hebben halfgeleiders o.a. hun toepassing als detectoren voor elektromagnetische straling.
+
+
+7.	Zwakke intermoleculaire bindingen
+
+In de loop van dit hoofdstuk hebben we een aantal bindingsmodellen bestudeerd. In de volgende hoofdstukken zullen we een aantal typische eigenschappen van macroscopische materie toelichten. Deze eigenschappen vinden in essentie hun oorsprong bij de microscopische bindingskarakteristieken. Op die manier ervaren we ionaire verbindingen in een rooster evenals stoffen waarbij de atomen zijn gecombineerd volgens een metaalstructuur, bij normale omstandigheden van druk en temperatuur als kristalachtige vaste verbindingen. De bindingen zijn in die mate stevig, dat ze enkel via chemische omzettingen kunnen worden verbroken
+Kleine moleculen zonder of met een gering dipoolmoment komen hoofdzakelijk voor als gassen. De gasvormige toestand is het gevolg van de afwezigheid van sterke interacties tussen de individuele moleculen. Afhankelijk van de temperatuur bezitten de gasdeeltjes een kinetische energie waardoor ze ten opzichte van elkaar kunnen bewegen in willekeurige richtingen. De zwakke interacties zijn onvoldoende om de deeltjes bij elkaar te houden zodat ze zich van elkaar verwijderen. Dit resulteert in een expansiedrang typisch voor de gastoestand (zie volgend hoofdstuk).
+Grotere moleculen met een soms grillige structuur of verbindingen met zwaardere atomen of moleculen met een groot dipoolmoment vertonen wel niet te onderschatten onderlinge interacties. Hierdoor zullen de moleculen zich in elkaar kunnen vasthaken of is de elektrostatische aantrekking tussen de positieve kant van de ene molecule met de negatieve zijde van de andere, in die mate groot dat ze bij normale omstandigheden vaste stoffen vormen.
+De vloeistoffase bevindt zich tussen de vaste en de gasvormige toestand. We kunnen een vloeistof beschouwen als opgebouwd uit moleculen die tijdelijk met elkaar interageren. Elke molecule zal gedurende een korte tijd een naburige molecule vasthouden, vervolgens loslaten en direct opnieuw een korte interactie aangaan met een andere molecule in de onmiddellijke omgeving. We kunnen dit vergelijken met een grote groep spelende kinderen aan wie wordt gevraagd om willekeurig door elkaar heen te lopen. Elke keer ze een speelkameraad kruisen proberen ze elkaar bij de kraag of bij de arm te grijpen waardoor ze beiden in hun vrije beweging worden geremd. Nadat ze zich opnieuw hebben losgewrikt, kunnen ze wat verder hun spel herhalen. Dit resulteert in een situatie waarbij er onderlinge bewegingsmogelijkheden blijven bestaan maar waarbij de groep toch bij elkaar wordt gehouden. Dat is typisch voor de vloeibare toestand: de moleculen rollen door elkaar heen maar de tijdelijke interacties zijn voldoende sterk om het geheel bij elkaar te houden.
+
+We zullen in deze paragraaf toelichting geven over een heel bijzondere vorm van dipool-dipool-interactie nl. de waterstofbrugbinding.
+We nemen opnieuw de ondertussen bekende molecule HF. Fluor is het meest elektronegatieve element en zal het bindende elektronenpaar vrij sterk naar zich toetrekken. Waterstof speelt op die manier zijn elektron gedeeltelijk kwijt. In tegenstelling tot alle andere atomen die nog meerdere onderliggende elektronen bezitten, voelt het waterstofatoom zijn enige elektron voor een belangrijk gedeelte wegschuiven. Hierdoor wordt de atoomkern van H als het ware uitgekleed zodat de positieve lading zich concentreert op een heel klein volume met een groot polariserend vermogen tot gevolg. Vergelijk dit met de molecule IF.
+
+
+
+
+
+
+
+
+
+Deze positieve lading kan elektrostatisch gecompenseerd worden door de negatieve lading van b.v. een fluoride-ion tot vorming van HF2-
+
+
+
+
+
+Het waterstofatoom vormt als het ware een brug tussen 2 fluoratomen en het geheel is 1 keer negatief geladen. Dit ion kan dan op zijn beurt een ionaire binding vormen met b.v. K+ waarbij KHF2 wordt bekomen.
+
+Een dergelijke waterstofbrug treedt enkel op tussen H en de meest elektronegatieve atomen F, O en N en is dus ook bij H2O terug te vinden. Water is bij normale omstandigheden een vloeistof en de waterstofbruggen hebben een tijdelijk karakter maar zijn toch voldoende stevig om water pas te laten koken bij de relatief hoge temperatuur van 100 °C. Bij het kookpunt is de kinetische energie van de vloeistof-moleculen immers te groot geworden waardoor de intermoleculaire interacties verbroken worden en de vloeistof overgaat in damp.
+
+
+
+
+
+
+
+
+
+
+Bij het vriespunt daarentegen, wanneer de kinetische bewegingsenergie in die mate is afgenomen, krijgen de waterstofbruggen een permanent karakter. 
+
+          
+
+              
+
+
+De grote holtes die ontstaan binnenin deze ruimtelijke hexagonale structuur verklaren de kleinere dichtheid van ijs t.o.v. vloeibaar water.

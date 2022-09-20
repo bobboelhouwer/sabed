@@ -1,0 +1,346 @@
+De zinsdelen in
+vogelvlucht I:
+Subject en
+objecten
+1
+
+ Subject (= onderwerp)
+Een van de medespelers die door het
+zinsww worden opgeroepen, neemt de
+functie van SUBJECT in
+ elke Nederlandse zin bevat een
+SUBJECT (op twee systematische
+uitzonderingen na)
+
+
+2
+
+ Monovalente en avalente
+werkwoorden
+Monovalent zinswerkwoord: enige
+medespeler is SUBJECT:
+
+
+
+
+Bert lacht, Elvis leeft, Alles went, …
+
+Avalente ww’s krijgen een loos SUBJECT
+het:
+
+
+Het regent, Het heeft vorige week gesneeuwd
+
+
+
+= een louter structureel subject, heeft geen
+referent
+3
+
+ Geprivilegieerde relatie
+tot
+ZR
+ Congruentie
+tussen SUBJECT en pv:
+overeenstemming in persoon en getal
+
+Ik heb de hele dag geslapen.
+De man heeft de hele dag geslapen.
+De mannen hebben de hele dag geslapen.
+
+
+Plaatsing: dichtbij de pv-plaats
+De mannen hebben gisteren de hele
+dag geslapen.
+Gisteren hebben de mannen de hele dag
+geslapen.
+4
+
+ Divalente en trivalente
+werkwoorden
+ Veel werkwoorden: medespelervalentie > 1
+één MS = SUBJECT, andere medespelers
+verschijnen als object
+
+
+Nominale objecten: DIRECT OBJECT,
+INDIRECT OBJECT
+ Prepositionele objecten:
+VOORZETSELOBJECT, INDIRECT OBJECT
+(voor later: OORZAKELIJK OBJECT,
+AGENSOBJECT, BRONOBJECT)
+
+
+5
+
+ De transitieve zin
+Het meest gewone zinstype: de transitieve zin met
+een ZINSRELATOR, een SUBJECT en een
+DIRECT OBJECT
+
+
+
+
+
+
+
+
+Jan beet de politieman.
+De vandalen vernielden het hele treinstel.
+Liesbeth bedacht ons aanvalsplan.
+Tim Wellens won de derde etappe.
+Het boek bevat 6 hoofdstukken.
+
+Herkenningscriteria: o.m. wordt SUBJECT bij
+passivering (indien mogelijk), krijgt van bij
+nominalisering
+
+
+6
+
+ De transitieve zin
+Veel transitieve werkwoorden zijn handelingswerkwoorden:
+
+
+SUBJECT = Agens (controlerende instantie van wie de
+handeling uitgaat – degene die handelt)
+ DIRECT OBJECT = Patiens (niet-controlerende instantie
+die een handeling ondergaat, waarop een handeling gericht
+is)
+
+
+
+
+Maar zeker niet allemaal – andere voorbeelden:
+
+
+
+
+
+Mijn broer heeft drie huizen.
+Bart kreeg een nieuwe fiets.
+Die uitkomst verwondert mij.
+Ik weet de oplossing.
+7
+
+ Twee soorten intransitieve
+zinnen
+ De enige medespeler bij een monovalent
+
+werkwoord is:
+ Agens: Bert lacht, Bob werkt, Brenda zucht, …
+ Patiens: Barbara valt, Benny sterft, De boshut
+brandt, …
+ Er is een reeks van werkwoorden met zowel
+een agentieve transitieve betekenis als een
+passissieve intransitieve betekenis
+
+
+
+
+Bart breekt de vaas / De vaas breekt
+Boris scheurt de stof / De stof scheurt
+Björn smelt de sneeuw / De sneeuw smelt
+8
+
+ De ditransitieve zin
+Sommige trivalente werkwoorden kunnen twee
+krijgen: DIRECT OBJECT + INDIRECT OBJECT
+
+
+
+
+
+
+
+
+nominale objecten
+
+Jan geeft Piet een boek.
+De rector overhandigde de student het diploma.
+Hij vertelde zijn collega’s het goede nieuws.
+Ze weigerde de dronken klant de toegang.
+Anatool pakte Jommeke de voetbal af.
+
+INDIRECT OBJECT van het subtype Meewerkend
+Voorwerp:
+noemt tegenspeler van het SUBJECT in een overdracht (Recipiens of
+Bron)
+
+
+9
+
+ Meewerkend voorwerp
+(MV)
+ Kenmerkende eigenschap: heeft een nominale
+vorm en een “omschreven” vorm met aan (of
+uitzonderlijk van)
+bv. Jan geeft een boek aan Piet.
+Hij vertelde het goede nieuws aan zijn
+collega’s.
+Anatool pakte de voetbal af van Jommeke.
+
+10
+
+ Andere subtypes van het
+IO
+ Belanghebbend voorwerp (BV)
+
+
+
+
+Meemakend voorwerp (MmV)
+Oordelend voorwerp (OV)
+Possessieve datief (= een speciaal type MV en
+MmV)
+
+11
+
+ Belanghebbend voorwerp
+(BV)
+ Noemt de Begunstigde van een handeling:
+
+
+
+
+
+Vader schonk de buurman een glas wijn in.
+Sergio bereidde ons een voedzame maaltijd.
+Karel kocht zijn zoontje een Playstation. (Belg. Nls)
+Mijn oma heeft mij een sjaal gebreid. (Belg. Nls)
+
+Verschil
+
+
+
+met MV:
+
+krijgt in de omschreven vorm voor
+noemt een medespeler die niet tot de valentie van het
+zinswerkwoord behoort
+
+12
+
+ Meemakend voorwerp
+(MmV)
+ Komt voor bij divalente werkwoorden van het type
+overkomen = “affecterende” werkwoorden
+ Gisteren is de buren iets raars overkomen.
+ Een luide vloek ontsnapte de docent.
+ Er viel hem een warm onthaal te beurt.
+SUBJECT noemt doorgaans een zaak, MmV noemt
+de persoon die getroffen is door of betrokken bij het
+gebeuren
+
+13
+
+ Meemakend voorwerp
+(MmV)
+ Verschil met MV: MmV is het enige object van het
+zinswerkwoord
+ Verschillen met DO: o.a. omschreven vorm met
+aan is mogelijk (zeker bij nominalisering)
+(Meer over verschil tussen MmV en DO in college 6)
+
+14
+
+ Reflexieve DO’s en IO’s
+ Vast reflexieve verbindingen: vnw is deel van de
+
+zinsrelator. Bv: zich vergissen, zich schamen, zich
+onthouden
+
+
+Toevallig reflexieve verbindingen: vnw is DO of IO
+bv. Ik waste me, Els bekeek zich in de spiegel, Firmin
+gunde zich een verzetje
+Relevante verschil:
+ vnw is vervangbaar door andere NC (bv. iemand anders)
+ vnw is uitbreidbaar met –zelf
+
+15
+
+ Voorzetselobject (VzO)
+ Sommige werkwoorden roepen een medespeler
+
+op die wordt geïntroduceerd door een vast
+voorzetsel = VOORZETSELOBJECT
+ Ik hou van grammatica, Ze denkt al aan de
+vakantie, We hopen op mooi weer, Ik verlang
+naar een fris pilsje, Hij bedient zich van de
+meest grove grappen, Ik reken op jullie, Ze
+trouwde met haar eerste jeugdliefde, …
+ Ze verplichten ons tot actie, Hij overtuigde me
+van zijn goede bedoelingen, De trainer
+vervangt de spits door een verdediger
+16
+
+ Vast voorzetsel
+Het vz is niet-autonoom en paradigmaloos. Dat
+uit zich op verschillende manieren:
+1) niet vervangbaar:
+Ze legde zich neer bij/*onder de beslissing.
+Ze stak de draak met/*zonder haar baas.
+2)
+
+niet uitbreidbaar:
+Ik heb (samen) met hem een wandeling gemaakt.
+Hij stond (boven) op de kist.
+Ze stak de draak (*samen) met haar baas.
+Hij stond (*boven) op een correcte behandeling.
+17
+
+ Vast voorzetsel
+3)
+
+4)
+
+niet weglaatbaar
+Ze overhandigde het pakje aan de buurman.
+Ze overhandigde de buurman het pakje.
+Ze ergert zich aan haar man.
+* Ze ergert zich haar man.
+Niet beklemtoonbaar:
+Hij stond OP de tafel.
+* Hij stond OP zijn rechten.
+18
+
+ Vast voorzetsel
+In sommige gevallen is er wel een beperkt
+paradigma, maar dat correspondeert
+met
+(subtiel) betekenisverschil:
+Ik denk nu al aan de vakantie.
+Ze denkt over de aanschaf van een nieuwe
+auto.
+Denk om de vuilniszakken!
+
+
+19
+
+ Plaatsingsvrijheid
+
+
+Belangrijke eigenschap van het
+VOORZETSELOBJECT: het kan zowel voor als na
+V
+… dat Chris op een correcte behandeling staat.
+… dat Chris staat op een correcte behandeling.
+… dat Chris aan de uitgang staat.
+…*dat Chris staat aan de uitgang.
+
+20
+
+ Opdracht tegen volgende
+week
+ Lijst alle mogelijke combinaties op van de zinsdelen
+die we tot nu toe gezien hebben:
+
+
+
+SUBJ + ZR: Fido blaft.
+SUBJ + ZR + …
+
+21
+
+ 

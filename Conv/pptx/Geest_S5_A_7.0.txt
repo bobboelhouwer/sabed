@@ -1,0 +1,219 @@
+Tekstwetenschap 1
+Les 10 – hoe onderzoek je tekst en
+discours
+
+ Onderzoeksvraag
+
+ Kenmerken van een goede onderzoeksvraag
+• Opdracht: bedenk een onderzoeksvraag in verband met
+tekst en discours
+• Kenmerken
+o nog niet onderzocht
+o relevant (voor wie?)
+o haalbaar
+• Materiaal beschikbaar/çverzamelbaar
+• Voldoende specifiek
+o
+
+replicatie-onderzoek
+
+ Voorbeelden van onderzoeksvragen
+• Hoe bouw je een handleiding voor een smartphone op?
+• Wat is de beeldvorming over Trump in de Belgische/Franse/Duitse
+•
+•
+•
+•
+
+pers?
+Welke retorische/argumentatietechnieken gebruikten Vlaamse politici
+in de debatten over de Oosterweelverbinding in de 7de dag?
+Hoe creëren 13-jarige Nederlandse meisjes een identiteit voor zichzelf
+in hun interactie met vriendinnen?
+Hoe proberen automerken potentiële klanten te overtuigen in hun
+folders/advertenties?
+Welke kenmerken heeft een geslaagd arts-patiëntgesprek?
+o diagnostisch gesprek
+o behandelingsvoorstel bij ingrijpende ingrepen
+
+ Onderzoeksonderwerpen
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+
+gesproken, geschreven of multimodale taal
+tekstsoort
+inhoudelijk onderwerp
+individuele schrijvers/sprekers
+groepen van sprekers
+belangrijke tekst/toespraak
+een vergadering/onderhandeling
+rapportering een bepaald medium
+teksten van een bepaalde instantie/bedrijf…
+…
+
+ Literatuurstudie – of hoe vind je een goede
+onderzoeksvraag
+• Literatuurstudie doen
+startpunt = onderzoeksonderwerp
+o bronnen van algemeen naar specifiek (via referentielijst)
+o invalshoek bepalen
+• Literatuurstudie schrijven
+o Achtergrond en kader
+o CARS = create a research space – ‘gap’
+o citeren en refereren (= vermijden van plagiaat)
+o
+
+• Bibliografie
+• Leesverslag
+
+ Methode
+
+ Onderzoeksdesign
+•
+•
+•
+•
+•
+•
+•
+
+(quasi-) experimenteel onderzoek
+corpusonderzoek
+case studie
+veldonderzoek
+ethnografisch onderzoek
+actie-onderzoek
+survey-onderzoek
+(Rose et al, 2020)
+
+tekstmateriaal
+
+contextinformatie
+
+ Onderzoeksmateriaal
+• corpus – casus – experiment: representativiteit en
+generaliseerbaarheid
+• corpus (corpus-driven vs corpus-based)
+o bestaande corpora
+o eigen corpus
+• publieke teksten
+• niet-publieke teksten – ‘informed consent’, anonimisering
+(privacy)
+
+• casus – ‘gesitueerde’ tekst/discours
+• experiment – uitgelokte tekst/discours
+• contextuele informatie (focusgroep, interview)
+
+ Onderzoeksmateriaal
+• corpus – casus – experiment: representativiteit en
+generaliseerbaarheid
+• corpus (corpus-driven vs corpus-based)
+o bestaande corpora
+o eigen corpus
+• publieke teksten
+• niet-publieke teksten – ‘informed consent’, anonimisering
+(privacy)
+Observer’s paradox
+
+• casus – ‘gesitueerde’ tekst
+• experiment – uitgelokte tekst
+• contextuele informatie (focusgroep, interview)
+
+ Analysetools – en technieken
+• Transcriptiesoftware (bv. ELAN)
+• Analysesoftware
+Syntactische annotatie: tagger, parser
+o Concordancer (bv. Wordsmith, AntConc)
+o Vocabulary profiler (bv. Lextutor)
+o Complexiteitsanalyse (bv Coh-metrix)
+• Annotatiesoftware (bv. NVIVO)
+o
+
+ Methodologisch kader
+• Genre-analyse
+• Conversatieanalyse
+• Interactionele
+•
+•
+•
+•
+•
+•
+
+sociolinguïstiek
+Narratieve analyse
+Critical Discourse Analysis
+Ethnomethodologie
+Stilistiek
+Sociolinguïstische
+variatiestudies
+Metafoorstudie
+
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+
+Retorica
+Argumentatiestudies
+Pragmadialectiek
+Speech act theorie
+Pragmatiek
+Mediastudies
+Appraisal Theory
+Semiotiek
+RST
+Culturele studies
+…
+
+ Voorbeeld : de ‘toolkit’ van de interactionele
+sociolinguïstiek (Goffman)
+• Er zijn verschillende ‘rollen’ aan de zenderkant & aan de
+•
+•
+•
+•
+
+ontvangerkant: author, animator, principal; participant,
+eavesdropper, overhearer, bystander;
+Sprekers creëren face (doen aan ‘facework’)
+Sprekers hanteren frames
+Er zijn veranderingen in ‘footing’
+Op basis daarvan
+o participatiekader analyseren
+o veranderende relaties/verhoudingen in interactie
+nagaan
+o zien hoe sprekers identeit(en) construeren
+
+ Oefening
+• Beschrijf ‘jouw’ paper methodologisch
+o
+o
+o
+o
+
+Welk type van onderzoeksmateriaal ?
+Welke analysetools ?
+Welk methodologisch kader ?
+Welke ‘toolkit’ ?
+
+ Volgende week
+• Vragenuurtje
+• Preview examen
+
+ 

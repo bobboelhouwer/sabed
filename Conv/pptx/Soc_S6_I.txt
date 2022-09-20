@@ -1,0 +1,629 @@
+Vennootschapsvormen
+
+ Vennootschap als nexus van belangen
+
+Bestuur
+
+Schuldeiser
+s
+
+Vennoten
+meerderhei
+d
+
+2
+
+minder
+heid
+
+htt
+nce ps://
+14 lab. corp
+os- /quis org/ orat
+pro cust -cus 2017 efina
+fin blemodes todie /02/
+an
+ce- -in-b-age t-ips
+an us ncy
+d-p ine olit ssics
+/
+
+  Vennootschappen en rechtspersonen
+
+rechtspersonen
+
+vennootschappen
+
+1
+
+2
+
+NV
+
+BV
+
+°°
+°
+
+3
+
+VOF
+
+Maatscha
+p
+
+CommV
+
+SV
+
+CV
+TV
+
+1. Vennootschappen met volkomen rechtspersoonlijkheid
+2. Vennootschappen met onvolkomen rechtspersoonlijkheid: toerekening van
+verbintenissen van vennootschap aan vennoten
+3. Vennootschappen zonder rechtspersoonlijkheid: maatschap, TV, SV
+4
+
+ Vennootschappen en rechtspersonen
+
+rechtspersonen
+
+vennootschappen
+
+handelsvennootschappen
+burgerlijke
+vennootschappe
+n
+
+ Structuur WVV
+Deel 1: Algemene bepalingen (Boeken 1 – 3)
+•
+•
+•
+
+Boek 1 : Inleidende bepalingen
+Boek 2 : Bepalingen gemeenschappelijk aan alle rechtspersonen
+Boek 3 : Jaarrekening
+
+Deel 2: De vennootschappen (Boeken 4 – 8)
+•
+•
+•
+•
+•
+
+Boek 4 : Maatschap, VOF en de CommV
+Boek 5 : De besloten vennootschap (BV)
+Boek 6 : De coöperatieve vennootschap (CV)
+Boek 7 : De naamloze vennootschap (NV)
+Boek 8 : Erkenning van vennootschappen
+
+Deel 3: De verenigingen en stichtingen (Boeken 9 – 11)
+Deel 4: Herstructurering en omzetting (Boeken 12 – 14)
+Deel 5: De Europese rechtsvormen (Boeken 15 – 18)
+
+ De vennootschap: begrip (art. 1:1 WVV)
+Een vennootschap wordt opgericht bij een rechtshandeling
+door één of meer personen, vennoten genaamd, die een
+inbreng doen.
+1
+
+Zij heeft een vermogen en stelt zich de uitoefening van
+één of meer welbepaalde activiteiten tot voorwerp. 2
+3
+
+Eén van haar doelen is aan haar vennoten een
+rechtstreeks of onrechtstreeks vermogensvoordeel uit te
+keren of te bezorgen.
+7
+
+ Inbreng (art. 1:8-1:10 WVV)
+• Verbintenis om iets ter beschikking van vennootschap te stellen
+• In ruil voor inbreng krijgt de inbrenger lidmaatschaps- en
+vermogensrechten in de vennootschap
+
+• Inbreng volgens voorwerp (art. 1:8 WVV)
+o
+o
+o
+
+Geld
+In natura
+Nijverheid
+
+Inbreng van nijverheid voor aandelen
+niet mogelijk in NV
+(wel: winstbewijzen)
+
+• Inbreng (“beloven”) vs. volstorting (“betalen”)
+
+8
+
+ Voorwerp
+• Omschrijving van de activiteit
+• Voorwerp bepaalt het “werkterrein”
+o
+o
+
+Grenzen aan vertegenwoordigingsbevoegdheid van
+vennootschapsvertegenwoordigers (zie later)
+Begrenst mandaat zaakvoerders/bestuurders
+(aansprakelijk bij overschrijding)
+
+• In de praktijk vaak heel ruim
+
+9
+
+ Doel: vermogensvoordeel
+• Recht op deelname in de winst
+o
+o
+
+Conventionele vrijheid (art. 5:41)
+Verbod van “leeuwenbeding” (art. 5:14; art. 7:16)
+
+• Bijdrage in de verliezen
+o
+o
+
+Vennoot, ook in “kwade dagen”
+Ook onder nul? (On)beperkte aansprakelijkheid t.a.v.
+vennootschapsschuldeisers (infra)
+
+10
+
+ Doel: vereniging vs. vennootschap
+Een vennootschap wordt opgericht bij een rechtshandeling door één of
+meer personen, vennoten genaamd… Eén van haar doelen is aan haar
+vennoten een rechtstreeks of onrechtstreeks vermogensvoordeel uit te
+keren of te bezorgen.
+Vgl art. 1:2:
+Een vereniging wordt opgericht bij een overeenkomst tussen twee
+of meer personen, leden genaamd. Zij streeft een belangeloos
+doel na in het kader van één of meer welbepaalde activiteiten die
+zij tot voorwerp heeft. Zij mag rechtstreeks noch onrechtstreeks
+enig vermogensvoordeel uitkeren of bezorgen aan de oprichters,
+de leden, de bestuurders of enig andere persoon behalve voor het
+in de statuten bepaald belangeloos doel. Elke verrichting in strijd
+met dit verbod is nietig.
+11
+
+ Vereniging vs. vennootschap
+Vereniging (bv. VZW): zonder winstuitkeringsdoel (“winstoogmerk”)
+
+•
+•
+•
+
+geen uitkeringen aan leden
+indirect voordeel voor leden kan wel
+belangeloos doel
+
+Vennootschap (bv. NV; BV): met winstuitkeringsdoel
+
+•
+•
+
+typisch door uitkeringen van winsten aan aandeelhouders
+indirect vermogensvoordeel voor aandeelhouders volstaat
+
+ Soms dunne grens
+Art. 1:2. Een vereniging wordt opgericht bij een overeenkomst tussen twee of
+meer personen, leden genaamd. Zij streeft een belangeloos doel na in het kader
+van één of meer welbepaalde activiteiten die zij tot voorwerp heeft. Zij mag
+rechtstreeks noch onrechtstreeks enig vermogensvoordeel uitkeren of bezorgen
+aan de oprichters, de leden, de bestuurders of enig andere persoon behalve voor
+het in de statuten bepaald belangeloos doel. Elke verrichting in strijd met dit
+verbod is nietig.
+Art. 6:1. § 1. De coöperatieve vennootschap heeft tot voornaamste doel aan de
+behoeften van haar aandeelhouders dan wel derde belanghebbende partijen te
+voldoen en/of hun economische en sociale activiteiten te ontwikkelen, onder meer
+door met hen overeenkomsten te sluiten over de levering van goederen, de
+verrichting van diensten of de uitvoering van werken in het kader van de activiteit
+die de coöperatieve vennootschap uitoefent of laat uitoefenen.
+
+ Soms dunne grens
+Art. 1:2. Een vereniging wordt opgericht bij een overeenkomst tussen twee of
+meer personen, leden genaamd. Zij streeft een belangeloos doel na in het kader
+van één of meer welbepaalde activiteiten die zij tot voorwerp heeft. Zij mag
+rechtstreeks noch onrechtstreeks enig vermogensvoordeel uitkeren of bezorgen
+aan de oprichters, de leden, de bestuurders of enig andere persoon behalve voor
+het in de statuten bepaald belangeloos doel. Elke verrichting in strijd met dit
+verbod is nietig.
+Art. 6:1. § 1. De coöperatieve vennootschap heeft tot voornaamste doel aan de
+behoeften van haar aandeelhouders dan wel derde belanghebbende partijen te
+voldoen en/of hun economische en sociale activiteiten te ontwikkelen, onder
+meer door met hen overeenkomsten te sluiten over de levering van goederen, de
+verrichting van diensten of de uitvoering van werken in het kader van de activiteit
+die de coöperatieve vennootschap uitoefent of laat uitoefenen.
+
+ Vergelijk
+Art. 1:2. Een vereniging wordt opgericht bij een overeenkomst tussen twee of
+meer personen, leden genaamd. Zij streeft een belangeloos doel na in het kader
+van één of meer welbepaalde activiteiten die zij tot voorwerp heeft. Zij mag
+rechtstreeks noch onrechtstreeks enig vermogensvoordeel uitkeren of
+bezorgen aan de oprichters, de leden, de bestuurders of enig andere persoon
+behalve voor het in de statuten bepaald belangeloos doel. Elke verrichting in
+strijd met dit verbod is nietig.
+Art. 6:1. § 1. De coöperatieve vennootschap heeft tot voornaamste doel aan de
+behoeften van haar aandeelhouders dan wel derde belanghebbende partijen
+te voldoen en/of hun economische en sociale activiteiten te ontwikkelen, onder
+meer door met hen overeenkomsten te sluiten over de levering van goederen, de
+verrichting van diensten of de uitvoering van werken in het kader van de activiteit
+die de coöperatieve vennootschap uitoefent of laat uitoefenen.
+
+ Vennootschap zonder rechtspersoonlijkheid
+• Maatschap (“société de droit commun”)
+• Tijdelijke vennootschap
+• Stille vennootschap: zaakvoerder is naamlener
+Geen vormvereisten voor oprichting
+• Restcategorie
+• Kan “onbewust” worden opgericht
+
+ Onbeperkte aansprakelijkheid
+Art. 4:14. De schuldeisers wier schuldvordering voortvloeit uit de activiteit
+van de vennootschap kunnen verhaal uitoefenen op het volledige
+vennootschapsvermogen. De vennoten zijn ten aanzien van deze
+schuldeisers persoonlijk en hoofdelijk gehouden met hun eigen
+vermogen.
+In afwijking op het eerste lid hebben derden, indien het een stille
+vennootschap betreft, enkel verhaal op de vennoot of zaakvoerder die
+met hen in persoonlijke naam heeft gehandeld. Derden hebben geen
+rechtstreekse vordering tegen de overige vennoten.
+
+ Vermogensafscheiding
+
+supra
+
+Art. 4:15. Onverminderd artikel 1166 van het Burgerlijk
+Wetboek hebben de persoonlijke schuldeisers van de
+vennoten wier schuldvordering vreemd is aan de
+vennootschapsactiviteit, en degenen die hebben gehandeld
+met een vennoot die niet de bevoegdheid had om de anderen
+te vertegenwoordigen, enkel verhaal op het aandeel van die
+vennoot en op de winsten die hem zijn uitgekeerd.
+infra
+
+Zij mogen geen beslag leggen op de goederen die het
+vennootschapsvermogen uitmaken noch rechten daarop
+uitoefenen.
+
+ Corporate veil
+
+Schuldeiser
+A
+
+Maat
+Controle
+
+Schuldeiser
+B
+
+Maatschap
+
+ VOF en CommV als “maatschap plus”
+Art. 4:22. De maatschap waarvan de vennoten overeenkomen dat zij
+rechtspersoonlijkheid zal genieten, neemt de vorm aan van een vennootschap onder
+firma of van een commanditaire vennootschap.
+•
+
+Zij is een vennootschap onder firma wanneer alle vennoten onbeperkt en
+hoofdelijk aansprakelijk zijn voor de verbintenissen van de vennootschap.
+
+•
+
+Zij is een commanditaire vennootschap wanneer zij wordt aangegaan door één of
+meer vennoten die onbeperkt en hoofdelijk aansprakelijk zijn voor de
+verbintenissen van de vennootschap, de gecommanditeerde vennoten genoemd,
+en nog één of meer vennoten die zich beperken tot inbreng in geld of in natura en
+die niet deelnemen aan het beheer, de commanditaire vennoten genoemd.
+
+In de vennootschap onder firma en de commanditaire vennootschap zijn de
+zaakvoerder(s) het bestuursorgaan.
+
+ Corporate veil
+
+Schuldeiser
+A
+
+Vennoot
+Controle
+
+Schuldeiser
+B
+
+VOF
+
+ Verschil met volkomen rechtspersoon
+
+Miet
+Activa
+
+Miet BV
+Activa
+
+Onderneming
+s-activa van
+Miet BV
+
+Passiva
+“Vennootschapssluier”
+“Corporate veil”
+Onderneming
+s-passiva van
+Miet BV
+
+Persoonlijke
+activa van
+Miet
+
+Passiva
+
+Persoonlijke
+passiva van
+Miet
+
+ Verschil met volkomen rechtspersoon
+
+Controle
+
+Controle
+
+ Ander verschil: geen capital lock-in
+Art. 4:16. De vennootschap wordt ontbonden:
+•
+•
+
+door het verstrijken van haar duurtijd;
+
+•
+
+door de dood, de onbekwaamheid, de vereffening, het faillissement of het
+kennelijk onvermogen van een van de vennoten;
+
+•
+
+door de beslissing van de vennoten genomen met eenparigheid of, in
+voorkomend geval, met de in de overeenkomst bepaalde meerderheid;
+
+•
+
+of door de verwezenlijking van een ontbindende voorwaarde van de
+overeenkomst.
+
+door het materieel of juridisch tenietgaan van de zaak of door het voltrekken
+van de verrichting, indien zij uitsluitend werd opgericht met het oog op de
+exploitatie van die zaak of het stellen van die verrichting;
+
+ Geen capital lock-in
+
+De Vries Jan. 2003.
+“Connecting Europe and
+Asia: A Quantitative
+Analysis of the Caperoute Trade, 1497-1795”
+in Flynn D. O. , Giraldez
+A., eds., Global
+Connections and
+Monetary History, 1470Giuseppe
+Dari-Mattiacci,
+1800
+, 35 –105.
+Oscar Gelderblom, Joost
+Jonker, Enrico C. Perotti,
+The Emergence of the
+Corporate Form, The
+Journal of Law,
+Economics, and
+Organization, Volume
+33, Issue 2, May 2017,
+193–236.
+
+ Niet-rechtspersoon en onvolkomen rechtspersoon
+nen
+o
+s
+r
+tspe
+h
+c
+re
+
+VOF
+CommV
+
+ve
+nn
+oo
+ts
+en chap
+p
+
+maatsch
+ap
+Boek 4
+
+ art. 4:1 – art. 4:21 (inleiding, aandeel, bestuur,
+vennotenvergadering, vermogen, ontbinding en
+scheidingsregelingen)
+VOF en CommV:
+ art. 4:22 – art. 4:28
+ bepalingen voor maatschap minus die over
+onverdeeldheid (art. 4:23)
+Maatschap:
+
+ Niet-rechtspersoon en onvolkomen rechtspersoon
+nen
+o
+s
+r
+tspe
+h
+c
+re
+
+VOF
+CommV
+
+Boek 2
+
+ve
+nn
+oo
+ts
+en chap
+p
+
+maatsch
+ap
+Boek 4
+
+Art. 2:1: “De bepalingen van dit boek zijn van toepassing op alle
+rechtspersonen geregeld in dit wetboek, voor zover ervan niet
+wordt afgeweken in de volgende boeken”
+promotor, naam en zetel, oprichting en openbaarmaking, nietigheid
+van vennootschap en van besluiten, bestuur (inclusief ‘cap’),
+geschillenregeling, ontbinding en vereffening
+
+ Belang van rechtspersoonlijkheid
+Art. 4:22. De maatschap waarvan de vennoten
+overeenkomen dat zij rechtspersoonlijkheid zal genieten,
+neemt de vorm aan van een vennootschap onder firma of
+van een commanditaire vennootschap. (…)
+In de vennootschap onder firma en de commanditaire
+vennootschap zijn de zaakvoerder(s) het bestuursorgaan.
+
+ Keerzijde: oprichtingsformaliteiten
+• Oprichtingsakte: rechtsgeldige vennootschap, maar nog geen
+rechtspersoonlijkheid
+o
+o
+
+Authentieke akte (zie art. 2:5, tweede lid WVV)
+VOF, CommV: kan onderhands (zie art. 2:5, eerste lid WVV)
+
+• Publicatie: 2 fasen
+o
+
+o
+
+Neerlegging uittreksel (art. 2:8 WVV):
+• rechtspersoonlijkheid (art. 2:6 WVV)
+• vennootschapsdossier en inschrijving KBO (art. 2:7 WVV)
+Binnen 10 dagen: bekendmaking oprichtingsakte in BBS: tegenwerpelijk aan
+derden (art. 2:13 en 2:18 WVV)
+
+! Ook verdere wijzigingen en bepaalde handelingen (bv. benoeming en
+ontslag) bestuurders moeten worden bekend gemaakt (art. 2:14 WVV)
+
+ Gevolg bekendmaking
+Art. 2:18. De stukken die krachtens dit hoofdstuk moeten worden
+openbaar gemaakt, kunnen aan derden slechts worden
+tegengeworpen vanaf de dag van neerlegging ervan of, indien zij
+volgens de voorschriften van dit hoofdstuk ook moeten worden
+bekendgemaakt, vanaf de dag van bekendmaking ervan in de
+Bijlagen bij het Belgisch Staatsblad, behalve indien de
+rechtspersoon aantoont dat die derden er reeds kennis van
+hadden. Derden kunnen zich niettemin beroepen op stukken die
+niet zijn neergelegd of bekendgemaakt. Die stukken kunnen met
+betrekking tot handelingen verricht voor de zestiende dag volgend
+op de bekendmaking, niet worden tegengeworpen aan derden die
+aantonen dat zij er onmogelijk kennis van hadden kunnen hebben.
+…
+
+ Rechtspersoon: publiciteit
+
+EXTRA VOORWAARDE VOOR TEGENWERPELIJKHEID
+
+GEEN MIDDEL VOOR EXTRA TEGENWERPELIJKHEID
+Principe:
+rechtshandeling is
+tegenwerpelijk aan
+derden
+
+31
+
+ Informatie over rechtspersonen
+
+http://www.ejustice.just.fgov.be/tsv/tsvn.htm
+http://www.nbb.be
+
+ VOF vs. CommV
+•
+
+Commanditaire vennoten in CommV zijn slechts beperkt aansprakelijk (art.
+4:24, eerste lid)  gecommanditeerde vennoot
+
+•
+
+Nuance (art. 4:24, tweede lid): schuldeisers kunnen aandeelhouders dwingen
+tot betaling:
+
+•
+
+o
+
+van niet-volgestorte inbrengen (volstortingplicht)
+
+o
+
+van dividenden niet genomen uit “werkelijke en gerealiseerde winst” van de
+vennootschap (uitkeringstest)
+
+o
+
+met eventueel verhaal van aandeelhouders op de zaakvoerders bij fout
+(bestuursaansprakelijkheid)
+
+o
+
+aan de vennootschap (≈ art. 1166 oud BW)
+
+Uitzondering: “werkende” commanditaire vennoot (art. 4:25; infra)
+
+ “Werkende” commanditaire vennoot
+Art. 4:25.
+§ 1. Een commanditaire vennoot mag geen enkele daad van bestuur verrichten,
+zelfs niet krachtens een volmacht.
+Adviezen en raadgevingen, daden van controle evenals machtigingen aan
+zaakvoerders gegeven voor handelingen die buiten hun bevoegdheid liggen, zijn
+evenwel geen daden van bestuur als bedoeld in het eerste lid.
+§ 2. Een commanditaire vennoot is ten aanzien van derden hoofdelijk
+aansprakelijk voor alle verbintenissen van de vennootschap, waaraan hij heeft
+meegewerkt met overtreding van de verbodsbepaling van paragraaf 1.
+Hij is ten aanzien van derden net als de gecommanditeerde vennoten hoofdelijk
+aansprakelijk voor alle verbintenissen van de vennootschap indien hij er een
+gewoonte van gemaakt heeft de zaken van de vennootschap waar te nemen of
+indien zijn naam in de naam van de vennootschap voorkomt.
+
+ VOF vs. CommV
+• Vennoten in VOF zijn onbeperkt aansprakelijk (art. 4:22,
+tweede lid)
+
+• Nuance: vennoten in VOF of CommV niet persoonlijk
+veroordeeld voor vennootschapsschulden zolang deze niet
+zelf is veroordeeld (art. 4:26) (≈ hoofdelijke borg)
+
+   Walter, Jacques en Greta richten een uitzendkantoor voor emeriti op onder de
+vorm van een vennootschap onder firma (VOF). Walter stelt zijn arbeid en
+uitgebreid netwerk ter beschikking van de vennootschap. Jacques brengt het
+genot van zijn appartement in om daar de zetel van de vennootschap te
+vestigen. Greta's inbreng bestaat uit de overdracht in eigendom van een som
+geld. De drie vennoten komen overeen dat ieders winst- en verliesbijdrage en
+liquidatie-uitkering gelijk is.
+De zaken verlopen minder vlot dan verwacht en na twee jaar gaat de VOF
+failliet. Wat zijn de rechten van 1. de schuldeisers van de VOF en 2. van
+persoonlijke schuldeisers van Walter ten aanzien van :
+
+•
+
+de computers van de vennootschap (die met de inbreng van Greta zijn
+gekocht);
+
+•
+•
+
+het appartement waar de zetel van de vennootschap gevestigd was;
+de sportwagen van Walter ?
+
+ 

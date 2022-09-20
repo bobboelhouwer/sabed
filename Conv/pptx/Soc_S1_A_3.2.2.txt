@@ -1,0 +1,2082 @@
+DEEL III:
+PSYCHOLOGIE van de
+INTELLIGENTIE
+
+3. Topics in
+intelligentieonderzoek
+1
+
+ Vragen
+- Wat zijn elementaire processen van intelligentie?
+- In welke mate en hoe is intelligentie functie van
+genen en/of opvoeding?
+- Etnische- en sekse/genderverschillen in
+intelligentie?
+
+2
+
+ INHOUD
+3.1. Elementaire processen in intelligentie
+3.1.1. Cognitieve correlaten
+3.1.2. Cognitieve componenten
+
+3.2. Oorzaken van intelligentie: Genen en opvoeding
+3.3. Controverses
+
+3
+
+ 3.1. Elementaire
+processen
+Vorige : STRUCTUUR van intelligentie:
+FA of theorie postuleert structuur van individuele verschillen in
+intelligentie heeft, hoeveel dimensies het heeft etc.
+MAAR dit bewijst niet dat deze dimensies ook werkelijk
+oorzakelijke processen reflecteren die aan de grondslag liggen
+van (individuele verschillen in) intelligentie
+Cfr. Correlatie tussen mijn leeftijd, prijs van zwitserse kaas, de
+populatie van Mexico stad, de afstand tussen sterrenstelsels,
+het gewicht van mijn troetelschildpad over de tijd
+
+4
+
+ 3.1. Elementaire
+processen
+Þ Ander onderzoek heeft zich toegespitst op identificeren van
+elementaire processen die een rol zouden kunnen spelen in
+intelligentie.
+IDEE: (ind verschillen in) prestaties op complexe cognitieve taken
+zijn resultaat van elementaire cognitieve processen
+Hoe?
+• taakanalyse: welke elementaire processen kunnen rol spelen?
+• elementaire processen meten met elementaire taak
+• (evt: systematische manipulatie van stimuluskarakteristieken van
+elementaire taak)
+• verschillen in elementaire procesmaat relateren aan individuele
+verschillen in complexe taak
+
+2 tradities:
+1. Cognitieve correlaten
+2. Cognitieve componenten
+5
+
+ 3.1.1. Cognitieve correlaten
+•
+
+starten bij complexe taak: theoretische procesanalyse
+van taak → welke elementaire processen spelen een rol
+en waarin kunnen individuele verschillen zich
+manifesteren
+
+•
+
+zoeken van nieuwe elementaire cognitieve taken die deze
+elementaire processen zouden meten
+
+•
+
+verband nagaan tussen prestatieverschillen op complexe
+taak en maten van elementaire informatieverwerking
+
+6
+
+ 3.1.1. Cognitieve correlaten
+Werkwijze (vervolg)
+proefpersoon
+1
+
+prestatie op
+complexe cognitieve
+taak
+T1(pp 1)
+
+elementaire
+procesmaat
+(vaak reactietijd)
+T2(pp 1)
+
+2
+
+T1(pp 2)
+
+T2(pp 2)
+
+…
+n
+
+…
+T1(pp n)
+
+…
+T2(pp n)
+correlatie?
+
+7
+
+ 3.1.1. Cognitieve correlaten
+Werkwijze
+Voorbeeld:
+(1) Cognitieve correlaten van algemene intelligentie
+(2) Cognitieve correlaten van verbale intelligentie
+
+8
+
+ 3.1.1. Cogn. correlaten: Algemene
+intelligentie
+
+Proces-analyse
+Uitgangspunt:
+Intelligentie = snel informatie kunnen verwerken
+neuraal efficiëntiemodel van Jensen en Vernon Jr.
+–
+
+Jensen: sterk biologische opvatting van intelligentie
+
+–
+
+Centraal kenmerk van intelligentie = informatie verwerken,
+bestaat uit
+• informatie stockeren in werkgeheugen
+• operaties uitvoeren op informatie: ophalen of stockeren van
+informatie in lange termijn geheugen, rehearsal of bewerken
+van informatie in werkgeheugen, updaten van nieuwe info,
+etc
+MAAR menselijk informatieverwerkingssysteem is beperkt:
+• stockering: stimulussporen in werkgeheugen vervagen snel
+• operaties: slechts beperkt # simultaan uitvoeren
+9
+
+ 3.1.1. Cogn. correlaten: Algemene
+intelligentie
+
+Proces-analyse (vervolg)
+ALS snellere informatieverwerking → DAN beperkingen minder
+erg
+• stockering:
+– informatie verwerkt vooraleer stimulussporen in
+werkgeheugen vervagen
+– meer capaciteit beschikbaar om deze vervaging tegen te
+gaan via rehearsal, hercoderen, updaten, enz…
+• operaties: minder snel overbelast
+ÞSnelheid is cruciaal in intelligentie
+ÞOp zoek naar elementaire taakjes om cognitieve snelheid te
+meten
+10
+
+ 3.1.1. Cogn. correlaten: Algemene
+intelligentie
+3.1.1.1. RT: Hick paradigma/Jensen reaction time box
+
+doelknoppen
+thuisknop
+vinger op thuisknop; als lampje aangaat, zo snel mogelijk
+juiste doelknop indrukken
+11
+
+ 3.1.1. Cogn. correlaten: Algemene
+intelligentie
+RT bestaat uit 2 delen:
+
+1. beslissingstijd: tijd van lampje aan tot loslaten
+thuisknop
+Duitse onderzoeker Hick ontdekte dat 1. lineair stijgt
+naarmate de hoeveelheid informatie groter werd die
+proefpersoon moet verwerken (bv. 2 vs 4 lampjes)
+= De wet van Hick
+Dit deel van RT reflecteert elementair keuzeproces!
+2. bewegingstijd: tijd van loslaten thuisknop tot indrukken
+doelknop
+→ blijft constant: reflecteert louter psychomotoriek
+Sinds ’70: vele studies tonen correlatie tussen RT op deze
+taken en intelligentietests: -.20:-.49 (e.g., Deary, Der, & ford,
+
+12
+
+ 3.1.1. Cogn. correlaten: Algemene
+intelligentie
+3.1.1.2. Inspection Time
+Naast keuzeproces, onderzochten onderzoekers ook rol van
+elementaire perceptuele processen
+Bv. inspectietijd: de korste mogelijke presentatieduur van een
+S waarop de proefpersoon nog kan rapporteren wat de S is.
+= volledig onafhankelijk van cultuur en sociaal leren dichter
+bij g?
+Bv. Stimulus: 2 lijnen. Taak = aangeven welke langste is (erna masked):
+1s: iedereen
+<1s: naarmate korter: sommigen blijven langer juist
+antwoorden dan anderen
+
+Correlatie error-rate en alg intelligentie = -.51!
+(Grudnik & Kranzler, 2001)
+
+13
+
+ 3.1.1. Cogn. correlaten: Algemene
+intelligentie
+DUS:
+Algemene intelligentie r met eenvoudige RT en visuele
+snelheid
+→ geeft aan dat deze processen, op een zeer basaal niveau,
+meespelen in complexe cognitieve processen
+(maar natuurlijk niet alles)
+
+RECENT zie
+https://journals.sagepub.com/doi/full/10.117
+7/0963721419896365
+14
+
+ 3.1.1. Cogn. correlaten: Verbale
+intelligentie
+
+Proces-analyse
+Idem filosofie als bij algemene intelligentie
+•
+
+individuele verschillen in begrijpen van verbale informatie
+verklaren aan de hand van individuele verschillen in
+accuraatheid en snelheid van twee processen:
+–
+
+lexicale processen: intern woordenboek raadplegen
+om woorden in zin te identificeren → lange termijn
+geheugen
+
+–
+
+syntactische / semantische processen: syntactische en
+semantische verwerking van zin → werkgeheugen
+
+15
+
+ 3.1.1. Cogn. correlaten: Verbale
+intelligentie
+•
+
+•
+
+Ontwerpen van elementaire taken
+
+lexicale processen: lexicale beslissingstaken
+–
+stimuli aangeboden zoals KAT en KAG; zo snel mogelijk
+beslissen of het om een woord gaat
+–
+kritiek: wel snelheid van toegang tot lexicon maar
+geen betekenis. Echter: hoe ‘dieper’
+informatieverwerking, hoe sterker verband tss
+snelheid op taak en verbale intelligentie
+bv. horen ‘wild en hert’ samen?
+syntactische/semantische processen: sentence
+verification taken
+–
+stimuli aangeboden zoals
+
+Plus staat links van het sterretje. * +
+
+–
+
+zo snel mogelijk aangeven of zin bijbehorende
+pictoriale informatie correct weergeeft
+16
+
+ 3.1.1. Cogn. correlaten: Verbale
+intelligentie
+
+Resultaten
+proefpersoon
+
+score op
+algemene
+verbale
+begripstest
+
+reactietijd
+lexicale
+decisietaak
+
+reactietijd
+sentence
+verification
+taak
+
+1
+
+T1(pp 1)
+
+T2(pp 1)
+
+T3(pp 1)
+
+2
+
+T1(pp 2)
+
+T2(pp 2)
+
+T3(pp 2)
+
+…
+
+…
+
+…
+
+…
+
+n
+
+T1(pp n)
+
+T2(pp n)
+
+T3(pp n)
+
+-.40
+
+lage correlatie!
+-.40
+
+17
+
+ 3.1.2. Cognitieve componenten
+Uitgangspunt:
+Analyse maken van complexe taak en opdelen in meer
+elementaire deeltaken
+Aan de hand van experimenteel onderzoek nagaan in welke
+mate de elementaire deeltaken bijdragen tot prestatie op
+complexe taak
+Bv. voetbal: winst of verlies, spelen vele factoren een rol
+Factoren identificeren
+Aantal spelers op einde, vroeg of laat op de dag, thuis vs. uit, kleur shirts,
+aantal corners, etc…
+Grote hoeveelheid wedstrijden analyzeren, en kijken in welke mate
+factoren bijdragen
+HIER: opzet is idem, maar “wedstrijden” via experimentele studies
+
+18
+
+ 3.1.2. Cognitieve componenten
+5 stappen
+1. Maak theorie over oplossingsproces van bepaalde
+elementaire taak; koppel elk deelproces aan
+taakkarakteristiek
+2. Stel formule op om de oplossingstijd van de elementaire
+taak te bepalen uit de oplossingstijden van de
+deelprocessen
+3. Laat de taakkarakteristieken van de elementaire taak
+onafhankelijk variëren, om zo hun effect te achterhalen
+4. Bepaal per individu de oplossingstijd per deelproces
+5. Bereken de correlatie (over personen) tussen de
+oplossingstijden per deelproces en de score op een
+intelligentietest.
+Resultaten: bv Sternberg: metacomponenten spelen
+belangrijke rol!
+
+19
+
+ 3.1.2. Cognitieve componenten
+5 stappen
+1. Maak theorie over oplossingsproces van bepaalde
+elementaire taak; koppel elk deelproces aan
+taakkarakteristiek
+2. Stel formule op om de oplossingstijd van de elementaire
+taak te bepalen uit de oplossingstijden van de
+deelprocessen
+3. Laat de taakkarakteristieken van de elementaire taak
+onafhankelijk variëren, om zo hun effect te achterhalen
+4. Bepaal per individu de oplossingstijd per deelproces
+5. Bereken de correlatie (over personen) tussen de
+oplossingstijden per deelproces en de score op een
+intelligentietest.
+
+20
+
+ 3.1.2.1. Cognitieve componenten
+Werkwijze: Stap 1
+•
+
+Sternberg: grondige, algemeen-psychologische,
+procesanalyse van elementaire cognitieve taken
+→ elementaire informatieverwerkingsprocessen
+of componenten
+
+•
+
+voorbeeld elementaire taak: figuraal analogieitem van klassieke test
+:
+A
+
+::
+B
+
+: ?
+C
+
+D
+21
+
+ 3.1.2.1. Cognitieve componenten
+Werkwijze: Stap 1
+:
+A
+
+::
+B
+
+: ?
+C
+
+D
+
+figuren verschillen op 4 kenmerken met elk twee waarden
+–
+
+grootte buitenfiguur: klein/groot
+
+–
+
+vorm buitenfiguur: driehoek/cirkel
+
+–
+
+kleur buitenfiguur: paars/wit
+
+–
+
+witte binnenfiguur aanwezig: ja/neen
+
+22
+
+ 3.1.2.1. Cognitieve componenten
+Werkwijze: Stap 1
+:
+A
+
+::
+B
+
+: ?
+C
+
+D
+
+oplossingsproces item bestaat uit 5 componenten
+–
+
+encoderen: identificeren van kenmerken van A, B, C, D
+
+–
+
+infereren: afleiden van verschillen tussen A en B
+
+–
+
+afbeelden: afleiden van verschillen tussen A en C
+
+–
+
+toepassen: berekenen van juiste antwoord D’, gegeven
+verschillen (A,B) en (A,C)
+
+–
+
+antwoorden + rest
+23
+
+ 3.1.2.1. Cognitieve componenten
+Werkwijze
+5 stappen
+1. Maak theorie over oplossingsproces van bepaalde
+elementaire taak; koppel elk deelproces aan
+taakkarakteristiek
+2. Stel formule op om de oplossingstijd van de elementaire
+taak te bepalen op basis van de oplossingstijden van de
+deelprocessen
+3. Laat de taakkarakteristieken van de elementaire taak
+onafhankelijk variëren, om zo hun effect te achterhalen
+4. Bepaal per individu de oplossingstijd per deelproces
+5. Bereken de correlatie (over personen) tussen de
+oplossingstijden per deelproces en de score op een
+intelligentietest.
+
+24
+
+ 3.1.2.1. Cognitieve componenten
+Werkwijze: Stap 2
+:
+A
+
+::
+B
+
+: ?
+C
+
+D
+
+Oplossingstijd item modelleren
+–
+
+encoderen: encodeertijd b1 per figuur = 4b1
+
+–
+
+infereren: inferentietijd b2 per ≠ A en B = 2b2 (kleur en vorm)
+
+–
+
+afbeelden: afbeeldingstijd b3 per ≠ A en C = 2b3 (grootte en binnen)
+
+–
+
+toepassen: toepassingstijd b4 per ≠ C en D’ = 2b4 (kleur en vorm)
+
+–
+
+antwoorden + rest: b0
+
+25
+
+ 3.1.2.1. Cognitieve componenten
+Werkwijze: Stap 2
+:
+A
+
+::
+B
+
+: ?
+C
+
+D
+
+Mits assumpties
+–
+
+alle componenten exhaustief uitgevoerd
+
+–
+
+alle componenten serieel uitgevoerd
+
+oplossingstijd item = b0 + 4b1 + 2b2 + 2b3 + 2b4
+
+26
+
+ 3.1.2.1. Cognitieve componenten
+Werkwijze
+5 stappen
+1. Maak theorie over oplossingsproces van bepaalde
+elementaire taak; koppel elk deelproces aan
+taakkarakteristiek
+2. Stel formule op om de oplossingstijd van de elementaire
+taak te bepalen uit de oplossingstijden van de
+deelprocessen
+3. Laat de taakkarakteristieken van de elementaire taak
+onafhankelijk variëren, om zo hun effect te achterhalen
+4. Bepaal per individu de oplossingstijd per deelproces
+5. Bereken de correlatie (over personen) tussen de
+oplossingstijden per deelproces en de score op een
+intelligentietest.
+
+27
+
+ 3.1.2.1. Cognitieve componenten
+Werkwijze: Stap 3
+hoe b0, b1, b2, b3, b4 berekenen/schatten?
+
+•
+
+(1) meerdere items voorleggen aan proefpersoon, waarbij
+componentiële inhoud van de items experimenteel
+gemanipuleerd wordt
+–
+
+# ≠’n tussen A en B en tussen A en C gevarieerd
+
+:
+A
+
+::
+B
+
+: ?
+C
+
+D
+
+oplossingstijd item = b0 + 4b1 + 3b2 + 1b3 + 3b4
+28
+
+ 3.1.2.1. Cognitieve componenten
+Werkwijze: Stap 3
+(2) precueing: oplossingstijd van # componenten isoleren
+•
+
+gedeelte van item tonen: proefpersoon voert alle
+componenten uit die hij al kan uitvoeren
+
+:
+A
+
+B
+
+– reeds uitgevoerde componenten: 2b1 + 2b2
+
+29
+
+ 3.1.2.1. Cognitieve componenten
+Werkwijze: Stap 3
+•
+
+volledige item tonen en oplossingstijd meten: nog niet uitgevoerde
+componenten geïsoleerd
+
+:
+A
+
+::
+B
+
+: ?
+C
+
+– oplossingstijd geïsoleerde componenten
+2b4
+
+D
+= b0 + 2b1 + 2b3 +
+
+30
+
+ Oefening:
+Ontleed de acht figurale analogieën op de volgende
+slide: Bepaal hoeveel keer er moet geëncodeerd
+(X1), geïnfereerd (X2), afgebeeld (X3) en toegepast
+(X4) worden
+– zonder precueing
+– met precueing (eerste kolom wordt op
+voorhand getoond)
+
+31
+
+ item 1
+
+item 2
+
+item 3
+item 4
+
+item 5
+32
+
+ item 6
+
+item 7
+
+item 8
+
+33
+
+ 3.1.2.1. Cognitieve componenten
+Werkwijze
+5 stappen
+1. Maak theorie over oplossingsproces van bepaalde
+elementaire taak; koppel elk deelproces aan
+taakkarakteristiek
+2. Stel formule op om de oplossingstijd van de elementaire
+taak te bepalen uit de oplossingstijden van de
+deelprocessen
+3. Laat de taakkarakteristieken van de elementaire taak
+onafhankelijk variëren, om zo hun effect te achterhalen
+4. Bepaal per individu de oplossingstijd per deelproces
+5. Bereken de correlatie (over personen) tussen de
+oplossingstijden per deelproces en de score op een
+intelligentietest.
+
+34
+
+ 3.1.2.1. Cognitieve componenten
+Werkwijze: Stap 4
+OT(item)
+
+antw.
+
+enc.
+
+inf.
+
+afb.
+
+toep.
+
+tijd #
+
+tijd #
+
+tijd #
+
+tijd #
+
+OT(1)
+
+=
+
+b0
+
++ b1 4 + b2 2 + b3 2 + b4 2
+
+OT(2)
+
+=
+
+b0
+
++ b1 4 + b2 3 + b3 1 + b4 3
+
+OT(3)
+
+=
+
+b0
+
++ b1 2 + b2 0 + b3 2 + b4 2
+
+…
+
+=
+
+b0
+
++ b1 … + b2 … + b3 … + b4 …
+
+• uit vergelijkingen trachten b0, b1, b2, b3, b4 te berekenen →
+meestal geen perfecte oplossing mogelijk
+• zoeken naar b0, b1, b2, b3, b4 zodat optelsommen van
+componenten de OT’s zo goed mogelijk benaderen
+35
+
+ 3.1.2.1. Cognitieve componenten
+Werkwijze: Stap 4
+OT(item)
+
+antw.
+
+enc.
+
+inf.
+
+afb.
+
+toep.
+
+tijd #
+
+tijd #
+
+tijd #
+
+tijd #
+
+OT(1)
+
+
+
+b0
+
++ b1 4 + b2 2 + b3 2 + b4 2
+
+OT(2)
+
+
+
+b0
+
++ b1 4 + b2 3 + b3 1 + b4 3
+
+OT(3)
+
+
+
+b0
+
++ b1 2 + b2 0 + b3 2 + b4 2
+
+…
+
+
+
+b0
+
++ b1 … + b2 … + b3 … + b4 …
+
+regressiegewichten predictoren X1,X2,X3,X4
+OPM: dit is een meervoudig regressieprobleem!
+36
+
+ 3.1.2.1. Cognitieve componenten
+Werkwijze: Stap 4
+•
+
+meervoudige regressie:
+–
+
+gegeven X1,X2,X3,X4 en OT, zoek b0, b1, b2, b3, b4 in
+
+OT OTest = b0 + b1X1 + b2X2 + b3X3 + b4X4
+I
+
+est
+
+OT (item i )  OT (item i )  ²
+
+zodati 1 
+
+
+zo
+
+klein mogelijk
+
+–
+
+r2(OT,OTest) = proportie variantie van OT die verklaard
+wordt bij optimale lineaire voorspelling van OT op basis
+van X1,X2,X3,X4
+
+37
+
+ 3.1.2.1. Cognitieve componenten
+Werkwijze: Stap 4
+Oplossingstijden van één enkele proefpersoon voorspeld aan de hand van
+meervoudige lineaire regressie:
+–
+
+enkel verband tussen intraindividuele verschillen
+
+–
+
+gekwadrateerde meervoudige correlatiecoëfficiënt r2(OT,OTest) geeft
+aan in welke mate componentieel model van Sternberg opgaat voor
+proefpersoon in kwestie
+
+–
+
+als r2(OT,OTest) groot voor alle onderzochte proefpersonen →
+empirische ondersteuning voor algemeen-psychologische
+geldigheid van componentieel model = interne validiteit
+
+38
+
+ 3.1.2.1. Cognitieve componenten
+Werkwijze: Stap 4
+•
+
+wat met interindividuele verschillen?
+–
+
+hoeven niet onderzocht te worden, maar is wel ruimte
+voor:
+•
+
+waarden van b0, b1, b2, b3, b4 kunnen verschillen van
+proefpersoon tot proefpersoon
+de bijdrage van de verschillende componenten kan
+verschillen van persoon tot persoon
+
+39
+
+ 3.1.2.1. Cognitieve componenten
+Werkwijze
+5 stappen
+1. Maak theorie over oplossingsproces van bepaalde
+elementaire taak; koppel elk deelproces aan
+taakkarakteristiek
+2. Stel formule op om de oplossingstijd van de elementaire
+taak te bepalen uit de oplossingstijden van de
+deelprocessen
+3. Laat de taakkarakteristieken van de elementaire taak
+onafhankelijk variëren, om zo hun effect te achterhalen
+4. Bepaal per individu de oplossingstijd per deelproces
+5. Bereken de correlatie (over personen) tussen de
+oplossingstijden per deelproces en de score op een
+intelligentietest.
+
+40
+
+ 3.1.2.1. Cognitieve componenten
+Werkwijze: Stap 5
+componentiële oplossingstijden
+pp
+
+b0
+
+b1
+
+b2
+
+b3
+
+b4
+
+1
+
+b0(1) b1(1) b2(1) b3(1) b4(1)
+
+2
+
+b0(2) b1(2) b2(2) b3(2) b4(2)
+
+…
+n
+
+…
+
+…
+
+…
+
+…
+
+…
+
+b0(n) b1(n) b2(n) b3(n) b4(n)
+
+complexe cognitieve
+taken
+inductief perceptuele
+redeneren snelheid
+T1(1)
+T2(1)
+T1(2)
+
+T2(2)
+
+…
+
+…
+
+T1(n)
+
+T2(n)
+
+convergente validiteit: correlaties significant?
+
+41
+
+ 3.1.2.1. Cognitieve componenten
+Werkwijze: Stap 5
+componentiële oplossingstijden
+pp
+
+b0
+
+b1
+
+b2
+
+b3
+
+b4
+
+1
+
+b0(1) b1(1) b2(1) b3(1) b4(1)
+
+2
+
+b0(2) b1(2) b2(2) b3(2) b4(2)
+
+…
+n
+
+…
+
+…
+
+…
+
+…
+
+…
+
+b0(n) b1(n) b2(n) b3(n) b4(n)
+
+complexe cognitieve
+taken
+inductief perceptuele
+redeneren snelheid
+T1(1)
+T2(1)
+T1(2)
+
+T2(2)
+
+…
+
+…
+
+T1(n)
+
+T2(n)
+
+riminante validiteit: correlaties niet sign. verschillend van420?
+
+ 3.1.2.2. Resultaten
+
+) verschillende componenten zijn nagenoeg onafhankelijk
+componentiële oplossingstijden
+pp
+
+b0
+
+b1
+
+b2
+
+b3
+
+b4
+
+1
+
+b0(1) b1(1) b2(1) b3(1) b4(1)
+
+2
+
+b0(2) b1(2) b2(2) b3(2) b4(2)
+
+…
+n
+
+…
+
+…
+
+…
+
+…
+
+…
+
+b0(n) b1(n) b2(n) b3(n) b4(n)
+zeer lage correlaties
+
+43
+
+ 3.1.2.2. Resultaten
+(2) Uitvoeringscomponenten hebben een zekere
+veralgemeenbaarheid. Schattingen van componenten uit,
+bv, figurale analogie-items correleren met schattingen uit
+verbale analogie-items.
+(3) Componentscores uit modellen voor oplossingstijd en
+componentscores uit modellen voor accuraatheid zijn slechts
+matig gecorreleerd.
+
+Snelheid en accuraatheid zijn twee afzonderlijke aspecten
+van
+het oplossingsproces van analogie-items.
+
+44
+
+ 3.1.2.2. Resultaten
+(4) Relaties tussen componentscores en scores op complexe
+intelligentietest
+• Encoderen correleert positief met scores op complexe tests
+• Infereren, afbeelden en toepassen correleert negatief met
+scores op complexe tests
+• MAAR OPVALLEND: b0 vertoont de hoogste negatieve
+correlatie met scores op klassieke tests
+de door Sternberg geïdentificeerde componenten zijn niet
+de enige uitvoeringscomponenten en waarschijnlijk zelfs
+niet de belangrijkste: sternberg vermoed hier een rol voor
+de metacomponenten
+
+45
+
+ 3.1.2.3. Cognitieve componenten
+Relevantie
+1. Algemene psychologie
+–
+
+laat vergelijking toe van verschillende algemeenpsychologische theorieën voor oplossen van taken.
+Welke is de beste ? (hoogste gekwadrateerde correlatie)
+
+2. Differentiële psychologie
+–
+
+kwantitatieve interindividuele verschillen: verschillen in
+componentiële snelheid (in de b’s)
+
+–
+
+kwalitatieve interindividuele verschillen:
+oplossingsstrategieën van individuen kunnen verschillen
+→ data van individu 1 worden beter verklaard door
+theorie 1, die van individu 2 beter door theorie 2
+vb. verschillen in oplossingsstrategie (exhaustief of niet
+uitvoeren van componenten)
+46
+
+ 3.1.2.3. Cognitieve componenten
+Relevantie
+2. Differentiële psychologie
+Sternberg gebruikte zijn methode ook om extremen te
+bestuderen
+–
+
+Algemene mentale deficit: deficit in metacomponentieel
+functioneren (wat is het probleem?) en selectief
+encoderen (wat is relevant?)
+
+–
+
+Genialiteit: steeds even snel in selectief encoderen,
+combineren, en vergelijken met of zonder precueing 
+parallel processen
+
+Laat fijnere diagnostiek en remediering mogelijk
+
+47
+
+ 3.1.2.3. Cognitieve componenten
+Relevantie
+Resultaten kunnen helpen licht te werpen op resultaten van FA
+onderzoek
+Bv. wat is relatie met g?
+Sternberg ziet redenen voor opduiken van g in FA als gevolg van
+overlap in componenten
+(1) metacomponentiele overlap: metacomponenten spelen
+een
+belangrijke rol in veel complexe taken
+interpretatie van g-factor moet vervangen worden door
+def. in termen van plannen en sturen van
+uitvoeringscomponenten
+(2) overlap inzake uitvoeringscomponenten zoals
+encoderen en antwoorden spelen mee in veel taken
+Þ Correlaties tussen uiteenlopende taken
+Þ g
+48
+
+ Testmoment werkcollege
+Vrijdag 17 mei 9-1u: Test moment werkcollege
+WAT?
+Toest van aangeleerde vaardigheden en themas uit werkcolleges
+(verschillen tussen mensen, correlaties, factoranalyse, interactionisme)
+aan de hand van opdrachten
+HOE?
+Open boek, geen GSM/smartphone/smartwatch, rekenmachine, etc
+WAAR?
+6 aulas, zie toewijzing op Toledo
+DUUR? 2u
+Veel succes!!
+49
+
+ 3.2. Genen en opvoeding
+Tot nu: structuur en onderdelen van intelligentie
+MAAR welke factoren dragen bij tot intelligentie?
+Als we het hebben over “distale verklaringen”, komen we uit bij
+het nature-nurture debat (zie ook les 1).
+®In welke mate wordt intelligentie bepaald door genetische en
+opvoedingsfactoren?
+= debat dat in de 20e E zeer veel onderzoek, controverse, leed
+als gevolg heeft gehad
+MAAR: debat en inzichten zijn aan het veranderen in de 21ste
+E. Wetenschappelijk wordt er nu helemaal anders gedacht over
+nature-nurture
+HIER: kort enkele aspecten aanstippen
+(2de bach: meer uitgebreid over dit debat inzake
+persoonlijkheid)
+
+50
+
+ 3.2. Genen en opvoeding
+3.2.1. Klassiek onderzoek
+Klassieke vraag: in welke mate is een menselijke eigenschap
+(intelligentie), of individuele verschillen daarin, genetisch/door
+omgeving bepaald.
+ÞVraag naar de relatieve bijdrage van beide factoren
+vragen zijn allesbehalve vrijblijvend: oa. nauw verweven met vragen
+over zinvolheid van allerlei interventies om meer gelijkheid tussen
+mensen te realiseren
+
+Erfelijkheid (heritability)?
+= aandeel van de variantie in een bepaalde eigenschap die toe
+te schrijven is aan genetische variantie
+Omgevingsbepaaldheid?
+= aandeel van de variantie in een bepaalde eigenschap die toe
+te schrijven is aan omgevingsinvloeden
+Klassiek: additiviteitsaanname: beide zijn samen 1 (100%)
+51
+
+ 3.2. Genen en opvoeding
+DUS: model voor geobserveerde (fenotypische) individuele
+verschilsvariabele Y:
+Z(Y) = H + E (Heritability + Environment)
+
+Z(Y) → “fenotypisch” IQ: zoals zich manifesteert in
+organisme
+H → genotypisch IQ: uitsluitend bepaald door genetisch
+materiaal
+
+Z (Y ) 
+H E
+E → milieu-IQ, uitsluitend bepaald door omgeving waarin
+2
+2
+H,E stat.
+ Z2 (individu
+
+
+
+
+opgroeit
+Y)
+H
+E  2 cov( H , E )
+1
+
+
+
+h ²  e²
+
+onafh.
+
+h2: erfelijkheidscoëfficiënt (heritability) → proportie variantie in Y
+verklaard door interindividuele verschillen in erfelijke bagage
+e2 : milieucoëfficiënt (environment) → proportie variantie in Y
+verklaard door interindividuele verschillen in milieu (opvoeding)
+
+52
+
+ 3.2. Genen en opvoeding
+HOE KUNNEN WE DEZE BIJDRAGEN ACHTERHALEN?
+Methoden:
+a. Selectieve kweek, bv. honden
+b. Familie studies:
+- siblings: gemiddeld 50% gedeelde genetische constitutie
+- ouder-kind: 50%
+- grootouder-kind: 25%
+Als een trek sterk erfelijk is, dan zouden familieleden
+die meer genetisch gerelateerd zijn ook meer gelijkend
+moeten zijn met betrekking tot deze trek dan
+familieleden die minder genetisch gerelateerd zijn
+MAAR: ook gedeelde omgeving
+53
+
+ 3.2. Genen en opvoeding
+c. Tweelingenstudies
+- een eiige tweelingen (monozygote tweelingen): 100%
+genetische overlap
+- 2-eiige tweelingen (dizygote): 50%
+verschil in concordantie of in correlatie tussen MZ en DZ vertelt
+ons iets
+over genetische bijdrage
+d. Adoptiestudies
+- correlatie tussen kind en adoptieouder/sibling = enkel
+omgevingsinvloed
+- correlatie tussen kind en biologische ouder/sibling = enkel
+genetische
+invloed
+e. Twins reared apart: combineert beide voorgaande:
+concordantie of r(MZ twins reared apart) = directe schatting van
+erfelijkheid!
+54
+
+ 55
+
+ 3.2. Genen en opvoeding
+Resultaten
+Vb. concordantie voor intelligentie uit verschillende studies (de kans
+op aanwezigheid van zelfde intelligentieniveau in 2 individuen)
+87%:
+86%:
+76%:
+55%:
+47%:
+40%:
+31%:
+24%:
+
+zelfde persoon die tweemaal zelfde test neemt
+eeneiige tweelingen samen opgevoed
+eeneiige tweeling apart opgevoed
+Evidentie voor
+tweeeiige tweeling samen opgevoed
+opvoeding
+siblings samen opgevoed
+ouder en kind
+Evidentie voor
+ouder en kind apart
+genen
+siblings apart
+
+56
+
+ 3.2. Genen en opvoeding
+Resultaten
+Op basis van dergelijke studies:
+Aandeel erfelijkheid in intelligentie werd geschat op tussen 50 en
+80% (persoonlijkheid 30-50%)
+Opmerkingen:
+1. Binnen aandeel van omgeving wordt nog verdere opsplitsing
+gemaakt:
+- gedeelde invloeden: familiekenmerken etc.
+- niet gedeelde invloeden: invloeden uniek aan individu
+2. Schattingen zijn afhankelijk van onderzochtte populatie,
+bv schattingen verschillen ifv leeftijd: genetische component
+stijgt met leeftijd (en daalt weer op hoge leeftijd)
+bv. schattingen zijn afhankelijk van SES: lagere genetische
+bijdrage in lagere SES klassen: Als basiscondities niet vervuld
+zijn, kan gedepriveerd milieu nefaste invloed uitoefenen
+
+57
+
+ 3.2. Genen en opvoeding
+Resultaten
+Op basis van dergelijke studies:
+Aandeel erfelijkheid in intelligentie werd geschat op tussen 50 en
+80% (persoonlijkheid 30-50%)
+Opmerkingen:
+3. Recent onderzoek (e.g., Davis, 2011) geeft duidelijk aan dat
+- intelligentie wel degelijk sterk erfelijk bepaald is
+- maar door een grote hoeveelheid genen die elk samen klein
+deeltje
+bijdragen
+(intelligentie is polygenetisch: het resultaat van vele verschillen
+de kleine genetische invloeden: zie ook in vraagstelling van een
+unitaire
+intelligentie)
+cfr.
+https://www.nature.com/ng/journal/vaop/ncurrent/full/ng.3869.html
+58
+
+ 3.2. Genen en opvoeding
+MAAR
+3.2.2. Hedendaagse gedragsgenetica stelt fundamentele
+assumpties in vraag
+Nl. additiviteitsassumptie :
+1. Doet alsof er geen meetfout is:
+e2=1-h2
+MAAR zie test-hertest-r: gaat niet op
+2. Doet alsof er geen correlatie is: COV(h,e) = 0
+MAAR we weten dat dit niet opgaat: bv. slimme ouders,
+slimmere opvoeding; agressie: genetische en
+omgevingsinvloeden zijn gecorreleerd
+3. Doet alsof er geen interactie is: 1 = h2 + e2
+MAAR we weten dat de invloed van de omgeving bepaald
+wordt door genen en omgekeerd!
+
+59
+
+ 3.2. Genen en opvoeding
+Voorbeeld gen-omgevingsinteractie:
+Genetische bijdrage op mentale ontwikkeling ifv SES
+Studie Tucker-Drob et al., 2011
+
+60
+
+ 3.2. Genen en opvoeding
+Þ Hedendaags onderzoek gaat niet meer op zoek naar
+simplificaties en simpele schattingen.
+Intelligentie nature of nurture
+Intelligentie nature + nurture
+MAAR Intelligentie = nature x nurture
+de invloed van genetische factoren kan niet los onderzocht
+worden
+van omgevingsinvloeden (op genexpressie)
+de invloed van omgeving staat niet los van kenmerken van
+het
+genoom
+Het heeft GEEN ZIN om de invloed van beide apart te
+kwantificeren (Meaney)
+Hedendaags onderzoek bekijkt de interactie tussen beide
+onderzoekt bv. hoe omgevingsinvloeden de celhuishouding beïnvloeden, wat op zich weer genexpressie in de
+61
+cel beïnvloedt
+
+ 3.3. Controversen
+
+62
+
+ 3.3 Controversen
+Onderzoek uit 20ste E heeft wel tot inzicht geleid dat
+intelligentie beïnvloed wordt
+- deels door de omgeving,
+- deels door biologische (genetische) factoren
+®Heeft geleid tot verschillende interventies, controversen en
+discussies
+Rond opvoeding:
+3.3.1. Flynn effect (en omkering?)
+3.3.2. Compensatorische opvoedingsprogramma’s
+Rond biologische basis:
+3.3.3. Geslachts/gender-verschillen in intelligentie
+3.3.1. Etnische verschillen in intelligentie
+63
+
+ 3.3.1. Flynn effect
+James R. Flynn: professor uit Nieuw-Zeeland
+1981: studie over nieuwe uitgaven van intelligentietests: hield
+oa in dat mensen zowel oude als nieuwe test deden, en normen
+voor de nieuwe test opgesteld werden
+®Flynn merkte dat de IQ scores op oude tests (met oude
+normen) consistent hoger waren dan op nieuwe (met nieuwe
+normen):
+®Dus bv. iemand die 100 scoorde met normen van 1980, scoorde 110 met
+normen van 1950
+
+ÞBegon grondiger onderzoek te doen: Flynn (1987, 1994):
+betrouwbare aanwijzingen van verschillende landen dat IQ stijgt
+doorheen de tijd:
+gemiddeld 15 punten (1SD) per generatie!
+64
+sindsdien bevestigd in ander onderzoek (vooral fluid
+
+ 3.3.1. Flynn effect
+Vraag is natuurlijk wat oorzaak hiervan is.
+® Aangezien genetische constellatie niet zo snel wijzigt:
+omgevingsinvloeden
+® Flynn: het is niet zo dat generaties intelligenter worden, maar
+wel hun vaardigheden om complexe problemen op te lossen
+Andere hypothesen:
+1. Lengte van onderwijs
+2. Vertrouwdheid met intelligentietesten
+3. Opvoedingspraktijken:
+-
+
+ouders meer betrokken
+
+-
+
+Meer publieke initiatieven (Teletubbies, Sesamstraat, Dora, etc…)
+
+4. Technologische vooruitgang en informatiemaatschappij
+=cognitieve stimulatiehypothese: verwerken van
+complexe visuele en cognitieve informatie
+
+65
+
+ 3.3.1. Flynn effect
+® Geen eenduidigheid over voornaamste oorzaak
++ er lijkt een einde te komen aan het Flynn effect?
+Recente studies
+- Noorwegen (Sundet et al. 2004)
+- Denemarken (Teasdale & Owen, 2004)
+- Noorwegen (Bratsberg & Rogeberg, 2018;
+http://www.pnas.org/content/early/2018/06/05/1718793115):
+-
+
+stijging tot 70-80 en dan afvlakking en ombuiging!!
+
+-
+
+Oorzaken: effecten gevonden binnen families dus oorzaken als
+familiemigratie, aantal kinderen ifv IQ etc gaan niet op
+
+66
+
+ 3.3.1. Flynn effect
+Recente meta-analyses:
+Trahan et al. (2014, Psych Bulletin)
+http://psycnet.apa.org/journals/bul/140/5/1332/
+“3 punten per decennium”, geen afvlakking
+Pietschnig et al. (2013, Perspect Psych Science)
+http://pps.sagepub.com/content/10/3/282.abstract?etoc
+“2-4 punten per decennium”, geleidelijke afvlakking
+Wordt vervolgd….
+
+67
+
+ 3.3.2. Compensatorische
+opvoedingsprojecten
+3.3.2.1. Probleemstelling
+Zie onderzoek over genen en omgeving: omgeving speelt rol in
+intelligentie
+Onderzoek naar vele verschillende factoren: voeding, lood, prenataal
+gedrag van moeder, geboorteorde (“eerste is slimste” maar verklaring?)
+BELANGRIJKE FACTOR: SES = sociaal economische status
+® Afhankelijk van inkomen en opleiding van ouders
+
+® Hangt samen met intelligentie (r = .3 en .4)
+® Vraag van oorzaak en gevolg?
+® MAAR: aanwijzingen dat SES intelligentie beïnvloedt: bv. adoptiestudies
+
+vanaf 1960 talrijke opvoedingsprojecten opgezet bij kinderen uit gedepriveerd
+milieu → effect op intelligentie? (zie ook Sesamstraat, Teletubbies, etc)
+- Compensatorisch = compensatie voor het gedepriveerde milieu waarin
+personen opgroeien
+- Wat is gedepriveerd?
+
+68
+
+ 3.3.2. Compensatorische
+opvoedingsprojecten
+3.3.2.2. Gedepriveerde milieus
+• (1) meest extreme vorm: totale afwezigheid van menselijk
+milieu → onomkeerbare structurele en functionele afwijkingen
+(cfr. “wolfskinderen”)
+• (2) affectieve deprivatie: uitgesproken sensorische en
+motorische beperkingen samen met uiterst weinig contact
+met volwassenen
+(bv. weeshuis Bulgarije)
+– Skeels & Dye (1939): IQ van kinderen uit weeshuizen kan
+20 à 30 punten stijgen, door kind voor 6 jaar in betere
+milieuomstandigheden (vb. gemiddeld socio-economisch
+milieu) te plaatsen
+– Geen noodzakelijke irreversibele gevolgen voor IQ,
+uiteraard wel voor welzijn en sociaal gedrag
+69
+
+ 3.3.2. Compensatorische
+opvoedingsprojecten
+3.3.2.2. Gedepriveerde milieus
+• (3) culturele deprivatie: ondanks sensorische en motorische
+stimulatie en affectieve warmte, is er bv.
+• gebrekkige huisvesting
+• volwassen gebruiken rudimentaire taal
+• weinig of geen conversatie tussen ouders en kind
+• geen of weinig educatief speelgoed
+• geen leesboeken
+• autoritaire opvoedingsstijl
+• niet naar kleuter- of peuterschool, etc. ….
+= gedepriveerde milieus
+In extremere gevallen: vb. bergkinderen, kanaalbootkinderen, kinderen
+die in sloppenwijken of old style gestichten opgroeien (recent: Turpin
+familie)
+70
+
+ 3.3.2. Compensatorische
+opvoedingsprojecten
+3.3.2.3. Projecten en hun effecten
+Þ Projecten werden in verschillende vormen en fases
+opgericht met idee van kinderen in gedepriveerde milieus
+toch optimale kansen en intelligentieontwikkeling te geven
+− intellectuele training
+− stimulatie van taalontwikkeling van kind en ouders
+− algemeen-cultureel niveau van milieu wordt opgedreven
+− opvoedingsklimaat geoptimaliseerd
+− verstrekken van medische hulp en voorlichting
+Twee soorten projecten:
+(3.3.2.3.1.) Voorschoolse Projecten
+(3.3.2.3.2.) Projecten vanaf de geboorte
+71
+
+ 3.3.2. Compensatorische
+opvoedingsprojecten
+3.3.2.3. Projecten en hun effecten
+(3.3.2.3.1.) Voorschoolse Projecten
+• “Head-start” projecten
+– VSA: president Johnson (1965)
+– kinderen uit cultureel gedepriveerde milieus ‘kopstart’ geven tijdens de
+zomervakantie voor start eerste leerjaar
+– resultaten gemengd: onmiddellijk na interventie scoren experimentele
+kinderen hoger maar kort na de start van het eerste leerjaar halen
+controlekinderen hen snel in inzake intelligentie
+– WEL: effecten op motivatie, schools presteren, hoewel complexe resultaten.
+
+• “Project Follow Through”
+– Starten voor basisschool en in eerste jaren basisschool blijven volgen
+– Effectiviteitsstudie: 1000-tal, voor 95 % afr-american kinderen uit laagste
+socio-economische milieus VSA die aan een of ander project al of niet
+deelnamen
+– Duur programma: enkele maanden tot 2j
+– Begin (1962-1972): stanford-binet test: 92
+– 1976: geen blijvende IQ-winst
+– WEL: gestegen schoolsucces in experimentele groep
+72
+
+ 3.3.2. Compensatorische opvoedingsprojecten
+3.3.2.3. Projecten en hun effecten
+(3.3.2.3.2) Projecten vanaf de geboorte
+• Milwaukee project
+– Moeder met WAIS IQ van 75 met baby jonger dan 6 maanden
+– 20 in experimentele conditie / 20 controleconditie
+– Twee aspecten: (a) programma voor moeder (huishouden,
+opvoeding, omgaan met kinderen) en (b) programma voor kind
+in kinderdagverblijf
+– Einde programma op 6 jaar: 21.4 IQ verschil
+– 12-14 jaar: IQ experimentele groep stabiel terwijl
+controlegroep stijg: op 12 jaar: verschil 17.8 IQ en op 14 jaar:
+verschil 9.9 IQ (maar schools presteren even goed)
+– Andere metingen dan IQ (zittenblijven, schoolse vorderingen):
+soms gunstige effecten, soms niet (resultaten complex)
+
+Conclusie: Er lijkt een blijvend effect op IQ te bestaan.
+
+73
+
+ 3.3.2. Compensatorische opvoedingsprojecten
+3.3.2.3. Projecten en hun effecten
+(3.3.2.3.2) Projecten vanaf de geboorte
+• Abecedarian Project
+– Selectie op basis van risico-index (inkomen ouders, socioeconomische status, IQ ouders, etc.)
+– Opdeling in exp en controle groep. Beide werden begeleid itv
+voeding, sociale services, health care, etc…
+– Programma gelijkaardig aan Milwaukee project
+– Einde project op 5 jaar: verschil van 10 IQ
+– Daarna: 12 jaar: verschil van 5 IQ
+– Conclusie: Er bestaan effecten maar die worden kleiner bij het
+begin van de adolescentie
+
+74
+
+ 3.3.2. Compensatorische opvoedingsprojecten
+3.3.2.3. Projecten en hun effecten
+(3.3.2.3.2) Projecten vanaf de geboorte
+• Studie 2017
+– http://science.sciencemag.org/content/357/6346/47
+– Many poor children are underprepared for demanding primary
+school curricula. Research in cognitive science suggests that
+school achievement could be improved by preschool pedagogy
+in which numerate adults engage children’s spontaneous,
+nonsymbolic mathematical concepts. To test this suggestion,
+we designed and evaluated a game-based preschool
+curriculum intended to exercise children’s emerging skills in
+number and geometry. In a randomized field experiment with
+1540 children (average age 4.9 years) in 214 Indian
+preschools, 4 months of math game play yielded marked and
+enduring improvement on the exercised intuitive abilities,
+relative to no-treatment and active control conditions. Mathtrained children also showed immediate gains on symbolic
+mathematical skills but displayed no advantage in subsequent
+learning of the language and concepts of school mathematics.
+
+75
+
+ Cognitive science in the field: A preschool intervention
+durably enhances intuitive but not formal mathematics
+by Moira R. Dillon, Harini Kannan, Joshua T. Dean, Elizabeth S. Spelke, and Esther
+Duflo
+
+Science
+Volume 357(6346):47-55
+July 7, 2017
+
+Published by AAAS
+
+76
+
+ Fig. 1 Materials from three math games and the corresponding social games.
+
+Moira R. Dillon et al. Science 2017;357:47-55
+
+Published by AAAS
+
+77
+
+ Fig. 2 Children in the intervention playing the math and social versions of the linear board game.
+
+Moira R. Dillon et al. Science 2017;357:47-55
+
+Published by AAAS
+
+78
+
+ Fig. 3 Z-scores of children’s performance on the three primary math outcome measures after the
+intervention, but before the start of primary school.
+
+Moira R. Dillon et al. Science 2017;357:47-55
+
+Published by AAAS
+
+79
+
+ Fig. 4 Z-scores of children’s performance on the three math composite measures at endlines 2
+and 3.
+
+Moira R. Dillon et al. Science 2017;357:47-55
+
+Published by AAAS
+
+80
+
+ 3.3.2. Compensatorische opvoedingsprojecten
+3.3.2.3. Projecten en hun effecten
+3.3.2.3.3. Algemene conclusies
+(1) Voorschoolse projecten lijken zwak effect te hebben op IQ, wel op schoolsucces en andere factoren zoals motivatie
+Totaal: complex samenspel van factoren (afhankelijk van groep, van gebruikte interventie, van nadruk tijdens
+interventie, etc…)
+(2) Projecten vanaf de geboorte hebben op korte termijn een duidelijk effect op IQ maar het wordt kleiner bij het begin
+van de adolescentie (cfr. gravitatie-hypothese)
+(3) Effecten op andere metingen dan IQ (zittenblijven, schoolse vorderingen)
+•
+
+Effecten lopen niet altijd parallel met effecten voor IQ
+
+•
+
+Soms gunstige effecten, soms niet (complex), maar algemeen wel gunstige effecten (Mervin, 2011; Pianta,
+2009)
+
+(4) Veel methodologische problemen (ethische en financiële moeilijkheden om wetenschappelijk ‘goed’ project op te
+zetten).
+
+Zie ook
+https://journals.sagepub.com/doi/full/10.1177/09
+63721418797300
+81
+!!!
+
+ 3.3.3. Groepsverschillen in Intelligentie
+Bevindingen dat genen een rol spelen, gaf aanleiding tot zoeken naar verschillen in
+intelligentie in “biologische categorieën” van mensen
+
+®
+
+Mensen hebben sterk de neiging om hun omwereld te categorizeren.
+
+®
+
+Twee van de meest saliënte sociale categorieën zijn
+- geslacht/gender
+- etniciteit
+
+®
+
+Psychologische verschillen tussen deze categorieën worden gemakkelijk geacht
+een biologische oorzaak te hebben
+MAAR
+- geslacht: zijn eventuele geslachtverschillen wel zo groot als populaire
+wetenschap ons wil doen geloven (Komen mannen echt van Mars?; artikel/boek
+Cordelia Fine)
+- etniciteit: biologische categorie? Zijn er echte verschillen?
+- is de oorzaak wel biologisch? Wat is niet biologisch?
+
+82
+
+ 3.3.3. Groepsverschillen in Intelligentie
+Onderzoek heeft zich dan ook toegespitst op de vraag of deze
+groepen verschillen in intelligentie
+® zeer gevoelige vragen!
+® met belangrijke implicaties!
+® vandaar van het grootste belang dat conclusies op degelijk
+onderzoek berusten
+Spijtig genoeg is dit dikwijls niet het geval (zeker niet voor
+populaire boeken)
+HIER: kort enkele resultaten of controverses bespreken
+
+83
+
+ 3.3.3.1. Geslacht en intelligentie
+Tot in vroeg 20eE: algemene overtuiging dat mannen meer intelligent zijn dan
+vrouwen
+Bv. Hegel: “Women can, of course, be educated, but their minds are not
+adapted to the higher sciences, philosophy, or certain of the arts. Women may
+have happy inspirations, taste, elegance, but they have not the ideal. The
+difference between man and woman is the same as between animal and plant.
+The animal corresponds more closely to the character of the man, the plant to
+that of the woman. In woman there is a more peaceful unfolding of nature, a
+process, whose principle is the less clearly determined unity of feeling. If
+woman were to control the government, the state would be in danger, for they
+do not act according to the dictates of universality, but are in influenced by
+accidental inclinations and opinions. The education of woman goes on one only
+knows how, in the atmosphere of picture thinking, as it were, more through life
+than through the acquisition of knowledge. Man attains his position only
+through stress of thought and much specialized effort.”
+Werd ook “ondersteund” bv. door verschillen in brain size: volume/gewicht van
+vrouwenhersenen is kleiner
+®Werd lang gezien als bewijs voor lagere intelligentie van vrouw
+®MAAR: rekening houden met gehele lichaamsgrootte etc.
+84
+
+ 3.3.3.1. Geslacht en intelligentie
+MAAR een van de positieve gevolgen van de opkomst van
+intelligentieonderzoek is dat deze fabel snel werd rechtgezet:
+- Terman (1916): licht hogere score op stanford-binet test
+voor meisjes (4-16j)
+- Spearman (1927): geen genderverschillen
+- Cattell: geen verschillen inzake fluid en crystallized
+intelligence
+- overzichtsartikel Court (1983) op Progressive Matrices:
+geen verschillen
+- Jensen (1998): zelfde resultaat
+- Hyde, 2008 (Science): geen verschil in math performance
+(maar dit staat in schril contrast tot studiekeuze!)
+- Meta-meta-analyse Zell et al., 2015 (meta-meta-analyse:
+http://psycnet.apa.org/journals/amp/70/1/10/)
+85
+
+ 3.3.3.1. Geslacht en intelligentie
+Desondanks,
+tot vandaag de dag overleven mythes over bv.
+geslachtsverschillen in meer specifieke vaardigheden, die een
+biologische basis zouden hebben:
+Bv. lateralisatie van hersenhelften en implicaties voor “dualtasking” (tekst + boek Cordelia Fine)
+-Reeds lang overtuiging dat mannen hemisfeer L gebruiken voor taal, en R
+voor visuospatiale processing, vrouwen gebruiken beide voor allebei
+-Ook gevonden in enkele studies, ook obv “groter corpus callosum”
+ÞMede aan basis van idee dat vrouwen beter kunnen dual-tasken
+
+MAAR
+-meta-analyse ontkent dit verschil volkomen (belang meta-analyse)
+Zie boek “Delusions of Gender” (“Waarom we allemaal van Mars komen”) van
+Cordelia Fine
+
+86
+
+ 3.3.3.1. Geslacht en intelligentie
+Echter: uitzonderingen:
+1. Geslachtsverschillen in specifieke intelligentie (Mackoby &
+Jacklin):
+- M > V inzake spatiale vaardigheden (mentale rotatie
+etc.)
+- ook teruggevonden in andere studies (Hyde, 2007)
+- zie ook recente meta-analyse:
+https://psycnet.apa.org/record/2019-17809-001
+
+87
+
+ 3.3.3.1. Geslacht en intelligentie
+Echter: uitzonderingen:
+2. Geslachtsverschillen in variantie in intelligentie
+(bv. Johnson, 2008)
+- licht groter voor mannen
+meer mannen met zeer lage en zeer hoge
+scores
+lange discussie
+Zou oa verschil in geslacht kunnen verklaren in
+bepaalde beroepen
+bv. schaakspelers: 99% mannen
+MAAR klopt niet: te wijten aan instroom
+(Chabris , 2006)
+MAAR: wordt enkel teruggevonden in westerse
+en witte populaties (bv niet in aziatische
+studenten, Hyde, Science, 2008)
+88
+
+ 3.3.3.1. Geslacht en intelligentie
+Echter: uitzonderingen:
+3. Op vlak van schoolse prestaties (maar omgekeerd aan oude
+stereotype)!
+cfr. Meta-analyse Voyer & Voyer (2014)
+(http://psycnet.apa.org/psycinfo/2014-15035-001/)
+Op vlak van schoolpunten: V>M
+-
+
+Effect size algemeen: 0.23
+
+-
+
+Effect size taal: 0.37
+
+-
+
+Effect size wiskunde: 0.07
+
+(+ moderatoren: verschil is afhankelijk van etniciteit,
+gendersamenstelling groep, bron van punten)
+89
+
+ 3.3.3.2. Etniciteit en intelligentie
+Vraag rond etniciteit en intelligentie is zwaar beladen omwille van
+Politieke
+morele
+filosofische redenen
+en dient daarom met de grootste wetenschappelijke integriteit
+aangepakt te worden.
+FEIT:
+Op standaard intelligentietesten in de VS:
+- african americans scoren gemiddeld +/-1 SD lager dan white
+americans, ie op zich weer lager scoren dan Asian americans
+DE vraag is natuurlijk wat dit betekent, en wat de oorzaak is.
+
+90
+
+ 3.3.3.2. Etniciteit en intelligentie
+1 exemplarisch voorbeeld:
+In 1994: boek The Bell Curve van Hernstein & Murray
+rapporteerde over intelligentie in de VS, en
+groepsverschillen
+vertrok van sterk biologisch gedetermineerde visie op
+intelligentie
+gevonden groepsverschillen werden dan ook
+biologisch geïnterpreteerd en conclusies aan
+vastgekoppeld
+Veroorzaakte grote ophef en debat
+
+91
+
+ 3.3.3.2. Etniciteit en intelligentie
+The Bell curve: vertrekt van 6 assumpties:
+1. Er bestaat een algemene intelligentiefactor waarop mensen
+verschillen
+2. Er bestaan vele tests, maar IQ tests zijn beste test hiervan
+3. IQ scores komen overeen met wat mensen “slim” noemen
+4. IQ scores zijn relatief stabiel doorheen het leven
+5. Als IQ tests goed afgenomen worden, vertonen ze geen
+bias in geslacht, ethniciteit, sociale klasse etc.
+6. Intelligentie, en verschillen tussen groepen in intelligentie,
+is sterk erfelijk (40-80%)
+Op basis van deze assumpties bespreken de auteurs
+vervolgens 4 trends die ze in gegevens zien opduiken
+92
+
+ 3.3.3.2. Etniciteit en intelligentie
+1. Bovenaan: cognitieve elite
+- universiteiten bevatten meest verstandige mensen
+- afgestudeerden komen in hoogste beroepen terecht
+er ontstaat een elite die gebaseerd is op intelligentie
+2. Onderaan: sociale en economische problemen
+sociale problemen hangen samen met lagere intelligentie
+armoede, werkloosheid, gevangenis, scheiding, meer
+kinderen hebben…
+3. Ras en IQ
+- Asian VS (5) > White VS (15) > Afr VS: 1 SD!
+93
+
+ 3.3.3.2. Etniciteit en intelligentie
+4. Implicaties voor sociale policy
+Er is een neerwaartse druk op IQ in de VS:
+- Lagere IQ produceren meer kinderen
+- meer mensen met lager IQ (want erfelijk)
+- brengt op zich meer sociale problemen mee
+! Implicatie:
+mensen met lagere intelligentie zijn deel van oorzaak
+van
+maatschappelijke problemen
++ interventies zullen weinig zin hebben want IQ
+grotendeels erfelijk en stabiel
+ÞWe moeten leren leven met ongelijkheid (ipv ze te proberen
+oplossen)
+ÞWe steken middelen beter in hoge groep dan in lage groep
+94
+
+ 3.3.3.2. Etniciteit en intelligentie
+The Bell Curve kreeg veel publieke aandacht.
+Maar ook veel wetenschappelijke kritiek:
+Werd zelfs een speciale task force van de American
+Psychological Association opgericht om dit debat van juiste
+argumenten te voorzien.
+Drie soorten kritieken:
+- Analyse van assumpties
+- bewijslast
+- implicaties
+
+95
+
+ 3.3.3.2. Etniciteit en intelligentie
+ANALYSE VAN ASSUMPTIES
+1. Er bestaat een algemene intelligentiefactor waarop mensen
+verschillen
+is discussie over (zie hoger ,verschillende modellen)
+
+2. Er bestaan vele tests, maar IQ tests zijn beste test hiervan
+als vorige niet bewezen is, is dit ook problematisch
+
+3. IQ scores komen overeen met wat mensen “slim” noemen
+is bv. al cultureel bepaald…
+
+4. IQ scores zijn relatief stabiel doorheen het leven
+dit klopt niet helemaal: zie compensatorische programmas
+
+5. Als IQ tests goed afgenomen worden, vertonen ze geen
+bias in geslacht, etniciteit, sociale klasse etc.
+IQ tests zijn doorgaans westerse opvattingen, bewijs van bias
+(+zie meteen!)
+
+6. Intelligentie, en verschillen tussen groepen in intelligentie,
+is sterk erfelijk
+wat is ras? Erfelijk bepaald?
+
+96
+
+ 3.3.3.2. Etniciteit en intelligentie
+ANALYSE VAN ASSUMPTIES
+6. Intelligentie is sterk erfelijk (40-80%)
+wat is ras? Erfelijk bepaald?
+zijn rasverschillen in IQ gevolg van biologie?? NIET BEWEZEN
+BOVENDIEN: Het is niet omdat een eigenschap binnen een bepaalde
+groep sterk erfelijk is, dat verschillen tussen groepen ook erfelijk zijn.
+Vb. Plant graan in rijke grond vs. arme grond. Op zich is lengte,
+kwaliteit van graan sterk erfelijk bepaald, maar dit wil niet zeggen dat
+het verschil in opbrengst tussen twee gronden ook erfelijk is
+Als er verschillen tussen groepen zijn, betekent dit niet dat erfelijke
+factoren aan de oorzaak ervan liggen
+97
+
+ 3.3.3.2. Etniciteit en intelligentie
+BEWIJSLAST
+- Correlation causation
+Bv. inzake verband SES en intelligentie
+- Validiteit van gebruikte metingen
+- Geciteerde literatuur
+Bv. studie over rasverschillen in Z-Afrika: auteur had
+reservaties omwille van taalkennis van proefpersonen etc.
+houden ze geen rekening mee
+
+98
+
+ 3.3.3.2. Etniciteit en intelligentie
+IMPLICATIES
+Eugenetica
+Idee om karakteristieken van populatie te veranderen obv
+erfelijkheid van eigenschappen
+Populair in jaren 20-30
+MAAR serieuze vraagtekens bij te plaatsen (zie hoger)
+Boek werd bekritizeerd omdat sommige argumenten
+aanleunden bij eugenetische gedachtengoed
+
+99
+
+ Groepsverschillen in Intelligentie
+Er blijken wel kleinere of grotere verschillen tussen groepen te
+bestaan in intelligentie.
+Hoe kan dit verklaard worden?
+Recenter onderzoek heeft echter een belangrijke ontdekking
+gedaan die belangrijke bijdrage kan leveren aan het verstaan
+van groepsverschillen in intelligentie (relevant met 5de
+assumptie: geen bias in tests)
+= onderzoek rond Stereotype threat
+
+100
+
+ Groepsverschillen in Intelligentie
+Stereotype threat
+® Activeren van een stereotype kan belangrijke gevolgen
+hebben, ook op gedrag
+® Kan werken als self-fulfilling prophecy:
+Als aan vrouwen gezegd: dit is een test waar mannen
+typisch goed op scoren (of zelfs gewoon geslacht vragen):
+lagere scoren voor vrouwen (cfr. Ook verschil schools
+presteren en IQ tests!)
+Als aan proefpersonen gezegd: dit is een test waarop we
+consistent etnische verschillen vinden
+lagere scoren voor afr vs. europ in VS
+Zelfs vragen naar geslacht of etniciteit kan bestaande
+stereotypes activeren en testuitslagen beënvloeden!
+
+101
+
+ Groepsverschillen in Intelligentie
+Aangezien stereotypes leven in de samenleving:
+-
+
+Vrouwen minder goed in wiskunde, etc
+Afr Americans doen het minder goed op tests
+
+wordt fenomeen van stereotype threat ten minste deels
+verantwoordelijk geacht voor groepsverschillen inzake
+intelligentie.
+Met andere woorden: stereotype wordt werkelijkheid ipv dat
+werkelijkheid gebaseerd is op stereotype
+(HOEWEL: ook hier discussie (publication bias?))
+102
+
+ Groepsverschillen in Intelligentie
+
+Þ Moraal van het verhaal:
+
+als wetenschappelijk opgeleidde psycholoog is het cruciaal
+te handelen op basis van wetenschappelijke feiten, en niet
+op basis van stereotypes, of halve waarheden
+op die manier kan je bijdragen om stereotypes de wereld uit te
+helpen
+
+103
+
+ Groepsverschillen in Intelligentie
+
+“If the misery of our poor be caused not by the laws of nature,
+but by our institutions, great is our sin”
+Charles Darwin
+
+104
+
+ 

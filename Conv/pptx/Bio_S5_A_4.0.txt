@@ -1,0 +1,227 @@
+Mutaties
+
+ Genetische code
+• DNA
+• RNA
+• aminozuren
+
+ Structuur proteïnen
+• Primair: aminozuren
+• Secundair: vb. helix
+• Tertiair: proteïne
+• Quaternair: polymeren
+
+ Genetische code
+• 43 = 64 codons
+• 20 aminozuren
+• 3 stop codons
+
+degeneratie van de
+genetische code
+(1 aminozuur, meerdere
+codons)
+
+ Puntmutatie: basenpaarsubstitutie
+• synonieme/stille mutatie
+• zelfde aminozuur
+
+• missense mutatie
+• conservatief
+• niet-conservatief
+
+• non-sense mutatie
+• stopcodon
+
+THE FAT CAT ATE THE RAT
+THE HAT CAT ATE THE RAT
+
+ Verschillende mutaties in zelfde gen
+
+ Temperatuursgevoelige mutatie
+• Conservatieve mutatie waardoor stabiliteit van proteïne
+afneemt
+• Proteïne heeft normale conformatie bij lage temperatuur
+maar denatureert bij hoge temperatuur
+• Nuttig voor werk met letale mutaties:
+• mutante stammen worden opgekweekt bij lage temperatuur
+• mutatie wordt tot expressie gebracht bij hoge temperatuur
+
+ Temperatuursgevoelige mutatie
+• Conservatieve mutatie
+waardoor stabiliteit van
+proteïne afneemt
+• Proteïne is actief bij lage
+temperatuur maar denatureert
+bij hoge temperatuur
+• Nuttig voor werk met letale
+mutaties:
+• mutante stammen worden
+opgekweekt bij lage temperatuur
+• mutatie wordt tot expressie
+gebracht bij hoge temperatuur
+
+ Temperatuursgevoelige mutatie
+Siamese kat
+• conservatieve mutatie in
+tyrosinase gen
+• tyrosinase denatureert bij
+lichaamstemperatuur, maar
+wordt actief in delen van
+lichaam die koeler zijn (snuit,
+ogen, poten, staart)
+
+ Puntmutatie: indelmutatie
+• deletie
+• insertie
+THE FAT CAT ATE THE RAT
+THE AFA TCA TAT ETH ERA
+
+ Eén gen, vele mutante allelen
+E. coli lac gen
+
+ Suppressormutatie
+• intragene suppressor
+• back mutation
+• herstel conformatie
+
+• extragene suppressor
+• herstel interactie proteïnen
+• alternatieve metabole keten
+• herstel non-sense mutatie
+door mutatie tRNA
+
+ Herstel amber mutatie
+
+ Genetische mozaïek door
+somatische mutatie
+
+ Kiemlijn versus somatische mutatie
+
+ Mutaties bij ♂ en ♀ ︎
+• kiemlijncellen van ♂
+ondergaan meer
+mitotische delingen en
+blijven leven lang delen
+• aantal mutaties bij ♂
+neemt toe met leeftijd
+• meer mutaties bij ♂ dan bij
+♀ ︎
+
+ De celcyclus bij meercellige
+organismen
+• interfase:
+•
+•
+•
+•
+
+G1: groeifase
+G0: rustfase
+S: replicatie
+G2: voorbereiding mitose
+
+• mitose
+• cytokinese
+
+ Regulatie van celcyclus door
+cyclines
+3 controlepunten
+• G1/S
+• G2/M
+• spoelfiguur
+
+ Proto-oncogenen
+Groeifactoren, activeren
+celcyclus
+(vb. RAS)
+
+ Tumor-suppressor genen
+Remmen celcyclus af, induceren apoptose (vb. p53)
+
+ Tumoren en kanker
+Mutaties in genen die celcyclus reguleren leidt tot
+ongecontroleerde celdelingen (erfelijk, toeval, omgeving)
+
+ Tumoren en kanker
+Doordat controle op celcyclus wegvalt
+neemt aantal mutaties toe en gaat de
+tumor sneller groeien
+
+ Erfelijke of sporadische
+retinoblastoma
+• Erfelijke retinoblastoma:
+• Rb/rb genotype
+• tweede mutatie of mitotische
+crossing over
+• tumoren in beide ogen en op
+jonge leeftijd
+
+• Sporadische retinoblastoma:
+• Rb/Rb genotype
+• tumor in 1 oog en op late
+leeftijd
+
+ Spontane mutaties
+Foute basenparing door tautomere vorm van base
+
+ Spontane mutaties: herhalingen
+
+ Ziekte van Huntington
+• CAG herharling
+• glutamine-staart
+• accumulatie proteine
+in zenuwcellen
+• dominante mutatie
+• pas effect op late
+leeftijd
+• 1/100000 in Westen
+
+ Geïnduceerde mutaties: chemisch
+• base-analogen
+• intercalerende stoffen
+• beschadiging van basen
+
+ Geïnduceerde mutaties: straling
+• UV straling: T-T dimeren
+
+ Xeroderma pigmentosum
+Mutatie in genen die instaan
+voor herstel van mutaties
+veroorzaakt door UV straling
+extreem gevoelig voor zonlicht
+
+ Geïnduceerde mutaties: straling
+• radioactieve straling
+(‘linear no threshold
+model’)
+
+ Ames test
+Test voor mutagene
+activiteit van chemische
+stoffen (~
+kankerverwekkend)
+
+ Herstel thymine-dimeren (UV)
+CPP fotolyase
+bij planten, bacteriën,
+dieren (behalve
+zoogdieren)
+
+Base excisie herstel
+bij zoogdieren
+
+ Base excisie herstel
+Verwijdert foute base en
+vervangt ze door correcte
+base
+
+ Herstel foute basenparing
+Verwijdert fout
+basenpaar en vervangt
+door correct basenpaar
+moederstreng bevat
+correcte base en kan
+herkend worden aan
+methylatie-patroon
+
+ 

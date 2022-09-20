@@ -1,0 +1,216 @@
+﻿3.2.3	Dipoolmoment
+
+
+Bij de bespreking van de covalente binding werd als uitgangspunt gesteld dat de bindende atomen elk een ongepaard elektron ter beschikking stellen waarna ze het bindend elektronenpaar gezamenlijk delen. Bij een datieve binding wordt het elektronenpaar zelfs integraal geleverd door een van de atomen. Het gezamenlijk delen impliceert dat geen ionen worden gevormd. Het meest elektronegatieve atoom krijgt hierdoor een negatieve oxidatietrap, het minst elektronegatieve atoom een positieve valentie (zie paragraaf 3.1.3).
+
+Nochtans komt een zuivere covalente binding enkel voor bij bindingen tussen gelijksoortige atomen (b.v. H2) met daaraan gekoppeld een oxidatietrap 0 voor beide atomen. Bij een binding tussen niet gelijksoortige atomen wordt het elektronenpaar evenwel steeds in geringe mate verschoven naar het meest elektronegatieve atoom. Het zwaartepunt van de negatieve elektronenwolk ligt dan niet meer exact in het midden van de bindingsas. Hoe groter het verschil in elektronegativiteit, hoe meer het elektronenpaar wegschuift van het centrum. Het resultaat hiervan is dat de ene kant van het bindend atoompaar wat negatiever (-) wordt t.o.v. de andere kant (+). Dit geeft aanleiding tot een dipoolmoment () dat we definiëren als het product van de elektronlading (e) met de afstand (d) waarover het elektronenpaar verschoven is t.o.v. het centrum ( = e x d)
+
+
+
+
+
+
+
+
+Experimenteel werd vastgesteld dat het dipoolmoment van de molecule HCl een waarde heeft van 0,34 10-29 Cm. Veronderstellen we even dat in HCl een ionaire binding zou tot stand komen en de molecule effectief zou zijn opgebouwd uit een H+ en een Cl-. Dit zou zoveel betekenen dat het elektron van waterstof zou zijn verschoven over de volledige bindingsafstand. Dit is tevens de maximale afstand waarover het elektron kan verschuiven. Indien we deze afstand berekenen uit de som van de ionenstralen (0,3 10-10 m voor H+ en 1,81 10-10 m voor Cl-) dan bekomen we 2,11 10-10 m. Dit levert een maximaal dipoolmoment van 3,37 10-29 Cm.
+We berekenen het procentueel karakter van de binding als de verhouding van het werkelijk (gemeten) dipoolmoment tot het maximale dipoolmoment in geval van een ionaire binding.
+
+
+
+Dit betekent dat het bindende elektronenpaar in HCl verschoven is over ongeveer 10% van de bindingsafstand. We spreken over een covalente binding met een partieel ionair karakter. Dit ionair karakter neemt toe naarmate het verschil in elektronegativiteit tussen de atomen groter wordt. In de volgende tabel en figuur wordt dit verband weergegeven. Bij verbindingen waarbij het verschil groter is dan 2,1 (wat correspondeert met ongeveer 67% ionair karakter), wordt vastgesteld dat in normale omstandigheden kristallijne structuren worden gevormd (zie paragraaf 2).
+
+
+ΔEN
+% ionenkarakter
+∆EN
+% ionenkarakter
+0,2
+1
+1,8
+55
+0,4
+4
+2,0
+63
+0,6
+9
+2,2
+70
+0,8
+15
+2,4
+76
+1,0
+22
+2,6
+82
+1,2
+30
+2,8
+88
+1,4
+39
+3,0
+89
+1,6
+47
+
+
+
+              
+
+
+Voorlopig hebben we het gehad over een dipoolmoment in individuele bindingen. Voor een molecule met meerdere bindingen dienen we de vectorsom te maken van de verschillende dipoolmomenten van alle bindingen. Het is niet eenvoudig om dipoolmomenten in elke individuele binding te bepalen maar meestal volstaat het om de zin van het globale dipoolmoment van de molecule te kennen. De ruimtelijke structuur van de verbinding speelt hierbij uiteraard een belangrijke rol.
+
+                                                                                
+
+
+                                                            
+
+
+            3.2.4 Koolstofverbindingen
+
+Het element koolstof heeft als elektronenconfiguratie 1s2 2s2 2p2. Door promotie van een elektron van het 2s- naar het 2p-niveau bekomen we
+
+
+
+
+
+
+
+
+Nemen we 2 C-atomen en voeren we een sp3-hybridisatie door. We binden de C-atomen via een σ-binding en gebruiken de andere 6 plaatsen om evenveel H-atomen te binden. We bekomen de molecule ethaan (C2H6).
+
+
+
+
+
+
+
+
+
+          
+
+Door de symmetrie van de σ-binding kunnen de twee CH3-groepen vrij roteren t.o.v. elkaar zonder dat hierdoor de overlap in de binding wordt verbroken. Dit levert een grote soepelheid aan moleculen waarin een groot aantal C-atomen op analoge manier zijn aan elkaar geketend (in b.v. vetten en smeerolie).
+
+Indien we i.p.v. een sp3- een sp2-hybridiatie doorvoeren bij de 2 C-atomen, dan kan het voorlopig ongebruikte p-orbitaal (loodrecht op het vlak van de sp2-hybriden) bij elk C-atoom worden gebruikt voor een bijkomende π-binding tussen de twee.
+
+
+
+
+
+
+
+
+
+           
+
+
+Door op de resterende 4 bindingsplaatsen een waterstof te binden, bekomen we de molecule etheen (C2H4). Omwille van de π-binding verliest de molecule haar vrije draaibaarheid rond de bindingsas. Bij langere koolstofketens gaat hierdoor ook de soepelheid verloren.
+
+                  
+
+
+Een derde mogelijkheid is een sp-hybridisatie voor de twee C-atomen. Op die manier kunnen 2 bijkomende π-bindingen worden gevormd. Dit leidt tot de lineaire molecule ethyn of C2H2.
+
+
+
+
+
+
+
+
+
+
+
+
+
+In het begin van paragraaf 3.2.1 bij de bespreking van VSEPR werd de molecule CO2 voorgesteld door
+
+
+
+Met behulp van een sp-hybridisatie bij koolstof kan een betere structuur worden bekomen.
+
+
+
+
+
+
+
+
+
+
+
+
+4	Resonantie
+
+Nemen we 6 koolstofatomen die we vooraf laten sp2-hybridiseren. We kunnen de 6 C-atomen plaatsen op de hoekpunten van een regelmatige zeshoek en hun orbitalen laten overlappen zoals hieronder voorgesteld. Op de resterende bindingsplaatsen overlapt telkens een waterstofatoom. Dit geeft aanleiding tot een vlakke cyclische structuur voor de molecule benzeen (C6H6). 
+
+
+        
+
+
+Bij elk van de 6 koolstofatomen blijft evenwel nog een ongebruikt p-orbitaal over. In voorgaande figuur werden deze 6 p-orbitalen nog niet getekend. In de volgende figuren zullen we het skelet van de molecule gevormd door de σ-bindingen, eenvoudig vervangen door een zeshoek en ons concentreren op de resterende p-orbitalen die in aanmerking komen voor bijkomende π-bindingen.
+
+
+
+
+Met 6 p-orbitalen kunnen 3 bijkomende π-bindingen worden gevormd doch dit kan evenwel op twee verschillende manieren. Een willekeurig C-atoom kan een dubbele binding aangaan met ofwel het linker ofwel het rechter buuratoom zoals hieronder voorgesteld.
+
+
+
+Toch wordt snel duidelijk dat dit tweemaal hetzelfde resultaat oplevert en dat de ene vorm uit de andere vorm wordt bekomen door de molecule 180° te wentelen.
+
+                                 
+
+De zaak verandert evenwel wanneer twee van de zes H-atomen worden vervangen door b.v. een F-atoom (digesubstitueerde benzeenring). Uit de voorgaande paragraaf onthielden we immers dat een dubbele binding aanleiding geeft tot een kortere bindingsafstand t.o.v. een enkel-voudige binding. Op deze wijze zou de vlakke benzeenring vervormen tot een onregelmatige zeshoek. Indien de 2 F-atomen plaatsnemen op naburige C-atomen, bekomen we wel degelijk twee verschillende vormen al naargelang de manier waarop de π-bindingen worden geplaatst. In het ene geval staan de F-atomen op enkelvoudig gebonden koolstoffen en dus verder van elkaar, in het andere geval op dubbel gebonden koolstoffen. Dit zou dus aanleiding geven tot twee verschillende moleculen met evenwel een gering verschil in eigenschappen.
+
+                               
+Een ander bekend fenomeen van moleculen met dubbele koolstof/koolstof bindingen (onverzadigde moleculen) is de hogere reactiviteit in vergelijking met verzadigde systemen zonder π-bindingen.
+Uit alles wat voorafging zouden we kunnen besluiten dat er in de molecule benzeen tussen de C-atomen twee verschillende bindingslengtes te vinden zijn, dat er 2 verschillende digesubstitueerde benzeenproducten bestaan en dat het alle reactieve verbindingen zouden zijn.
+Waarnemingen tonen evenwel precies het tegengestelde aan
+
+
+
+
+
+
+De enig juiste conclusie die voorligt, is dat de bindingsmodellen die tot hiertoe werden besproken niet voldoen om de juiste structuur van benzeen te verklaren. 
+
+We zullen het dus maar over een andere boeg gooien en ervan uitgaan dat de werkelijke structuur van benzeen noch de ene noch de andere vorm is maar ergens gelegen is tussenin de twee uiterste structuren. Dit verschijnsel noemen we resonantie.
+
+                                   
+
+
+Met het principe van resonantie bedoelen we niet dat benzeen zich de ene keer in de linkse structuur, de andere keer in de rechtse structuur bevindt en dus overspringt van de ene in de andere vorm. De preciese structuur ligt ergens tussen beide in maar we kunnen ze met behulp van de tot hiertoe besproken bindingsmodellen niet voorstellen. We zouden een voorzichtige poging kunnen wagen door aan te nemen dat elk koolstofatoom een halve binding zou vormen met het linkse en een halve binding met het rechtse buuratoom.
+
+  
+                                                       
+
+
+
+Een binding impliceert evenwel een bindend elektronenpaar. Een halve binding zou een half elektronenpaar veronderstellen of m.a.w. een ongepaard elektron. Onze voorzichtige poging brengt ons dus regelrecht in conflict met ons uitgangsprincipe om geen ongepaarde elektronen achter te laten in moleculen. Hoewel er in werkelijkheid een beperkt aantal moleculen met ongepaarde elektronen bestaat (zie verder), zullen we voorlopig toegeven dat we de werkelijke structuur van benzeen niet kunnen voorstellen en dienen een beroep te doen op een meer gesofisticeerd model (zie verder).
+
+Trouwens, een gelijkaardige conclusie zouden we moeten nemen voor de meeste van de eerder besproken verbindingen. Nemen we eens het voorbeeld van de molecule SO2 terug. We hebben deze molecule voorgesteld als
+
+
+
+
+
+
+
+
+We kunnen ons terecht de vraag stellen met welke reden het ene O-atoom enkel gebonden is en het andere dubbel. Het eenvoudige antwoord is dat we tot hiertoe niet beschikken over een beter bindingsmodel. Er zouden in de molecule SO2 volgens bovenstaande voorstelling eveneens twee verschillende bindingslengtes worden gevonden en dit is net zoals bij benzeen ook hier niet het geval. We stellen dus maar eenvoudig dat de werkelijke structuur ligt tussen de twee resonantievormen die we kunnen tekenen.
+
+
+
+
+
+
+
+
+
+Voor de meeste van de reeds besproken verbindingen kunnen 2 of meerdere resonantievormen worden gegeven b.v. voor het fosfaation.
+
+
+

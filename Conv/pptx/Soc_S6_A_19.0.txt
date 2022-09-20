@@ -1,0 +1,872 @@
+Gebruik bij
+voorkeur de
+zitplaatsen met een
+gekleurde sticker
+
+ Praktische gegevens
+Prof. Dr. Joeri Vananroye
+Instituut voor Handels- en Insolventierecht
+Bio:
+https://corporatefinancelab.org/lab-rats/joeri-vananroye/
+
+Hoe contacteren?
+• bij grote voorkeur: aanspreken in les
+• indien dat niet mogelijk: e-mail:
+joeri.vananroye@kuleuven.be
+• Nieuwe Valk 04.15 | Tiensestraat 41 - bus 3434
+
+ Wat de Wet Hervorming
+Ondernemings-recht wijzigt aan het
+vennootschapsrecht
+Hof van Cassatie wijzigt echtspraak
+over gevolg van veroordeling van
+VOF
+Exit het handelsrecht. Een nieuw
+ondernemingsrecht herrijst
+De feitelijke vereniging in rechte na
+1 november 2018
+Een ‘second wind’ voor de CommV?
+°°°
+
+corporatefinancelab.org/
+
+ Focus op BV en NV
+Joeri Vananroye
+Inleiding Economisch Recht – KU Leuven
+
+ “onderneming”
+als “subject” van
+rechten
+
+We gaan vergelijking
+maken van :
+• eigenaar-natuurlijke
+persoon van een
+handelszaak; en
+• aandeelhouder van een
+vennootschap met
+volkomen
+rechtspersoonlijkheid
+om inzicht te krijgen in
+zowel handelszaak als
+rechtspersoon
+
+“Ik ben een
+onderneming”
+
+rechtsobject: geheel van
+goederen gebruikt voor
+economische activiteit
+
+ma
+≈
+a
+vo r da
+handelszaak, han or wan nie
+de
+tv te
+l
+a
+fonds de
+ar roe nke
+s w ge l
+ar r
+commerce
+en
+
+“Ik heb een
+onderneming”
+
+ “onderneming”
+als “subject” van
+rechten
+Opgelet :
+• handelszaak en rechtspersoon zijn geen
+tegengestelde begrippen: een vennootschap met
+rechtspersoonlijkheid zal in de regel ook een
+handelszaak hebben
+• realiteit is complexer dan les cas d’école:
+• onvolkomen rechtspersonen: zie later
+• rechtspersonen kunnen aandeelhouder zijn
+• vennootschapsgroep: handelszaak
+‘versplintert’ over meerdere rechtspersonen
+maar: issues zijn au fond dezelfde
+
+“Ik ben een
+onderneming”
+
+rechtsobject: geheel van
+goederen gebruikt voor
+economische activiteit
+
+ma
+≈
+a
+vo r da
+handelszaak, han or wan nie
+de
+tv te
+l
+a
+fonds de
+ar roe nke
+s w ge l
+ar r
+commerce
+en
+
+“Ik heb een
+onderneming”
+
+ Handelszaak (fonds de commerce, business) vs.
+vennootschap met (volkomen) rechtspersoonlijkheid
+Miet
+
+(vennoot = eigenaar van aandelen)
+
+Jan
+(eigenaar)
+
+snoepwinkel Sweet
+(handelszaak)
+
+Miet BV
+(eigenaar)
+
+snoepwinkel Sour
+(handelszaak)
+
+ Snoepwinkel Sweet (eenmanszaak van Jan):
+juridisch
+W
+
+B
+N
+6
+3
+.
+3
+.
+t
+Ar
+
+Activa
+
+Passiva
+
+Persoonlijke activa
+van Jan
+
+Persoonlijke
+passiva van Jan
+
+Ondernemingsactiva van Sweet
+
+Ondernemingspassiva van Sweet
+
+... WORDEN UITGEWONNEN OP ...
+
+=
+
+ Vennootschap met (volkomen) rechtspersoonlijkheid
+
+Miet
+
+(vennoot = eigenaar van aandelen)
+
+Miet BV
+(eigenaar)
+
+snoepwinkel Sour
+(handelszaak)
+
+ Tussendoor: hypothese van meerdere vennoten
+
+Miet 60% / Piet 40%
+
+Miet NV
+(eigenaar)
+
+snoepwinkel Sour
+(handelszaak)
+
+ Vennootschap met (volkomen) rechtspersoonlijkheid
+
+Miet
+
+(vennoot = eigenaar van aandelen)
+
+Miet BV
+(eigenaar)
+
+snoepwinkel Sour
+(handelszaak)
+
+ Snoepwinkel Sour (Miet BV):
+boekhoudkundig ?
+
+Activa
+
+Passiva
+
+Persoonlijke activa
+van Miet
+
+Persoonlijke
+passiva van Miet
+
+Ondernemingsactiva van Sour
+
+Ondernemingspassiva van Sour
+
+ Snoepwinkel Sour (Miet BV) / Miet (vennoot):
+juridisch
+
+Miet
+Activa
+
+Miet BV
+Activa
+
+Ondernemingsactiva van Miet
+BV
+
+Passiva
+
+Persoonlijke activa
+van Miet
+
+Ondernemingspassiva van Miet
+BV
+
+Inclusief aandelen
+van Miet in Miet BV
+(“uitgegeven door
+BV”)
+
+Passiva
+
+Persoonlijke
+passiva van Miet
+
+ Snoepwinkel Sour (Miet BV) / Miet (vennoot):
+juridisch: niet- aansprakelijkheid van vennoot voor
+vennootschapsschulden
+Miet
+Activa
+
+Miet BV
+Activa
+
+Ondernemingsactiva van Miet
+BV
+
+Passiva
+
+Persoonlijke activa
+van Miet
+
+Ondernemingspassiva van Miet
+BV
+
+Inclusief aandelen
+van Miet in Miet BV
+
+Passiva
+
+Persoonlijke
+passiva van Miet
+
+ Snoepwinkel Sour (Miet BV) / Miet (vennoot):
+juridisch: persoonlijk schulden niet-verhaalbaar op
+vennootschapsactiva
+Miet
+Activa
+
+Miet BV
+Activa
+
+Ondernemingsactiva van Miet
+BV
+
+Passiva
+
+Persoonlijke activa
+van Miet
+
+Ondernemingspassiva van Miet
+BV
+
+Inclusief aandelen
+van Miet in Miet BV
+
+Passiva
+
+Persoonlijke
+passiva van Miet
+
+ Zaakvoerder Miet heeft honger
+
+Miet 60% / Piet 40%
+
+Miet BV
+(eigenaar)
+
+snoepwinkel Sour
+(handelszaak)
+
+ Zaakvoerder Miet heeft honger
+
+Miet 100%
+
+Miet BV
+(eigenaar)
+
+snoepwinkel Sour
+(handelszaak)
+
+ Snoepwinkel Sour (Miet BV) / Miet (vennoot):
+juridisch: “beperkte aansprakelijkheid” en “voorrang
+vennootschapsschuldeisers”
+
+Vennoot (Miet) is niet
+aansprakelijk voor
+schulden van
+vennootschap (Miet BV)
+
+“losprijs”
+
+“Beperkte
+aansprakelijkheid”
+
+1. minimale investering
+beloven (“inbreng”)
+2. Inbreng is
+achtergesteld aan
+vennootschapsschuldei
+sers (“subordinatie”)
+
+ l is
+e
+e
+nd toa
+a
+“
+et
+n
+n
+ee cht”
+re
+
+Art. 2:97 WVV: voorrang vennootschapschuldeisers bij vereffening
+
+§ 1. Onverminderd de rechten van de bevoorrechte schuldeisers, betaalt de vereffenaar alle schulden
+naar evenredigheid en zonder onderscheid tussen opeisbare en niet opeisbare schulden, onder aftrek,
+wat deze betreft, van het disconto.
+Hij mag echter op eigen risico eerst de opeisbare schulden betalen, ingeval de activa de passiva
+aanmerkelijk te boven gaan of de schuldvorderingen op termijn voldoende gewaarborgd zijn,
+onverminderd het recht van de schuldeisers om zich tot de rechtbank te wenden.
+§ 2. Indien uit de rekeningen bedoeld in artikel 2:100, § 1, blijkt dat niet alle schuldeisers integraal
+kunnen worden terugbetaald, legt de vereffenaar vooraleer de vereffening wordt gesloten, bij eenzijdig
+verzoekschrift overeenkomstig de artikelen 1025 en volgende van het Gerechtelijk Wetboek het plan
+voor de verdeling van de activa onder de verschillende categorieën schuldeisers ter goedkeuring voor
+aan de bevoegde rechtbank. Voormeld verzoekschrift mag worden ondertekend door de vereffenaar,
+door een advocaat of door een notaris.
+De in het eerste lid bedoelde verplichting tot het ter goedkeuring voorleggen van het plan van verdeling
+aan de rechtbank geldt niet wanneer de schuldeisers die niet integraal werden terugbetaald,
+aandeelhouders of vennoten van de vennootschap zijn en al deze aandeelhouders of vennoten
+schriftelijk akkoord gaan met het plan van verdeling en afstand doen van het voorleggen van het plan
+van verdeling.
+De rechtbank kan van de vereffenaar alle dienstige inlichtingen vorderen om de geldigheid van het
+verdelingsplan na te gaan.
+§ 3. Na betaling van de schulden of consignatie van de nodige gelden om die te voldoen, verdeelt de
+vereffenaar onder de aandeelhouders of vennoten de gelden of waarden die gelijk verdeeld kunnen
+worden; hij overhandigt hun de goederen die hij voor nadere verdeling heeft moeten overhouden.
+Hij mag, met de in artikel 2:88 bedoelde machtiging, de aandelen van de vennootschap inkopen, hetzij
+op de beurs, hetzij door middel van een bod of een prijsaanvraag, gericht aan de aandeelhouders of
+vennoten, die allen aan de verrichting moeten kunnen deelnemen.
+
+ l is
+e
+e
+nd toa
+a
+“
+et Uitkeringen zijn gereglementeerd in het belang
+n
+n
+ee cht”
+van de vennootschapsschuldeisers
+re
+
+• BV (en CV)
+1) Art. 5:142 WVV: Heeft de vennootschap nog een positief
+eigen vermogen als de uitkering gebeurt?
+2) Art. 5:144 WVV: Heeft de vennootschap op korte termijn
+nog voldoende liquiditeiten om de opeisbare schulden te
+betalen?
+
+• NV
+1) Art. 7:212 WVV: Heeft de vennootschap nog een positief
+eigen vermogen met een bijkomende buffer als de uitkering
+gebeurt?
+2) in WVV geen liquiditeitstest in NV
+
+ solvabiliteit ↔ liquiditeit ↔ rentabiliteit
+
+ Snoepwinkel Sour (Miet BV) / Miet (vennoot):
+juridisch: “beperkte aansprakelijkheid” en “voorrang
+vennootschapsschuldeisers”
+
+Vennoot (Miet) is niet
+aansprakelijk voor
+schulden van
+vennootschap (Miet BV)
+
+“losprijs”
+
+“Beperkte
+aansprakelijkheid”
+
+1. minimale investering
+beloven (“inbreng”)
+2. Inbreng is
+achtergesteld aan
+vennootschapsschuldei
+sers (“subordinatie”)
+3. Aansprakelijkheid van
+bestuur bij fout
+4. Beperkte
+aansprakelijkheid is
+maar “aanvullende
+regel”: persoonlijke
+
+Ach
+per terste
+soo
+llin
+van nlijke g tref
+to
+sc
+aan
+dee hulde ok
+ven
+is
+l
+noo “voorr houde ers
+r
+a
+t
+rs o schap ng
+ssc
+pp
+sch ersoo huldei
+uld
+n
+eise lijke se
+rs”
+
+ DEBT OR EQUITY?
+Hoe ”kapitaal” verschaffen aan
+vennootschap?
+1. als schuldeiser : lening (inclusief
+obligatielening)
+2. als aandeelhouder: door in te schrijven
+bij oprichting of bij kapitaalverhoging
+
+Verschil?
+
+ Twee soorten investeerders
+Schuldeiser
+
+Aandeelhouder
+
+Economische rechten
+
+‘Fixed claim‘
+- los van rentabiliteit
+- wel onderworpen
+aan
+insolvabiliteitsrisico
+- voorrang
+
+‘Residual claim’
+- afhankelijk van
+rentabiliteit
+- deelt in ganse
+upside
+- achtergesteld
+
+Lidmaatschapsrechte
+n
+
+geen – tenzij:
+- contractueel
+voorzien
+- insolventierecht
+
+in principe als klasse
+controle
+
+ oprichtingsvoorwaarden
+BV: zonder kapitaal
+
+Volledige storting
+als suppl. regel
+
+NV: mèt kapitaal
+
+1
+oprichter
+Oprichters ><
+Inschrijvers
+Onvoorwaardelijke plaatsing
+
+Revisorale
+controle
+Notariële
+Cash via geblokkeerde
+akte
+rekening
+Financieel plan met inhoudelijke
+vereisten
+Toereikend aanvangsvermogen/Inbreng in nijverheid
+kapitaal
+
+Klassieke
+volstortingsreg
+els
+
+Minimumdremp
+el
+
+Oprichtersaansprakeli
+jkheid
+
+25
+
+ Maatschappelijk kapitaal /
+maatschappelijk vermogen
+
+ls
+ege
+r
+l
+a
+ita
+k
+Kap ken oo d
+ki j
+uren
+d
+t
+r
+voo r eigen
+naa ogen
+rm
+v8e
+
+Maatschappelijk kapitaal
+
+Maatschappelijk vermogen
+
+Geheel van geld / goederen
+waarvan inbreng is toegezegd bij
+oprichting
+
+Eigen vermogen
+
+Bedrag wordt vermeld in
+oprichtingsakte / statuten
+
+Boekhoudkundig begrip, niet
+vermeld in oprichtingsakte /
+statuten
+
+Kan enkel verhogen of verlagen
+door beslissing algemene
+vergadering (RvB)
+
+Varieert constant naarmate
+vennootschap winst of verlies
+maakt
+
+Kernbegrip in NV
+
+Kernbegrip in BV
+
+• Regels omtrent kapitaal- /
+vermogenswaarheid
+• Waardering inbrengen in natura; regels quasi-
+
+26
+
+ Wettelijk minimumkapitaal
+
+• NV 61.500 EUR (art. 7:2 WVV)
+• Geldige inbrengen toegezegd voor
+minstens dit bedrag
+• Als geplaatst kapitaal lager is, zijn
+oprichters hoofdelijk aansprakelijk voor
+verschil
+• BV: geen wettelijk minimumkapitaal
+
+ Geplaatst kapitaal / geplaatste aandelen
+• Begrip:
+• kapitaal / aandelen waarvoor met geldige inbrengen ingeschreven
+= onvoorwaardelijk toegezegd (art. 5:5 en 7:4)
+≠ noodzakelijk volstort
+• Inbreng in geld of in natura
+• Indien in natura: waardering door bedrijfsrevisor + verslag raad
+van bestuur
+
+• Bedrag:
+• In NV: Statutair of maatschappelijk kapitaal
+• In BV: alle uitgegeven aandelen moeten geplaatst zijn
+• Sanctie: hoofdelijke aansprakelijkheid oprichters (art. 5:15, 2° en
+3°, 5:138, 1° - art. 7:17,1° en 7:205, 1°)
+
+ Gestort kapitaal / gestorte inbrengen
+• Begrip: gedeelte geplaatst kapitaal / geplaatste
+aandelen dat effectief is 0betaald
+• Bedrag (beide voorwaarden moeten voldaan zijn):
+1. Gedeelte van het maatschappelijk kapitaal
+• NV : minstens wettelijk minimumkapitaal (art. 7:11 WVV)
+2. Gedeelte per aandeel (ook bij later kapitaalverhoging)
+• Inbreng in geld
+
+• ¼ per aandeel NV
+• BV : inbreng moet volledig gestort zijn vanaf oprichting, tenzij anders
+bepaald (art 5:8 WVV)
+
+• Inbreng in natura
+
+• NV: bij deelbaarheid ¼, anders volledig
+• voorwaarde: volledig binnen 5 jaar
+• BV : inbreng moet volledig gestort zijn vanaf oprichting, tenzij anders
+bepaald (art 5:8 WVV)
+
+ Kapitaalbegrippen – gestort kapitaal
+• Volstorting
+• Oprichters NV hoofdelijk gehouden voor volstorting als beneden
+wettelijke grenzen (art. 7:17, 2°)
+• Restbedrag: opvraagbaar
+• Op eerste verzoek
+• Termijn mogelijk te bepalen in statuten
+
+• Gevolg:
+• Aandelen blijven op naam tot volstorting
+
+ (On)toereikend kapitaal / vermogen
+• Bescherming tegen relatieve onderkapitalisatie /
+onvoldoende aanvangsvermogen
+• Financieel plan voor oprichting (art. 5:3; 7:3)
+• Sanctie op ontoereikend kapitaal / aanvangsvermogen (art. 5:16,
+2°; 7:18, 2°): persoonlijke aansprakelijkheid oprichters
+• Voorwaarden:
+• faillissement binnen 3 jaar na oprichting
+• Kapitaal / aanvangsvermogen KENNELIJK ontoereikend om voorgenomen
+activiteit gedurende twee jaar uit te oefenen
+• toetssteen: financieel plan
+• geen bewijs causaal verband
+
+• Anders: art. 1382 BW (onrechtmatige daad) en art. XX.227 WER
+(bestuursaansprakelijkheid voor wrongful trading)
+
+ Kapitaalverhoging in NV
+• Begrip: verhogen maatschappelijk kapitaal
+• Materiële vereisten (art. 7:177)
+• Voorwaarden voor statutenwijziging (art.
+7:153 WVV)
+• Zelfde voorwaarden inzake volstorting als bij
+oprichting
+• Zelfde bescherming en controle bij inbreng in
+natura als bij oprichting
+
+• Formele vereisten
+• Idem als voor oprichtingsakte
+
+ Kapitaalverhoging in NV
+• Bezorgheid: gelijkheid van aandeelhouders
+• Vennootschap met reserves
+• Opl: uitgiftepremie (= agio)
+• Onmiddellijke volstortingsplicht
+• Niet verplicht uitgiftepremie te vragen
+
+• Voorkeurrecht (art. 7:188)
+• Bedoeling: mogelijkheid laten om machtsverhoudingen in stand te houden
+• Mogelijkheid tot uitsluiting
+
+ Vermogensaangroei in BV
+• Eigen vermogen versterken door bijkomende inbrengen
+• Indien nieuwe aandelen uitgegeven: statutenwijziging
+• Indien geen nieuwe aandelen uitgegeven (waarde van bestaande
+aandelen stijgt proportioneel door nieuwe inbrengen van
+bestaande aandeelhouders): AV stemt met gewone meerderheid
+(art 5:120)
+• Geen pari / uitgiftepremie, want geen kapitaal maar prijs van
+nieuwe aandelen doet zelfde vragen rijzen (verslagplicht bestuur)
+• Voorkeurrecht voor bestaande aandeelhouders (art. 5:128)
+
+34
+
+ Toegestaan kapitaal / machtiging
+bestuur
+• Begrip (art. 7:198 e.v.):
+• Statutaire bepaling waardoor raad van bestuur medebevoegdheid krijgt
+kapitaal te verhogen / nieuwe aandelen uit te geven (binnen 5 j)
+
+• Achtergrond:
+• kapitaalverhoging = bevoegdheid AV
+
+• Bedrag:
+• maximaal bedrag bepaald in statuten
+
+• Termijn:
+• binnen 5 jaar te gebruiken
+• toestaan nieuwe termijn mogelijk
+
+ uitkeringen
+BV: zonder kapitaal
+
+Positief eigen
+vermogen
+
+Liquiditeit niet
+in gedrang voor
+komende 12
+maanden
+
+NV: mèt kapitaal
+
+wrongfull trading (art. XX.227
+WER)
+actio pauliana (art. 1166 BW)
+
+Positief eigen
+vermogen + buffer
+van kapitaal (=
+som van
+inbrengen)
+
+36
+
+ Uitkeringstest grote verschil
+
+NV
+
+BV
+
+Art. 7:211
+Art. 7:212
+
+Art. 5:142
+Art. 5:143
+
+37
+
+ Kapitaal in NV ‘klem’ op uitkeringen
+NV:
+uitkering van inbreng
+enkel via
+kapitaalvermindering
+• Verzetsrecht
+schuldeisers
+• Niet onder
+minimumkapitaal
+• statutenwijziging met
+notariële tussenkomst
+
+BV:
+geen bijzondere grens
+voor uitkering van
+inbreng
+• Mogelijk mits voldaan
+aan nettoactieftest en
+liquiditeitstest (cf.
+supra); geen
+minimumkapitaal
+• Geen verzetsrecht voor
+schuldeisers, geen 2mwachtperiode
+• Geen statutenwijziging
+en (dus) geen notariële
+tussenkomst
+
+38
+
+ Terugbetaling van inbreng
+• NV: kapitaalvermindering is statutenwijziging (art. 7:208 – 7:210) met
+bijzonder bescherming voor schuldeisers (art. 7:209):
+• Kunnen bijkomende zekerheid vragen tot 2 maand na bekendmaking BS
+• Vw: schuldvordering is niet vervallen op ogenblik bekendmaking BS
+
+• Wachttermijn voor vs tot effectieve uitvoering
+kapitaalvermindering:
+• min. 2 maand
+• + voldoening SEs die zekerheid gevraagd hebben
+
+• Keuze vennootschap:
+• Bijkomende zekerheid verstrekken
+• Niet-vervallen schulden onder aftrek disconto betalen
+• Evt. voor rechter (kan beslissen dat geen extra zekerheid nodig is
+
+• BV: geen bijzondere vereisten voor vermindering vermogen: zelfde
+procedure als winstuitkering
+
+ rechten verbonden aan aandelen
+NV: mèt kapitaal
+
+BV: zonder kapitaal
+
+Statutaire vrijheid
+voor
+lidmaatschapsrecht
+enStatutaire vrijheid
+voor winstrechten
+
+Aanvullend recht:
+gelijk per aandeel
+
+Grens: Verbod op leonijns beding
+Aanvullend recht :
+(maar in praktijk niet meer zo
+in verhouding tot
+belangrijk)
+kaptiaalvertegenw
+oordigende
+waarde
+
+Lidmaatschapsrechten in verhouding tot
+kapitaalvertegenwoordigendewaarde:dwingend recht in
+beursgenoteerde NV (en van zodra dat kan:
+beursgenoteerde BV)
+Uitzondering:
+Loyauteitsstemrecht
+
+40
+
+ Rechten verbonden aan aandelen
+• Stemrecht in de algemene vergadering
+• Hoeveel stemmen?
+• NV: aandelen kunnen verschillende nominale of fractiewaarde
+hebben
+=> kleinste eenheid één stem
+• Bv. kapitaal 10 000 000 EUR; 8000 A aandelen waarde 1000 EUR, 4000
+B aandelen waarde 500 EUR
+
+• BV: bepaald in statuten
+• Indien niets bepaald: elk aandeel één stem (art. 5:42 WVV)
+
+ Overdrachtsbeperkingen
+• BV: zie art. 5:63 WVV.
+• Vroeger in BVBA: openbare orde
+• Nu in BV: aanvullend recht
+
+• NV:
+• Geen wettelijke overdraagbaarheidsbeperkingen by default
+• wel statutair mogelijk (bv. standstill, aanvaardingsclausule, voorstelplicht,
+voorkooprecht, ….)
+
+• Wettelijke regeling – art. 7:78 WVV
+
+ 

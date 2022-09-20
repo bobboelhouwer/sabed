@@ -1,0 +1,501 @@
+DNA TRANSCRIPTIE EN TRANSLATIE
+GEN REGULATIE
+
+ DNA TRANSCRIPTIE
+Transcriptie is het proces dat van het DNA van
+een gen een complementaire kopie maakt,
+bestaande uit enkelstrengs messenger-RNA
+
+ DNA replicatie:
+
+verdubbeling
+
+DNA transcriptie:
+
+copie van het DNA naar RNA
+
+Translatie
+
+eiwitsynthese
+
+ Menselijk genoom: 3 miljard basenparen
+1000 bp = 1 kb
+
+2%
+Coderende sequenties
+40%
+Verspreid repetitief DNA
+
+10%
+Gegroepeerd repetitief DNA
+
+eiwitten
+
+23%
+Niet-coderende delen van genen
+
+25%
+Enkelvoudig DNA
+
+Klein stukje extra-nucleair DNA of mitochondriale DNA
+
+  Exon 1
+
+promotor
+
+Exon 2
+intron
+
+Exon 3 Exon 4
+intron
+
+intron
+
+Exon 5
+intron
+
+ATG
+
+TAA
+
+start
+
+Poly-A signaal
+
+AGTTCGATCAAACGTCTTTGTAAGATACGCGTGTCC
+
+?
+
+Eiwit: opgebouwd uit aminozuren
+
+ GENETISCHE CODE
+
+ GENETISCHE CODE
+
+64 codons, waarvan 3 stopcodons
+
+ promotor
+
+Exon 1
+
+Exon 2
+intron
+
+Exon 3 Exon 4
+intron
+
+intron
+
+Exon 5
+intron
+
+ATG
+
+TAA
+TAG
+TGA
+
+M
+
+AGTTCGATCAAACGTCTTTGTAAGATACGCGTGTCC
+S
+
+S
+
+I
+
+K
+
+R
+
+L
+
+C
+
+K
+
+...
+
+ Exon 1
+
+promotor
+
+Exon 2
+intron
+
+Exon 3 Exon 4
+intron
+
+intron
+
+Exon 5
+intron
+
+ATG
+
+TAA
+
+start
+
+Poly-A signaal
+1. TRANSCRIPTIE
+2. TRANSLATIE
+
+Eiwit: opgebouwd uit aminozuren
+
+ 3’
+
+5’
+template
+
+sense
+
+3’
+
+5’
+
+3’
+
+5’
+
+RNA polymerase opent de DNA spiraal en synthetiseert RNA van 5’ naar 3’
+
+ TRANSCRIPTIE: gebeurt in de celkern
+promotor
+
+RNA
+polymerase
+
+Exon 1
+
+Exon 2
+intron
+
+Exon 3 Exon 4
+intron
+
+intron
+
+Exon 5
+intron
+
+ATG
+
+TAA
+
+start
+
+Poly-A signaal
+
+5’
+
+3’
+Pre-mRNA
+(messenger RNA)
+
+G
+
+AA
+AA
+
+1. SPLICING
+AA
+
+2. CAPPING
+3. POLY-A
+
+ VERSCHIL DNA VERSUS RNA
+
+ Messenger RNA (mRNA):
+copie van het DNA,
+brengt de genetische informatie van de celkern naar het cytoplasma
+5%
+
+Ribosomaal RNA (rRNA):
+Opbouw van de ribosomen
+Niet coderend !!!
+80%
+
+Transfer RNA (tRNA):
+Aanvoer en positionering van de aminozuren tijdens de translatie
+Niet coderend !!!
+15%
+microRNA, siRNA, snRNA, lncRNA
+Genregulatie
+Niet coderend !!!
+
+ DNA TRANSLATIE
+Translatie is het ‘vertalen’
+van mRNA naar een functioneel eiwit
+
+ Transfer RNA (tRNA):
+Aanvoer en positionering van de aminozuren tijdens de translatie
+Niet coderend !!!
+15%
+aminozuur
+
+5’
+
+gaa
+cuu
+
+3’ mRNA
+
+ TRANSLATIE: gebeurt in het cytoplasma
+
+G AUG GCC CUA UUU AGC CGC AAA AGA UAA A A
+AA
+
+ribosoom
+
+UAC
+
+CGG
+
+m
+
+r
+
+AA
+
+ TRANSLATIE: gebeurt in het cytoplasma
+
+G AUG GCC CUA UUU AGC CGC AAA AGA UAA A A
+AA
+UAC CGG
+
+m
+
+r
+
+GAU
+
+a
+
+AA
+
+ TRANSLATIE: gebeurt in het cytoplasma
+
+G AUG GCC CUA UUU AGC CGC AAA AGA UAA A A
+AA
+CGG GAU
+
+r
+
+a
+
+AAA
+
+m
+p
+
+AA
+
+ TRANSLATIE: gebeurt in het cytoplasma
+
+G AUG GCC CUA UUU AGC CGC AAA AGA UAA A A
+AA
+r
+AA
+l
+r
+s
+
+Post-translatie modificaties
+
+p
+a
+m
+
+r
+
+ TRANSLATIE: gebeurt in het cytoplasma
+
+G AUG GCC CUA UUU AGC CGC AAA AGA UAA A A
+AA
+
+AA
+
+r
+
+s
+p
+a
+m
+
+r
+
+eiwit
+
+r l r
+m
+s
+pa r
+
+r l r
+m
+s
+pa r
+
+r
+
+l r
+r
+m
+s
+a
+p
+r
+
+l
+
+Post-translatie modificaties
+
+ mRNA
+
+Poly-ribosomen
+
+ GEN REGULATIE
+Genregulatie is de sturing van de genexpressie.
+Genregulatie bepaalt de concentratie van een door een gen
+gecodeerd eiwit in een cel.
+Niet alle eiwitten zijn nodig in alle cellen op elk moment.
+
+ GEN REGULATIE
+
+“House keeping” genen:
+vrij constante expressie
+
+Gereguleerde genen:
+Expressie in bepaalde omstandigheden
+Expressie een bepaalde cellen of organen
+
+ Genregulatie kan op verschillende niveaus plaatsvinden
+
+ Gen regulatie op niveau van transcriptie
+5’
+promotor
+
+3’
+Exon 1
+
+Exon 2
+intron
+
+CAAT
+
+TATA
+
+Exon 3 Exon 4
+intron
+
+intron
+
+RNA polymerase
+
+Exon 5
+intron
+
+ Gen regulatie op niveau van transcriptie:
+promotor
+5’
+promotor
+
+3’
+Exon 1
+
+Exon 2
+intron
+
+CAAT
+
+TATA
+
+transcriptiefactoren
+
+Exon 3 Exon 4
+intron
+
+intron
+
+RNA polymerase
+
+Exon 5
+intron
+
+ Gen regulatie op niveau van transcriptie:
+enhancers en silencers
+
+ Gen regulatie op niveau van transcriptie:
+enhancers en silencers
+
+ Gen regulatie op niveau van transcriptie
+voorbeeld
+
+ Gen regulatie op niveau van transcriptie:
+Staat van het chromatine bepaalt mee of het DNA kan overgeschreven worden
+(zie les chromosomen)
+
+ Gen regulatie op niveau van het messenger RNA en translatie:
+microRNA’s blokkeren translatie of zorgen ervoor dat mRNA wordt afgebroken
+
+ ALTERNATIEVE SPLICING
+
+ SPLICING
+
+ promotor
+
+Exon 1
+
+Exon 2
+intron
+
+Exon 3
+intron
+
+Exon 4
+
+intron
+
+ promotor
+
+Exon 1
+
+Exon 2
+intron
+
+Exon 3
+intron
+
+Exon 4
+
+intron
+
+ promotor
+
+Exon 1
+
+Exon 2
+intron
+
+Exon 3
+intron
+
+Exon 4
+
+intron
+
+ALTERNATIEVE SPLICING
+
+Alternatieve splicing door splicing variatie van het pre-mRNA kunnen verschillende
+mRNA-moleculen gevormd worden en daardoor verschillende eiwitten ontstaan.
+
+   Eenheid:
+
+1 basenpaar bp
+1.000 bp = 1 kb
+1.000.000 = 1Mb
+
+Genoom = 2 strengen van 3 miljard bp (3.109)
+
+ 

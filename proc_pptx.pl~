@@ -1,18 +1,22 @@
+# Author: Bob Boelhouwer, INT
+# Date: 2022-09-19
+#Usage: perl proc_pptx.pl ../SABeD-Data/cursusmateriaal/*.pptx
+
 use strict;
 use warnings;
 
 my @files = @ARGV;
 foreach my $file (@files) {
-    my $newfile = `pdftotext $file -`;
-    $newfile =~ s!(||||||||||||||)! !g;
+    my $newfile = `perl pptx2txt.pl $file -`;
+#    $newfile =~ s!(||||||||||||||)! !g;
     printResult ($file, $newfile);
 }
 
 sub printResult {
     my ($file, $text) = @_;
-    if ($file =~ m!/([^/]+)\.pdf$!) {
+    if ($file =~ m!/([^/]+)\.ppt[mx]$!) {
 	my $filename = $1;
-	my $newfile = "pdftxt/" . $filename . ".txt";
+	my $newfile = "Conv/pptx/" . $filename . ".txt";
 	my $out;
 	if (!open ($out, ">" . $newfile)) {
 	    printf STDERR "Unable to open %s (from %s)\n", $newfile, $file;

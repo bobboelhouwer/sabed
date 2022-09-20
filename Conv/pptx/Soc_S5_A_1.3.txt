@@ -1,0 +1,987 @@
+Methoden van het wetenschappelijk
+onderzoek – Deel 1
+Prof. Dr. Eva Van den Bussche
+
+ Les 2: Hypothesen formuleren, Variabelen
+definiëren en meten
+Handboek Hoofdstuk 2 (pp. 45-48)
+Handboek Hoofdstuk 3 (pp. 51-80)
+Prof. Dr. Eva Van den Bussche
+
+ Overzicht
+• Terugkoppeling oefening
+• Empirische cyclus
+• Hypothesen formuleren
+• Variabelen definiëren en meten
+
+
+
+
+
+
+3
+
+Constructen en operationele definities
+Validiteit en betrouwbaarheid
+Meetschalen
+Meetmodaliteiten
+Andere aspecten van meten
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Terugkoppeling oefening (1)
+• Gokkersmisvatting (of gambler's fallacy)
+• “Ik heb al 3 keer kop gegooid, de kans is nu groter dan ik munt ga gooien”
+• Is dat zo??? Gebruik de empirische methode om dit te testen
+ Empirische methode: Antwoorden zoeken door directe observatie of directe
+sensorische ervaring
+ Gooi een munt herhaaldelijk op, noteer de keren dat je 3x kop gooide en wat je
+nadien gooide
+ Was de kans op munt groter na 3 keer kop?
+ Nee: bij iedere worp is de kans op “kop” opnieuw 50%
+4
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Terugkoppeling oefening (2)
+• Ga op zoek in kranten, reclame, etc. naar “interessante vragen”, naar
+kennisclaims
+• Probeer te achterhalen op basis van welke methode de interessante vraag
+beantwoord werd
+• Probeer een voorbeeld te zoeken van een claim die beantwoord werd op basis
+van een niet-wetenschappelijke methode en een claim op basis van de
+wetenschappelijke methode
+• Zet je gevonden voorbeelden in het forum op Toledo
+
+5
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Terugkoppeling oefening (2)
+1. “Fietsers in Amsterdam hebben niet enkel de ruimte van wagens verworven, maar o
+ok de ongemanierdheid”
+ Column Lize Spit
+ Kennisclaim die zich baseert op eigen ervaring (empirie)
+ Maar geen wetenschappelijke methode (geen onderzoek, hypotheses, etc.)
+2. “Scheiding beïnvloedt slaagkansen kinderen in hoger onderwijs”
+ Studie die zich baseert op data van anderen maar zelf geen nieuwe verzamelen op
+basis van empirische methode
+ Eerder gebaseerd op rationalisme/methode van autoriteit (geen empirische studie)
+
+6
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Terugkoppeling oefening (2)
+3. Van fictie lezen zouden we empathischer
+worden - maar dat blijkt nu misschien helemaal niet zo te zijn
+ Replicatie-studie
+ Zeer nauwgezette replicatie van vorige studie obv wetenschappelijke methode
+4. Goed nieuws: mensen vinden je leuker dan je denkt
+ Initiële observatie, nieuwe hypothese, predicties, reeks experimenten
+ Wetenschappelijke methode
+
+7
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Terugkoppeling oefening (2)
+5. Beter presteren op het werk begint bij meer mensenkennis
+ Mensen volgen een opleiding in “soft skills” (zelfmanagement, teamwork, etc.) en
+getuigen daarover
+ Kennis obv empirie, maar geen wetenschappelijke methode (geen onderzoek,
+hypotheses, etc.)
+6. Chocolade doet u beter voelen
+ Chocolade bevat fenylethylamine, dat is een lichaamseigen stof die aangemaakt
+wordt als mensen verliefd zijn. De stof zorgt ervoor dat er in de hersenen endorfines
+vrijkomen. Zo zorgt het eten van chocolade er dus voor dat u zich beter voelt.
+ Rationele methode
+
+8
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Terugkoppeling oefening (2)
+7. Waarom straffen niet werkt
+ “Toch is straffen overduidelijk zinloos. ‘Mijn zoon is onuitstaanbaar, ik geef
+hem geregeld straf,’ zei een moeder die alles al had geprobeerd: een pak voor
+zijn broek, een verbod op televisiekijken of op computeren, naar buiten sturen,
+hem in de hoek zetten… Zonder ooit te bedenken dat als ze aldoor dit soort
+middelen in de strijd moet werpen, straffen kennelijk niet werkt. Haar zoon
+leert er duidelijk niet van om zich aan de regels te houden.”
+ Kennis obv empirie, maar geen wetenschappelijke methode (geen
+onderzoek, hypotheses, etc.)
+Opvallend: vaak te weinig details om dit te achterhalen obv krantenartikel
+9
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Empirische cyclus
+• Vorige week: empirische cyclus
+• (STAP 1: Formuleren interessante vraag, zie OPO
+“Rapporteringsvaardigheden in de psychologie”)
+Vandaag:
+• STAP 2: Hypothesen formuleren
+• STAP 3: Variabelen definiëren en meten
+
+10
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ 11
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Hypothesen formuleren
+Handboek Hoofdstuk 2 (pp. 45-48)
+Prof. Dr. Eva Van den Bussche
+
+ Hypothesen formuleren
+• Op basis van je interessante vraag
+• Voorlopig antwoord op de vraag
+• De resultaten van een empirische studie zullen de hypothese ondersteunen of
+weerleggen
+• Wat is een goede hypothese?
+1. Logisch
+2. Toetsbaar
+3. Weerlegbaar
+4. Positief
+
+13
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ 1. Logisch
+• Hypothese moet een logische conclusie zijn van een logisch argument:
+Argument:
+Academisch succes wordt sterk gewaardeerd en gerespecteerd in
+gemeenschap door ouders en leerkrachten
+
+de
+
+Gewaardeerd en gerespecteerd worden door anderen draagt bij
+sterker gevoel van eigenwaarde
+
+tot
+
+Premissen
+
+Logische
+Hogere niveaus van academisch succes zullen gerelateerd zijn
+conclusie =
+sterker gevoel van eigenwaarde
+hypothese
+
+14
+
+aan
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ 1. Logisch
+• Hypothese moet een logische conclusie zijn van een logisch argument:
+Argument:
+Academisch succes wordt sterk gewaardeerd en gerespecteerd in
+gemeenschap
+door ouders en leerkrachten
+Vorig
+
+de
+
+onderzoekGewaardeerd en gerespecteerd worden door anderen draagt bij
+
+tot
+
+sterker gevoel van eigenwaarde
+Huidig
+Hogere niveaus van academisch succes zullen gerelateerd zijn
+onderzoek =
+sterker gevoel van eigenwaarde
+hypothese
+
+15
+
+aan
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ 2. Toetsbaar
+• Alle variabelen, gebeurtenissen en individuen betrokken in een hypothese
+moeten geobserveerd en gemeten kunnen worden
+• Geen hypotheses over imaginaire of hypothetische situaties
+• Het gaat om echte situaties, echte gebeurtenissen, echte individuen
+
+16
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ 3. Weerlegbaar
+• Het moet mogelijk zijn om onderzoeksresultaten te bekomen die omgekeerd
+zijn aan de hypothese
+• Falsifieerbaar
+• Hypothesen waarvan het onmogelijk is om aan te tonen dat ze foutief zijn, zijn
+niet geschikt voor de wetenschappelijke methode
+• Oppassen met waardeoordelen, morele of religieuze zaken, hypothetische
+situaties
+• Maar: ook deze thema’s kunnen onderzocht worden zolang er een toetsbare
+en weerlegbare hypothese wordt geformuleerd
+
+17
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ 4. Positief
+• De hypothese is “positief” geformuleerd
+• Bevat een stelling over het bestaan/aanwezigheid van iets (e.g., het bestaan
+van een relatie, een verschil, een effect)
+• Geen hypotheses over de afwezigheid van iets (geen relatie, geen verschil,
+geen effect)  niet toetsbaar!
+
+18
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ 19
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Variabelen definiëren en meten
+Handboek Hoofdstuk 3 (pp. 51-80)
+Prof. Dr. Eva Van den Bussche
+
+ Variabelen definiëren en meten
+• STAP 3 empirische cyclus: algemene hypothese vertalen naar specifieke
+onderzoekspredicties
+• Deze predicties kunnen ondersteund of weerlegd worden door directe
+observatie
+• Predictie past de hypothese toe op een concrete situatie
+• Eén hypothese kan leiden tot verschillende predicties (en dus verschillende
+onderzoeksdesigns)
+
+21
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Variabelen definiëren en meten
+• Variabele= kenmerken of condities die veranderen voor verschillende
+individuen of situaties
+• Mogelijke doelen = impact van variabele(n) op andere variabele(n) meten of
+nagaan of groepen individuen verschillen mbt bepaalde variabele(n)
+• Voorb: effect van therapie op depressieve symptomen, verschil in job
+satisfactie van arbeiders VS bedienden in een bedrijf, effect van onderwijsstijl
+op schools presteren, invloed van alcohol op rijgedrag, verschil in reactietijd op
+makkelijke versus moeilijke taak, etc.
+• Onafhankelijke variabele of predictor (X)
+• Afhankelijke variabele of outcome (Y)
+22
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Variabelen definiëren en meten
+• Hypothese: therapie vermindert depressieve symptomen
+• Onafhankelijke variabele of predictor (X)
+ De verwachte oorzaak
+ De voorspellende/verklarende variabele
+ Variabele die gemanipuleerd wordt (in experimenten)
+ “Therapie” in dit voorbeeld
+• Afhankelijke variabele of outcome (Y)
+ Het verwachte effect
+ De variabele die voorspeld/verklaard wordt
+ Variabele die gemeten wordt, niet gemanipuleerd (in experimenten)
+ “Depressieve symptomen” in dit voorbeeld
+23
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Variabelen definiëren en meten
+• Oefening: duid de onafhankelijke en afhankelijke variabelen aan in
+onderstaande hypothesen
+1. Mannen hebben meer werkzekerheid dan vrouwen
+2. Quality of life (QoL) neemt toe met leeftijd
+3. Piekeren en catastroferen leiden tot een verminderde slaapkwaliteit
+4. Deelnemers die twee taken tegelijk uitvoeren (dual task) maken meer fouten
+dan wanneer diezelfde deelnemers slechts 1 taak uitvoeren
+5. Meer uren wiskunde gevolgd in het secundair onderwijs voorspelt hogere
+scores op Statistiek I bij studenten
+
+24
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ 25
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Variabelen definiëren en meten
+Hypothese: Meer uren wiskunde gevolgd in het secundair onderwijs voorspelt
+hogere scores op Statistiek I bij studenten
+Variabelen gedefinieerd!
+Stel: steekproef van 10 studenten (N = 10), we meten onze variabelen
+Hoe ziet de datastructuur er dan uit?
+SPSS video
+
+26
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ 27
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Constructen en operationele definities
+• Concrete variabelen (e.g., lengte, leeftijd, uren wiskunde, score op statistiek):
+makkelijk te definiëren, direct observeerbaar, eenvoudig te meten
+• Abstracte variabelen (e.g., motivatie, persoonlijkheid, leerstijl): niet direct
+observeerbaar, complexer om te meten
+ Voorb.: een intelligent kind presteert slecht op school omdat ze “lage
+motivatie” heeft
+ Wat is motivatie? Hoe meten we dat? Hoe weten we dat dat “laag” is?
+• In de psychologie zullen veel variabelen hypothetische entiteiten zijn die we
+creëren op basis van theorie en speculatie = constructen
+
+28
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Constructen en operationele definities
+• Theorie = set stellingen over mechanismen onderliggend aan een bepaald
+gedrag. Een theorie organiseert en integreert verschillende observaties rond
+dit gedrag en de relatie met andere variabelen. Een goede theorie genereert
+predicties over het gedrag
+• Constructen = hypothetische entiteiten die het gedrag in een theorie helpen
+verklaren en voorspellen
+• Constructen kunnen vaak niet direct geobserveerd worden, maar we kunnen
+de factoren die het construct beïnvloeden (externe stimuli) en het gedrag dat
+door het construct beïnvloed wordt (extern gedrag) meten
+
+29
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Constructen en operationele definities
+• Externe stimuli  construct  extern gedrag
+• Beloning (meetbaar)  motivatie  prestatie (meetbaar)
+• DUS: we gaan de constructen indirect meten adhv de externe stimuli en
+gedragingen die ermee verbonden zijn!
+• Operationele definitie = procedure om indirect variabelen te meten en
+definiëren die niet direct meetbaar zijn. Specifieert een manier om extern,
+observeerbaar gedrag te meten en gebruikt vervolgens dit gedrag als definitie
+en meting van het hypothetisch construct
+
+30
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Constructen en operationele definities
+• Voorb: Intelligentie  hypothetisch construct, niet direct
+observeerbaar/meetbaar!
+• MAAR: Intelligentie zal extern gedrag beïnvloeden dat wél
+observeerbaar/meetbaar is (e.g., prestatie op taken)
+• IQ test: meet extern gedrag, nl. antwoorden op vragen
+• We gebruiken de IQ test als operationele definitie van intelligentie: er bestaat
+een procedure om de test af te nemen en te scoren, en we gebruiken de
+geobserveerde score als definitie en meting van “intelligentie”
+• Eigenlijk meet IQ-test dus “intelligent GEDRAG”, maar we gebruiken de score
+om “intelligentie” te meten en definiëren
+31
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Constructen en operationele definities
+• IQ-test om intelligentie te “operationaliseren”
+• Persoonlijkheidstest om extraversie te operationaliseren
+• Aantal woorden van een lijst onthouden om lange termijn geheugen te
+operationaliseren
+• Examen om kennis te operationaliseren
+• Vaak verschillende operationaliseringen mogelijk: honger kunnen we
+operationaliseren adhv “aantal uur niet gegeten” of “aantal gram voedsel
+gegeten”
+ Hoe je constructen gaat operationaliseren is een belangrijke keuze!
+
+32
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Constructen en operationele definities
+• LET OP!
+• Operationaliseringen zijn NIET hetzelfde als het construct zelf!
+• We meten externe manifestaties, gedrag waarvan we HOPEN dat die een
+goede indicator zijn van de onderliggende constructen
+• Kwaliteit van de operationele definities en van de metingen die ze
+opleveren zijn dus cruciaal
+• Voorb: examen om kennis te operationaliseren, maar wat als student die
+dag ziek/vermoeid is?
+• Probleem: operationele definities kunnen belangrijke componenten van
+een construct missen OF bijkomende componenten meten die geen deel
+zijn van het construct
+33
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Constructen en operationele definities
+• Hoe kom je tot een operationele definitie?
+• Consulteer vorig onderzoek: hoe werd een bepaald construct gemeten?
+• Wees kritisch! Was dit een goede operationalisering en meting? Er zijn altijd
+andere procedures mogelijk!
+• Geen juist/fout, maar je moet heel wat beslissingen maken om te beslissen
+hoe je je variabelen gaat meten!
+
+34
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Validiteit en betrouwbaarheid
+• Hoe komen we tot een goede methode om variabelen te meten?
+• Hoe komen we tot goede operationele definities en metingen?
+Hoe goed is een meting? Hoe goed is een (meet)procedure?
+2 algemene criteria:
+ Validiteit
+ Betrouwbaarheid
+
+35
+
+Hoe? Door de consistentie van de relatie/verband
+tussen 2 verschillende metingen te demonstreren
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Validiteit en betrouwbaarheid
+• Hoe kunnen we de consistentie tussen 2 metingen nagaan?
+• Scatter plot
+ Plot relaties tussen metingen/variabelen
+ Plot de score van elke individu op één meting/variabele tov diens score op de
+andere meting/variabele
+
+36
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ 37
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Validiteit en betrouwbaarheid
+• Hoe kunnen we de consistentie tussen 2 metingen nagaan?
+• Correlatie
+𝑛
+
+Cov 𝑥𝑦
+𝑟=
+=
+𝑠𝑥 𝑠 𝑦
+
+∑ ( 𝑥𝑖 − 𝑥) ( 𝑦𝑖 − 𝑦 )
+𝑖=1
+
+( 𝑁 − 1) 𝑠 𝑥 𝑠 𝑦
+
+ Varieert tussen -1 (perfect negatieve relatie) en +1 (perfecte positieve relatie)
+ 0 = geen relatie
+
+38
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ 39
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ 1. Validiteit
+• Meet onze meting wat het beoogt te meten?
+• Meet IQ-test echt intelligentie? Is een IQ-test een valide meting van
+intelligentie?
+• Verschillende methoden om validiteit te meten (vaak in combinatie gebruikt)
+
+
+
+
+
+
+40
+
+Indruksvaliditeit (“face validity”)
+Concurrente validiteit
+Predictieve validiteit
+Construct validiteit
+Convergente en divergente validiteit
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ 1. Validiteit
+• Indruksvaliditeit (“face validity”)
+
+
+
+
+
+Lijkt het erop dat de meting meet wat het beoogt te meten?
+‘Face value’, oppervlakkig
+Subjectieve beoordeling
+Voorb: gewicht meten adhv een weegschaal heeft hoge face validity
+
+• Concurrente validiteit
+ Vaak gebruikt voor nieuwe meettechnieken
+ Zijn de scores die we bekomen met de nieuwe meting direct gerelateerd aan de
+scores doe we bekomen met een gekende, reeds gevalideerde methode?
+ Voorb: nieuwe IQ test meet echt intelligentie, aangezien de scores op de nieuwe test
+individuen op dezelfde manier differentiëren dan de scores op een standaard IQ-test
+41
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ 1. Validiteit
+• Predictieve validiteit
+ Aangetoond wanneer de metingen van een construct accuraat het gedrag voorspellen (op
+basis van een theorie)
+ Kan de meting voorspellen wat het volgens de theorie moet kunnen voorspellen?
+ Voorb: meting om kinderen die risico hebben op ontwikkelen dyscalculie al vroeg te
+identificeren. Later nagaan hoe accuraat de voorspelling was
+
+• Construct validiteit
+ Gedraagt onze meting zich zoals we verwachten dat het construct zich gedraagt (op basis
+van wetenschappelijke literatuur)
+ Voorb: je hebt een meting voor agressie. Uit vorig onderzoek weten we dat agressie
+gerelateerd is aan de buitentemperatuur  hangt onze meting ook samen met temperatuur?
+ Nooit absoluut!
+
+42
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ 1. Validiteit
+• Convergente validiteit
+ Verschillende metingen van hetzelfde construct convergeren, produceren sterk
+gerelateerde scores
+
+• Divergente validiteit
+ Metingen van verschillende constructen zijn weinig of niet gerelateerd aan elkaar
+ Het construct dat we meten overlapt niet met andere constructen
+
+ Vaak combinatie van beide!
+
+43
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ 2. Betrouwbaarheid
+• Een meetprocedure is betrouwbaar wanneer ze (bijna) identieke resultaten oplevert
+wanneer ze herhaaldelijk gebruikt wordt om hetzelfde individu onder dezelfde
+condities/omstandigheden te meten
+• Consistentie van de metingen bekomen met een specifieke meetprocedure
+Gemeten score = Ware score + Fout
+• De fout component varieert van de ene meting naar de andere
+• Over een groot aantal metingen heen moet de som van de fouten = 0
+• Indien fout component klein en de scores over verschillende metingen heen dus vrij
+consistent, zijn de metingen betrouwbaar
+44
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ 2. Betrouwbaarheid
+• Wat als de fout component groot is?
+• Voorb: reactietijd
+• Hoe snel je een kleur benoemt zal erg schommelen van trial tot trial
+• Effect van dagdromen, aandacht, etc.
+Fout zal groot zijn! Meting is dus niet betrouwbaar!
+Oplossing? Reactietijd niet 1 keer meten, maar heel vaak (i.e., heel veel
+“trials”) en het gemiddelde over de trials gebruiken als meer stabiele maat voor
+reactietijd
+
+45
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ 2. Betrouwbaarheid
+• Fout kan uit verschillende bronnen komen:
+ Proefleider (“Observer”): verwachtingen, menselijk oordeel
+ Omgeving: omstandigheden waarin individu gemeten wordt zijn nooit identiek
+(e.g., tijdstip, seizoen, belichting, etc.)
+ Participant: participanten veranderen tussen metingen (e.g., focus, aandacht,
+honger, nachtrust, gezondheidstoestand, etc.)
+
+46
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ 2. Betrouwbaarheid
+• Types betrouwbaarheid:
+ Test-hertest betrouwbaarheid: in hoeverre geeft dezelfde meetprocedure dezelfde
+resultaten bij dezelfde groep participanten op verschillende tijdstippen? E.g.,
+correlatie tussen scores op moment 1 en scores op moment 2
+ Interbeoordelaarsovereenstemming: in hoeverre geeft dezelfde meetprocedure
+dezelfde resultaten bij dezelfde groep participanten gemeten door verschillende
+beoordelaars/proefleiders? E.g., correlatie tussen scores van beoordelaar 1 en
+scores van beoordelaar 2
+ Interne consistentie: in hoeverre is er consistentie tussen vragen/items die samen
+1 construct meten? E.g., split-half betrouwbaarheid: items in 2 delen splitsen en
+correlatie tussen de scores op beide helften berekenen
+
+47
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Relatie validiteit - betrouwbaarheid
+• Betrouwbaarheid is een voorwaarde voor validiteit: een meetprocedure kan
+nooit valide zijn als ze niet betrouwbaar is
+ Voorb: IQ-test meting 1 = 75, IQ-test meting 2 = 160  onbetrouwbaar, maar deze
+metingen zijn geen goede operationalisering van intelligentie  niet valide
+
+• Een meting hoeft niet valide te zijn om betrouwbaar te kunnen zijn
+ Voorb: intelligentie operationaliseren adhv lengte: uiteraard niet valide, maar wel
+betrouwbaar (scores zullen zeer consistent zijn over metingen heen)
+
+48
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Meetschalen
+• Meten = procedure om individuen toe te wijzen aan categorieën
+• Set van categorieën = meetschaal
+• 4 meetschalen
+
+
+
+
+
+Nominaal
+Ordinaal
+Interval
+Ratio
+
+• Type meetschaal hangt af van de relatie die er bestaat tussen de categorieën
+waaruit de meetschaal bestaat en de informatie die elke meting oplevert
+• Zie ook OPO “Psychometrie en constructie van psychodiagnostische instrumenten”
+
+49
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Nominale meetschaal
+• Categorieën = kwalitatieve (geen kwantitatieve) verschillen binnen de gemeten
+variabele
+• Categorieën hebben verschillende namen, maar geen systematische
+samenhang tussen de categorieën
+• Laat enkel toe om na te gaan of individuen gelijk zijn of verschillend
+(gelijkheid)
+• MAAR: zegt niets over de richting van verschillen tussen individuen (geen
+meer/minder uitspraken)
+• MAAR: zegt niets over de grootte van de verschillen tussen individuen
+• Voorb.: sekse, beroep, studierichting, diersoort, hobby's, etc.
+50
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Ordinale meetschaal
+• Categorieën hebben verschillende namen en zijn georganiseerd in een
+geordende reeks
+• Er bestaat dus een directionele relatie tussen de categorieën
+• Laat enkel toe om na te gaan of individuen gelijk zijn of verschillend én wat de
+richting is van verschillen tussen individuen (meer/minder uitspraken; orde)
+• MAAR: zegt niets over de grootte van de verschillen tussen individuen
+• Voorb.: opleidingsniveau, kledingmaat, afstudeergraad (voldoende,
+onderscheiding, etc.)
+
+51
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Interval meetschaal
+• Categorieën zijn sequentieel georganiseerd én alle categorieën hebben dezelfde
+grootte
+• Meetschaal bestaat dus uit een serie van identieke intervallen (cf. meetlat)
+• Het is dus mogelijk om de afstand tussen 2 punten op de schaal te bepalen en dus
+iets te zeggen over de grootte van de verschillen (verhouding van verschil) tussen
+individuen
+• Gelijke intervallen op de meetschaal representeren gelijke verschillen in de gemeten
+variabele
+• Voorb.: temperatuur (39° VS 37° is identiek aan 25° VS 23°)
+• MAAR: geen absoluut nulpunt, nulpunt is arbitrair, duidt niet de afwezigheid van de
+gemeten variabele aan (e.g., 0° ≠ geen temperatuur)
+52
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Ratio meetschaal
+• Idem als interval meetschaal, maar absoluut, niet-arbitrair nulpunt
+• Nulpunt duidt de afwezigheid van de gemeten variabele aan
+• Betekent dat we de afstand tot 0 kunnen berekenen (i.e., absolute hoeveelheid
+van de variabele)
+• Laat ons toe om metingen te vergelijken in ratio’s (verhouding)
+• Voorb: een score van 10/20 is de helft van een score van 20/20 op een
+examen
+• Voorb: score op examen, hoeveelheden in liter/meter, lengte, gewicht,
+reactietijd
+
+53
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Meetschalen
+• Aantal uren wiskunde?
+ Ratio
+• Score op Statistiek I?
+ Ratio
+
+Opmerking SPSS: keuze tussen nominal, ordinal, scale (= interval OF ratio)
+54
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Interval VS Ratio meetschaal
+• LET OP: welke meetschaal je variabele heeft hangt ook af van de keuzes die jij als
+onderzoeker maakt!  keuze van het nulpunt
+• Voorb:
+ Gewicht in kg waarbij 0kg = geen gewicht  ratio (een baby van 5 kg weegt dubbel zoveel
+als een baby van 2.5kg)
+ Gewicht in kg waarbij 0 = gemiddelde gewicht van de leeftijdsgroep  interval (een baby
+die +5kg meer weegt dan het gemiddelde weegt niet dubbel zoveel als een baby van
++2.5kg)
+ In beide gevallen is 5 wel 2.5 meer dan 2.5! Beide meetniveaus kunnen dus uitspraak doen
+over de afstanden tussen metingen, maar enkel ratio niveau laat interpretatie in ratio’s toe
+ Afstanden meten is meestal belangrijker dan ratio’s meten, waardoor het onderscheid
+tussen deze 2 meetniveaus weinig praktische relevantie heeft
+
+55
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Interval VS Ratio meetschaal
+• LET OP: soms is het niet duidelijk tot welke meetschaal een meting behoort!
+• Voorb: IQ?
+ Lijkt interval meetschaal te hebben
+ MAAR: is het verschil tussen IQ 85 en IQ 86 (1 IQ punt) gelijk het verschil tussen
+IQ 145 en IQ 146 (1 IQ punt)  is 1 punt over de hele schaal identiek?
+
+• Voorb: Beoordelingsschalen
+1
+2
+3
+4
+5
+helemaal niet akkoord – eerder niet akkoord – neutraal – eerder akkoord – helemaal akkoord
+
+ MAAR: is de afstand tussen 1-2 identiek aan de afstand tussen 4-5?
+
+• Oplossing? Onderzoek behandelt dit soort ambigue variabelen als interval
+meetniveau
+56
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Meetschalen
+• Verschillen tussen meetschalen kan enorme gevolgen hebben!
+• Impact op de interpretatie van de scores
+• Hypothese: A is verschillend van B (gelijkheid)  alle meetschalen OK
+• Hypothese: A is meer dan B (orde)  nominale meetschaal is niet mogelijk!
+• Hypothese: A is 5 meer dan B (verhouding van verschil)  nominale en
+ordinale meetschaal zijn niet mogelijk!
+• Interval/ratio meetschalen laten toe om meer complexe berekeningen uit te
+voeren (berekenen gemiddelden, varianties, etc.)
+ Keuze van de meetschaal hangt af van wat je wil meten, hypothese!
+57
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ 58
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ 59
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Meet“modaliteiten”
+• Externe stimuli  construct  extern gedrag
+• Welk extern gedrag is de beste index voor het onderliggend construct
+• 3 brede categorieën
+ Zelfrapportage
+ Fysiologie
+ Gedrag
+
+60
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Meet“modaliteiten”
+• Voorbeeld: angst voor spinnen  hoe construct meten?
+ Zelfrapportage: hoe angstig voelt u zich bij het zien van een spin?
+ Fysiologie: hartslag meten tijdens het bekijken van een filmpje van een spin
+ Gedrag: vragen aan participanten spin aan te raken
+
+• Voor we dus een operationele definitie kunnen ontwikkelen voor het construct,
+moeten we eerst bepalen welke externe expressie we gaan gebruiken om het
+te definiëren/meten
+
+61
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ 1. Zelfrapportage
+• Ja/nee vraag, beoordelingsschaal, vragenlijst, etc.
+• Voordeel: directe manier om het construct te bevragen, individu als expert over
+zichzelf
+• Nadeel: subjectief, sociale wenselijkheid, invloed van
+proefleider/instructies/omgeving, verstoorde antwoorden op gevoelige vragen,
+etc.  impact op validiteit!
+
+62
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ 2. Fysiologie
+• Reacties van het lichaam als manifestaties van een onderliggend construct
+• Angst  verhoogde hartslag en zweten (kan je meten adhv huidgeleiding)
+• EEG, fMRI, PET, pupil dilation, etc.
+• Voordeel: zeer objectief
+• Nadeel: apparatuur nodig, kan leiden tot artificiële context
+• Wat met validiteit? Veel fysiologische responsen zijn gelinkt aan verschillende
+constructen (e.g., verhoogde hartslag  angst, arousal, inspanning, etc.)
+• Meten deze metingen wel wat ze beogen te meten?
+
+63
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ 3. Gedragsmaten
+• Constructen tonen zich vaak in gedrag dat observaarbaar en meetbaar is
+• Voorb: reactietijd, aantal woorden correct herinnerd, prestatie op IQ-test, etc.
+• Gedrag kan ook het construct zelf zijn en dus direct observeerbaar/meetbaar
+(e.g., storend gedrag in de klas bij meisjes VS jongens)
+• Voordeel: Zeer breed! Veel keuzemogelijkheden afhankelijk van de precieze
+situatie, hypothese, etc.
+• Nadeel: kan tijdelijk of situationeel bepaald zijn  meerdere gedragsmaten
+combineren
+
+64
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Andere aspecten van meten
+• DUS: rekening houden met validiteit, betrouwbaarheid, meetschaal,
+meetmodaliteit
+• Verschillende andere factoren moeten ook in rekening worden gebracht!
+• Goede beslissingen nemen rond deze factoren verhoogt de kans op het
+ontwikkelen van een goede wetenschappelijke studie
+
+65
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ 1. Multipele metingen
+• Meerdere metingen om een construct te meten
+• Voorb: om het effect van angsttraining te meten bevragen we
+zelfgerapporteerde angst én meten we de hartslag
+• Voordeel: verhoogt validiteit
+• Nadeel: statistische analyses worden complexer, metingen kunnen elkaar
+tegengespreken (e.g., wat als zelfgerapporteerde angst daalt maar hartslag
+niet?)
+
+66
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ 2. Sensitiviteit
+• Metingen moeten sensitief genoeg zijn om het type en de grootte van de
+verwachte veranderingen op te pikken
+• Zeker indien de verwachte veranderingen klein/subtiel zijn
+• Range effecten (ceiling/floor effecten): de scores zijn geclusterd aan één
+uiteinde van de meting
+• Voorb: participanten leggen een taak af die zo makkelijk is dat ze gemiddeld
+slechts 1.2% fouten maken  weinig ruimte voor verbetering, dus we gaan
+veranderingen in accuraatheid niet kunnen oppikken met deze taak!
+• Oplossing: piloteer je studie! Test je studie eerst uit op een kleine steekproef
+van representatieve individuen (= pilootstudie)
+67
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ 3. Artefacten
+• = externe factor die de metingen kan beïnvloeden of vertekenen
+• Bedreigt de validiteit en betrouwbaarheid van de metingen
+a) Proefleider bias (observer/experimenter bias): verwachtingen kunnen
+metingen intentioneel of niet-intentioneel beïnvloeden (e.g., manier waarop
+instructies worden gegeven, omgang met participant)
+Oplossing: gestandaardiseerde procedures (vaste instructies, scripts,
+persoonlijk contact minimaliseren, single/double blinde experimenten)
+
+68
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ 3. Artefacten
+b) Vraagkarakteristieken (“Demand characteristics”) en participant reactiviteit
+ Participanten die weten dat ze geobserveerd/gemeten worden kunnen
+onverwacht reageren
+ De onderzoeksomgeving geeft vaak cues (vraagkarakteristieken) die
+suggereren wat het doel/hypothese is van de studie en welk gedrag gepast
+is of verwacht wordt
+ Invloed op metingen! Deelname aan een studie “verlangt” van de participant
+dat die meewerkt en instructies volgt, zelfs als dat indruist tegen gebruikelijk
+gedrag  gevaar voor validiteit en betrouwbaarheid
+
+69
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ 3. Artefacten
+b) Vraagkarakteristieken (“Demand characteristics”) en participant reactiviteit: 4
+subject rollen
+ Good subject rol: trachten om gedrag te stellen dat de hypothese van de
+proefleider bevestigt
+ Negative subject rol: trachten om gedrag te stellen dat de hypothese van
+de proefleider ontkracht
+ Apprehensive subject rol: trachten zich sociaal wenselijk te gedragen in
+plaats van waarheidsgetrouw
+ Faithful subject rol: volgen de instructies trouw op en laten zich niet
+beïnvloeden door hun vermoedens omtrent de hypothese van de studie
+
+70
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ 3. Artefacten
+b) Vraagkarakteristieken (“Demand characteristics”) en participant reactiviteit: 4
+subject rollen
+ Vooral een probleem in laboratorium studies, omdat participanten er zich
+hier heel bewust van zijn dat ze deelnemen aan een studie
+ Soms minder een probleem in veldstudies, waar participanten
+geobserveerd/gemeten worden in hun natuurlijke omgeving waardoor ze
+minder reactief zijn
+ Andere oplossing: misleiding (deception), maar vergt ethische reflectie
+ Stel de participant gerust dat diens deelname anoniem en vertrouwelijk is
+en moedig aan om eerlijke antwoorden te geven (“reassure and relax”)
+
+71
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Besluit
+• Keuze van de meetprocedure omvat verschillende beslissingen
+• Elke beslissing heeft implicaties voor de resultaten van de studie
+• Weeg dus alle opties goed af wanneer je zelf een studie ontwikkelt of wanneer je
+kritisch de methoden van anderen leest (e.g., in wetenschappelijke literatuur)
+• Beste startpunt om een methode te selecteren = vorig onderzoek die deze
+constructen/variabelen gemeten hebben!
+• Veel gebruikte procedures (e.g., vragenlijsten) zijn reeds beoordeeld op
+betrouwbaarheid en validiteit
+• Selecteer metingen die voldoende sensitiviteit hebben, geschikte meetschaal, etc.
+
+72
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Oefening tegen volgende les
+• Beschouw de volgende hypothese: “Stress stijgt met toenemende leeftijd”
+• Wat zijn de variabelen/constructen?
+• Formuleer een operationele definitie van de variabelen/constructen
+• Welke meetschaal zal je gebruiken voor de metingen?
+• Welke meetmodaliteit zal je gebruiken?
+• Reflecteer over de validiteit, betrouwbaarheid, sensitiviteit, artefacten, etc. van
+de bekomen metingen adhv jouw voorgestelde meetprocedure
+Opmerking: er is hier niet 1 juiste oplossing!
+
+73
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ 

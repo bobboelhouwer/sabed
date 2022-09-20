@@ -1,0 +1,1071 @@
+Methoden van het wetenschappelijk
+onderzoek – Deel 1
+Prof. Dr. Eva Van den Bussche
+
+ Les 6: Experimentele designs: Binnen-subject designs,
+Non- en quasi- experimentele strategieën en designs
+Handboek Hoofdstuk 9 (pp. 211-236)
+Handboek Hoofdstuk 10 (pp. 237-264)
+
+Prof. Dr. Eva Van den Bussche
+
+ Overzicht
+• Terugkoppeling oefening
+• Empirische cyclus
+• Binnen-subject designs
+
+
+
+
+
+Karakteristieken
+Bedreigingen voor interne validiteit
+Omgaan met tijdsgerelateerde bedreigingen
+Voor- en nadelen
+
+• Tussen- versus Binnen-subject designs
+• Non- en quasi-experimentele onderzoeksstrategieën
+ Tussen-subject designs: niet-equivalente groep designs
+ Binnen-subject designs: pre-post designs
+ Designs voor ontwikkelingsonderzoek
+3
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Terugkoppeling oefening vorige les
+Kritische denker: Lees het artikel (Op Toledo) of bekijk de film van het Stanford
+Prison experiment
+Formuleer je eigen kritieken
+Lees nadien ook de kritiek die nadien op het experiment werd gegeven door
+andere onderzoekers (Tip: Wikipedia)
+Welke elementen vind je terug die in de lessen al aan bod zijn gekomen?
+
+4
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Terugkoppeling oefening vorige les
+Welke elementen vind je terug die in de lessen al aan bod zijn gekomen?
+• Geen controlegroep
+• Proefleider effecten: sturing van proefpersonen
+• Niet repliceerbaar: “anecdotal evidence”
+• Vraagkarakteristieken (“demand characteristics”): participanten gedroegen zich
+zoals ze verwachtten dat de onderzoekers zouden willen dat ze zich gedroegen
+(gevangene/bewaker)
+• Kleine en niet-representatieve steekproef  selectiebias  generaliseerbaarheid?
+Externe validiteit!
+https://en.wikipedia.org/wiki/Stanford_prison_experiment
+
+5
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Empirische cyclus
+• Vorige week:
+ STAP 5: Experimentele onderzoeksstrategie
+ STAP 6: Experimenteel design: Tussen-subject designs
+
+• Vandaag:
+ STAP 6: Experimenteel design: Binnen-subject designs
+ Geen één-op-één relatie met handboek: zowel slides als hoofdstukken behoren
+tot de leerstof (behalve 9.4)!
+ STAP 5 en 6: Niet-experimentele en quasi-experimentele onderzoeksstrategieën
+en designs
+ Niet kennen: 10.5 in handboek
+
+6
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Recap Les 4: Onderzoeksstrategieën
+• Onderzoeksstrategie = algemene aanpak en doel van een onderzoek
+ Hangt af van de onderzoeksvraag die je wil beantwoorden en het antwoord dat je
+hoopt te vinden
+ Hoofdstukken 7, 10, 12 en 13
+
+• Onderzoeksdesign = algemeen plan om de onderzoeksstrategie toe te passen
+ Bepaalt of je een groep of individu zal onderzoeken, of je vergelijkingen wil maken
+tussen of binnen groepen, hoeveel variabelen je zal opnemen in de studie
+ Hoofdstukken 8, 9, 10, 11, 13 en 14
+
+• Onderzoeksprocedure = gedetailleerd stap-voor-stap plan van hoe je de studie
+zal uitvoeren
+
+7
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ 8
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Binnen-subject designs
+Handboek Hoofdstuk 9 (pp. 210-236)
+
+ Experimentele onderzoeksstrategie (cf. Les 5)
+• Doel experimentele onderzoeksstrategie = oorzaak-gevolg relaties tussen 2
+variabelen demonsteren
+• 4 basiselementen: manipulatie, meting, vergelijking, controle
+• Experiment = vergelijken: observaties op een afh var vergelijken tussen
+verschillende condities (niveaus onafh var)  zijn er systematische verschillen
+tussen de condities?
+• Twee onderzoeksDESIGNS om groepen van scores/condities te vergelijken in
+een experiment
+ Tussen-subject design
+ Binnen-subject design
+10
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Experimentele onderzoeksdesigns
+• Tussen-subject design: elke groep van scores wordt verkregen van een
+verschillende groep participanten  elke conditie wordt afgenomen van een
+verschillende groep participanten
+• Binnen-subject design: de verschillende groepen van scores worden
+verkregen van dezelfde groep participanten  dezelfde groep participanten
+doorloopt alle condities
+
+11
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Karakteristieken Binnen-subject design
+• Vergelijkt twee of meer condities door dezelfde groep participanten te meten in
+elk van de condities van het experiment
+• Elke participant doorloopt alle condities (i.e., repeated measures design)
+ Sequentieel: de ene conditie na de andere in verschillende sessies
+ Parallel: alle condities zitten vervat in 1 experimentele sessie
+
+• Voorbeeld 1: is er een verschil in ervaren pijn als je vloekt of niet  groep mag
+eerst niet vloeken bij pijn (conditie 1), na een pauze moet dezelfde groep wél
+vloeken (conditie 2)
+• Voorbeeld 2: is reactietijd sneller op makkelijke dan moeilijke trials  1 groep
+participanten krijgt in 1 experimentele sessie een mix van makkelijke en moeilijke
+trials
+12
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ 13
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Bedreigingen voor interne validiteit
+• 2 bronnen van confounding (zie Les 4)
+ Omgevingsvariabelen (e.g. verschillende proefleiders per conditie)
+ Tijdsgerelateerde variabelen
+Enkel indien condities op verschillende tijdstippen afgenomen worden!
+In interval tussen 1e en laatste meting kunnen participanten door verschillende
+factoren beïnvloed worden, naast de onafh var  deze bijkomende variabelen
+kunnen storende variabelen worden
+5 tijdsgerelateerde bedreigingen: history, maturatie, instrumentatie, statistische
+regressie (regression toward the mean), orde effecten
+
+14
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ 1. History
+• Gebeurtenissen in de omgeving die veranderen over de tijd en die mogelijk de
+ene conditie anders beïnvloeden dan de andere(n)
+• Moet effect hebben op voldoende participanten zodat het de algemene
+prestatie van de groep beïnvloedt
+• Voorb: computerstoring, brandalarm tussen conditie 1 en 2
+waardoor de groep participanten afgeleid is
+
+15
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ 2. Maturatie
+• Fysiologische of psychologische veranderingen bij de participanten tijdens de
+studie en die mogelijk de ene conditie anders beïnvloeden dan de andere(n)
+• Voorb: als 2 condities ver uit elkaar liggen in tijd kan het zijn dat de
+participanten “veranderd” zijn, vooral bij kleine kinderen en ouderen
+
+16
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ 3. Instrumentatie
+• Veranderingen in de meetinstrumenten tijdens de studie en die mogelijk de
+ene conditie anders beïnvloeden dan de andere(n)
+• Komt vooral voor bij gedragsobservatie  subjectieve interpretatie,
+veranderende criteria
+• Voorb: agressief gedrag bij kinderen wekelijks observeren: criteria voor
+observatie veranderen waardoor zelfde gedrag soms anders beoordeeld
+wordt
+
+17
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ 4. Statistische regressie
+• “Regression toward the mean”
+• Wiskundig fenomeen waar extreme scores (hoog of laag) op één meting de neiging
+hebben minder extreem te zijn bij een 2e meting
+• Extreme metingen neigen meer naar het gemiddelde als de meetprocedure herhaald
+wordt
+• Combinatie stabiele (e.g., kennis, vaardigheden) en onstabiele factoren (e.g., kans) 
+stabiele factoren blijven constant over metingen, maar onstabiele factoren variëren
+• Voorb: zeer hoge score op 1e examen (combinatie sterke kennis + veel geluk), op 2e
+examen waarschijnlijk lagere score (sterke kennis idem, maar geluk varieert)
+• Vooral probleem als participanten geselecteerd worden obv extreme scores tijdens
+conditie 1 (verschil in prestatie op conditie 2 effect van onafh var of statistische regressie?)
+
+18
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ 5. Orde effecten
+• Ervaring van getest/gemeten te worden in conditie 1 heeft een invloed op
+scores van participanten in conditie 2
+• Algemene ervaring van getest/gemeten te worden in conditie 1 heeft invloed
+op scores in conditie 2: progressive error
+ Voorb: leereffecten, vermoeidheid
+
+• Een specifieke conditie leidt tot verandering in een daaropvolgende conditie:
+carry-over effecten
+ Voorb: strategie aanleren in conditie 1, blijven gebruiken in conditie 2
+
+19
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ 5. Orde effecten
+• Illustratie van orde effecten als confounder
+
+(a) Original Scores
+with No Order
+Effect:
+Treatment I
+
+(a) Original Scores
+with No Order
+Effect:
+Treatment II
+
+• Hypothese: geen verschil tussen de 2 condities
+(gemiddelde score conditie 1 = gemiddelde score
+conditie 2)
+
+20
+
+21
+
+23
+
+23
+
+25
+
+23
+
+19
+
+20
+
+• Cf. Tabel: lichte schommelingen tussen condities ~
+fout (cf. Les 2)
+
+26
+
+25
+
+17
+
+16
+
+14
+
+14
+
+16
+
+18
+
+Mean = 20
+
+Mean = 20
+
+• n = 8, 2 condities
+
+20
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ 5. Orde effecten
+• Stel: participanten namen eerst deel aan conditie 1
+en nadien aan conditie 2
+
+(b) Modified Scores
+with a 5-Point Order
+Effect: Treatment I
+
+(b) Modified Scores
+with a 5-Point Order
+Effect: Treatment II
+
+20
+
+26 (21 + 5)
+
+23
+
+28 (23 + 5)
+
+25
+
+28 (23 + 5)
+
+• Deze verbetering wordt NIET veroorzaakt door onze
+manipulatie (verschil conditie 1 en 2), maar door het
+orde effect!
+
+19
+
+25 (20 + 5)
+
+26
+
+30 (25 + 5)
+
+17
+
+21 (16 + 5)
+
+14
+
+19 (14 + 5)
+
+• Orde effect varieert systematisch met de condities
+(onafh var)  confounder!
+
+16
+
+23 (18 + 5)
+
+Mean = 20
+
+Mean = 25
+
+• Stel: deelname aan conditie 1 leidde tot een
+leereffect waardoor de participanten in conditie 2 5
+punten beter scoren dan normaal
+
+• Gemiddelde in conditie 2 is nu 5 punten hoger dan
+conditie 1  leidt tot foutieve conclusies!!!
+21
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Omgaan met tijdsgerelateerde bedreigingen
+• Zelfde methoden om om te gaan met omgevingsvariabelen: matching,
+randomiseren, variabele constant houden
+• MAAR: tijdsgerelateerde factoren vergen nieuwe technieken
+1. Tijd controleren
+ Veel bedreigingen specifiek voor studies waar condities ver uit elkaar liggen in tijd
+ Indien 3 condities gemeten in 1 sessie van 45 min: weinig effect van
+tijdsgerelateerde factoren
+ Tijd tussen condities verkorten
+ MAAR: kans op orde effecten stijgt (e.g., vermoeidheid, leereffecten)!
+
+22
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Omgaan met tijdsgerelateerde bedreigingen
+2. Ga over op een tussen-subject design
+ A priori kennis over de te verwachten tijdsgerelateerde effecten (e.g., mogelijke
+leereffecten, vermoeidheid)
+ Soms zijn orde effecten zeer sterk  binnen-subject design vermijden
+ Voorb: verschil tussen 2 leesmethoden bij kinderen  binnen-subject design geen
+goede optie (ervaring leesmethode 1 kan je niet uitwissen, blijft bestaan, je kan
+niet meer van 0 beginnen)
+
+23
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Omgaan met tijdsgerelateerde bedreigingen
+3. Contrabalanceren
+ Verschillende participanten ondergaan de verschillende condities in verschillende
+volgordes
+ Voorb: 2 condities: 50% van participanten eerst Conditie 1, 50% eerst Conditie 2
+ Condities zijn zo gematcht/gebalanceerd qua tijd
+ Verstoort de systematische relatie tussen tijd en de orde van de condities 
+elimineert mogelijke tijdsgerelateerde confounders
+ Doel: elke mogelijke volgorde van condities wordt gebruikt met gelijke n
+ Dit impliceert toch verschillende groepen? Ja, maar alle participanten doorlopen
+ALLE condities
+
+24
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Omgaan met tijdsgerelateerde bedreigingen
+3. Contrabalanceren
+• Binnen-subject experiment (n = 8), 2 condities
+• Eerste 4 participanten krijgen eerst conditie 1 en nadien
+conditie 2, laatste 4 omgekeerd volgorde
+• Resultaten: verschil van 6 punten tussen condities 1 en
+2
+
+25
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Omgaan met tijdsgerelateerde bedreigingen
+• Stel: deelname aan eerste conditie leidde tot een
+leereffect waardoor de participanten in hun tweede
+conditie 5 punten beter scoren dan normaal
+• MAAR: vanwege contrabalancering speelt dit orde
+effect voor 4 participanten in Conditie 1 én voor 4
+participanten in Conditie 2
+• Orde effecten worden dus gelijk verdeeld
+(gebalanceerd) over de condities
+• Effect op individuele scores en gemiddelden, maar
+NIET op gemiddelde verschillen tussen condities!
+• Bedreiging interne validiteit geëlimineerd
+26
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Omgaan met tijdsgerelateerde bedreigingen
+Beperkingen van Contrabalanceren
+• Orde effecten worden niet geëlimineerd en hebben wél nog een invloed op
+absolute gemiddelden
+• Contrabalanceren voegt orde effecten toe aan sommige participanten in een
+conditie maar niet aan anderen uit dezelfde conditie  binnen-conditie
+variantie stijgt  kan effecten maskeren (cf. slide 26)
+• Orde effecten zijn niet altijd symmetrisch (e.g., ene conditie vermoeiender dan
+andere)  contrabalanceren zorgt niet meer voor gebalanceerde orde effecten
+
+27
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Omgaan met tijdsgerelateerde bedreigingen
+Beperkingen van Contrabalanceren: aantal condities
+• Volledige contrabalancering: alle mogelijke volgorders worden gebruikt
+• Waarom? Soms kunnen bepaalde mini-sequenties unieke orde effecten veroorzaken
+(e.g., specifieke volgorde conditie 2 – conditie 3  carry-over op volgende conditie)
+• Om al deze effecten te neutraliseren: volledige contrabalancering nodig
+• MAAR: loopt snel op!
+• k condities:
+4 condities = 4×3×2×1 = 24 mogelijke ordes
+6 condities: 720 mogelijke ordes (en dus n = 720 minstens)
+
+28
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Omgaan met tijdsgerelateerde bedreigingen
+Beperkingen van Contrabalanceren: aantal condities
+• Oplossing: partiële contrabalancering  elke conditie komt 1 keer voor als eerste, 1
+keer als tweede, etc.
+• Voorbeeld bij 4 condities: ABCD, CADB, BDAC en DCBA
+• Welke ordes kiezen? Voorbeeld: creëer een Latin square:
+
+29
+
+A
+
+B
+
+C
+
+D
+
+D
+
+A
+
+B
+
+C
+
+C
+
+D
+
+A
+
+B
+
+B
+
+C
+
+D
+
+A
+
+• Zet de condities in volgorde op de bovenste rij (ABCD)
+• Voor de volgende rij, schuif alle letters 1 positie op en verplaats
+de laatste letter naar de eerste plaats (DABC)
+• Etc.
+• Latin square = matrix met k×k (k = aantal condities) elementen
+waar elk element exact 1 keer voorkomt per rij en per kolom
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Voor- en nadelen
+Voordelen binnen-subject design:
+• Kleinere steekproef (n) nodig
+• Elimineert alle problemen die veroorzaakt worden door individuele verschillen in
+tussen-subject designs
+ Er zijn geen individuele verschillen meer tussen condities (er is maar 1 groep
+participanten)  verschillen tussen condities meten zonder invloed individuele verschillen
+ Elke participant komt voor in elke conditie  elke participant treedt op als diens eigen
+controle/baseline  maakt het mogelijk om de variantie die veroorzaakt wordt door
+individuele verschillen te meten en te elimineren  variantie daalt  effecten veroorzaakt
+door onfh var beter bloot te leggen  dit design heeft meer “power” (meer kans om
+effecten te detecteren)
+ Zie voorbeeld op p.226-228 in Handboek
+
+30
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Voor- en nadelen
+Nadelen binnen-subject design:
+• Bedreiging interne validiteit door potentiële tijdsgerelateerde confounders
+• Drop-out: omdat participanten vaak herhaaldelijk gemeten worden op verschillende
+momenten, grotere kans op drop-out (“participant attrition”) + sterkere vrijwilliger bias
+(~externe validiteit)
+
+31
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Tussen- VS binnen-subject design
+Keuze op basis van:
+1. Individuele verschillen
+2. Tijdsgerelateerde factoren
+3. Steekproefgrootte
+Matched-subjects design: verschillende groepen participanten, maar elke participant in
+conditie 1 is één-op-één gematcht met een participant uit conditie 2 obv relevante
+variabelen  geen identieke, maar wel equivalente participanten in elke conditie
+ Tracht nadelen van tussen-subject (indiv verschillen) én binnen-subject (tijdsgerelateerde
+confounders) te vermijden, maar kan nooit binnen-subject design evenaren
+32
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Datastructuur
+Tussen-subject design:
+
+33
+
+Binnen-subject design:
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ 34
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ 35
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Besluit
+• Experimentele onderzoeksstrategie  2 designs
+• Tussen-subject design
+• Binnen-subject design
+• Beide voor- en nadelen
+
+36
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Oefening tegen volgende les (1)
+Heeft slaaptekort een effect op onze cognitieve vaardigheden?
+Werk voor deze interessante vraag een tussen- én een binnen-subject design
+uit. Bespreek hoe je zal omgaan met bedreigingen voor de interne validiteit in
+beide gevallen
+
+37
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Oefening tegen volgende les (1)
+• Interessante vraag: Heeft slaaptekort een effect op onze cognitieve vaardigheden?
+• Hypothese: Slaaptekort leidt tot een verminderde prestatie op een werkgeheugentaak
+• Variabelen: ?
+• Participanten: ?
+• Onderzoeksstrategie: Experimentele onderzoeksstrategie
+• Onderzoeksdesign: Tussen-subject design OF binnen-subject design  ?
+• Hoe ga je om met bedreigingen interne validiteit?
+
+38
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Non- en quasi- experimentele strategieën
+en designs
+Handboek Hoofdstuk 10 (pp. 237-264)
+
+ Non- en Quasi-experimentele
+onderzoeksstrategieën
+• Soms niet mogelijk om aan rigoureuze vereisten van experiment te voldoen
+• Non-exp:
+ Nog steeds vergelijken van scores van 2 of meer groepen of condities
+ Maar aan min. 1 vereiste van experiment niet voldaan
+ Altijd een of andere storende variabele (confounder) die interne validiteit bedreigt,
+maar integraal deel is van het design en niet verwijderd kan worden
+ Deze studies kunnen geen niet-ambigue oorzaak-gevolg relaties blootleggen
+ Geen poging om bedreigingen interne validiteit te verkleinen
+
+• Quasi-exp:
+ Poging om bedreigingen interne validiteit te verkleinen
+ Bijna, maar niet helemaal, een experiment
+40
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Non- en Quasi-experimentele
+onderzoeksstrategieën
+• Algemene structuur lijkt erg op experiment
+• Creëren van condities/groepen
+• MAAR: in experiment worden condities gecreëerd op basis van manipulatie
+onafh var
+• HIER: groepen/condities gecreëerd obv:
+ specifieke participant variabele  tussen-subject designs
+ tijd (pre en post meting)  binnen-subject designs
+
+• Een niet-gemanipuleerde variabele bepaalt de condities!
+
+41
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Non- en Quasi-experimentele
+onderzoeksstrategieën
+• Voorbeeld:
+ Experiment: groep die “gewone” nachtrust kreeg vergelijken met groep die
+slaapdeprivatie ontving = manipulatie bepaalt groepen
+ Non/Quasi-experiment: groep goede slapers vergelijken met groep insomnia
+patiënten = bestaand kenmerk bepaalt groepen
+
+42
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Experiment
+
+Non- en Quasi-experimentele
+onderzoeksstrategieën
+
+43
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Non- of quasi-experiment
+
+Non- en Quasi-experimentele
+onderzoeksstrategieën
+
+Tussen-subject design
+
+44
+
+Binnen-subject design
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Tussen-subject designs
+• = niet-equivalente groep designs
+• Doel experiment (cf. Les 5): creëren van equivalente groepen (random
+toewijzing, matching)  actief controleren wie aan welke groep wordt
+toegewezen
+• Nu: groepen bestaan al (geen random toewijzing of matching mogelijk)  geen
+controle over wie aan welke groep wordt toegewezen
+• Geen garantie dat groepen equivalent zijn!
+
+45
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Tussen-subject designs
+• Algemene structuur:
+
+46
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Tussen-subject designs
+• MAAR: inherente bedreiging van interne validiteit aanwezig  niet-ambigue
+uitspraken over oorzaak-gevolg verklaringen niet meer mogelijk
+• Individuele verschillen (cf. Les 5) tussen de groepen vormen in deze designs
+ALTIJD een bedreiging!
+• Voorbeeld: goede slapers VS insomnia patiënten, mannen (XX) VS vrouwen
+(XY), oudere VS jongere volwassenen, etc.
+ Kans dat deze groepen verschillen mbt andere factoren (en dus
+potentiële confounders) is reëel!
+
+47
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Tussen-subject designs
+• 3 voorbeelden van niet-equivalente groep designs:
+1. Differentiële onderzoeksdesign
+2. Posttest-only niet-equivalente controle groep design
+3. Pretest-posttest niet-equivalente controle groep design
+
+48
+
+Non-experimenteel
+Quasi-experimenteel
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ 1. Differentiële onderzoeksdesign
+• Individuele verschillen zijn primaire focus
+• Vergelijkt bestaande groepen obv specifiek kenmerk, zonder manipulatie
+• Groepen creëren op basis van een specifiek individueel verschil (e.g.,
+geslacht, leeftijd)  hoe wordt gedrag of prestatie beïnvloed door
+geslachtsverschillen, leeftijdsverschillen, etc.?
+• Voorbeeld: zelfwaarde scores vergelijken tussen kinderen in 1-ouder VS 2ouder gezinnen
+
+49
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ 1. Differentiële onderzoeksdesign
+Goede slapers
+
+Insomnia patiënten
+
+50
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ 2. Posttest only niet-equivalente controle groep
+design
+• Niet-equivalente controle groep design: effect van “behandeling” toegediend
+aan experimentele groep tov controle groep zonder behandeling
+• MAAR: groepen (experimentele en controle conditie) gecreëerd obv
+bestaande groepen, geen random toewijzing
+• Groepen zijn dus niet equivalent
+• Posttest-only: experimentele groep krijgt eerst behandeling (X) en wordt
+nadien gemeten/geobserveerd (O) en vergeleken met controle groep die enkel
+gemeten/geobserveerd wordt (O)
+X O (experimentele groep)
+O (niet-equivalente controle groep)
+51
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ 2. Posttest only niet-equivalente controle groep
+design
+• Voorbeeld: effect van parken op aantal sociale interacties in een buurt 
+vergelijken buurt mét nieuw park en buurt zonder park m.b.t. aantal interacties
+tijdens 1 week (gemeten via observatie)
+ Niet-equivalente groepen (geen random toewijzing, maar obv kenmerk)
+ Experimentele groep mét behandeling en controle groep zonder behandeling
+worden vergeleken ( differentiële onderzoeksdesign)
+ Enkel post-meting (parken zijn er al)
+
+• Doel = causale uitspraken (park veroorzaakt meer sociale interacties)
+• MAAR: design biedt geen bescherming tegen individuele verschillen als
+mogelijke confounders (e.g., buurten zullen verschillen op verschillende
+andere vlakken)  geen niet-ambigue oorzaak-gevolg uitspraken!
+52
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ 3. Pretest-posttest niet-equivalente controle groep design
+• Kleine modificatie van posttest-only design  toevoegen pre-test!
+• Veel sterker design!
+• Pretest-Posttest: experimentele en controle groep worden eerst
+gemeten/geobserveerd (O), experimentele groep krijgt dan behandeling (X) en
+nadien worden beide groepen opnieuw gemeten/geobserveerd (O) en
+vergeleken
+O X O (experimentele groep)
+O
+
+O (niet-equivalente controle groep)
+
+• Laat toe om effect van individuele verschillen (en dus bedreiging interne
+validiteit) te reduceren!
+53
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ 3. Pretest-posttest niet-equivalente controle groep design
+• Pre-test meting laat toe om na te gaan of groepen VOOR de behandeling reeds
+verschilden
+• Geen verschil tussen groepen bij pre-meting (bijv. gemiddelde leeftijd, proportie
+XX/XY, etc. idem)  groepen zijn gelijkaardig
+• Groepen idem bij pre-meting maar verschillend bij post-meting  meer vertrouwen
+dat behandeling een effect had (enige evidentie voor oorzaak-gevolg relaties)!
+• LET OP: enkel mogelijk voor enkele variabelen, dus geen volledige controle
+individuele verschillen!
+• LET OP: ook tijdsgerelateerde variabelen kunnen verschillen tussen de groepen
+(cf. Les 6)
+
+54
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ 3. Pretest-posttest niet-equivalente controle groep design
+
+55
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Binnen-subject designs
+• = Pre-post designs
+• Serie observaties over de tijd van 1 groep participanten
+• Zelfde groep participanten wordt gemeten voor en na een behandeling of
+gebeurtenis
+• Metingen voor en na worden vergeleken om invloed van behandeling of
+gebeurtenis te evalueren
+• Géén controlegroep
+
+56
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Binnen-subject designs
+Pretest-posttest niet-equivalente controle groep
+design
+
+Pre-post design
+
+Tussen-subject design
+
+Binnen-subject design
+
+Omvat 2 groepen participanten: experimentele en Omvat 1 groep participanten (géén controle
+controle groep
+groep)
+Vergelijkt experimentele groep met controle groep Vergelijkt pre-scores met post-scores
+
+57
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Binnen-subject designs
+• Individuele verschillen vormen geen probleem (zelfde groep participanten
+wordt herhaaldelijk gemeten)
+• MAAR: tijdsgerelateerde variabelen bedreigen interne validiteit!
+• History, maturatie, instrumentatie, statistische regressie (regession toward the
+mean), orde effecten (cf. Les 6)
+• Contrabalanceren niet mogelijk (pre-test komt steeds voor de post-test)
+ experimenteel binnen-subject design (cf. Les 6)
+
+58
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Binnen-subject designs
+• 2 voorbeelden van pre-post designs:
+1. Pretest-posttest design
+2. Time-series design
+
+59
+
+Non-experimenteel
+Quasi-experimenteel
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ 1. Pretest-posttest design
+• Meest eenvoudige versie:
+O X O
+• Elke participant binnen de enige groep participanten wordt één keer gemeten
+voor behandeling en één keer na behandeling
+• Geen poging om bedreigingen van interne validiteit te controleren, geen
+oorzaak-gevolg conclusies mogelijk
+
+60
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ 1. Pretest-posttest design
+
+61
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ 2. Time-series design
+• Modificatie pre-post design: serie van observaties
+O O O X O O O
+• Veel sterker design!
+• Elke participant binnen de enige groep participanten wordt verschillende keren
+gemeten voor behandeling en verschillende keren na behandeling
+• Ook gebruikt voor “single cases” (1 participant of 1 organisatie)
+• Opmerking: “behandeling” kan zowel een manipulatie zijn van onderzoeker
+(e.g., meten bloeddruk voor en na relaxatie training) of niet (e.g., meten
+welbevinden voor en na aardbeving)
+
+62
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ 2. Time-series design
+• Reduceert bedreigingen van interne validiteit
+ Serie pre-test observaties kan trends blootleggen die reeds bestonden voor
+behandeling (cf. mogelijke confounders)  leereffecten, effect van vermoeidheid,
+maturatie, instrumentatie, etc.
+ Geen trends aanwezig in de pre-metingen: redelijk zeker dat potentiële
+bedreigingen van interne validiteit geen invloed hebben op de participanten
+ Let op met history effecten die perfect samenvallen met behandeling! (e.g., start
+behandeling voor depressie valt samen met drastische verandering in
+weersomstandigheden)
+
+63
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ 2. Time-series design
+• Serie post-test observaties kan trends blootleggen na de behandeling
+
+64
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Designs voor ontwikkelingsonderzoek
+• Bestuderen veranderingen in gedrag die gerelateerd zijn aan leeftijd
+• Onderzoeken verband leeftijd en andere variabelen
+• Voorb.: hoe veranderen taalvaardigheden met leeftijd (of: hoe ontwikkelen
+taalvaardigheden)?
+• 2 types designs:
+1. Cross-sectioneel design voor ontwikkelingsonderzoek
+2. Longitudinaal design voor ontwikkelingsonderzoek
+
+65
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ 1. Cross-sectioneel design
+• = tussen-subject design, nl. niet-equivalente groep design
+• Verschillende groep participanten voor elke leeftijd die men wil vergelijken
+• Afhankelijke variabele wordt op 1 moment gemeten voor elke groep
+• Groepen worden vergeleken om na te gaan of er leeftijdsverschillen zijn mbt
+afh var
+• Groepen worden niet ingedeeld obv manipulatie onafh var, maar obv
+bestaande participant variabele (leeftijd)
+• Geen random toewijzing (groepen bepaald door leeftijd)
+
+66
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ 1. Cross-sectioneel design
+
+67
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ 1. Cross-sectioneel design
+• Voordelen:
+ Snel: effect van leeftijd zonder te wachten tot participanten ouder worden
+ Geen lange-termijn samenwerking onderzoeker-participant nodig (minder dropout, kosten, etc.)
+
+• Nadelen:
+ Geen uitspraken over hoe een individuele participant ontwikkelt
+ Groepen die verschillen in leeftijd verschillen waarschijnlijk ook mbt andere
+variabelen
+ cohorte- of generatie-effecten: omgevingsfactoren die mogelijk verantwoordelijk
+zijn voor verschillen tussen de groepen ipv leeftijd (i.e., mogelijke confounders)
+Vooral effect als leeftijdsgroepen verder uit elkaar liggen
+68
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ 2. Longitudinaal design
+• = binnen-subject design
+• 1 groep participanten wordt gemeten doorheen de tijd (maanden/jaren)
+• Afhankelijke variabele wordt op verschillende momenten gemeten
+• Meetmomenten worden vergeleken om na te gaan of de afh var ontwikkelt
+over leeftijd
+• = pretest-posttest design, maar zonder “behandeling” (behandeling = leeftijd)
+
+69
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ 2. Longitudinaal design
+
+70
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ 2. Longitudinaal design
+• Voordelen:
+ Uitspraken over hoe een individuele participant ontwikkelt
+ Geen cohorte-effecten
+
+• Nadelen:
+ Zeer tijdsintensief, duur
+ Grote kans op drop-out (gevaar voor interne validiteit)
+ Herhaaldelijke metingen van zelfde participanten  orde-effecten (cf. Les 6)
+
+71
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ 2. Longitudinaal design
+• TED Talk Harvard study
+ Volgde 724 mannen voor 75 (!!!) jaar (sinds 1938)
+ Regelmatige metingen van fysieke en mentale gezondheid, welbevinden in
+relaties, werk, etc.
+ Wat zorgt er voor een gelukkiger, langer leven?
+ Tevredenheid met relaties
+ Meer info: http://www.adultdevelopmentstudy.org/
+
+72
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ 73
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ 74
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Overzicht
+
+75
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Besluit
+• In de Psychologie is het vaak niet mogelijk om aan de rigoureuze vereisten van een
+experiment (cf. Les 5 en 6) te beantwoorden
+ Non- of quasi experimentele strategieën
+• Bevat steeds een bedreiging voor de interne validiteit die niet volledig kan uitgesloten
+worden  Geen niet-ambigue causale uitspraken
+• Quasi-experimentele studies trachten bedreigingen interne validiteit te controleren,
+non-experimentele studies doen dat niet
+• Lijken erg op echte experimenten: vergelijken van groepen/condities
+• MAAR: condities niet gecreëerd obv manipulatie onafh var, maar obv bestaande
+karakteristiek of tijd
+• Tussen-subject (niet-equivalente groep) en binnen-subject (pre-post) designs
+76
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Oefening tegen volgende les (2)
+Een onderzoeker wil de effectiviteit van een nieuwe leesmethode tov de oude
+leesmethode nagaan voor lagere schoolkinderen
+Hoe zou je voor deze onderzoeksvraag volgende designs kunnen
+implementeren?
+1. Experimenteel tussen-subject design
+2. Experimenteel binnen-subject design
+3. Posttest-only niet-equivalente controle groep design
+4. Pretest-posttest design
+Wat zijn de voornaamste problemen met elk van deze designs? Welk design zou
+je uiteindelijk verkiezen?
+77
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ 

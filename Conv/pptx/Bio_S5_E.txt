@@ -1,0 +1,345 @@
+Populatiegenetica
+en evolutie
+
+ Wat is populatiegenetica?
+• onderzoekt het voorkomen
+van verschillende allelen op
+het niveau van populaties
+
+ Hardy-Weinberg principe
+De allelenfrequentie en genotypeverdeling in een
+populatie is constant als:
+• er geen mutatie optreedt
+• er geen uitwisseling van genen is met andere populaties
+• er willekeurige paring is
+• de populatie groot is
+• er geen selectie optreedt
+Een afwijking tussen de genotypefrequentie en de
+allelenfrequentie kan wijzen op evolutie.
+
+ Hardy-Weinberg principe
+De allelenfrequentie kan afgeleid worden uit de
+fenotypefrequentie
+• fenotype frequentie
+• dominant ‘B’ = p2 + 2pq
+• recessief ‘b’ = q2
+
+• allelenfrequentie
+• f(B) = p
+• f(b) = q
+•q+p=1
+
+• genotypefrequentie
+• BB = p2
+• Bb = 2pq
+• bb = q2
+
+ Hardy-Weinberg principe
+De allelenfrequentie kan afgeleid worden uit de
+fenotypefrequentie
+• fenotype frequentie
+• dominant ‘B’ = p2 + 2pq
+• recessief ‘b’ = q2
+
+• allelenfrequentie
+• f(B) = p
+• f(b) = q
+•q+p=1
+
+• genotypefrequentie
+• BB = p2
+• Bb = 2pq
+• bb = q2
+
+ Evolutie
+Een wijziging in de allelenfrequentie van een populatie, die
+resulteert in een wijziging in de fenotypefrequentie
+Mogelijke oorzaken:
+• mutaties
+• gene flow
+• niet-willekeurige paring
+• genetische drift
+• selectie
+
+ Mechanismen van evolutie
+1. mutaties
+• zorgen voor nieuwe allelen
+• weinig invloed op
+allelenfrequentie
+
+2. gene flow
+• allelen uit andere populaties
+
+3. niet-willekeurige paring
+• assortatieve paring
+• disassortatieve paring
+• allelenfrequentie blijft zelfde
+maar fenotypefrequentie wijzigt
+
+ Assortatieve paring
+Generatie 1 Genotypes: 36 AA ; 48 Aa ; 16 aa
+(100 katten) Allelenfrequentie: 0.6 A ; 0.4 a
+Fenotypes: 36 + 48 = 84 zwart ; 16 wit
+we krijgen twee sub-populaties van zwarte en witte katten waarbinnen willekeurige paring is
+84 zwarte katten paren enkel met elkaar:
+allelenfrequentie gameten:
+(2*36 + 48)/168 = 0.71 A
+48/168 = 0.29 a
+genotypefrequentie nakomelingen:
+AA : 0.5 (~ 42 katten)
+Aa: 2*0.71*0.29 = 0.42 (~ 35 katten)
+aa: 0.29*0.29 = 0.08 (~ 7 katten)
+
+16 witte katten paren enkel met elkaar:
+allelenfrequentie gameten:
+aleemaal a
+genotypefrequentie nakomelingen:
+allemaal aa (~ 16 katten)
+
+Generatie 2 Genotypes: 42 AA ; 35 Aa ; 16 + 7 = 23 aa Conclusie:
+- verhouding homozygoten neemt toe
+(100 katten) Allelenfrequentie: 60 A ; 40 a
+- allelenfrequentie blijft gelijk
+Fenotypes: 77 zwart ; 23 wit
+
+ Disassortatieve paring
+Generatie 1 Genotypes: 36 AA ; 48 Aa ; 16 aa
+(100 katten) Allelenfrequentie: 0.6 A ; 0.4 a
+Fenotypes: 36 + 48 = 84 zwart ; 16 wit
+alle ‘koppeltjes’ bestaan uit een zwarte en witte partner
+zwarte partner:
+allelenfrequentie gameten:
+(2*36 + 48)/168 = 0.71 A
+48/168 = 0.29 a
+genotypefrequentie nakomelingen:
+0.71 Aa (~ 60 katten)
+0.29 aa (~ 24 katten)
+
+Generatie 2
+(100 katten)
+
+witte partner:
+allelenfrequentie gameten:
+allemaal a
+genotypefrequentie nakomelingen:
+0.71 Aa (~ 11 katten)
+0.29 aa (~ 5 katten)
+
+Genotypes: 0 AA ; 71 Aa ; 29 aa
+Allelenfrequentie: 60 A ; 40 a
+Fenotypes: 77 zwart ; 23 wit
+
+Conclusie:
+- verhouding heterozygoten
+neemt toe
+- allelfrequentie wijzigt
+doordat witte katten in
+verhouding meer paren dan
+
+ Mechanismen van evolutie
+4. genetische drift
+• allelen verdwijnen door toeval
+uit kleine populaties
+• stichter effect of flessenhals
+effect
+
+ Evolutietheorie: Lamarck
+• Soorten passen zich aan
+aan omgeving
+• Deze aanpassingen worden
+doorgegeven naar
+volgende generatie
+
+ Evolutie door selectie
+Thomas Robert Malthus
+• meer voedsel zorgt voor minder
+honger
+• meer voedsel zorgt echter ook
+voor meer mensen
+• omdat menselijke populaties
+exponentieel groeien leidt dit
+uiteindelijk tot meer honger dan
+voordien
+
+ Evolutietheorie: Darwin en Wallace
+Evolutie door natuurlijke selectie
+• er is variatie in fenotypes in populaties
+• veel individuen in een populatie
+overleven niet of brengen geen
+nakomelingen voort (cf. Malthus)
+• sommige fenotypes hebben meer kan
+op overleven dan andere
+• deze fenotypes zullen meer
+voorkomen in de volgende generatie
+
+ Voorwaarden voor evolutie door
+selectie
+• er moet variatie zijn in een populatie
+• de variatie moet de kans op voortplanten
+beïnvloeden
+• de variatie moet erfelijk zijn (genetisch bepaald)
+Selectie: omgevingscondities, predatie,
+resistentie tegen toxische stoffen, artificiële
+selectie (domesticatie van planten en dieren)
+Door selectie verdwijnt variatie uit een populatie.
+
+ Evolutie door natuurlijke selectie:
+fitness
+Fitness = maat voor aantal nakomelingen dat een
+fenotype produceert in vergelijking met andere fenotypes
+• de overlevingskans (‘survival of the fittest’)
+• het aantal nakomelingen dat geproduceerd wordt
+
+ Evolutie door sexuele selectie
+Verklaring voor opvallende
+kenmerken van dieren in de natuur:
+• fitness wordt ook bepaald door
+kans om partner te verleiden.
+
+ Evolutie in menselijke populaties
+• Zeer weinig genetische variatie in menselijke populaties
+!
+• Genetische verschillen tussen subpopulaties zijn zeer
+beperkt
+• Voorbeeld: lactose tolerantie bij veehoudende
+lactase gen wordt
+geïnactiveerd in
+populaties
+volwassenen, waardoor ze
+geen melk kunnen verteren
+
+mutatie in promotor van
+lactase zorgt ervoor dat melk
+toch op latere leeftijd
+verteerd kan worden
+
+ Evolutie in menselijke populaties
+Mutaties in lactase promotor zijn
+gelinkt aan consumptie van
+melkproducten (Europa, bepaalde
+Afrikaanse stammen)
+
+ Evolutie in menselijke populaties
+Genome-wide association studies: welke genen zorgen
+voor verschillen tussen Tibetaanse en Chinese bevolking?
+
+EPAS1
+transcriptiefactor
+die rol speelt in
+aanpassing van
+lichaam aan lage
+zuurstofconcentratie
+s
+
+ Behoud van variatie: frequentieafhankelijke selectie
+• positief: afwijkende fenotypes zijn opvallender voor een
+predator → variatie gaat verloren
+• negatief: afwijkende fenotypes worden niet waargenomen door
+een predator → variatie blijft behouden
+
+ Behoud van variatie: variabele
+selectie
+variabele selectie: door wisselende condities (vb.
+klimaat, ziektes, predatie) wordt de ene keer het ene
+fenotype geselecteerd en de andere het andere
+
+ Behoud van variatie: heterozygoot
+voordeel
+Xx heeft voordeel ten opzichte
+van XX en xx
+Heterozygoot voor
+sikkelcelanemie is beschermd
+tegen malaria
+
+ Selectie op continue variatie
+Disruptieve selectie
+• extreme fenotype wordt bevoordeeld
+• kan resulteren in splitsing in twee soorten
+
+ Selectie op continue variatie
+Directionele selectie
+• één extreem fenotype wordt bevoordeeld
+
+ Selectie op continue variatie
+Stabiliserende selectie
+• gemiddeld fenotype wordt bevoordeeld
+
+ Grenzen aan selectie
+pleïotropie: een gen heeft vaak meerdere effecten
+• gen dat selecteert voor kippen die meer eieren leggen zal
+uiteindelijk te zwakke eieren
+onvoldoende variatie in de populatie
+• alle renpaarden stammen af van 50 individuen, er is de laatste 50
+jaar bij kruisingen geen verbetering in snelheid
+sommige kenmerken worden niet genetisch bepaald
+• verschil in aantal facetten tussen linker- en rechteroog bij
+Drosophila
+epistasie of interacties tussen genen kan ervoor zorgen dat
+selectie voor een bepaald kenmerk moeilijk is
+
+ Aanwijzingen voor evolutie
+
+ Aanwijzingen voor evolutie
+
+Vinken op de Galapagos eilanden
+Nauw verwante soorten,
+verschillende voedingswijze,
+verschillende fenotypes
+
+ Aanwijzingen voor evolutie
+Industrieel melanisme in de berkenspanner
+• < 1850: zwarte vorm zeldzaam
+• industriële revolutie: zwarte vorm dominant
+• > 1956 (‘clean air act’): witte vorm keert terug
+
+ Aanwijzingen voor evolutie
+Experimentele selectie in
+laboratorium bij Drosophila:
+• selectie van 20% met meeste
+borstels en 20% met minste
+borstels
+• na 35 generaties: gemiddeld
+aantal borstels neemt 2 keer
+toe of 4 keer af en populaties
+overlappen niet langer (=
+afzonderlijke soorten)
+
+ Aanwijzingen voor evolutie
+Artificiële selectie bij landbouwgewassen
+5 genen verschil
+
+ Aanwijzingen voor evolutie
+Domesticatie van de
+hond
+• wolf – hond: 10 000
+jaar
+• vos – zilvervos: 40 jaar
+• wolf - coyote – vos,
+jackhals: 5 – 10 miljoen
+jaar
+
+ Aanwijzingen voor evolutie
+Fossielen
+- toenemende complexiteit
+
+ Aanwijzingen voor evolutie
+Fossielen:
+- overgangsvormen (Archaeopterix)
+
+ Aanwijzingen voor evolutie
+Anatomie: homologe structuren
+
+ Aanwijzingen voor evolutie
+Anatomie: ontogenie
+evolutie wordt ‘herhaald’
+tijdens embryonale
+ontwikkeling
+
+ Aanwijzingen voor evolutie
+Analoge structuren of convergente evolutie: evolutie kan
+hetzelfde pad volgen
+
+ Aanwijzingen voor evolutie
+Evolutie leidt niet noodzakelijk tot het beste ontwerp
+
+ 

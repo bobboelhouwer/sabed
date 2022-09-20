@@ -1,0 +1,1821 @@
+﻿Hoofdstuk II  Atoombouw en Periodiek Systeem
+
+
+1.	Het atoommodel van Bohr
+1.1	Elektromagnetische straling
+
+Een van de mogelijkheden waarmee energie zich kan verplaatsen in de ruimte, is door middel van elektromagnetische straling. Heel wat verschillende types van elektromagnetische straling waren bekend bij het begin van de 20ste eeuw. De meest voor de hand liggende vorm is het zichtbare licht dat blijkt te bestaan uit een mengsel van verschillende kleuren. Infrarood licht wordt ervaren als warmtestraling terwijl geluidsinformatie kan worden overgebracht via radiogolven. Onder de meer energierijke straling onderscheiden we ultraviolet- en X-stralen en zelfs de zeer gevaarlijke -stralen uit radioactieve bronnen werden in die periode bestudeerd.
+Hoewel deze verschillende vormen van straling soms een totaal verschillende oorsprong hebben, bleek vrij snel dat ze zich zeer gelijkaardig gedragen. Een elektrisch en een magnetisch veld oscilleren in loodrecht op elkaar staande vlakken in de richting van de voortplantingssnelheid. Ze vertonen allemaal dezelfde golfeigenschappen en verplaatsen zich in vacuüm met eenzelfde constante snelheid van c = 3 108 m.s-1. Ze verschillen evenwel in golflengte (λ) en frequentie (). Korte golven hebben een hoge frequentie, lange golven een lage frequentie. Het verband tussen beide wordt gegeven door
+
+
+
+De golflengte wordt uitgedrukt in m (soms ook nm), de frequentie in Hz of s-1. De amplitude (A) van een golf is een maat voor de intensiteit.
+De verschillende vormen van elektromagnetische straling vormen samen het elektromagnetische spectrum met golflengtes variërend tussen 104 en 10-12 m (zie achteraan dit hoofdstuk in bijlage). Een heel klein gebied tussen 4 en 8 10-7 m kan worden waargenomen als zichtbaar licht.
+
+
+1.2	Rumoer en omwentelingen in de fysische wetmatigheden
+
+Op het einde van de 19de eeuw leek het alsof alle fysische fenomenen (gaande van de beschrijving van de planetenbeweging tot de diffractie van zichtbaar licht met behulp van een prisma) konden verklaard worden door de toen beschikbare theorieën. Wetenschappers waren de mening toegedaan dat materie en energie een totaal andere oorsprong kenden. Materie was opgebouwd uit deeltjes met een massa en een specifieke plaats in de ruimte terwijl stralingsenergie kon worden beschreven als een plaatsloze golf zonder massa.
+
+Bepaalde experimentele bevindingen in het begin van de 20ste eeuw lieten aanvoelen dat dit beeld niet correct was. De eerste stappen rond de nakende omwenteling werden gezet door Max Planck. Hij bestudeerde de elektromagnetische straling uitgezonden door een vast gloeiend voorwerp. Hij vond het opmerkelijk dat een stuk ijzer dat wordt verhit tot steeds hogere temperaturen, eerst rood en daarna wit licht uitzendt. Spectroscopische analyse van de uitgezonden golflengten toonden aan dat het licht bestaat uit een continue band van golflengtes met een maximale intensiteit bij een bepaalde golflengte. De golflengte van maximale intensiteit bleek op te schuiven naar de korte golflengtekant van het spectrum bij stijgende temperatuur.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+De klassieke theorieën die veronderstelden dat materie om het even welke hoeveelheid energie kon absorberen en emitteren, voorspelden evenwel een stralingsprofiel zonder maximum dat naar oneindig zou streven bij zeer korte golflengtes. Deze tegenstrijdigheid wordt de ultraviolet catastrofe genoemd. 
+Planck toonde aan dat de geobserveerde stralingsprofielen wel konden worden verklaard door aan te nemen dat energie door materie kan worden opgenomen of afgegeven in gehele paketten (kwanta) van h
+
+	
+
+
+
+Dat was op zijn minst opmerkelijk gezien de wetenschappers ervan overtuigd waren dat energie continu was, wat zoveel betekent dat alle mogelijke hoeveelheden energie die slechts bijna oneindig weing verschillen van een grotere of kleinere hoeveelheid, konden worden uitgewisseld. Nu bleek dat energie in werkelijkheid gekwantiseerd is en enkel kan worden uitgewisseld in discrete hoeveelheden van een geheel aantal keren de grootte van h.
+
+Albert Einstein ging nog een stap verder door te stellen dat elektromagnetische straling kan worden beschouwd als een stroom van kleine deeltjes, fotonen genoemd, met een energie die gegeven wordt door
+
+	
+
+Hij steunde zich hierbij op zijn analyse van het foto-elektrisch effect waarbij elektronen worden losgemaakt en uitgezonden door een metaaloppervlak wanneer er licht op invalt. Hij deed de volgende vaststellingen
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dit kan worden verklaard door aan te nemen dat elektromagnetische straling gekwantiseerd is en dat de grenswaarde van de frequentie de minimale energie vertegenwoordigt die een elektron nodig heeft om uit het metaaloppervlak verwijderd te worden. Aldus bedraagt de minimale energie
+
+	
+
+
+Een foton met een energie lager dan E0 kan geen elektronen losmaken uit een metaal waardoor licht met een frequentie kleiner dan  geen elektronen produceert. Licht met een frequentie groter dan  en dus met voldoende energie kan wel elektronen verwijderen uit een metaal. Hiervoor is een energiebedrag nodig gelijk aan E0. De overmaat aan energie wordt dan meegegeven als kinetische energie aan het losgeslagen elektron dat daardoor een bepaalde snelheid meekrijgt.
+
+	
+
+
+
+Gezien volgens dit denkpatroon de intensiteit van het licht een maat is voor het aantal fotonen in de lichtbundel, betekent dit dat bij grotere intensiteit meer fotonen aanwezig zijn die meer elektronen kunnen losslaan.
+
+In dezelfde periode van Einsteins experimenten over het foto-elektrisch effect ontwikkelde hij zijn speciale relativiteitstheorie waaruit hij zijn beroemde betrekking ontwikkelde
+
+	
+
+
+Hieruit kan worden afgeleid dat een foton ook een massa bezit die kan worden berekend door combineren van 
+
+	
+
+Latere experimenten toonden aan dat fotonen inderdaad een ‘schijnbare’ massa bezitten. In de algemene relativiteitstheorie beschrijft Einstein hoe fotonen worden beïnvloed door de zwaartekracht. Toch kunnen we een foton niet beschouwen als een typisch deeltje. De schijnbare massa heeft enkel relativistische betekenis gezien de massa ontstaat doordat het foton beweegt tegen lichtsnelheid. Toch blijkt dat elektromagnetische straling bepaalde typische deeltjeskenmerken vertoont. Dit fenomeen wordt beschreven als het dualistische karakter van licht.
+
+Uitgaande van het feit dat elektromagnetische straling deeltjeskarakter vertoonde, vroeg Louis de Broglie zich af of materie eveneens golfkarakter zou vertonen. Anders uitgedrukt stelde hij zich de vraag of een materiedeeltje dat beweegt met een snelheid v zou kunnen worden beschreven door een golf met golflengte λ want in analogie met voorgaande vergelijking en door c te vervangen door v volgt
+
+
+
+Indien we de berekening maken voor een kogel met een massa van 0,01 kg die beweegt met een snelheid van 700 m.s-1, dan bekomen we een golflengte in de orde van 10-34 m. Dat is zo onvoorstelbaar klein waardoor het berekenen van deze golflengte niet zinvol is en de golfkenmerken voor realistische hoeveelheden materie geen enkele betekenis hebben. Enkel wanneer het gaat over deeltjes met massa in de orde van die van het elektron, krijgt de geassocieerde golflengte wel een meer zinvolle betekenis. Een elektron met een snelheid van 107 m.s-1 vertegenwoordigt volgens de betrekking van de Broglie een golflengte van ongeveer 10-10 m wat correspondeert met de golflengte van X-stralen. Experimenten met behulp van X-stralendiffractie toonden aan dat snel bewegende elektronen een interferentiepatroon vertonen vergelijkbaar met dat van X-stralen.
+
+Deze opmerkelijke omwentelingen in de visie op de eigenschappen van materie en elektromagnetische straling, vormden de basis voor een nieuwe fundamentele theorie over de opbouw van de atomen door Niels Bohr.
+
+
+1.3	Beschrijving van het waterstofatoom
+
+Bohr maakte gebruik van het atoommodel van Rutherford (zie hoofdstuk I) om de structuur van het kleinste atoom te verklaren. Dit model beschrijft het waterstofatoom als een kleine kern die slechts een enkel proton bevat en een elektron dat een cirkelvormige baan beschrijft rond de kern. Het elektron wordt op zijn baan gehouden door de Coulombse aantrekking tussen de tegengestelde ladingen net zoals de maan op haar baan rond de aarde wordt gehouden door de zwaartekracht.
+Er was evenwel een fundamenteel bezwaar tegen dit model gezien een geladen elektron dat een cirkelvormige baan beschrijft, constant van richting dient te veranderen. Het elektron ondergaat aldus een versnelling. De grootte van de snelheid blijft wel constant maar de richting verandert voortdurend. De theorie van het elektromagnetisme voorspelt dat een versnelde lading (niet alleen in grootte maar ook in richting) energie uitzendt onder de vorm van elektromagnetische straling. Het elektron zou op die manier continu haar energie verliezen, steeds dichter tot de kern naderen volgens een spiraalbeweging en uiteindelijk door de kern worden gevangen. Het model van Rutherford voorspelt aldus de zelfvernietiging van het atoom.
+
+Nochtans vernietigt een atoom zichzelf niet. Voor de verklaring baseerde Bohr zich op het elektromagnetisch spectrum van waterstof. Waterstofatomen, verhit tot hoge temperatuur, stralen licht uit. Dit licht wordt in zijn verschillende kleurcomponenten gescheiden met behulp van een prisma. Hieruit bleek dat het uitgestraalde licht was opgebouwd uit een aantal specifieke componenten met een welbepaalde golflengte en frequentie. Dit was in overeenstemming met het principe van Plack dat stelt dat licht slechts kan worden uitgestraald in pakketjes van h. of in discrete energiekwanta. Bohr besloot hieruit dat het elektron in het waterstofatoom ook slechts een beperkt aantal discrete energie-waarden kan bezitten of dat de energie van het elektron gekwantiseerd is. Bij de overgang van een bepaald energieniveau naar een ander, wordt dit verschil in energie dan uitgestraald als een discreet energiekwantum. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bohr concludeerde hieruit dat het elektron van het waterstofatoom niet 1 maar meerdere cirkelvormige banen rond de kern kan beschrijven en dat het op elke baan een verschillende maar discrete energie-inhoud bezit. Deze banen worden gekenmerkt door een steeds grotere straal. Het elektron heeft zijn laagste energie op de cirkel met de kleinste straal en steeds hogere energieën naarmate het zich bevindt op een cirkel met een grotere straal. Het elektron kan zich nooit ergens tussen deze banen bevinden en kan dus ook geen andere energie aannemen dan die van de discrete niveau’s. Bij het overspringen van de ene baan naar de andere wordt het energieverschil uitgezonden als een discreet lichtkwantum met een welbepaalde golflengte.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Uit het totale elektromagnetische spectrum van waterstof leidde Bohr de energie af van de verschillende discrete niveau’s. Vervolgens probeerde hij een mathematisch model te construeren waarmee deze verschillende energieniveaus zouden kunnen worden berekend. Hij postuleerde een aantal uitgangspunten waardoor de resultaten van de berekening in overeenstemming werden gebracht met de experimentele waarnemingen. Zo kwam hij tot de conclusie dat om het model te laten overeenstemmen met de waarnemingen, de absolute waarde van het baanmoment (I) van een waterstofelektron diende gekwantiseerd te zijn volgens
+
+
+		()
+
+Hierin stelt m de massa en v de snelheid voor van het elektron en r de straal van de cirkel waarop het beweegt. Voor n kan elk willekeurig positief geheel getal beginnende bij 1 worden ingevuld. 
+De constante h is de constante van Planck en h/2 wordt het elementaire baanmomentkwantum genoemd.
+
+De absolute waarde van de krachtwisselwerking tussen proton en elektron wordt gegeven door de wet van Coulomb. Het elektron blijft op zijn baan doordat de aantrekkingskracht gelijk is aan de middelpuntzoekende kracht
+
+
+		waardoor		()
+
+De totale energie van het elektron is de som van de kinetische en de potentiële energie
+
+		()
+
+Het combineren van () en () levert
+
+		()
+
+Het schrijven van () op een andere manier leidt tot
+
+		
+
+Delen van deze vergelijking door de gestelde kwantumvoorwaarde () geeft een uitdrukking voor de snelheid van het elektron
+
+
+
+Door deze snelheid in te vullen in de vergelijking () bekomen we de totale energie van het elektron
+
+
+
+Door nogmaals gebruik te maken van vergelijking () wordt de straal van de cirkel bekomen
+
+
+
+In deze laatste twee vergelijkingen vullen we de numerieke waarden in voor h, m, q en 0 waardoor we voor de cirkelstraal en de energie van een waterstofelektron bewegend op die cirkel, komen tot respectievelijk
+
+			met a0 = 0,5 10-10 m	(Bohrse cirkelbaan)
+
+		met RH = 2,18 10-18 J	(Rydbergconstante)
+
+
+
+De mogelijke cirkelbanen met de discrete elektronenergieën die ermee zijn geassocieerd, bekomen we door voor n respectievelijk 1, 2, 3, …,  in te vullen. We noemen n het hoofdkwantumgetal. Hieruit blijkt dat de straal van de opeenvolgende cirkels kwadratisch toeneemt en de energie van het elektron op elk van deze banen omgekeerd kwadratisch toeneemt met de waarde van n. Een waarde n =  moeten we beschouwen als een toestand waarbij het elektron uit het atoom is verwijderd (geïoniseerd atoom of ion). De energie om dit te doen, noemen we de ionisatie-energie. Het energieverschil tussen twee opeenvolgende niveaus wordt steeds kleiner naarmate we naar hogere energieniveaus gaan. Met elke willekeurige overgang tussen twee niveaus gaat een hoeveelheid energie E gepaard die correspondeert met een golflengte van licht uit het elektromagnetische spectrum.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rekenvoorbeeld: Welke golflengte wordt uitgestraald door een waterstofatoom waarvan het elektron van het niveau met n = 4 terugvalt naar een niveau met n = 2
+
+
+Voor n = 4	
+
+Voor n = 2	
+
+
+
+
+Dit levert licht op met golflengte
+
+
+
+
+
+1.4	Beschrijving van hogere atomen
+1.4.1	Nevenkwantumgetal
+
+Het model van Bohr is enkel exact toepasbaar op het eenvoudige waterstofatoom. Hiervoor dient  enkel de interactie tussen de kern en het ene elektron in beschouwing te worden genomen. In het geval het atoom 2 of meerdere elektronen bevat, dienen voor de berekening van de energie naast de verschillende aantrekkende interacties eveneens de repulsies tussen de elektronen onderling in rekening te worden gebracht. Dit resulteert in een ingewikkeld mathematisch model dat niet exact oplosbaar is. We zullen hier dan ook geen poging wagen om dergelijk model op te stellen. We zullen ons beperken tot de resultaten die een verklaring bieden voor de energieniveaus van hogere atomen. Op dezelfde manier zoals Bohr de kwantumvoorwaarde voor het hoekmoment invoerde om de resultaten van het model te laten corresponderen met de waarnemingen, zullen we bij de volgende bespreking eveneens een aantal nieuwe begrippen invoeren. Het model dat op die manier tot stand komt geeft een verklaring voor de ligging van de energieniveaus zodat de elektronovergangen tussen deze niveaus corresponderen met de waargenomen golflengtes in de elektromagnetische spectra van de atomen.
+
+In het 3Li -atoom beschrijven 3 elektronen een baan rond de kern met kernlading +3. Omwille van de elektrostatische afstoting tussen de elektronen onderling zullen deze elektronen zich bij voorkeur bewegen op zo ver mogelijk van elkaar verwijderde banen. Dit kan worden bereikt door de elektronen te plaatsen op ellipsvormige banen zodat ze nooit in elkaar’s omgeving komen.
+
+Voor de beschrijving van een cirkel volstaat het om enkel de grootte van de straal te kennen. Bij het waterstofelektron werd de straal bepaald door de waarde van het hoofdkwantumgetal n. Voor de beschrijving van een ellips hebben we 2 stralen nodig die respectievelijk zullen worden bepaald door de waarde van 2 kwantumgetallen. We definiëren daarom het nevenkwantumgetal of baanmomentkwantumgetal l waarbij 
+
+n een maat is voor de grote straal a van de ellips
+l een maat is voor de kleine straal b van de ellips
+
+Zoals reeds eerder werd besproken, is het invoeren van l volkomen arbitrair en is het overbodig te zoeken naar de oorsprong ervan. Deze werkwijze dient enkel om het model in overeenstemming te brengen met de waarnemingen.
+
+l kan waarden aannemen gaande van 0 tot n – 1. Aldus bekomen we voor de verschillende mogelijke waarden van n de bijhorende waarden van l
+
+
+n
+l
+1
+0
+
+2
+0
+1
+
+3
+0
+1
+2
+
+4
+0
+1
+2
+3
+ enz.
+
+
+De verhouding tussen de kleine straal (b) en de grote straal (a) wordt bepaald door
+
+
+
+waardoor we afhankelijk van de waarden van l en n ellipsen bekomen met verschillende excentriciteit. In het voorbeeld hiernaast zijn de vier banen getekend voor hoofdkwantumgetal n = 4 en nevenkwantumgetal l gaande van 0 tot en met 3.
+
+Even arbitrair als de waarden van het nevenkwantumgetal stellen we dat het baanmoment voor hogere atomen moet gekwantiseerd worden volgens
+
+
+
+Op die manier worden de hoofdniveaus energetisch opgesplitst in subniveaus met stijgende energie naarmate l groter wordt. 
+Deze niveaus worden benoemd door de combinatie van een cijfer corresponderend met n en een letter die de plaats inneemt van l
+
+
+n
+l
+
+0
+1
+2
+3
+1
+1s
+
+2
+2s
+2p
+
+3
+3s
+3p
+3d
+
+4
+4s
+4p
+4d
+4f
+
+Deze letters kennen hun oorsprong bij benamingen die vroeger werden gegeven aan geobserveerde spectraallijnen uit experimentele waarnemingen. Om de opsplitsingen in de bijhorende figuur beter te kunnen voorstellen, werden de werkelijke afstanden tussen de energieniveaus niet meer ten volle gerespecteerd.
+
+
+1.4.2	Magnetisch kwantumgetal
+
+Deze opsplitsing van energieniveaus bleek nog niet te volstaan om de complexe elektromagnetische spectra van steeds zwaardere atomen te verklaren. Er dient daarom nog een ander principe te worden ingevoerd dat zal lijden tot een volgende kwantumvoorwaarde. In wat vooraf ging werd de grootte van het baanmoment gekwantiseerd volgens
+
+
+
+In werkelijkheid is het baanmoment geen scalaire maar wel een vectoriële grootheid waardoor samen met de grootte ook een richting voor het baanmoment wordt aangegeven in de ruimte. De richting van de vector van het baanmoment staat loodrecht op het vlak gevormd door de impulsvector en de plaatsvector.
+
+	
+
+Samen met het baanmoment bezit een elektron ook een magnetisch moment. Iedere versnelde lading (niet alleen in grootte maar ook in richting) en dus ook een circulerend elektron veroorzaakt immers een magnetisch veld. De richting van dit magnetische moment is parallel met die van het baanmoment en de grootte ervan wordt gegeven door
+
+
+
+Door toepassen van de 1ste kwantumvoorwaarde is dus niet alleen de grootte van het baanmoment maar ook de grootte van dit magnetische moment gekwantiseerd volgens
+
+
+
+uB wordt het Bohrs magneton genoemd en omvat het kleinst mogelijke pakketje magnetisch veld.
+
+Tot hiertoe hebben we het enkel gehad over de grootte van het baanmoment en het magnetische veld. De volgende stap is dat niet alleen de grootte van dit magnetische veld maar ook de richting ervan in de ruimte moet beantwoorden aan kwantummechanische voorschriften. Op die manier stelt de 2de kwantumvoorwaarde dat enkel die oriëntaties van het magnetische veld in de ruimte toegelaten zijn, waarvoor de grootte van de loodrechte projectie van dit veld op een uitwendig magneetveld, een geheel aantal keren μB oplevert. 
+
+Deze formulering is uiteraard moeilijk begrijpbaar maar wordt verduidelijkt door de bijhorende figuur. Stel dat we over een groot aantal gelijke atomen beschikken. Binnen de atomen bewegen de elektronen op een cirkel of op een ellips in een voorlopig totaal willekeurig vlak zodat de elektronen hun magnetisch veld (loodrecht op dit vlak) gericht hebben in eveneens willekeurige richtingen. De elektronen van de verschillende atomen zullen hun magnetisch veld dus richten volgens evenveel willekeurig verschillende richtingen.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Leggen we nu een uitwendig veld () aan met behulp van een magneet, dan zullen de atomen zich hierdoor richten volgens een beperkt aantal voorkeur-oriëntaties. In de figuur hiernaast bekijken we slechts 1 atoom waarvan de oriëntatie van het magnetische veld van het elektron () zodanig is gekozen zodat ze voldoet aan de 2de kwantumvoorwaarde nl. dat de loodrechte projectie () van het elektronveld op het uitwendige veld een geheel aantal (ml) keer μB bedraagt. De hoeken θ tussen  en  die hiervoor in aanmerking komen, worden bekomen via
+
+
+
+
+
+
+
+
+Alle hoeken waarvoor in bovenstaande betrekking ml een geheel getal (positief of negatief) oplevert, zijn kwantummechanisch toegestaan. De mogelijke waarden van ml  zijn gecorreleerd met l en ml wordt het magnetisch kwantumgetal genoemd.
+
+
+l
+
+ml
+
+cos θ
+θ
+
+0
+0
+0
+onbepaald
+alle waarden
+alle hoeken
+
+1
+
+2 ?
+
+
+geen hoek
+
+
+1
+
+
+45°
+
+
+0
+0
+0
+90°
+
+
+-1
+
+
+135°
+
+
+-2 ?
+
+
+geen hoek
+
+2
+
+2
+
+
+35,3°
+
+
+1
+
+
+65,9°
+
+
+0
+0
+0
+90°
+
+
+-1
+
+
+114,1°
+
+
+-2
+
+
+144,7°
+3
+
+3
+
+
+30°
+
+
+2
+
+
+54,7°
+
+
+1
+
+
+73,2°
+
+
+0
+0
+0
+90°
+
+
+-1
+
+
+106,8°
+
+
+-2
+
+
+125,3°
+
+
+-3
+
+
+150°
+
+Aldus worden de voorgaande subniveaus (met verschillende l-waarde) verder opgesplitst op basis van ml. Wanneer het uitwendig magnetische veld effectief aanwezig is, is er eveneens een verschil in energie tussen deze subniveaus. Bij afwezigheid van een uitwendig magneetveld blijven deze subniveaus bestaan maar bezitten ze eenzelfde energie. Deze gelijkwaardige energieniveaus worden ontaarde subniveaus genoemd. Uit bovenstaande tabel valt af te leiden dat een s-niveau (l = 0) niet ontaard is (ml = 0), een p-niveau drievoudig ontaard (ml = -1, 0 of 1) een d-niveau vijfvoudig ontaard (ml = -2, -1, 0, 1 of 2) en een f-niveau tot slot zevenvoudig ontaard (ml = -3, -2, -1, 0, 1, 2 of 3). Hogere waarden van l dienen niet beschouwd te worden (zie verder waarom). In de figuur op volgende pagina zijn de tot hiertoe gedefinieerde elektronniveaus schematisch voorgesteld.
+Voor de duidelijkheid van de figuur zijn de werkelijke afstanden tussen de verschillende niveaus niet gerespecteerd. We onthouden dat de hoofdniveaus in werkelijkheid dichter tot elkaar naderen naarmate n groter wordt terwijl de opsplitsing ervan toeneemt. Daardoor gebeurt het dat het 4s-niveau energetisch onder het 3d-niveau komt te liggen wat belangrijk is voor de elektronenconfiguratie (zie verder).
+
+
+1.4.3  	Elektronspin
+
+Uit metingen van spectraallijnen van atomen bleek dat elk van deze niveaus nogmaals diende opgesplitst te worden in twee subniveaus. De uitleg die aan deze bijkomende opsplitsing gegeven wordt, houdt rekening met het roteren van het elektron rond het eigen massamiddelpunt. Kwantummechanische voorschriften beperken de rotatiemogelijkheden tot twee richtingen, 1 in wijzerzin en 1 in tegen wijzerzin. Hierdoor wordt een bijkomend weliswaar kleiner magnetisch veld opgewekt. We associëren met deze twee toegelaten spintoestanden de twee mogelijke waarden voor het spinkwantumgetal (ms) . Dit kan waarden aannemen van
+
+	
+
+
+We voegen er onmiddellijk aan toe dat deze beschrijving van het begrip elektronspin niet correct is gezien het om de as draaien van een uniform geladen deeltje geen bijkomend magnetisch veld veroorzaakt. Toch laat deze benadering toe om de opvulling van de elektronenniveaus in atomen te verklaren. Het geobserveerde spinmoment is in werkelijkheid een relativistische correctie van het baanmoment. We zullen echter op de relativistische kwantumbeschrijving van atomen niet verder ingaan.
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2	Het golfmechanische model
+2.1	Aanleiding tot een nieuwe beschrijving van het atoom
+
+Bij de beschrijving van het atoommodel volgens Bohr werd aan het elektron een overduidelijk deeltjeskarakter toegewezen. Het elektron met zijn massa beweegt op een cirkel of ellips en heeft op zijn baan op ieder ogenblik een welbepaalde plaats, snelheid en impuls. Het impulsmoment (baanmoment) evenals het magnetische moment is gekwantiseerd in grootte en in richting volgens een aantal voorschriften waardoor de resultaten van het model in overeenkomst werden gebracht met de waarnemingen. 
+
+Massa, plaats en snelheid zijn typische begrippen kenmerkend voor een materiedeeltje. Met dit deeltjesmodel kunnen al heel wat chemische eigenschappen van atomen zoals afmetingen, ionisatie-energie, elektronenaffiniteit, oxidatietrappen worden verklaard. Het model voldoet om in grote lijnen het volledig Periodiek Systeem uit te leggen (zie verder). Toch zijn er enkele belangrijke chemische aspecten die niet met dit model kunnen begrepen worden (b.v. de ruimtelijke structuur van moleculen). Op een aantal andere vragen geeft het model zelfs een foutief antwoord (b.v. een s-elektron zou geen magnetisch moment bezitten). Met andere woorden, het model van Bohr voldoet niet aan alle verwachtingen.
+
+Via de experimenten van de Broglie weten we ook dat kleine, snel bewegende deeltjes een golfkarakter vertonen. De golflengte die we voor snel bewegende elektronen (zoals op een baan in een atoom) kunnen berekenen, correspondeert met de typische golflengten van X-stralen. Bovendien vertonen deze elektronen eigenschappen kenmerkend voor elektromagnetische straling. Het diffractiepatroon van elektronen is immers analoog aan dat van de golven van X-stralen. We zullen in wat volgt een ander model construeren dat rekening houdt met de golfeigenschappen van elektronen en waarmee we een aantal andere belangrijke chemische eigenschappen van atomen zullen verklaren. We beseffen dat geen enkel model volledig correct is en in staat om alles te verklaren maar het zal ons een stap dichter brengen tot het bereiken van inzicht in chemische bindingen. 
+
+In wat volgt, zullen we de wiskundige afleidingen tot een absoluut minimum beperken. We zullen enkel ingaan op de gebruikte algoritmen en de resultaten van de berekeningen als juist aanvaarden.
+
+Rond 1925 vatten Erwin Schrödinger en Louis de Broglie het idee op om een bewegend elektron in een atoom te vergelijken met een trillende snaar. Een aangeslagen gitaarsnaar vastgemaakt aan twee uiteinden, produceert staande golven. Niet alle golflengten zijn mogelijk doch enkel diegene waarvoor een geheel aantal halve golflengten corresponderen met de lengte van de snaar. In de figuur op de volgende pagina is dit voorgesteld voor staande golven met respectievelijk 1, 2 en 3 halve golflengtes. Op analoge wijze kan het elektron van het waterstofatoom worden opgevat als een staande golf waarvoor een geheel aantal golflengten precies passen op een cirkelomtrek. Dit lijkt een verklaring te bieden voor het kwantumprincipe in het model van Bohr. We kunnen dit vertalen als volgt: enkel die golflengten zijn toegelaten waarvoor een geheel aantal golflengten precies corresponderen met de lengte van de cirkelomtrek. In de volgende figuur is dit voorgesteld voor situaties corresponderend met waarden van n = 4, 5 en 6.
+
+
+
+
+Het mathematische formalisme dat Schrödinger ontwikkelde was grotendeels gebaseerd op de klassieke beschrijving van golfverschijnselen. De vorm van deze vergelijking is de volgende
+
+
+
+waarbij Ψ een functie voorstelt van de coördinaten (x, y en z) van de positie van het elektron in de 3-dimensionele ruimte.  stelt een wiskundige operator voor die de functie Ψ omvormt tot een nieuwe functie. In sommige gevallen zal de operator de functie zodanig omvormen dat het resultaat van de bewerking dezelfde functie opnieuw oplevert, zij het dan vermenigvuldigd met een constante.
+
+Dit lijkt ingewikkeld, maar proberen we eens met enkele bekende voorbeelden. 
+Als 1ste functie kiezen we eenvoudig sin(x). Als operator kiezen we ‘het nemen van de tweede afgeleide’ van sin(x). Dit levert op –sin(x). De constante is in dit geval gelijk aan –1
+
+	
+
+Analoog bekomen we 
+
+			en	     
+
+We herkennen sin(x) en cos(x) als de functies die de bekende golfbewegingen beschrijven. In deze gevallen is er evenwel maar een enkele variabele x. Wanneer we een gelijkaardige operator laten inwerken op een functie met 3 variabelen, dan wordt de wiskundige uitwerking een stuk lastiger. We laten de wiskunde hierbij voor wat ze is maar willen enkel laten aanvoelen dat er dergelijke functies bestaan die na het inwerken van een operator (partiële tweede afgeleiden) zichzelf opleveren vermenigvuldigd met een constante (de eigenwaarde van de functie). In het geval van de golffunctie voor een elektron is deze constante niets meer dan de totale energie van het elektron (zie verder).
+
+Deze manier van voorstellen en voorgaande figuur zou verkeerdelijk de indruk kunnen wekken dat een elektron een golfbeweging beschrijft rond de kern. Dit is evenwel niet het geval. De golffunctie beschrijft niet de baan van het elektron maar een ander kenmerk ervan (zie verder). We moeten ons proberen te ontdoen van het idee dat we het traject van een elektron kunnen volgen op een manier zoals we dat kunnen doen voor een macroscopisch voorwerp. Zoals we reeds hebben vermeld, gedraagt een zeer klein materiedeeltje zich totaal anders dan een groot voorwerp waardoor we ons de beweging ervan niet mogen inbeelden zoals we dat zouden willen doen vanuit onze ervaring. In 1927 stelde Werner Heisenberg immers op basis van zijn berekeningen dat het fundamenteel onmogelijk is om tegelijkertijd de plaats en de impuls van een (klein) voorwerp te kennen.
+
+
+2.2  Het onzekerheidsprincipe van Heisenberg
+
+De aanleiding van dit verbazende onzekerheidsprincipe situeert zich bij de eerder aangehaalde diffractie-experimenten met elektronen. We zullen de berekeningen laten voor wat ze zijn maar wel de verrassende resultaten ervan bespreken. Dit onzekerheidsprincipe houdt in 
+
+
+er is een fundamentele beperking om op hetzelfde ogenblik de exacte plaats en de exacte snelheid (impuls) van een bewegend deeltje te kennen
+
+
+
+
+De onzekerheid op de impuls (mv) vermenigvuldigd met de onzekerheid op de plaats (r) is minstens gelijk aan h/4π.
+Deze onzekerheid is niet het gevolg van eventuele meetfouten bij de experimentele bepaling maar is intrinsiek aan materie gekoppeld.
+
+We maken de berekening voor een macroscopisch voorwerp, b.v. een bal met een straal van 0,05 m en een massa van 0,2 kg. Stel dat we op een bepaald ogenblik de plaats ervan kennen met een onzekerheid van 1 % van de straal. Met bovenstaande formule berekenen we dan de onzekerheid op de snelheid. Tegelijkertijd doen we de berekening voor een elektron met een straal van ongeveer 5 10-11 m
+Voor het elektron:
+
+ 
+
+De onzekerheid op de snelheid van het elektron is in de orde van de lichtsnelheid. Dit betekent dat we geen enkel idee kunnen hebben over de werkelijke snelheid van het elektron.
+
+Voor de bal:
+
+
+
+De onzekerheid op de snelheid van de bal is onmeetbaar. Voor een macroscopisch voorwerp heeft het onzekerheidsprincipe geen enkele betekenis.
+
+Eenzelfde relatie kan opgesteld worden voor de energie van een elektron en de tijd gedurende dewelke het elektron zich in deze energietoestand bevindt.
+
+	
+Dit onzekerheidsprincipe versterkte de opvatting van Schrödinger om het elektron te beschrijven als een golf en af te stappen van het model van Bohr die het elektron beschreef als bewegend op een baan met een bekende straal, een bekende snelheid en een discrete energie.
+
+
+2.2  	Het atoommodel van Schrödinger
+2.2.1  	Beweging van ‘het deeltje in een doos’
+
+Uit wat voorafging kunnen we samenvatten dat een elektron in een atoom niet beweegt op een welomschreven baan maar dat het zich op een of andere wijze verplaatst in 3 dimensies tegelijkertijd. Het elektron kan dus beschreven worden aan de hand van een functie ψ met 3 variabelen. We hebben ook reeds aangetoond dat deze functie moet voldoen aan
+
+	
+
+Deze vergelijking noemen we de Schrödingervergelijking waarbij een wiskundige operator voorstelt van het type ‘2de afgeleide’ en E de totale energie van het elektron. Gezien het gaat over een functie in 3 variabelen wordt de mathematische uitwerking uiterst ingewikkeld. We zullen ons hieraan niet wagen en zullen enkel de resultaten vermelden (zie verder pagina 24). Deze resultaten laten ons toe enkele opvallende vaststellingen te doen
+
+- de gekwantiseerde energietoestanden komen opnieuw aan de orde
+- de kwantumgetallen die bij het Bohrmodel arbitrair werden ingevoerd, verschijnen opnieuw samen met de golffunctie
+- de berekeningen leveren voor het H-atoom de correcte energieniveaus op
+
+Het mechanisme van het Schrödingermodel zullen we illustreren aan de hand van de beweging van een deeltje dat zich kan verplaatsen in slechts 1 i.p.v. 3 dimensies. De stap naar de beweging in 3 dimensies is dan een puur wiskundig probleem maar heeft dezelfde fysische basis.
+
+Veronderstel een deeltje dat zich wrijvingsloos kan bewegen volgens de x-as over een traject begrensd door 2 ondoordringbare wanden. Er worden geen krachten uitgeoefend op het deeltje en aldus bezit het geen potentiële energie. Het heeft enkel kinetische energie doordat het beweegt en gezien er geen wrijvingsweerstand is, behoudt het zijn constante snelheid. Op het moment dat het tegen een wand aanbotst, wordt het elastisch teruggekaatst zonder hierbij energie te verliezen. Wij kunnen ons deze situatie in de praktijk voorstellen als een voetbal die heen en weer botst tussen twee muren. We vervangen nu de voetbal door een elektron. De operator die we in dit geval moeten gebruiken (volgens klassieke golfberekeningen), is
+
+	
+
+Dit brengen we in de Schrödingervergelijking zodat we bekomen
+
+		(1)
+
+Zoals reeds vermeld, voldoet een sinusfunctie aan deze vergelijking. Laten we daarom de meest algemene sinusfunctie gebruiken
+	
+
+met A en k constanten. De tweede afgeleide hiervan is
+
+
+
+Wanneer we dit vergelijken met (1) dan blijkt
+
+
+
+Veronderstel nu dat A en k willekeurige getallen zouden voorstellen. We zouden dan evenveel willekeurige (of oneindig veel) functies ψ bekomen, wat zoveel zou betekenen dat er een continue distributie bestaat van energieniveaus. Dit is evenwel in strijd met het principe van Planck (zie pagina 2). Om dit op te lossen dienen we een aantal logische randvoorwaarden te beschouwen
+
+
+Het deeltje kan zich niet buiten of in de ondoordringbare wanden bevinden.   (•)
+De totale kans om het deeltje ergens binnen de wanden te vinden is 1.  (••)
+Het deeltje kan zich overal ergens binnen de wanden bevinden.   (•••)
+
+
+
+
+
+
+We zullen nu de constanten A en k definiëren rekening houdende met deze randvoorwaarden. De voorwaarde (•) stelt dat als het deeltje niet in de wand kan doordringen, de waarde van de functie op die plaatsen 0 en L gelijk moet zijn aan 0
+
+		en		
+
+Gezien de sinusfunctie de waarde 0 heeft voor 0, π, 2π, enz. is ψ automatisch 0 voor x = 0. We zorgen er nu voor dat ψ eveneens 0 wordt voor x = L. Dit kunnen we realiseren door de mogelijke waarden van k te beperken tot
+
+		en		
+
+zodat bij een waarde x = L
+
+
+
+Om de mogelijke waarden van A te beperken moeten we eerst een algemeen bekende eigenschap van golven belichten. Zoals verder uitvoeriger zal worden besproken, is het kwadraat van de golffunctie van een deeltje in een gegeven punt een maat voor de waarschijnlijkheid om het deeltje te vinden in de omgeving van dit punt. Anders uitgedrukt is de waarschijnlijkheid om het deeltje te vinden in een infenitesimaal klein stukje dx rond x te schrijven als
+
+
+
+
+Randvoorwaarde (••) stelt dat de totale kans om het deeltje te vinden binnen een gebied tussen x = 0 en x = L gelijk is aan 1 of
+
+	of	
+
+
+Oplossen van deze bepaalde integraal levert
+
+		of		
+
+
+Uit de berekende waarden voor A en k bekomen we de golffunctie en de energie van het deeltje
+
+
+
+
+met n = 1, 2, 3, 4, … Hieruit blijkt dat de energiewaarden gekwantiseerd zijn met de waarde van n. Vergelijk dit met het model van Bohr.
+
+
+2.2.2	Het golfmechanisch waterstofatoom
+
+De voorgaande paragraaf beschreef de beweging van een deeltje in 1 dimensie. Het elektron verplaatst zich evenwel in 3 dimensies tegelijkertijd en bezit bovendien een potentiële energie omwille van de aantrekking door de kern. Dit kan in de Schrödingervergelijking worden opgevangen door de operator aan te passen zodanig dat de tweede partiële afgeleide wordt genomen naar de 3 variabelen en door een potentiële energieterm in te voegen.
+
+
+		
+De manier waarop dit probleen wiskundig wordt aangepakt, laten we voor wat het is.
+Omwille van de centripetaal gerichte potentiële energieterm is het mathe-matisch handiger (i.p.v. x, y en z) gebruik te maken van een assenstelsel met de variabelen r,  en  waarbij r de afstand voorstelt tot de kern en  en  als hoekvariabelen fungeren. In het sferische poolcoördi-natenstelsel kan een golffunctie worden geschreven als het product van 3 functies die elk afhankelijk zijn van slechts 1 variabele.
+
+
+
+
+
+De Schrödingervergelijking in dit coördinatenstelsel wordt dan
+
+
+
+
+Op deze wijze worden samen met de drie deelfuncties ook 3 sets van kwantumgetallen bekomen (n, l en ml). Dit zijn dezelfde kwantumgetallen als diegene die arbitrair werden ingevoerd bij het model van Bohr en dit met de bedoeling het model te laten corresponderen met de waarnemingen. Bij de huidige werkwijze ontstaan ze uit de oplossing van de Schrödingervergelijking samen met de golffuncties. 
+
+De scheiding van de variabelen laat toe om (enkel voor het H-atoom) een exacte mathematische oplossing te bekomen voor de Schrödingervergelijking. Dit levert een aantal oplossingen waarvan de golffuncties corresponderen met een bepaalde energietoestand voor het elektron.
+
+	
+
+Hieruit blijkt dat deze energietoestanden van de verschillende hoofdniveaus enkel worden bepaald door de waarde van het hoofdkwantumgetal n en niet door l of  ml. De betekenis van de kwantumgetallen l en ml wordt later verduidelijkt.
+
+De oplossing van de Schrödingervergelijking levert een aantal golffuncties. Dit zijn er eigenlijk oneindig veel maar we beperken ons tot de oplossingen corresponderend met kwantumgetal n = 1, 2 en 3. In de volgende tabel zijn deze functies voorgesteld.
+
+n
+l
+ml
+
+golffunctie
+1
+0
+0
+1s
+
+2
+0
+0
+2s
+
+
+1
+0
+2pz
+
+
+
+1
+2px
+
+
+
+-1
+2py
+
+3
+0
+0
+3s
+
+
+1
+0
+3pz
+
+
+
+1
+3px
+
+
+
+-1
+3py
+
+
+2
+0
+
+
+
+
+1
+
+
+
+
+-1
+
+
+
+
+2
+
+
+
+
+-2
+
+
+Uit deze tabel blijkt dat s-niveaus enkel een straalafhankelijkheid (r) vertonen en geen hoekafhankelijkheid (θ en Φ). Dit betekent dat de waarde van de golffunctie dezelfde is voor alle richtingen in de ruimte. We herinneren ons uit het model van Bohr dat voor een s-niveau geen voorwaarden werden gesteld aan de oriëntatie van het magnetisch moment in de ruimte. Het nieuwe model levert eenzelfde conclusie.
+In de bijhorende figuren zijn de golffuncties voorgesteld voor de 1s, 2s en 3s-niveaus. Het ontbreken van de hoekafhankelijkheid laat toe deze functies eenvoudig in grafiek uit te zetten. We bekomen op deze manier het radiale gedeelte R(r) gezien Θ(θ) en Φ(Φ) in deze gevallen de waarde 1 aannemen. 
+De numerieke waarden van de golffuncties (ordinaat as) zijn niet weergegeven. Die waarden hebben immers geen enkele betekenis. In de abscis staat de afstand tot de kern in eenheden van a0. Dit betekent dat voor r = 1, de werkelijke afstand 0,5 10-10 m bedraagt. Let er evenwel op dat in de verschillende figuren de schaal van de assen (zowel abscis als ordinaat) soms is aangepast met de bedoeling de vorm van de verschillende curven beter tot uiting te laten komen.
+
+
+ 
+
+Deze golffuncties hebben op zichzelf geen fysische betekenis. Dat is immers het geval voor alle golven. Wel typisch voor golfverschijnselen is dat het kwadraat van de functie een maat is voor de probabiliteit om het deeltje ergens aan te treffen. Op die plaatsen waar de amplitude van de golffunctie groot is, bestaat ook de meeste kans om het deeltje te vinden. Op die manier beschrijven we het elektron niet als bewegend op een wel gedefinieerde baan maar kennen we aan ieder punt in de ruimte een waarschijnlijkheid toe om het elektron er aan te treffen. Dit is in overeenstemming met het onzekerheidsprincipe van Heisenberg. De waarden van de gekwadrateerde golffuncties beschrijven de kans om het deeltje aan te treffen binnen een infenitesimale afstand rond een punt. Dat is niet hetzelfde als de kans om het elektron aan te treffen op een afstand r van de kern (zie verder).
+In de volgende figuren is het kwadraat uitgezet van de golffuncties voor een 1s, 2s en 3s-niveau. Let opnieuw op de schaal van de assen. 
+
+
+
+
+
+
+
+Gezien deze functies voor alle richtingen in de ruimte dezelfde waarde bezitten, zoeken we de kans om het deeltje te vinden op een bolschil met infenitesimale dikte dr. Naarmate de straal van de bolschil stijgt, neemt het oppervlak ervan toe met 4 π r2. Een bolschil heeft aldus een infenitesimaal volume dV = 4 π r2 dr. De kans om het elektron aan te treffen in een bolschil op een bepaalde afstand tot de kern wordt aldus gegeven door 4 π r2 x R2.
+
+We noemen deze functie de radiale probabiliteitsfunctie omdat ze de kans beschrijft om het elektron aan te treffen op een bepaalde afstand van de kern. In de volgende figuren worden deze functies weergegeven voor het 1s, 2s en 3s-niveau. Let erop dat voor het 1s-elektron de grootste kans zich (niet toevallig) voordoet op een afstand r = a0. Dit is de straal van de kleinste cirkel in het model van Bohr. Het elektron kan zich evenwel ook dichter of verder van de kern bevinden (onzekerheidsprincipe). Voor het 2s en 3s-niveau is de meest waarschijnlijke afstand steeds verder van de kern verwijderd. De afstanden van maximale probabiliteit corresponderen evenwel niet langer met de cirkelstralen 4 a0 en 9 a0 uit het model van Bohr.
+
+
+
+
+
+
+Uit deze figuren blijkt dat voor het 2s en 3s-niveau 2 respectievelijk 3 maxima voorkomen. Voor het 4s en 5s-niveau worden dit dan 4 en 5 bulten met evenveel maxima. Dit betekent dat het elektron op deze hogere niveaus toch nog een redelijke kans maakt om zich heel dicht bij de kern te bevinden.
+
+We herinneren eraan dat in de voorgaande figuren de schalen van de abscis en ordinaat assen werden aangepast om de vorm van de curven beter tot uiting te laten komen. Daarom worden de probabiliteitsfuncties voor het 1s, 2s en 3s-niveau nogmaals weergegeven op eenzelfde figuur. We weten ook dat de totale kans om het elektron ergens aan te treffen tussen een afstand r = 0 en r = ∞ voor alle niveaus dezelfde is en gelijk aan 1. Daarom is het totale oppervlak onder elk van deze curven gelijk aan 1 want 
+
+	
+
+
+Op die manier zien we in dat er steeds een kans bestaat (hoe klein ook) om het elektron aan te treffen op zeer grote afstand van de kern. Gezien deze functies pas nul worden voor r gaande naar oneindig, kunnen we mathematisch een atoom opvatten als oneindig groot. Om de omvang van een atoom te definiëren zullen we arbitrair een grens invoeren waarbij we een gebied afbakenen waarbinnen we het elektron kunnen aantreffen met een zekerheid van 90 %. We nemen als voorbeeld het 1s-niveau. We plaatsen de grenslijn zodanig dat 90 % van het oppervlak onder de curve zich links van deze lijn bevindt. Voor het 1s-niveau is dit bij ongeveer 2,6 a0. Voor hogere niveaus is dit uiteraard op grotere afstand. 
+
+Om deze begrenzing tweedimensionaal weer te geven, tekenen we een cirkel met straal 2,6 a0. In drie dimensies wordt dit dan een sfeer met straal 2,6 a0. Deze sfeer wordt het orbitaal van het 1s-elektron genoemd. Alle s-orbitalen hebben een bolsymmetrische probabiliteitsverdeling (omwille van het ontbreken van hoekafhankelijkheid) en de sferen worden groter naarmate de waarde voor n toeneemt.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Op analoge manier kunnen we het radiale gedeelte van de golffunctie uitzetten voor de verschillende p- en d-niveaus. We bekomen aldus gelijkaardige radiale probabiliteitsfuncties. Ter illustratie zijn in de volgende figuren R, R2 en 4 π r2 R2 uitgezet in functie van r voor een elektron op het 2p-niveau. 
+
+
+            
+Belangrijker evenwel is dat de totale golffunctie Ψ2p naast de radiale afhankelijkheid ook nog een hoekafhankelijk deel (axiale gedeelte van de golffunctie) bevat. De uitdrukkingen ervoor zijn van het type sin of cos van θ en Φ of een combinatie ervan (zie tabel). Dit zorgt ervoor dat bij p-orbitalen (en d-orbitalen) de bolsymmetrische probabiliteit verloren gaat en voorkeursrichtingen in de ruimte ontstaan. We nemen als voorbeeld de golffunctie van het pz-niveau. Hiervoor is er naast het radiale gedeelte dat in alle richtingen dezelfde waarde oplevert, ook nog het hoekafhankelijk  deel volgens θ en geen hoekafhankelijkheid volgens Φ
+
+
+
+Analoog als eerder beschreven, nemen we het kwadraat van de golffunctie
+
+
+
+We laten θ variëren van 0 tot 2π en zetten de waarden van de gekwadrateerde functie uit volgens de richting die de hoek θ aanwijst. Aldus bekomen we
+
+θ
+cos2 θ
+0
+1
+π/6
+3/4
+π/4
+2/4
+π/3
+1/4
+π/2
+0
+2π/3
+1/4
+3π/4
+2/4
+5π/6
+3/4
+π
+1
+enz.
+
+De constructie van de 2px en 2py-orbitalen is moeilijker gezien we 2 hoeken tegelijkertijd moeten laten variëren. Nochtans worden identieke vormen bekomen waarbij de elektronendensiteiten zich respectievelijk richten volgens de x- en y-as i.p.v. volgens de z-as zoals in bovenstaande figuur. De constructie van de d-orbitalen gebeurt op een zelfde wijze.
+In de volgende figuren is de intrinsieke vorm voorgesteld van s-, p- en d-orbitalen. De ruimtelijke vorm van f-orbitalen is niet weergegeven gezien hun geringe betekenis  voor de chemische bindingen die we in volgend hoofdstuk zullen bespreken. We onthouden dat bij toenemede waarde van het hoofdkwantumgetal n de vorm van de orbitalen dezelfde blijft maar dat deze zich steeds verder van de kern uitstrekken.
+
+
+Met deze figuren wordt ook de betekenis van de kwantumgetallen duidelijk. Het hoofdkwantumgetal n bepaalt de energie van het elektron in elk orbitaal. Het azimutaal kwantumgetal (baanmomentkwantumgetal) l bepaalt de geometrische vorm. Voor een s-orbitaal is dit bolvormig, voor een p-orbitaal haltervormig. De d- en f-orbitalen vertonen nog grilliger vormen. Het magnetische kwantumgetal tenslotte bepaalt de oriëntatie van de orbitalen in de ruimte.
+
+
+2.2.3  Beschrijving van hogere atomen
+
+De voorgaande paragraaf beschreef de orbitalen van het waterstofatoom. De Schrödingervergelijking kan immers enkel en alleen mathematisch correct opgelost worden voor het waterstofatoom. We herinneren er ook aan dat de energie van een elektron op een van de mogelijke orbitalen van waterstof enkel bepaald wordt door de waarde van n. Op die manier bezitten een 2s en een 2p-elektron dezelfde energie en bezitten een 3s, een 3p en een 3d-elektron eveneens eenzelfde energie.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Zoals we reeds hebben besproken bij het model van Bohr dienen we bij een poly-elektronisch atoom naast de aantrekkende wisselwerking van elk van de elektronen door de kern, ook de afstoting tussen de elektronen onderling in rekening brengen. Dit zorgt voor een zeer ingewikkelde potentiële energieterm die mathematisch niet kan uitgedrukt worden. De Schrödingervergelijking kan in deze gevallen dan ook niet exact worden opgelost.
+
+Via mathematische benaderingsmethoden waarop we niet zullen ingaan, kunnen wel oplossingen worden berekend voor de verschillende energieniveaus. Dit leidt tot gecorrigeerde golffuncties voor de diverse orbitalen. Belangrijk hierbij is dat de intrinsieke vorm van de orbitalen behouden blijft maar dat de afstand tot de kern in zekere mate verandert. Bovendien verandert ook de energie-inhoud ervan. Op die manier bekomen we een situatie waarbij voor eenzelfde waarde van n, de energie toeneemt met de waarde van l en aldus een energetische opsplitsing van de energieniveaus tot stand komt. Dit resulteert in eenzelfde opeenvolging van de elektronische niveaus zoals we die hebben getekend bij het model van Bohr. Herinneren we er ook aan dat binnen een ontaard niveau bij afwezigheid van een magnetisch veld er geen energetische opsplitsing is. Het magnetische kwantumgetal beschrijft enkel de oriëntatie van de ontaarde orbitalen in de ruimte. We bekomen aldus
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hou er rekening mee dat de getekende afstanden niet noodzakelijk correct zijn. Doordat hogere hoofdniveaus steeds dichter bij elkaar komen te liggen en bovendien de graad van opsplitsing toeneemt, gebeurt het dat de energetische volgorde voor sommige orbitalen omkeert. Zo komt het 4s-orbitaal energetisch beneden het 3d-orbitaal te liggen, wat consequenties heeft voor de opvulling (zie verder).
+
+Elk van de aldus bekomen orbitalen biedt plaats aan 2 elektronen met tegengestelde spin. In wat volgt zullen we de elektronenconfiguratie van de verschillende atomen uit het periodiek systeem systematisch invullen. Bij de manier van opvullen dient rekening te worden gehouden met enkele principes die het gevolg zijn van de golfmechanische berekeningen. We zullen hierop niet in detail ingaan maar des te meer rekening houden met de resultaten ervan.
+
+
+
+
+3	Opvulling van de energieniveaus
+3.1	Opbouwprincipe
+
+Bij het opvullen van de energieniveaus worden de elektronen systematisch toegevoegd in de laagst energetisch beschikbare orbitalen. Elk orbitaal biedt plaats aan 2 elektronen met tegengestelde spin. De volgorde van opvullen is weergegeven in bijhorende figuur.
+
+Voor de atomen H en He wordt dit
+
+H			of 	1s1
+
+He			of	1s2
+
+Het 1s-orbitaal evenals de 1ste hoofdschil is op dit moment volledig gevuld en de volgende elektronen nemen plaats in het 2s-orbitaal (2de hoofdniveau).
+
+Li			of	1s2  2s1
+
+Be			of	1s2  2s2
+
+Vervolgens zijn de 2p-orbitalen aan de beurt. Die zijn 3-voudig ontaard en bieden in totaal plaats aan 6 elektronen. De regel van Hund stelt dat ieder ontaard niveau eerst 1 elektron dient toegewezen te worden met een parallelle spin en dat pas daarna het 2de elektron in elk ontaard niveau mag worden bijgevuld.
+
+
+B					of	1s2  2s2  2p1
+
+C					of	1s2  2s2  2p2
+
+N					of	1s2  2s2  2p3
+
+O					of	1s2  2s2  2p4
+
+F					of	1s2  2s2  2p5
+
+Ne					of	1s2  2s2  2p6
+
+
+Vervolgens komt het 3de hoofdniveau aan de beurt waarvan het 3s-orbitaal de laagste energie bezit
+
+Na						of	1s2  2s2  2p6  3s1
+
+Mg						of	1s2  2s2  2p6  3s2
+
+
+Op analoge wijze en rekening houdende met de regel van Hund bekomen we voor de 3p-orbitalen
+
+
+Al								of	1s2  2s2  2p6  3s2  3p1
+
+Si								of	1s2  2s2  2p6  3s2  3p2
+
+P								of	1s2  2s2  2p6  3s2  3p3
+
+S								of	1s2  2s2  2p6  3s2  3p4
+
+Cl								of	1s2  2s2  2p6  3s2  3p5
+
+Ar								of	1s2  2s2  2p6  3s2  3p6
+
+
+We verwachten dat na het opvullen van het 3p-niveau vervolgens het 3d-niveau aan de beurt is maar om de reden die op het einde van vorige paragraaf werden beschreven, wordt eerst het 4s-orbitaal opgevuld.
+
+
+K	[Ar]18  			of	[Ar]18  4s1
+
+Ca	[Ar]18  			of	[Ar]18  4s2
+
+
+Pas dan vullen we de 5-voudig ontaarde 3d-orbitalen in waarbij we opnieuw rekening houden met de regel van Hund. We bekomen op die manier de eerste reeks van overgangselementen. De benaming ‘overgangselementen’ heeft te maken met de omwisseling van de invulling (4s voor 3d).
+
+
+Sc	[Ar]18  						Fe	[Ar]18	
+
+V	[Ar]18  						Co	[Ar]18  
+
+Ti	[Ar]18  						Ni	[Ar]18  
+
+Cr	[Ar]18  						Cu	[Ar]18  
+
+Mn	[Ar]18  						Zn	[Ar]18  
+
+
+Bij de elementen Cr en Cu wordt een schijnbare abnormaliteit vastgesteld. Het is een steeds optredend fenomeen dat:
+
+half en volledig gevulde p- en d-niveaus (ook f-niveaus) vertonen een extra stabiliteit.
+
+Om deze extra stabiliteit te verkrijgen, is het energetisch verantwoord om een 4s-elektron te promoveren naar het hoger gelegen 3d-niveau. 
+
+Dit verschijnsel kan worden verantwoord door terug te kijken naar de ruimtelijke vorm van de orbitalen. Een s-orbitaal bezit bolsymmetrie. Afzonderlijke p- en d-orbitalen bezitten een lagere graad van symmetrie. Wanneer we evenwel de 3 p-orbitalen of de 5 d-orbitalen samen schuiven in een enkele figuur dan bekomen we voor zowel de som van de probabiliteiten van de p-orbitalen als voor de som van de d-orbitalen opnieuw een bolsymmetrie. De laagste energietoestand is diegene met de grootste graad van symmetrie. Wanneer de elektronen ruimtelijk maximaal verdeeld zijn, veroorzaken ze ook de minste onderlinge afstoting. Het streven naar een bolsymmetrische elektronenverdeling in een atoom verklaart de abnormaliteit in opvulling bij Cr en Cu. Dit verschijnsel treedt niet op bij de elementen met respectievelijk 2 en 5 p-elektronen (laatst toegevoegd) gezien de winst in stabiliteit niet opweegt tegen de energie die zou nodig zijn om een s-elektron naar het p-niveau te promoveren.
+
+Na invullen van de 3d-orbitalen komen de 4p-orbitalen aan de beurt met respectievelijk de elementen Ga, Ge, As, Se, Br en Kr. De manier van opvullen is identiek als bij de 2p- en 3p-niveaus. 
+
+
+3.2  Het periodiek systeem van de elementen
+
+In voorgaande paragrafen werd reeds een eerste aanzet gegeven tot het opstellen van een periodiek systeem. Reeds in de periode van Dalton werden de elementen gerangschikt naar stijgende relatieve atoommassa. Een bijna identieke tabel werd reeds vroeger opgesteld door Mendeljeev op basis van de chemische eigenschappen van de elementen. Zo bleek dat zich een aantal groepen van elementen aftekenden met gelijkaardig chemisch gedrag. Uit de elektronenconfiguratie blijkt dat we diezelfde groepen terug vinden op basis van een gelijke opvulling van de buitenste elektronenschaal.
+
+Dit is volkomen begrijpelijk. Wanneer we naar een voorwerp kijken, zien we meestal enkel de buitenzijde terwijl de binnenkant verborgen blijft. De vorm, kleur en eigenschappen van het voorwerp worden dan ook grotendeels door de buitenkant ervan bepaald. Dat is eveneens het geval voor de atomen. De chemische eigenschappen (zoals we in volgend hoofdstuk zullen beschrijven: de bindingen die ze kunnen aangaan met andere atomen) worden hoofdzakelijk bepaald door de schikking van de buitenste elektronen of m.a.w. door de elektronenconfiguratie van de buitenste schaal.
+
+De elementen H, Li, Na en K bevatten elk 1 elektron in het buitenste s-orbitaal. De elementen Be, Mg en Ca bezitten 2 elektronen op het buitenste s-niveau. Het element He (2s2) nemen we niet in aanmerking omdat het eerder in een andere groep thuishoort (zie verder waarom). Op dezelfde wijze zien we dat de elementen B, Al, Ga allemaal 1 p-elektron, C, Si, Ge allemaal 2 p-elektronen, N, P, As allemaal 3 p-elektronen (en ga zo door) bevatten op hun buitenste p-niveau. Om die reden plaatsen we deze elementen in het periodiek systeem onder elkaar. Zo ontstaan er rijen (perioden) die corresponderen met de hoofdniveaus en vormen zich kolommen (groepen) die eenzelfde bezetting vertonen van het buitenste niveau. We laten hierbij de overgangselementen voorlopig buiten beschouwing en houden voorlopig enkel rekening met die elementen waarvoor het laatste elektron werd geplaatst op een s- of een p-orbitaal. We nummeren deze 8 groepen volgens AI tot AVIII en spreken over de elementen van de A-groepen. Het element He wordt als 1ste vertegenwoordiger opgenomen in de groep AVIII i.p.v. in de groep AII. Deze laatste groep wordt soms ook de 0-groep genoemd.
+
+n
+AI
+AII
+AIII
+AIV
+AV
+AVI
+AVII
+AVIII
+
+s1 p0
+s2 p0
+s2 p1
+s2 p2
+s2 p3
+s2 p4
+s2 p5
+s2 p6
+
+
+1
+H
+
+He
+2
+Li
+Be
+B
+C
+N
+O
+F
+Ne
+3
+Na
+Mg
+Al
+Si
+P
+S
+Cl
+Ar
+4
+K
+Ca
+Ga
+Ge
+As
+Se
+Br
+Kr
+
+
+Tussen de 4s en de 4p-orbitalen wordt het 3d-niveau ingevuld. Deze rij van tien overgangselementen wordt in de tabel geschoven tussen de elementen Ca en Ga. Na opvulling van het 5s-niveau komt de 2de reeks van overgangselementen (4d) en analoog na het 6s-niveau de 3de reeks (5d). Aldus ontstaan 10 nieuwe groepen die we B-groepen noemen. De nummering ervan wordt niet steeds op dezelfde manier consequent gevolgd maar dat is van weinig belang.
+
+
+n
+AI
+AII
+
+AIII
+AIV
+AV
+AVI
+AVII
+(0)
+1
+
+
+
+2
+
+
+B-groepen
+
+
+
+
+
+
+3
+
+
+
+
+
+
+
+
+
+4
+
+
+Sc
+Ti
+V
+Cr
+Mn
+Fe
+Co
+Ni
+Cu
+Zn
+
+3d
+
+
+
+
+5
+
+
+
+
+
+
+
+
+
+
+
+
+
+4d
+
+
+
+
+6
+
+
+La
+
+
+
+
+
+
+
+
+
+
+5d
+
+
+
+
+7
+
+
+Ac
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Na invullen van het 1ste element van het 5d-niveau (La) en van het 6d-niveau (Ac) worden respectievelijk de 4f en de 5f-niveaus ingeschoven. Om te vermijden dat de tabel hierdoor onhandig breed zou worden, worden deze twee reeksen van 14 elementen (genaamd naar hun 1ste vertegenwoordiger: de lanthaniden en de actiniden) afzonderlijk onderaan in de tabel geplaatst (zie hiervoor het volledig Periodiek Systeem). De elektronenconfiguratie van deze elementen is soms onlogisch maar dit heeft te maken met een gelijkaardig principe als wat we hebben uitgelegd bij de bespreking van de elementen Cr en Cu. Gezien we slechts weinig verbindingen aantreffen van deze elementen, laten we de elektronenconfiguratie ervan voor wat ze is.
+
+Het laatste natuurlijk voorkomend element is U(ranium). Zwaardere elementen worden transuranen genoemd doordat ze via kunstmatige radioactiviteit voor het eerst werden geproduceerd. Ze zijn allemaal sterk radioactief en enkel neptunium en plutonium bestaan voldoende lang om chemisch zinvol te zijn.
+3.3      Atoomafmetingen en ionisatie-energie
+
+In de volgende tabel en figuur zijn de atoomstralen weergegeven voor de elementen van de A-groepen voor de 6 eerste perioden. In de figuur zijn de getekende bollen een illustratie voor de grootte van de atoomstraal. Verwar dit niet met s-orbitalen.
+
+
+Atoomstralen in 10-12 m
+n=1
+H
+53,7
+
+
+
+
+
+
+
+
+
+
+
+
+He
+29,1
+n=2
+Li
+158,6
+Be
+104,0
+B
+77,6
+C
+62,0
+N
+52,1
+O
+45,0
+F
+39,6
+Ne
+35,4
+n=3
+Na
+171,3
+Mg
+127,9
+Al
+131,2
+Si
+106,8
+P
+91,9
+S
+81,0
+Cl
+72,5
+Ar
+65,9
+n=4
+K
+216,2
+Ca
+169,0
+Ga
+125,4
+Ge
+109,0
+As
+100,1
+Se
+91,8
+Br
+85,1
+Kr
+79,5
+n=5
+Rb
+228,7
+Sr
+183,6
+In
+138,2
+Sn
+124,0
+Sb
+119,3
+Te
+111,1
+I
+104,4
+Xe
+98,6
+n=6
+Cs
+251,8
+Ba
+206,0
+Tl
+131,9
+Pb
+121,5
+Bi
+129,5
+Po
+121,2
+At
+114,6
+Rn
+109,0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hieruit blijkt dat van boven naar onder in het Periodiek Systeem de atoomstralen toenemen. De toename is evenwel in belangrijke mate kleiner dan wat kan voorspeld worden uit het model van Bohr volgens r = n2 a0. Dit heeft te maken met het feit dat de elektronen van de hogere hoofdschalen een niet te verwaarlozen kans maken om dicht bij de kern te vertoeven en aldus sterker worden aangetrokken. In het deeltjesmodel wordt dit uitgelegd via de excentriciteit van de ellipsvormige baan waardoor de elektronen op ellipsvormige banen een belangrijk gedeelte van hun omwentelingstijd dichter bij de kern vertoeven.
+
+De atoomstraal van boven naar onder binnen eenzelfde groep in het periodiek 
+systeem neemt in beperkte mate toe
+
+
+Binnen eenzelfde periode merken we een afname van de atoomstraal. De elektronen bevinden zich immers in eenzelfde hoofdschaal op ongeveer dezelfde afstand van de kern. Omwille van de toenemende kernlading worden ze dan ook steviger gebonden.
+
+De atoomstraal van links naar rechts binnen eenzelfde periode van het periodiek 
+systeem neemt systematisch af
+
+
+Het is vanzelfsprekend dat hoe verder een elektron van de kern verwijderd is, hoe gemakkelijker het zal worden los gemaakt. We definiëren de 1ste ionisatie-energie als het energiebedrag dat nodig is om het laatst toegevoegde elektron uit het atoom te verwijderen. De 2de (en 3de ) ionisatie-energie is het bedrag nodig om het tweede (derde) laatste elektron te verwijderen.
+
+De tabel op de volgende pagina geeft deze waarden weer uitgedrukt in kJ per mol atomen. De energiehoeveelheden die dienen geïnvesteerd te worden om een elektron uit het atoom te verwijderen, zijn van de orde van de bindingsenergieën in moleculen (zie verder). Dit verklaart waarom het moeilijk is om atomen te ioniseren. Nochtans laten bepaalde atoomsoorten relatief gemakkelijk hun buitenste elektron wegnemen. Dit valt vooral op voor de elementen uit de groep Ia die slechts 1 elektron bezitten op hun buitenste schil. Wanneer dit elektron wordt weggenomen, dan bevat de ‘nieuwe’ buitenste schil 8 elektronen (s2 p6). Een configuratie met 8 elektronen op de buitenste schil (octetstructuur) levert (zoals reeds besproken) extra stabiliteit. 
+
+Even opmerkelijk is de hoge ionisatie-energie voor de elementen uit de 0-groep (edelgassen). Deze elementen bezitten reeds de octetstructuur en het verbreken ervan is energetisch zeer moeilijk. Dit is in mindere mate eveneens het geval voor de elementen N en P. Die bezitten een half gevuld p-niveau en zoals reeds vermeld, zorgt ook dit voor een stabielere elektronenconfiguratie. 
+
+Als algemene trend kan worden gesteld dat
+
+
+De eerste ionisatie-energie neemt toe van links naar rechts binnen eenzelfde 
+periode en neemt af van boven naar onder binnen eenzelfde groep in het periodiek systeem
+Ionisatie-energieën in kJ per mol atomen
+
+n = 1
+1ste IE
+2de IE
+
+
+n = 2
+1ste IE
+2de IE
+3de IE
+4de IE
+H
+1310,2
+
+
+
+Li
+519,5
+7288,1
+11798,7
+
+
+
+
+
+
+Be
+898,3
+1754,7
+14828,2
+20977,6
+
+
+
+
+
+B
+799,5
+2423,7
+3654,7
+24991,3
+
+
+
+
+
+C
+1084,9
+2349,4
+4614,1
+6214,1
+
+
+
+
+
+N
+1400,4
+2852,1
+4571,8
+7462,7
+
+
+
+
+
+O
+1312,1
+3383,6
+5293,1
+7458,9
+
+
+
+
+
+F
+1678,7
+3369,5
+6042,1
+8396,1
+He
+2369,0
+5243,3
+
+
+Ne
+2077,8
+3946,9
+6113,5
+9357,7
+
+n = 3
+1ste IE
+2de IE
+3de IE
+4de IE
+n = 4
+1ste IE
+2de IE
+3de IE
+4de IE
+Na
+495,2
+4556,1
+6900,7
+9530,2
+K
+418,2
+3047,6
+4413,5
+5868,8
+Mg
+736,7
+1448,7
+7722,0
+10527,9
+Ca
+589,0
+1143,9
+4905,6
+6481,6
+Al
+576,7
+1814,2
+2741,0
+11561,5
+Ga
+578,0
+1976,6
+2959,0
+6166,5
+Si
+785,4
+15745,0
+3227,1
+4349,5
+Ge
+761,1
+1535,3
+3297,6
+4404,5
+P
+1010,4
+1904,8
+2910,1
+4956,7
+As
+943,2
+1795,3
+2731,7
+4830,1
+S
+999,8
+2248,7
+3352,1
+4549,9
+Se
+939,7
+2041,7
+2969,6
+4137,8
+Cl
+1249,5
+2294,5
+3816,5
+5151,5
+Br
+1138,3
+2100,5
+3468,7
+4557,5
+Ar
+1518,5
+2662,2
+3925,4
+5762,8
+Kr
+1348,9
+2347,1
+3560,2
+5058,5
+
+
+Het wegnemen van een tweede elektron bij een atoom kost heel veel energie met uitzondering voor de elementen van de groep IIa. In dit geval wordt voor het resterend ion opnieuw de octetstructuur bekomen. De vorming van 3- en 4-waardige ionen is op enkele uitzonderingen na een nagenoeg onmogelijke zaak.
+
+
+3.4  Elektronenaffiniteit en elektronegativiteit
+
+Hoewel atomen elektrisch neutraal zijn, laat de kern voor de meeste atomen zijn aantrekkingskracht voor elektronen voelen tot voorbij de buitenste elektronenschil. Dit betekent dat i.p.v. er te verliezen een atoom nog een extra elektron kan opnemen. De energie die vrijkomt (dus negatief) bij het opnemen van een extra elektron wordt de elektronenaffiniteit genoemd. In de volgende tabel zijn deze energiewaarden uitgedrukt in kJ per mol.
+
+Het opnemen van een tweede elektron is voor alle atoomsoorten een endotherm proces waardoor de kans op vorming van een tweewaardig negatief ion zeer klein is. Op de vorming van ionen en de bijhorende oxidatietrappen wordt in volgend hoofdstuk verder ingegaan.
+
+
+
+Elektronenaffiniteit in kJ per mol
+n=1
+n=2
+n=3
+n=4
+n=5
+n=6
+H
+-72,7
+Li
+-59,5
+Na
+-52,8
+K
+-48,3
+Rb
+-46,8
+Cs
+-45,4
+
+
+Be
+-
+Mg
+-
+Ca
+-2,4
+Sr
+-4,6
+Ba
+-14,4
+
+
+B
+-26,7
+Al
+-42,5
+Ga
+-28,9
+In
+-28,9
+Tl
+-19,3
+
+
+C
+-121,7
+Si
+-133,4
+Ge
+-118,8
+Sn
+-107,1
+Pb
+-35,1
+
+
+N
+-
+P
+-71,9
+As
+-78,0
+Sb
+-100,8
+Bi
+-91,1
+
+
+O
+-140,8
+S
+-200,1
+Se
+-194,7
+Te
+-189,9
+Po
+-183,1
+
+
+F
+-327,7
+Cl
+-348,1
+Br
+-324,1
+I
+-294,7
+At
+-269,8
+He
+-
+Ne
+-
+Ar
+-
+Kr
+-
+Xe
+-
+Rn
+-
+
+
+Hieruit blijkt dat de grootste elektronenaffiniteit terug te vinden is bij de elementen uit groep IIVa (halogenen). Het opnemen van een extra elektron, levert aan die elementen immers de octetstructuur. De edelgassen die reeds over de octetstructuur beschikken, hebben geen nood aan een extra elektron. Algemeen kan worden vastgesteld dat
+
+De elementen rechtsboven in het Periodiek Systeem bezitten de hoogste
+ elektronenaffiniteit
+
+
+Uit het voorgaande bleek dat het al dan niet gemakkelijk afstaan van een elektron of het opnemen van een extra elektron het gevolg is van de drang van de atomen om de octetstructuur te bereiken. Dit levert een bolsymmetrische elektronenverdeling voor het atoom en een extra stabiliteit. De combinatie van deze twee aspecten levert een tabel van elektronegativiteitswaarden. De elektronegativiteit van een atoom wordt weergegeven in een relatief getal dat aangeeft hoe gemakkelijk dit atoom een elektron opneemt of afstaat. Hoe groter de elektronegativiteit, hoe gemakkelijker een extra elektron wordt opgenomen. Hoe lager deze waarde, hoe gemakkelijker een elektron wordt afgestaan.
+
+
+Elektronegativiteiten van de elementen van de A-groepen
+n = 1
+H
+2,20
+
+
+
+
+
+
+
+
+
+
+
+
+n = 2
+Li
+0,98
+Be
+1,57
+B
+2,04
+C
+2,55
+N
+3,04
+O
+3,44
+F
+3,98
+n = 3
+Na
+0,93
+Mg
+1,31
+Al
+1,61
+Si
+1,90
+P
+2,19
+S
+2,58
+Cl
+3,16
+n = 4
+K
+0,82
+Ca
+1,00
+Ga
+1,81
+Ge
+2,01
+As
+2,18
+Se
+2,55
+Br
+2,96
+n = 5
+Rb
+0,82
+Sr
+0,95
+In
+1,78
+Sn
+1,96
+Sb
+2,05
+Te
+2,10
+I
+2,66
+n = 6
+Cs
+0,79
+Ba
+0,89
+Tl
+1,80
+Pb
+1,80
+Bi
+1,90
+Po
+2,00
+At
+2,20
+n = 7
+Fr
+0,70
+Ra
+0,90
+
+
+
+
+
+
+
+
+
+
+

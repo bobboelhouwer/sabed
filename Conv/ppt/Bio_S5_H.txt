@@ -1,0 +1,520 @@
+Evolutie van
+ontwikkeling
+
+ Genetica
+
+Genotype-fenotype
+
+Evolutie van ontwikkeling
+
+Genen bepalen het fenotype
+• Verschillend fenotype door verschillende genen? nee
+• Verschillend fenotype door dezelfde genen die op een andere manier ingezet
+worden? ja
+
+Genen zijn zelfde, maar expressie is verschillend
+waardoor de ontwikkeling anders verloopt
+13 - 2
+
+zie Raven 25
+
+ Genetica
+
+Ontwikkelingsgenen
+
+Evolutie van ontwikkeling
+
+Ontwikkelingsgenen
+•
+•
+
+•
+
+•
+•
+
+•
+
+Genen die expressie van andere genen
+sturen: transcriptiefactoren
+Beperkt aantal types van genen (paar
+tiental families van genen) , vb. Hox of
+homeobox genen, MADS box genen
+Sterk geconserveerde genen die vaak
+terug te vinden zijn in genomen van
+zowel planten als dieren
+In totaal ongeveer 10% van het
+menselijke genoom
+Genen coderen voor proteinen met een
+homeodomein dat bindt aan DNA en
+daardoor genexpressie reguleert
+Meeste mutaties in dergelijke genen zijn
+letaal maar in sommige gevallen kunnen
+ze een evolutionair voordeel opleveren
+MADS box: SRF proteïne (‘serum response factor’)
+
+13 - 3
+
+zie Raven 25
+
+ Genetica
+
+‘Evo-devo’
+
+Evolutie van ontwikkeling
+
+‘Evolution of development’
+•
+•
+•
+•
+
+Verschillen tussen genen
+Verschillen in genexpressie
+Verschillen in ontwikkeling
+Evolutie van nieuwe fenotype’s
+
+Heterochronie
+•
+•
+
+genen komen op een ander moment in de
+ontwikkeling tot expressie
+Vb: mutatie in gen dat vorming van bloemen
+uitstelt zorgt voor vroegere bloei – dit kan een
+evolutionair voordeel zijn in poolgebieden
+
+Homeosis
+•
+•
+
+genen komen op een andere locatie in het
+ontwikkelend embryo tot expressie
+Vb: mutatie in Hox gen ‘Antennipedia’ zorgt
+ervoor dat antenne zich ontwikkelt tot poot in
+Drosophila
+
+13 - 4
+
+zie Raven 25
+
+ Genetica
+Evolutie van ontwikkeling
+
+Mutaties in transcriptiefactoren
+
+Wijzigingen in genexpressie door:
+• Mutatie in DNA-bindende regio van
+transcriptiefactor (transcriptiefactor bindt
+niet langer aan doelsequentie of bindt
+aan andere doelsequentie)
+• Mutatie in proteïne-bindende regio van
+transcriptiefactor
+• Mutatie in regulerende regio van
+doelsequenties
+Niet alleen interacties tussen
+transcriptiefactoren en genen binnen
+een cel zijn belangrijk, maar ook tussen
+verschillende cellen.
+
+13 - 5
+
+zie Raven 25
+
+ Genetica
+Evolutie van ontwikkeling
+•
+•
+•
+
+Initiatie van bloemvorming in planten
+
+Geïnitieerd door MADS-box genen
+Drie genen initiëren de vorming van vier
+types bloemdelen
+Het ABC model:
+•
+•
+•
+
+Klasse A: Apetala 1, Apetala 2
+Klasse B: Pistillata, Apetala 3
+Klasse C: Agamous
+
+•
+•
+•
+•
+
+A actief: kelkbladen
+A+B actief:
+kroonbladen
+B+C actief:
+meeldraden
+C actief: stamper
+
+•
+•
+•
+
+A mutant geen kelk en kroon
+B mutant enkel kelk en stamper
+C mutant meeldraden en stamper worden
+kroonbladen
+ABC mutant
+bloemdelen worden
+blaadjes
+
+•
+
+13 - 6
+
+zie Raven 25
+
+C mutant
+
+A mutant
+
+B mutant
+
+ABC mutant
+
+ Genetica
+Evolutie van ontwikkeling
+
+Invloed van mutaties op morfologie
+
+Ontstaan van bloemkool en broccoli:
+• Alle verschillende types kool behoren
+tot één enkele soort
+• In bloemkool en broccoli worden talrijke
+bloemen gevormd maar de
+ontwikkeling van de bloemen wordt
+geremd
+• Veroorzaakt door mutaties in genen
+Apetala1 en CAL (‘cauliflower’, stop
+codon in CAL gen)
+• Mutatie in Apetala1 zorgt ervoor dat
+meristemen niet differentiëren tot
+bloemen
+• Mutatie in CAL zorgt ervoor dat
+meristemen steeds nieuwe bloeiwijzen
+beginnen vormen
+
+Arabidopsis Apetala1 en CAL mutant
+13 - 7
+
+zie Raven 25
+
+ Genetica
+Evolutie van ontwikkeling
+
+Invloed van mutaties op morfologie
+
+Adaptieve radiatie van cichliden in Lake Malawi
+• Cychliden in Lake Malawi zijn zeer divers maar
+allemaal nauw verwant
+• Verschillen sterk in bouw van schedel
+• Deze verschillen zijn gerelateerd aan voedingswijze
+(predator, bodemwroeter, insekteneter, schubben-eter,
+…)
+• Vorm van kop wordt bepaald door twee genen
+• Kruisingsexperimenten tonen aan dat lengte/breedte
+verhouding van kop bepaald wordt door 1 gen
+
+13 - 8
+
+zie Raven 25
+
+ Genetica
+Evolutie van ontwikkeling
+
+Invloed van mutaties op morfologie
+
+Evolutie bij stekelbaars
+• Gasterosteus aculeatus komt voor in
+zowel zee als in zoetwater
+• Zoutwaterpopulaties zijn gepantserd (als
+bescherming tegen predatie),
+zoetwaterpoulaties zijn niet gepantserd
+• De afwezigheid van een pantser is te
+wijten aan een mutatie in één enkel gen,
+Eda of ectodysplasin, een
+signaalmolecule dat uitgescheiden wordt
+en zorgt voor de vorming van beenplaten
+bij de stekelbaars
+• De mutaties is zeldzaam bij mariene
+populaties; wanneer mariene populaties
+echter overgebracht worden naar
+zoetwater blijken nakomelingen met
+deze mutatie een hogere fitness te
+hebben
+
+13 - 9
+
+zie Raven 25
+
+ Genetica
+Evolutie van ontwikkeling
+
+Invloed van mutaties op morfologie
+
+Eda of ectodysplasin
+• Eda komt ook bij de mens voor en is gelegen op X chromosoom. Mutaties in Eda zorgen
+voor afwijkingen in huid, haar, tanden en bouw van het hoofd.
+
+13 - 10
+
+zie Raven 25
+
+ Genetica
+Evolutie van ontwikkeling
+
+Zelfde gen, andere functie
+
+Oude genen kunnen ingezet worden voor nieuwe functies
+• Dit kan verklaren waarom slechts 300 genen verschillend zijn tussen de mens en de muis:
+we hebben weliswaar dezelfde genen, maar deze genen worden gebruikt voor andere
+doeleinden
+• Brachyury is een transcriptiefactor van de T-box familie die voorkomt in invertebraten en
+vertebraten
+•
+•
+•
+
+13 - 11
+
+In C. elegans reguleert Brachyury de ontwikkeling van het uiteinde van de darm
+In tunicaten reguleert Brachyury de vorming van de notochord
+In zoogdieren reguleert Brachyury de vorming van de staart
+
+zie Raven 25
+
+ Genetica
+Evolutie van ontwikkeling
+
+Zelfde gen, andere functie
+
+Hoe kan éénzelfde gen de ontwikkeling op een andere manier beïnvloeden?
+• Ontwikkeling van de voorste ledematen bij de gewervelde dieren wordt gereguleerd door
+een ander T-box gen, Tbx5
+• Tbox5 activeert verschillende genen bij zoodieren en vogels
+
+13 - 12
+
+zie Raven 25
+
+ Genetica
+Evolutie van ontwikkeling
+
+Zelfde gen, andere functie
+
+Hoe kan éénzelfde gen de ontwikkeling op een andere manier beïnvloeden?
+• Mutaties in Tbx5 veroorzaken Holt-Oram syndroom bij de mens (afwijkingen in ledematen
+en hart), een dominante erfelijke afwijking
+
+13 - 13
+
+zie Raven 25
+
+ Genetica
+Evolutie van ontwikkeling
+
+Convergente functie, andere genen
+
+Convergente evolutie
+• Bepaalde morfologische kenmerken zijn
+meermaals in de evolutie ontstaan
+• Het is onduidelijk of dergelijke convergente
+evolutie het gevolg is van mutaties in dezelfde
+genen of mutaties in verschillende genen
+Patronen op vleugels van vlinders
+•
+•
+
+•
+•
+
+•
+
+Patronen op de vleugels van vlinders worden
+veroorzaakt door schubben
+Schubben zijn afgeleid van borstels, maar hebben
+verbinding met zenuwcel verloren en vorming van
+pigmenten toegevoegd
+Initiatie van borstel en schubben door zelfde
+transcriptiefactor
+Distal-less gen (een gen dat ook verantwoordelijk is voor
+ontwikkeling van poten) initieert vorming van oogvlekken
+op de vleugels
+Verschillende soorten vlinders gebruiken verschillende
+genen om patronen op vleugels te vormen
+
+13 - 14
+
+zie Raven 25
+
+ Genetica
+Evolutie van ontwikkeling
+
+Convergente functie, andere genen
+
+Radiaal versus bilateraal symmetrische bloemen
+• Bilateraal symmetrische bloemen imiteren insekten en trekken daardoor meer
+bestuivers aan
+• Bij leeuwebekjes veroorzaakt een mutatie in het CYC (Cycloidea) gen een verandering
+van een radiale naar een bilaterale symmetrie
+• Ook bij sommige andere bilateraal symmetrische (maar niet alle!) bloemen veroorzaken
+mutaties in hetzelfde gen dezelfde verandering naar een radiale symmetrie
+• Dit is een voorbeeld waarbij hetzelfde gen verantwoordelijk is voor convergente evolutie
+
+13 - 15
+
+zie Raven 25
+
+ Genetica
+Evolutie van ontwikkeling
+
+Convergente functie, andere genen
+
+Radiaal versus bilateraal symmetrische bloemen
+
+13 - 16
+
+zie Raven 25
+
+ Genetica
+Evolutie van ontwikkeling
+
+Duplicatie van genen tijdens evolutie
+
+Genen worden gedupliceerd tijdens de
+evolutie
+• Bij de voorouders van de bloeiende planten
+leidde duplicatie van een MADS-box gen tot
+twee genen: paleoAP3 (‘apetala’) en PI
+(‘pistillata’) – deze genen reguleren de
+ontwikkeling van meeldraden
+• Bij bepaalde groepen van bloeiende planten
+(de eudicotylen) trad een duplicatie van
+paleoAP3 op tot twee nieuwe AP3-genen:
+AP3 en AP3 duplicate – de ontwikkeling van
+de kroonbladeren verloopt bij de eudicotylen
+op een meer specifieke manier dan bij andere
+dicotylen
+• orthologen: vb. PI in magnolia, mais en
+klaproos
+• paralogen: vb. PI en paleoAP3
+
+13 - 17
+
+zie Raven 25
+
+ Genetica
+Evolutie van ontwikkeling
+
+Duplicatie van genen tijdens evolutie
+
+Paralogen kunnen na verloop van tijd een andere functie verkrijgen
+•
+•
+•
+•
+•
+
+AP3 en PI zijn paralogen: hebben ze ook een andere functie?
+Een mutant van AP3 zonder C-terminus kan geen kroon- of meeldraden meer vormen, ook al is een
+functionerende PI gen aanwezig
+Toevoeging van C-terminus van PI aan een mutant AP3 leidt tot gedeeltelijk herstel van de vorming van
+meeldraden maar niet van kroonbladeren
+AP3 en PI vormen een dimeer via een domein in hun C-terminus
+De C-terminus van AP3 zorgt voor ontwikkeling van kroonbladen (deletie van C-terminus leidt tot verlies
+van kroonbladeren in Arabidopsis) en speelt eveneens een rol in de vorming van meeldraden
+
+13 - 18
+
+zie Raven 25
+
+ Genetica
+Evolutie van ontwikkeling
+•
+•
+
+•
+
+Het ontstaan van ogen
+
+Ogen zijn bijzonder complexe structuren: als één onderdeel niet werkt, werkt het oog niet
+meer
+Darwin: hoe kan zo’n complexe structuur ontstaan door geleidelijke vernieuwing als vele
+gelijktijdige vernieuwingen nodig zijn om een oog te vormen? Als ook intermediaire
+overgangsvormen of onvolledige ogen beter zijn dan geen ogen…
+De ogen van dieren zijn zeer divers van vorm en functie en zijn minstens 20 keer
+onafhankelijk van elkaar ontstaan uit een gemeenschappelijke voorouder zonder ogen
+
+13 - 19
+
+zie Raven 25
+
+ Genetica
+Evolutie van ontwikkeling
+
+Het ontstaan van ogen
+
+Genen betrokken bij de vorming van ogen
+• Wetenschappers ontdekten transcriptiefactoren verantwoordelijk voor vorming van ogen:
+eyeless in Drosophila en Pax6 in de muis
+• Sequenering toonde aan dat beide genen vrijwel identiek waren of homoloog zijn
+• Pax6 uit een muis ingeplant in een transgene Drosophila kwam tot expressie in een poot en
+zorgde daar voor de vorming van een Drosophila-oog !
+
+13 - 20
+
+zie Raven 25
+
+ Genetica
+
+Het ontstaan van ogen
+
+Evolutie van ontwikkeling
+Genen betrokken bij de vorming van
+ogen
+• Pax6 speelt ook een rol bij de
+vorming van ogen in vissen
+• Vissen die in grotten leven hebben in
+de loop van de evolutie hun ogen
+verloren – in deze vissen is de
+expressie van Pax6 sterk onderdrukt
+
+13 - 21
+
+zie Raven 25
+
+ Genetica
+Evolutie van ontwikkeling
+
+Het ontstaan van ogen
+
+Genen betrokken bij de vorming van ogen
+• Expressie van Pax6 (aangetoond via fluorescent gemerkt antisense-RNA van Pax6) wordt
+waargenomen ter hoogte van regenerende oogvlekken in veterwormen (Lineus
+sanguineus)
+
+13 - 22
+
+zie Raven 25
+
+ Genetica
+Evolutie van ontwikkeling
+
+Het ontstaan van ogen
+
+Genen betrokken bij de vorming van ogen
+• Platwormen (Planaria) hebben wel een Pax6 gen, maar het inactiveren van Pax6
+interfereert niet met de vorming van oogvlekken in platwormen
+
+13 - 23
+
+zie Raven 25
+
+ 

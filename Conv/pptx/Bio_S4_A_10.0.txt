@@ -1,0 +1,811 @@
+Kanker en genetica
+
+  Oncogenese
+•
+
+Sporadische kankers (>90%)
+accumulatie van verworven
+mutaties, onder invloed van
+interne en externe factoren
+
+•
+
+Familiale kankersyndromen
+(kleine groep: <5%)
+overerfbare mutatie in 1 gen
++
+accumulatie van genetische defecten
+• hoger risico op bepaald type kanker
+• jongere leeftijd bij diagnose kanker
+• meervoudige kankers van zelfde type
+
+ Oncogenese
+
+ Kankercel
+•
+•
+•
+•
+
+Abnormale celgroei en deling
+Gestoorde regulering van apoptose
+Verminderde celdifferentiatie
+Mogelijkheid tot migratie (metastasering)
+
+ Kankercel
+Ontstaat door mutaties in genen die essentieel zijn voor het normaal
+gedrag van de cel
+• Proto-oncogenen: mutatie activeert het gen
+• Tumor-suppressorgenen: mutatie inactiveert het gen (vb bij borstkanker)
+• DNA-mismatch repair genen: mutatie inactiveert het gen (vb bij
+colonkanker)
+
+ Erfelijke kanker
+Overerfbare mutatie in 1 gen
+Bijkomende accumulatie van genetische
+defecten o.i.v.:
+• Fouten bij kopiëren DNA
+• Celmetabolisme
+• Externe factoren
+
+• hoger risico op bepaald type kanker
+• jongere leeftijd bij diagnose kanker
+• meervoudige kankers van zelfde type
+
+ Erfelijke kanker
+
+ Familiale kankersyndromen
+• Autosomaal recessief
+• Xeroderma pigmentosum (NER stoornis)
+• Bloom Syndroom, ...
+
+• Autosomaal dominant
+• Familiaal borst-ovariumcarcinoom
+• Familiale polyposis coli, HNPCC (Lynch), ...
+• Neurofibromatosis type 1 en 2, retinoblastoma,
+multiepele endocriene neoplasieën 1 en 2, ...
+
+ Familiale kankersyndromen
+• Autosomaal recessief
+• Xeroderma pigmentosum (NER stoornis)
+• Bloom Syndroom, ...
+
+• Autosomaal dominant
+• Familiaal borst-ovariumcarcinoom
+• Familiale polyposis coli, HNPCC (Lynch), ...
+• Neurofibromatosis type 1 en 2, retinoblastoma,
+multiepele endocriene neoplasieën 1 en 2, ...
+
+ Familiale kankersyndromen
+• Autosomaal recessief
+• Xeroderma pigmentosum (NER stoornis: herstel van DNA schade
+door UV)
+• Bloom Syndroom, ...
+
+ Familiale kankersyndromen
+• Autosomaal recessief
+• Xeroderma pigmentosum (NER stoornis)
+• Bloom Syndroom, ...
+
+• Autosomaal dominant
+• Familiaal borst-ovariumkanker
+• Familiale darmkanker (polyposis coli, HNPCC (Lynch), ...)
+• Neurofibromatosis type 1 en 2, retinoblastoma,
+multiepele endocriene neoplasieën 1 en 2, ...
+
+ I. Erfelijke Borst- en/of Ovariumkanker
+In de algemene populatie:
++/- 11% van de vrouwen ontwikkelt ooit in haar
+leven borstkanker
++/- 1,5% van de vrouwen ontwikkelt ooit in haar
+leven ovariumkanker
+Risicofactoren = multifactorieel
+Geslacht
+Leeftijd
+Hormonale factoren
+Leefwijze
+….
+Familiale voorgeschiedenis
+Erfelijkheid
+
+ Borstkankergenen
+ 1994: BRCA1 (op chromosoom 17)
+ 1995: BRCA2 (op chromosoom 13)
+
+Kinderen van dragers hebben 50 % risico om ook
+drager te zijn
+
+ BRCA1 en 2 genen
+
+ Risico’s op kanker bij dragers
+BRCA1
+
+BRCA2
+
+Borstkanker :
+60 à 80 % 60 à 80 %
+op 80 jaar op 80 jaar
+Ovariumkanker :
+
+30-40 %
+
+20-30 %
+
+Darmkanker, prostaatkanker komen iets frequenter voor dan in de
+algemene bevolking (6 %)
+
+ Risico’s op kanker bij dragers
+Cumulatieve
+Incidentie
+Borstcarcinoom
+50j
+
+BRCA1
+
+BRCA2
+
+0.49
+0.71
+
+0.28
+0.84
+
+70j
+Bilateraal
+BC
+70j
+OvariumCa
+50j
+
+0.64
+
+0.52
+
+Populatie
+Risico
+0.012
+0.052
+(0.110)
+-
+
+0.11
+0.29
+
+0.03
+0.27
+
+0.002
+0.009
+
+70j
+Man
+BC
+70j
+
+-
+
+0.06
+
+-
+
+ .
+
+Rebbeck T R JCO 2000;18:100-103
+
+©2000 by American Society of Clinical Oncology
+
+ Huidige gekende mutaties in volgende genen:
+BRCA1
+BRCA2
+CHEK2
+PALB2
+TP53
+PTEN
+STK11
+Mutaties in BRCA1 en BRCA2 worden vooral gevonden in de 5%
+met een uitgesproken familiale geschiedenis van borst- en/of
+eierstokkanker
+
+ CHEK2 gen?
+
+ Frequentie/Penetrantie van CHEK2
+c.1100delC
+
+Hoogste frequentie: Noord Europa
+- (Nl: 3.5%, Finland: 2.2%, Polen, UK: 1.2%, US: 1%)
+
+Laagste frequentie of niet teruggevonden: Azie
+
+Weischer et al, J Clin Oncol 2008 (26000 patiënten en 27000
+controles)
+
+ Mutaties in het CHEK2 gen
+• borst
+• melanoom
+• prostaat
+• CRC
+
+•1100del
+C
+
+1
+11
+
+2
+3
+4 5
+12 13 14 15
+
+• A17S
+
+• osteosarcoom
+
+• I157T
+• borst
+• melanoom
+• prostaat
+• CRC
+
+6
+
+7
+
+8
+
+9
+
+•S428F
+
+• borst -
+
+10
+•1422del
+T
+•“p53-achtig”
+
+Ashkenazi • poliepen
+• CRC
+• melanoom
+• borst
+• maag
+• long
+
+ CHEK2 (1100delC) mutatie
+• Frequentie in de populatie ongeveer 1/100
+dragers
+• Risico op borstkanker (bilateraal!): 30-40%
+• Prostaatkanker bij mannen
+
+ PARP inhibitie: nieuwe therapeutische strategie voor
+BRCA deficiënte cellen
+
+TURE |VOL 434 | 14 APRIL 2005 | www.nature.com/nature
+
+ • Ontwikkeling van nieuwe en specifieke chemotherapeutica
+voor borstkanker als gevolg van een deficiëntie van BRCA1
+of BRCA2
+• Recent geinplementeerd: testing van een genpanel op
+genomisch DNA alsook testen van de tumor zelf!
+
+ Wanneer is DNA onderzoek zinvol
+bij borst- en eierstokkanker?
+
+Kenmerken van erfelijke vormen van kanker ?
+1. Het komt in de familie voor
+
+ adviesvrager
+
+sporadisch
+
+familiaal
+
+ Wanneer is DNA onderzoek zinvol
+ij borst- en eierstokkanker?
+
+Kenmerken van erfelijke vormen van kanker ?
+1. Het komt in de familie voor
+2. Leeftijd van optreden: erfelijke vormen ontstaan
+(gemiddeld) vroeger in het leven
+
+  anneer is DNA onderzoek zinvol
+j borst- en eierstokkanker?
+
+Kenmerken van erfelijke vormen van kanker ?
+
+1. Het komt in de familie voor
+2. Leeftijd van optreden: erfelijke vormen ontstaan
+(gemiddeld) vroeger in het leven
+3. Voorkomen van eierstokkanker in de familie
+
+ eierstokkanker
+
+ anneer is DNA onderzoek zinvol
+j borst- en eierstokkanker?
+
+Kenmerken van erfelijke vormen van kanker ?
+
+1. Het komt in de familie voor
+2. Leeftijd van optreden: erfelijke vormen ontstaan
+(gemiddeld) vroeger in het leven
+3. Voorkomen van eierstokkanker in de familie
+4. Bilateraal voorkomen van borstkanker
+
+ Moeder bilateraal borstkanker op jonge leeftijd
+
+ anneer is DNA onderzoek zinvol
+j borst- en eierstokkanker?
+
+Kenmerken van erfelijke vormen van kanker ?
+
+1. Het komt in de familie voor
+2. Leeftijd van optreden: erfelijke vormen ontstaan
+(gemiddeld) vroeger in het leven
+3. Voorkomen van eierstokkanker in de familie
+4. Bilateraal voorkomen van borstkanker
+5. Man met borstkanker
+
+ Criteria voor diagnostisch onderzoek
+1. Vrouwen met borstkanker en 1 of meer van volgende kenmerken:
+• diagnose ≤ 35 jaar
+• diagnose ≤ 50 jaar én familielid met ovariumkanker of familielid met
+bilaterale borstkanker of familielid met borstkanker < 50
+jaar of mannelijk familielid met borstkanker
+• bilaterale borstkanker, beiden diagnose < 50 jaar
+• triple negatieve borstkanker < 50 jaar
+• 3 individuen met borstkanker waarvan 1 eerste graadsverwant is
+van de andere 2 en waarbij 1 individu < 50 jaar
+2.
+
+Vrouwen met ovariumkanker, ongeacht de leeftijd
+
+3.
+
+Mannen met borstkanker, ongeacht de leeftijd
+
+ Familiale BRCA – mutatie gevonden
+
+eierstokkanker
+
+risico ?
+
+=> predictief testen
+
+ Predictieve genetische test
+•
+
+Familiale BRCA mutatie is gekend: mogelijkheid tot DNAonderzoek bij symptoomloze personen voor opsporen van de
+pathogene mutatie: predictieve test
+
+•
+
+Genetische test bij niet aangetaste verwant
+– raadpleging geneticus voor medische informatie
+– counseling bij psycholoog (indien nodig)
+– bloedname voor analyse (+bespreking van risico’s)
+– raadpleging geneticus voor bespreking resultaat
+• bespreking praktische aspecten van opvolging
+• bespreking medico-legale aspecten
+• psycho-sociale follow-up (indien nodig)
+
+ Risico’s op kanker bij dragers
+BRCA1
+
+BRCA2
+
+Borstkanker :
+60 à 80 %
+60 à 80 %
+op 80 jaar
+op 80 jaar
+Ovariumkanker : 30-40 %
+
+20-30 %
+
+Darmkanker, prostaatkanker komen iets frequenter
+voor dan in de algemene bevolking (6 %)
+
+ Preventieve maatregelen voor
+draagsters
+(borsten)
+1. Vroege opsporing
+
+15 à 20 % overlijden
+(vanaf 30 j)
+
+• klinisch onderzoek (om de 6 maand)
+• mammografie en echografie (om het jaar), > 30
+jaar
+• magnetische scanner (NMR)
+• borstzelfonderzoek (maandelijks)
+Ingrijpend
+
+2. Preventieve heelkunde
+• bilaterale mastectomie met reconstructie
+
+ Preventieve maatregelen voor
+draagsters
+(ovaria)
+Lage betrouwbaarheid
+
+1. Vroege opsporing
+• Klinisch onderzoek + bloedname (om de 6
+maand)
+• Vaginale echografie (om de
+6 maand)
+Menopauze
+
+2. Preventieve heelkunde
+Salpingo-ovariëctomie,
+evt. gevolgd door hormonale substitutie therapie
+tot 50 j
++ extra voordeel mbt borstkanker !
+
+ Preventieve maatregelen voor mannelijke
+dragers
+• Preventieve strategie
+• Jaarlijks onderzoek naar prostaatcarcinoom vanaf de leeftijd
+van 40 jaar
+• BRCA2: vanaf 40 jaar: klinische evaluatie borstklierweefsel,
+indien aanwezig: opvolging met mammografie
+
+ BRCA testing
+Indien er geen mutatie wordt gedetecteerd (~ 80%)
+– beleid baseren op statistische risico’s
+• computer programma's, tabellen van Claus.
+• vanaf risico van 20% op borstkanker ook intensievere
+opvolging aangewezen
+
+  Wet betreffende de rechten van de
+patient (26/09/2002) (http://www.staatsblad.be)
+•
+
+Art. 19. Artikel 95 van de wet van 25 juni 1992 op de
+
+landverzekeringsovereenkomst wordt vervangen door de
+volgende bepaling :
+« Art. 95. - Medische informatie - De door de verzekerde gekozen arts kan de verzekerde
+die erom verzoekt de geneeskundige verklaringen afleveren die voor het sluiten of het
+uitvoeren van de overeenkomst nodig zijn. Deze verklaringen beperken zich tot een
+beschrijving van de huidige gezondheidstoestand.
+Deze verklaringen mogen uitsluitend aan de adviserend arts van de verzekeraar worden
+bezorgd. Deze mag de verzekeraar geen informatie geven die niet-pertinent is gezien het
+risico waarvoor de verklaringen werden opgemaakt of betreffende andere personen dan
+de verzekerde.
+
+Het medisch onderzoek, noodzakelijk voor het
+sluiten en het uitvoeren van de overeenkomst,
+kan slechts steunen op de voorgeschiedenis
+van de huidige gezondheidstoestand van de
+kandidaat-verzekerde en niet op technieken
+van genetisch onderzoek die dienen om de
+toekomstige gezondheidstoestand te bepalen.
+Mits de verzekeraar aantoont de voorafgaande toestemming van de verzekerde te
+
+ Aanvullende algemene informatie
+
+ Voorbeeld opvolgschema BRCA1
+
+ Interessante websites voor bijkomende
+informatie...
+www.borstkanker.net
+www.uzleuven.be/centrum-menselijke-erf
+elijkheid/brochures
+www.brca.be
+
+  II. Colorectale kanker
+
+1-5%
+
+Hereditary Non-Polyposis Colon Cancer (HNPCC of Lynch syndroom)
+
+< 1%
+
+Familiale Adenomateuse Polypose (FAP), Juveniele polypose, Peutz-Jeg
+
+• + 25% familiaal
+• 75%
+
+sporadisch
+
+ Hereditary Non-Polyposis Colon Cancer
+HNPCC
+Lynch syndroom
+klinisch syndroom met een autosomaal dominant
+overervingspatroon en voorbeschiktheid voor
+colonkanker
+Risico algemeen bevolking = 5,5%
+Risico dragers van HNPCC mutatie = 80%
+
+ Hereditary Non-Polyposis Colon Cancer
+HNPCC
+Lynch syndroom
+74+
+
+78
+
+69+
+
+80+
+
+79
+
+77+
+
+75
+
+72
+
+CRC 45j
+Pancreas Ca 68j
+
+47+
+
+56
+
+Ovarium 45j
+
+34
+20
+
+29
+16
+
+54
+
+CRC 55j
+
+22
+20
+
+CRC 53j
+
+20
+
+17
+
+45
+????
+
+15
+
+24
+
+46
+
+42
+????
+
+4
+
+ Hereditary Non-Polyposis Colon Cancer
+HNPCC
+Lynch syndroom
+Voorbeschiktheid op kankers
+Kanker type
+Colon
+Baarmoeder
+Ovarium
+Maag
+Urinair
+Lever/Gal
+Hersenen
+
+algemeen dragers
+5,5%
+80%
+2,7%
+30-40%
+1,6%
+5-10%
+<1%
+11-19%
+<1%
+4-5%
+<1%
+2-7%
+<1%
+1-3%
+
+ Hereditary Non-Polyposis Colon Cancer
+HNPCC
+Lynch syndroom
+Klinisch syndroom met autosomaal dominante voorbeschiktheid
+voor colonkanker
+Gemodificeerde Amsterdam criteria
+• Ten minste drie dichte verwanten met CRC of HNPCC
+kanker (endometrium, urologisch tract , dundarm)
+• EN één is een eerstegraadsverwant van de twee andere
+• EN ten minste 2 generaties
+• EN diagnose in ten minste 1 < 50j
+• EN pathologie van alle tumoren
+• EN FAP uitgesloten
+
+ Hereditary Non-Polyposis Colon Cancer
+HNPCC
+Lynch syndroom
+Genen bij HNPCC
+DNA repair genen
+•
+•
+•
+•
+
+MLH1
+MSH2
+MSH6
+PMS2
+
+ Hereditary Non-Polyposis Colon Cancer
+HNPCC
+Lynch syndroom
+Genen bij HNPCC
+DNA repair genen
+•
+•
+•
+•
+
+MLH1
+MSH2
+MSH6
+PMS2
+
+ Hereditary Non-Polyposis Colon Cancer
+HNPCC
+Lynch syndroom
+
+diagnostiek
+
+•
+
+Klinische criteria: opmaak van familiestamboom +
+Amsterdam-criteria
+
+•
+
+Onderzoek van tumorweefsel van een aangetast familielid
+(geeft aan of verder DNA-onderzoek zinvol is): MSI en IHC
+
+•
+
+Bloedonderzoek DNA-onderzoek bij één of meerdere
+aangetaste personen in de familie: diagnostische test
+
+•
+
+Indien diagnostische test informatief: predictief onderzoek
+kan opgestart worden bij niet-aangetaste familieleden
+
+ Hereditary Non-Polyposis Colon Cancer
+HNPCC
+Onderzoek van tumorweefsel van een aangetast familielid
+(geeft aan of verder DNA-onderzoek zinvol is): MSI en IHC
+MicroSatelliet Instabiliteit in tumor (MSI)
+
+G A
+| |
+C T
+
+hMSH2 gen
+humaan MutS homoloog 2
+hMLH1 gen
+humaan MutL homoloog 1
+
+DNA-mismatch repair genen
+Sancar A. Nat. Genet 21: 247-249, 1999
+
+ Onderzoek van tumorweefsel van een aangetast familielid
+(geeft aan of verder DNA-onderzoek zinvol is): MSI en IHC
+MicroSatelliet Instabiliteit in tumor (MSI)
+10 X CA
+catgactgtcaattgcctga cacacacacacacacacaca cgtatgctagctagctgct
+gtactgacagttaacggact gtgtgtgtgtgtgtgtgtgt gcatacgatcgatcgacga
+
+13 X CA
+catgactgtcaattgcctga cacacacacacacacacacacacaca cgtatgctagctagctgct
+gtactgacagttaacggact gtgtgtgtgtgtgtgtgtgtgtgtgt gcatacgatcgatcgacga
+
+Bij de celdeling kijkt men naar onregelmatigheden in het
+overschrijven van kleine stukjes DNA: opeenstapeling van foutjes
+wijst heel waarschijnlijk op Lynch syndroom
+MSI: kan wijzen op onderliggende stoornis in DNA-mismatch repair
+
+ Onderzoek van tumorweefsel van een aangetast familielid
+(geeft aan of verder DNA-onderzoek zinvol is): MSI en IHC
+MicroSatelliet Instabiliteit in tumor (MSI)
+
+nl
+
+Tumo
+r
+
+ Hereditary Non-Polyposis Colon Cancer
+HNPCC
+
+Immuno-histochemisch onderzoek (IHC):
+Eiwit: aantoonbaar dmv immuno-histochemische kleuring, is één of meerdere
+eiwitten niet aankleuren: vermoeden van een mutatie in het gen
+
+ Hereditary Non-Polyposis Colon Cancer
+HNPCC
+
+Indien MSI analyse en IHC aantonen dat er mogelijks een een DNA
+mismatch defect is, gaan we DNA onderzoek opstarten.
+Dit gebeurt heden via een gen-panel.
+
+ Hereditary Non-Polyposis Colon Cancer
+HNPCC
+Lynch syndroom
+
+• Familiale mutatie in MMR gen gekend
+predictieve genetische testing
+opvolging mutatie positieve individuen
+• Geen familiale mutatie gekend
+opvolging van alle verwanten
+
+ Hereditary Non-Polyposis Colon Cancer
+HNPCC
+Lynch syndroom
+opvolging
+• Coloscopie minimum om de 2 jaar vanaf 25 jaar (liefst
+jaarlijks)
+• Vrouwen (vanaf 30 jaar: jaarlijks gynaecologisch onderzoek):
+– Screening voor baarmoedercarcinoom
+– Screening voor ovariumcarcinoom
+– Profylactische totale hysterectomie rond de leeftijd van 45j
++ eileiders en eierstokken
+• Maag?
+• Urotheelcelkankers: screening met echo en cytologie van
+urine als dit type van kanker aanwezig is in familie
+• In specifieke gevallen: preventieve heelkunde
+– Colectomie, hysterectomie en ovariectomie
+
+ Familiale adenomateuze polyposis
+coli (FAP)
+•
+•
+•
+•
+•
+•
+
+Autosomaal dominante aandoening
+mutatie in APC gen (90% )
+Symptomen op kinderleeftijd
+Poliepen
+Opvolging te starten vanaf 10-12j
+Belangrijke preventieve maatregelen
+– totale colectomie dikwijls op jongvolwassen leeftijd
+(ileoanale anastomose)
+
+ Tumor suppressor gen
+
+  Familiale adenomateuze polyposis coli (FAP)
+
+Poliepen
+
+CHRPE (congenital
+hypertrophy of the
+retinal pigment)
+
+ Familiale adenomateuze polyposis coli (FAP)
+• Genetische testing vanaf 10-12j
+• multidisciplinaire werkgroep
+– genetici, gastroenterologen, pediatrische
+gastroenterologen, chirurgen, psychologen,
+kinderpsychiater
+• Genetische testing is soms de enige manier om iemand
+daarna te motiveren om aan preventie te doen
+
+ Familiale adenomateuze polyposis coli (FAP)
+opvolging
+• Coloscopie elke 2 jaar vanaf de leeftijd van 10-12 jaar
+• Colectomie: ileo-rectaal of ileo-anale anastomose
+– Meestal op de leeftijd van 20 jaar
+• Esophago-gastroduodenoscopie vanaf de leeftijd van 30 jaar
+(polypectomie)
+• AFAP (mildere vorm): coloscopie elke 2 jaar vanaf de leeftijd
+van 20 jaar
+• Prenatale of pre-implantatie genetische diagnose
+
+ 

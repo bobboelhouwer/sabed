@@ -1,0 +1,608 @@
+Mendeliaanse erfelijkheid
+- Monogeen
+- autosomaal dominant
+- autosomaal recessief
+- X-gebonden
+- Polygeen/multifactorieel
+
+Niet-Mendeliaanse erfelijkheid
+- Mitochondriële erfelijkheid
+- Onstabiele trinucleotide repeats
+- Mosaicisme
+- Genomische imprinting & epigenetische erfelijkheid
+- Uniparentele disomie
+
+ Niet-Mendeliaanse erfelijkheid
+- Mitochondriële erfelijkheid
+- Onstabiele trinucleotide repeats
+- Mosaicisme
+- Genomische imprinting & epigenetische erfelijkheid
+- Uniparentele disomie
+
+  Mitochondrieel DNA
+
+•
+•
+•
+•
+•
+
+Circulair genoom, dsDNA
+13 coderende genen: eiwit
+24 genen: RNA
+meedere (5-10) per mitochondrium
+>100 mitochondriën/cel
+
+   OVERERVINGSPATROON VAN MITOCHONDRIELE AANDOENING
+• exclusief van moeder op kind
+• alle kinderen aangedaan, ernst in funktie van de verhouding heteroplasmie
+• weefsels die veel energie nodig hebben
+
+ OVERERVINGSPATROON VAN MITOCHONDRIELE AANDOENING
+
+Heteroplasmie = mosaicisme op niveau van mitochondriëel genoom :
+- verschillen tussen mitochondriën in één cel
+- verschillen tussen verschillende weefsels
+
+ Heteroplasmie
+
+Ernstig aangedaan kind, hoge
+lading mutante mitochondrieen
+
+Mild aangedaan kind, lage
+lading mutante mitochondrieen
+
+Normaal kind, zeer lage
+lading mutante mitochondrieen
+
+ Niet-Mendeliaanse erfelijkheid
+- Mitochondriële erfelijkheid
+- Onstabiele trinucleotide repeats- dynamische mutatie
+- Mosaicisme
+- Genomische imprinting & epigenetische erfelijkheid
+- Uniparentele disomie
+
+ Onstabiele trinucleotide repeats- dynamische mutatie
+
+Aaneenschakeling van DNA triplet repeats in of nabij een gen
+kan een effect hebben op de expressie van het gen:
+bv. CTG, CGG, CAG … repeats
+Repeats komen voor in de normale bevolking
+Lengte van de repeat → ontstaan van ziekte
+
+ Onstabiele trinucleotide repeats- dynamische mutatie
+
+1. Ziekte van Huntington
+2. Myotone dystrofie of
+Ziekte van Steinert
+
+3. Fragiele X syndroom
+
+ 1. ZIEKTE VAN HUNTINGTON
+snelle dementie, karakterveranderingen en motorische bewegingsstoornis
+
+CAG repeat
+
+5’
+
+> 39 :
+
+- onstabiel
+- ziek
+
+6-35 :
+
+- stabiel
+- niet ziek
+
+3’
+
+EXON
+
+mRNA
+eiwit :poly-Gln
+
+ ZIEKTE VAN HUNTINGTON
+snelle dementie, karakterveranderingen en motorische bewegingsstoornis
+
+ ZIEKTE VAN HUNTINGTON
+
+Lengte van de repeat
+
+→ vroeger ontstaan van ziekte
+
+ MYOTONE DYSTROFIE of ZIEKTE VAN STEINERT
+progressieve spierziekte
+
+ziek (200-2000)
+
+premutatie- drager (42-90)
+normaal (3-40)
+
+5’
+
+3’
+CTG repeat
+3’UTR
+
+ MYOTONE DYSTROFIE of ZIEKTE VAN STEINERT
+
+adulte vorm
+
+ MYOTONE DYSTROFIE of ZIEKTE VAN STEINERT
+
+kinderleeftijd
+
+ MYOTONE DYSTROFIE of ZIEKTE VAN STEINERT
+
+congenitale vorm
+
+ MYOTONE DYSTROFIE of ZIEKTE VAN STEINERT:
+Anticipatie: leidt tot toenemende ernst!
+Moeder kan slechts een milde expressie hebben!
+
+ FRAGIELE-X SYNDROOM : verstandelijke beperking
+
+CGGCGGCGG CGGCGGCGG
+CGGCGGCGG CGGCGGCGG
+CGGCGGCGG CGGCGGCGG
+CGGCGGCGG CGGCGGCGG
+CGGCGGCGG CGGCGGCGG
+CGGCGGCGG CGGCGGCGG
+CGGCGGCGG CGGCGGCGG
+CGGCGGCGG CGGCGGCGG
+CGGCGGCGG CGGCGGCGG
+CGGCGGCGG CGGCGGCGG
+CGGCGGCGG CGGCGGCGG
+CGGCGGCGG CGGCGGCGG
+CGGCGGCGG CGGCGGCGG
+CGGCGGCGG CGGCGGCGG
+CGGCGGCGG CGGCGGCGG
+CGGCGGCGG CGGCGGCGG
+CGGCGGCGG CGGCGGCGG
+CGGCGGCGG CGGCGGCGG
+
+DNA : (CGG)n
+Licht microscoop
+
+Electronen microscoop
+
+cytogenetisch
+
+ FRAGIELE-X SYNDROOM
+
+(CGG)n
+Volledige mutatie (>200) - onstabiel
+- fragiliteit X-chr.
+- genexpressie afwezig
+- fragiele X syndroom
+Premutatie (55-200)
+
+- onstabiel
+- normaal fenotype
+
+Normaal (<55) - stabiel, normaal fenotype
+FMR 1
+
+5’
+5’ UTR
+
+3’
+
+  FRAGIELE-X SYNDROOM
+< 55 CGG herhalingen
+
+FMR-1 gen
+
+NORMAAL
+
+55 - 200 CGG herhalingen
+
+FMR-1 gen
+
+PRE-MUTATIE
+
+> 200 CGG herhalingen
+
+MUTATIE
+
+FMR-1 gen
+
+methylatie
+
+   FRAGIELE-X SYNDROOM
+
+ Niet-Mendeliaanse erfelijkheid
+- Mitochondriële erfelijkheid
+- Onstabiele trinucleotide repeats
+- Mosaicisme
+- Genomische imprinting & epigenetische erfelijkheid
+- Uniparentele disomie
+
+  Kerntransplantatie experimenten
+
+ Normaal
+
+= maternele pronucleus
+= paternele pronucleus
+
+Gynogenoten
+
+* embryo : +/- normaal
+* placenta & dooierzak: +/- afwezig
+mens: teratoma
+
+Androgenoten
+
+* embryo : +/- afwezig
+* placenta & dooierzak: +/-normaal
+mens: mola hydatiformis
+
+ Mola hydatiformis
+
+Teratoma
+
+ GENOMISCHE IMPRINTING
+Genomische imprinting is een genetisch fenomeen dat voor een klein
+percentage van de genen in het genoom telt (<1%). Het bestaat eruit dat
+de aktiviteit van een gen afhankelijk is of het overgeërfd werd van vader
+of van moeder
+maternele imprinting
+* het vaderlijke gen is aktief
+* het moederlijke gen is niet aktief
+paternele imprinting
+* het vaderlijke gen is niet aktief
+* het moederlijke gen is aktief
+
+ GENOMISCHE IMPRINTING
+Mechanisme: methylatie van cytosine door specifieke enzymes
+
+ GENOMISCHE IMPRINTING
+Gemethyleerd DNA → gecondenseerd chromatine → gen silencing
+
+ = methylgroep
+
+CG-eiland
+
+5’
+
+3’
+Maternele gen: gemethyleerd, en dus INaktief
+
+mRNA
+CG-eiland
+
+5’
+
+3’
+Paternele gen: niet gemethyleerd, en dus aktief
+
+ Imprinting & methylering
+1. Aanwezig in de geslachtscellen
+2. Mitose overleven
+3. Genexpressie reguleren
+4. Reversiebel
+5. Beperkt aantal regio’s waar imprinting optreedt
+
+ Lichaamscel
+
+chr11
+
+= maternele imprint
+= paternele imprint
+
+p m
+
+chr11
+
+chr11
+
+pp
+
+mm
+Kiemcellijn
+
+Kiemcellijn
+chr11
+
+chr11
+
+ VADER
+aktief
+
+MOEDER
+aktief
+
+niet aktief
+p
+
+niet aktief
+p
+
+m
+
+m
+
+eicel
+
+zaadcel
+aktief
+
+niet
+aktief
+
+aktief
+p
+
+niet
+aktief
+m m
+
+p
+
+KIND
+aktief
+
+niet aktief
+p
+
+m
+
+ GENOMISCHE IMPRINTING :
+FYSIOLOGISCHE BETEKENIS?
+
+ “THE BATTLE OF SEXES” hypothese
+(Haig and Westoby, 1989)
+Conflict tussen materneel en paterneel genoom
+over de groei van embryo en foetus
+moeder : groei beperken, voor volgende zwangerschap
+vader : maximale groei = maximale overlevingskansen
+
+ HET PRADER-WILLI SYNDROOM
+HET ANGELMAN SYNDROOM
+als imprinting fout loopt
+
+ PRADER-WILLI SYNDROOM
+zuigeling :
+- uitgesproken hypotonie
+- voedingsmoeilijkheden
+
+vanaf 1 à 2 jaar :
+- obesitas (onverzadigbare eetlust)
+- vertraagde ontwikkeling
+- onderontwikkelde geslachtsorganen
+- gedragsproblemen
+
+ ANGELMAN SYNDROOM
+Progressieve microcefalie (kleine hoofdomtrek)
+Ernstige verstandelijke beperking
+Ataxie
+Epilepsie
+“Happy puppet”
+
+ REGIO OP CHROMOSOOM 15q11-13
+
+cen
+
+ZNF127
+
+NECDIN
+
+SNRPN
+
+PAR-5
+
+PAR-1
+
+UBE3A
+
+imprinting center
+
+Paterneel aktief
+
+Materneel aktief
+
+tel
+
+ PRADER-WILLI SYNDROOM
+
+normale situatie
+
+paterneel
+
+materneel
+
+aktief
+
+niet aktief
+p
+
+m
+
+chromosoom 15
+
+ PRADER-WILLI SYNDROOM
+
+1. Oorzaak PWS = microdeletie van dit fragmentje van het chromosoom
+
+paterneel
+
+materneel
+
+aktief
+
+niet aktief
+p
+
+m
+
+chromosoom 15
+
+ PRADER-WILLI SYNDROOM
+
+2. Oorzaak PWS = maternele uniparentele disomie chromosoom 15
+
+materneel
+
+materneel
+
+niet aktief
+
+niet aktief
+m
+
+m
+
+chromosoom 15
+
+ normaal
+m p
+
+= paterneel chr.
+= materneel chr.
+
+uniparentele disomie
+
+p p
+
+paterneel
+
+m m
+
+materneel
+
+ TRISOMIE 15
+
+Maternele non-disjunction
+(meiosis I fout)
+
+normale zaadcel
+
++
+
+47,XX,15+ = NIET leefbaar
+
+ HERSTEL VAN TRISOMIE : verlies van één chr. 15
+
+A.
+
+B.
+
+46,XXU
+UPD15mat
+
+* al of niet met mosaicisme voor trisomie 15
+afhankelijk van tijdstip en weefsel distributie
+
+46,XX
+NORMAAL
+
+  PRADER-WILLI SYNDROOM
+
+3. Oorzaak PWS = mutatie imprinting centre
+
+paterneel
+
+materneel
+
+niet aktief
+
+niet aktief
+p
+
+m
+
+chromosoom 15
+
+ ANGELMAN SYNDROOM
+
+normale situatie
+
+paterneel
+
+materneel
+UBE3A
+niet-aktief
+
+aktief
+
+p
+
+m
+
+chromosoom 15
+
+ ANGELMAN SYNDROOM
+
+1. Oorzaak AS: microdeletie van fragment chromosoom
+
+paterneel
+
+materneel
+UBE3A
+niet-aktief
+
+aktief
+
+p
+
+m
+
+chromosoom 15
+
+ ANGELMAN SYNDROOM
+
+2. Oorzaak AS = paternele uniparentele disomie chromosoom 15
+
+paterneel
+
+paterneel
+
+UBE3A
+niet-aktief
+
+niet-aktief
+
+p
+
+m
+
+chromosoom 15
+
+ ANGELMAN SYNDROOM
+
+3. Oorzaak AS = mutatie imprinting centre
+
+paterneel
+
+materneel
+UBE3A
+niet-aktief
+
+niet-aktief
+
+p
+
+m
+
+chromosoom 15
+
+ ANGELMAN SYNDROOM
+
+4. Oorzaak AS = mutatie UBE3A gen
+
+paterneel
+
+materneel
+UBE3A
+niet-aktief
+
+niet-aktief
+
+p
+
+m
+
+chromosoom 15
+
+  

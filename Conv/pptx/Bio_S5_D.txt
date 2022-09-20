@@ -1,0 +1,207 @@
+Genetica van bacteriën
+en virussen
+
+ Werken met bacteriën
+• grote populaties: zeldzame verschijnselen komen vrij
+frequent voor
+
+ Conjugatie
+• voortplanting door celdeling: geen
+uitwisseling genetisch materiaal
+• uitzonderlijk toch uitwisseling
+genen mogelijk
+
+ Conjugatie
+• uitwisseling genen vereist
+fysisch contact
+
+ Conjugatie
+• F+ en F- stammen (F plasmide)
+• doorgeven F plasmide vanaf punt O
+
+ Conjugatie
+Hfr stammen: integratie
+F plasmide in genoom
+
+ Conjugatie
+• integratie/excisie
+plasmide via homologe
+recombinatie
+
+ Conjugatie
+• doorgeven van genen
+door Hfr stam
+• uitwisseling genen
+tussen exogenoot en
+endogenoot
+
+ Conjugatie
+• bacterie overleeft enkelvoudige
+recombinatie niet!
+• dubbele recombinatie vereist
+
+ Conjugatie: genkartering
+Genkartering ~ tijdstip waarop gen wordt doorgegeven
+
+ Conjugatie: genkartering
+Genkartering ~
+frequentie waarmee
+verschillende genen
+samen worden
+doorgegeven
+
+5%
+
+10%
+
+85%
+
+zeer
+zeldzaam!
+
+ Gentransfer via plasmiden
+
+ Horizontale gentransfer via
+plasmiden
+• R plasmide
+(resistentiegenen)
+• ‘superbugs’
+
+ Transformatie
+Bacteriën nemen vrij DNA
+op uit omgeving
+
+ Transformatie
+Uitwisseling genen met genoom via recombinatie
+
+ Transformatie
+Transformatie leverde bewijs
+dat DNA drager is van
+genetische informatie
+(experimenten Griffith)
+
+ Virussen
+Virussen of fagen:
+- erfelijk materiaal (ssDNA,
+dsDNA, ssRNA, dsRNA)
+- proteïnemantel
+Lytische cyclus
+
+ Corona virus
+• proteïnen in mantel
+binden aan specifieke
+receptoren in
+cytoplasmamembraan van
+de cellen in de
+longblaasjes
+• ssRNA wordt
+binnengebracht in de cel
+• ssRNA bindt aan
+ribosomen en vormt
+proteïnen:
+• RNA polymerase dat
+kopieën maakt van het
+ssRNA
+
+ Virussen
+Lysis veroorzaakt
+plaques
+
+ Virussen: veralgemeende
+transductie
+
+ Virussen
+Recombinatie tussen
+virussen tijdens
+infectie van bacterie
+(kartering van viraal
+genoom)
+
+ Virussen
+Lysogene cyclus: profaag
+Inductie van profaag: lytische
+cyclus
+
+ Virussen – gespecialiseerde
+transductie
+
+ Retrovirus
+• Reverse
+transcriptase:
+RNA → DNA
+• DNA = provirus
+
+ Retrotransposon
+Proteïnemantel
+ontbreekt: enkel
+reproductie binnen cel en
+binnen genoom
+
+ DNA transposons
+Autonome elementen
+(transposase actief)
+Niet-autonome
+elementen (transposase
+gemuteerd)
+
+ Transposons en mutaties
+• onstabiel fenotype
+• autonome versus nietautonome elementen
+
+ Transposon en mutaties
+Onstabiel fenotype
+
+ Transposons en repressor proteïnen
+P elementen in
+Drosophila
+- P cytotype
+- M cytotype
+
+ Transposons en repressor proteïnen
+
+ Transposons en gentechnologie
+P elementen
+- gen + promotor wordt
+ingebouwd in transposon
+- plasmide wordt
+ingebouwd in genoom
+d.m.v. transposase
+
+ Transposons en gentechnologie
+Sleeping beauty
+transposon
+- gen + promotor wordt
+ingebouwd in transposon
+- plasmide wordt
+ingebouwd in genoom
+d.m.v. transposase
+
+ Transposon en identificatie van
+genen
+• random mutagenese
+d.m.v. transposons
+• selectie van fenotypes
+• sequenering van genen
+(gebruik sequentie van
+transposon als primers)
+
+ Variatie in genoomgrootte
+Nauw verwante soorten hebben verschillende
+genoomgrootte
+
+ Variatie in genoomgrootte
+Niet-actieve
+transposons en
+retrotransposons in
+menselijk genoom
+
+ Functie van transposons?
+• parasitair DNA heeft baat
+bij gezonde gastheer
+• nestelen zich in in safe
+havens
+• mogelijk rol bij generen
+van mutaties (genen van
+immuunsysteem)
+
+ 

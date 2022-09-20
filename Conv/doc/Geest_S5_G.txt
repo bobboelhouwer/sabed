@@ -1,0 +1,30 @@
+﻿Les 8 – schema
+    1. Inleiding
+
+    2. Analyses van tekststructuur
+        a. Natural Narrative
+            i. Labov, Waleztky; structuurelementen
+        b. Media Studies
+            i. Bell; newsbericht als verhaal; structuurelementen
+            ii. Illustratie
+        c. Formalisme en structuralisme
+            i. Propp; sprookjes; karaktertypes en scenes
+            ii. Barthes; literatuur; “le pluriel”, 5 betekenislagen
+            iii. illustratie
+        d. Genre-analyse
+            i. Swales; academic writing; moves and steps model
+            ii. Bhatia; commerciële teksten; moves
+        e. Rhetorical Structure Theory
+            i. Mann, Matthiessen and Thompson; nucleus-satellite; relatietypes
+            ii. illustratie
+
+    3. Perspectief en standpunt
+        a. Stylistics en point of view
+            i. Friedman, Fowler
+        b. Critical Linguistics/CDA en perspectief
+            i. Toolan, Fairclough: parameters voor perspectivering; perspectiefwisseling
+            ii. illustraties
+        c. Stance en evaluatie
+            i. Biber, Hyland, Hunston: Evaluation, Stance and Hedging 
+            ii. Appraisal Theory: Martin, White, Bednarek; attitude, engagement, graduation
+            iii. illustratie

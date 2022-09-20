@@ -1,0 +1,31 @@
+﻿Les 7 – schema
+    1. Inleiding
+(voor elke benadering: focus, concepten, methode; illustraties)
+    2. Vanuit de sociologie
+        a. Conversatieanalyse
+            i. Sacks, Schegloff, Jefferson – turn taking; transcriptie en datasessies
+            ii. Illustratie: rol van overlap
+        b. Interactionele sociolinguïstiek
+            i. Gumperz, Goffman – positionering deelnemers; interview
+            ii. Illustratie: contextualization cues
+            iii. Facework
+            iv. Illustratie facework
+
+    3. Vanuit de filosofie
+        a. Speech act theorie
+            i. Austin, Searle – taaldaden; deskresearch
+            ii. Illustratie: ‘felicity conditions’ voor ‘belofte’ 
+        b. Logica en pragmatiek
+            i. Grice – cooperative principle en maxims of conversation; van deskresearch naar corpusonderzoek
+            ii. Illustratie
+
+    4. Variatie in gesproken taal
+        a. Sociolinguïstiek en Variatielinguïstiek (Bernstein en Labov)
+        b. Pragmatiek (Verschueren)
+ 
+    5. Interactiviteit in geschreven taal
+        a. Interactiviteit in geschreven taal – Halliday’s interpersonal level
+        b. Interactiviteit in computer-mediated communication
+
+    6. Conclusie
+
