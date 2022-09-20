@@ -1,0 +1,188 @@
+DNA TRANSCRIPTIE EN TRANSLATIE
+GEN REGULATIEDNA TRANSCRIPTIE
+Transcriptie is het proces dat van het DNA van 
+een gen een complementaire kopie maakt, 
+bestaande uit enkelstrengs messenger-RNADNA replicatie:  verdubbeling
+DNA transcriptie: copie van het DNA naar RNA
+Translatie eiwitsyntheseMenselijk genoom: 3 miljard basenparen
+1000 bp = 1 kb
+eiwitten
+2%
+Coderende sequenties
+23%
+40%
+Niet-coderende delen van genen
+Verspreid repetitief DNA
+25%
+Enkelvoudig DNA
+10%
+Gegroepeerd repetitief DNA
+Klein stukje extra-nucleair DNA of mitochondriale DNAExon 1 Exon 2 Exon 3 Exon 4 Exon 5
+promotor
+intron intron intron intron
+ATG TAA
+start Poly-A signaal
+AGTTCGATCAAACGTCTTTGTAAGATACGCGTGTCC
+?
+Eiwit: opgebouwd uit aminozurenGENETISCHE CODEGENETISCHE CODE
+64 codons, waarvan 3 stopcodonsExon 1 Exon 2 Exon 3 Exon 4 Exon 5
+promotor
+intron intron intron intron
+ATG TAA
+TAG
+TGA
+M
+AGTTCGATCAAACGTCTTTGTAAGATACGCGTGTCC
+. . .
+S S I K R L C KExon 1 Exon 2 Exon 3 Exon 4 Exon 5
+promotor
+intron intron intron intron
+ATG TAA
+start Poly-A signaal
+1. TRANSCRIPTIE
+2. TRANSLATIE
+Eiwit: opgebouwd uit aminozuren3’
+5’
+template
+sense 
+3’
+5’
+5’
+3’
+RNA polymerase opent de DNA spiraal en synthetiseert RNA van 5’ naar 3’TRANSCRIPTIE:  gebeurt in de celkern
+Exon 1 Exon 2 Exon 3 Exon 4 Exon 5
+promotor
+intron intron intron intron
+RNA 
+polymerase
+ATG TAA
+start Poly-A signaal
+5’  3’
+Pre-mRNA
+(messenger RNA)
+G A 1. SPLICING
+A
+A
+A
+A A 2. CAPPING
+3. POLY-AVERSCHIL DNA VERSUS RNAMessenger RNA (mRNA):
+copie van het DNA, 
+brengt de genetische informatie van de celkern naar het cytoplasma
+5%
+Ribosomaal RNA (rRNA):
+Opbouw van de ribosomen
+Niet coderend !!!
+80%
+Transfer RNA (tRNA):
+Aanvoer en positionering van de aminozuren tijdens de translatie
+Niet coderend !!!
+15%
+microRNA, siRNA, snRNA, lncRNA
+Genregulatie
+Niet coderend !!!DNA TRANSLATIE
+Translatie is het ‘vertalen’ van mRNA naar 
+een functioneel eiwitTransfer RNA (tRNA):
+Aanvoer en positionering van de aminozuren tijdens de translatie
+Niet coderend !!!
+15%
+aminozuur
+gaa
+5’ cuu 3’ mRNATRANSLATIE:  gebeurt in het cytoplasma
+G AUG GCC CUA UUU AGC CGC AAA AGA UAA A
+A
+A
+A
+A A
+UAC CGG
+ribosoom
+m rTRANSLATIE:  gebeurt in het cytoplasma
+G AUG GCC CUA UUU AGC CGC AAA AGA UAA A
+A
+UAC CGG A A
+A A
+GAU
+m r
+aTRANSLATIE:  gebeurt in het cytoplasma
+G AUG GCC CUA UUU AGC CGC AAA AGA UAA A
+A
+CGG GAU A A
+A A
+AAA
+r a
+m
+pTRANSLATIE:  gebeurt in het cytoplasma
+G AUG GCC CUA UUU AGC CGC AAA AGA UAA A
+A
+A
+r A
+A A
+l
+r
+s
+Post-translatie modificaties
+p
+a
+r
+mTRANSLATIE:  gebeurt in het cytoplasma
+G AUG GCC CUA UUU AGC CGC AAA AGA UAA A
+A
+A
+A
+A A
+r
+l
+Post-translatie modificaties
+l
+r
+r r
+m
+s
+p a
+s r r r
+s s
+l p p l
+eiwit
+p
+r a a r
+a rr
+m m
+r
+mmRNA
+Poly-ribosomenGEN REGULATIE
+Genregulatie is de sturing van de genexpressie. 
+Genregulatie bepaalt de concentratie van een door een gen 
+gecodeerd eiwit in een cel.
+Niet alle eiwitten zijn nodig in alle cellen op elk moment.GEN REGULATIE
+Gereguleerde genen:
+“House keeping” genen: Expressie in bepaalde omstandigheden
+vrij constante expressie Expressie een bepaalde cellen of organenGenregulatie kan op verschillende niveaus plaatsvindenGen regulatie op niveau van transcriptie
+5’ 3’
+promotor Exon 1 Exon 2 Exon 3 Exon 4 Exon 5
+intron intron intron intron
+CAAT TATA
+RNA polymeraseGen regulatie op niveau van transcriptie:
+promotor
+5’ 3’
+promotor Exon 1 Exon 2 Exon 3 Exon 4 Exon 5
+intron intron intron intron
+CAAT TATA
+RNA polymerase
+transcriptiefactorenGen regulatie op niveau van transcriptie:
+enhancers en silencersGen regulatie op niveau van transcriptie:
+enhancers en silencersGen regulatie op niveau van transcriptie
+voorbeeldGen regulatie op niveau van transcriptie:
+Staat van het chromatine bepaalt mee of het DNA kan overgeschreven worden
+(zie les chromosomen)Gen regulatie op niveau van het messenger RNA en translatie: 
+microRNA’s blokkeren translatie of zorgen ervoor dat mRNA wordt afgebrokenALTERNATIEVE SPLICINGSPLICINGExon 1 Exon 2 Exon 3 Exon 4
+promotor
+intron intron intronExon 1 Exon 2 Exon 3 Exon 4
+promotor
+intron intron intronExon 1 Exon 2 Exon 3 Exon 4
+promotor
+intron intron intron
+ALTERNATIEVE SPLICING
+Alternatieve splicing door splicing variatie van het pre-mRNA kunnen verschillende 
+mRNA-moleculen gevormd worden en daardoor verschillende eiwitten ontstaan. Eenheid: 1 basenpaar bp
+1.000 bp = 1 kb
+1.000.000 = 1Mb
+Genoom = 2 strengen van 3 miljard bp (3.109)

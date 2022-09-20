@@ -1,0 +1,184 @@
+NederlandseTaalkundeI
+Hoofdstuk11(deelII)
+Handboekpp.361–375
+(incl.hetnaamwoordelijkgezegdeuitpp.319–361)
+JeroenvanCraenenbroeckProtoypiciteitherbekeken
+(1) Hetprobleemwordtopgelostdoordevrouw.
+(2) (cid:264)(cid:276)(cid:275)(cid:280)(cid:281)(cid:270)(cid:281)(cid:282)(cid:266)(cid:275)(cid:281)(cid:280)(cid:281)(cid:286)(cid:277)(cid:266) (cid:283)(cid:262)(cid:273)(cid:266)(cid:275)(cid:281)(cid:270)(cid:266)
+(cid:283)(cid:266)(cid:279)(cid:283)(cid:262)(cid:275)(cid:268)(cid:263)(cid:262)(cid:262)(cid:279)(cid:269)(cid:266)(cid:270)(cid:265)
+(cid:283)(cid:266)(cid:279)(cid:277)(cid:273)(cid:262)(cid:262)(cid:281)(cid:280)(cid:263)(cid:262)(cid:262)(cid:279)(cid:269)(cid:266)(cid:270)(cid:265)
+(3) Hetprobleemwordtopgelostdoordevrouw
+10 20 21 70Protoypiciteitherbekeken
+(cid:265)(cid:279)(cid:270)(cid:266)(cid:264)(cid:276)(cid:275)(cid:264)(cid:273)(cid:282)(cid:280)(cid:270)(cid:266)(cid:280):
+1. Constituentstype,vervangbaarheid,enverplaatsbaarheidzijn
+(cid:283)(cid:276)(cid:279)(cid:274)(cid:266)(cid:273)(cid:270)(cid:271)(cid:272)(cid:266)(syntactische)criteria><valentieiseen
+(cid:263)(cid:266)(cid:281)(cid:266)(cid:272)(cid:266)(cid:275)(cid:270)(cid:280)(cid:268)(cid:266)(cid:263)(cid:262)(cid:280)(cid:266)(cid:266)(cid:279)(cid:265)(semantisch)criterium.
+2. Syntactischeensemantischecriterialeidensomstotverschillende
+conclusiesmetbetrekkingtotzinsontleding.
+3. Alswedergelijkediscrepantiestegenkomen,danvolgenwijinonze
+zinsontledingdevormelijkecriteria,nietdebetekenisgebaseerde.Hetsubjectscomplement
+(4) DatMohammedhardwerktbleekgisteren.Hetsubjectscomplement
+(5) Mohammedbleekgisterenhardtewerken.Hetsubjectscomplement
+(6) a. Hijschijntjoutehelpen.
+b. Hijlijktmevanjazztehouden.
+c. Hijzalzichvergisthebben.
+d. Hijwilzichweleensvergissen.
+e. Hijmagookweleensmetdeafwashelpen.
+f. Hijmoetreedsvertrokkenzijn.
+g. Hijkanalvertrokkenzijn.Hetsubjectscomplement
+(7) Hijlijktmevanjazztehouden.Hetsubjectscomplement
+(8) Hijmoetreedsvertrokkenzijn.Hetsubjectscomplement
+Hijheeftvismoeteneten. Hijmoetdevisgegetenhebben.Hetnaamwoordelijkgezegde
+(9) a. Hijisziek.
+b. HijistrotsopJan.
+c. Hijistaalkundebeu.
+d. Hijismije10schuldig.
+(10) a. Janisziek.
+b. Janwordtziek.
+c. Janblijftziek.Hetnaamwoordelijkgezegde
+(11) Janisziek.Hetnaamwoordelijkgezegde
+(12) Zijblijfttrotsophetresultaat.Hetnaamwoordelijkgezegde
+(13) Metjeogenopenziejealles.Hetnaamwoordelijkgezegde
+(14) DeopMarieverliefdejongenstaatvoordedeur.Hetnaamwoordelijkgezegde
+(15) Demooiejongenstaatvoordedeur.Hetnaamwoordelijkgezegde
+gezegde
+werkwoordelijk naamwoordelijk
+23
+werkwoordelijkdeel niet-werkwoordelijk
+deel
+22
+ﬁniet niet-ﬁniet
+werkwoordelijk werkwoordelijk
+deel deel
+(PV) 21 vnw.bij scheidbaar niet-ww.deel
+20 verplicht deelvan vanwerkwoordelijke
+wederkerend samenkoppeling uitdrukking
+ww.
+niet-ww.deelvan niet-ww.deel
+vasteverbinding vanidiomatische
+verbindingDe“bepalingvangesteldheid”
+(16) Hijgingwaarschijnlijknaarhuis.
+(17) Hijgingteleurgesteldnaarhuis.
+(18) a. Kwaadliephijdekameruit.
+b. Mijnvaderisarmgestorven.
+c. Alsstudentwoondehijopkot.
+d. Debloemenregenenkapot.
+e. Datvoorstelklinktheelinteressant.
+f. Deleidingvriestuiteen.De“bepalingvangesteldheid”
+Hijgingteleurgesteldnaarhuis. Debloemenregenenkapot.Terugnaarhetsubjectscomplement
+(cid:280)(cid:282)(cid:263)(cid:271)(cid:266)(cid:264)(cid:281)(cid:280)(cid:264)(cid:276)(cid:274)(cid:277)(cid:273)(cid:266)(cid:274)(cid:266)(cid:275)(cid:281)
+code 10+
+constituent AP,PP,NP,als-NP
+valentie nietinvalentie
+introduceertzelfvalentie
+niet-weglaatbaar
+vervangbaarheid meestalnietproportioneel,
+maarsomswelmetTypeI(zaak)ofTypeIII(wijze)
+verplaatsbaarheid ??AL,VV,*MV1,*MV2,MV3,*AV,??UL
+extra staatineenpredicatieverelatiemethetsubject
+(19) a. Debloemenregenenkapot.
+b. Deleidingvriestaanﬂarden.
+c. Janisdirecteur.
+d. Hetvoorstelklinktalsmuziekinmijnoren.Terugnaarhetsubjectscomplement
+(cid:280)(cid:282)(cid:263)(cid:271)(cid:266)(cid:264)(cid:281)(cid:280)(cid:264)(cid:276)(cid:274)(cid:277)(cid:273)(cid:266)(cid:274)(cid:266)(cid:275)(cid:281)
+code 10+
+constituent AP,PP,NP,als-NP
+valentie nietinvalentie
+introduceertzelfvalentie
+niet-weglaatbaar
+vervangbaarheid meestalnietproportioneel,
+maarsomswelmetTypeI(zaak)ofTypeIII(wijze)
+verplaatsbaarheid ??AL,VV,*MV1,*MV2,MV3,*AV,??UL
+extra staatineenpredicatieverelatiemethetsubject
+(20) a. Debloemenregenenkapot.
+b. *Debloemenregenendat/zo/zozeer.
+c. *Wat/Hoeregenendebloemen?
+(21) a. Datvoorstelklinktheelinteressant.
+b. Zoklinktdatvoorstel.
+c. Hoeklinktdatvoorstel?Terugnaarhetsubjectscomplement
+(cid:280)(cid:282)(cid:263)(cid:271)(cid:266)(cid:264)(cid:281)(cid:280)(cid:264)(cid:276)(cid:274)(cid:277)(cid:273)(cid:266)(cid:274)(cid:266)(cid:275)(cid:281)
+code 10+
+constituent AP,PP,NP,als-NP
+valentie nietinvalentie
+introduceertzelfvalentie
+niet-weglaatbaar
+vervangbaarheid meestalnietproportioneel,
+maarsomswelmetTypeI(zaak)ofTypeIII(wijze)
+verplaatsbaarheid ??AL,VV,*MV1,*MV2,MV3,*AV,??UL
+extra staatineenpredicatieverelatiemethetsubject
+(22) a. *Kapot,zo/datregenendebloemen.
+b. ?Interessant,zoklinkthetvoorstel.
+c. Ziek,datishijnietmeer.Terugnaarhetsubjectscomplement
+(cid:280)(cid:282)(cid:263)(cid:271)(cid:266)(cid:264)(cid:281)(cid:280)(cid:264)(cid:276)(cid:274)(cid:277)(cid:273)(cid:266)(cid:274)(cid:266)(cid:275)(cid:281)
+code 10+
+constituent AP,PP,NP,als-NP
+valentie nietinvalentie
+introduceertzelfvalentie
+niet-weglaatbaar
+vervangbaarheid meestalnietproportioneel,
+maarsomswelmetTypeI(zaak)ofTypeIII(wijze)
+verplaatsbaarheid ??AL,VV,*MV1,*MV2,MV3,*AV,??UL
+extra staatineenpredicatieverelatiemethetsubject
+(23) a. dathetvoorstelmijgistereninteressantleek.
+b. *dathetvoorstelmijinteressantgisterenleek.
+c. datMashagisterenziekwas.
+d. *datMashaziekgisterenwas.
+e. datdebloemengisterenkapotregenden.
+f. *datdebloemenkapotgisterenregenden.
+(24) a. *dathijleekindewar.
+b. *datzijwasindewolken.
+c. *datdebloemenregendenaanﬂarden.Hetobjectscomplement
+(25) Carlosveegtdebezemaanﬂarden.Hetobjectscomplement
+(cid:276)(cid:263)(cid:271)(cid:266)(cid:264)(cid:281)(cid:280)(cid:264)(cid:276)(cid:274)(cid:277)(cid:273)(cid:266)(cid:274)(cid:266)(cid:275)(cid:281)
+code 30+
+constituent AP,PP,NP,als-NP
+valentie nietinvalentie
+introduceertzelfvalentie
+niet-weglaatbaar
+vervangbaarheid meestalnietproportioneel,
+maarsomswelmetTypeIII(wijze)
+verplaatsbaarheid ??AL,VV,*MV1,*MV2,MV3,*AV,??UL
+extra staatineenpredicatieverelatiemethetdirectobject
+(26) a. Hijmaaktzijnjasvuil.
+b. Menverklaardehemvoorgek.
+c. Ikvindhemeenidioot.
+d. Ikbeschouwhaaralsmijnmentor.
+(27) a. #Carlosveegtdebezem.
+b. *Menverklaardehem.
+c. *Ikbeschouwhaar.Hetobjectscomplement
+(cid:276)(cid:263)(cid:271)(cid:266)(cid:264)(cid:281)(cid:280)(cid:264)(cid:276)(cid:274)(cid:277)(cid:273)(cid:266)(cid:274)(cid:266)(cid:275)(cid:281)
+code 30+
+constituent AP,PP,NP,als-NP
+valentie nietinvalentie
+introduceertzelfvalentie
+niet-weglaatbaar
+vervangbaarheid meestalnietproportioneel,
+maarsomswelmetTypeIII(wijze)
+verplaatsbaarheid ??AL,VV,*MV1,*MV2,MV3,*AV,??UL
+extra staatineenpredicatieverelatiemethetdirectobject
+(28) a. *Menverklaardehemdat/zo.
+b. *Hoe/Watverklaardemenhem?
+c. Ikvindhem*dat/??zo.
+d. Hoe/*Watvindjehem?
+e. Zenoemenme*dat/zo.
+f. Hoe/*Watnoemenzeje?Hetobjectscomplement
+(cid:276)(cid:263)(cid:271)(cid:266)(cid:264)(cid:281)(cid:280)(cid:264)(cid:276)(cid:274)(cid:277)(cid:273)(cid:266)(cid:274)(cid:266)(cid:275)(cid:281)
+code 30+
+constituent AP,PP,NP,als-NP
+valentie nietinvalentie
+introduceertzelfvalentie
+niet-weglaatbaar
+vervangbaarheid meestalnietproportioneel,
+maarsomswelmetTypeIII(wijze)
+verplaatsbaarheid ??AL,VV,*MV1,*MV2,MV3,*AV,??UL
+extra staatineenpredicatieverelatiemethetdirectobject
+(29) a. ??Vervelend,zovindikhem.
+b. Carlosheeftdebezemgisterenaanﬂardengeveegd.
+c. *Carlosheeftdebezemaanﬂardengisterengeveegd.
+d. *Carlosheeftdebezemgisterengeveegdaanﬂarden.Hetobjectscomplement
+▶ ookhier:“bepalingvangesteldheid”
+(30) a. Hijeetdevisrauw.
+b. Wevangendieleeuwlevend.
+c. IknoemhemJan.
+d. Hijnoemdemijeenidioot.Hetobjectscomplement
+Hijeetdevisrauw. IknoemhemJan.

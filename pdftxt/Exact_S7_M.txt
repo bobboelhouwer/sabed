@@ -1,0 +1,154 @@
+19/11/2019
+
+A = U  VT
+
+Voor algemene reële A mxn
+•
+
+Singuliere waardenontbinding (SWO): A = U  VT met
+U m x m orthogonaal, V n x n orthogonaal,  m x n “diagonaal”
+𝜎1
+0
+0
+ =
+0
+⋮
+0
+
+0 0
+⋱ 0
+0 𝜎𝑟
+0 0
+⋮ ⋮
+0 0
+
+0
+⋮
+0
+0
+⋮
+0
+
+0
+⋮
+0
+0
+⋮
+0
+
+met 1  ...  r > 0 en Rank A = r
+
+•
+
+Anders geschreven: A = 1 u1v1T +...+ 𝑟 urvrT
+
+•
+
+Vergelijk met spectrale ontbinding van symmetrische matrix :
+1 ⋯ 0
+⋮ [u1 ... un]T
+A = P D PT = [u1 ... un] ⋮ ⋱
+0 ⋯ 𝑛
+= 1 u1u1T +...+ 𝑛 ununT = 1 u1u1T +...+ 𝑟 ururT
+
+1
+
+ 19/11/2019
+
+Herinner: coördinatentransformatie
+• Gegeven basis V = {v1, ... , vn} in n
+• Dan voldoen de coördinaten van x in basis V,
+genoteerd als [x]V, aan:
+x = [v1, ... , vn] [x]V = V [x]V
+• Zijn {v1, ... , vn} orthonormaal, dan is V
+orthogonaal zodat
+o [x]V = V-1 x = VTx
+o Behoudt de lengte
+o Assen zijn slechts “gedraaid/gespiegeld” t.o.v.
+elkaar
+
+SWO als drie lineaire transformaties
+• Beschouw de lineaire transformatie x → y = Ax
+• y = Ax = U  VTx = U ( (VTx)) is de samenstelling van drie
+transformaties:
+
+o x → [x]V = VTx,
+x uitdrukken in de basis V
+beeldt n af op heel n
+o [x]V → [x]V =  VTx
+i-de coördinaat geschaald met 𝑖 (i = 1 ... r)
+Alle andere coördinaten worden 0 (i > r)
+Beeldt n af op r-dimensionale deelruimte van m
+o [y]U → y = U [y]U = U  VTx
+Een (inverse) coördinatentransformatie in m
+Beeldt de bekomen  VTx af op y
+ VTx is dus [y]U
+Met U orthogonaal (draaien/spiegelen met behoud van lengte)
+
+• Elke matrix A kan dus gezien worden als de lineaire transformaties
+draaien/spiegelen, schalen, draaien/spiegelen
+
+2
+
+ 19/11/2019
+
+Geometrisch voor A mxn
+• x → Ax
+• De basis {v1, ... , vn} heeft als
+eigenschap:
+o Als x volgens een basisvector vi
+ligt, is Ax een veelvoud van ui
+(niet zichzelf)
+Ax = (1 u1v1T +...+ 𝑟 urvrT )𝐱
+= 1 u1v1T x+...+ 𝑟 urvrT x
+= 1 (v1T x)u1+...+ 𝑟 (vrT x)ur
+o Dan is 𝐀𝐱 = 𝜎𝑖 𝐱
+o Is een orthonormale
+verzameling
+
+Av1
+
+v1
+u1
+u2
+
+v2
+Av2
+
+Speciaal geval: A = AT
+• Spectrale ontbinding van symmetrische matrix :
+1 ⋯ 0
+T
+⋮ [u1 ... un]T
+A = P D P = [u1 ... un] ⋮ ⋱
+0 ⋯ 𝑛
+T
+= 1 u1u1 +...+ 𝑛 ununT
+= 1 u1u1T +...+ 𝑟 ururT
+= 1 u1v1T +...+ 𝑟 urvrT (SWO)
+• M.a.w. kies U = P en V = P op teken na (- als 𝑟 <0)
+
+3
+
+ 19/11/2019
+
+Geometrisch voor A=AT
+• x → Ax
+• De basis {u1, ... , un} heeft
+als eigenschap:
+o Als x volgens een
+basisvector ui ligt, is Ax een
+veelvoud van zichzelf
+o Dan is 𝐀𝐱 = |𝜆𝑖 | 𝐱
+o Is een orthonormale
+verzameling
+
+z2
+u2
+
+u1
+z1
+
+4
+
+ 

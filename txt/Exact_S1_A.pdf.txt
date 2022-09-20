@@ -1,0 +1,331 @@
+Algemene Scheikunde : Inhoudstabel                                                                         1 
+Evenals alle grote ontdekkers heeft John Dalton zijn 
+voorgangers gehad en het is bij de onderzoekers van de 
+affiniteit dat zij eerst worden aangetroffen. Boerhaave vestigt de 
+aandacht op de vriendschap, de liefde onder de chemische 
+stoffen die samen reageren. 
+ 
+ 
+Uit: 
+ 
+BOERHAAVE HERMANNIUS, Elementa chemiae. Tomus primus. Lugduni Batav. 1732, pp 677-678 
+(aangehaald door A. J. J. Van de Velde, 1944) 
+ 
+ 
+ 
+Inde, si ex similitudine formanda hic causae enarratio, dideter nobis 
+cognita hactenus actio dissolvendi magis peragi per vim quandam, qua 
+menstrui partes conantur sibi associare dissolvendas partes, quam 
+easdem fugere, aut repellere. Non igitur hic etiam actiones mechanicae, 
+non propultiones violentae, non inimicitiae, cogitandae, sed amicitia ; si 
+amor discendus copulae cupido. 
+Sed ipso momento, quo sunt adunatae pax perfecta et quies tranquilla 
+obtinet. 
+ 
+ 
+ 
+De cursus algemene scheikunde heeft als doel studenten uitgebreid kennis te laten maken 
+met de verschillende aspecten van de hedendaagse scheikunde. We gaan hierbij uit van 
+klassieke chemische concepten, hypothesen, theorieën en wetmatigheden. Deze wetten zijn 
+niet volmaakt maar ze zijn tot op heden volkomen bruikbaar om te verklaren wat in onze 
+leefomgeving gebeurt. We laten niet na een heel kort historisch overzicht te schetsen van 
+ideeën en werkwijzen die gedurende 2500 jaar (tot dusver we in de geschiedenis kunnen 
+terug blikken) gegroeid zijn en die uitmonden in wat we vandaag algemeen aanvaarden als 
+de werkelijkheid van deze wereld. Dit betekent niet dat alles wat we momenteel als de 
+waarheid  beschouwen,  niet  voor  ernstige  toekomstige  verbeteringen  vatbaar  is,  wel 
+integendeel... De geschiedenis heeft dit immers afdoende bewezen. 
+ 
+  Onze voorouders deden het niet slecht 
+Wij proberen het goed te doen 
+Zij die na ons komen, kunnen het misschien nog beter 
+ 
+Een kwestie om in te zien dat wij slechts een kleine bijdrage leveren in een groeiende 
+wetenschappelijke discipline en een kleine schakel vormen in een aangeboren drang naar 
+een alomvattende kennis. Elke bijdrage, hoe klein ook, dient naar waarde geschat te worden. 
+ 
+Intussen, bijna 300 jaar later, kan de scheikunde beter begrijpen en verklaren wat in de 
+hierboven aangehaalde tekst van Boerhaave zo lyrisch wordt beschreven. Het blijft hoe dan 
+ook de behoefte van de mens om kennis te vergaren en de kracht te ontwikkelen om de 
+leefwereld te begrijpen, te beheersen en de mogelijkheden ervan toe te passen. Vanuit die 
+stimulans zullen wij ons aan het werk zetten maar wij onthouden dat de ‘liefde der dingen’ de 
+basis vormt voor het perfecte evenwicht. Algemene Scheikunde : Inhoudstabel                                                                         2 
+INHOUDSTABEL 
+ 
+ 
+ 
+(cid:1)
+HOOFDSTUK   : Stoechiometrie in verbindingen en reacties 
+ 
+1.  Inleiding : evoluties in de scheikunde            1 
+1.1  Methodiek in de wetenschappen             1 
+1.2  Scheikunde : een blik doorheen de eeuwen           2 
+1.3  Fundamentele wetten van Dalton             4 
+1.4  Sleutels tot de stoechiometrie              5 
+2.  Karakterisering van het atoom              7 
+2.1  Voorafgaande ontdekkingen               7 
+2.2  Het atoommodel van Rutherford             9 
+2.3  Eenvoudige beschrijving van het atoom          11 
+3.  Stoechiometrie                 12 
+3.1  Relatieve atoommassa               12 
+3.2  Het begrip mol                  13 
+3.3  Stoechiometrie in verbindingen            14 
+3.4  Stoechiometrie in reacties              16 
+4.  Thermochemische aspecten van reacties          19 
+4.1  Warmte-uitwisseling bij chemische reacties          19 
+4.2  Enthalpie van een chemisch systeem           21 
+4.3  Bewerkingen met reactievergelijkingen          22 
+4.4  Standaard molaire vormingsenthalpie           24 
+4.5  Calorimetrie                  26 
+4.6  Inwendige energie                28 
+ 
+Aanvullende voorbeelden bij hoofdstuk I            31 
+Aanvullende oefeningen bij hoofdstuk I             47 
+ 
+ 
+ 
+HOOFDSTUK (cid:1)(cid:1) : Atoombouw en periodiek systeem 
+ 
+1.  Het atoommodel van Bohr               1 
+1.1  Elektromagnetische straling               1 
+1.2  Rumoer en omwentelingen in de fysische wetmatigheden       1 
+1.3  Beschrijving van het waterstofatoom             4 
+1.4  Beschrijving van hogere atomen             9 
+1.4.1  Nevenkwantumgetal                 9 
+1.4.2  Magnetisch kwantumgetal              11  
+1.4.3  Elektronspin                  14 
+2.  Het golfmechanisch model              16 
+2.1  Aanleiding tot een nieuwe beschrijving van het atoom      16 
+2.2  Het onzekerheidsprincipe van Heisenberg          18 
+2.3  Het atoommodel van Schrödinger            20 
+2.3.1  Beweging van ’het deeltje in een doos’          20 
+2.3.2  Het golfmechanisch waterstofatoom            22 
+2.3.3  Beschrijving van hogere atomen            32 
+3.  Opvulling van de energieniveaus            34 
+3.1  Opbouwprincipe                34 
+3.2  Het periodiek systeem van de elementen          36 
+3.3  Atoomafmetingen en ionisatie-energie          38 
+3.4  Elektronenaffiniteit en elektronegativiteit          40 Algemene Scheikunde : Inhoudstabel                                                                         3 
+(cid:1)(cid:1)(cid:1)
+HOOFDSTUK   : De chemische binding 
+ 
+1.  Inleiding                    1 
+2.  De ionaire binding                 2 
+3.  De covalente binding                 6 
+3.1.1  Valentiebindingstheorie               6 
+3.1.2  Elektronenpaarbinding volgens Lewis            6 
+3.1.3  Elektronenpaarbinding volgens de golfmechanica        10 
+3.1.3.1  De sigma((cid:1))binding                10 
+3.1.3.2  De pi((cid:2))binding                 12 
+3.1.4  De datieve binding                14 
+3.1.5  Ruimtelijke structuren                16 
+3.1.6  Valentieschil-elektronenpaar-repulsie-theorie (VSEPR)      16 
+3.1.7  Hybridisatie                  20 
+3.1.7.1  sp-hybridisatie                  20 
+3.1.7.2  sp2-hybridisatie                 21 
+3.1.7.3  sp3-hybridisatie                 21 
+3.1.7.4  sp3d-hybridisatie                22 
+3.1.7.5  sp3d2-hybridisatie                24 
+3.1.8  Dipoolmoment                  26 
+3.1.9  Koolstofverbindingen                28 
+3.2  Resonantie                  30 
+4.  Moleculaire orbitaaltheorie              34 
+4.1  Gelocaliseerde molecuulorbitalen            34 
+4.2  Gedelocaliseerde molecuulorbitalen            39 
+5.  De binding in metalen                41 
+6.  Zwakke intermoleculaire bindingen            44 
+ 
+ 
+ 
+HOOFDSTUK IV : Eigenschappen van gassen en vloeistoffen 
+ 
+1.  Inleiding                    1 
+2.  De gasvormige aggregatietoestand             2 
+2.1  Ideale gassen                   2 
+2.2  Het begrip partieeldruk                5 
+3.  Vloeibare aggregatietoestand              8 
+3.1  Dampdruk van een vloeistof               8 
+3.2  Oppervlaktespanning en capillariteit            10 
+4.  Faseovergangen                11 
+4.1  Uitgewisselde warmte bij faseovergangen          11 
+4.2  Fasendiagramma en fase-evenwichten          12 
+4.3  Fasenregel van Gibbs               14 
+4.4  Het principe van Le Chatelier              14 
+ 
+Aanvullende oefeningen bij hoofdstuk IV            15 
+ 
+ 
+ 
+HOOFDSTUK V : Mengsels en scheidingsmethoden 
+ 
+1.  Inleiding                    1 
+2.  Oplossingen                   1 
+2.1  Mengsels van vloeistoffen               2 
+2.2  Oplossingen van vaste stoffen in een vloeistof         3 Algemene Scheikunde : Inhoudstabel                                                                         4 
+3.  Parameters de oplosbaarheid beïnvloeden           4 
+3.1  Invloed van de temperatuur op de oplosbaarheid         4 
+3.2  Invloed van de druk op de oplosbaarheid           4 
+4.  Concentratie-eenheden voor oplossingen           5 
+5.  Evenwicht tussen een oplossing en haar dampfase         8 
+5.1  Homogene oplossing van twee vluchtige stoffen         8 
+5.1.1  Wet van Raoult                  8 
+5.1.2  Destillatie van een ideaal mengsel            11 
+5.1.3  Azeotrope mengsels                15 
+5.2  Heterogeen mengsel van niet mengbare vluchtige stoffen      15 
+5.3  Oplossing van een niet vluchtige stof in een vluchtig oplosmiddel    16 
+6.  Osmose en osmotische druk              21 
+ 
+Aanvullende oefeningen bij hoofdstuk V             23 
+ 
+ 
+ 
+HOOFDSTUK VI : Mechanisme en kinetica van reacties 
+ 
+1.  Inleiding                    1 
+2.  Definitie van reactiesnelheid               2 
+2.1  Algemene uitdrukking voor de reactiesnelheid         2 
+2.2  De reactiesnelheid op ieder ogenblik            3 
+3.  Invloed van de concentratie op de reactiesnelheid         5 
+3.1  Initiële reactiesnelheid                5 
+3.2  Verband tussen concentratie en reactiesnelheid         5 
+3.3  Bepalen van de reactieorde               7 
+3.4  Meerstapsreacties                 8 
+3.5  Verloop van de concentratie met de reactietijd         9 
+4.  Invloed van de temperatuur op de reactiesnelheid        15 
+4.1  Botsingstheorie en reactiemechanisme          15 
+4.2  Het geactiveerd complex              16 
+4.3  De Arrheniusvergelijking              19 
+5.  Werkingsprincipe van een katalysator           21 
+6.  Omkeerbaarheid van reacties             23 
+ 
+ Aanvullende voorbeelden bij hoofdstuk VI            24 
+ Aanvullende oefeningen bij hoofdstuk VI            29 
+ 
+ 
+ 
+HOOFDSTUK VII : Chemisch evenwicht en thermochemie 
+ 
+1.  Het begrip ‘chemisch evenwicht’ en evenwichtsprincipe       1 
+2.  Wet der massawerking                4 
+2.1  Definitie van de evenwichtsconstante            4 
+2.2  Betekenis van de evenwichtsconstante K            5 
+c
+2.3  Numerieke waarde van de evenwichtsconstante         6 
+3.  Omgaan met chemische evenwichten            7 
+3.1  Rekenen met evenwichtsconstanten en reactievergelijkingen     7 
+3.2  Voorspellen van de richting van een reactie           8 
+3.3  Evenwichtsconstante op basis van partieeldrukken         8 
+4.  Rekenen met evenwichten              10 
+4.1  Berekenen van evenwichtsconcentraties en evenwichtspartieeldrukken  10 
+4.2  Verstoren van een systeem in evenwicht          13 Algemene Scheikunde : Inhoudstabel                                                                         5 
+4.2.1  Uitwendige verandering van de concentraties        13 
+4.2.2  Uitwendige verandering van de druk            14 
+4.3  Heterogene evenwichten              15 
+5  Invloed van de temperatuur op de evenwichtsconstante      17 
+5.1  Kinetisch uitgangsprincipe              17 
+5.2  Praktische toepassing van temperatuursinvloeden        20 
+6  Thermochemische aspecten van evenwichtsreacties      21 
+6.1  Enthalpie en Inwendige Energie            21 
+6.2  Entropie van een chemisch systeem            21 
+6.2.1  Definitie van het begrip entropie            21 
+6.2.2  Entropieverandering bij chemische reacties          24 
+6.3  Gibbs Vrije Energie                25 
+6.3.1  Spontaneïteit van chemische reacties           25 
+6.3.2  Standaard Gibbs Vrije Energieverandering          27 
+6.3.3  Verband tussen (cid:3)G en (cid:3)G°              28 
+6.4  Grafische voorstelling van reactie-evenwichten        30 
+ 
+ Aanvullende voorbeelden bij hoofdstuk VII            33 
+ Aanvullende oefeningen bij hoofdstuk VII            41 
+ 
+ 
+ 
+Hoofdstuk VIII : Evenwichten voor zuren en basen 
+ 
+1  Inleiding                    1 
+2  Zuur/base concept volgens Brønsted en Lowry         2 
+2.1  Ionen in waterige oplossing               2 
+2.2  Complementariteit van zuren en basen           3 
+2.3  Donor-acceptor principe               4 
+2.4  Geconjugeerd zuur-base paar              5 
+3  Zuurconstante, baseconstante en ionenproduct         6 
+4  Het begrip pH, zuurtegraad van oplossingen          9 
+4.1  De theoretische pH-schaal               9 
+4.2  Evenwichtsberekeningen              11 
+4.3  Evenwicht tussen twee zuur-base systemen         12 
+4.4  Meerwaardige zuren en basen            13 
+4.5  De pH van zouten                14 
+4.5.1  Zouten van het type NaCl              14 
+4.5.2  Zouten van het type NH Cl              14 
+4
+4.5.3  Zouten van het type NaAC              14 
+4.5.4  Zouten van het type NH Ac              15 
+4
+4.6  pH-formules                  16 
+4.6.1  pH van sterke zuren en basen             16 
+4.6.2  pH van zwakke eenwaardige zuren en basen        18 
+4.6.3  pH van zwakke meerwaardige zuren en basen        20 
+4.6.4  pH van amfolytoplossingen              21 
+4.6.5  Beknopte samenvatting voor oplossingen van zuren en basen    22 
+4.6.6  Bufferoplossingen                24 
+4.7  Algemene samenvatting voor diverse situaties        27 
+4.8  Zuur-base titraties                28 
+4.8.1  Inleiding                   28 
+4.8.2  Titratie van een sterk zuur met een sterke base        29 
+4.8.3  Titratie van een zwak zuur met een sterke base        31 
+4.8.4  Titratie van een zwak zuur met een zwakke base        33 
+4.8.5  Zuur-base indicatoren                34 Algemene Scheikunde : Inhoudstabel                                                                         6 
+4.8.6  Titratie van een meerwaardig zuur-base systeem        36 
+ 
+ Aanvullende voorbeelden bij hoofdstuk VIII            38 
+ Aanvullende oefeningen bij hoofdstuk VIII            53 
+ 
+ 
+ 
+Hoofdstuk IX : Evenwichten voor oxidantia en reductantia 
+ 
+1    Inleiding                   1 
+2    Principe van een elektrochemische cel           1 
+2.1   Afspraken en difinities i.v.m. evenwichten           1 
+2.2   Elektrodepotentiaal in relatie tot de evenwichtsligging       3 
+2.3   Celpotentiaal                   4 
+2.4   Galvanische celwerking               5 
+2.5   Elektrolytische celwerking               7 
+3    Standaard potentiaal                8 
+3.1   De standaard waterstof elektrode             8 
+3.2   Standaardpotentialen versus de SHE           9 
+3.3   Betekenis van de standaardpotentiaal          10 
+3.4   Standaardpotentiaal voor een willekeurig redoxsysteem      12 
+4    Potentiaalbetrekking van Nernst            15 
+5    Relatie: evenwicht, thermochemische en elektrochemische reacties  19 
+6    Toepassingen van elektrochemische cellen         23 
+6.1   Spanningsreeks van de metalen            23 
+6.2   Corrosie en beschermingsmethoden          23 
+6.3   Galvanische cellen                25 
+6.3.1  De droge batterij of Leclanche element          25 
+6.3.2  De loodaccumulator                26 
+6.3.3  De brandstofcel                27 
+6.4   Elektrolyse                  28 
+6.4.1  Elektrolyse vanuit gesmolten toestand          28 
+6.4.2  Elektrolyse vanuit waterige oplossing          28 
+ 
+Aanvullende voorbeelden bij hoofdstuk IX            31 
+Aanvullende oefeningen bij hoofdstuk IX            37 
+ 
+ 
+ 
+Hoofdstuk X : Evenwicht bij weinig oplosbare verbindingen 
+ 
+1    Het begrip oplosbaarheidsproduct             1 
+2    Verband tussen oplosbaarheid en oplosbaarheidsproduct      3 
+2.1   Oplosbaarheid bij verzadigde oplossingen           3 
+2.2   Oplosbaarheid in aanwezigheid van een sterk elektrolyt       4 
+3    Vorming van een neerslag bij weinig oplosbare verbindingen     5 
+4    Invloed van de pH op de oplosbaarheid           7 
+ 
+Aanvullende voorbeelden bij hoofdstuk X             9 
+Aanvullende oefeningen bij hoofdstuk X            12 
+ 
+ 
+ 
+ 
+ 

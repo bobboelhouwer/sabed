@@ -1,0 +1,1335 @@
+DEEL III:PSYCHOLOGIE van de INTELLIGENTIE2. De structuur van intelligentie
+1
+Vragen
+Is intelligentie 1 iets (vs. multidimensioneel)?
+
+	 Bestaan er meerdere soorten intelligentie?
+
+Welke modellen/theorieën van intelligentie bestaan er? 
+2
+INHOUD
+2.1. Inleiding
+
+2.2. Psychometrische modellen
+2.2.1. Spearman
+2.2.2. Vernon
+2.2.3. Thurstone
+2.2.4. Guilford
+2.2.5. Cattell
+2.2.6. Carroll
+2.2.7. Gustafsson
+
+2.3  Theoretische modellen
+2.3.1. Gardner
+2.3.2. Sternberg
+
+2.4. Conclusies
+3
+2.1. INLEIDING
+Een van de basisvragen uit de psychologie van de intelligentie:
+Wat is de structuur van intelligentie?
+
+= fundamenteel om te begrijpen wat intelligentie is (los van een definitie)
+
+De vraag van 1 miljoen: als we het hele universum aan cognitieve vaardigheden nemen,
+
+vallen deze dan samen in 1 dimensie? 
+	zijn de verschillen tussen mensen op vlak van cogn vaardigheden unidimensioneel?
+	 er is 1 primaire dimensie waarop we mensen kunnen rangschikken inzake hun cognitieve vaardigheden
+	OF
+zijn er meerdere vormen van intelligentie, die relatief onafhankelijk zijn van elkaar?
+	  er zijn meerdere, relatief onafhankelijke dimensies waarop we mensen kunnen rangschikken inzake hun cognitieve vaardigheden
+4
+2.1. INLEIDING
+Een van de basisvragen uit de psychologie van de intelligentie:
+Wat is de structuur van intelligentie?
+
+De antwoorden op deze vragen hebben redelijk belangrijke implicaties:
+
+Als je goed bent in iets, ben je goed in alles?
+Als je slaagt op functieleer, zal je slagen voor PID?
+vs. verschillende mensen kunnen uitmunten op verschillende vlakken?
+Rekenen vs. taal?
+
+Of ben je ofwel overal goed in ofwel nergens goed in?
+vs. er bestaan mensen die goed zijn in 1 ding maar niet in een ander? 
+
+Aan deze vraag werd doorheen de afgelopen eeuw (sinds Galton) dan ook veel aandacht besteed. 
+5
+2.1. INLEIDING
+Galton:
+
+Zag intelligentie als unidimensionele, erfelijke trek.
+Trachtte dan ook aan te tonen dat er positieve correlaties bestaan tussen sterk uiteenlopende psychomotorische, sensoriele en cognitieve tests.
+
+Betrouwbaarheid van de tests kan vandaag de dag wel in vraag gesteld worden.
+
+MAAR kaartte als eerste systematisch de vraag aan
+
+SINDS DAN: verschillende vooraanstaande onderzoekers hebben hun theorie over de structuur van intelligentie voorgesteld
+
+Benadrukken van gemeenschappelijke van vaardigheden
+Benadrukken van distinctieve van vaardigheden
+
+6
+2.1. INLEIDING
+HOE?
+
+Onderzoekers gebruiken doorgaans twee methoden:
+
+Factoranalyse
+	werd ontwikkeld binnen de traditie van het onderzoek naar de structuur van intelligentie, is dus een techniek die 100% is afgestemd op de vraag die gesteld wordt hier.
+
+	korte herhaling: hoe gaat dit in zijn werk?
+	1. verzameling gegevens: prestatiescores van groep personen op een reeks cognitieve taken, bij voorkeur zo ruim mogelijk
+
+	2. toepassing van FA: verklaren van correlaties tussen scores op taken aan de hand van factor(en)
+
+	3. interpreteren van factor(en) als dimensie(s) die “onderliggend” zijn aan de prestaties op de tests en die de correlaties tussen de tests verklaren
+		- allemaal pos r: 1 dimensie (bv. lichaamslengtes)
+		- groepjes correlerende tests: meerdere factoren (bv. persoonlijkheid)
+7
+2.1. INLEIDING
+HOE?
+
+Onderzoekers gebruiken doorgaans twee methoden:
+
+Theoretisch
+	Onderzoekers stellen theorie voor op basis van  theoretische synthese van bestaand onderzoek
+
+Of combinatie van beide 
+
+ Verschillende voorstellen uit beide hoeken worden nu besproken
+8
+2.2. Psychometrische modellen
+
+9
+2.2.1. Spearman
+
+10
+2.2.1.1. Spearman: 2-factorentheorie
+Was officier in Britse leger, diende in Burma en Boer oorlogen (ZA)
+Behaalde PhD pas op 41
+Zeer grote erfenis voor psychologie: intelligentie en FA 
+
+General Intelligence (1904); The abilities of man (1927): 
+Deed eerst zeer beperkt onderzoek (24 kinderen van school op de hoek)
+Verzamelde later meer en meer data
+Aan de hand van uiteenlopende tests
+Geheugen
+Verandering in gewicht, lichtsterkte, etc
+Woordenschat
+Etc…
+	 meest uiteenlopende prestaties zijn positief gecorreleerd
+  Ontwikkeling van “2-factoren”-theorie
+11
+2.2.1.1. Spearman: 2-factorentheorie
+2-factoren-theorie: 
+1. Alle vaardigheden/testscores zijn positief gecorreleerd
+	 Er ligt één fundamentele gemeenschappelijk factor aan de basis van alle prestaties op cognitieve tests = “g-factor” (“the positive manifold”) 
+	= oorzaak van positieve correlaties: speelt mee in alle tests
+	“g” is een soort mentale energie, die niet direct te meten is, maar die (in meer of mindere mate) meespeelt in alle vaardigheden
+
+2. Daarnaast wordt de prestatie op elke test ook nog bepaald door een onderliggende vaardigheid specifiek voor enkel die test = “s-factor”
+	Bv. woordenschat, optellen, etc…
+12
+
+
+g-factor
+general factor
+s-factor
+evenveel s-factoren
+als er tests zijn
+2.2.1.1. Spearman: 2-factorentheorie
+Opgelet! eigenlijk is dit dus een factor-analytisch model met één gemeenschappelijke factor / vaardigheid en een specifieke factor /errorvariantie per test
+
+
+13
+Implicatie:
+Theorie impliceert hiërarchische orde van matrix van geschatte correlaties 
+in matrix kunnen tests zodanig geordend worden dat geschatte correlaties dalen van boven naar onder en van links naar rechts → door tests te ordenen in functie van αj 
+2.2.1.1. Spearman: 2-factorentheorie
+14
+2.2.1.1. Spearman: 2-factorentheorie
+15
+Theorie impliceert hiërarchische orde van matrix van geschatte correlaties 
+in matrix kunnen tests zodanig geordend worden dat geschatte correlaties dalen van boven naar onder en van links naar rechts → door tests te ordenen in functie van αj 
+voor elke 4 tests T1,T2, T3,T4 geldt dat tetradenverschil 
+2.2.1.1. Spearman: 2-factorentheorie
+16
+Startpunt:  twee willekeurige paren van test:  (T1,T2) en (T3,T4)
+Tetradenverschil = r13r24-r14r23=0
+2.2.1.1. Spearman: 2-factorentheorie
+17
+2.2.1.1. Spearman: 2-factorentheorie
+18
+.45*.21-.35*.27=0
+2.2.1.1. Spearman: 2-factorentheorie
+19
+.35*.03-.21*.05=0
+2.2.1.1. Spearman: 2-factorentheorie
+20
+Waarom is dit zo?
+2.2.1.1. Spearman: 2-factorentheorie
+21
+Waarom is dit zo?
+
+ALS:
+
+DAN:  
+2.2.1.1. Spearman: 2-factorentheorie
+22
+OPM:
+In empirische correlatiematrices is hiërarchische orde zelden exact gerealiseerd: quasi-hiërarchische orde
+
+Toch: “test” om na te gaan of groep van variabelen unidimensioneel zijn, als deze twee implicaties opgaan…
+
+2.2.1.1. Spearman: 2-factorentheorie
+23
+Oefening:
+Zoek in bovenstaande empirische correlatiematrix schendingen van de hiërarchische orde
+24
+2.2.1.2. Spearman: tweefactorentheorieInterpretatie van g-factor
+Wat is g?
+Algemene intelligentie? Maar niemand weet wat dat precies is…
+ Spearman ging na welke taken hoogst laden
+
+Conclusie: g-factor = noegenese, het basisproces waardoor men nieuwe kennis verwerft: 3 componenten of aspecten
+reflexief bewustzijn: zich bewust zijn van zijn ervaringen, voorstellingen en ideeën
+eductie van verbanden: verbanden zien
+eductie van correlaten: op basis van verbanden nieuwe elementen of verbanden  genereren
+Tests met abstract materiaal laden hoger op g (bv. Progressive Matrices test) dan tests met concreet materiaal
+25
+2.2.1.2. Spearman: tweefactorentheorieInterpretatie van g-factor
+Wat is g?
+Algemene intelligentie? Maar niemand weet wat dat precies is…
+
+https://journals.sagepub.com/doi/full/10.1177/0963721419827275
+26
+              Raven Progressive Matrices
+
+2.2.1.2. Spearman: tweefactorentheorieInterpretatie van g-factor
+27
++ Heeft grote erfenis nagelaten in intelligentieonderzoek
+
++ Model met één gemeenschappelijke factor is spaarzaam en elegant
+
++ Opm: Ook bij dieren is er een “g” obv pos r tussen prestaties op uiteenlopende taken
+
++ Woolley et al 2010: collective g (“c”): positieve correlaties tussen prestaties van groepen mensen op uiteenlopende taken!
+Factorscore van groepen hangt niet zozeer samen met gemiddelde of max intelligentie van leden
+Wel met sociale gevoeligheid, afwisselen van inbreng, en aantal vrouwen
+- Is dit alles?
+
+2.2.1.3. Spearman: tweefactorentheorieevaluatie
+28
+Onderzoek na Spearman
+meeste empirische correlatiematrices tussen prestaties vertonen geen hiërarchische orde
+grote residuele correlaties: geschatte correlaties verschillen serieus van geobserveerde, empirische correlaties 
+	 Reden resultaten gevonden door Spearman:  
+	(a) weinig subjecten (lage betrouwbaarheid)
+	(b) weinig tests in batterij en 
+	(c) “zuiveringstechnieken” (‘specifieke overlapping’)
+Later (1937) zou Spearman zijn theorie dan ook aanpassen en groepsfactoren toelaten (zoals verbaal, spatiaal, aandacht) naast g en s
+
+
+2.2.1.3. Spearman: tweefactorentheorieevaluatie
+29
+2.2.2. Vernon
+
+30
+2.2.2.1. Vernon: GroepsfactorenVertrekpunt
+Na extractie van de g-factor vaak nog significante residuele correlaties
+Residuele correlaties?:
+geobserveerde correlatie tussen T1 en T2: .50
+ladingen van T1 en T2 op g: .50 en .60 
+residuele correlatie: .50 - .50 x .60 = .20
+
+
+g verklaart niet alles van de correlaties tussen tests!
+Er is nog samenhang tussen tests over na g: deze samenhang kan verklaard worden door bijkomende factoren
+	= groepsfactoren
+
+
+geschatte correlatie
+
+geobserveerde correlatie
+31
+2.2.2.2. Vernon: GroepsfactorenTheorie en werkwijze
+Groepsfactoren = na g, bijkomende orthogonale groepsfactoren die residuele correlaties verklaren 
+“Na g”  variantie gezamenlijk gedeeld door ALLE tests is weg (is verklaard)
+ Toch nog residuele correlaties tussen groepjes tests: deze correlaties kunnen verder verklaard worden door groepsfactoren
+ groepsfactoren zijn dus enger dan g en breder dan s
+
+32
+2.2.2.2. Vernon: GroepsfactorenTheorie en werkwijze
+Werkwijze?
+1. extractie van g-factor
+2. extractie van groepsfactoren
+3. orthogonale rotatie van groepsfactoren zodat tests er geen betekenisvolle negatieve ladingen op hebben (met vasthouding van g-as)
+
+33
+2.2.2.2. Vernon: GroepsfactorenModel van Vernon
+Bv. Model van Vernon: factor-analyse op 13 tests afgenomen van 100 recruten
+Extractie van g
+Na extractie van g zijn er twee grote groepsfactoren: 
+v:ed (verbal:educational): verbaal-numerische taken
+k:m : praktisch-mechanische-spatiale taken
+Na extractie van twee grote groepsfactoren zijn er smalle groepsfactoren:
+binnen de verbaal-numerische taken: v (verbal), n (numerical)
+binnen de praktisch-mechanische-spatiale taken: k (spatial), m (mechanical) en verschillende psychomotorische vaardigheden
+
+34
+Voorbeeld factoranalytische  table met 7 factoren:
+35
+2.2.2.2. Vernon: GroepsfactorenModel van Vernon (vervolg)
+hiërarchisch: factoren verschillen in breedte ~ # taken waarin factor meespeelt
+genealogisch: kleine groepsfactoren vallen onder grotere groepsfactoren, die op hun beurt afstammen van g
+orthogonaal: alle factoren zijn ongecorreleerd
+
+
+
+
+
+
+g
+v
+v:ed
+k:m
+n
+psychomotor.
+vaardigheden
+m
+k
+
+
+grote groepsfactoren
+kleine groepsfactoren
+g-factor
+36
+2.2.2.2. Vernon: GroepsfactorenModel van Vernon (vervolg)
+breedte van factor: niveau van factor in hiërarchie
+belang van factor: proportie variantie verklaard door factor (schatting Vernon: g: 40%, grote groepsfactoren: 10 %, kleine groepsfactoren: 10 %, s: 40 %)
+
+
+
+
+
+
+g
+v
+v:ed
+k:m
+n
+psychomotor.
+vaardigheden
+m
+k
+
+
+grote groepsfactoren
+kleine groepsfactoren
+g-factor
+37
+2.2.2.3. Vernon: Groepsfactoren Evaluatie
+1. Belang van factoren bleek relatief: hangt af van kenmerken van geteste populatie
+2. Breedte van factoren is relatief: hangt af van samenstelling van testbatterij (onmogelijkheid om alle menselijke prestaties samen te onderzoeken)
+Oppassen met resultaten van enkelvoudige studies. Afhankelijk van welke tests etc, kunnen g en groepsfactoren een andere invulling krijgen!
+
+3. Ook genealogisch karakter mag niet verabsoluteerd worden: bv. mogelijk dat tests laden op kleinere groepsfactoren, maar niet op grotere groepsfactoren (en dan weer wel op g bv.)
+ Vraagtekens bij empirische basis van model: stevig genoeg?
+
+38
+2.2.2.3. Vernon: Groepsfactoren Evaluatie
+‘Pikant’ detail: Vernon was geinspireerd door werk van Cyril Burt (1883-1971):
+Gekend onderzoeker in intelligentie en differentiele psychologie (en bv mentor van Eysenck), en ook eugenetica
+Eerste psycholoog die tot ridder (‘Sir’) werd geslagen
+Spearman Chair in psychology, UCL
+Belangrijke bijdragen op vlak van intelligentie, genetica van IQ, etc.
+Echter, na dood:
+Meeste bewijzen verbrand  of verdwenen?
+Fouten en fabricaties in artikels (bv tabellen gekopieerd, grote aantallen twins reared apart)
+ Grote controverse, hele domein leed schade
+Geldt nog steeds als voorbeeld van belang van intellectuele eerlijkheid in wetenschap
+Cfr. Stapel controverse 2011
+39
+2.2.3. Thurstone
+
+40
+Thurstone: 
+Amerikaans psycholoog
+Student van Edison (een van de meest actieve uitvinders 
+	uit geschiedenis)
+Steunde ook op FA
+
+Vertrekpunt: er zijn verschillende types basisintelligentie
+Was het niet eens met Spearman dat 1 factor alle correlaties tussen tests bepaalt
+Positieve correlaties tussen tests kan ook andere basis hebben
+Stelt dat er meer dan één gemeenschappelijke factor nodig is om de empirische correlatiematrix van cognitieve prestaties te verklaren
+Intelligentie bestaat dus primair uit VERSCHILLENDE TYPES VAARDIGHEDEN = primary mental abilities
+2.2.3.1. Thurstone: primary mental abilitiesVertrekpunt & principes
+41
+42
+Thurstone: 
+= Amerikaanse school: andere principes dan Engelse school (Vernon)
+simple structure: elke test laadt slechts op één gemeenschappelijke factor ↔ genealogisch principe
+gemeenschappelijke factoren zijn allemaal even breed: PRIMARY MENTAL ABILITIES ↔ hiërarchisch principe
+Primary factors kunnen onderling gecorreleerd zijn (obliek!)
+ Geen g-factor van bij begin, wel 7 verschillende types vaardigheden, die onderling correleren,  liggen aan de basis van intelligentie
+
+2.2.3.1. Thurstone: primary mental abilitiesVertrekpunt & principes
+43
+V (verbal comprehension): Verbaal begrip(woordenschat WAIS)
+W (word fluency): Woordvlotheid (woordassociatie)
+N (number): Numerische factor (optellen, aftrekken)
+M (rote memory): Associatief geheugen (voornamen en namen associëren)
+I (induction) (residuele g-factor, wiskundige reeksen)
+P (perceptual speed): Perceptuele snelheid (kantoorwerk: snelle visuele vergelijking van namen)
+S (space): Ruimtelijke voorstelling
+2.2.3.2. Thurstone: primary mental abilitiesZeven primary abilities
+44
+Nadien zou hij nog extra primary abilities toevoegen, zoals
+S1 en S2: statische en dynamische ruimtelijke voorstelling
+
+S1: figuren mentaal verplaatsen terwijl figuur behouden blijft
+2.2.3.2. Thurstone: primary mental abilitiesZeven primary abilities
+45
+S(1)-item:  statische spatiale factor
+Welke tekeningen zijn zelfde object na rotatie in het vlak?
+46
+S2-item:  dynamisch spatiale factor
+Welke tekeningen bekomt men door door X af te snijden en ergens toe te voegen? 
+47
+Nadien zou hij nog extra primary abilities toevoegen, zoals
+D (deduction)
+R (reasoning)
+S2: dynamische spatiale factor
+Cs (speed and strength of closure)
+Cf (flexibility of closure)
+2.2.3.2. Thurstone: primary mental abilitiesBijkomende vaardigheden
+48
+Cs-item: Speed and strenght of closure
+49
+Cf-item:  Flexibility of closure
+50
+Is deze aanpak wel zo anders als vorige, bv. Vernon?
+Werkwijze:
+- extractie van zeven gemeenschappelijke factoren
+- oblieke rotatie van alle gemeenschappelijke factoren (dus ook van g-factor, d.w.z. van de eerst geëxtraheerde factor)
+Factoren, primary mental abilities vertonen onderling nog correlaties
+De correlaties tussen de factoren trachtte men vervolgens terug te verklaren door een FA op deze factoren = 2de orde FA
+Thurstone stelde dat 1 factor voldoende was om deze (doorgaans positieve) correlaties te verklaren
+	~ algemene intelligentie (g)
+2.2.3.2. Thurstone: primary mental abilities
+51
+Is deze aanpak wel zo anders als vorige, bv. Vernon?
+
+Enerzijds (Vernon):
+	- vertrekpunt: 1 hoofdintelligentie: verklaart correlatie tussen alle tests
+	- Lagere groepsintelligenties die overblijvende correlaties tussen groepjes test bepalen
+Anderzijds (Thurstone)
+	- vertrekpunt: Niet 1 intelligentie, wel verschillende types
+	- types verklaren correlaties tussen groepjes tests
+	- maar verschillende types, Primary abilities hangen onderling positief samen en vormen zo algemene intelligentie (en dit verklaart gemeenschappelijke correlaties tussen/variantie van alle tests)
+2.2.3.2. Thurstone: primary mental abilities
+52
+
+MAW: modellen van Vernon en Thurstone zijn in zekere zin equivalent:  
+model met één tweede orde factor en een reeks oblieke eerste orde factoren kan worden omgezet in een min of meer genealogisch orthogonaal systeem van eerste orde factoren
+beide modellen resulteren in zelfde geschatte correlaties tussen taken
+keuze tussen beide modellen hangt dus af van wat men het best interpreteerbaar vindt, keuzes van de onderzoeker
+2.2.3.3. Thurstone: primary mental abilitiesEvaluatie
+53
+Verder:
+empirische basis niet zo stevig: slechts 3 primary abilities (V, N, S) worden consistent teruggevonden (zie Vernon)
+	↔ g en twee grote groepsfactoren van Engelse school worden wel bijna altijd gevonden
+	Echter:  Oplossingen met minder factoren zijn stabieler dan oplossingen met meer factoren
+primary mental abilities allemaal even breed? hangt af van samenstelling van testbatterij
+2.2.3.3. Thurstone: primary mental abilitiesEvaluatie (vervolg)
+54
+Extra oefening
+Gegeven de 1 factor-oplossing voor de geobserveerde WAIS correlatiematrix (zie les over FA): Bereken de residuele correlaties tussen Woordenschat en Informatie, en tussen Blokpatronen en Figuurleggen.. 
+55
+2.2.4. Guilford
+56
+2.2.4.1. Guilford: structure of intellect
+Guilford: onderzoeker uit de VS
+Verwerpt idee van ‘g’ algemene intelligentie
+Vertrekt van opvatting van Thurstone: er zijn meerdere types intelligentie
+MAAR 
+Niet noodzakelijk allemaal gecorreleerd (gebruikte orthogonale rotaties) (geen g!)
+verwijt Thurstone ea gebrek aan logica in het benoemen van abilities:
+	 Verbal comprehension, Word fluency, Number, Spatial
+	 verwijzen naar inhoud / materiaal
+	Perceptual speed, Memory, Induction
+	 verwijzen naar mentale operatie
+ Bouwt zelf systematisch theoretisch systeem uit
+
+57
+2.2.4.1. Guilford: structure of intellect Model
+Basisprincipe:
+elke mentale taak heeft 3 facetten:
+Inhoud: op welk soort materiaal worden er bewerkingen uitgevoerd?
+sensorieel, symbolisch, semantisch, gedrag, etc…
+vorm / mentaal product: in welke vorm is materiaal opgeslagen?
+Eenheden, klassen, relaties, etc…
+mentale operatie: welke operatie wordt er op materiaal uitgevoerd?
+Evaluatie, geheugen, convergent vs. divergent etc…
+58
+2.2.4.1. Guilford: structure of intellect model
+Guilford onderscheidt volgende categorieën voor de drie facetten
+59
+Content 
+Sensory- the properties of stimuli we can experience through the senses 
+e.g. colour, loudness, shape, texture. 
+Symbolic - numbers, letters, symbols, designs. 
+Semantic - the meaning of words, ideas. 
+Behavioural - the actions and expressions of people. 
+good or bad etc. 
+Products 
+Units - a single number, letter or word, bv 1 euro. 
+Classes - a higher order concept bv. euro 
+Relations - a connection between concepts, bv. 100 cents in 1 euro. 
+Systems - an ordering or classification of relations, bv. alle currencies. 
+Transformation - altering or restructuring intellectual contents, bv. wisselkoers. 
+Implication - making inferences from separate pieces of information: bv. veel euros=rijk
+Operations 
+Cognition – recognizing, perception, judgment. 
+Memory - retaining and recalling the contents of thought. 
+Divergent production - producing a variety of ideas or solutions to a problem. 
+Convergent production - producing a single best solution to a problem. 
+Evaluation - deciding whether the intellectual contents are positive or negative 
+
+60
+2.2.4.1. Guilford: structure of intellect Model 
+op basis van dit 3-facets model stelt hij dat er 4 (inhoud) × 6 (mentaal product) × 5 (mentale operaties) = 120 soorten vaardigheden zijn
+inhoud
+61
+2.2.4.1. Guilford: structure of intellect Model 
+op basis van dit 3-facets model stelt hij dat er 4 (inhoud) × 6 (mentaal product) × 5 (mentale operaties) = 120 soorten vaardigheden zijn
+
+	bv. herinneren een hond gezien te hebben
+	= sensorieel – unit – geheugen, etc.
+
+Hij verwacht ook zoveel groepsfactoren terug te vinden
+	niet per se in 1 studie
+	maar over meerdere gespreid
+	want elke combinatie reflecteert een andere vaardigheid
+
+Opmerking: nadien werd sensorieel opgesplitst in visueel en auditief  150 factoren
+In 1982 rapporteerde hij dat hij er al 105 ‘gevonden’ had. Hoe?
+62
+2.2.4.1. Guilford: structure of intellect:Werkwijze
+1. tests afgenomen van grote groepen bv. officieren
+	(Guilford was tijdje werkzaam in leger: VS, oa tijdens WO II: ontwikkelde tests voor selectie en trainen van piloten, alvorens aan universiteit verder onderzoek uit te bouwen) 
+	erna in selectiebureaus
+
+2. factor-analyse van intercorrelatiematrices: 
+rotatie
+naar simple structure
+orthogonaal
+
+3. vindt 40 factoren die passen in zijn kubus
+
+63
+4.  gaat vervolgens na of factoren die thuishoren in lege cellen kunnen teruggevonden worden via empirisch onderzoek 
+bedenkt verschillende concrete metingen voor deze hypothetische factoren
+plaatst deze nieuwe tests samen met tests waarvan hij weet welke factor ze meten in éénzelfde testbatterij
+factor-analyse:
+rotatie
+orthogonaal
+procrustes: roteren naar vooropgestelde structuur (procrustes?)
+nagaan of resulterende ladingen van tests evidentie opleveren voor bestaan van hypothetische factor
+2.2.4.1. Guilford: structure of intellect:Werkwijze
+64
+Procrustes kept a house by the side of the road where he offered hospitality to passing strangers, who were invited in for a pleasant meal and a night's rest in his very special bed. Procrustes described it as having the unique property that its length exactly matched whomsoever lay down upon it. What Procrustes didn't volunteer was the method by which this "one-size-fits-all" was achieved, namely as soon as the guest lay down Procrustes went to work upon him, stretching him on the rack if he was too short for the bed and chopping off his legs if he was too long. Theseus turned the tables on Procrustes, fatally adjusting him to fit his own bed. 
+Procrustes-mythe
+65
+Procrustes-rotatie?
+- roteer een factor-oplossing zodanig dat de ladingen zo goed mogelijk aansluiten bij een a priori ladingenstructuur
+	vb. in het geval van Guilford
+
+
+
+
+
+
+
+
+
+
+ Nieuwe tests laden op andere factor dan reeds gekende tests
+66
+2.2.4.1. Guilford: structure of intellectEvaluatie
+voordelen:
+Kubusmodel toont de wijde armslag van intelligentie
+kubusmodel verplicht tot ernstige taakanalyse
+kubusmodel kan gebruikt worden om factoren van andere onderzoekers te analyseren en plaats te geven (bv. Thurstone’s primary mental abilities)
+vb.  Verbal comprehension:  semantisch-eenheden-kennis
+vb. Word fluency:  semantisch/symbolisch-eenheden-divergent denken
+kubusmodel introduceert aantal nieuwe categorieën in vaardighedendomein
+inhoud: gedragingen →  sociale intelligentie
+mentale operatie: divergent denken → creativiteit, soepelheid vs. rigiditeit, enz. ...
+67
+Guilford & Thurstone
+68
+2.2.4.2. Guilford: structure of intellectEvaluatie (vervolg)
+nadelen:
+Zeer complex
+Zijn er echt 120-150 onafhankelijke factoren/vaardigheden?
+veel factoren → onbetrouwbare resultaten
+factoren onafhankelijk?
+Gebruikte hooggeschoolde proefpersonen
+Gebrek aan g-factor als gevolg van artefacten in de data? 
+procrustes-rotatie is geen stevige toets van gestelde hypotheses (cfr. confirmatorische factor-analyse)
+69
+2.2.5. Cattell
+
+70
+2.2.5.1. Cattell: multiple 2de-orde factoren
+Raymond Cattell:  zie ook persoonlijkheid
+Student en medewerker van Spearman, verhuisde later naar VS
+ gebruik van FA in onderzoek over intelligentie
+Ontwikkelde tevens invloedrijke theorie van persoonlijkheid
+
+Vertrekt van Spearman’s g, maar stelt dat deze verder op te delen is in twee onderscheiden componenten
+71
+2.2.5.1. Cattell: multiple 2de-orde factorenModel en werkwijze
+1. oblieke rotatie 
+2. uit intercorrelatiematrix van eerste orde factoren worden oblieke factoren van tweede orde getrokken:
+Horn en Cattell: 
+Gf (fluid intelligence)
+Gc (crystallized intelligence)
+Gv (general visualization)
+Gs (general speediness)
+Hakstian en Cattell
+Gf 
+Gc 
+Gv 
+Gps (general perceptual speed, deelaspect van Gs)
+Deze studies worden gezien als evidentie voor het model
+3. Positieve r’s tussen deze oblieke factoren worden verklaard door 1 3de orde factor = g
+72
+2.2.5.1. Cattell: multiple 2de-orde factorenModel en werkwijze
+ twee voornaamste soorten intelligentie (zie ook KAIT)
+fluid intelligence Gf: ongebonden of vrije intelligentie
+basisvaardigheid inzake redeneren en verwante hogere orde, abstracte processen → sijpelt door in allerlei verschillende soorten mentale processen
+niet cultuurgebonden
+ontwikkelt in individu door maturatie (en stopt met stijgen erna)
+73
+2.2.5.1. Cattell: multiple 2de-orde factorenModel en werkwijze
+fluid intelligence 
+speelt mee in
+culture fair tests
+Bv. Progressive Matrices van Raven
+metingen van Thurstone’s Inductie-factor
+kan bijgevolg omschreven worden als capaciteit tot afleiden van relaties en correlaten in welk materiaal ook, niet gebonden aan culturele kennis
+Zien van verbanden, verbanden flexibel kunnen toepassen op materiaal, vaardigheid om abstracte verbandsproblemen op te lossen 
+(Opm: speelt grote rol in bv. wiskunde: meeste wetenschappelijke doorbraken op jongere leeftijd wiskundigen)
+74
+2.2.5.1. Cattell: multiple 2de-orde factorenModel en werkwijze
+ twee voornaamste soorten intelligentie (zie ook KAIT)
+fluid intelligence Gf: ongebonden of vrije intelligentie
+crystallized intelligence Gc: gekristaliseeerde intelligentie
+Vaardigheden en kennis verworven via opvoeding, ervaringen, feitenkennis
+beïnvloed door cultuur
+blijft stijgen met leeftijd door accumulatie van kennis
+(te onderscheiden van schoolse vlijt of interesse, is eerder deel van persoonlijkheid)
+75
+2.2.5.1. Cattell: multiple 2de-orde factorenModel en werkwijze
+crystallized intelligence 
+speelt mee in
+verbale gedeelte van klassieke intelligentietests
+WAIS: woordenschat, informatie, bevattingsvermogen, gelijkenissen
+metingen van Thurstone’s V-factor
+
+
+(Opm: speelt grote rol in bv. taal: meeste wetenschappelijke doorbraken op latere leeftijd bij taalkundigen, historici)
+
+76
+2.2.5.1. Cattell: multiple 2de-orde factoren Model en werkwijze
+Verschillende predicties over tijdsverloop van intelligentiecomponenten bleek wel niet altijd te kloppen, bleek achteraf (Horn, 1998, Craik & Salthouse, 2000):
+Zowel gf als gc stijgen tot in volwassenheid
+Gedurende volwassenheid beginnen omgevings- en genetische ouderdomsfactoren meer een rol te spelen
+Gf lijkt meer gevoelig voor deze factoren en daalt dan ook sterker dan gc tijdens volwassenheid 
+77
+2.2.5.1. Cattell: multiple 2de-orde factorenModel en werkwijze
+Daarnaast nog andere 2de orde factoren die rol spelen in intelligentietests:
+general visualization 
+speelt mee in
+performantiegedeelte van WAIS: puzzels, blokpatronen
+metingen van Thurstone’s ruimtelijke (Space)-factor
+metingen van flexibility of closure
+~ visuele factor
+general speediness
+omvat kopieersnelheid en perceptuele snelheid
+kan samenhangen met testmotivatie
+78
+2.2.5.2. Cattell: multiple 2de-orde factorenEvaluatie
+
++ grote invloed, ook op ontwikkelen van IQ-tests
++ benadrukt zowel cultuurvrije als cultuurgebonden aspect van intelligentie (abstract redeneren vs. kennis)
++ hierarchische opbouw (met oblieke factoren)
+
+- Rol van 2 bijkomende factoren?
+
+79
+2.2.6. Recente inzichten
+
+(http://www.cell.com/neuron/fulltext/S0896-6273(12)00584-3)
+
+80
+2.2.6. Carroll
+
+81
+2.2.6.1. Carroll: heranalysesWerkwijze
+John Carroll (1916-2003)
+Onderwijsonderzoeker uit VS
+Stelt hierarchisch model van intelligentie voor obv heranalyses
+	
+“Tri-strata model van menselijke cognitieve vaardigheden”
+
+ Baseert zich op grootschalige heranalyses van bestaande gegevens
+82
+2.2.6.1. Carroll: heranalysesWerkwijze
+heranalyse van grote reeks gegevenssets verzameld tussen 1927-1987
+
+ selecteert 467 gegevenssets op basis van
+aantal subjecten
+aantal tests
+design inzake gekende en gepostuleerde factoren
+
+  analyseert al deze gegevenssets op dezelfde manier 
+bepaling van aantal factoren
+oblieke rotatie, gevolgd door tweede orde en eventueel derde orde factor-analyse
+83
+2.2.6.1. Carroll: heranalysesWerkwijze (vervolg)
+interpreteert factoren aan de hand van a priori schema’s
+vb. snelheid vs. niveau
+vb. factoren van Horn en Cattell
+
+gaat na welke factoren worden teruggevonden in meerdere gegevenssets
+
+groepeert gevonden factoren in drie theoretische strata
+stratum bestaat uit even brede factoren (cfr. hiërarchisch principe van Engelse school!)
+factoren die tot hetzelfde stratum behoren, kunnen afhankelijk van de studie eerste orde, tweede orde of derde orde factoren zijn
+Hierarchie is dus theoretisch, niet empirisch
+84
+2.2.6.2. Carroll: heranalyses3 strata
+afstanden van stratum II factoren tot 3G geven aan in welke mate deze factoren gedomineerd worden door 3G
+stratum I factoren kunnen onder meerdere stratum II factoren ressorteren (↔ genealogisch principe Engelse school!)
+3G: algemene intelligentie
+Stratum III
+Stratum I
+Stratum II
+
+
+
+
+
+
+
+
+
+
+85
+2.2.6.2. Carroll: heranalysesStratum II
+2F: Fluid intelligence
+2C: Crystallized intelligence
+2Y: algemene geheugenfactor, waarbij geheugen verwijst naar werkgeheugen
+2V: brede visuele perceptiefactor
+2U: brede auditieve perceptiefactor
+2R: brede herinnerinsvaardigheid, verwijst naar lange termijn geheugen
+2S: brede cognitieve snelheidsfactor
+2T: beslissingssnelheid
+86
+2.2.6.3. Carroll: heranalysesEvaluatie
+voordelen
+Brengt vele vorige inzichten samen:
+g
+Cristallized vs. fluid
+Thurstone’s factoren, 
+Vernon’s hierarchische benadering…
+heranalyses zijn systematisch door dezelfde persoon uitgevoerd
+vb. factoren op tamelijk uniforme wijze geïnterpreteerd
+gebruik van a priori theorieën doet denken aan Guilford
+echter: Carroll gebruikt inhoudelijke theorieën als gids bij interpretaties ipv als kubus waarvan elke cel moet opgevuld worden
+87
+2.2.6.3. Carroll: heranalysesEvaluatie
+nadeel
+a priori theorieën werken als self-fulfilling prophecies
+vb. resultaten komen overeen met latere theorie van Horn en Cattell, maar deze theorie was leidraad bij interpretatie van gevonden factoren!
+
+
+88
+2.2.7. Gustafsson: confirmatorische factor-analysePrincipe
+Tot nu: exploratorische factor-analyse
+Je vertrekt zonder vooropgesteld idee, maar ‘gaat kijken’ in de data 
+geen a priori restricties op ladingen en correlaties tussen factoren (tenzij keuze orthogonaal-obliek)
+
+beide soorten restricties wel mogelijk bij confirmatorische factor-analyse
+Je vertrekt eigenlijk van vooraf bepaalde structuur die je oplegt aan de gegevens
+berekent hoe goed resulterende factormodel past bij gegevens (fit)
+dus toets van a priori hypotheses over structuur van ladingen en over correlaties tussen factoren
+89
+2.2.7. Gustafsson: confirmatorische factor-analyseA priori model
+Werd als een van de eersten toegepast door Gustafsson:
+	- legt dus bepaalde structuur op aan gegevens
+	- geinspireerd door Cattell (gc en gf) en Spearman (g):
+
+
+
+
+
+
+
+
+pijl staat voor mogelijks van 0 verschillende lading 
+gebogen stippellijn staat voor mogelijks van 0 verschillende correlatie
+Grote verschil: dit model wordt door onderzoeker OP VOORHAND bepaalt , in plaats van ACHTERAF bekomen obv gegevens
+90
+2.2.7. Gustafsson: confirmatorische factor-analyseWerkwijze & Resultaten
+Vervolgens:
+- voor elke eerste orde factor kiest Gustafsson enkele paralleltests 
+
+- confirmatorische factor-analyse: 
+model past goed bij gegevens; a priori hypotheses zijn dus plausibel
+lading van Gf op g is ongeveer gelijk aan 1, wat impliceert dat Gf niet te onderscheiden is van g
+- MAAR eerder smalle empirische basis
+
+
+
+
+
+
+
+
+
+91
+2.2.8. Evaluatie Factoranalytisch onderzoek
+Factoranalytisch onderzoek naar intelligentie:  lange traditie, zeer grote bijdrage en stempel (vormt het fundament van hedendaags intelligentieonderzoek)
+ Maar : ook veel kritiek:
+	-atheoretisch
+	-weinig toetsend
+	-weinig zicht op cognitieve processen
+	-proces is onderhevig aan vele verschillende beslissingen die 	eindresultaat beïnvloeden (zie ook deel FA)
+
+92
+2.2.8. Evaluatie Factoranalytisch onderzoek
+
+2.2.8.1. gegevensverzameling
+
+2.2.8.1.1. subjecten
+hoe
+aantal
+
+2.2.8.1.2. tests
+hoe 
+aantal
+
+2.2.8.2. verwerking
+2.2.8.2.1. analyse
+2.2.8.2.2. interpretatie
+behoefte aan meer systematiek
+behoefte aan theoretisch uitgangspunt
+
+
+
+93
+2.2.8.1.1. gegevens-subjecten
+hoe:
+veel verschillen: 
+vb. Guilford → hooggeschoolde proefpersonen
+vb. Engelse school → kinderen lager onderwijs
+gebruikte selectie kan grote impact hebben op resultaten
+vb. differentiatiehypothese (Carroll): met stijgende leeftijd meer gedifferentieerde structuur
+aantal:
+correlaties tussen tests en dus de factorstructuur alleen maar betrouwbaar als aantal voldoende groot en divers
+94
+2.2.8.1.2 gegevens – tests
+hoe:
+keuze van tests gebeurt vaak te intuïtief
+snelheid versus niveau is verweven
+vooral ingewikkelde tests gebruikt → niet duidelijk wat ze precies meten (nl. verschillende vaardigheden)
+
+aantal:
+moet in verhouding staan tot aantal geëxtraheerde factoren
+95
+2.2.8.2.1. verwerking – analyse
+veel opties
+keuze van het aantal gemeenschappelijke factoren
+Rotatiemethode
+exploratorisch vs. confirmatorisch
+
+keuzes kunnen verschillen in gevonden factor-structuren ten dele verklaren (bv. Thurstone oblieke factoren en Vernon overlappende groepsfactoren)
+
+goede theorie kan helpen bij het kiezen
+vb. exploratorische factor-analyse: alle geroteerde factoroplossingen zijn formeel gezien even goed (zelfde communaliteiten, voorspelde correlaties)
+vb. confirmatorische factor-analyse: formulering van hypothesen
+96
+2.2.8.2.2. verwerking – interpretatie
+vaak complexe aangelegenheid
+vb. naam van test komt niet per se goed overeen met wat de test effectief meet
+
+
+97
+2.2.8. Evaluatie Factoranalytisch onderzoek
+Algemene opmerking
+factor-analyse van intercorrelaties tussen complexe cognitieve taken zegt iets over de structuur en correlaties van individuele verschillen in deze cognitieve taken
+maar zegt het ook iets over de cognitieve processen die onderliggen aan deze individuele verschillen? 
+	Cfr. Statuut van de latente, onderliggende factor?
+	Het feit dat je een factor vindt (=wiskundige zekerheid) betekent nog niet dat er dan ook echt een onderliggende factor bestaat
+	bv. Correlatie tussen mijn leeftijd, prijs van zwitserse kaas, de populatie van Mexico stad, de afstand tussen sterrenstelsels, het gewicht van mijn troetelschildpad over de tijd
+	 na FA vind je 1 dimensie. Causaal statuut?
+	cfr. Stephen Jay Gould “Mismeasure of Man”
+	cfr. Onderzoek Davis (2011): intelligentie wordt bepaald agv vele verschillende genetische invloeden, vele processen spelen een rol
+98
+Dienstmededeling
+
+College 15 mei:
+leerstof 
+
+
+College 22 mei:
+(laatste leerstof?) 
+Feedback
+Beantwoorden vragen
+Toelichting leerstof en examen
+
+99
+Vragenles
+Het vragencollege zal grotendeels gewijd worden aan het beantwoorden van vragen. Om dit zo goed mogelijk te organiseren, vinden jullie hieronder de instructies voor het insturen van vragen:
+
+Vragen worden ingediend via email, en gestuurd naar peter.kuppens@kuleuven.be 
+
+2. Vragen worden APART ingediend PER LESDEEL (de lesdelen zijn I.1, I.2, II.1, II.2, II.3, II.4, III.1, III.2, III.3; voor indeling zie Toledo en slides). 
+
+Indien je vragen hebt bij meerdere lesdelen, verstuur je dus meerdere emails, telkens 1 per lesdeel met daarin je vragen over dat lesdeel (dus als je bv. vragen hebt bij lesdeel I.2 en III.3, verstuur je 2 emails: een met vragen over lesdeel I.2, en een met vragen over lesdeel III.3).  
+
+3. Stuur enkel vragen over onderwerpen waar je echt mee vastzit, ook na overleg met medestudenten. Vermijd vragen over details, of bv. over het niet verstaan van een bepaald voorbeeld, zinsnede, of slide omdat je niet in de les aanwezig was. Op die manier hebben alle studenten iets aan de vragenles. 
+100
+Vragenles
+4. Het onderwerp van je email is als volgt gestructureerd:
+- vermelding van het lesdeel waarover de vragen gaan (gebruik makende van de benamingen I.1 tot III.3)
+enkele trefwoorden bij je vra(a)g(en) zelf
+
+5. In de tekst van je email verwoord je vervolgens duidelijk je vraag, zonder onnodige inleiding. Verwijs waar mogelijk naar de slides waar je vragen bij hebt (aangegeven door lesdeel en nummer van de slide).
+ 
+Tijdens de vragenles zal er sowieso aandacht besteed worden aan wat er onder te kennen stof wel en niet verstaan wordt, en wat er verwacht wordt voor het examen. Individuele vragen indienen over deze zaken is dus NIET nodig.
+
+De DEADLINE voor het indienen van vragen is woensdag 13 mei 15u.
+101
+2.3. Theoretische modellen
+Vorige modellen:
+Gebaseerd op factoranalytische studies
+
+Andere auteurs gebruikten veel sterkere theoretische invalshoek
+-	Door synthese van literatuur 
+evidentie vanuit verschillende hoeken (case studies, meta-analyses, etc.)
+Komen zo tot een theoretisch geinspireerde theorie (ipv empirisch geinspireerd). 
+We bespreken er twee: Gardner en Sternberg
+
+
+
+
+
+
+
+
+102
+2.3.1. Gardner: multiple intelligencesVertrekpunt en theorie
+Vooral actief in onderwijspsychologie
+
+Is bezorgd over de vertaling van wetenschappelijk onderwijs naar de praktijk.
+Onderzoek: steriele intelligentietests, gestandaardizeerde condities, optimale testsituatie
+↔ Klaslokaal: vele beperkingen, vele verschillende kinderen, verschillende interesses, verschillende achtergrond, verschillende leerkrachten: vele verschillende factoren hebben invloed op leerproces
+
+De klassieke intelligentietheorieen zijn dus niet noodzakelijk sterk relevant voor de concrete toegepaste situatie
+
+
+
+
+
+
+
+
+
+103
+Gardner: multiple intelligences
+Uit kritiek op klassieke, academische intelligentietheorieën op 2 cruciale vlakken
+Inzake structuur van intelligentie:
+
+Gardner kijkt verder dan klassieke intelligentieonderzoek, en bestudeert studies over 
+Idiots savants (helaas denigrerende term): personen die niet meer dan gemiddeld of zelfs laag scoren op meeste vaardigheden, maar dan wel een “eiland” van uitzonderlijke vaardigheid  hebben. bv. 
+http://www.youtube.com/watch?v=dhcQG_KItZM (Kim Peek)
+http://www.youtube.com/watch?v=ckqDX2XpdyY&feature=related 
+
+ g?
+
+
+
+
+
+
+
+
+
+104
+Gardner: multiple intelligences
+Uit kritiek op klassieke, academische intelligentietheorieen op 2 cruciale vlakken
+Inzake structuur van intelligentie:
+
+Gardner kijkt verder dan klassieke intelligentieonderzoek, en bestudeert studies over 
+(omgekeerde) patienten met hersenschade die uitval hebben in zeer specifiek domein:
+	functioneren perfect normaal, behalve op vlak van 1 specifieke vaardigheid
+	Bv. herkennen van gezichten, het kunnen herkennen/verwerken van muziek (amusie), etc.
+http://www.youtube.com/watch?v=tPRW0wZ9NOM
+(Oliver Sacks)	 g?
+
+
+
+
+
+
+
+
+
+105
+Gardner: multiple intelligences
+Uit kritiek op klassieke, academische intelligentietheorieen op 2 cruciale vlakken
+Inzake structuur van intelligentie:
+
+Stelt een van de fundamentele inzichten van klassiek intelligentieonderzoek in vraag, namelijk bestaan van een algemene intelligentie, g 
+→ Stelt immers dat vaardigheden gecorreleert zijn: goed in iets = goed in alles
+	MAAR ↔ idiots savants, brain lesion patienten
+
+↔ Gardner stelt dat er NIET zoiets is als algemene intelligentie, maar verschillende soorten of types intelligentie = Multiple intelligences
+
+
+
+
+
+
+
+106
+Gardner: multiple intelligences
+Uit kritiek op klassieke, academische intelligentietheorieen op 2 cruciale vlakken
+Inzake breedte:
+
+De westerse, academisch geinspireerde onderwijspraktijk spitst zich toe op 
+Logisch mathematische vaardigheden (rekenen, wetenschappen)
+Linguistische vaardigheden (taal)
+
+↔ er zijn ook nog andere soorten vaardigheden/intelligenties die hierdoor geen aandacht krijgen in onderwijs, zoals
+	-  vaardigheden in omgaan met anderen
+	-  vaardigheden op bv muzikaal vlak 
+
+
+
+
+
+
+
+
+
+107
+Gardner: multiple intelligences
+Uit kritiek op klassieke, academische intelligentietheorieen op 2 cruciale vlakken
+Als gevolg van 1.  en 2.:
+
+Leerlingen die goed zijn op andere vlakken dan diegene die benadrukt worden in klassieke theorieen en onderwijspraktijk (want geen g), krijgen niet de kans om hun vaardigheden te ontwikkelen.
+
+Het onderwijssysteem 
+bevoordeelt studenten met aanleg voor bepaalde vaardigheden
+benadeelt studenten met aanleg voor andere vaardigheden 
+
+ Ontwikkelt theorie op basis van deze inzichten
+
+
+
+
+
+
+
+
+108
+Gardner: multiple intelligences
+Gardner: multiple intelligences
+Identificeert, op basis van literatuur over de domeinen waar mensen in kunnen uitblinken, (eerst 7 en dan) 9 soorten intelligenties: 
+Taal
+Logisch-mathematisch
+Spatiaal
+Muzikaal (toonvastheid, kunnen naspelen, etc…)
+Lichaam (dansers)
+Interpersoonlijk: omgaan met anderen, samen kunen werken, empathie, anderen begrijpen, etc…
+Intrapersoonlijk: inzicht in eigen behoeften en motivaties, emoties, sterktes en zwaktes
+Naturalistisch: vaardigheid in omgaan met natuur “groene vingers”
+Existentialistisch: vaardigheid eigen plaats te verstaan in groter geheel en deep time (~spiritualiteit)
+
+
+
+
+
+
+
+
+109
+Gardner: multiple intelligences
+Cruciaal hierbij is:
+
+- Hij neemt NIET aan dat deze allemaal verwijzen naar een algemene intelligentie. 
+- Stelt zelfs dat ze gelegen zijn in verschillende delen van de hersenen/beroep doen op verschillende hersendelen, zonder overkoepelende centrale controle
+ Maw. ze zijn dus onafhankelijk.
+Dit heeft belangrijke implicaties:
+Slecht zijn in 1 ding neemt niet weg dat je goed bent in iets anders
+Iedereen is wel ergens een beetje goed in (behalve uitzonderingen) 
+
+De verschillende vaardigheden staan wel in interactie en werken dikwijls samen. Bv wiskundige puzzel oplossen in groep, etc… 
+
+
+
+
+
+
+
+
+110
+2.3.1.2 Gardner: evaluatie
++
+Intuitief en moreel aantrekkelijk “de kunstenaar” “de wiskundige”
+      (bewijs: meest populaire TED talk van Ken Robinson
+       https://www.ted.com/talks/ken_robinson_says_schools_kill_creativity)
+Stelt klassieke dogma van g serieus in vraag, oa op basis van gedocumenteerde gevalsstudies
+Dwingt intelligentieonderzoek EN onderwijspraktijk om verder te gaan kijken dan klassieke vaardigheden
+- 
+Gebrek aan empirische evidentie voor verschillende vaardigheden, Bv. geen tests ontwikkeld om ze te meten
+Gaat toch voorbij aan feit van positieve correlaties
+Onderscheid met persoonlijkheid?
+
+
+
+
+
+
+
+
+
+111
+2.3.2. Sternberg
+Robert Sternberg: (een van) de meest vooraanstaande hedendaagse intelligentieonderzoekers
+
+Ontwikkelde “Triarchic theory of intelligence”
+Identificeert drie verschillende types intelligentie, in termen van subtheorieën, eigenlijk theorieën over hoe ons brein omgaat met verschillende soorten van uitdagingen
+
+Componentiele subtheorie
+Contextuele subtheorie
+Experientiele subtheorie
+
+
+
+
+
+
+
+
+112
+2.3.2.1. Theorie
+
+113
+2.3.2.1 Sternberg: Theorie
+Componentiele subtheorie
+~ vooral interne, informatieverwerkende aspecten van intelligentie
+“analytische intelligentie”
+
+3 soorten componenten die interne mechanismen van intellectueel functioneren omvatten
+Metacomponenten
+	de mentale mechanismen die een probleem herkennen, strategieen  ontwikkelen om het op te lossen, toewijzen en managen van inspanningen om probleem op te lossen, supervisie dat alles naar wens verloopt, etc.
+	 de “manager” van de fabriek. 
+	 komt volgens Sternberg dichtst in de buurt bij g 
+
+
+
+
+
+
+
+
+114
+Sternberg
+Metacomponenten
+Performantiecomponenten
+	de processen die het probleem echt oplossen, de echte informatieverwerking
+	 de “arbeiders” van de fabriek
+Kennisvergaringscomponenten
+	processen die nieuwe  oplossingen zoeken, nieuwe informatie opzoeken, oude en nieuwe informatie vergelijken, etc.
+	  de “ingenieurs” van de fabriek
+
+De componentiele theorie weerspiegelt dus hoe we een probleem oplossen en welke elementen hierbij komen kijken
+Opmerking: de grenzen tussen de componenten zijn nogal vaag
+	
+	
+
+	
+
+
+
+
+
+
+
+
+115
+Sternberg
+Contextuele subtheorie
+~ vooral externe aspecten van intelligentie
+“praktische intelligentie”: de toewijzing van de componentiele componenten in de buitenwereld, aan de hand van drie processen:
+
+Adaptatie
+	zichzelf aanpassen aan de eisen en uitdagingen van de omgeving. Dus het toewijzen van de componenten aan wat de omgeving vereist. 
+	bv. komen studeren in Leuven
+	Als dit niet naar wens gebeurt, twee volgende processen
+Shaping:
+	de omgeving aanpassen aan het individu, ipv omgekeerd
+Selectie
+	het kiezen van de omgeving die past bij het individu, bv. studiekeuze
+
+
+
+
+
+
+
+
+116
+Sternberg
+Contextuele subtheorie
+~“praktische intelligentie”: het toepassen van je vaardigheden in de situatie waarin je je bevindt
+
+Is niet meetbaar adhv klassieke intelligentietests, maar moet per context eigenlijk bepaald worden
+Bv. (Leonard et al. 2005): welke van dergelijke praktische vaardigheden zijn belangrijk voor academisch succes
+ zelfmotivatie en zelfregulatie (naar de les komen)
+ cognitieve zelforganizatie (discipline)
+ nieuwsgierigheid
+ academische technische vaardigheden (gebruik maken van systeem)
+ taakgerelateerde interactievaardigheden (contacten opbouwen, netwerken)
+ sociale vaardigheden (zorgen voor sociaal well-being)
+
+
+
+
+
+
+
+
+117
+Sternberg
+Contextuele subtheorie
+~“praktische intelligentie”: het toepassen van je vaardigheden in de situatie waarin je je bevindt
+
+Is niet meetbaar adhv klassieke intelligentietests, maar moet per context eigenlijk bepaald worden
+MAAR, zoals Sternberg benadrukt, dit kan in andere contexten helemaal anders zijn
+Bv. Bosjesmannen, CEOs van bedrijven, etc
+	“slim” zijn hangt dus sterk af van de context (zie discussie PH)
+
+
+
+
+
+
+
+
+118
+Sternberg
+Experientiele subtheorie
+	~ hoe ervaring interageert met intelligentie
+“creatieve intelligentie”
+
+2 aspecten:
+Novelty (nieuwheid)
+	hoe mensen omgaan met nieuwe zaken, uitdagingen, onbekende
+	Sommige mensen kunnen dit beter dan anderen, en dit is onderdeel van intelligentie (volgens sommigen zelfs basisfundament)
+Automatisatie
+	de mate waarin iemand informatie en taakuitvoering kan automatiseren
+	Automatiseren: na oefening en herhaling wordt process automatisch en behoeft geen expliciete aandacht, kan parallel lopen met andere processen bv. lezen
+
+
+
+
+
+
+
+
+119
+2.3.2.2 Sternberg: evaluatie
+
++
+Sternberg is ongetwijfeld een zeer invloedrijk figuur in intelligentie
+Zijn theorie wil alle aspecten van intelligentie omvatten, van infoverwerkende processen tot meta-componenten, relatie met omgeving, creativiteit, etc…
+Besteedt aandacht aan andere vormen van intelligentie
+
+- 
+Dit maakt theorie ook weinig overzichtelijk
+Geen stellingname inzake g
+Weinig directe empirische toetsing
+
+
+
+
+
+
+
+
+120
+Evaluatie theoretisch onderzoek
+In tegenstelling tot factoranalytische theorieen zijn theoretische theorieen volledig gestuurd vanuit theoretische (en practische) overwegingen
+
+Voordeel is 
+dat men ruimer kan kijken, meer kan opnemen dan gewoon/makkelijk met tests meetbaar is
+Dit laat toe inteligentie veel ruimer (en waarschijnlijk realistischer) te vatten
+
+Nadeel is 
+Dat dit ook moeilijker te bewijzen wordt, waardoor 
+de empirische verificatie dikwijls in gebreke blijft
+121
+2.4. Slotconclusies
+Theorie en onderzoek over structuur van intelligentie
+
+ Gaat op zoek naar bouwstenen  en structuur van intelligentie
+ Fundamentele vraag, met belangrijke implicaties
+
+We zagen maar liefst 7 verschillende visies, sommige
+ Gebaseerd op empirie
+ Sommige gebaseerd op theorie
+
+Wat mogen we hieruit nu concluderen? 
+122
+2.4. Slotconclusies
+Inzake academische intelligentie:
+	Er is positieve correlaties tussen tests
+	 globaal genomen hangen uiteenlopende vaardigheden positief samen
+	 g of niet?
+ vinden van globale factor, van positieve correlaties is geen evidentie voor bestaan van zoiets als g
+ Tot op heden geen sluitende biologische evidentie voor zoiets als g 
+ Blijft dus min of meer onbeslist
+MAAR correlaties zijn niet van die aard (zie residuele correlaties) dat g alles verklaart
+Onderliggende vaardigheden, na g, kunnen redelijk onafhankelijk zijn
+Mensen kunnen goed zijn in iets en niet in iets anders 
+Uitzonderingen zijn mogelijk
+123
+2.4. Slotconclusies
+Inzake academische intelligentie:
+	Na globale factor: zekere convergentie inzake verdere opdeling
+	- logisch mathematisch, performantie, fluid….
+	- linguistisch, verbaal, cristallized….
+124
+2.4. Slotconclusies
+MAAR dit vertelt niet hele verhaal van intelligentie
+	Theoretische inzichten geven aan dat intelligentie meer omvat dan wat klassieke intelligentietests meten 
+
+	De andere factoren spelen zeker een rol in “succes in het leven” (zie bv delay of gratification, sociale/emotionele intelligentie?)
+
+	Maar worden minder makkelijk gemeten met klassieke tests, en vallen dus dikwijls buiten het onderzoek of de klassieke visie op intelligentie.
+
+
+		
+125

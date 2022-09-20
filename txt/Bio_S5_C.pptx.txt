@@ -1,0 +1,226 @@
+Chromosomen
+
+Experimenten van Morgan
+Drosophila melanogaster
+Genen liggen op chromosomen
+Bepaalde mutaties zijn ♂ geslachtsgebonden; dit is niet omdat mutaties letaal zijn voor ♀
+Genen liggen op chromosomen
+Resultaten verschillen wanneer ♀ of ♂ ouder drager is van mutatie
+Geslachtschromosomen
+SRY gen op Y chromosoom (sex determining region on Y chromosome) is bepalend voor ontwikkeling embryo als ♂
+
+XY is ♂ behalve:
+Translocatie SRY naar X
+Mutatie in SRY of in receptor voor SRY
+
+X-gekoppelde afwijking
+Geslachtsgebonden erfelijke afwijkingen (vb. hemofilie)
+X-gekoppelde afwijking
+Genenbalans en doseringscompensatie
+Bij haploïnsufficiënte genen is de hoeveelheid genproduct dat gevormd wordt belangrijk! 
+
+Om genenbalans tussen ♀ of ♂ in evenwicht te brengen wordt bij ♀ een X chromosoom geïnactiveerd (doseringscompensatie): het Barr lichaampje (na 4 dagen, embryo 100 cellen)
+Genetische mozaïek
+Het geïnactiveerde X chromosoom kan verschillen tussen verschillende delen van lichaam, waardoor genexpressie verschillend kan zijn
+vb: lapjeskatten:
+X-inactivatie: ofwel wordt oranje (mutant) ofwel zwart (wild type) pigment gevormd door X chromosoom
+ander gen zorgt ervoor dat pigment in vlekkenpatroon wordt afgezet in de vacht
+
+Genetische mozaïek bij de mens
+♀ hebben weliswaar slechts één X chromosoom net als ♂, maar ze hebben twee types cellen waarin telkens ander X chromosoom actief is
+X-gekoppelde mutaties die letaal zijn bij ♂ kunnen leiden tot afwijkingen die enkel bij ♀ voorkomen
+
+Geslachtsbepaling
+Bij zoogdieren en insekten zijn ♂ heterogametisch geslacht
+
+Bij vogels zijn♀ heterogametisch geslacht 
+Ongeslachtelijke voortplanting
+celdeling, sporenvorming of fragmentatie:
+ééncellige organismen, gisten
+schimmels, wieren
+planten, wormen, zeesterren
+
+parthenogenese
+ontwikkeling van een onbevruchte eicel
+automixis: vorming van eicel door meiose, maar verdubbeling van aantal chromosomen (voor of na de meiose)
+apomixis: vorming van eicel via mitose (algemeen bij zaadplanten en varens)
+Mannelijk of vrouwelijk gedrag
+Is geslacht een sociaal construct?
+geboren Bruce Reimer
+na foute besnijdenis, chirurgisch geslachtscorrectie en opgevoed als Brenda Reimer
+werd opgevolgd door Prof. John Money, sterk gemediatiseerd
+vanaf 12 jaar, terug David Reimer
+
+
+
+Homosexualiteit
+tweelingen: 
+genetisch: 			0.34 – 0.39
+gemeenschappelijke omgeving:	       0.00
+individuele omgeving: 		0.61 – 0.66
+
+genen:
+X-gekoppeld: regio Xq28
+
+immuun-respons van moeder op Y-gekoppelde genen bij foetus
+grotere kans op homosexualiteit bij oudere broers
+
+Hybriden
+Hybriden: chromosomen afkomstig van twee soorten
+Soms niet leefbaar
+Soms leefbaar, maar steriel (probleem tijdens meiose)
+Koppeling tussen genen
+Wanneer genen op hetzelfde chromosoom gelegen zijn kunnen ze in principe niet onafhankelijk van elkaar overgeërfd worden
+
+
+Stukuitwisseling
+Uitwisseling van allelen tussen homologe chromosomen tijdens eerste meiotische deling
+
+Chiasmata
+Bij mens: gemiddeld 1 chiasma per chromosomenpaar
+
+Belangrijk voor correcte paring van homologe chromosomen tijdens eerste meiotische deling
+Stukuitwisseling
+Aangetoond door relatie tussen
+uitwisseling allelen 
+uitwisseling van fysische afwijkingen aan chromosomen
+Recombinatiefrequentie
+Hoe verder genen uit elkaar liggen, hoe groter kans op uitwisseling van allelen tussen homologe chromosomen door stukuitwisseling
+
+Recombinatie treedt op bij vorming van gameten bij dubbel heterozygote ouder. Gebruik van testkruising om genotype van gameten te bepalen.
+Recombinatiefrequentie
+Recombinatiefrequentie 
+~ afstand tussen genen op chromosoom
+
+% recombinanten = ‘map units’, centimorgan (cM)
+
+Relatie tussen cM en Mb, maar variatie tussen organismen of tussen ♀ en ♂ (mens: 1 cM/Mb)
+Log cM/Mb
+Genkartering
+Koppeling: op welk chromosoom ligt een gen?
+Recombinatiefrequentie van gekoppelde genen: hoe ver liggen genen uit elkaar op een chromosoom?
+Volgorde van genen op chromosoom
+Driepuntstestkruising
+switch cv/cv+ 
+switch v/v+ 
+switch ct/ct+ 
+Welk gen ligt in midden?
+Meervoudige stukuitwisselingen
+Maximale recombinatiefrequentie is 50 cM. Genkartering is betrouwbaar tot op 20 cM.
+Karteren X chromosoom
+heterozygoot ♀ kruisen met wild type ♂: recombinatiefrequentie kan afgeleid worden uit fenotypefrequentie van ♂ nakomelingen
+Chromosoomkartering bij mens
+Stamboomonderzoek:
+fenotypische kartering (vb. families waarin twee erfelijke afwijkingen samen worden overgeërfd)
+
+Makkelijkst voor X chromosoom
+Chromosoomkartering bij mens
+Stamboomonderzoek:
+moleculaire merkers (vb. restrictieenzymen, microsatellieten, SNP’s)
+Moleculaire merkers
+Verwantschap bepalen door middel van microsatellieten  
+vb. (CA)n, (TCA)n
+Genkartering d.m.v. moleculaire merkers
+SNPs – single nucleotide polymorphism
+in coderende of niet-coderende regio’s
+ongeveer 1000 /Mb
+naburige SNPs blijven honderden generaties bijeen (= haplotype)
+eenvoudiger te karteren dan volledig genoom
+HapMap project
+Genome-wide association studies - GWAS
+Fenotype linken aan gen
+Haplotype zoeken dat gelinkt is aan het fenotype (voor het eerst gerealiseerd voor Huntington gen)
+Fenotype linken aan gen
+Voor het eerst gerealiseerd voor Huntington gen in 1983 (dankzij onderzoek door Nancy Wexler in Maracaibo, Venezuela)
+Cytoplasmatische aggregatie
+heteroplasmon of cytohet: cel met mutante en wild-type organellen (mitochondria en/of chloroplasten)
+
+Cytoplasmatische segregatie
+
+
+Cytoplasmatische overerving
+Mitochondria worden enkel doorgegeven via maternale lijn
+Mitochondriale ‘Eva’
+mtDNA haplotypes
+Aneuploïdie
+Eén chromosoom te veel of te weinig
+monosomie (2n – 1): genetische last + genenbalans verstoord
+trisomie (2n + 1): genenbalans verstoord
+
+Bij mens:
+enkel trisomie 21 leefbaar (Down Syndroom)
+trisomie 13 en 18 levensduur slechts enkele maanden
+Down syndroom
+foute meiose: eicel of spermatozoïde met extra chromosoom 21 (vaker eicel)
+leeftijd van moeder is bepalend
+Down syndroom als somatische mozaïek (foute mitose)
+Aneuploïdie van geslachtschromosomen
+XXY: Klinefelter syndroom
+XO: Turner syndroom
+OY: letaal
+XXX: vrijwel normaal
+XYY: normaal
+Klinefelter syndroom
+XXY
+Turner syndroom
+XX
+Wijzigingen in chromosoomstructuur
+oorzaken:
+verkeerd herstel van breuken
+foute crossing-over
+Deleties
+set genen gaat verloren (genetische last, genenbalans)
+verkeerde crossing-over ter hoogte van herhalingen leidt tot weerkerende deleties die syndromen veroorzaken
+Deleties: syndromen
+William’s syndroom
+karakteristiek uiterlijk
+bijzonder goed ontwikkeld gevoel voor muziek
+Deleties: syndromen
+Cri du chat syndroom
+karakteristiek uiterlijk
+baby’s maken karakteristiek geluid
+Duplicaties
+paralogen: genen kunnen na duplicatie nieuwe functie krijgen
+Inversie
+vaak onopgemerkt
+probleem bij meiose (gameten met deleties ~ verminderde vruchtbaarheid)
+Translocatie
+vaak niet opgemerkt
+probleem bij meiose (deleties of duplicaties in helft van gameten; semisteriliteit)
+Robertsonische translocatie
+Risico op erfelijke afwijkingen
+spontane abortus vaak gevolg van ernstige erfelijke afwijking
+Genetisch advies
+analyse van stambomen op erfelijke afwijkingen bij beide partners
+risico Down syndroom gelinkt aan leeftijd
+genetische tests (indien kans afwijking > risico test)
+Ethische aspecten van genetische tests
+Abortus op basis van erfelijke afwijking:
+Down syndroom?
+meisje?
+drager BRCA1 gen?
+
+Consensus:
+genen met hoge penetrantie (bijna 100% kans om afwijking te hebben)
+zeer ernstige afwijking (menselijk leiden)
+vrije keuze (abortus, mastectomie)
+
+Monoploïdie
+n
+parthenogenese (♂sociale insekten)
+planten: weefselcultuur haploïd weefsel (vb. meeldraden)
+Tetraploïdie
+4n
+gebruik van colchicine (inhibeert microtubuli)
+4n is groter, sterker dan 2n
+Triploïdie
+3n
+ontstaat spontaan of door kruising diploïd en tetraploïd
+onvruchtbaar (vruchten zonder zaden, vb. banaan of watermeloen)
+Triploïdie
+Allopolyploïdie
+2n1 + 2n2
+hybriden, maar niet steriel!
+vorming nieuwe soorten in plantenwereld
+Allopolyploïdie
+domesticatie van gewassen (vb. tarwe)

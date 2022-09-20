@@ -1,0 +1,473 @@
+11. Koolhydraten
+• naam: C (H O) – hydraat van koolstof
+n 2 n
+• ook sacchariden of suikers genoemd
+• planten-dieren: belangrijkste energiebron
+• planten-insecten: ook structurele functie
+• in planten via fotosynthese gesynthetiseerd
+• centrale verbinding in suikerchemie = glucose
+✓ meest voorkomend suiker in natuur
+✓ druivensuiker
+✓  1 gram per liter bloedplasma
+Koolhydraten 111.1 Indeling en nomenclatuur
+• monosacchariden → oligosacchariden → polysacchariden
+glucose sacharose zetmeel
+• monosacchariden bevatten aantal OH-groepen en een
+aldehyde- of ketongroep
+• algemene naam: 
+aldo- of keto- + telwoord    + -ose
+Koolhydraten 2• veel triviaalnamen !
+• eenvoudigste monosaccharide = glyceraldehyde
+aldotriose
+CHO CHO
+H C OH H OH
+CH OH CH OH
+2 2
+D-(+)-glyceraldehyde
+CHO CHO D(extro), L(evo)
+< stand OH-groep aan 
+HO C H HO H
+hoogst genummerde 
+CH OH CH OH
+2 2 chirale koolstofatoom
+L-(-)-glyceraldehyde
+Koolhydraten 3D-aldosen
+3
+2n-2 stereoisomeren
+n
+e
+s
+o 4
+d
+l
+a
+-
+L
+ 
+n
+e
+v
+e
+5
+g
+ 
+n
+e
+d
+l
+e
+e
+b
+l
+e
+g
+e
+6
+i
+p
+s
+n
+Koolhydraten 4geen C* 3
+D-2-ketosen
+n
+e 2n-3 stereoisomeren
+s
+o
+t C* minder 4
+e dan bij
+k
+overeenkomstige aldosen
+-
+2
+-
+L
+ 
+n
+e
+v
+e
+5
+g
+ 
+n
+e
+d
+l
+e
+e
+b
+l
+e
+g
+e
+6
+i
+p
+s
+n
+Koolhydraten 5• in natuur vooral D-suikers, enkele uitzonderingen: 
+L-arabinose en L-galactose
+• epimeren: diastereomeren die slechts aan één koolstof-
+atoom verschillen in configuratie
+D-glucose D-mannose  D-galactose
+CHO CHO CHO
+H OH HO H H OH
+HO H HO H HO H
+H OH H OH HO H
+H OH H OH H OH
+CH OH CH OH CH OH
+2 2 2
+C2-epimeren C4-epimeren
+Koolhydraten 6Desoxy- en aminosuikers
+DNA
+galactose)
+• Desoxysuiker: OH-groep → H
+• Aminosuiker: OH-groep → (gesubstitueerde) aminogroep
+komen voor in proteoglycanen en chitine 
+Koolhydraten 7Ter herinnering: Fischer-projectie van D-glucose
+CHO
+H OH
+HO H
+H OH
+H OH
+CH OH
+2
+• hoofdketen vertikaal, C-1 bovenaan 
+• vertikale bindingen naar achter, horizontale naar voor
+Koolhydraten 811.2 Cyclische structuur van monosacchariden
+• aldehyde of keton oplossen in alcohol: vorming halfacetaal
+H
+O
+O
+C H O C
+C O C
+H
+H
+halfacetaal
+• intramoleculair: entropie maakt verschil! (DG = DH° - TDS°)
+a
+H pyraan
+O
+Koolhydraten 9O
+b furaan
+• vorming nieuw asymmetrisch koolstofatoom C1: anomere C
+• a- en b-vorm hebben resp. S- en R-configuratie
+• Haworth-projectie:
+6 6
+55 4 6
+O 5 O
+5 1
+O
+4 1 1
+3
+2
+3 2 2
+4 3
+Koolhydraten 10• vorming glucopyranose en Haworth-projectie:
+O
+O
+O
+O
+*
+alternatieve voorstelling
+op slide 12
+O O
+anomeren
+O O
+a-D-glucopyranose
+Koolhydraten 11open keten vorm
+van glucose
+*
+alternatieve voorstelling van
+structuur rechtsboven slide 11
+a-D-glucopyranose b-D-glucopyranose
+Koolhydraten 12• vorming glucofuranose en Haworth-projectie:
+O
+O
+C -C
+O 3 4
+O
+O
+• b-D-glucopyranose energetisch gunstigst
+Koolhydraten 1311.3 Suikers in oplossing - Mutarotatie
+• a- en b-D-glucopyranose zijn diastereomeren
+(te scheiden via verschillende oplosbaarheid in water)
+• bij meten [a] in functie van de tijd: 
+D
+b-D-glucopyranose a-D-glucopyranose
+Initieel:  [a] +19° Initieel:  [a] +113°
+D D
+Finaal:  [a] +52.7°
+D
+• dit verschijnsel wordt mutarotatie genoemd – verklaring?
+Koolhydraten 14• evenwicht tussen a en b via open-ketenvorm
+O O O
+O
+O
+O
+O
+O O O
+O
+Koolhydraten 15• furanosevormen < 1% door ongunstige eclipsed interacties (zie 3.9)
+• waarom evenwicht niet nog meer in voordeel van 
+b-D-glucopyranose?
+En bij andere suikers?
+dipool-dipool-interactie
+Koolhydraten 16Ja, indien halfacetaalgroep!
+• D-mannose: OH op C2 axiaal
+a-D-mannofuranose a-D-mannopyranose
+67%
+33%
+b-D-mannofuranose b-D-mannopyranose
+Koolhydraten 17• D-galactose: OH op C4 axiaal
+a-D-galactofuranose a-D-galactopyranose
+27%
+73%
+b-D-galactofuranose b-D-galactopyranose
+Koolhydraten 18• D-fructose
+a-D-fructofuranose a-D-fructopyranose
+31% 57%
+CH OH
+2
+9% 3%
+b-D-fructofuranose b-D-fructopyranose
+Koolhydraten 19• D-ribose 
+a-D-ribofuranose a-D-ribopyranose
+6% 20%
+18% 56%
+b-D-ribofuranose b-D-ribopyranose
+Koolhydraten 20Reacties van suikers
+• halfacetaal                  open-keten snel evenwicht
+• karakteristieke reacties voor halfacetaal EN aldehyde en keton
+11.4 Reductie van monosacchariden
+• C=O reduceren tot –OH met H /katalysator of NaBH
+2 4
+diastereomeren
+• de ontstane ‘polyolen’ zijn herkenbaar aan de uitgang -itol
+Koolhydraten 2111.5 Oxidatie van monosacchariden
+• indien aldehydegroep aanwezig: milde oxidatie
+reducerende suikers
+Tollens-test
+Fehlings-test
+Barfoed-test
+Cu2+ (acetaat) → Cu O
+2
+e e
+s s
+o o
+Benedict-test r c
+c
+u
+u
+l
+s g
+Cu2+ (sulfaat) → Cu O
+2
+Koolhydraten 22• ook fructose geeft positieve test (enkel in basisch midden!!):
+• uitgang -ose vervangen door -onzuur
+• sterker oxidans (HNO ): OOK oxidatie primaire –OH
+3
+-ose vervangen door –aarzuur
+• enkel primaire –OH oxideren: -ose vervangen door –uronzuur
+glucuronzuur: ontgiften; galacturonzuur: pectine
+Koolhydraten 2311.6 Isomerisatie onder invloed van base
+• via carbonylgroep in open-ketenvorm
+H
+epimerisatie
+Koolhydraten 24• D-glucose oplossen in basisch milieu geeft dus na 
+enige tijd ook D-mannose en D-fructose
+• analoge isomerisatie voor D-mannose en D-fructose, vandaar
+dus positieve Tollens- en Fehlings-test voor fructose
+• eerste stap glycolyse: enzymatische isomerisatie
+gekatalyseerd door een basische en een zure groep
+aldose eendiol ketose
+Koolhydraten 2511.7 Glycosiden
+• glycoside = algemene naam voor suikeracetaal
+katalytische 
+hoeveelheid H+
+Glycosidebinding
+OR = aglycon
+Koolhydraten 26• soms wordt naam suiker opgenomen in benaming van
+glycoside, bvb. glucoside of mannoside voor acetaal van 
+glucose of mannose
+• aglycon kan variëren van eenvoudige alcoholrest tot 
+ingewikkeld steroïd- of kleurstofmolecuul
+• a- en b-vorm zijn diastereomeren:  fysisch eigenschappen
+• geen evenwicht met open-ketenvorm, geen mutarotatie!
+(in neutraal of basisch milieu)
+Koolhydraten 27• stabiel ten opzichte van oxidatiemiddelen (niet reducerend)
+• stabiel ten opzichte van base
+• hydrolyse in verdund zuur milieu (omgekeerd mechanisme 
+van vorming)
+• specifieke enzymatische hydrolyse mogelijk:
+a-glucosidase (gist) splitst alleen a-glucosidebinding
+emulsinase splitst alleen b-glucosidebinding
+• glycosiden komen veel in natuur voor:
+suiker verbetert oplosbaarheid aglycon
+Koolhydraten 2811.8 Glycosylaminen – N-glycosiden
+• aldosen + NH of aminen:
+3
+aminaal
+(cf. acetaal)
+evenwicht tussen a- en b-vorm via
+open vorm = anilvorm (Shiff base)
+Koolhydraten 29• belangrijk voorbeeld in natuur:
+• hydrolyse in zuur milieu
+• Amadori-omlegging in zuur milieu: isomerisatie van 
+N-glycosiden tot 1-amino-1-desoxyketosen
+Koolhydraten 30• Maillard-reactie: niet-enzymatische bruiningsreactie bij
+verwarmen van voedingsmiddelen (bij lagere temperatuur
+dan normale karamelisatie)
+✓ vorming N-glycoside uit aldose en aminogroep
+aminozuur of peptide
+✓ Amadori-omlegging
+✓ verdere condensatie en oxidatie
+✓ gevolg: bruinkleuring en ontstaan aroma’s
+100 mg AZ
+100 mg glucose
+druppel water
+Cysteïne
+Glycine
+Methionine
+Proline
+links: kort DT
+rechts: lang DT
+Koolhydraten 3111.9 Vorming van esters en ethers
+• suikers kristalliseren moeilijk door hun stroperigheid
+• vroeger stelde dit problemen bij karakterisering
+• oplossing: osazonvorming door behandeling met overmaat
+Fenylhydrazine (merk op: chiraliteit 2-C gaat verloren!)
+Goed kristalliseerbaar
+Karakterisering via smeltpuntsbepaling
+Koolhydraten 32• vandaag: voor analyse met gaschromatografie en
+massaspectrometrie eerst omzetten in vluchtige derivaten
+• OH-groepen omzetten in acetaat-, methylether- of 
+silylethergroepen
+acylering, zie hfdst. 13
+eventueel ontschermen
+voor zuivering
+vluchtig
+Koolhydraten 33ethervorming
+alle OH-groepen omzetten via S 2 reactie met CH I in basische
+N 3
+omstandigheden (typisch in dimethylsulfoxide als solvent)
+Williamson
+Koolhydraten 34silylering
+vluchtig
+Betekenis H,OH-notatie in Haworth-projectie
+Koolhydraten 3511.10 Disacchariden
+• opgebouwd uit twee monosaccharide-eenheden verbonden
+via glycosidebinding
+• bij nomenclatuur onderscheid maken tussen:
+disacchariden met een vrije halfacetaalgroep: glycosylglycose
+hoofdsuiker = reducerende suiker
+b-maltose = a-D-glucopyranosyl-(1,4)-b-D-glucopyranose
+Koolhydraten 36disacchariden zonder vrije halfacetaalgroep: glycosylglycoside
+Naamgeving: bepaling hoofdsuiker = ?
+• aldose > ketose
+• heptose > hexose > pentose > …
+• zelfde aantal koolstofatomen
+- triviaalnaam alfabetisch eerst
+- D > L
+- a > b
+sucrose = b-D-fructofuranosyl-(2,1)-a-D-glucopyranoside
+Koolhydraten 37• vier belangrijke voorbeelden
+maltose: 2 D-glucose-eenheden via a-1,4-binding
+in evenwicht 
+met open vorm
+✓minder verspreid in natuur: gevormd in ontkiemend graan
+uit zetmeel door a-amylase (alg. diastase)
+✓belangrijk bij het bierbrouwen
+✓ gesplitst tot glucose door maltase: splitst a-1,4 binding in maltose
+(‘a-glucosidase’)
+Koolhydraten 38cellobiose: 2 D-glucose-eenheden via b-1,4-binding
+in evenwicht 
+met open vorm
+kan gezien worden als bouwsteen voor cellulose
+Koolhydraten 39lactose: D-galactose + D-glucose via b-1,4-binding
+in evenwicht 
+met open vorm
+melksuiker (4 tot 6% in koemelk), lactase
+Maltose, cellobiose, lactose…
+rechter glucose-eenheid analoge eigenschappen als glucose zelf:
+mutarotatie, reductie, oxidatie, isomerisatie o.i.v. base, 
+vorming van glycosiden, zure hydrolyse glycosidebinding 
+Koolhydraten 40sacharose of sucrose: D-glucose + D-fructose via 1a-2b-binding
+6
+CH OH
+2
+5 1
+H O H CH OH O H
+2
+H
+4 OH H 1 + C2 H OH C5
+3 2 3 4
+OH OHa bOH C C C6H2OH
+H OH OH H
+a-D-glucopyranose b-D-fructofuranose
+6
+CH OH
+2
+5 1
+H O H CH OH O H
+2
+H
+4 OH H 1 C2 H OH C5 GEEN evenwicht 
+3 2 3 4 met open vorm
+OH O C C CH OH
+2
+6
+glycosidebinding
+H OH OH H
+sacharose
+sucrose, gewone tafelsuiker (suikerbiet of -riet)
+Koolhydraten 41b-D-fructofuranosyl-(2,1)-a-D-glucopyranoside
+hydrolyse met verdund zuur of enzym invertase (sucrase)
+Sucrose [a]=+66,5° → a- en b-glucose [a]=+52,7°
+→ a- en b-fructose [a]=-92,4°
+na hydrolyse: [a]=-39,7° invertsuiker
+Koolhydraten 4211.11 Polysacchariden
+• constructie- en reservemateriaal in cel
+• 10 tot duizenden monosaccharide-eenheden gekoppeld 
+via glycosidebindingen
+• lineaire of vertakte polymeren
+• glycaan: één soort monosaccharide, -ose vervangen door -an
+• grote verscheidenheid aan bouwstenen (meestal pyranose)
+• chemische reacties van aanwezige functionele groepen:
+✓ hydrolyse glycosidebindingen met verdund zuur of enzym
+✓ oxidatie van reducerende (halfacetaal) uiteinde 
+mogelijk (moeilijk te merken!)
+✓ verestering of verethering (bereikbare) OH-groepen
+✓ structuurbepaling na (gedeeltelijke) hydrolyse
+Koolhydraten 43cellulose: D-glucose-eenheden via b-1,4-binding
+• lineair glucan met MM 100.000 tot 1.000.000
+• vorming H-bruggen tussen ketens
+• hout, vlas, hennep, katoen, kapok…
+• onverteerbaar voor mens (wel voor herkauwers, termieten)
+Koolhydraten 44chitine
+• gelijkt sterk op cellulose, b-1,4-bindingen
+• bouwsteen = 2-aceetamido-2-desoxy-D-glucose
+• exoskelet van insecten
+Koolhydraten 45zetmeel: glucan bestaande uit amylose en amylopectine
+• amylose (20%) - lineair - oplosbaar in warm water - a-1,4 –
+helix - insluitcomplex met jood – MM 150.000-600.000
+I + I- → I -
+2 3
+Koolhydraten 46• amylopectine (80%) - vertakkingen om de 30-35 glucose-
+eenheden - onoplosbaar - gelerend - a-1,6 – MM  1.000.000
+• zetmeel = voedselvoorraad planten - verteerbaar via 
+a-amylase - hydrolyse tot maltose, maltotriose en a-dextrine
+Koolhydraten 47glycogeen
+• vertakt glucan, gelijkt sterk op amylopectine
+• tot 600.000 glucose-eenheden per molecule
+• MM  100.000.000
+• vertakkingspunten slechts 10 tot 12 glucose-eenheden uit
+elkaar → sterker vertakt
+• zetmeel via vertering → glucose → glycogeen als reserve
+opgeslagen in spieren en lever
+• hogere vertakkingsgraad geeft meer eindstandige glucose-eenheden
+die enzymatisch kunnen worden afgesplitst = voordeel wanneer
+snel glucose nodig is
+dextraan, inuline, levan, heparine, pectinezuur
+• illustratief
+Koolhydraten Carbonzuren 48

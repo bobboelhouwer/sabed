@@ -1,0 +1,215 @@
+9. Aminen en alkaloïden
+• één of meer H-atomen in NH vervangen door alkylgroep
+3
+(arylaminen (anilinen) in later hoofdstuk)
+• 1°, 2°, 3°: aantal alkylgroepen op N (en niet op C)
+Primair amine Secundair amine Tertiair amine
+H H R"
+R N R N R N
+H R' R'
+147 pm
+Quaternair ammoniumzout
+-
+R N+X
+4
+112°
+106°
+Aminen en alkaloïden 19.1 Nomenclatuur
+radicofunctionele naamgeving
+• Naam alkylgroep(en) + -amine
+N-methylethaanamine
+(subst.)
+N, N-diëthylpropaan-2-amine 
+(subst.)
+Aminen en alkaloïden 2• Quaternair ammoniumzout: 
+namen alkylgroepen + -ammonium + naam anion
+• Indien meer prioritaire functionele groepen aanwezig zijn: 
+als aminosubstituent beschouwen
+2 1
+Aminen en alkaloïden 3• Heterocyclische ringen: 
+• Chiraal en optisch actief ?
+Geen inversie mogelijk
+Tetra-alkylammoniumzouten?
+Aminen en alkaloïden 49.2 Voorkomen van aminen
+• typische geur rotte vis en bedorven vlees
+• aminogroep speelt belangrijke rol bij aminozuren
+• histamine (weefselhormoon)
+Gebonden 
+aan eiwit: 
+inactief
+allergeen
+✓ allergische reactie:
+antilichaam
+vrijkomen histamine …
+(gevolg: loopneus, jeuk, astma …)
+✓ ook in gif bijen en mieren
+Mastcel
+histamine
+Aminen en alkaloïden 5✓antihistamine geneesmiddelen (antihistaminica)
+• hormonen adrenaline (epinefrine) en noradrenaline: 
+Stereochemie belangrijk: 
+natuurlijke (R)-(-)-vorm 20 x actiever 
+dan (S)-(+)-vorm !
+Aminen en alkaloïden 6• amfetamines: verwant met neurotransmitter dopamine
+HO NH
+2
+amfetamine
+NH
+2 dopamine
+HO
+✓stimulerend effect (pepmiddelen)
+✓dopingsmiddel
+OH
+NH
+O
+CH
+NH 3
+CH
+3 CH
+3
+O
+CH
+3
+Efedrine, behandeling astma,  XTC, of MDMA 
+hooikoorts, neusverkoudheid (3,4-methyleendioxy-N-methamfetamine)
+Aminen en alkaloïden 7• quaternaire ammoniumzouten zijn stabiele zouten 
+bij lange alkylketen: 
+✓ zeepachtige eigenschappen (kationisch detergent)
+✓ vaak antibacteriële werking
+✓ toegevoegd aan ontsmettingszepen en schoonmaakmiddelen, 
+wasverzachters
+✓ CTAB wordt gebruikt in buffers voor DNA-extractie
+Aminen en alkaloïden 8Zenuw:
+• acetylcholine (ACh) als neurotransmitter elektrische prikkel
+O CH
+3
+N+ CH
+3
+CH O
+3
+CH
+3
+Synaps (20 nm):
+chemische prikkel
+Zenuw, spiercel:
+elektrische prikkel
+Aminen en alkaloïden 9✓Afbraak ACh door acetylcholinesterase (AChE)
+✓Bij verstoorde werking of inhibitie AChE: ongecontroleerde 
+spiercontracties, -verlammingen en ademhalingsproblemen
+Bepaalde insecticiden inhiberen AChE bij insecten, bijvoorbeeld carbaryl
+Bepaalde zogenaamde zenuwgassen inhiberen AChE (sarin, novichok)
+O
+H C
+3
+CH O P CH
+3
+H C
+3 F
+sarin
+novichok
+Aminen en alkaloïden 10Cholinesterase-
+3
+inhibitie
+carbamaatinsecticiden
+carbaryl
+Aminen en alkaloïden 11Atropine (plantenextract uit Atropa belladonna): 
+tegengif bij vergiftiging door cholinesteraseremmers
+(ook in oogdruppels)
+Curare: plantenextract Amazone-indianen
+tubocurarine – hoge dosis: toxisch door AChE-inhibitie
+– zeer lage dosis: therapeutisch gebruik 
+als spierontspanner
+✓Gebrek ACh in hersenen geassocieerd met ziekte van 
+Alzheimer, enkele geneesmiddelen inhiberen AChE
+Aminen en alkaloïden 129.3 Fysische eigenschappen van aminen
+✓ polair, goed oplosbaar in water (behalve bij te lange alkylrest)
+✓ vorming waterstofbruggen (1°, 2° zowel donor als acceptor,
+3° enkel acceptor
+✓ kookpunt: tussen alkanen en alcoholen
+(waterstofbruggen minder sterk dan bij alcoholen, E.N. N < E.N. O)
+Verbinding M(g/mol) t (°C)
+k
+Ethaan 30.0 -89
+Methylamine 31.0 -7
+Methanol 32.0 64
+Propaan 44.0 -42
+Ethylamine 45.0 17
+Ethanol 46.0 78
+✓Onaangename geur (afbraakproducten vlees, vis)
+putrescine (butaan-1,4-diamine), cadaverine (pentaan-1,5-diamine)
+Aminen en alkaloïden 13✓ Vergelijking met ammoniumzouten:
+RNH + HCl → RNH + + Cl-
+2 3
+beter oplosbaar in water, reukloos
+hoger smeltpunt, stabieler want
+minder gevoelig aan oxidatie
+Toepassing tijdens synthese en scheiding/zuivering van
+geneesmiddelen
+NH
+3
+NH
+Cl 2
+onoplosbaar in H O
+2
+onoplosbaar in H O
+2 HCl
+NH +
+3
+oplosbaar in H O
+2
+Aminen en alkaloïden 149.4 Basische eigenschappen van aminen
+✓ dimethylamine > methylamine > ammoniak (e--gevend effect)
+✓ trimethylamine < (sterker apolair, minder hydratatie R NH+)
+3
+3,35
+✓ ammoniumion zwak zuur (pK  10), amine zeer zwak zuur (pK  35)
+a a
+Aminen en alkaloïden 159.5 Nucleofiele eigenschappen van aminen
+✓ Vrij elektronenpaar stikstofatoom goed nucleofiel
+✓ Nucleofiele substitutie van een halogeenalkaan
+-
+Evenwichtsreactie of neutraliseren met sterke base (OH )
+meestal wordt mengsel van aminen gevormd
+Aminen en alkaloïden 16✓ Nucleofiele reactie met carbonylverbindingen
+imine of Shiff base
+✓ Nucleofiele reactie met carbonzuurderivaten (aminolyse)
+Aminen en alkaloïden 179.6 Alkaloïden echte – pseudo - proto
+✓ groep natuurproducten met grote verscheidenheid
+✓ vroeger: bevat basisch stikstofatoom, extraheerbaar met zuur
+✓ nu: bevat stikstofatoom in heterocyclische ring
+- echte alkaloïden afgeleid van aminozuren
+- pseudo-alkaloiden afgeleid van terpenen, purine…
+- proto-alkaloïden bevatten geen stikstofhoudende ring
+Aminen en alkaloïden 18isolatie uit plantaardig materiaal:
+• extractie met petroleumether (verwijderen apolaire stoffen)
+• extractie met methanol of ethanol
+• indampen alcoholische oplossing
+• extractie met mengsel ethylacetaat/verdund zuur
+zure, polaire 
+natuurproducten
+alkaloïden als zouten
+(terpenen, 
+polyfenolen …)
+• basisch maken
+• alkaloïden extraheren met ethylacetaat
+• afdampen ethylacetaat
+• verdere chromatografische scheiding
+Aminen en alkaloïden 19Rauvolfia 
+serpentina (wortel)
+papaver
+antihypertensivum
+Cinchona ledgeriana
+pseudoalkaloïde
+Aardappel – nachtschade
+Bestanddeel 
+glycoalkaloïde solanine
+Aminen en alkaloïden 20koffieplant
+tabaksplant
+(synthese wortels,
+opslag bladeren)
+H
+pseudoalkaloïde
+protoalkaloïde
+San Pedro cactus
+cocaplant
+Aminen en alkaloïden Lipiden 21

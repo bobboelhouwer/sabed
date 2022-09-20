@@ -1,0 +1,143 @@
+8/22/2019
+
+Lay 1.3
+
+x2
+v
+
+u+v
+u
+x1
+
+Vector
+• Een vector x  n is een geordende lijst van
+getallen x1, x2 , … , xn  
+• x=
+
+x1
+x2
+⁞
+xn
+
+ n is een kolomvector
+
+• Rijvector x = [x1 x2 … xn ]
+• Hetzelfde kan met complexe getallen
+
+1
+
+ 8/22/2019
+
+Vectoren (2)
+• Voorbeeld in 2
+-1.5
+v=
+1.5
+
+x2
+
+u=
+
+3
+1.5
+x1
+
+• Zo kunnen we de oplossing van een stelsel
+lineaire vergelijkingen voorstellen als een vector
+𝑎 𝑥 + …+ 𝑎 𝑥 = 𝑏
+⋮
+𝑎 𝑥 + …+ 𝑎 𝑥 = 𝑏
+• Vectoren zijn gelijk  alle elementen gelijk zijn
+
+Bewerkingen op een vector
+• Optellen: u, v  n, dan is u+v  n en (u+v)i =
+x
+ui + vi
+2
+
+v
+
+u+v
+
+u
+x1
+
+• Vermenigvuldiging van u  n met scalair c 
+, dan is cu  n en (cu)i = cui
+x2
+
+2u
+u
+x1
+
+2
+
+ 8/22/2019
+
+Eigenschappen
+u+v = v+u
+(u+v)+w = u+(v+w)
+c(u+v) = cu + cv
+(c+d)u = cu + du
+(cd)u = c(du)
+Bewijs: schrijf deze vergelijkingen componentsgewijs
+Notatie:
+0 is een vector met alle elementen nul, -u = (-1)u.
+Dan is ook:
+• u+0 = 0+u = u 0 is een neutraal element
+• u + (-u) = -u + u = 0
+-u is het symmetrisch element van u
+•
+•
+•
+•
+•
+•
+•
+
+Illustratie c(u+v) = cu + cv
+
+2(u+v)
+= 2u +2v
+x2
+2v
+
+u+v
+2u
+
+v
+
+u
+x1
+
+3
+
+ 8/22/2019
+
+Een andere kijk op een stelsel lineaire
+vergelijkingen
+• Een stelsel van m lineaire vergelijkingen
+𝑎 𝑥 + …+ 𝑎 𝑥 = 𝑏
+⋮
+a1
+an
+b
+𝑎 𝑥 + …+ 𝑎 𝑥 = 𝑏
+• Bekijk als een gelijkheid van vectoren met m
+elementen:
+x1 a1 + x2 a2 + … + xn an = b
+
+Vectorvergelijking
+• x1 a1 + x2 a2 + … + xn an = b is een
+vectorvergelijking
+• x1 a1 + x2 a2 + … + xn an is een lineaire
+combinatie van de vectoren a1, a2, … , an met
+gewichten x1, x2, … , xn
+• In woorden: een oplossing van het stelsel
+lineaire vergelijkingen is het stel gewichten
+zodat b kan geschreven worden als lineaire
+combinatie van de vectoren a1, a2, … , an
+
+4
+
+ 

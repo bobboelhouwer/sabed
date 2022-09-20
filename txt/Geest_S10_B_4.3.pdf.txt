@@ -1,0 +1,335 @@
+(32) a. Demanatvaakeenkoekje.
+b. Demanateenkoekje.
+c. Demanatvaak.
+Techniek#2: Valentieenweglaatbaarheid: Valentievs.
+weglaatbaarheid
+(31) a. Demanbetreurdevaakzijndaden.
+b. Demanbetreurdezijndaden.
+c. ??Demanbetreurdevaak.
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Techniek#2: Valentieenweglaatbaarheid: Valentievs.
+weglaatbaarheid
+(31) a. Demanbetreurdevaakzijndaden.
+b. Demanbetreurdezijndaden.
+c. ??Demanbetreurdevaak.
+(32) a. Demanatvaakeenkoekje.
+b. Demanateenkoekje.
+c. Demanatvaak.
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .meestalnietweglaatbaar weglaatbaar
+Techniek#2: Valentieenweglaatbaarheid: Valentievs.
+weglaatbaarheid
+(cid:287)(cid:270)(cid:275)(cid:280)(cid:265)(cid:266)(cid:273)(cid:266)(cid:275)
+2valentie 2/ valentie
+essentieelzinsdeel niet-essentieelzinsdeel
+participant omstandigheid
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Techniek#2: Valentieenweglaatbaarheid: Valentievs.
+weglaatbaarheid
+(cid:287)(cid:270)(cid:275)(cid:280)(cid:265)(cid:266)(cid:273)(cid:266)(cid:275)
+2valentie 2/ valentie
+essentieelzinsdeel niet-essentieelzinsdeel
+participant omstandigheid
+meestalnietweglaatbaar weglaatbaar
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .(34) a. essentieel ̸) niet-weglaatbaar
+b. weglaatbaar ̸) niet-essentieel
+Techniek#2: Valentieenweglaatbaarheid: Valentievs.
+weglaatbaarheid
+(33) a. niet-essentieel ) weglaatbaar
+b. niet-weglaatbaar ) essentieel
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Techniek#2: Valentieenweglaatbaarheid: Valentievs.
+weglaatbaarheid
+(33) a. niet-essentieel ) weglaatbaar
+b. niet-weglaatbaar ) essentieel
+(34) a. essentieel ̸) niet-weglaatbaar
+b. weglaatbaar ̸) niet-essentieel
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .(36) a. Nielgeeftomzijnvrienden.
+b. Ikgeefnietomstraf.
+(37) a. Carlowildoorlopen.
+b. Carlowildetekstdoorlopen.
+Techniek#2: Valentieenweglaatbaarheid: Gezegdesmet
+meerdanéénvalentieschema
+(35) a. Dejongeneeteenkoekje.
+b. Dejongeneet.
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .(37) a. Carlowildoorlopen.
+b. Carlowildetekstdoorlopen.
+Techniek#2: Valentieenweglaatbaarheid: Gezegdesmet
+meerdanéénvalentieschema
+(35) a. Dejongeneeteenkoekje.
+b. Dejongeneet.
+(36) a. Nielgeeftomzijnvrienden.
+b. Ikgeefnietomstraf.
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Techniek#2: Valentieenweglaatbaarheid: Gezegdesmet
+meerdanéénvalentieschema
+(35) a. Dejongeneeteenkoekje.
+b. Dejongeneet.
+(36) a. Nielgeeftomzijnvrienden.
+b. Ikgeefnietomstraf.
+(37) a. Carlowildoorlopen.
+b. Carlowildetekstdoorlopen.
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Techniek#2: Valentieenweglaatbaarheid: Thematische
+rollen&selectierestricties
+(38) a. Demanvernietigthetboek.
+b. Aradhoortdesonate.
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .theta-rol geentheta-rol
+Techniek#2: Valentieenweglaatbaarheid: Thematische
+rollen&selectierestricties
+(cid:287)(cid:270)(cid:275)(cid:280)(cid:265)(cid:266)(cid:273)(cid:266)(cid:275)
+2valentie 2/ valentie
+essentieelzinsdeel niet-essentieelzinsdeel
+participant omstandigheid
+meestalnietweglaatbaar weglaatbaar
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Techniek#2: Valentieenweglaatbaarheid: Thematische
+rollen&selectierestricties
+(cid:287)(cid:270)(cid:275)(cid:280)(cid:265)(cid:266)(cid:273)(cid:266)(cid:275)
+2valentie 2/ valentie
+essentieelzinsdeel niet-essentieelzinsdeel
+participant omstandigheid
+meestalnietweglaatbaar weglaatbaar
+theta-rol geentheta-rol
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .b. (cid:270)(cid:275)(cid:280)(cid:281)(cid:279)(cid:282)(cid:274)(cid:266)(cid:275)(cid:281):niet-menselijkelementdatgebruiktwordt(door
+eenagens)omdehandelingteveroorzakenofterealiseren
+bv.Desloophamervernieldedemuur,Dezesleutelopentalle
+deuren
+c. (cid:272)(cid:279)(cid:262)(cid:264)(cid:269)(cid:281):niet-levendelementdatdehandelingveroorzaaktof
+realiseert,maardatnietkanwordengecontroleerd(dooreen
+agens)
+bv.EenvulkaanuitbarstingverwoesttePompei,Een
+omvallendeboomverpletterdehem
+Techniek#2: Valentieenweglaatbaarheid: Thematische
+rollen&selectierestricties
+(39) a. (cid:262)(cid:268)(cid:266)(cid:275)(cid:280):depersoondiebewust(gecontroleerd,uiteigenwil)
+eenhandelinguitvoert
+bv.Dekinderenspeeldenopstraat,Komthijmorgennaarons
+feest?
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .c. (cid:272)(cid:279)(cid:262)(cid:264)(cid:269)(cid:281):niet-levendelementdatdehandelingveroorzaaktof
+realiseert,maardatnietkanwordengecontroleerd(dooreen
+agens)
+bv.EenvulkaanuitbarstingverwoesttePompei,Een
+omvallendeboomverpletterdehem
+Techniek#2: Valentieenweglaatbaarheid: Thematische
+rollen&selectierestricties
+(39) a. (cid:262)(cid:268)(cid:266)(cid:275)(cid:280):depersoondiebewust(gecontroleerd,uiteigenwil)
+eenhandelinguitvoert
+bv.Dekinderenspeeldenopstraat,Komthijmorgennaarons
+feest?
+b. (cid:270)(cid:275)(cid:280)(cid:281)(cid:279)(cid:282)(cid:274)(cid:266)(cid:275)(cid:281):niet-menselijkelementdatgebruiktwordt(door
+eenagens)omdehandelingteveroorzakenofterealiseren
+bv.Desloophamervernieldedemuur,Dezesleutelopentalle
+deuren
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Techniek#2: Valentieenweglaatbaarheid: Thematische
+rollen&selectierestricties
+(39) a. (cid:262)(cid:268)(cid:266)(cid:275)(cid:280):depersoondiebewust(gecontroleerd,uiteigenwil)
+eenhandelinguitvoert
+bv.Dekinderenspeeldenopstraat,Komthijmorgennaarons
+feest?
+b. (cid:270)(cid:275)(cid:280)(cid:281)(cid:279)(cid:282)(cid:274)(cid:266)(cid:275)(cid:281):niet-menselijkelementdatgebruiktwordt(door
+eenagens)omdehandelingteveroorzakenofterealiseren
+bv.Desloophamervernieldedemuur,Dezesleutelopentalle
+deuren
+c. (cid:272)(cid:279)(cid:262)(cid:264)(cid:269)(cid:281):niet-levendelementdatdehandelingveroorzaaktof
+realiseert,maardatnietkanwordengecontroleerd(dooreen
+agens)
+bv.EenvulkaanuitbarstingverwoesttePompei,Een
+omvallendeboomverpletterdehem
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .b. (cid:281)(cid:269)(cid:266)(cid:274)(cid:262):iemanddieofietsdateenhandelingondergaat
+zonderdaterdaarbijietsaanzijnessentieverandert
+bv.Dejassenwerdenaandekapstokgehangen,Zegavenons
+eenmooigeschenk
+Techniek#2: Valentieenweglaatbaarheid: Thematische
+rollen&selectierestricties
+(40) a. (cid:277)(cid:262)(cid:281)(cid:270)(cid:266)(cid:275)(cid:280):iemanddieofietsdateenhandelingondergaaten
+daardoorineenbepaaldetoestandgebrachtwordtofeen
+toestandsveranderingondergaat
+bv.Diemanvermoorddetwintigmensen,Diedierenbeulsloeg
+hetpaardkreupel,Deburchtwerdverwoestdoordevijand
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Techniek#2: Valentieenweglaatbaarheid: Thematische
+rollen&selectierestricties
+(40) a. (cid:277)(cid:262)(cid:281)(cid:270)(cid:266)(cid:275)(cid:280):iemanddieofietsdateenhandelingondergaaten
+daardoorineenbepaaldetoestandgebrachtwordtofeen
+toestandsveranderingondergaat
+bv.Diemanvermoorddetwintigmensen,Diedierenbeulsloeg
+hetpaardkreupel,Deburchtwerdverwoestdoordevijand
+b. (cid:281)(cid:269)(cid:266)(cid:274)(cid:262):iemanddieofietsdateenhandelingondergaat
+zonderdaterdaarbijietsaanzijnessentieverandert
+bv.Dejassenwerdenaandekapstokgehangen,Zegavenons
+eenmooigeschenk
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .b. (cid:276)(cid:275)(cid:281)(cid:283)(cid:262)(cid:275)(cid:268)(cid:266)(cid:279):persoondieeenthemaontvangt
+bv.Zegavenonseenmooigeschenk,Aandepassagierswerd
+eencadeautjeoverhandigd
+c. (cid:263)(cid:266)(cid:273)(cid:262)(cid:275)(cid:268)(cid:269)(cid:266)(cid:263)(cid:263)(cid:266)(cid:275)(cid:265)(cid:266):levendwezendatvoordeelondervindtbij
+dehandeling
+bv.Schenkmenogeenkopjekoﬃein,Wekochteneennieuw
+maatpakvoorhem
+Techniek#2: Valentieenweglaatbaarheid: Thematische
+rollen&selectierestricties
+(41) a. (cid:276)(cid:275)(cid:265)(cid:266)(cid:279)(cid:283)(cid:270)(cid:275)(cid:265)(cid:266)(cid:279):levendwezendatdoordehandelingeen
+internetoestandervaartzonderdathetechtvantoestand
+verandert
+bv.Dejuistewoordenschotenhemmaarniettebinnen,Jouw
+goedkeuringisonsveelwaard,Eenonverdiendenederlaag
+kanelkeploegoverkomen
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .c. (cid:263)(cid:266)(cid:273)(cid:262)(cid:275)(cid:268)(cid:269)(cid:266)(cid:263)(cid:263)(cid:266)(cid:275)(cid:265)(cid:266):levendwezendatvoordeelondervindtbij
+dehandeling
+bv.Schenkmenogeenkopjekoﬃein,Wekochteneennieuw
+maatpakvoorhem
+Techniek#2: Valentieenweglaatbaarheid: Thematische
+rollen&selectierestricties
+(41) a. (cid:276)(cid:275)(cid:265)(cid:266)(cid:279)(cid:283)(cid:270)(cid:275)(cid:265)(cid:266)(cid:279):levendwezendatdoordehandelingeen
+internetoestandervaartzonderdathetechtvantoestand
+verandert
+bv.Dejuistewoordenschotenhemmaarniettebinnen,Jouw
+goedkeuringisonsveelwaard,Eenonverdiendenederlaag
+kanelkeploegoverkomen
+b. (cid:276)(cid:275)(cid:281)(cid:283)(cid:262)(cid:275)(cid:268)(cid:266)(cid:279):persoondieeenthemaontvangt
+bv.Zegavenonseenmooigeschenk,Aandepassagierswerd
+eencadeautjeoverhandigd
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Techniek#2: Valentieenweglaatbaarheid: Thematische
+rollen&selectierestricties
+(41) a. (cid:276)(cid:275)(cid:265)(cid:266)(cid:279)(cid:283)(cid:270)(cid:275)(cid:265)(cid:266)(cid:279):levendwezendatdoordehandelingeen
+internetoestandervaartzonderdathetechtvantoestand
+verandert
+bv.Dejuistewoordenschotenhemmaarniettebinnen,Jouw
+goedkeuringisonsveelwaard,Eenonverdiendenederlaag
+kanelkeploegoverkomen
+b. (cid:276)(cid:275)(cid:281)(cid:283)(cid:262)(cid:275)(cid:268)(cid:266)(cid:279):persoondieeenthemaontvangt
+bv.Zegavenonseenmooigeschenk,Aandepassagierswerd
+eencadeautjeoverhandigd
+c. (cid:263)(cid:266)(cid:273)(cid:262)(cid:275)(cid:268)(cid:269)(cid:266)(cid:263)(cid:263)(cid:266)(cid:275)(cid:265)(cid:266):levendwezendatvoordeelondervindtbij
+dehandeling
+bv.Schenkmenogeenkopjekoﬃein,Wekochteneennieuw
+maatpakvoorhem
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .b. (cid:277)(cid:273)(cid:262)(cid:262)(cid:281)(cid:280):plaatswaareenhandelingzichafspeelt
+bv.ZijwoontinSpanje,Miekeverblijftbijhaarmoeder
+c. (cid:279)(cid:270)(cid:264)(cid:269)(cid:281)(cid:270)(cid:275)(cid:268):richtingwaarnaareenhandelinggerichtis
+bv.Detoeschouwersbegavenzichnaardeuitgang
+d. (cid:284)(cid:270)(cid:271)(cid:287)(cid:266):wijzewaaropeenhandelingwordtuitgevoerd
+bv.Hijgedraagtzichuitstekend
+e. (cid:265)(cid:282)(cid:282)(cid:279):duurvaneenhandeling
+bv.Detochtduurdedrieuur
+f. (cid:274)(cid:262)(cid:262)(cid:281):bijdehandelingoftoestandhorendemaataanduiding
+bv.Hetboekkost20euro,Demanweegt75kg
+Techniek#2: Valentieenweglaatbaarheid: Thematische
+rollen&selectierestricties
+(42) a. (cid:265)(cid:276)(cid:266)(cid:273):niet-levendelementwaaropdehandelinggeoriënteerd
+is
+bv.Hijheeftallesopgeoﬀerdvoorzijncarrière,De
+topadvocateverlangtnaareenrustigerleven
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .c. (cid:279)(cid:270)(cid:264)(cid:269)(cid:281)(cid:270)(cid:275)(cid:268):richtingwaarnaareenhandelinggerichtis
+bv.Detoeschouwersbegavenzichnaardeuitgang
+d. (cid:284)(cid:270)(cid:271)(cid:287)(cid:266):wijzewaaropeenhandelingwordtuitgevoerd
+bv.Hijgedraagtzichuitstekend
+e. (cid:265)(cid:282)(cid:282)(cid:279):duurvaneenhandeling
+bv.Detochtduurdedrieuur
+f. (cid:274)(cid:262)(cid:262)(cid:281):bijdehandelingoftoestandhorendemaataanduiding
+bv.Hetboekkost20euro,Demanweegt75kg
+Techniek#2: Valentieenweglaatbaarheid: Thematische
+rollen&selectierestricties
+(42) a. (cid:265)(cid:276)(cid:266)(cid:273):niet-levendelementwaaropdehandelinggeoriënteerd
+is
+bv.Hijheeftallesopgeoﬀerdvoorzijncarrière,De
+topadvocateverlangtnaareenrustigerleven
+b. (cid:277)(cid:273)(cid:262)(cid:262)(cid:281)(cid:280):plaatswaareenhandelingzichafspeelt
+bv.ZijwoontinSpanje,Miekeverblijftbijhaarmoeder
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .d. (cid:284)(cid:270)(cid:271)(cid:287)(cid:266):wijzewaaropeenhandelingwordtuitgevoerd
+bv.Hijgedraagtzichuitstekend
+e. (cid:265)(cid:282)(cid:282)(cid:279):duurvaneenhandeling
+bv.Detochtduurdedrieuur
+f. (cid:274)(cid:262)(cid:262)(cid:281):bijdehandelingoftoestandhorendemaataanduiding
+bv.Hetboekkost20euro,Demanweegt75kg
+Techniek#2: Valentieenweglaatbaarheid: Thematische
+rollen&selectierestricties
+(42) a. (cid:265)(cid:276)(cid:266)(cid:273):niet-levendelementwaaropdehandelinggeoriënteerd
+is
+bv.Hijheeftallesopgeoﬀerdvoorzijncarrière,De
+topadvocateverlangtnaareenrustigerleven
+b. (cid:277)(cid:273)(cid:262)(cid:262)(cid:281)(cid:280):plaatswaareenhandelingzichafspeelt
+bv.ZijwoontinSpanje,Miekeverblijftbijhaarmoeder
+c. (cid:279)(cid:270)(cid:264)(cid:269)(cid:281)(cid:270)(cid:275)(cid:268):richtingwaarnaareenhandelinggerichtis
+bv.Detoeschouwersbegavenzichnaardeuitgang
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .e. (cid:265)(cid:282)(cid:282)(cid:279):duurvaneenhandeling
+bv.Detochtduurdedrieuur
+f. (cid:274)(cid:262)(cid:262)(cid:281):bijdehandelingoftoestandhorendemaataanduiding
+bv.Hetboekkost20euro,Demanweegt75kg
+Techniek#2: Valentieenweglaatbaarheid: Thematische
+rollen&selectierestricties
+(42) a. (cid:265)(cid:276)(cid:266)(cid:273):niet-levendelementwaaropdehandelinggeoriënteerd
+is
+bv.Hijheeftallesopgeoﬀerdvoorzijncarrière,De
+topadvocateverlangtnaareenrustigerleven
+b. (cid:277)(cid:273)(cid:262)(cid:262)(cid:281)(cid:280):plaatswaareenhandelingzichafspeelt
+bv.ZijwoontinSpanje,Miekeverblijftbijhaarmoeder
+c. (cid:279)(cid:270)(cid:264)(cid:269)(cid:281)(cid:270)(cid:275)(cid:268):richtingwaarnaareenhandelinggerichtis
+bv.Detoeschouwersbegavenzichnaardeuitgang
+d. (cid:284)(cid:270)(cid:271)(cid:287)(cid:266):wijzewaaropeenhandelingwordtuitgevoerd
+bv.Hijgedraagtzichuitstekend
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .f. (cid:274)(cid:262)(cid:262)(cid:281):bijdehandelingoftoestandhorendemaataanduiding
+bv.Hetboekkost20euro,Demanweegt75kg
+Techniek#2: Valentieenweglaatbaarheid: Thematische
+rollen&selectierestricties
+(42) a. (cid:265)(cid:276)(cid:266)(cid:273):niet-levendelementwaaropdehandelinggeoriënteerd
+is
+bv.Hijheeftallesopgeoﬀerdvoorzijncarrière,De
+topadvocateverlangtnaareenrustigerleven
+b. (cid:277)(cid:273)(cid:262)(cid:262)(cid:281)(cid:280):plaatswaareenhandelingzichafspeelt
+bv.ZijwoontinSpanje,Miekeverblijftbijhaarmoeder
+c. (cid:279)(cid:270)(cid:264)(cid:269)(cid:281)(cid:270)(cid:275)(cid:268):richtingwaarnaareenhandelinggerichtis
+bv.Detoeschouwersbegavenzichnaardeuitgang
+d. (cid:284)(cid:270)(cid:271)(cid:287)(cid:266):wijzewaaropeenhandelingwordtuitgevoerd
+bv.Hijgedraagtzichuitstekend
+e. (cid:265)(cid:282)(cid:282)(cid:279):duurvaneenhandeling
+bv.Detochtduurdedrieuur
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Techniek#2: Valentieenweglaatbaarheid: Thematische
+rollen&selectierestricties
+(42) a. (cid:265)(cid:276)(cid:266)(cid:273):niet-levendelementwaaropdehandelinggeoriënteerd
+is
+bv.Hijheeftallesopgeoﬀerdvoorzijncarrière,De
+topadvocateverlangtnaareenrustigerleven
+b. (cid:277)(cid:273)(cid:262)(cid:262)(cid:281)(cid:280):plaatswaareenhandelingzichafspeelt
+bv.ZijwoontinSpanje,Miekeverblijftbijhaarmoeder
+c. (cid:279)(cid:270)(cid:264)(cid:269)(cid:281)(cid:270)(cid:275)(cid:268):richtingwaarnaareenhandelinggerichtis
+bv.Detoeschouwersbegavenzichnaardeuitgang
+d. (cid:284)(cid:270)(cid:271)(cid:287)(cid:266):wijzewaaropeenhandelingwordtuitgevoerd
+bv.Hijgedraagtzichuitstekend
+e. (cid:265)(cid:282)(cid:282)(cid:279):duurvaneenhandeling
+bv.Detochtduurdedrieuur
+f. (cid:274)(cid:262)(cid:262)(cid:281):bijdehandelingoftoestandhorendemaataanduiding
+bv.Hetboekkost20euro,Demanweegt75kg
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .(44) a. #Demanvermoordtdetak.
+b. #Demanvloeitweg.
+Techniek#2: Valentieenweglaatbaarheid: Thematische
+rollen&selectierestricties
+(43) a. Demanvermoordtdepresident.
+b. #Detakvermoordtdepresident.
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Techniek#2: Valentieenweglaatbaarheid: Thematische
+rollen&selectierestricties
+(43) a. Demanvermoordtdepresident.
+b. #Detakvermoordtdepresident.
+(44) a. #Demanvermoordtdetak.
+b. #Demanvloeitweg.
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .

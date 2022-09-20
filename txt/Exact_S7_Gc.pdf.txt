@@ -1,0 +1,70 @@
+8/22/2019
+Lay 2.4
+Factorisatie
+• Factorisatie = ontbinding in een product van 
+matrices met een bijzondere eigenschap
+• Voorbeeld: LU (nu), QR (later), SWO (later)
+• A = L U
+– Ais mxn-matrix, die in echelonvorm kan gebracht 
+worden zonderrijomwisselingen
+– Lis mxm onderdriehoeksmatrix met 1 op de diagonaal
+– Uis een mxn echelonvorm van A
+1  0  0  0  *  *   *   *
+A=  *  1  0  0 0    *   *   *
+*  *  1  0 0   0   0    *
+*  *  *  1 0   0   0   0   0
+L U
+18/22/2019
+Nut ?
+• Ax = b oplossen (voor veel verschillendeb)
+• LUx = b  L(Ux) = b  Ly = b en Ux = y
+• Ly = b heeft driehoekige coëfficiëntenmatrix
+y  y  y  …  y
+1 2 3 m
+L is inverteerbaar; steeds een oplossing
+• Ux = y heeft driehoekige structuur
+Van onder naar boven oplossen, eventueel
+basisvariabelen als functie van de vrije variabelen
+Constructie
+• Geen rijomwissling: 
+– Rijschaling is overbodig (maakt het rekenwerk eenvoudiger): we 
+kunnen ook nullen creëren onder de spil zonder rijschaling
+– Rijvervanging = veelvoud van een rij optellen bij een rij eronder 
+Eis eenheidsbenedendriehoeks (1 op de diagonaal)
+• Reductietot echelonvorm:E … E A= U
+p 1
+• A= (E … E )-1 U= LU
+p 1
+• L = (E … E )-1= E -1… E -1
+p 1 1 p
+• Inverse van rijvervangingmet veelvoudk= is rijvervanging
+met –kE-1 is eenheidsbenedendriehoeks
+i
+• Product van eenheidsbenedendriehoeksmatricesis 
+eenheidsbenedendriehoeks
+• Lis eenheidsbenedendriehoeks
+28/22/2019
+Hoe L snel construeren ?
+• Eigenschap: 
+o E … E reducerenAtot U: E … E A= U
+1  p p 1
+o E … E reducerenLtot I: E … E L= E … E (E … E )-1= I
+1  p p 1 p 1 p 1
+• m.a.w.: de rijvervangingendie nullencreërenonder de 
+spil, creërennullenin L op dezelfdeplaats
+• Duskolom van L = kolom van de tussenstapin de 
+berekeningvan de EV, gedeelddoor spil
+ *   *   *   * 1      0    0   0  1     0    0   0 
+0   a   *   *   *  E E =  0      1    0   0  E -1E -1= 0     1    0   0
+k+1 k k k+1
+0   b   *   *   * 0   -b/a  1   0 0   b/a  1   0
+0   c   *   *   * 0   -c/a   0   1 0   c/a   0   1   
+• Product van E -1E -1bouwtL, kolomnakolom
+k k+1
+Samengevat
+• L is kolom na kolom, de verhouding van de 
+elementen onder de spil en de spil.
+• U is de echelonvorm die je zo bekomt.
+• Met rijomwisseling: L wordt 
+benedendriehoeks op een rijpermutatie ná.
+3

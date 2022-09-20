@@ -1,0 +1,54 @@
+(27) Hetberichtdathijgestorvenwasverrasteme.
+(28) Hetberichtdathijverspreiddeverrasteme.
+Onderschikking: Bijzinnenmetachter-PVenbetrekkelijk
+element
+(cid:263)(cid:270)(cid:271)(cid:283)(cid:276)(cid:266)(cid:268)(cid:273)(cid:270)(cid:271)(cid:272)(cid:266)(cid:263)(cid:266)(cid:277)(cid:262)(cid:273)(cid:270)(cid:275)(cid:268)
+(26) Demandiejekentwoonthier.
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Onderschikking: Bijzinnenmetachter-PVenbetrekkelijk
+element
+(cid:263)(cid:270)(cid:271)(cid:283)(cid:276)(cid:266)(cid:268)(cid:273)(cid:270)(cid:271)(cid:272)(cid:266)(cid:263)(cid:266)(cid:277)(cid:262)(cid:273)(cid:270)(cid:275)(cid:268)
+(26) Demandiejekentwoonthier.
+(27) Hetberichtdathijgestorvenwasverrasteme.
+(28) Hetberichtdathijverspreiddeverrasteme.
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .(30) Wiedaaraanmeedoetismeontgaan.
+Onderschikking: Bijzinnenmetachter-PVenbetrekkelijk
+element
+(cid:280)(cid:282)(cid:263)(cid:271)(cid:266)(cid:264)(cid:281)
+(29) Wiedaaraanmeedoetisgek.
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Onderschikking: Bijzinnenmetachter-PVenbetrekkelijk
+element
+(cid:280)(cid:282)(cid:263)(cid:271)(cid:266)(cid:264)(cid:281)
+(29) Wiedaaraanmeedoetisgek.
+(30) Wiedaaraanmeedoetismeontgaan.
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .(32) Ikvraagmeafwatjijeet.
+Onderschikking: Bijzinnenmetachter-PVenbetrekkelijk
+element
+(cid:265)(cid:270)(cid:279)(cid:266)(cid:264)(cid:281)(cid:276)(cid:263)(cid:271)(cid:266)(cid:264)(cid:281)
+(31) Ikeetwatjijeet.
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Onderschikking: Bijzinnenmetachter-PVenbetrekkelijk
+element
+(cid:265)(cid:270)(cid:279)(cid:266)(cid:264)(cid:281)(cid:276)(cid:263)(cid:271)(cid:266)(cid:264)(cid:281)
+(31) Ikeetwatjijeet.
+(32) Ikvraagmeafwatjijeet.
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Onderschikking: Bijzinnenmetachter-PVenbetrekkelijk
+element
+(cid:270)(cid:275)(cid:265)(cid:270)(cid:279)(cid:266)(cid:264)(cid:281)(cid:276)(cid:263)(cid:271)(cid:266)(cid:264)(cid:281)
+(33) Ikheb(aan)wietelaatwaseenboekgegeven.
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Onderschikking: Bijzinnenmetachter-PVenbetrekkelijk
+element
+(cid:283)(cid:276)(cid:276)(cid:279)(cid:287)(cid:266)(cid:281)(cid:280)(cid:266)(cid:273)(cid:283)(cid:276)(cid:276)(cid:279)(cid:284)(cid:266)(cid:279)(cid:277)
+(34) Wehebbeningestemdmetwathijvoorstelde.
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Onderschikking: Bijzinnenmetachter-PVenbetrekkelijk
+element
+(cid:263)(cid:270)(cid:271)(cid:284)(cid:276)(cid:276)(cid:279)(cid:265)(cid:266)(cid:273)(cid:270)(cid:271)(cid:272)(cid:266)(cid:263)(cid:266)(cid:277)(cid:262)(cid:273)(cid:270)(cid:275)(cid:268)
+(35) Waarikvroegerwoondebouwenzenueenkantoorgebouw.
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .

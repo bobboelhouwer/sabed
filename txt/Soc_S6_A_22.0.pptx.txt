@@ -1,0 +1,409 @@
+Gebruik de zitplaatsen met een gekleurde sticker 
+Uitwinning en Insolventie
+Joeri Vananroye
+Inleiding Economisch Recht – KU Leuven
+RECHTSSUBJECT
+Rechten
+
+ Buiten-patrimoniële rechten
+ Zakelijke rechten
+ Persoonlijke rechten (schuldeiser: “heeft schuldvordering”)
+
+
+vermogen als (vlottend) onderpand
+
+
+activa
+passiva
+
+
+
+... Worden uitgewonnen op  ... 
+
+Verbintenissen
+(schuldenaar: “heeft schuld”, “is aansprakelijk”)
+
+ < rechtsfeit (bv. buitencontractuele aansprakelijkheid)
+ < rechtshandeling  (bv.  contractuele aansprakelijkheid)
+
+
+Verbod op eigenrichting
+
+“schuldeiser kan niet zomaar op eigen gezag inwerken op de rechtsfeer van de schuldenaar om zijn aanspraken geldend te maken”
+contouren van het verbod zijn flou
+Cass. 8 september 2020, RABG 2021, 122 noot W. De Pauw 
+3. Artikel 470 Strafwetboek straft degene die met behulp van geweld of bedreiging hetzij gelden, waarden, roerende voorwerpen, schuldbrieven, biljetten, promessen, kwijtingen, hetzij de ondertekening of de afgifte van enig stuk dat een verbintenis, beschikking of schuldbevrijding inhoudt of teweegbrengt, afperst.
+4. De constitutieve bestanddelen van het misdrijf afpersing zijn, naast het gebruik van dwang of bedreiging, het zich toe-eigenen van andermans goed of van een onrechtmatig voordeel ten nadele van een ander.
+5. Het geldbedrag waarvoor een schuldeiser een schuldvordering op zijn schuldenaar heeft, is geen goed dat de schuldeiser toebehoort. Dat bedrag kan immers enkel het voorwerp uitmaken van een vorderingsrecht van de schuldeiser op het vermogen van de schuldenaar. Het feit dat de dader zich vanwege het slachtoffer een geldbedrag toe-eigent omdat dit bedrag hem verschuldigd is en hem dus "toekomt", sluit dan ook het bestaan van het materiële constitutieve bestanddeel van het misdrijf afpersing niet uit, evenmin als van een ander vermogensmisdrijf zoals diefstal of oplichting.
+In zoverre het middel uitgaat van een andere rechtsopvatting, faalt het naar recht.
+Quid als je eigenaar bent?  
+Art. 3.67 § 1 BW :
+
+https://www.teamjustitie.be/2021/08/25/factcheck-hervorming-goederenrecht/ 
+RECHTSSUBJECT
+Rechten
+
+ Buiten-patrimoniële rechten
+ Zakelijke rechten
+ Persoonlijke rechten (schuldeiser: “heeft schuldvordering”)
+
+
+vermogen als (vlottend) onderpand
+
+
+activa
+passiva
+
+
+
+... Worden uitgewonnen op  ... 
+
+Verbintenissen
+(schuldenaar: “heeft schuld”, “is aansprakelijk”)
+
+ < rechtsfeit (bv. buitencontractuele aansprakelijkheid)
+ < rechtshandeling  (bv.  contractuele aansprakelijkheid)
+
+Wat als schuldenaar verbintenis niet  vrijwillig nakomt?
+
+  schuldenaar wordt in gebreke gesteld  door schuldeiser schuldeiser (“eiser”) stelt vordering in tegen schuldenaar (“verweerder”) voor rechtbank   eiser verkrijgt, als hij in gelijk wordt gesteld, van rechter veroordeling  van verweerder = uitvoerbare titel
+
+
+“formulier van tenuitvoerlegging”
+Art. 3.35. Definitie  Het vermogen van een persoon is de juridische algemeenheid die het geheel van de bestaande en toekomstige goederen en verbintenissen omvat.  Elke natuurlijke persoon of rechtspersoon heeft een vermogen en, behoudens indien de wet anders bepaalt, slechts één enkel vermogen.
+  Art. 3.36. Algemeen verhaalsonderpand  Tenzij de wet of het contract anders bepaalt, kan een schuldeiser zijn vordering op alle goederen van zijn schuldenaar verhalen.  In geval van samenloop tussen de schuldeisers, wordt de opbrengst ervan onder hen naar evenredigheid van hun vordering verdeeld, tenzij er tussen de schuldeisers wettige redenen van voorrang bestaan. Een schuldeiser kan met zijn schuldenaar overeenkomen dat hij tegenover bepaalde of alle schuldeisers een lagere rang neemt dan de wet hem toekent.
+Art. 3.35. Definitie  Het vermogen van een persoon is de juridische algemeenheid die het geheel van de bestaande en toekomstige goederen en verbintenissen omvat.  Elke natuurlijke persoon of rechtspersoon heeft een vermogen en, behoudens indien de wet anders bepaalt, slechts één enkel vermogen.
+  Art. 3.36. Algemeen verhaalsonderpand  Tenzij de wet of het contract anders bepaalt, kan een schuldeiser zijn vordering op alle goederen van zijn schuldenaar verhalen.  In geval van samenloop tussen de schuldeisers, wordt de opbrengst ervan onder hen naar evenredigheid van hun vordering verdeeld, tenzij er tussen de schuldeisers wettige redenen van voorrang bestaan. Een schuldeiser kan met zijn schuldenaar overeenkomen dat hij tegenover bepaalde of alle schuldeisers een lagere rang neemt dan de wet hem toekent.
+
+
+argwaan tegenover vermogensafscheiding
+
+‘non recourse loan’
+uitgangspunt: iura vigilantibus
+redenen van voorrang
+voorrecht
+zakelijk zekerheidsrecht (security interest)
+onroerend: hypotheek (mortgage)
+roerend: pand (pledge) 
+achtergestelde lening (subordinated loan)
+
+Executie met (dreiging van) overheidsgeweld
+Reële executie
+schuldenaar wordt gedwongen de prestatie te verrichten waartoe hij zich verbonden heeft: is in principe uitgangspunt 
+uitzondering: nemo potest praecise cogi ad factum
+
+	+ dwangsom: drukkingsmiddel tot uitvoering van een rechterlijke beslissing 
+
+Beslag 
+tenuitvoerlegging op de goederen van de debiteur
+Bewarend beslag
+Uitvoerend beslag 
+
+Procedure verschilt naargelang de aard van het beslagen goed
+Executie met (dreiging van) overheidsgeweld
+  Reële executie
++ dwangsom: art. 1385bis Ger.W.: enkel door rechter of arbiter
+Dwangsom wordt verbeurd indien aan de hoofdveroordeling niet wordt voldaan
+Komt toe aan de schuldeisers – maar heft geen vergoedende functie : ‘private straf’ 
+ Niet mogelijk in geval van 
+Veroordeling tot betaling van een geldsom 
+Ter nakoming van arbeidsovereenkomsten 
+Onverzoenbaarheid van dwanguitvoering met menselijke waardigheid
+Dwangsom wordt ten vroegste verbeurd vanaf betekening
+Dwangsom kan niet worden verbeurd tijdens het faillissement van schuldenaar
+Korte verjaringstermijn van 6 maanden
+Brussel 16 mei 2019/ Cass. 13 december 2019
+Voorzitter op eenzijdig verzoekschrift
+Vz. Brussel 31 maart 2021 (https://corporatefinancelab.org/2021/03/31/omtrent-de-beschikking-van-de-franstalige-rechtbank-van-eerste-aanleg-te-brussel-van-vandaag-inzake-het-corona-mb/)
+Wat vormt verhaalsobject van schuldeisers? (in ‘t zeer kort)
+In principe alle goederen en rechten (in geld waardeerbaar) die aan zijn schuldenaar toebehoren
+Ook als ze pas in het vermogen van de schuldenaar zijn gekomen nadat de schuld van de schuldeiser ontstond
+Ook als die zich bij een derde bevinden
+Ook schuldvorderingen die de schuldenaar op zijn schuldenaars heeft (zie ook zijdelingse vordering: art. 1166 BW)
+Niet bepaalde goederen die de wet onbeslagbaar maakt
+In de (zakenrechtelijke) toestand waarin de goederen zich in het vermogen bevinden
+In principe niet goederen die verdwenen zijn uit vermogen, tenzij:
+de overdracht door schuldenaar aan de schuldeiser niet tegenwerpelijk is omdat niet is voldaan aan de voorwaarden voor tegenwerpelijkheid (bv. onroerende goederen)
+de schuldeiser er in slaagt via de pauliaanse vordering de overdracht niet tegenwerpelijk te maken bij bedrieglijke miskenning van zijn rechten
+Bij veinzing (simulatie): derde (o.a. schuldeiser) heeft keuze zich te beroepen op werkelijke of op geveinsde situatie (art. 1321 BW)
+
+    
+   
+18
+100
+300
+100
+200
+100
+vermogen 
+ 
+19
+A
+P
+
+
+
+... Worden uitgewonnen op  ... 
+
+Vereffening rechtpersoon
+
+	
+ontbinding
+Rechtspersoon verdwijnt
+Sluiting vereffening
+ontbinding
+vereffening
+Vereffenaar ipv bestuursorgaan
+Aangeduid door AV
+ Beperkte controle door rechter
+
+Passiva voldoen met activa
+Eventueel netto-actief verdelen
+ 
+
+	
+ontbinding
+Rechtspersoon : verdwijnt
+Natuurlijke persoon: verschoonbaar?
+Sluiting 
+faillssement
+faillissementsvonnis
+Buitenbezitstelling / fixatie rechten schuldeirs
+Curator
+ advocaat aangeduid door rechtbankt
+“collectief beslag”
+
+ten behoeve van alle (chirografaire) schuldeisers 
+op alle activa
+ herstelbevoegd-heden: 17, 18 en 20 Faill.W..
+
+verdachte periode
+Faillissement
+ Gerechtelijke Reorganisatie (WCO)
+
+	
+ontbinding
+overdracht 
+Verzoek  
+opschorting
+“debtor in possession”
+ toezicht gedelegeerd rechter
+ Soms : gerechtsmandataris
+
+Bescherming tegen schuldeisers
+Schuldenaar hoeft  gelijkheid tussen schuldeisers niet te respecteren
+
+
+akkoord 
+Einde(40-42 wco)
+ 
+Plan
+(57, 58 WCO)
+Rest typisch failliet
+Sterk vereenvoudigd schema
+faillissement
+ 
+    
+   
+24
+100
+300
+100
+200
+100
+Waarom faillissement?
+   
+25
+Bewaren van going- concern waarde
+Gelijke behandeling van schuldeisers
+Curator als neutrale en gespecialiseerd bewindvoerder
+Verwijderen / sanctioneren
+Insolvabele ondernemingen
+Van “concurreren” naar “samenlopen”
+ 
+12/12/2021
+Iura vigilantibus
+
+Collectief beslag
+Fixatiebeginsel
+ 
+ 
+27
+voldoen aan faillissements-voorwaarden
+faillietverklaring door faillissementsvonnis
+aangifteplicht
+dagvaarding
+vanaf uur 0
+op ogen-blik vonnis
+“schuldenaar” in zin van Boek XX(onderneming in formele zinminus publiekrechtelijke rechtspersonen)
+(duurzaam) ophouden te betalen
+geschokt krediet
+
+
+ 
+ 
+28
+voldoen aan faillissements-voorwaarden
+faillietverklaring door faillissementsvonnis
+aangifteplicht
+dagvaarding
+Aanstelling rechter-commissaris
+Aanstelling curator
+Bevel tot plaatsopneming
+Datum aangifte schuldvorderingen
+Datum neerlegging PV van verificatie van schuldvorderingen
+Datum van staking van betaling
+Later vonnis
+dagvaarding
+ 
+ 
+29
+ 
+ 
+30
+http://statbel.fgov.be/nl/statistieken/cijfers/economie/ondernemingen/faillissementen/laatste_maanden/
+ 
+ 
+31
+faillietverklaring door faillissementsvonnis
+ 
+ 
+32
+faillietverklaring door faillissementsvonnis
+aangifte en verificatie van schuldvordering
+curator maakt actief te gelde
+Schuldeisers dienen aangifte te doen
+Snelle procedure tot beslechten betwistingen
+quick & dirty
+Verkopen activa
+Instellen vorderingen van gefailleerde
+bv. interne aansprakelijkheidsvorderingen vennootschap
+ 
+ 
+33
+faillietverklaring door faillissementsvonnis
+aangifte en verificatie van schuldvordering
+curator maakt actief te gelde
+Sluiting
+Vergadering van schuldeisers
+Uitbetaling dividend
+
+summiere rechtspleging tot sluiting faillissement
+ 
+ 
+34
+Sluiting
+rechtspersoon
+natuurlijke persoon
+?
+ 
+ 
+35
+ activa en passiva van faillissement
+
+
+Activa
+Passiva
+
+alle activa van gefaillieerde
+alle passiva van gefailleerde
+activa verworven na faillissement
+“wedersamen-gestelde” activa
+passiva van na faillissement
+deel: boedel-schuld
+niet: zakelijke rechten van derden ook als in feitelijk bezit van gefailleerde
+activa voor persoonlijk gebruik / onbeslagbare sommen
+rechten aan persoon verbonden
+Tenzij oorzaak voorafgaand aan faillissement
+
+Art. 7 Hyp.W.
+opening
+faillissement
+sluitingfaillissement
+Welke goederen vormen het onderpand van de schuldeisers in de insolventieprocedure? 
+
+
+
+
+verschoonbaarheidkwijtschelding
+opening
+faillissement
+sluitingfaillissement
+Welke goederen vormen het onderpand van de schuldeisers in de insolventieprocedure? 
+
+
+
+
+art. XX.110 WER
+opening
+faillissement
+sluitingfaillissement
+Welke goederen vormen het onderpand van de schuldeisers in de insolventieprocedure? 
+
+
+
+opening
+faillissement
+sluitingfaillissement
+Welke goederen vormen het onderpand van de schuldeisers in de insolventieprocedure? 
+
+
+
+
+opening collectieve schuldenregeling
+einde collectieve schuldenregeling
+natuurlijke persoon onderneming
+andere natuurlijke personen
+Wedersamenstelling activa
+ 
+12/12/2021
+faillissementsvonnis
+staking van betaling
+verdachte periode
+
+
+
+buitenbezitstelling
+vereenvoudigde pauliana
+pauliana
+art. 17
+art. 18
+“van rechtswege”
+facultatief
+Faillissement van handelszaak (eenmanszaak van Jan)
+
+
+Activa
+Passiva
+Ondernemings-activa  van Sweet
+Ondernemings-passiva van Sweet
+Personlijke activa van Jan
+Persoonlijke passiva van Jan
+universaliteit van faillissement
+
+Snoepwinkel Sour (Miet BVBA) / Miet (vennoot):Faillissement van vennootschap met volkomen rechtspersoonlijkheid (e-BVBA van Miet)
+
+
+Activa
+Passiva
+Activa  van Miet BVBA
+Passiva van  Miet BVBA
+Activa
+Passiva
+Activa van Miet
+Passiva van Miet
+Miet BVBA
+Miet 
+
+aandelen
+Aansprakelijkheid als:
+Oprichter
+Aandeelhouder
+Zaakvoerder
+Vereffenaar
+
+Aansprakelijkheidsvorderingen tegen --    Oprichter
+Aandeelhouder
+Zaakvoerder
+Vereffenaar
+www.corporatefinancelab.org

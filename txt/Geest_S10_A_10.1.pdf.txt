@@ -1,0 +1,84 @@
+Bepaling-hoofdsamenstelling
+zoutarm
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Bepaling-hoofdsamenstelling
+stikheet knalgroen
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Bepaling-hoofdsamenstelling
+mastklimmen
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Bepaling-hoofdsamenstelling
+raadplegen
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Bepaling-hoofdsamenstelling
+hoogspringen
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .̸
+V = verbale samenstelling
+P V
+̸
+V = verbale samenstelling
+Adv V
+Bepaling-hoofdsamenstelling
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Bepaling-hoofdsamenstelling
+̸
+V = verbale samenstelling
+P V
+̸
+V = verbale samenstelling
+Adv V
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Overzicht
+Inleiding
+Bepaling-hoofdsamenstelling
+Aﬂeidingdoorcategoriebepalendesuﬃgering
+Aﬂeidingdoorcategorieneutralepreﬁgering
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Aﬂeidingdoorcategoriebepalendesuﬃgering
+Y [ XX\N] [ NN\N] [ XX\V] [ NN\V]
+N N V V
+[ AA\N] [ AA\V]
+N V
+[ VV\N] [ VV\V]
+X X\Y N V
+[ PP\N]
+N
+[ XX\Y] [ AdvAdv\N]
+Y N
+[ NumNum\N]
+N
+[ PronPron\N]
+N
+[ XX\A] [ NN\A] [ XX\Adv] [ NN\Adv]
+A A Adv Adv
+[ AA\A] [ VV\Adv]
+A Adv
+[ VV\A] [ AA\Adv]
+A Adv
+[ PP\A] [ AdvAdv\Adv]
+A Adv
+[ AdvAdv\A] [ PronPron\Adv]
+A Adv
+[ NumNum\A]
+A
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Aﬂeidingdoorcategoriebepalendesuﬃgering
+bloemist
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Aﬂeidingdoorcategoriebepalendesuﬃgering
+Amerikaan Chinees
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .(4) (cid:281)(cid:279)(cid:282)(cid:275)(cid:264)(cid:262)(cid:281)(cid:270)(cid:266)of(cid:270)(cid:275)(cid:272)(cid:276)(cid:279)(cid:281)(cid:270)(cid:275)(cid:268)ishetfonologischproceswaarbijde
+eindklankvaneenmorfeemweggelatenwordt.
+Aﬂeidingdoorcategoriebepalendesuﬃgering
+(3) (cid:265)(cid:266)(cid:268)(cid:266)(cid:274)(cid:270)(cid:275)(cid:262)(cid:281)(cid:270)(cid:266)iseenfonologischeregeldietweeopeenvolgende
+identiekeconsonantenofvocalenreduceerttotéén.
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Aﬂeidingdoorcategoriebepalendesuﬃgering
+(3) (cid:265)(cid:266)(cid:268)(cid:266)(cid:274)(cid:270)(cid:275)(cid:262)(cid:281)(cid:270)(cid:266)iseenfonologischeregeldietweeopeenvolgende
+identiekeconsonantenofvocalenreduceerttotéén.
+(4) (cid:281)(cid:279)(cid:282)(cid:275)(cid:264)(cid:262)(cid:281)(cid:270)(cid:266)of(cid:270)(cid:275)(cid:272)(cid:276)(cid:279)(cid:281)(cid:270)(cid:275)(cid:268)ishetfonologischproceswaarbijde
+eindklankvaneenmorfeemweggelatenwordt.
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .

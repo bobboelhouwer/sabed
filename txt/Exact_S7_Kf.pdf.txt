@@ -1,0 +1,109 @@
+30/10/2019
+Aanvullingen H4
+Orthogonale basis, orthogonale 
+projectie, orthogonale matrix
+u • v = vvvv • u
+Definities
+• C ∈Cmxn: Hermitiaans toegevoegde
+(cid:2)∗ = (cid:2)(cid:5)(cid:6)
+m.a.w. complex toegevoegd en getransponeerd
+• C ∈Cnxnis Hermitisch asa (cid:2)∗ = (cid:2)
+o Een reële, symmetrische matrix is Hermitisch
+o Een Hermitische matrix heeft reële elementen op de diagonaal
+• Hermitisch product van uen v∈Cn: u•v= (cid:7)(cid:8)(cid:6)(cid:9) = (cid:7)∗(cid:9)
+o u•v= vvvv • u
+o (u+ v) •w= u•w+ v•w
+o c∈C: u•(cv) = c(u•v) ; (cu)•v= (cid:10)(̅ u•v) 
+o u•u≥0 en u•u= 0 ⇔u = 0
+o Als uen v∈Rn, wordt dit het gekende inwendig product 
+130/10/2019
+Orthogonale basis
+• uen v∈Cn: u⊥v⇔u•v= 0 
+• (cid:7) (cid:12) =u•u lengte van u
+• {u , ... , u } is een orthogonale basis voor (deel)ruimte W 
+1 p
+(cid:1)
+o u ⊥u voor i ≠j
+i j
+o Span {u , ... , u } = W
+1 p
+• y= c u + ... + c u
+1 1  p p
+⇓⇓⇓⇓
+u •y= u •(c u )+ ... + u •(c u )
+j j 1 1 j p p
+= c (u •u )+ ... + c (u •u ) = c (u •u)
+1 j 1 p j p j j j
+⇓⇓⇓⇓
+u • y
+(cid:10) = j Volgorde inwendig product belangrijk !
+(cid:13) u • u
+j j
+Orthogonale projectie
+• ∀y∈Cn : y= (cid:14)(cid:15)+z(uniek) met (cid:14)(cid:15)∈W,z∈W⊥
+• Als {u , ... , u } een orthogonalebasis van W is: 
+1 u  p• y u  • y
+(cid:14)(cid:15) = 1 u +⋯+ p u =Proj (y)
+u(cid:16)•				u(cid:16) (cid:18) u(cid:21)•	u(cid:21) (cid:22) W
+• is {u , ... , u } een orthonormale(u •u = 1) basis:
+1 p j j
+(cid:14)(cid:15) = ((((u  • y)	u +⋯+((((u  • y)u
+1 (cid:18) p u  •(cid:22) y
+1
+= u(cid:18) … u(cid:22) ⋮ = (cid:27)(cid:27)∗(cid:14)
+u  • y
+p
+Proj (y) = (cid:27)(cid:27)∗(cid:14)
+W
+• (cid:27)∈Cnxpmet orthonormalekolommen, danis	(cid:27)(cid:27)∗∈Cnxn de 
+projectiematrixop Span{u , ... , u } = Col(U) 
+1 p
+• U∈Cnxnmet orthonormale kolommen heet unitair
+(cid:27)(cid:27)∗ = 	(cid:27)∗(cid:27)= I zodat (cid:27)(cid:28)(cid:18) =(cid:27)∗
+n
+230/10/2019
+Eigenwaardenontbinding van 
+Hermitische matrices
+• De eigenwaarden van een Hermitische matrix Czijn reëel
+Cv=λv⇒v*Cv=λv*v
+v*v ∈R, (v*Cv)*=v*C* v= v*Cvdus ∈R⇒λ∈R
+• De eigenruimten bij verschillende e.w. van een Hermitische matrix C
+zijn orthogonaal
+Cv =λ v ; Cv =λ v
+1 1 1 2 2 2
+λ v *v = v *Cv = v *C*v = (v *Cv )*=(λ v *v )*= λ v *v
+1 2 1 2 1 2 1 1 2 2 1 2 2  2 1
+(λ -λ )(v *v ) = 0 ⇒v *v = 0 ⇒v ⊥v
+1 2 2 1 2 1 2 1
+• C= U D U*met
+Ueen unitaire matrix
+Deen reële diagonale matrix
+Gram-Schmidt en QR
+• GS: Zelfde aanpak als in Rn of elke andere
+vectorruimte…
+• A = QR met
+o A= [a , ... , a ] ∈Cmxnmet l.o. kolommen
+1 n
+o Q = [u , ... , u ]∈Cmxnunitair
+1 n
+o R ∈Cnxnbovendriehoeks, inverteerbaar; r kunnen
+i,i
+reëelenstrikt positief gekozenworden.
+a = r u + r u + r u + ... + r u
+i i,i i  i-1,i i-1 i-2,i i-2 1,i 1
+Projectie van a op W = Span{u, ... , u } = Span {a, ... , a } 
+i i-1 1 i-1 1 i-1
+z = a -Proj (a)
+i i Wi-1 i
+r =  z
+i,i i
+330/10/2019
+Kleinste kwadraten
+A = [a , ... , a ] ∈ Cmxn,b ∈ Cm, 
+1 n
+zoek x ∈ Cn zodat (cid:29) − (cid:31)  minimaal
+⇔⇔⇔⇔ Ax-b ⊥ Col A
+⇔⇔⇔⇔ Ax-b ⊥ a voor i = 1 ... n
+i
+⇔ voldoet aan normaalvergelijkingen A*Ax = A* b
+4

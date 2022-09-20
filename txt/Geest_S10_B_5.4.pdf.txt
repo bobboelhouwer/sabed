@@ -1,0 +1,155 @@
+(81) WatheeftMilogisterengekocht?
+(82) WanneerheeftMilodatboekgekocht?
+(83) (cid:269)(cid:266)(cid:281)(cid:276)(cid:282)(cid:265)-(cid:275)(cid:270)(cid:266)(cid:282)(cid:284)(cid:277)(cid:279)(cid:270)(cid:275)(cid:264)(cid:270)(cid:277)(cid:266):
+Oudeinformatiestaattypischlinksvannieuweinformatieinhet
+Nederlands)demeestinformatieveconstituentenstaantypisch
+achteraaninhetmiddenveld(endeminstinformatieve
+constituenteninhetvoorveld).
+Techniek#4: Verplaatsbaarheid: Extra
+woordvolgordeprincipe(1): hetoud-nieuwprincipe
+VV P1 MV P2 AV
+Milo heeft gisterendatboek gekocht
+Milo heeft datboekgisteren gekocht
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .(83) (cid:269)(cid:266)(cid:281)(cid:276)(cid:282)(cid:265)-(cid:275)(cid:270)(cid:266)(cid:282)(cid:284)(cid:277)(cid:279)(cid:270)(cid:275)(cid:264)(cid:270)(cid:277)(cid:266):
+Oudeinformatiestaattypischlinksvannieuweinformatieinhet
+Nederlands)demeestinformatieveconstituentenstaantypisch
+achteraaninhetmiddenveld(endeminstinformatieve
+constituenteninhetvoorveld).
+Techniek#4: Verplaatsbaarheid: Extra
+woordvolgordeprincipe(1): hetoud-nieuwprincipe
+VV P1 MV P2 AV
+Milo heeft gisterendatboek gekocht
+Milo heeft datboekgisteren gekocht
+(81) WatheeftMilogisterengekocht?
+(82) WanneerheeftMilodatboekgekocht?
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Techniek#4: Verplaatsbaarheid: Extra
+woordvolgordeprincipe(1): hetoud-nieuwprincipe
+VV P1 MV P2 AV
+Milo heeft gisterendatboek gekocht
+Milo heeft datboekgisteren gekocht
+(81) WatheeftMilogisterengekocht?
+(82) WanneerheeftMilodatboekgekocht?
+(83) (cid:269)(cid:266)(cid:281)(cid:276)(cid:282)(cid:265)-(cid:275)(cid:270)(cid:266)(cid:282)(cid:284)(cid:277)(cid:279)(cid:270)(cid:275)(cid:264)(cid:270)(cid:277)(cid:266):
+Oudeinformatiestaattypischlinksvannieuweinformatieinhet
+Nederlands)demeestinformatieveconstituentenstaantypisch
+achteraaninhetmiddenveld(endeminstinformatieve
+constituenteninhetvoorveld).
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .VV P1 MV1 MV2 MV3 P2 AV
+Ik heb ’t gisteren gelezen.
+*Ik heb gisteren ’t gelezen.
+Techniek#4: Verplaatsbaarheid: Extra
+woordvolgordeprincipe(1): hetoud-nieuwprincipe
+VV P1 MV1 MV2 MV3 P2 AV
+Ik heb gisteren eenboek gelezen.
+??Ik heb eenboek gisteren gelezen.
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Techniek#4: Verplaatsbaarheid: Extra
+woordvolgordeprincipe(1): hetoud-nieuwprincipe
+VV P1 MV1 MV2 MV3 P2 AV
+Ik heb gisteren eenboek gelezen.
+??Ik heb eenboek gisteren gelezen.
+VV P1 MV1 MV2 MV3 P2 AV
+Ik heb ’t gisteren gelezen.
+*Ik heb gisteren ’t gelezen.
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .(85) A:WanneerkomtDanira?
+B:#MorgenkomtDanira.
+(86) A:WanneerkomtDanira?
+B:(cid:274)(cid:276)(cid:279)(cid:268)(cid:266)(cid:275)komtDanira.
+Techniek#4: Verplaatsbaarheid: Extra
+woordvolgordeprincipe(1): hetoud-nieuwprincipe
+(84) A:WanneerkomtDanira?
+B:Danirakomtmorgen.
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .(86) A:WanneerkomtDanira?
+B:(cid:274)(cid:276)(cid:279)(cid:268)(cid:266)(cid:275)komtDanira.
+Techniek#4: Verplaatsbaarheid: Extra
+woordvolgordeprincipe(1): hetoud-nieuwprincipe
+(84) A:WanneerkomtDanira?
+B:Danirakomtmorgen.
+(85) A:WanneerkomtDanira?
+B:#MorgenkomtDanira.
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Techniek#4: Verplaatsbaarheid: Extra
+woordvolgordeprincipe(1): hetoud-nieuwprincipe
+(84) A:WanneerkomtDanira?
+B:Danirakomtmorgen.
+(85) A:WanneerkomtDanira?
+B:#MorgenkomtDanira.
+(86) A:WanneerkomtDanira?
+B:(cid:274)(cid:276)(cid:279)(cid:268)(cid:266)(cid:275)komtDanira.
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .(88) hetplaatsobject
+a. datdatboekgisterenopdekastlag.
+b. *datdatboekopdekastgisterenlag.
+(89) hetniet-werkwoordelijkdeelvanhetwerkwoordelijkgezegde
+a. dathetplangistereninhethonderdisgelopen.
+b. *dathetplaninhethonderdgisterenisgelopen.
+(90) Opdekastlaghetboekniet.
+(91) *dathetboekgisterenlagopdekast.
+Techniek#4: Verplaatsbaarheid: Extra
+woordvolgordeprincipe(2): hetinherentieprincipe
+(87) (cid:270)(cid:275)(cid:269)(cid:266)(cid:279)(cid:266)(cid:275)(cid:281)(cid:270)(cid:266)(cid:277)(cid:279)(cid:270)(cid:275)(cid:264)(cid:270)(cid:277)(cid:266)
+Inherenteelementenstaan,alszeinhetmiddenveldvoorkomen,
+vlakvóórdetweedezinspool,metnameinMV3.
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .(89) hetniet-werkwoordelijkdeelvanhetwerkwoordelijkgezegde
+a. dathetplangistereninhethonderdisgelopen.
+b. *dathetplaninhethonderdgisterenisgelopen.
+(90) Opdekastlaghetboekniet.
+(91) *dathetboekgisterenlagopdekast.
+Techniek#4: Verplaatsbaarheid: Extra
+woordvolgordeprincipe(2): hetinherentieprincipe
+(87) (cid:270)(cid:275)(cid:269)(cid:266)(cid:279)(cid:266)(cid:275)(cid:281)(cid:270)(cid:266)(cid:277)(cid:279)(cid:270)(cid:275)(cid:264)(cid:270)(cid:277)(cid:266)
+Inherenteelementenstaan,alszeinhetmiddenveldvoorkomen,
+vlakvóórdetweedezinspool,metnameinMV3.
+(88) hetplaatsobject
+a. datdatboekgisterenopdekastlag.
+b. *datdatboekopdekastgisterenlag.
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .(90) Opdekastlaghetboekniet.
+(91) *dathetboekgisterenlagopdekast.
+Techniek#4: Verplaatsbaarheid: Extra
+woordvolgordeprincipe(2): hetinherentieprincipe
+(87) (cid:270)(cid:275)(cid:269)(cid:266)(cid:279)(cid:266)(cid:275)(cid:281)(cid:270)(cid:266)(cid:277)(cid:279)(cid:270)(cid:275)(cid:264)(cid:270)(cid:277)(cid:266)
+Inherenteelementenstaan,alszeinhetmiddenveldvoorkomen,
+vlakvóórdetweedezinspool,metnameinMV3.
+(88) hetplaatsobject
+a. datdatboekgisterenopdekastlag.
+b. *datdatboekopdekastgisterenlag.
+(89) hetniet-werkwoordelijkdeelvanhetwerkwoordelijkgezegde
+a. dathetplangistereninhethonderdisgelopen.
+b. *dathetplaninhethonderdgisterenisgelopen.
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .(91) *dathetboekgisterenlagopdekast.
+Techniek#4: Verplaatsbaarheid: Extra
+woordvolgordeprincipe(2): hetinherentieprincipe
+(87) (cid:270)(cid:275)(cid:269)(cid:266)(cid:279)(cid:266)(cid:275)(cid:281)(cid:270)(cid:266)(cid:277)(cid:279)(cid:270)(cid:275)(cid:264)(cid:270)(cid:277)(cid:266)
+Inherenteelementenstaan,alszeinhetmiddenveldvoorkomen,
+vlakvóórdetweedezinspool,metnameinMV3.
+(88) hetplaatsobject
+a. datdatboekgisterenopdekastlag.
+b. *datdatboekopdekastgisterenlag.
+(89) hetniet-werkwoordelijkdeelvanhetwerkwoordelijkgezegde
+a. dathetplangistereninhethonderdisgelopen.
+b. *dathetplaninhethonderdgisterenisgelopen.
+(90) Opdekastlaghetboekniet.
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Techniek#4: Verplaatsbaarheid: Extra
+woordvolgordeprincipe(2): hetinherentieprincipe
+(87) (cid:270)(cid:275)(cid:269)(cid:266)(cid:279)(cid:266)(cid:275)(cid:281)(cid:270)(cid:266)(cid:277)(cid:279)(cid:270)(cid:275)(cid:264)(cid:270)(cid:277)(cid:266)
+Inherenteelementenstaan,alszeinhetmiddenveldvoorkomen,
+vlakvóórdetweedezinspool,metnameinMV3.
+(88) hetplaatsobject
+a. datdatboekgisterenopdekastlag.
+b. *datdatboekopdekastgisterenlag.
+(89) hetniet-werkwoordelijkdeelvanhetwerkwoordelijkgezegde
+a. dathetplangistereninhethonderdisgelopen.
+b. *dathetplaninhethonderdgisterenisgelopen.
+(90) Opdekastlaghetboekniet.
+(91) *dathetboekgisterenlagopdekast.
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .

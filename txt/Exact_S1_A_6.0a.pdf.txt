@@ -1,0 +1,915 @@
+Aanvullende voorbeelden bij Hoofdstuk VIII  37
+In een labo wordt een fruitsap geanalyseerd en er wordt vastgesteld dat het fruitsap 
+een pH heeft van 3,9. Wat zijn de H+ en OH- concentraties in het fruitsap? 
+ 
+oplossing 
+ 
+p H = -log[H+] = 3,9 (cid:1)  [H+] = 1,26 10-4 
+ 
+p K = pH + pOH (cid:1) pOH = pK - pH = 14 -3,9 = 10,1
+w w
+ 
+pOH = -log[OH-] = 10,1 (cid:1) [ OH-] = 7,9 10-11
+ 
+ 
+a)  We beschikken over een 1 M HF-oplossing (pKz = 3,20). Bereken voor hoe-
+veel % HF gedissocieerd is. 
+b)  Bereken eveneens het dissociatiepercentage van HF als het gaat om een 
+oplossing die 1 M HF en 1 M NaF bevat. Vergelijk met a). 
+ 
+oplossing 
+ 
+a)       HF                H+             +            F-               (M) 
+ 
+  start        1 
+                          -x                           +x                         +x             
+   evenwicht    1 – x                           x                           x 
+ 
+ 
+pK = -logK = 3,2 (cid:1) K = 6,3 10-4 
+z z z
+  Controle: 
+[ ][ ] we bekomen 
+H+ F- x· x
+K = = 6,3 10-4 = (cid:1) x = 2,5 10-2  inderdaad een 
+z [HF] (1- x) kleine x-waarde 
+  (x << 1) dus de 
+  verwaarlozing 
+x verwaarlozen t.o.v. 1: 
+  was terecht. 
+geringe dissociatie van HF 
+ 
+(zie kleine K -waarde) 
+z
+ 
+ 
+ 
+[ ]
+H+ x 2,5 10-2
+ % dissociatie = ·100 = ·100 = ·100 = 2 ,5% 
+[HF] 1 1
+start
+ 
+ 
+b)   NaF              Na+    +    F-           
+       
+   1M                              1M 
+ 
+                HF                H+            +            F-                       (M)             
+ 
+  start        1                                                          1 
+                          -x                           +x                         +x             
+   evenwicht    1 – x                           x                        1 + x 
+ 
+ Aanvullende voorbeelden bij Hoofdstuk VIII  38
+ 
+[H+][F-] x·(1+ x)
+K = = 6,3 10-4 = (cid:1) x = 6,3 10-4 
+z [HF] (1- x)
+ 
+ 
+[ ]
+H+ x 6,3 10-4
+ % dissociatie = ·100 = ·100 = ·100 = 0 ,063% 
+[HF] 1 1
+start
+ 
+Aanwezigheid van het F--ion van NaF beperkt de dissociatie van HF (0,063 % t.o.v. 2,5 %). 
+ 
+ 
+Bereken de pH van elk van de volgende oplossingen: 
+•  50 ml 0,1M KOH 
+•  50 ml 0,4M HClO  
+4
+•  50 ml 1M HCN 
+•  50 ml 0,2M NaNO  
+2
+•  50 ml 0,6M NaH PO  
+2 4
+•  50 ml 0,3M NH Cl 
+4
+•  50 ml 0,4M H SO  
+2 4
+•  50 ml 0,1M NH NO  
+4 2
+ 
+oplossing 
+ 
+•  KOH              K+  +  OH-           s terke base:  pH = 14 + logc  
+b
+0,1M                       0,1M                            p H = 14 + log0,1 = 1 3 
+ 
+ 
+•  HClO4              H+  +  ClO4-       s terk zuur:  pH = -logcz  
+0,4M              0,4M                                     p H = -log0,4 = 0 ,4    
+  
+                                  
+•  HCN      H+   +  CN-             z wak zuur:  pH = 1 pK - 1 logc  
+2 z 2 z
+1 1
+ 1M                                                             pH = 9,21- log1 = 4 ,6     
+ 
+2 2
+                                                                               
+ 
+  1 1
+•  NaNO              Na+  +  NO -    zwakke base:   pH = 7 + pK + logc      
+2 2 2 z 2 b
+1 1
+ 0,2M                           0,2M                          pH = 7 + 3,25+ log0,2 = 8 ,28 
+2 2
+                        
+                                           
+ 
+•  NaH PO              Na+  +  H PO -   amfoliet:  pH = pKz(H3PO4) + pKz(H2PO4-)  
+2 4 2 4
+2
+2,16 + 7,21
+               0,6M                              0,6M                     pH = = 4 ,68         
+2Aanvullende voorbeelden bij Hoofdstuk VIII  39
+  1 1
+•  NH Cl              NH +   +   Cl-    zwak zuur:    pH = pK - logc  
+4 4 2 z 2 z
+1 1
+0,3M                0,3M                                     pH = 9,25- log0,3 = 4 ,89    
+2 2
+ 
+•  H SO               2H+   +   SO 2-    s terk zuur:    pH = -log 2c  
+2 4 4 z
+0,4M               0,8M                                         pH = -log0,8 =  0,097 
+ 
+ 
+•  NH NO             NH +   +   NO -     amfoliet:    pH = pKz(NH4+) + pKz(HNO2)    
+4 2 4 2
+2
+               
+9,25+3,25
+              0,1M               0,1M        0,1M                      pH = = 6 ,25 
+2
+ 
+ 
+Bereken de pH van een 200 ml 0,04 M NaHCO -oplossing. Hoeveel zal de pH verande-
+3
+ren wanneer 70 ml 0,1 M HCl wordt toegevoegd? 
+ 
+Oplossing 
+ 
+NaHCO                Na+   +   HCO -     amfoliet:    H CO       H+  +  HCO -         pK  = 6,35 
+3 3 2 3 3 z
+0,04M                                 0,04M                       HCO -      H+  +  CO 2-          pK  = 10,33 
+3 3 z
+                           
+pKz(H CO ) + pKz(HCO-)
+                                                                           pH = 2 3 3  
+2
+6,35+10,33
+                                                                            pH = = 8 ,34 
+2
+ 
+toevoegen van het sterke zuur HCl: 
+HCl             H+   +   Cl-       
+0,1M          0,1M 
+ 
+samenvoegen geeft een totaal volume van  200 ml + 70 ml = 270 ml 
+ 
+( ) 200 ml
+         HCO- = 0,04 M · = 0,0296 M  
+3 270 ml
+( ) 70 ml
+         H+ = 0,1M · = 0,026 M  
+270 ml
+ 
+                       H+              +            HCO -                             H CO                     (M) 
+3 2 3
+ 
+start               0,026                         0,0296                                   
+                     -0,026                        -0,026                              +0,026 
+einde               weg                          0,0036                              0,026   
+ 
+ 
+buffer 
+ 
+Na afloop van de reactie blijven 2 deeltjes over van eenzelfde zuur-base-systeem = b uffer Aanvullende voorbeelden bij Hoofdstuk VIII  40
+  [base] [HCO-]
+pH = pK + log     pH = pK + log 3          
+z [zuur] z(H2CO3) [H CO ]
+2 3
+ 
+[0,0036]
+p H = 6,35+ log = 5 ,49 
+[0,026]
+ 
+De pH zal dalen van 8,34 naar 5,49 door toevoegen van HCl. 
+ 
+ 
+Gegeven:  
+•  200 ml 0,1 M HCl 
+•  300 ml 0,2 M KOH 
+•  250 ml 0,1 M KCl 
+•  100 ml 0,3 M H SO  
+2 3
+•  100 ml 0,2 M KHSO  
+3
+ 
+a)  Geef de pH van de afzonderlijke oplossingen. 
+b)  Wat wordt de pH van de oplossing na samenvoegen? 
+ 
+Oplossing 
+ 
+a)  
+•  HCl              H+  +  Cl-              sterk zuur:   pH = -logc  
+z
+0,1M           0,1M                                         pH = -log0,1 = 1   
+ 
+ 
+•  KOH                 K+  +  OH-    sterke base:   pH = 14 + logc   
+b
+0,2M                          0,2M                          p H = 14 + log0,2 = 1 3,3 
+ 
+ 
+ 
+•  KCl                 K+  + Cl-                                pH = 7 
+ 
+ 
+1 1
+•  H SO      H+  +  HSO -      zwak zuur:   pH = pK - logc  
+2 3 3 2 z 2 z
+1 1
+              0,3M                                                            pH = 1,85- log0,3 =  1,19  
+2 2
+ 
+ 
+•  KHSO              K+  +  HSO -      amfoliet:   pH = pKz(H2SO3) + pKz(HSO3-)  
+3 3
+2
+1,85+ 7,2
+0,2M                          0,2M                        pH = =  4,5 
+2
+ 
+ 
+b) samenvoegen geeft een totaal volume van (200 + 300 + 250 + 100 + 100) ml = 950 ml 
+ Aanvullende voorbeelden bij Hoofdstuk VIII  41
+( ) 200 ml
+         H+ = 0,1M · = 0,02 M  
+950 ml
+( ) 300 ml
+         OH- = 0,2 M · = 0,063M  
+950 ml
+100 ml
+        (H SO ) = 0,3M · = 0,03M  
+2 3 950 ml
+( ) 100 ml
+         HSO- = 0,2 M · = 0,02 M  
+3 950 ml
+ 
+ 
+Fase 1: Het sterkste zuur H+ reageert eerst met de sterkste base OH-: 
+ 
+                       H+              +            OH-                             H O                (M) 
+2
+ 
+start               0,02                         0,063                                   
+                     -0,02                        -0,02                               
+einde                -                            0,043             
+ 
+ 
+Fase 2: Het sterke zuur H+ is opgebruikt, maar er is nog sterke base OH- over die verder zal 
+reageren met het sterkere zuur dat op dat moment beschikbaar is nl. H SO .  
+2 3
+        Let op: houd rekening met de 0,02M HSO - die ook aanwezig was op het moment dat  
+3
+                    onderstaande reactie van start ging!  
+ 
+                       OH-              +            H SO                         HSO -            +           H O        (M) 
+2 3 3 2
+ 
+start               0,043                            0,03                           0,02    
+                     -0,03                             -0,03                         +0,03 
+einde             0,013                               -                              0,05   
+ 
+ 
+Fase 3: Na afloop van bovenstaande reactie is nog 0,013 M OH- en 0,05 M HSO - over, die         
+3
+        onderling zullen reageren: 
+ 
+                       OH-              +            HSO -                        SO 2-            +           H O        (M) 
+3 3 2
+ 
+start               0,013                            0,05                            
+                     -0,013                          -0,013                       +0,013 
+einde                 /                                0,037                         0,013   
+ 
+ 
+buffer 
+ 
+[base]  
+pH = pK + log
+z [zuur]
+ 
+[ ]
+SO2-
+pH = pKz(HSO3-) + log[HSO3 -] 
+3
+[0,013]
+p H = 7,2 + log =  6,75                                                    
+[0,037]
+ Aanvullende voorbeelden bij Hoofdstuk VIII  42
+Gegeven: 
+•  200 ml 0,1M HCl 
+•  100 ml 0,3M HF 
+•  50 ml 0,2M NaNO  
+2
+ 
+Bereken de pH van de oplossing na samenvoegen. 
+ 
+Oplossing 
+ 
+•  HCl              H+  +  Cl-                sterk zuur   
+0,1M           0,1M            
+                              
+•  HF       H+   +  F-                           zwak zuur 
+             0,3M 
+ 
+•  NaNO             Na+  +  NO -        zwakke base      
+2 2
+0,2M                           0,2M        
+    
+Samenvoegen geeft een totaal volume van  200 ml + 100 ml + 50 ml = 350 ml 
+ 
+( ) 200 ml
+         H+ = 0,1M · = 0,057 M  
+350 ml
+100 ml
+        (HF) = 0,3M · = 0,086 M  
+350 ml
+( ) 50 ml
+         NO- = 0,2 M · = 0,029 M  
+2 350 ml
+ 
+Het sterkste zuur H+ zal eerst reageren met de base NO -: 
+2
+ 
+ 
+                       H+              +            NO -                             HNO                     (M) 
+2 2
+ 
+start               0,057                        0,029                                   
+                     -0,029                       -0,029                           +0,029 
+einde             0,028                             -                                0,029   
+ 
+Na afloop van de reactie bevinden er zich 3 zuren in oplossing nl. 0,028M H+ 
+                                                                                                                                                                    0,029M HNO  
+2
+                                                                                                         0,086M HF 
+Het sterkste zuur van de 3 zal de pH bepalen nl. H+ 
+H+ is sterk zuur dus  pH = -logc  
+z
+                                 pH = -log0,028 =  1,5 
+ 
+ 
+Men beschikt over 100 ml 0,1 M KOH-oplossing. Men voegt aan deze oplossing 50 ml 
+0,1 M HF toe. Wat wordt de pH na samenvoegen? Nadien wordt aan dit mengsel nog 
+eens 100 ml 0,1 M HCl toegevoegd. Wat wordt nu de pH? 
+ 
+a) KOH en HF: 
+ 
+•  KOH                 K+  +  OH-               sterke base  
+0,1M                          0,1M                          Aanvullende voorbeelden bij Hoofdstuk VIII  43
+ 
+•  HF       H+   +  F-                                   zwak zuur 
+             0,1M 
+ 
+Samenvoegen geeft een totaal volume van 100 ml + 50 ml = 150 ml 
+ 
+( ) 100 ml
+         OH- = 0,1M · = 0,066 M  
+150 ml
+50 ml
+        (HF) = 0,1M · = 0,033M  
+150 ml
+       
+ 
+                       OH-                      +            HF                             F-              +             H O           (M) 
+2
+ 
+start               0,066                         0,033                                   
+                     -0,033                        -0,033                      +0,033 
+einde             0,033                             -                            0,033   
+ 
+ 
+Na afloop van de reactie bevinden er zich 2 basen in oplossing nl. de sterke base OH- en de 
+zwakke base F-. De sterkste base van de 2 zal de pH bepalen dus OH-: 
+ 
+pH = 14 + logc  
+b
+ pH = 14 + log0,033 = 1 2,5 
+ 
+ 
+b) mengsel uit a) en HCl: 
+ 
+•  mengsel uit a): 0,033M OH- en 0,033M F- 
+ 
+•  HCl              H+  +  Cl-                sterk zuur   
+0,1M           0,1M            
+ 
+Samenvoegen maakt een totaal volume van 150 ml + 100 ml = 250 ml 
+( ) 150 ml
+        OH- = 0,033M · = 0,025 M  
+250 ml
+( ) 150 ml
+       F - = 0,033M · = 0,025 M  
+250 ml
+( ) 100 ml
+        H+ = 0,1M · = 0,04 M               
+250 ml
+ 
+Het sterke zuur H+ reageert met de sterkste base OH-: 
+ 
+                       H+              +            OH-                             H O                        (M) 
+2
+ 
+start               0,04                         0,025                                   
+                     -0,025                      -0,025                               
+einde             0,015                           -           
+ Aanvullende voorbeelden bij Hoofdstuk VIII  44
+Na afloop van  bovenstaande reactie blijft er 0,015M H+ over dat onmiddellijk verder reageert 
+met de 0,025M F-: 
+ 
+                       H+              +            F-                             HF                               (M) 
+ 
+start               0,015                       0,025                                   
+                     -0,015                      -0,015                      +0,015          
+einde                 /                           0,010                         0,015  
+ 
+ 
+buffer 
+ 
+[base]
+pH = pK + log  
+z [zuur]
+ 
+[ ]
+F-
+pH = pK + log  
+z(HF) [HF]
+ 
+[0,010]
+ pH = 3,20 + log =  3,02 
+[0,015]
+ 
+Welk volume HCl 7 M dient toegevoegd te worden aan 50 ml NaCN 0,1 M om een op-
+lossing te bekomen met pH 9,1? 
+ 
+ 
+•  HCl                 H+  +  Cl-             sterk zuur 
+7M                 7M 
+ 
+•  NaCN                Na+  +  CN-       zwakke base 
+0,1M                             0,1M   
+ 
+Samenvoegen geeft een totaal volume van  x ml + 50 ml = (x + 50) ml 
+ 
+( ) x ml
+         H+ = 7 M ·  
+(x + 50)ml
+( ) 50 ml
+         CN- = 0,1M ·  
+(x +50)ml
+       
+Gezien de pH na mengen is de omgeving ligt van pK  (dus in het buffergebied) is dit een 
+HCN
+aanduiding dat CN- maar gedeeltelijk is omgezet. 
+ 
+                       H+                 +           CN-                                HCN                               (M) 
+ 
+x 50
+start            7·                0,1·                 
+x + 50 x + 50
+x x x
+                   -7·               -7·                     +7·     
+x + 50 x + 50 x + 50
+0,1·50 - 7· x x
+einde                   -                                       7·  
+x +50 x + 50
+buffer 
+ Aanvullende voorbeelden bij Hoofdstuk VIII  45
+ 
+[base] [CN-]
+pH = pK + log       pH = pK + log  
+z [zuur] z(HCN) [HCN]
+ 
+(cid:7)0,1·50 -7 x(cid:4) (cid:7)0,1·50 - 7 x(cid:4)
+(cid:5) (cid:2) (cid:5) (cid:2)
+(cid:6) x + 50 (cid:3) (cid:6) x + 50 (cid:3)
+9,1 = 9,21+ log    -0,11 = log  
+(cid:7) x (cid:4) (cid:7) x (cid:4)
+(cid:5)7· (cid:2) (cid:5)7· (cid:2)
+(cid:6) x +50(cid:3) (cid:6) x +50(cid:3)
+ 
+(cid:7)0,1·50 -7· x(cid:4)
+(cid:5) (cid:2)
+(cid:6) x + 50 (cid:3)
+0,78 =  
+(cid:7) x (cid:4)
+(cid:5)7· (cid:2)
+(cid:6) x +50(cid:3)
+ 
+0,1·50
+5,46 x = 0,1·50 - 7 x    12,46 x = 0,1·50   x =  
+12,46
+ x = 0,40ml  
+ 
+ 
+ 
+   Er waren bij de reactie in principe 3 mogelijkheden: 
+ 
+A.  Indien CN- beperkend was, zou H+ overblijven en alle CN- omgezet tot HCN. In dit 
+geval zou het sterkste zuur H+ de pH bepalen.        De pH zou zeer klein zijn (<< pH = 9,1) 
+ 
+B.  Indien er precies evenveel CN- als H+ zou aanwezig geweest zijn, dan was er na re-
+actie enkel het zwakke zuur HCN over waardoor    pH < 7 
+ 
+Vermits mogelijkheden A en B uitgesloten zijn, blijft enkel mogelijkheid C over 
+ 
+C.  H+ is beperkend en CN- blijft over en HCN is gevormd          vormen samen een buffer 
+ 
+Men beschikt over een 0,2 M van oplossing van een natriumzout met pH = 9,35. Het 
+anion van het zout is de geconjugeerde base van een zwak monofunctioneel zuur. Wat 
+is de Kz-waarde van het zwakke zuur? 
+ 
+oplossing 
+ 
+Het natriumzout stellen we voor door NaB, waarbij B- afkomstig is van het monofunctioneel 
+zuur (kan slechts 1 H+ afsplitsen) HB. 
+ 
+1 1
+NaB            Na+  +  B-                zwakke base:   pH = 7 + pK + logc  
+2 z 2 b
+1 1
+0,2M                     0,2M                                9,35 = 7 + pK + log0,2                                                                      
+2 z(HB) 2
+                                                                      pK = 5,4 = -logK                                     
+z(HB) z(HB)
+                                                                     K = 4 10-6 
+z(HB)
+   Aanvullende voorbeelden bij Hoofdstuk VIII  46
+Een tablet samengesteld uit KCl en een eenwaardig zwakke base, weegt 2 g. We los-
+sen de tablet op in 250 ml water en meten een pH van 11. Daarna wordt er aan die op-
+lossing 5 ml HCl (0,1M) toegevoegd en wordt een pH van 9 gemeten. Wat is de procen-
+tuele samenstelling van de tablet wanneer de zwakke base een molaire massa van 20 
+g.mol-1 heeft. 
+ 
+Oplossing 
+ 
+1° tablet in water brengen: 
+•  KCl               K+   +  Cl- 
+ 
+•  De neutrale zwakke base stellen we voor door B. 
+ 
+1 1
+Enkel B zal de pH bepalen:    pH = 7 + pK + logc  
+2 z 2 b
+ 
+    x = aantal mol B in 2 g                        250 ml 
+    4x  mol B                                            1000 ml               dus c = 4x mol.l-1 
+b
+                   
+1 1
+                                                  11 = 7 + 2 pKz(HB+) + 2 log4x 
+ 
+1
+                                        pKz(HB+) = (11- 7 - 2 log 4x)·2 
+ 
+                                        pK = 8- log4x                   (vergelijking 1) 
+z(HB+)
+ 
+2° HCl toevoegen: 
+ 
+HCl             H+  +  Cl-            sterk zuur 
+0,1M          0,1M    
+ 
+ 
+Na samenvoegen is het totaal volume   250 ml + 5 ml = 255 ml 
+ 
+250 ml
+       (B) = 4x (M)· = 3,92x M         
+255ml
+( ) 5ml
+        H+ = 0,1M · = 0,002 M               
+255ml
+ 
+ 
+                       B             +              H+                              HB+                          (M) 
+ 
+start               3,92 x                     0,002                                   
+                     -0,002                    - 0,002                      + 0,002          
+einde        3,92 x – 0,002                   -                            0,002        
+ 
+ 
+buffer 
+ 
+Er kan geen overmaat sterk zuur zijn gezien de pH slechts is gedaald van 11 naar 9. Aanvullende voorbeelden bij Hoofdstuk VIII  47
+[base] [B]
+pH = pK + log     pH = pK + log  
+z [zuur] z(HB+) [HB+]
+ 
+[3,92x - 0,002]
+9 = pK + log    
+z(HB+) [0,002]
+ 
+[3,92x - 0,002]
+pK = 9 - log                       (vergelijking 2) 
+z(HB+) [0,002]
+ 
+Gelijkstellen van vgl. 1 met vgl. 2 levert 
+ 
+[3,92x -0,002] 0,002·4x
+8- log4x = 9 - log     -1 = log  
+[0,002] 3,92x -0,002
+ 
+0,002·4x
+0,1 =     0,392x -0,0002 = 0,008x 
+3,92x -0,002
+0,392x -0,008x = 0,0002 
+ 
+0,0002
+x =    x = 0,00052 
+0,384
+ 
+dus: 0,00052 mol B in 2 g tablet = 0,00052 mol ·20 g.mol-1 = 0,0104 g  B in 2 g tablet: 
+ 
+0,0104 g
+·100 = 0 ,52%B    100 % - 0,52 % = 9 9,48 % KCl 
+2 g
+ 
+100 ml 0,2 M NH  wordt getitreerd met 0,1 M HCl. Bepaal de vorm van de titratiecurve. 
+3
+Bepaal eveneens het equivalentiepunt. 
+ 
+oplossing 
+ 
+0,1M HCl 
+  100 ml 0,2M NH3 
+ 
+1) bij aanvang is nog geen HCl toegevoegd dus enkel NH  als zwakke base bevindt zich in 
+3
+1 1
+erlenmeyer:   pH = 7 + pK + logc  
+2 z 2 b
+1 1
+pH = 7 + 9,25+ log0,2 = 11,27
+                      2 2  
+2) 10 ml HCl toegevoegd: 
+ 
+samenvoegen: dus totaal volume = 100 ml + 10 ml = 110 ml       
+100 ml
+         (NH ) = 0,2 M · = 0,18 M  
+3 110 mlAanvullende voorbeelden bij Hoofdstuk VIII  48
+( ) 10 ml
+          H+ = 0,1M · = 0,009 M  
+110 ml
+ 
+                       NH              +            H+                           NH +                           (M) 
+3 4
+ 
+start               0,18                         0,009                                   
+                     -0,009                      -0,009                      +0,009          
+einde             0,17                             -                             0,009  
+ 
+ 
+buffer 
+ 
+[base]
+pH = pK + log  
+z [zuur]
+ 
+[NH ]
+pH = pK + log 3  
+z(NH4+) [NH+]
+4
+ 
+[0,17]
+pH = 9,25+ log = 10,52 
+[0,009]
+ 
+3) 50 ml HCl toegevoegd: 
+ 
+samenvoegen: dus totaal volume = 100 ml + 50 ml = 150 ml      
+  
+100 ml
+         (NH ) = 0,2 M · = 0,13M  
+3 150 ml
+( ) 50 ml
+          H+ = 0,1M · = 0,03M  
+150 ml
+ 
+                       NH              +            H+                           NH +                           (M) 
+3 4
+ 
+start               0,13                          0,03                                   
+                     -0,03                         -0,03                       +0,03          
+einde             0,10                             /                             0,03  
+ 
+ 
+  nog steeds buffer 
+[NH ]
+pH = pK + log 3  
+z(NH4+) [NH+]
+4
+ 
+[0,10]
+pH = 9,25+ log = 9,77 
+[0,03]
+ 
+ 
+4) 100 ml HCl toegevoegd : 
+[0,05]
+ Nog steeds bufferoplossing       pH = 9,25+ log = 9,25 
+[0,05]
+ 
+Analoog voor 150 ml (pH = 8,77) en 190 ml (pH = 8,04) Aanvullende voorbeelden bij Hoofdstuk VIII  49
+5) 200 ml HCl toegevoegd: 
+ 
+samenvoegen: dus totaal volume = 100 ml + 200 ml = 300 ml       
+100 ml
+         (NH ) = 0,2 M · = 0,066 M  
+3 300 ml
+( ) 200 ml
+          H+ = 0,1M · = 0,066 M  
+300 ml
+ 
+                       NH              +            H+                           NH +                           (M) 
+3 4
+ 
+start               0,066                        0,066                                   
+                     -0,066                       -0,066                     +0,066          
+einde                /                                 /                            0,066  
+ 
+Het equivalentiepunt is bereikt. Er is evenveel zuur toegevoegd als er base aanwezig was. 
+ 
+1 1
+Na afloop nog enkel NH + aanwezig (zwak zuur):     pH = pK - logc  
+4 2 z 2 z
+1 1
+                                                             pH = 9,25- log0,066 = 5,22  
+2 2
+6) 210 ml HCl toegevoegd (voorbij het equivalentiepunt): 
+ 
+samenvoegen: dus totaal volume = 100 ml + 210 ml = 310 ml      
+     
+( ) 210 ml
+         NH  is op en  H+ = 0,1M · = 0,068 M           
+3
+310 ml
+( ) 300 ml
+         NH+ = 0,066 M · = 0,064 M  
+4 310 ml
+ 
+de pH wordt bepaald door het sterkste zuur H+:    pH = -logc  
+z
+                                                                              pH = -log0,068 = 1,17 
+ 
+Bij stijgende overmaat sterk zuur zal de pH nog verder traag toenemen 
+Bij 250 ml (pH = 1,15), 290 ml (pH = 1,13), 300 ml (pH = 1,12) 
+ 
+ml HCl toegevoegd  [NH ]  [NH+]  [H+]  pH 
+3 4
+0  0,2  -  0,1  11,27 
+10  0,17  0,009  -  10,52 
+50  0,1  0,03  -  9,77 
+90  0,053  0,047  -  9,30 
+100  0,05  0,05  -  9,25 
+110  0,043  0,052  -  9,17 
+150  0,02  0,06  -  8,77 
+190  0,004  0,065  -  8,04 
+200  -  0,066  -  5,22 
+210  -  0,064  0,068  1,17 
+250  -  0,057  0,07  1,15 
+290  -  0,051  0,074  1,13 
+300  -  0,049  0,075  1,12 Aanvullende voorbeelden bij Hoofdstuk VIII  50
+50 ml 0,2 M HCl wordt getitreerd met 0,1 M NaOH.  
+a)  Bereken de pH van de oplossing wanneer 10 ml NaOH is toegevoegd aan 
+het HCl. 
+b)  Bereken eveneens de pH van de oplossing wanneer 120 ml NaOH is toege-
+voegd aan het HCl. 
+ 
+oplossing 
+ 
+0,1M NaOH 
+50 ml 0,2M HCl  
+ 
+ 
+a)  
+•  NaOH              Na+  +  OH-        sterke base  
+             0,1M                           0,1M     
+•  HCl              H+  +  Cl-                sterk zuur 
+0,2M           0,2M   
+ 
+Samenvoegen geeft een totaal volume van 50 ml + 10 ml = 60 ml 
+( ) 10 ml
+         OH- = 0,1M · = 0,0167 M  
+60 ml
+( ) 50 ml
+         H+ = 0,2 M · = 0,167 M  
+60 ml
+ 
+                       H+              +            OH-                                  H O                    (M) 
+2
+ 
+start               0,167                       0,0167                                   
+                     -0,0167                    -0,0167                               
+einde             0,15                              -      
+ 
+na afloop enkel het sterke zuur H+:  pH = -logc  
+z
+                                                         pH = -log0,15 = 0 ,82 
+opm.: op dit ogenblik bij de titratie zijn we nog voor het equivalentiepunt 
+ 
+b) samenvoegen: dus totaal volume = 50 ml + 120 ml = 170 ml 
+( ) 120 ml
+         OH- = 0,1M · = 0,07 M  
+170 ml
+( ) 50 ml
+         H+ = 0,2 M · = 0,06 M  
+170 ml
+ 
+                       H+              +            OH-                                  H O                    (M) 
+2
+ 
+start               0,06                        0,07                                   
+                     -0,06                      -0,06                               
+einde               /                            0,01       
+ 
+na afloop enkel de sterke base OH-:  pH = 14 + logc  
+b
+                                                            pH = 14 + log0,01 = 1 2 
+ 
+opm.: op dit ogenblik zitten we voorbij het equivalentiepunt Aanvullende voorbeelden bij Hoofdstuk VIII  51
+Een gebufferde oplossing bevat 0,5 M azijnzuur (pK  = 4,756) en 0,5 M natriumacetaat. 
+z
+a)  Bereken de pH van deze oplossing. 
+b)  Bereken de pH-verandering wanneer 0,01 mol vast NaOH wordt toegevoegd aan 
+1 l van de gebufferde oplossing. Vergelijk dit met de pH-verandering die op-
+treedt wanneer 0,01 mol vast NaOH wordt toegevoegd aan 1 l water. 
+ 
+oplossing 
+ 
+•  CH COOH     H+ + CH COO- 
+3 3
+                  0,5M 
+•  CH COONa              CH COO-  +  Na+ 
+3 3
+                    0,5M                      0,5M         
+[base]
+CH COOH en CH COO- vormen buffer dus  pH = pK + log  
+3 3 z [zuur]
+[ ]
+CH COO-
+                                                                       pH = pK + log 3  
+z(CH3COOH) [CH COOH]
+3
+[0,5]
+                                                                       pH = 4,756 + log = 4 ,756 
+[0,5]
+ 
+•  CH COOH     H+ + CH COO- 
+3 3
+                  0,5M 
+•  CH COONa              CH COO-  +  Na+ 
+3 3
+                   0,5M                      0,5M        
+•  NaOH              Na+  +  OH-           
+            0,01M                       0,01M         (0,01 mol NaOH op 1 l oplossing) 
+ 
+                   CH COOH          +          OH-                    CH COO-        +        H O            (M) 
+3 3 2
+ 
+start               0,5                               0,01                         0,5         
+                     -0,01                            -0,01                       +0,01          
+einde             0,49                                -                            0,51  
+ 
+ 
+buffer 
+ 
+[base] [CH COO-]
+pH = pK + log     pH = pK + log 3  
+z [zuur] z(CH3COOH) [CH COOH]
+3
+[0,51]
+ pH = 4,756 + log =  4,77 
+[0,49]
+ 
+(cid:1)  pH = 4,77 – 4,756 = 0 ,0174           kleine pH verandering bij toevoeging van NaOH aan  
+                                                         een gebufferd systeem.      
+ 
+       NaOH              Na+  +  OH-           
+       0,01M                       0,01M         (0,01 mol NaOH op 1 l H O) 
+2
+ 
+    sterke base:  pH = 14 + logc     pH = 14 + log0,01 = 12 
+b
+    pH van zuiver H O = 7 
+2
+ 
+     (cid:1)  pH =12 – 7= 5                   grote pH-verandering als NaOH wordt toegevoegd aan een       
+                                                 niet gebufferd systeem.      

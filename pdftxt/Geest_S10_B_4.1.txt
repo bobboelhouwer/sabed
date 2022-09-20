@@ -1,0 +1,1168 @@
+Overzicht
+Inleiding
+Overzicht van het hoofdstuk
+Techniek #1: Constituentstype
+Techniek #2: Valentie en weglaatbaarheid
+Techniek #3: Vervangbaarheid
+Techniek #4: Verplaatsbaarheid
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Techniek #1: Constituentstype: Zinsdelen vs.
+constituenten
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Techniek #1: Constituentstype: Zinsdelen vs.
+constituenten
+(11)
+
+Verstandige bestuurders ontwikkelen in grote steden gauw heel
+ingenieuze plannen.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Techniek #1: Constituentstype: Zinsdelen vs.
+constituenten
+(11)
+
+Verstandige bestuurders ontwikkelen in grote steden gauw heel
+ingenieuze plannen.
+WOORDGROEP
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Techniek #1: Constituentstype: Zinsdelen vs.
+constituenten
+(11)
+
+Verstandige bestuurders ontwikkelen in grote steden gauw heel
+ingenieuze plannen.
+WOORDGROEP
+
+CONSTITUENT
+
+ZINSDEEL
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Techniek #1: Constituentstype: Zinsdelen vs.
+constituenten
+(11)
+
+Verstandige bestuurders ontwikkelen in grote steden gauw heel
+ingenieuze plannen.
+WOORDGROEP
+
+CONSTITUENT
+
+ZINSDEEL
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Techniek #1: Constituentstype: Soorten constituenten
+(12)
+
+Verstandige bestuurders ontwikkelen in grote steden gauw heel
+ingenieuze plannen.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Techniek #1: Constituentstype: Soorten constituenten
+(12)
+
+Verstandige bestuurders ontwikkelen in grote steden gauw heel
+ingenieuze plannen.
+
+(13)
+
+Het principe van de
+a. Elke woordgroep heeft een hoofd dat de eigenschappen van
+die woordgroep bepaalt.
+b. Elk woord is het hoofd van een woordgroep waarvan het de
+eigenschappen bepaalt.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Techniek #1: Constituentstype: Soorten constituenten
+zelfstandig naamwoord
+bijvoeglijk naamwoord
+werkwoord
+
+telwoord
+bijwoord
+tussenwerpsel
+
+lidwoord
+voornaamwoord
+voorzetsel
+voegwoord
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Techniek #1: Constituentstype: Soorten constituenten
+zelfstandig naamwoord
+bijvoeglijk naamwoord
+werkwoord
+
+telwoord
+bijwoord
+tussenwerpsel
+
+lidwoord
+voornaamwoord
+voorzetsel
+voegwoord
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Techniek #1: Constituentstype: Soorten constituenten
+zelfstandig naamwoord
+bijvoeglijk naamwoord
+werkwoord
+
+telwoord
+bijwoord
+tussenwerpsel
+
+lidwoord
+voornaamwoord
+voorzetsel
+voegwoord
+
++
+NPsubst
+NPpron
+AP
+AdvP
+
++
+
++
+
+oude boeken
+bijna niemand
+heel oud
+erg vaak
+
+boeken over rijst
+jij daar
+harder dan steen
+vaker dan vroeger
+
++
+oude boeken over rijst
+bijna iedereen die ik ken
+erg trots op Elias
+veel vaker dan vroeger
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Techniek #1: Constituentstype: Soorten constituenten
+(14)
+
+De schat ligt [drie meter onder de grond].
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Techniek #1: Constituentstype: Soorten constituenten
+(14)
+
+De schat ligt [drie meter onder de grond].
+
+(15)
+
+[Drie meter onder de grond] ligt de schat.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Techniek #1: Constituentstype: Soorten constituenten
+(14)
+
+De schat ligt [drie meter onder de grond].
+
+(15)
+
+[Drie meter onder de grond] ligt de schat.
+
+(16)
+
+a. *De schat ligt onder.
+b. *De schat ligt de grond.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Techniek #1: Constituentstype: Soorten constituenten
+(14)
+
+De schat ligt [drie meter onder de grond].
+
+(15)
+
+[Drie meter onder de grond] ligt de schat.
+
+(16)
+
+a. *De schat ligt onder.
+b. *De schat ligt de grond.
+
+(17)
+
+a. De schat ligt daar/eronder.
+b. *De schat ligt die/hem.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Techniek #1: Constituentstype: Soorten constituenten
+(18)
+
+Hij vraagt zich af of Jan slaapt.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Techniek #1: Constituentstype: Soorten constituenten
+(18)
+
+Hij vraagt zich af of Jan slaapt.
+
+(19)
+
+a. *Hij vraagt zich af of.
+b. *Hij vraagt zich af Jan slaapt.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Techniek #1: Constituentstype: Soorten constituenten
+(18)
+
+Hij vraagt zich af of Jan slaapt.
+
+(19)
+
+a. *Hij vraagt zich af of.
+b. *Hij vraagt zich af Jan slaapt.
+
+(20)
+
+a. Hij vraagt zich af [of Jan slaapt].
+b. *Hij vraagt zich af [dat Jan slaapt].
+
+(21)
+
+a.
+b.
+
+(22)
+
+a. *Hij betreurt [of Jan slaapt].
+b. Hij betreurt [dat Jan slaapt].
+
+Hij weet [of Jan slaapt].
+Hij weet [dat Jan slaapt].
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Techniek #1: Constituentstype: Soorten constituenten
+(23)
+
+Carla heeft gisteren met Bart gesproken.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Techniek #1: Constituentstype: Soorten constituenten
+
+Verstandige bestuurders ontwikkelen in grote steden gauw heel ingenieuze plannen.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Techniek #1: Constituentstype: Oefening
+Teken een boomstructuur van de volgende zin:
+(1) Mijn professors paranoïde waanideeën zorgen erg vaak voor grote
+ongerustheid bij de studenten hoewel ze meestal geen echte schade
+berokkenen.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ 

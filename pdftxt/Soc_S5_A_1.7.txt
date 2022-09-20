@@ -1,0 +1,734 @@
+Methoden van het wetenschappelijk
+onderzoek – Deel 1
+Prof. Dr. Eva Van den Bussche
+
+ Les 7: Factoriële designs
+Handboek Hoofdstuk 11 (pp. 265-294)
+
+Prof. Dr. Eva Van den Bussche
+
+ Overzicht
+• Terugkoppeling oefening
+• Empirische cyclus
+
+• Inleiding
+• Hoofdeffecten en interacties
+• Types factoriële designs
+• Toepassingen
+
+3
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Terugkoppeling oefening vorige les (1)
+• Interessante vraag: Heeft slaaptekort een effect op onze cognitieve vaardigheden?
+• Hypothese: Slaaptekort leidt tot een verminderde prestatie op een werkgeheugentaak
+
+• Variabelen: ?
+• Participanten: ?
+• Onderzoeksstrategie: Experimentele onderzoeksstrategie
+
+• Onderzoeksdesign: Tussen-subject design OF binnen-subject design → ?
+• Hoe ga je om met bedreigingen interne validiteit?
+
+4
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Terugkoppeling oefening vorige les (1)
+• Variabelen:
+▪ Afh var: prestatie op werkgeheugentaak (ratio)
+▪ Onafh var: Slaaptekort met 2 niveaus: geen slaaptekort en slaaptekort (ordinaal)
+• Participanten: 70 volwassenen zonder slaaptekort (n = 70)
+
+• Onderzoeksstrategie: experimentele: we manipuleren slaaptekort en meten het effect hiervan op
+werkgeheugen
+• Onderzoeksdesign: tussen-subject design: elke participant wordt toegewezen aan één van 2 groepen: groep 1
+(n = 35) krijgt werkgeheugentaak na een goede nachtrust en groep 2 (n = 35) krijgt de taak na een nacht met
+slaapdeprivatie en we vergelijken de prestatie op de taak tussen de 2 groepen
+
+• Hoe ga je om met bedreigingen interne validiteit?
+▪ Omgevingsvariabelen worden zo veel mogelijk constant gehouden: zelfde testmoment, zelfde proefleider,
+zelfde ruimte, etc. (verschillen tussen/binnen groepen minimaliseren)
+▪ Participant variabelen → Individuele verschillen: groepen matchen op leeftijd, geslacht, slaappatroon, etc.
+en toewijzing aan groepen randomiseren (verschillen tussen groepen minimaliseren)
+
+5
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Terugkoppeling oefening vorige les (1)
+• Variabelen:
+▪ Afh var: prestatie op werkgeheugentaak (ratio)
+▪ Onafh var: Slaaptekort met 2 niveaus: geen slaaptekort en slaaptekort (ordinaal)
+• Participanten: 70 volwassenen zonder slaaptekort (n = 70)
+• Onderzoeksstrategie: experimentele: we manipuleren slaaptekort en meten het effect hiervan op
+werkgeheugen
+• Onderzoeksdesign: binnen-subject design: de groep krijgt de werkgeheugentaak na een goede
+nachtrust (conditie 1) en na een nacht met slaapdeprivatie (conditie 2) en we vergelijken de
+prestatie op de taak tussen de 2 condities
+• Hoe ga je om met bedreigingen interne validiteit?
+▪ Omgevingsvariabelen worden zo veel mogelijk constant gehouden: zelfde moment van de
+dag, zelfde proefleider, zelfde ruimte, etc.
+▪ Tijdsgerelateerde variabelen: mogelijk orde-effect: contrabalanceren van welke conditie eerst
+wordt doorlopen (50% start met conditie 1, 50% start met conditie 2)
+
+6
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Terugkoppeling oefening (2)
+Een onderzoeker wil de effectiviteit van een nieuwe leesmethode tov de oude
+leesmethode nagaan voor lagere schoolkinderen
+Hoe zou je voor deze onderzoeksvraag volgende designs kunnen
+implementeren?
+1. Experimenteel tussen-subject design
+2. Experimenteel binnen-subject design
+3. Posttest-only niet-equivalente controle groep design
+4. Pretest-posttest design
+Wat zijn de voornaamste problemen met elk van deze designs? Welk design
+zou je uiteindelijk verkiezen?
+7
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Terugkoppeling oefening (2)
+1. Experimenteel tussen-subject design: steekproef van 40 kinderen van 7 jaar
+die random worden toegewezen aan oude methode (n1 = 20) of nieuwe
+methode (n2 = 20). Nadien wordt leesvaardigheid gemeten en vergeleken
+tussen de 2 groepen. Geslacht wordt gematcht tussen de groepen. Studie
+wordt voor alle kinderen afgenomen in identieke omstandigheden
+→Technieken: manipulatie en controle: random toewijzing, matching, variabele
+constant houden (om bedreigingen interne validiteit door omgevings- en
+participant variabelen te minimaliseren)
+→Voornaamste problemen: individuele verschillen, ethiek (1 groep ontvangt
+mogelijk minder optimale methode)
+
+8
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Terugkoppeling oefening (2)
+2. Experimenteel binnen-subject design: steekproef van 20 kinderen (n = 20)
+van 7 jaar die zowel de oude methode als de nieuwe methode sequentieel
+ontvangen. Na elke conditie wordt leesvaardigheid gemeten en vergeleken
+tussen de 2 condities. Studie wordt voor alle kinderen afgenomen in
+identieke omstandigheden. Orde van condities wordt gecontrabalanceerd
+→Technieken: manipulatie en controle: variabele constant houden,
+contrabalanceren (om bedreigingen interne validiteit door omgevings- en
+tijdsgerelateerde variabelen te minimaliseren)
+→Voornaamste problemen: ernstige potentiële asymmetrische orde-effecten (je
+kan gebruik van een methode niet “ontleren”)
+
+9
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Terugkoppeling oefening (2)
+3. Posttest-only niet-equivalente controle groep design: steekproef van 40
+kinderen die ofwel in een school zitten waar de nieuwe methode gebruikt
+wordt (n1 = 20) ofwel in een school zitten waar de nieuwe methode niet
+gebruikt wordt (n2 = 20). Leesvaardigheid wordt nadien gemeten en
+vergeleken tussen de 2 groepen
+→Technieken: GEEN manipulatie/controle: geen random toewijzing, matching,
+variabele constant houden. Indeling groepen obv bestaande groepen (school
+met/zonder nieuwe methode)
+→Voornaamste problemen: geen niet-ambigue causale uitspraken mogelijk,
+individuele verschillen (hier extra sterk aanwezig: kinderen uit verschillende
+scholen zullen ook op andere karakteristieken verschillen)
+10
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Terugkoppeling oefening (2)
+4. Pretest-Posttest design: steekproef van 20 kinderen die de nieuwe methode
+zullen volgen (n = 20). Hun leesvaardigheid wordt gemeten VOOR én NA het
+volgen van de methode, en vergeleken tussen de 2 momenten
+→Technieken: GEEN manipulatie/controle: geen variabele constant houden,
+contrabalanceren
+
+→Voornaamste problemen: geen niet-ambigue causale uitspraken mogelijk,
+tijdsgerelateerde variabelen (hier extra sterk aanwezig: tussen de 2 metingen
+kan er veel gebeuren)
+
+11
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ 12
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Empirische cyclus
+• Vorige weken:
+▪ STAP 5 en 6: Experimentele onderzoeksstrategieën en designs
+▪ STAP 5 en 6: Non- en Quasi-experimentele onderzoeksstrategieën en designs
+
+• Vandaag:
+▪ STAP 6: Factoriële designs
+▪ Geen één-op-één relatie met handboek: zowel slides als hoofdstukken behoren
+tot de leerstof (behalve p. 283-284 “Statistical analysis of factorial designs”)!
+
+13
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ 14
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Inleiding
+• Tot nu toe: relatief eenvoudige designs (Hoofdstukken 8-10)
+• MAAR: vaak heeft een interessante vraag een meer complex design nodig
+
+Gebaseerd op Bartholow & Anderson, 2002
+
+15
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Inleiding
+• Deze studie: 2 onafhankelijke variabelen die de condities bepalen (→ vorige
+lessen)
+▪ Geslacht (2 niveaus: man of vrouw)
+▪ Videospel gewelddadigheid (2 niveaus: gewelddadig of niet-gewelddadig)
+
+• Op basis hiervan: 4 condities
+
+• Dit laat toe om na te gaan hoe agressief gedrag beïnvloed wordt door 2
+variabelen die samen optreden
+= Factorieel design (hier: 2-factor design)
+
+16
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Inleiding
+• Factorieel design omvat meerdere onafhankelijke variabelen (“factoren”)
+• Laat ons toe om meer complexe situaties te bestuderen waar meerdere onafh
+var SAMEN een invloed hebben op een afh var
+• Meer realistisch dan 1 factor in isolatie te bestuderen: gedrag wordt meestal
+bepaald door meerdere factoren tegelijk
+
+• Factorieel design is mogelijk voor
+▪ experimentele studies → alle onafh var worden gemanipuleerd
+▪ non- of quasi-experimentele studies (cf. voorbeeld slide 15) → minstens één
+onafh wordt niet gemanipuleerd (e.g., geslacht, leeftijd)
+
+17
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Inleiding
+• Voorbeeld experimenteel factorieel design:
+
+Fixed Time
+
+Self-Regulated Time
+
+On Paper
+
+On Screen
+
+Exam scores for a group
+of participants who
+studied text presented on
+paper for a fixed time.
+
+Exam scores for a
+group of participants
+who studied text
+presented on screen for
+a fixed time.
+
+Exam scores for a group
+of participants who
+studied text presented on
+paper for a self-regulated
+time.
+
+Exam scores for a
+group of participants
+who studied text
+presented on screen for
+a self-regulated time.
+
+2 onafh var die gemanipuleerd
+worden: modaliteit van het
+materiaal (2 niveaus: papier of
+PC) en controle over studietijd
+(2 niveaus: fixed of selfregulated) → 4 condities
+Afh var = prestatie op een MCexamen
+Gebaseerd op Ackerman & Goldsmith, 2011
+
+18
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Inleiding
+• 2 × 2 design → 2 factoren (= onafh var) met elk 2 niveaus
+Factor A met 2 niveaus (e.g., modaliteit van materiaal: papier of PC)
+Factor B met 2 niveaus (e.g., controle over studietijd: fixed of self-regulated)
+• Aantal condities = product van de niveaus van elke factor (hier: 2 × 2 = 4)
+• Hier:
+1.
+2.
+3.
+4.
+
+19
+
+Papier, fixed studietijd
+Papier, self-regulated studietijd
+PC, fixed studietijd
+PC, self-regulated studietijd
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Inleiding
+• Waarom geen 2 aparte studies waar telkens 1 van deze onafh var
+gemanipuleerd wordt?
+
+→Factorieel design laat toe om na te gaan hoe elke individuele factor het
+gedrag beïnvloedt (= hoofdeffecten)
+→MAAR het laat ook toe om na te gaan hoe de factoren SAMEN het gedrag
+beïnvloeden (= interactie)
+
+20
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Inleiding
+59
+59
+57
+57
+55
+
+Score toets
+
+Score toets
+
+55
+
+53
+
+53
+
+51
+
+51
+49
+49
+
+47
+47
+45
+1
+45
+
+1
+
+21
+
+2
+
+2
+
+Series1
+
+Series2
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Hoofdeffecten en interacties
+• In het geval van een 2-factor design, bevatten de data 3 bronnen van
+informatie:
+▪ Wat is het effect van factor A op de afh var?
+▪ Wat is het effect van factor B op de afh var?
+▪ Wat is het effect van factoren A en B SAMEN op de afh var?
+
+22
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Hoofdeffecten en interacties
+
+23
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Hoofdeffecten en interacties
+On Paper
+
+On Screen
+
+Fixed time
+
+M = 22
+
+M = 18
+
+Overall M = 20
+
+Self-regulated time
+
+M = 18
+
+M = 14
+
+Overall M = 16
+
+Overall M = 20
+
+Overall M = 16
+
+• Hoofdeffect van modaliteit materiaal (papier of PC) op score examen: vergelijk
+de gemiddelde score op “papier” condities met de gemiddelde score op “PC”
+condities (i.e., marginale gemiddelden): Mpapier = 20 en MPC = 16
+→ Tendens van betere score op examen na studeren op papier dan met PC
+(Opmerking: is dit een “echt” verschil? Is dit verschil significant? → statistische toets nodig!)
+
+24
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Hoofdeffecten en interacties
+On Paper
+
+On Screen
+
+Fixed time
+
+M = 22
+
+M = 18
+
+Overall M = 20
+
+Self-regulated time
+
+M = 18
+
+M = 14
+
+Overall M = 16
+
+Overall M = 20
+
+Overall M = 16
+
+• Hoofdeffect van controle over studietijd (fixed of self-regulated) op score
+examen: vergelijk de gemiddelde score op “fixed” condities met de gemiddelde
+score op “self-regulated” condities (i.e., marginale gemiddelden): Mfixed = 20 en
+Mself-regulated = 16
+→ Tendens van betere score op examen na vaste studietijd dan na zelf
+gereguleerde studietijd (Opmerking: is dit een “echt” verschil? Is dit verschil significant? →
+statistische toets nodig!)
+25
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Hoofdeffecten en interacties
+On Paper
+
+On Screen
+
+Fixed time
+
+M = 22
+
+M = 18
+
+Overall M = 20
+
+Self-regulated time
+
+M = 18
+
+M = 14
+
+Overall M = 16
+
+Overall M = 20
+
+Overall M = 16
+
+• Hoe kunnen we nu het gezamenlijk effect van modaliteit materiaal én controle
+over studietijd op score examen nagaan? = interactie!
+• Handboek: verschillende perspectieven
+• Plot de data!
+
+26
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Hoofdeffecten en interacties
+
+27
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Hoofdeffecten en interacties
+
+X
+X Hoofdeffect modaliteit materiaal
+
+28
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Hoofdeffecten en interacties
+
+X
+Hoofdeffect controle studietijd
+X
+
+29
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Hoofdeffecten en interacties
+
+GEEN interactie!
+
+30
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Hoofdeffecten en interacties
+
+On Paper
+
+On Screen
+
+Fixed time
+
+M = 20
+
+M = 20
+
+Overall M = 20
+
+Self-regulated time
+
+M = 20
+
+M = 12
+
+Overall M = 16
+
+Overall M = 20 Overall M = 16
+
+31
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Hoofdeffecten en interacties
+
+WEL interactie!
+
+32
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Hoofdeffecten en interacties
+• LET OP! De aanwezigheid van een interactie kan de interpretatie van de
+hoofdeffecten vertekenen!
+
+• Indien een statistische analyse aangeeft dat er een significante interactie
+aanwezig is, kan je de hoofdeffecten niet langer eenduidig interpreteren!
+
+33
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Hoofdeffecten en interacties
+
+Gebaseerd op Anderson et al., 1998
+34
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Hoofdeffecten en interacties
+• In het geval van een 2-factor design, bevatten de data 3 bronnen van
+informatie:
+▪ Wat is het effect van factor A op de afh var?
+▪ Wat is het effect van factor B op de afh var?
+▪ Wat is het effect van factoren A en B SAMEN op de afh var?
+
+• Deze effecten zijn onafhankelijk en dus kunnen alle combinaties van hoofd- en
+interactie-effecten voorkomen
+
+35
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Hoofdeffecten en interacties
+
+36
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Hoofdeffecten en interacties
+
+37
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Hoofdeffecten en interacties
+
+38
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ 39
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ 40
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ 41
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ 42
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Types factoriële designs
+1. Tussen-subject designs
+2. Binnen-subject designs
+
+combinaties hiervan = “mixed designs”
+
+3. Experimentele onderzoeksstrategie
+4. Non- of quasi-experimentele onderzoeksstrategie
+
+combinaties hiervan =
+“gecombineerde strategieën”
+
+➔ Factorieel design laat toe om verschillende onderzoeksstrategieën én verschillende
+onderzoeksdesigns te mengen!
+➔Zo een brede range aan mogelijke onderzoeksvragen bestuderen
+
+➔LET OP: alle voor- en nadelen van deze designs/strategieën blijven bestaan (e.g.,
+bedreigingen interne validiteit)
+43
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Types factoriële designs
+• Mixed design:
+
+Gebaseerd op Durso et al., 2015
+44
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Types factoriële designs
+• Gecombineerde strategie:
+
+Gebaseerd op Durso et al., 2015
+45
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Types factoriële designs
+5. Pretest-Postest controle groep designs (cf. Les 6):
+• Experimentele en controle groep worden eerst gemeten/geobserveerd (O),
+experimentele groep krijgt dan behandeling (X) en nadien worden beide groepen
+opnieuw gemeten/geobserveerd (O) en vergeleken
+O
+X
+O
+(experimentele groep)
+O
+O
+(niet-equivalente controle groep)
+= 2-factor mixed design: 1 tussen-subject factor (exp groep VS controle groep) en 1
+binnen-subject factor (pretest-posttest)
+
+46
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Types factoriële designs
+6. Hogere-orde factoriële designs
+• Voorbeeld: 3-factor design om academische prestatie te onderzoeken voor 2
+verschillende lesmethoden waar studenten random aan worden toegewezen
+(factor A), voor studenten met hoog versus laag IQ (= factor B) en voor 1e
+bachelor versus 2e bachelor versus 3e bachelor studenten (= factor C)
+• Hoe ziet dit design er dan uit?
+→ 2×2×3 tussen-subject, gecombineerd factorieel design
+• Drie hoofdeffecten (A, B en C), drie 2-wegs interacties (A×B, A×C, B×C) en één 3wegs interactie (A×B×C)
+• Voorbeeld: de 2 lesmethoden zijn even effectief voor laag en hoog IQ voor 1e
+bachelor (geen A×B), maar niet voor 2e en 3e bachelor (wel A×B) → A×B×C
+
+47
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Toepassingen van factoriële designs
+• Cf. handboek 11.4
+• p. 286-292: hoe een factorieel design gebruikt kan worden om orde-effecten in
+een binnen-subject design (cf. Les 6) te evalueren!
+
+48
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Besluit
+• Factoriële designs: 2 of meer onafh var
+• Laat toe om een brede range aan interessante vragen te beantwoorden
+
+• Laat toe om hoofd- en interactie-effecten te bestuderen
+• Kan bestaan uit tussen-subject designs, binnen-subject designs,
+experimentele onderzoeksstrategie, non- of quasi-experimentele
+onderzoeksstrategie en alle combinaties hiervan
+
+49
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ Oefening tegen volgende les
+• In een studie werd nagegaan hoe verschillende niveaus van alcohol en cafeïne consumptie
+een invloed hadden op reactietijd in een gesimuleerde rijtest. Aan de studie namen 120
+volwassenen deel die random werden toegewezen aan de verschillende condities. De
+gemiddelden in de Tabel tonen de reactietijd in milliseconden voor de verschillende
+combinaties van alcohol en cafeïne consumptie
+Geen cafeïne
+
+200mg
+cafeïne
+
+400mg
+cafeïne
+
+Geen alcohol
+
+M = 620
+
+M = 600
+
+M = 590
+
+Alcohol
+
+M = 720
+
+M = 700
+
+M = 690
+
+1. Welke onderzoeksstrategie en welk onderzoeksdesign werden hier gebruikt? Wat zijn de
+factoren (+ niveaus)? Wat is de afh var?
+2. Bespreek de hoofd- en interactie-effecten
+Gebaseerd op Liguori & Robinson, 2001
+50
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+ 

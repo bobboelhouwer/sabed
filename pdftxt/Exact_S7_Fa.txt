@@ -1,0 +1,242 @@
+8/22/2019
+
+Lay 1.8, 1.9, 1.10
+
+Domein, codomein, beeld
+• Ax = b gezien als een lineaire transformatie
+die x  n afbeeldt op b  m
+• b = T(x) beeldt het domein n af op het bereik
+of beeld in het codomein m
+
+1
+
+ 8/22/2019
+
+Lineaire transformatie
+• Een transformatie T is lineair als:
+1) T(u + v) = T(u) + T(v)
+2) T(cu) = c T(u)
+voor alle scalars c en alle u en v in het domein van T
+
+• Gevolg:
+1) T(0)=0
+2) T(c1v1+...+cpvp)=c1T(v1)+...+cpT(vp)
+
+(standaard) Matrix van T(x)
+• x=
+
+x1
+x2
+⁞
+xn
+
+= x1
+
+1
+0
+⁞
+0
+
++ x2
+
+0
+1
+⁞
+0
+
++ ... + xn
+
+0
+0
+⁞
+1
+
+= x1 e1 + x2 e2 + … + xn en
+• T(x)= x1 T(e1) + x2 T(e2) + … + xn T(en)
+= [T(e1) T(e2) … T(en)]
+
+x1
+x2
+⁞
+xn
+
+= [T(e1) T(e2) … T(en)] x
+= Ax
+• Equivalentie y = T(x) en y = Ax
+
+2
+
+ 8/22/2019
+
+Voorbeelden: spiegelingen
+Om de x-as
+
+Om de y-as
+
+Om x2 = -x1
+
+−1
+0
+
+0
+−1
+
+Door de oorsprong
+
+Standaardmatrix:
+
+1
+0
+
+0
+−1
+
+0
+1
+
+−1
+0
+
+−1
+0
+
+0
+−1
+
+Voorbeelden: afschuiving
+
+3
+
+ 8/22/2019
+
+Voorbeelden: projectie
+Op de x-as
+
+Op de y-as
+
+Op x2 = -x1
+x2
+x1
+x2 = -x1
+
+Standaardmatrix:
+
+1 0
+0 0
+
+0 0
+0 1
+
+−
+
+=
+
+1 −1
+−1 1
+
+Surjectie en 1-op-1
+• T: n  m is surjectie (onto) als elke b in m het
+beeld is van minstens één x in n
+
+• T: n  m is 1-op-1 als elke b in m het beeld is van
+ten hoogste één x in n
+
+4
+
+ 8/22/2019
+
+Stelling 12a
+Lineaire T: n  m is surjectie
+  b  m,  x  n zodat
+Ax = x1 a1 + x2 a2 + … + xn an = b
+ Span{a1, a2, … an} = m
+b
+
+Tegenvoorbeeld
+x2
+
+Span{a1, a2}
+
+3
+
+2
+
+a1
+x1
+0
+
+a2
+
+Stelling 11 + 12b
+Lineaire T: n  m is 1-op-1
+T(x)=0 heeft enkel triviale oplossing
+ Ax=0 heeft enkel x=0 als oplossing
+ x1 a1 + x2 a2 + … + xn an = 0 heeft enkel x=0 als oplossing
+ a1, a2, … an zijn l.o. (Stelling 12b)
+Bewijs (Stelling 11):
+T(x)=0 heeft hoogstens 1 oplossing. Maar T(0)=0, dus
+x=0 is die enige oplossing
+ b, u  v zodat T(u)=T(v)=b  T(u)-T(v)=T(u-v)=0, dus
+u-v is een niet-triviale oplossing
+
+(Stelling 11)
+
+5
+
+ 8/22/2019
+
+Kern van een transformatie
+• T: n  m
+
+• {x} zodat T(x) = 0 heet de kern van T
+
+Lineaire transformaties en dynamische
+systemen (Lay 1.10)
+• Wordt later dieper bestudeerd
+• Van de vorm xk+1 = A xk met k = 0, 1, 2, ... (= tijd)
+• Voorbeeld: populatie over de jaren (= k) heen
+o Elk jaar verhuist 5% van de bevolking van de stad, van
+de stad naar buitenwijken
+o Elk jaar verhuist 3% van de buitenwijken, van de
+buitenwijken naar de stad
+
+• Notatie:
+o rk = populatie in de stad in jaar k
+o sk = populatie in de buitenwijk in jaar k
+
+𝑟
+xk = 𝑠
+
+6
+
+ 8/22/2019
+
+Lineaire transformatie
+• 𝑟
+• 𝑠
+𝑟
+• 𝑠
+𝑟
+• 𝑠
+
+= 0.95 𝑟 + 0.03 𝑠
+= 0.05 𝑟 + 0.97 𝑠
+
+0.03
+0.95
++𝑠
+0.97
+0.05
+0.95 0.03 𝑟
+=
+0.05 0.97 𝑠
+0.95 0.03
+• xk+1 = A xk met 𝐀 =
+0.05 0.97
+• De populatie voor jaar k+1 is een lineaire transformatie
+van de populatie op jaar k
+=𝑟
+
+7
+
+ 

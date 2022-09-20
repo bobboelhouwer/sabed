@@ -1,0 +1,261 @@
+3. Alkanen en cycloalkanen
+• Belangrijke energiebron: 
+motorbrandstof
+smeerolie
+huisverwarming
+• Koolwaterstoffen met brutoformule C H en C H
+n 2n+2  n 2n
+• Koolstofatomen sp3-gehybridiseerd
+• Eenvoudigste alkaan: methaan, CH
+4
+• Homologe reeks: + methyleen- of CH -groep 
+2
+Alkanen en cycloalkanen 13.1 Nomenclatuur
+Aantal C-atomen Naam T (°C)
+k
+1 CH Methaan -162
+4
+2 CH CH Ethaan -89
+3 3
+3 CH CH CH Propaan -42
+3 2 3
+4 CH CH CH CH Butaan 0
+3 2 2 3
+5 CH CH CH CH CH Pentaan 36
+3 2 2 2 3
+6 CH CH CH CH CH CH Hexaan 69
+3 2 2 2 2 3
+7 CH CH CH CH CH CH CH Heptaan 98
+3 2 2 2 2 2 3
+Octaan 126
+8 CH CH CH CH CH CH CH CH
+3 2 2 2 2 2 2 3
+Alkanen en cycloalkanen 2IUPAC-nomenclatuurregels: 
+1. de uitgang van de naam is –aan
+2. hoofdketen = langste keten, rest zijn substituenten
+3. substituent krijgt laagste nummer (plaats) en naam (-yl)
+4. meerdere malen zelfde substituent: 
+nummers + numeriek voorvoegsel (di-, tri-, …)
+5. substituenten in alfabetische volgorde 
+Alkanen en cycloalkanen 3Voorbeelden: 
+Propyl- en butylgroep: twee  en vier isomeren 
+n = onvertakt
+iso = vertakking 1 C-atoom op voorlaatste C-atoom
+Alkanen en cycloalkanen 43.2 Fysische eigenschappen van alkanen
+• Apolaire verbindingen – geen permanente dipolen
+• Enkel zwakke van der Waalskrachten tussen moleculen d.w.z. 
+interacties tussen geïnduceerde dipolen (zie pag. 23-24)
+±
+• Kookpunt ~ energie nodig om van der Waalskrachten 
+te verbreken, ~ grootte oppervlak molecule
+n-alkanen: + CH -groep → kookpuntsverhoging 20-30 °C
+2
+vertakkingen zijn storend → kookpuntsverlaging !
+isomeren
+Alkanen en cycloalkanen 5homologe reeks n-alkanen: 1  n  4 gas
+5  n  25 vloeistof
+26  n (wasachtige) vaste stof
+• Smeltpunt hangt ook af van stapeling moleculen in regelmatig
+kristalrooster, gemakkelijker voor symmetrische moleculen
+T n-pentaan = -130°C, T 2,2-dimethylpropaan = -17°C
+sm sm
+• Lossen slecht op in polaire solventen
+• Vaak gebruikt als apolaire solventen
+• Dichtheid kleiner dan water (0,6-0,8 g/cm3)
+→ extractie ! 
+Alkanen en cycloalkanen 63.3 Reacties van alkanen
+• Geen vrije elektronenparen, enkel -bindingen, geen polarisatie
+• Gevolg: weinig reactief
+• relatief drastische reactieomstandigheden vereist
+• Homolytische doorbraak
+bindingen, vorming radicalen CH CH CH
+2 2 2
+3.3.1 Chlorering van methaan
+Licht of temperatuursverhoging noodzakelijk !
+Radicalaire kettingreactie
+Radicalaire substitutie S (F )- Cl - Br – (I )
+R  2 2  2 2
+Alkanen en cycloalkanen 7Mechanisme
+Homolytische 
+doorbraak
++ 8
+Cl• zeer reactief
+Kettingreactie
+Vernietiging
+radicalen
+Per chloorradicaal tot 104 moleculen chloormethaan !
+Alle radicalen die gevormd worden kunnen met elkaar reageren !
+Alkanen en cycloalkanen 83.3.2 Oxidatie van methaan
+• Verbranding bij hoge temperatuur in aanwezigheid van O
+2
+hoge activeringsenergie (aansteken), explosief !
+radicaal-kettingreactie (o.a. •O-OH en •OH radicalen)
+2
+C H + (3n+1)/2 O → n CO + (n+1) H O
+n 2n+2 2 2 2
+• Halogeenalkanen worden toegepast als brandvertragende
+middelen (bvb. CF Br): [reactieve zuurstofradicalen] in vlam daalt
+3
+• Halogeenhoudend afval (bijvoorbeeld gehalogeneerde solventen)
+is moeilijk te vernietigen via verbranding !
+Alkanen en cycloalkanen 93.4 Biologische eigenschappen van alkanen
+• Vroeger paraffinen genoemd wegens geringe affiniteit
+(parum = weinig, affiniteit = reactiviteit)
+• Meeste organismen kunnen alkanen niet opnemen of verbranden
+Uitzondering: enkele bacteriën en schimmels (oxidatie tot alcohol)
+Gebruik: hoogkokende alkanen als laxeermiddel (mineraalolie)
+Opgelet: vet-oplosbare vitaminen lossen op bij veelvuldig gebruik
+• Olieverontreiniging wordt niet snel afgebroken !
+• CFK’s (chloor-fluor-koolwaterstoffen) en de ozonlaag…
+O wordt constant gevormd en afgebroken in de stratosfeer,
+3
+maar ook katalytische afbraak door chloorradicalen:
+O + h → 2 O
+2
+O + O       → O (vorming ozon)
+2 3
+F C-Cl + h → F C• + •Cl
+3 3
+Cl• + O → •ClO + O (afbraak ozon)
+3           2
+•ClO + O     → O + Cl•
+•ClO = chloormonoxide
+2
+Alkanen en cycloalkanen 103.5 Petroleum, kolen en biomassa
+• Natuurlijk organisch materiaal gevormd uit kooldioxide en water
+(via fotosynthese: chlorofyl, enzymen en zonlicht nodig)
+• Hieruit worden via anaerobe bacteriën koolwaterstoffen gevormd:
+aardgas of aardolie
+o Methaan is hoofdbestanddeel van aardgas
+o Aardolie is complex mengsel van lineaire en vertakte alkanen, 
+cycloalkanen en aromaten (~ vindplaats) 
+→ gefractioneerde destillatie, petrochemie
+✓ L.P.G. (Liquid Petroleum Gas) is gasmengsel dat uit aardolie 
+gewonnen wordt (alkanen met drie en/of vier C-atomen)
+✓ Petroleumether: apolair solvent (C5 – C6)
+✓ Benzine bevat  300 verschillende verbindingen, 
+meestal alkanen (C7 - C8)
+Alkanen en cycloalkanen 11✓ Kerosine, diesel/stookolie:
+hoofdzakelijk alkanen (C10 - C16)
+✓C20 en meer: minerale olie, wassen, paraffine, asfalt …
+✓ Katalytische kraken: langere alkanen opbreken in
+laagkokende fracties die te gebruiken zijn als benzine …
+• Natuurlijk organisch materiaal kan onder hoge druk ook
+omzetten in steenkool
+o Verhitting van steenkool onder uitsluiting van lucht:
+cokes (zuiver koolstof) en koolteer
+o Destillatie van steenkool: vooral aromaten
+• Plantaardig of dierlijk organisch materiaal (biomassa) kan
+omgezet worden in methaan of andere nuttige organische
+verbindingen (vorming biogas via anaërobe vergisting) 
+Alkanen en cycloalkanen 123.6 Bouw en conformaties van alkanen
+• Verschillende structuurformules methaan
+• Verschillende molecuulmodellen methaan
+CPK
+Alkanen en cycloalkanen 13• Structuurformules ethaan
+(Sawhorse)
+
+bindingen vallen
+in projectie samen
+voorste bindingen
+precies tussen achterste
+Alkanen en cycloalkanen 14staggered
+conformation
+eclipsed
+conformation
+Alkanen en cycloalkanen 15• Verschillende conformaties ethaan door rotatie rond C-C binding
+Repulsie
+Verschillende ruimtelijke 
+toestanden door rotaties
+rond enkele bindingen
+Rotatiebarrière
+
+Alkanen en cycloalkanen 16GGaauucchhee  RReellaattiiee
+torsiehoek
+6600°° HH
+HH
+HH HH
+HH HH
+HH HH
+HH HH
+HH
+HH
+AAnnttii  RReellaattiiee
+HH
+HH
+HH HH
+HH HH
+118800°°
+HH HH
+HH HH
+HH
+HH
+Alkanen en cycloalkanen 173.7 Cycloalkanen
+Algemene formule: C H
+n 2n
+Naamgeving:
+cyclo + alkaan
+4
+1
+Heterocyclisch ringsysteem
+(zie later suikers)
+Alkanen en cycloalkanen 183.8 Geometrische isomerie in cycloalkanen
+Positie substituenten zelfde kant = cis
+tegenovergestelde kant = trans
+Haworth-
+projectie
+Niet in elkaar om te zetten zonder verbreken bindingen
+Geometrische isomeren – verschillende verbindingen
+naburige groepen Koolstof 4 !
+steeds trans andere eigenschappen
+Alkanen en cycloalkanen 193.9 Cyclopropaan, cyclobutaan, cyclopentaan
+hoekspanning (Baeyer-spanning)  >>
+eclipsed conformatie vlinderstructuur
+gemakkelijke ringopening
+90°
+60°
+108° → 105°
+vermijden eclips-
+interacties! Zie ook
+bij furanose-
+suikers (11.3) pseudorotatie
+Alkanen en cycloalkanen 203.10 Cyclohexaan
+Geen hoekspanning
+Stoel meest stabiel omwille van staggered conformatie C-H bindingen
+Boot: eclipsed conformatie C2-C3 en C5-C6 bindingen
+6 H ⊥ ring: axiaal
+Bij KT: snelle conformatieveranderingen, H niet te onderscheiden
+Alkanen en cycloalkanen 21Bij start:
+axiaal
+equatoriaal
+Alkanen en cycloalkanen 22Methylcyclohexaan: equatoriale methylgroep gunstiger !
+95%
+fluorcyclohexaan: 60% equatoriaal
+tert-butylcyclohexaan: 99,99% 
+equatoriaal
+Alkanen en cycloalkanen 23Vier isomeren menthol in natuur: equatoriale isopropylgroep !
+Tetrahydropyraan: stoelvorm
+Substituenten liefst in equatoriale positie, zoals bij glucose
+Alkanen en cycloalkanen 24Minder gunstige bootvorm soms gestabiliseerd door 
+gefixeerde conformatie, zoals bij brugvorming
+Meerdere ringen kunnen 0, 1, 2 of meer C-atomen 
+gemeenschappelijke hebben: 
+ 
+ 
+ 
+0 1: spiro 2: gecondenseerd systeem 3: gebrugd systeem
+Alkanen en cycloalkanen 253.11 Polycyclische ringsystemen
+Bij twee gecondenseerde cyclohexaanringen…
+Twee manieren van koppeling: cis of trans
+Twee ringen maken ± hoek van 90°
+Beide ringen ± in zelfde vlak
+2 maal           of          = cis,              +         = trans
+Alkanen en cycloalkanen 26Uitbreidingen van decaline-ringsysteem komen veel voor in natuur
+O
+3 x trans 
+OH
+androsteron
+2 x trans 
+3 gecondenseerde zesringen en 1 vijfring, meestal trans-gekoppeld
+Alkanen en cycloalkanen 27
+Alkenen

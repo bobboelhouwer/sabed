@@ -1,0 +1,1755 @@
+Algemene Scheikunde : Hfst. VII  Chemisch Evenwicht en Thermochemie  1
+Hoofdstuk VII  Chemisch Evenwicht en Thermochemie 
+ 
+1.  Het begrip ‘chemisch evenwicht’ en evenwichtsprincipe 
+ 
+Wanneer vloeibaar water in een gesloten vat wordt gebracht, dan zal zich na verloop 
+van tijd een evenwicht instellen tussen de vloeibare fase en de gasfase. 
+ 
+H O               H O  
+2 (vl) 2 (g)
+ 
+Dit evenwicht en de bijhorende dampdruk worden pas bereikt op het ogenblik dat de 
+snelheid waarmee de vloeistof verdampt dezelfde wordt als de snelheid waarmee de 
+damp condenseert (zie hoofdstuk IV). 
+ 
+Een  gelijkaardig  principe  geldt  ook  voor  chemische  reacties. Wanneer  reagentia 
+(producten Links) worden samengebracht, dan kunnen we experimenteel vaststellen 
+dat de omzetting tot reactieproducten (producten Rechts) vaak onvolledig is. De con-
+centraties van de reagentia dalen, maar blijven na een bepaalde tijd constant. De 
+toestand  waarbij  geen  concentratieveranderingen  meer  plaatsgrijpen,  wordt  che-
+misch evenwicht genoemd. We verwijzen hierbij ook naar de laatste paragraaf uit 
+vorig hoofdstuk. 
+ 
+We nemen als 1ste typevoorbeeld van een evenwichtsreactie de omzetting van NO  
+2
+tot N O . Wanneer we het roodbruin gekleurde gas NO  in een gesloten vat brengen, 
+2 4 2
+verdwijnt langzaam de sterk roodbruine kleur ervan en levert na verloop van tijd een 
+zeer matig gekleurd gasmengsel op. 
+ 
+2 NO                 N O
+2(g) 2 4(g) 
+ 
+Wanneer we daarentegen vertrekken van het kleurloze N O , zal na verloop van tijd 
+2 4
+een kleine hoeveelheid van het roodbruine gas NO  gevormd worden en bekomen 
+2
+we een gelijkaardig resultaat als in de voorgaande proef.   
+ 
+  N O                 2 NO
+2 4(g) 2(g) 
+ 
+We hebben te maken met een omkeerbare reactie of evenwichtsreactie waarbij na 
+evenwichtsinstelling beide reactiecomponenten nog in aantoonbare mate aanwezig 
+zijn in het reactiemengsel. We schrijven de reactievergelijking daarom op de volgen-
+de wijze, waarmee we uitdrukken dat een reactie in beide richtingen kan doorgaan. 
+ 
+ 
+  2 NO               N O
+2(g) 2 4(g) 
+ 
+ 
+Volgen we het verloop van het experiment waarbij we starten met een vat gevuld  
+met zuiver NO . Bij de aanvang is de reactiesnelheid ‘naar rechts’ groot gezien de 
+2
+concentratie aan NO  maximaal is. We nemen aan dat deze reactie verloopt volgens 
+2
+een éénstapsmechanisme (zie vorig hoofdstuk) waardoor we de stoechiometrische 
+voorgetallen uit de reactievergelijking kunnen gebruiken als exponenten in de snel-
+heidsvergelijking. De snelheidsvergelijking voor de reactie ‘naar rechts’ wordt dan Algemene Scheikunde : Hfst. VII  Chemisch Evenwicht en Thermochemie  2
+RS = k (NO )2 
+R R 2
+ 
+Naarmate de concentratie aan NO  daalt, vermindert ook de reactiesnelheid ‘naar 
+2
+rechts’. Intussen is er N O  gevormd en komt de reactie ‘naar links’ stilaan op gang. 
+2 4
+De reactiesnelheid ‘naar links’ was bij de aanvang gelijk aan nul maar gezien de 
+concentratie aan N O  intussen is toegenomen, stijgt ook de mate van omzetting. 
+2 4
+ 
+  RS = k (N O ) 
+L L 2 4
+ 
+ 
+ 
+  van maximaal  van nul naar 
+naar kleiner  groter 
+ 
+ 
+   
+RS = k (NO )2          RS = k (N O ) 
+R R 2 L L 2 4
+ 
+ 
+Logischerwijze komt er een moment waarbij de snelheden in beide richtingen aan 
+elkaar gelijk worden. Vanaf dat moment verdwijnen er zowel links als rechts evenveel 
+moleculen als er opnieuw worden bijgevormd. De concentraties aan beide zijden 
+veranderen niet meer en een toestand van chemisch evenwicht is bereikt. 
+ 
+RS 
+RS  van maximaal naar kleiner 
+R
+EVENWICHT 
+RS  van nul naar groter 
+L
+reactietijd 
+ 
+ 
+Dit evenwicht doet zich voor wanneer 
+ 
+RS = RS  
+R L
+ 
+k (NO )2 = k (N O )  
+R 2 ev. L 2 4 ev.
+ 
+k (N O ) [N O ]
+R = 2 4 ev. = 2 4  
+k (NO )2 [NO ]2
+L 2 ev. 2
+ Algemene Scheikunde : Hfst. VII  Chemisch Evenwicht en Thermochemie  3
+Om aan te geven dat we met evenwichtsconcentraties te maken hebben, stellen we 
+de evenwichtsconcentraties van alle componenten voor door vierkante haken […]. 
+Het verloop van de concentraties aan NO  en N O  wordt weergegeven in de vol-
+2 2 4
+gende figuur. Het feit dat de evenwichtsconcentratie aan NO  relatief klein is en die 
+2
+van N O  relatief groot, heeft te maken met het principe dat werd uitgelegd in para-
+2 4
+graaf 6 van vorig hoofdstuk. De activeringsenergie voor de reactie naar rechts is klei-
+ner dan die voor de reactie naar links. We hebben te maken met een exotherme re-
+actie (van links naar rechts gelezen) waardoor k  > k . 
+R L
+ 
+E
+pot 
+E
+a(naar R) 
+E
+a(naar L) 
+2 NO2  (cid:1)H  < 0 
+reactie
+N O
+2 4 
+ 
+ 
+ 
+concentratie (mol.l-1) 
+(NO ) 
+2
+[N O ] 
+2 4
+[NO ] 
+2
+(N O ) 
+2 4
+reactietijd 
+ Algemene Scheikunde : Hfst. VII  Chemisch Evenwicht en Thermochemie  4
+2.  Wet der massawerking 
+2.1.  Definitie van de evenwichtsconstante 
+ 
+In vorige paragraaf werd aangetoond dat chemisch evenwicht wordt bereikt wanneer 
+voor de aangehaalde reactie 
+ 
+2 NO               N O  
+2(g) 2 4(g)
+ 
+ 
+k (N O ) [N O ]
+  R = 2 4 ev. = 2 4  
+k (NO )2 [NO ]2
+L 2 ev. 2
+ 
+Deze verhouding van evenwichtsconcentraties (met de nodige exponenten in de uit-
+drukking) zoals in bovenstaand voorbeeld, noemen we de evenwichtsconstante 
+voor deze evenwichtsreactie. 
+ 
+(N O ) [N O ]
+  K = 2 4 ev. = 2 4  
+ev. (NO )2 [NO ]2
+2 ev. 2
+ 
+In het geval we te doen hebben met een reactie die doorgaat in één enkele stap 
+(eenstapsreactie zoals in dit voorbeeld) is K  eveneens gelijk aan de verhouding 
+ev.
+van de snelheidsconstanten. Voor een meerstapsmechanisme is deze laatste bewe-
+ring niet meer juist, maar het is voor iedere willekeurige reactie wel correct om de 
+evenwichtsconstante te schrijven als een verhouding van het product van de even-
+wichtsconcentraties rechts (tot een macht gelijk aan het voorgetal uit de reactieverge-
+lijking) tot het product van de concentraties links (eveneens tot een macht gelijk aan 
+het voorgetal). 
+ 
+Dit is de wet der massawerking of de wet van Guldberg en Waage. De uitdrukking 
+voor de evenwichtsconstante voor een meer algemene reactievergelijking wordt 
+ 
+aA  +  bB             cC +  dD
+   
+ 
+ 
+     
+[C]c [D]d
+K =  
+ev. [A]a [B]b
+ 
+ 
+K  voor een bepaalde evenwichtsreactie neemt steeds dezelfde waarde aan en is 
+ev.
+dus onafhankelijk van de concentratie van de verschillende reactiecomponenten. De 
+waarde van K  verandert echter wel met de temperatuur (zie verder). De tempera-
+ev.
+tuur van het reactiemengsel is de enige parameter die een invloed heeft op de nume-
+rieke waarde van de evenwichtsconstante. 
+Gezien we in deze paragraaf en voor wat volgt, gebruik maken van concentraties in 
+eenheden van mol.l-1 voor de diverse reactiecomponenten en we deze eenheden ook 
+invullen in de uitdrukking van K , zullen we voorlopig voor de gedefinieerde even-
+ev.
+wichtsconstante de notatie K  (‘c’ van concentratie) gebruiken. 
+cAlgemene Scheikunde : Hfst. VII  Chemisch Evenwicht en Thermochemie  5
+2.2.  Betekenis van de evenwichtsconstante K  
+c
+ 
+Nemen we opnieuw het evenwicht tussen   2 NO       N O   
+2(g) 2 4(g)
+ 
+We voeren de reactie uit bij een temperatuur van 100 °C (voorlopig onbelangrijk). We 
+variëren de beginconcentraties zoals in onderstaande tabel en meten de evenwichts-
+concentraties. 
+ 
+  beginconcentraties (mol.l-1)  evenwichtsconcentraties (mol.l-1) 
+NO N O NO N O
+2  2 4  2  2 4 
+proef 1  0,000  0,100  0,120  0,040 
+proef 2  0,100  0,000  0,072  0,014 
+proef 3  0,100  0,100  0,160  0,070 
+ 
+Uit  deze  experimenten  blijkt  dat  afhankelijk  van  de  beginsituatie  steeds  andere 
+evenwichtsconcentraties  worden  gevonden.  De  wet  der  massawerking  voorspelt 
+evenwel niets over de evenwichtsconcentraties van de individuele reactiecomponen-
+ten zelf maar wel over hun verhouding. 
+Bij invullen van de evenwichtsconcentraties in de uitdrukking van de evenwichtscon-
+stante bekomen we steeds dezelfde verhouding 
+ 
+[N O ]
+  K = K = 2 4 = 2,7 
+c ev. [NO ]2
+2
+ 
+ 
+De evenwichtsconstante geeft de verhouding van het product van de 
+evenwichtsconcentraties van de componenten (tot een respectievelijke 
+macht gelijk aan het voorgetal) rechts tot het product van de evenwichts-
+concentraties (voorgetallen als exponent) van de componenten links in 
+de reactievergelijking 
+ 
+ 
+Rekenvoorbeeld: Wat is de waarde van K  (bij 300 °C) voor het volgende reactie-
+c
+evenwicht waarvoor volgende evenwichtsconcentraties werden gemeten bij 300 °C ? 
+ 
+[N ] = 0,25 mol.l-1  [H ] = 0,15 mol.l-1  [NH ] = 0,090 mol.l-1 
+2 2 3
+ 
+N    +   3 H               2 NH
+2(g) 2(g) 3(g) 
+ 
+ 
+K = [NH3]2 = (0,090)2 = 9,60 (l2.mol-2) 
+c(bij300(cid:176)C) [N ][H ]3 (0,25)(0,15)3
+2 2
+ 
+Let er op dat al naargelang de reactiestoechiometrie de evenwichtsconstante een 
+andere eenheid kan aannemen (net zoals voor snelheidsconstanten de orde een rol 
+speelt). Deze eenheid heeft op zichzelf weinig betekenis maar kan haar belang heb-
+ben bij omrekeningen (zie verder). Algemene Scheikunde : Hfst. VII  Chemisch Evenwicht en Thermochemie  6
+2.3.  Numerieke waarde van de evenwichtsconstante 
+ 
+In paragraaf 6 van vorig hoofdstuk werd aangetoond dat voor reacties met een grote 
+absolute waarde voor de reactie-enthalpie (hetzij (cid:1)H  <<< 0 of (cid:1)H  >>> 0), 
+reactie reactie
+het verschil in activeringsenergie (van L naar R tegenover van R naar L) ook zeer 
+groot is. Uitgedrukt in termen van chemisch evenwicht betekent dit dat het even-
+wichtsmengsel overwegend veel producten R of in het ander geval veel producten L 
+zal bevatten. Dit kan in die mate extreem zijn dat we in het evenwichtsmengsel na-
+genoeg uitsluitend producten R of L zullen aantreffen. 
+ 
+De volgende voorbeelden illustreren dit. 
+ 
+CO    +   Cl            COCl     bij 100°C 
+(g) 2(g) 2(g)        
+ 
+ 
+[COCl ]
+  K = 2 = 5.109 l.mol-1 
+c [CO][Cl ]
+2
+ 
+ 
+Het evenwicht is in die mate naar rechts gelegen dat we de reactie nagenoeg als af-
+lopend mogen beschouwen. 
+ 
+ 
+N     +    O              2 NO               bij 25°C 
+2(g) 2(g) (g)
+ 
+ 
+[NO]2
+  K = = 1.10-30  
+c [N ][O ]
+2 2
+ 
+ 
+Het evenwicht ligt extreem naar links waardoor we ervan kunnen uitgaan dat een 
+omzetting tussen zuurstofgas en stikstofgas tot vorming van stikstofmonoxide bij ka-
+mertemperatuur niet mogelijk is.  
+Dit zou verkeerdelijk de indruk kunnen wekken dat NO bij kamertemperatuur spon-
+taan zal ontbinden. We moeten evenwel rekening houden met de te overwinnen acti-
+veringsenergie. Net zoals H  en O  bij kamertemperatuur zich niet kunnen omzetten 
+2 2
+tot water (zie paragraaf 4.4 van vorig hoofdstuk) zal ook NO niet ontbinden in zijn 
+elementaire stoffen gezien de reactie bij lage temperatuur te traag verloopt.  
+In dit hoofdstuk (zie vooral verder) behandelen we de thermodynamische aspecten 
+van chemische reacties. In vorig hoofdstuk werden de kinetische aspecten ervan be-
+schreven. Hoewel die twee benaderingen tot elkaar in relatie staan, moeten we ze 
+toch van elkaar loskoppelen voor een beter begrip van ‘chemisch evenwicht’. 
+ 
+Voor een typische evenwichtsreactie is (cid:1)H matig positief of negatief zodat na even-
+wichtsinstelling meetbare concentraties van zowel producten L als R aanwezig blij-
+ven. De invloed van de temperatuur is aanzienlijk zodat voor deze typische even-
+wichtsreacties een temperatuursverhoging een belangrijke verschuiving in de even-
+wichtsligging kan veroorzaken (zie verder). 
+ Algemene Scheikunde : Hfst. VII  Chemisch Evenwicht en Thermochemie  7
+3.  Omgaan met chemische evenwichten 
+3.1.  Rekenen met evenwichtsconstanten en reactievergelijkingen 
+ 
+In paragraaf 4.3 van hoofdstuk I werden een aantal eenvoudige rekenregels voor 
+thermochemische reactievergelijkingen voorgesteld. We passen deze regels nu ook 
+toe in termen van evenwichtsconstanten. 
+ 
+Wanneer we een evenwichtsreactie achterstevoren schrijven, dan nemen we voor de 
+omgekeerde reactie de inverse van de evenwichtsconstante 
+ 
+ 
+[H ][I ]
+2 HI              H   +    I       K = 2 2  
+(g) 2(g)  2(g) c [HI]2
+ 
+   
+[HI]2 1
+H     +     I          2 HI    K' = =  
+2(g) 2(g)      (g) c [H ][I ] K
+2 2 c
+ 
+ 
+Wanneer de voorgetallen in een reactievergelijking worden veranderd, dan vinden 
+we deze factor terug in de exponent van de evenwichtsconstante 
+ 
+ 
+ 
+[H ]12 [I ]12 1
+HI      ½  H +   ½  I         K'' = 2 2 = K 2 = K  
+(g)       2(g)      2(g) c [HI] c c
+ 
+ 
+Wanneer een evenwichtsreactie kan geschreven worden als een som van twee of 
+meerdere evenwichten dan is de K -waarde die hoort bij de totaalreactie het product 
+c
+van de K -waarden van de samenstellende evenwichten. 
+c
+ 
+ 
+ 
+[SO ]
+Bij 700°C:    SO   +  ½  O          SO          K = 3 = 20 
+2(g) 2((g) 3(g) c(1) [SO ][O ]12
+2 2
+ 
+[NO][O ]12
+          NO            NO   +  ½ O          K = 2 = 0,012 
+2(g) (g) 2(g) c(2) [NO ]
+2
+ 
+     SO    +   NO            NO    +   SO  
+2(g) 2(g) (g) 3(g)
+ 
+                            
+[NO][SO ]
+K = 3 = K .K = 20.0,012 = 0,24 
+c(3) [SO ][NO ] c(1) c(2)
+2 2
+ Algemene Scheikunde : Hfst. VII  Chemisch Evenwicht en Thermochemie  8
+3.2.  Voorspellen van de richting van een reactie 
+ 
+De numerieke waarde van K  geeft niet alleen een idee over de evenwichtsligging 
+c
+van een bepaalde reactie, maar laat eveneens toe te voorspellen in welke richting 
+(naar links of naar rechts) de reactie spontaan zal verlopen bij experimentele om-
+standigheden. 
+ 
+Nemen we de volgende reactie     H    +   I           2 HI         bij 490 °C 
+2(g) 2(g) (g)
+[HI]2
+waarvoor  K = = 45,9    
+c [H ][I ]
+2 2
+ 
+Nemen we bij een temperatuur van 490°C een mengsel met 1 mol H , 2 mol I  en 3 
+2 2
+mol HI in een vat van 10 l. We stellen ons de vraag in welke richting de reactie zal 
+doorgaan. 
+ 
+We definiëren vooreerst het begrip reactie-quotient Q . Dit is de getalwaarde die we 
+c
+berekenen door in de uitdrukking van K  de “beginconcentraties” (die we bij de aan-
+c
+vang hebben samengebracht) in te vullen i.p.v. de evenwichtsconcentraties. 
+In ons voorbeeld hebben we bij de aanvang van de reactie 
+ 
+1mol 2 mol 3mol
+H :     = 0,1M   I :    = 0,2 M   HI:    = 0,3 M  
+2 2
+10l 10l 10l
+ 
+(HI)2 (0,3)2
+Q = 0 = = 4,5  
+c (H ) (I ) (0,1)(0,2)
+2 0 2 0
+ 
+ 
+In dit geval is Q  < K  (4,5 < 45,9). Om evenwicht te bereiken, moeten de concentra-
+c c
+ties in de teller (producten R) verhoogd worden en in de noemer (producten L) ver-
+kleind. Dit kan alleen maar als de reactie naar rechts doorgaat tot de evenwichtscon-
+centraties bereikt worden. 
+ 
+Algemeen kunnen we stellen 
+ 
+Q  vergelijken met  K richting reactie 
+c c 
+Q  < K  
+c c 
+Q  > K    
+c c
+Q  = K is reeds in evenwicht 
+c c 
+ 
+ 
+3.3.  Evenwichtsconstante op basis van partieeldrukken  
+ 
+In de uitdrukking voor K  worden de concentraties ingevuld in eenheden van mol.l-1. 
+c
+Bij gasmengsels kunnen we de concentratie van iedere component ook aangeven 
+door middel van de partieeldruk op voorwaarde dat we te maken hebben met een 
+ideaal gas. Hiervoor dienen we slechts om te rekenen met behulp van de gaswet. We 
+herinneren ons dat indien we het volume schrijven in eenheden van liter en de con-
+centratie in mol.l-1, we voor de bijhorende druk kPa als eenheid dienen te gebruiken. Algemene Scheikunde : Hfst. VII  Chemisch Evenwicht en Thermochemie  9
+Nemen we de volgende evenwichtsreactie 
+ 
+  N       +     3 H               2 NH                      
+2(g) 2(g) 3(g)
+ 
+De uitdrukking voor K  voor deze reactie is 
+c
+ 
+[NH ]2
+K = 3   en de respectievelijke concentraties herschrijven we als 
+c [N ][H ]3
+2 2
+ 
+P P P
+[NH ] = NH3     [N ] = N2     [H ] = H2  
+3 RT 2 RT 2 RT
+ 
+Ingevuld in de uitdrukking voor K  wordt dit 
+c
+ 
+P2
+NH
+3
+{RT}2
+K =  
+c P P3
+N H
+2 2
+{RT}{RT}3
+ 
+P2 {RT}{RT}3
+NH
+K = 3
+c P P3 {RT}2    
+N H
+2 2
+K = K {RT}2  
+c p(kPa)
+ 
+In het geval van een algemene evenwichtsreactie bekomen we 
+ 
+  K = K {RT}-Dng        of          K = K {RT}Dng  
+c p(kPa) p(kPa) c
+ 
+Hierin stelt (cid:1)n  het verschil voor in aantal mol gasmoleculen rechts t.o.v. links in de 
+g
+reactievergelijking. We berekenen (cid:1)n  eenvoudig door de som te nemen van de 
+g
+voorgetallen rechts in de reactievergelijking (enkel rekening houden met gasvormige 
+componenten) en te verminderen met de som van de voorgetallen links (ook enkel 
+gassen in rekening brengen). Zie hiervoor ook paragraaf 4.6 uit hoofdstuk I. 
+ 
+In bepaalde situaties (zie verder) dienen we in de uitdrukking van K  partieeldrukken 
+p
+in te vullen in bar i.p.v. in kPa. Gezien 1 bar = 100 kPa bekomen we K  voor het 
+p (bar)
+bovenstaande reactievoorbeeld 
+ 
+P2 {100}{100}3
+K = NH3(kPa) = K {100}2
+p(bar) P P3 {100}2 p(kPa)    
+N (kPa) H (kPa)
+2 2
+ 
+Algemeen:    K = K {100}-Dng  
+p(bar) p(kPa)Algemene Scheikunde : Hfst. VII  Chemisch Evenwicht en Thermochemie  10
+4.  Rekenen met evenwichten 
+4.1.  Berekenen van evenwichtsconcentraties en evenwichtspartieeldrukken 
+ 
+Rekenvoorbeeld: Wanneer we starten met 0,625 mol N O -gas bij een bepaalde tem-
+2 4
+peratuur in een vat van 5 l, dan vinden we bij evenwicht een concentratie aan N O  
+2 4
+van 0,075 mol.l-1. Bereken de waarde van K  bij deze temperatuur. 
+c
+ 
+    2 NO              N O  
+2(g)  2 4(g)
+ 
+start:         0          0,625/5  =  0,125     (mol.l-1) 
+ 
+evenwicht:     + 2 x        0,125  -  x   =  0,075    (dus x = 0,050) 
+ 
+       0,100  (mol.l-1)        0,075   (mol.l-1) 
+ 
+0,075
+  K = = 7,5 (l.mol-1) 
+c (0,100)2
+ 
+ 
+Rekenvoorbeeld: Bij een temperatuur van 490 °C is K  = 45,9 voor de reactie 
+c
+ 
+  H    +   I           2 HI  
+2(g) 2(g) (g)
+ 
+Bereken de evenwichtsconcentraties van alle componenten wanneer we starten met 
+1 mol H  en 1 mol I  in een vat van 10 l. 
+2 2
+ 
+H         +       I                       2 HI  
+2(g) 2(g) (g)
+ 
+start:     0,1           0,1              0 
+ 
+evenwicht:  (0,1  -  x)          (0,1  -  x)           2 x 
+ 
+ 
+[HI]2 (2x)2
+  K = = = 45,9    x  =  0,0772 mol.l-1 
+c [H ][I ] (0,1- x)(0,1- x)
+2 2
+ 
+      0,0228   mol.l-1           0,0228   mol.l-1                 0,1544   mol.l-1 
+ 
+ 
+Rekenvoorbeeld: Nemen we dezelfde reactie als in vorig voorbeeld bij dezelfde tem-
+peratuur. Bereken de evenwichtsconcentraties van alle componenten wanneer we 
+echter starten met 1 mol H  en 2 mol I  en 3 mol HI in een vat van 10 l. 
+2 2
+ 
+Gezien we niet ondubbelzinnig weten in welke richting de reactie zal doorgaan, bere-
+kenen we eerst het reactiequotiënt 
+ 
+(HI)2 (0,3)2
+Q = 0 = = 4,5   Q  < K   L    R 
+c (H ) (I ) (0,1)(0,2) c
+2 0 2 0Algemene Scheikunde : Hfst. VII  Chemisch Evenwicht en Thermochemie  11
+H         +       I                       2 HI  
+2(g) 2(g) (g)
+ 
+start:     0,1           0,2            0,3 
+ 
+evenwicht:  (0,1  -  x)      (0,2  -  x)              (0,3  + 2 x) 
+ 
+ 
+[HI]2 (0,3+2x)2
+  K = = = 45,9    x  =  0,0684 mol.l-1 
+c [H ][I ] (0,1- x)(0,2 - x)
+2 2
+ 
+ 
+                 0,0316  mol.l-1           0,1316  mol.l-1                     0,4368  mol.l-1 
+ 
+ 
+Een vierkantsvergelijking levert meestal twee oplossingen waarvan de ene chemisch 
+mogelijk is en de andere niet. Een concentratie kan nooit negatief worden of in dit 
+voorbeeld kan x niet groter zijn dan 0,1 gezien er dan meer H  zou weg reageren als 
+2
+er oorspronkelijk aanwezig was. 
+ 
+Rekenvoorbeeld: Voor de ontbinding van water is K  = 6,0  10-28 (mol.l-1) bij 500 °C. 
+c
+Bereken de evenwichtsconcentraties aan H  en O  vetrekkende van 2 mol water-
+2 2
+damp in 5 l. 
+ 
+[H ]2 [O ]
+2 H O         2 H    +   O       K = 2 2 = 6,010-28 (mol.l-1) 
+2 (g) 2(g) 2(g) c [H O]2
+2
+ 
+ 
+    2 H O                   2 H      +     O     
+2 (g) 2(g) 2(g)
+ 
+start:      0,4             0         0 
+ 
+evenwicht:  (0,4  -  2 x)          2 x        x 
+ 
+ 
+[H ]2 [O ] (2x)2 x
+  K = 2 2 = = 6,010-28 mol.l-1 
+c [H O]2 (0,4- 2x)2
+2
+ 
+We bekomen een vergelijking van de 3de graad. Naarmate de voorgetallen in de re-
+actievergelijking groter worden, worden we geconfronteerd met ingewikkelder ma-
+thematische opgaven. Eerder dan ons te wagen aan de exacte oplossing, proberen 
+we ‘chemisch’ na te denken. We weten immers uit de bijzonder kleine waarde van de 
+evenwichtsconstante dat slechts een onmeetbaar kleine hoeveelheid water zal wor-
+den omgezet en dat we (- 2 x) in de noemer van de uitdrukking K  gerust kunnen 
+c
+verwaarlozen. De berekening wordt dan een stuk eenvoudiger. 
+ 
+4x3
+  K =       x  =  2,9  10-10  mol.l-1 
+c (0,4 - 2x)2Algemene Scheikunde : Hfst. VII  Chemisch Evenwicht en Thermochemie  12
+Rekenvoorbeeld: Bij 227 °C wordt 10 mol NOCl in een vat van 10 l gebracht. Bij 
+evenwicht is 9 % ervan omgezet volgens 
+ 
+  2 NOCl         2 NO     +    Cl  
+(g) (g) 2(g)
+ 
+Bereken K  en K  voor dit evenwicht bij 227 °C en de totale druk in het vat. 
+c p
+ 
+Gezien wordt gevraagd naar K  en K  maken we ter illustratie de berekeningen op 
+c p
+twee manieren. Uiteraard dienen dezelfde resultaten gevonden te worden. We laten 
+het over aan de lezer om uit te maken welke werkwijze het minste aantal berekenin-
+gen vereist. Nochtans raden we aan (in het kader van wat volgt i.v.m. tempera-
+tuursafhankelijkheid van evenwichtsconstanten) om voor reacties in de gasfase zo-
+veel mogelijk te werken met partieeldrukken i.p.v. met concentraties. 
+ 
+ 
+2 NOCl              2 NO         +      Cl  
+(g) (g) 2(g)
+ 
+start:          1      (mol.l-1)            0            0 
+ 
+evenwicht  (1  -  0,09)            0,09        0,045 
+ 
+ 
+[NO]2 [Cl ] (0,09)2 (0,045)
+    K = 2 = = 4,410-4 (mol.l-1) 
+c [NOCl]2 (0,91)2
+ 
+    K = K {RT}Dng = 4,410-4 (8,314.500)1 = 1,83 (kPa) 
+p(kPa) c
+ 
+ 
+ 
+ 
+2 NOCl              2 NO         +      Cl  
+(g) (g) 2(g)
+ 
+start:        4157      (kPa)  (via gaswet)       0            0 
+ 
+evenwicht  (1 - 0,09) * 4157            0,09 * 4157          0,045 * 4157 
+ 
+ 
+p2 p (374,13)2 (187,06)
+    K = NO Cl2 = = 1,83 (kPa) 
+p(kPa) p2 (3782,87)2
+NOCl
+ 
+    K = K {RT}-Dng = 1,83(8,314.500)-1 = 4,410-4 (mol.l-1) 
+c p(kPa)
+ 
+ 
+De totale druk in het vat is de som van de evenwichtspartieeldrukken 
+ 
+  p = p + p + p = 4342 kPa 
+tot. NOCl NO Cl
+2
+ Algemene Scheikunde : Hfst. VII  Chemisch Evenwicht en Thermochemie  13
+4.2.  Verstoren van een systeem in evenwicht 
+4.2.1. Uitwendige verandering van de concentraties 
+ 
+Wanneer we een systeem in evenwicht van buitenaf proberen te verstoren door b.v. 
+de concentraties van één of meerdere reactiecomponenten te veranderen dan zal 
+het systeem hierop reageren door de evenwichtsligging te verschuiven. Een verande-
+ring van concentratie kan b.v. inhouden dat we van buitenaf een bepaalde compo-
+nent aan het evenwichtsmengsel toevoegen of uit het mengsel wegnemen. 
+De reactie van het evenwichtssysteem op de opgedrongen verandering is niets an-
+ders dan een toepassing van het principe van Le Chatelier (zie paragraaf 4.4 uit 
+hoofdstuk III) 
+ 
+ 
+In een systeem in evenwicht zal bij een opgedrongen verandering van buitenaf 
+ 
+(b.v. wijzigen van temperatuur, druk of concentratie), het systeem hierop zoda-
+ 
+nig reageren waardoor het evenwicht wordt verschoven in een bepaalde richting 
+ 
+zodat de opgedrongen verandering wordt tegengewerkt. 
+ 
+ 
+ 
+Rekenvoorbeeld: Voor volgend reactie-evenwicht bij 520 °C zijn de concentraties bij 
+evenwicht 
+ 
+2 HI            H    +   I     [HI] = 0,080 mol.l-1    [H ] = [I ] = 0,010 mol.l-1 
+(g) 2(g) 2(g) 2 2
+ 
+Aan dit reactiemengsel wordt van buitenaf 0,12 mol.l-1 HI toegevoegd. Bereken de 
+concentraties wanneer het evenwicht zich heeft hersteld. 
+ 
+ 
+2 HI                H      +        I  
+(g) 2(g) 2(g)
+ 
+evenwicht 1    0,080         0,010         0,010 
+ 
+actie  (+0,12 HI)  0,200         0,010         0,010 
+ 
+ 
+Uit de 1ste reeks evenwichtsconcentraties berekenen we K . 
+c
+Q  halen we uit de nieuwe situatie na verstoren van het evenwicht (actie). 
+c
+ 
+ 
+[H ][I ] (0,010)2 (H )(I ) (0,010)2
+K = 2 2 = = 0,0156  > Q = 2 2 = = 0,0025 
+c [HI]2 (0,080)2 c (HI)2 (0,20)2
+ 
+ 
+evenwicht 2          (0,200  -  2 x)      (0,010  +  x)     (0,010  +  x) 
+ 
+ 
+[H ][I ] (0,010 + x)2
+K = 2 2 = = 0,0156     x  =  0,012 mol.l-1 
+c [HI]2 (0,20 - 2x)2
+ Algemene Scheikunde : Hfst. VII  Chemisch Evenwicht en Thermochemie  14
+4.2.2. Uitwendige verandering van de druk 
+ 
+Wanneer we voor een systeem in evenwicht van buitenaf de druk verhogen (b.v. 
+door het volume van het reactievat te verkleinen) zal dit systeem volgens het principe 
+van Le Chatelier de opgedrongen drukverhoging proberen tegen te werken. Dit kan 
+door het reactie-evenwicht te verschuiven in de richting waarvoor in de reactieverge-
+lijking het kleinste aantal gasmoleculen te vinden zijn. 
+ 
+Rekenvoorbeeld: Voor volgend reactie-evenwicht bij 227 °C zijn de concentraties bij 
+evenwicht 
+ 
+PCl          PCl   +  Cl        [PCl ] = 1 mol.l-1       [PCl ] = [Cl ] = 0,204 mol.l-1 
+5(g) 3(g) 2(g) 5 3 2
+ 
+We laten  het  reactievat  expanderen  tot  een  dubbel  volume.  Bereken  de  nieuwe 
+evenwichtsconcentraties en de nieuwe evenwichtspartieeldrukken. 
+ 
+We werken opnieuw op twee manieren: met concentraties en met partieeldrukken. 
+ 
+      PCl                     PCl       +      Cl  
+5(g) 3(g) 2(g)
+ 
+evenwicht 1        1       mol.l-1     0,204       0,204 
+ 
+        4157     kPa        848         848 
+ 
+actie          0,5     mol.l-1     0,102       0,102 
+ 
+        2078     kPa        424         424 
+ 
+ 
+(0,204)2 (0,102)2
+K = = 0,0416 Q = = 0,0208
+c 1 c 0,5
+>
+        
+(848)2 (424)2
+K = = 173 Q = = 86,5
+p 4157 p 2078
+ 
+ 
+Een drukverlaging resulteert in een verschuiven van het evenwicht naar de kant met 
+het grootste aantal mol gasmoleculen, dus van L naar R. Eenzelfde conclusie halen 
+we uit de vergelijking tussen Q en K. 
+ 
+ 
+evenwicht 2    (0,5  -  x)  mol.l-1   (0,102  +  x)           (0,102  +  x) 
+ 
+              (2078  -  y)  kPa     (848  +  y)            (848  +  y) 
+ 
+ 
+ 
+  gaswet 
+  x  =  0,0368 mol.l-1          y  =  153 kPa Algemene Scheikunde : Hfst. VII  Chemisch Evenwicht en Thermochemie  15
+4.3  Heterogene evenwichten 
+ 
+Tot hiertoe werden steeds voorbeelden aangehaald van homogene reacties in de 
+gasfase. Uiteraard gaan heel wat reacties door in oplossing. In hoofdstukken XIII en 
+X zullen we hierop uitgebreid ingaan. Homogene reacties hebben gemeen dat alle 
+reactiecomponenten zich bevinden in dezelfde fase (hetzij gasfase of in oplossing). 
+Nochtans bestaan er reacties waarbij niet alle componenten zich in eenzelfde fase 
+bevinden. In dit geval spreken we over een heterogene reactie en wordt een hetero-
+geen evenwicht ingesteld. 
+ 
+De verdeling van een component over twee fasen wordt beschreven door de verde-
+lingswet van Nernst (zie hoofdstuk V, paragraaf 3.2). 
+     
+c (faseI)
+    A = K  
+c (faseII) (T)
+A
+ 
+Nemen we het voorbeeld van een stof die zich bij een bepaalde temperatuur kan 
+verdelen over een vaste en een gasvormige fase. Dit is niets anders dan een subli-
+matieverschijnsel waarbij de concentratie en de dampdruk van de stof boven de vas-
+te fase bij een bepaalde temperatuur constant is. Analoog weten we (zie hoofdstuk 
+IV) dat de dampdruk boven een vloeistof ook steeds constant is en alleen afhangt 
+van de temperatuur. 
+ 
+c c
+  A(gas) = K       A(gas) = K'     
+c (T) c (T)
+A(vloeistof) A(vastestof)
+ 
+Gezien vaste stoffen en vloeistoffen (nagenoeg) onsamendrukbaar zijn, blijven hun 
+dichtheden nagenoeg constant en veranderen hun concentraties niet. Dit betekent 
+dat de concentratie en de dampdruk in de gasfase eveneens constant dienen te zijn. 
+De dampdruk boven een vaste stof verandert niet zolang vaste stof aanwezig blijft. 
+ 
+Nemen we het voorbeeld van de volgende heterogene reactie 
+ 
+    CaCO            CO   +      CaO  
+3(v) 2(g) (v)
+ 
+We voeren de reactie uit in een gesloten ruimte zodat het CO  niet kan ontsnappen. 
+2
+De ontbinding is onvolledig en leidt tot een evenwicht. In principe stellen zich drie 
+evenwichten tegelijkertijd in. 
+ 
+ 
+  constant  CaCO   CO +  CaO  constant 
+3 (g) 2 (g)  (g) 
+ 
+  HOMOGEEN 
+ 
+HETEROGEEN  HETEROGEEN 
+ 
+ 
+ 
+  CaCO   CaO 
+3 (v) (v) 
+ Algemene Scheikunde : Hfst. VII  Chemisch Evenwicht en Thermochemie  16
+Het homogene evenwicht beantwoordt aan de wet der massawerking 
+ 
+p p p const
+  const = CO2 CaO            zodat    const = CO2 2  
+1 p 1 const
+CaCO 3
+3
+ 
+const const
+  K = 1 3 = p  
+p const CO2
+2
+ 
+In dit geval wordt de evenwichtspartieeldruk van CO  rechtstreeks bepaald door de 
+2
+waarde van K . 
+p
+ 
+ 
+Voor de reactie 
+ 
+  2 NaHCO           Na CO    +      CO    +  H O  
+3 (v) 2 3 (v) 2 (g) 2  (g)
+ 
+ 
+K = [CO ][H O]      K = p p      
+c 2 2 p CO H O
+2 2
+ 
+        K = K (RT)Dng = K (RT)2 
+p c c
+ 
+ 
+Let er op (zoals reeds herhaaldelijk vermeld) dat (cid:1)n  het verschil voorstelt van de 
+g
+voorgetallen R t.o.v. L maar enkel voor de gasvormige componenten in de reactie. 
+ 
+Rekenvoorbeeld: Voor het volgende evenwicht bedraagt de totale druk in het reactie-
+vat 202,6 kPa. Bereken de partieeldrukken aan CO  en CO. 
+2
+ 
+  C        +       CO                  2 CO       K  = 192,5 kPa 
+ (v) 2 (g)  (g) p
+ 
+ 
+Bij evenwicht geldt 
+ 
+p2
+    K = CO = 192,5kPa 
+p p
+CO
+2
+ 
+    P = p + p = 202,6 kPa 
+tot CO CO
+2
+ 
+Uit het stelsel van deze twee vergelijkingen vinden we als partieeldrukken voor CO  
+2
+79 kPa en voor CO 124 kPa. 
+ 
+ 
+In hoofdstuk X zullen we het principe van heterogene evenwichten tussen vaste stof-
+fen en concentraties van ionen in oplossing uitvoeriger toelichten. 
+ 
+ 
+ Algemene Scheikunde : Hfst. VII  Chemisch Evenwicht en Thermochemie  17
+5.  Invloed van de temperatuur op de evenwichtsconstante 
+5.1  Kinetisch uitgangsprincipe 
+ 
+Tot hier toe hebben we in de aangehaalde voorbeelden steeds gewerkt bij constante 
+temperatuur. Uitwendige veranderingen in druk en/of concentratie veroorzaken een 
+verschuiving van het evenwicht in de een of andere richting. Op elke uitwendige actie 
+uitgeoefend op een systeem in evenwicht (concentratieverandering, drukverandering 
+of volumeverandering) volgt een reactie van het systeem waarna een nieuwe even-
+wichtstoestand wordt bereikt. Typisch hierbij is dat de numerieke waarde van de 
+evenwichtsconstante K  of K  niet verandert. 
+c p
+ 
+Dit is niet meer het geval bij temperatuursveranderingen. Bij een andere temperatuur 
+wijzigt ook de numerieke waarde van de evenwichtsconstante. Om dit verschijnsel uit 
+te leggen vanuit een kinetisch concept, nemen we het principe van het geactiveerd 
+complex uit vorig hoofdstuk opnieuw onder de loep. Nemen we een fictieve reactie 
+waarvoor E  de helft is van E  en nemen we voor de eenvoud aan dat de waarde 
+a(R) a(L)
+voor de constante A uit de vergelijking van Ahrrenius in beide richtingen dezelfde 
+waarde heeft (hoewel niet noodzakelijk). De uitdrukkingen voor de snelheidsconstan-
+ten in beide richtingen worden dan 
+ 
+E E
+- a(R) - a(L)
+  k = Ae RT     en    k = Ae RT  
+R L
+ 
+E
+a(R) 
+ E  = 2 E
+a(L) a(R) 
+producten L 
+producten R 
+ 
+ 
+ 
+In de figuur hiernaast is een gedeelte 
+van het verloop van kR en kL i.f.v. de  k = Ae-Ea(R)RT
+temperatuur  voorgesteld.  Hieruit  blijkt  R
+dat bij lagere temperatuur k  behoorlijk 
+R
+groter is dan k . Bij stijgende tempera-
+L
+tuur wordt dit verschil steeds kleiner. Dit 
+betekent dat bij lagere temperatuur een 
+groot verschil bestaat tussen de reactie- kL = Ae-Ea(L)RT 
+snelheden in beide richtingen en bij ho-
+gere  temperatuur  dit  verschil  geringer 
+(cid:2)
+wordt. Bij zeer hoge temperatuur zal er 
+T   
+nagenoeg geen verschil meer zijn. Algemene Scheikunde : Hfst. VII  Chemisch Evenwicht en Thermochemie  18
+We vergelijken dit verschijnsel met een situatie uit de sportwereld. We nodigen de 
+wereldkampioen hoogspringen uit voor een gezamenlijk experiment met ons, modale 
+scheikundigen met een paar kilootjes te veel. De hoogspringer (met een record van 
+om en bij de 2,5 m) kunnen we vergelijken met de zeer beweeglijke moleculen in een 
+reactiemengsel bij hoge temperatuur. Wij scheikundigen (omwille van het vele denk 
+en schrijfwerk) zijn veel minder mobiel en zijn te vergelijken met trage moleculen bij 
+een veel lagere temperatuur. 
+We doen het volgende experiment. We verplaatsen ons van links naar rechts en ver-
+volgens van rechts naar links, enz. op een parcours waarbij we over een hindernis 
+dienen te springen zoals voorgesteld in de volgende figuur. Dit is vergelijkbaar met 
+omzettingen van links naar rechts en omgekeerd in een evenwichtsreactie. 
+ 
+2 m 
+1 m 
+ 
+De  wereldkampioen  die  vlot  ongeveer  2,5 m  haalt,  heeft  nagenoeg  even weinig 
+moeite met de sprong over 2 m dan met de sprong over 1 m. Hij kan dus van rechts 
+naar links met een bijna even groot gemak als van links naar rechts en we vinden 
+hem gedurende het verloop van de proef de ene keer links en de andere keer rechts 
+van de lat. Voor een groot aantal moleculen in een evenwichtsmengsel betekent dit 
+dat zowel de producten links als rechts behoorlijk aanwezig zijn en het evenwicht 
+ergens middenin gelegen is. De evenwichtsconstante ligt in de omgeving van 1. 
+ 
+Voor ons scheikundigen daarentegen lukt met een beetje goede wil de sprong over 1 
+m wel vrij vlot maar het terugkeren met een sprong over 2 m is nagenoeg uitgesloten. 
+Eens wij van links naar rechts zijn gegaan, is van een terugkeer naar links geen 
+sprake meer. Wij zullen dus voor de verdere duur van de proef noodgedwongen aan 
+de rechter kant van de lat moeten blijven. In een mengsel met een groot aantal mo-
+leculen betekent dit dat er bij evenwicht vooral producten rechts zullen voorkomen en 
+maar heel weinig links (wie weet zijn er ook nog wel enkele sportieve en lenige 
+scheikundigen te vinden). Het evenwicht ligt vooral naar rechts en de evenwichts-
+constante is groot. Algemene Scheikunde : Hfst. VII  Chemisch Evenwicht en Thermochemie  19
+Opnieuw naar de wetenschappelijke resultaten. Op pagina 2 van dit hoofdstuk heb-
+ben we aangetoond dat voor een reactie die verloopt volgens een éénstapsmecha-
+nisme de evenwichtsconstante kan geschreven worden als een verhouding van de 
+snelheidsconstanten 
+ 
+-E
+a(R) ( )
+producten R k A e RT A -Ea(R)-Ea(L) A -DH
+K = = R = R = R e RT = R e RT 
+ev. producten L k -Ea(L) A A
+L A e RT L L
+L
+ 
+A DH
+ln K = ln R -  
+ev. A RT
+L
+ 
+Vullen we deze vergelijking in voor twee temperaturen T  en T  en maken we het 
+1 2
+verschil tussen beide vergelijkingen dan bekomen we de Van ’t Hoff vergelijking. 
+Voor een willekeurige reactie die verloopt in meerdere stappen is de wiskundige af-
+leiding wat ingewikkelder maar hetzelfde resultaat wordt bereikt. 
+ 
+K DH(cid:176) T -T
+ln T2 = 2 1  
+K R T T
+T 1 2
+1
+ 
+Deze vergelijking laat toe de evenwichtsconstante bij een willekeurige temperatuur T  
+2
+te berekenen uit de gekende waarde van K bij een temperatuur T  en de reactie-
+1
+enthalpie. 
+ 
+De reden waarom in deze Van ’t Hoff vergelijking plots (cid:1)H° verschijnt i.p.v. (cid:1)H zullen 
+we op dit moment nog niet verklaren maar het heeft te maken met het begrip stan-
+daard voorwaarden en de keuze van deze standaardtoestanden (zie hiervoor verder 
+in dit hoofdstuk). We zullen immers dezelfde vergelijking via thermochemische weg 
+opnieuw afleiden. Voorlopig volstaat het om enkele belangrijke opmerkingen te ont-
+houden bij toepassen van deze vergelijking in berekeningen. De evidentie ervan 
+volgt later bij de thermochemische aspecten van evenwichtsreacties. 
+ 
+   
+(cid:1)H° is de standaardenthalpieverandering (uitgedrukt in J.mol-1) van de reactie en 
+wordt berekend op de manier zoals reeds uitgelegd op pagina 25 van hoofdstuk I. 
+ 
+(cid:1)( ) (cid:1)( )
+DH(cid:176) = DH0 - DH0  
+v eindproducten v beginproducten
+ 
+Wanneer we te maken hebben met een reactie in de gasfase, dan dienen in de Van 
+’t Hoff vergelijking K -waarden te worden ingevuld. Indien enkel een K -waarde ge-
+p c
+geven is bij T , dan moet deze K  eerst worden omgerekend naar K  (zoals beschre-
+1 c p
+ven op pagina 9) bij deze temperatuur T . Dan pas mag de Van ’t Hoff vergelijking 
+1
+worden toegepast. De nieuwe K  bij temperatuur T  kan dan eventueel opnieuw wor-
+p 2
+den omgerekend naar K  bij T  op analoge wijze. 
+c 2
+ 
+Wanneer we te maken hebben met een reactie in oplossing, dan dienen in de Van ’t 
+Hoff vergelijking K -waarden te worden ingevuld. 
+cAlgemene Scheikunde : Hfst. VII  Chemisch Evenwicht en Thermochemie  20
+5.2.  Praktische toepassing van temperatuursinvloeden 
+ 
+De verschuiving van het evenwicht bij temperatuursverandering kan ook eenvoudiger 
+begrepen worden uit het principe van Le Chatelier. Bij verhogen van de temperatuur 
+zal het evenwicht verschuiven in endotherme richting (de richting waarbij warmte op-
+genomen wordt). Een exotherme reactie (zoals in ons voorbeeld) gaat beter naar 
+links bij hogere temperatuur en beter naar rechts bij lagere temperatuur. Voor een 
+endotherme reactie is dit uiteraard net andersom.  
+Dit laat toe om snel in te zien in welke richting een evenwicht zal verschuiven bij ver-
+andering van de temperatuur. Bovendien verandert ook nog de numerieke waarde 
+van de evenwichtsconstante.  
+ 
+Rekenvoorbeeld: Voor het volgende reactie-evenwicht is K  bij 25 °C gelijk aan 5  108 
+c
+l2.mol-2. Bereken de waarde van K  bij 400 °C 
+c
+ 
+ 
+  N     +    3 H             2 NH     (cid:1)H°  =  - 92,4 kJ.mol-1 
+2 (g) 2 (g) 3 (g)
+ 
+ 
+Gezien het gaat om een reactie in de gasfase 
+ 
+ 
+  K  bij 298 K        K  bij 298 K 
+c p
+ 
+ 
+    K = K {RT}Dng    K = 5108 (8,314.298)-2 
+p(kPa) c p(298K)
+ 
+              K = 81,45 (kPa-2) 
+p(298K)
+ 
+ 
+ 
+  K  bij 298 K        K  bij 673 K 
+p p
+ 
+ 
+K DH(cid:176) T -T K -92.400 673- 298
+    ln T2 = 2 1     ln p(673K) =  
+K R T T 81,45 8,314 673.298
+T 1 2
+1
+ 
+              K = 7,6910-8 (kPa-2) 
+p(673K)
+ 
+ 
+  K  bij 673 K        K  bij 673 K 
+p c
+ 
+ 
+    K = K {RT}-Dng    K = 2,41 (l2.mol-2) 
+c p(kPa) c(673K)
+ 
+ 
+ Algemene Scheikunde : Hfst. VII  Chemisch Evenwicht en Thermochemie  21
+6.  Thermochemische aspecten van evenwichtsreacties 
+6.1  Enthalpie en Inwendige Energie 
+ 
+Bij wijze van inleiding raden wij de eerbare lezer uitdrukkelijk aan vooraf paragraaf 4 
+uit hoofdstuk 1 aandachtig door te nemen. In die paragraaf werden een aantal be-
+grippen gedefinieerd en besproken die onmisbaar zijn voor het vlot begrijpen van wat 
+volgt. 
+ 
+6.2  Entropie van een chemisch systeem 
+6.2.1. Definitie van het begrip entropie 
+ 
+Tot hiertoe zijn we ervan uitgegaan dat een omzetting spontaan doorgaat wanneer 
+warmte wordt vrijgesteld ((cid:1)H < 0). Voor vele reacties is deze enthalpieverlaging in-
+derdaad de bepalende factor. Uit onstabiele verbindingen worden stabielere produc-
+ten (sterkere bindingen) gevormd. Intussen weten we reeds dat deze omzettingen 
+maar kunnen doorgaan in omstandigheden waarbij ook de reactiesnelheid voldoende 
+groot is. Het streven naar een hogere stabiliteit en het bereiken van een lagere en- 
+thalpietoestand is een eerste parameter die bepalend is voor de spontaneïteit van 
+chemische  reacties.  Met  een  spontane  reactie  bedoelen  we:  een  omzetting  die 
+plaatsgrijpt bij bepaalde omstandigheden van druk en temperatuur na het samen-
+voegen van de reagentia zonder dat wij van buitenaf een invloed (b.v. het leveren 
+van arbeid) moeten uitoefenen. 
+ 
+Herbeschouwen we echter een aantal omzettingen of gebeurtenissen die eerder in 
+deze cursus ter sprake kwamen. Wanneer twee ideale gassen in zuivere toestand de 
+kans krijgen om met elkaar te mengen, dan zullen ze dat spontaan doen. Nochtans 
+zijn er zowel in de twee zuivere gasfasen als in het gasmengsel geen interacties tus-
+sen de gasmoleculen (ideale toestand). De mengenthalpie (zie hoofdstuk V) is nul. 
+Van een enthalpieverlaging is geen sprake en toch treedt het mengproces spontaan 
+op. 
+ 
+ 
+ 
+kraan open 
+ 
+ 
+ 
+gas A  gas B 
+ 
+ 
+IJs dat bij normale atmosferische druk bij een temperatuur van 0 °C of hoger wordt 
+gebracht, zal spontaan smelten. Uit hoofdstuk IV weten we nochtans dat (cid:1)H  > 0. 
+smelt
+Ook NaCl lost spontaan op in water hoewel ook hier (cid:1)H  > 0.  
+oplos.
+ 
+ 
+ 
+  oplossen 
+ 
+ 
+ 
+ 
+ Algemene Scheikunde : Hfst. VII  Chemisch Evenwicht en Thermochemie  22
+De meeste exotherme chemische reacties gaan spontaan door naar rechts  
+ 
+  Zn     +    2 HCl           ZnCl     +    H         (cid:1)H = - 150 kJ 
+(v) (opl.)  2 (opl.) 2 (g)
+ 
+maar de ontbinding van ammoniumchloride bij hogere temperatuur volgens 
+ 
+  NH Cl            NH      +      HCl        (cid:1)H = + 177 kJ 
+4 (v) 3 (g)  (g)
+ 
+is duidelijk endotherm. 
+ 
+Elk van deze fysische of chemische omzettingen heeft een belangrijk gemeenschap-
+pelijk kenmerk. Na reactie of omzetting bekomen de gevormde bestanddelen een 
+grotere bewegingsvrijheid. Zo krijgen de moleculen van de twee mengende ideale 
+gassen elk een grotere ruimte ter beschikking op voorwaarde dat ze door elkaar 
+heen vliegen. De watermoleculen in het ijs of de ionen in een NaCl-rooster zitten (op 
+enkele beperkte bewegingsmogelijkheden na, zoals trillen) opgesloten in het kristal-
+rooster. Na smelten of oplossen kunnen de gevormde deeltjes veel vlotter ‘zwem-
+men’ in de vloeibare fase. Wanneer gassen gevormd worden bij een chemische reac-
+tie, is de bewegingsvrijheid van de ‘vliegende’ deeltjes nog veel groter. 
+Tegelijkertijd merken we dat in het systeem een grotere wanorde is opgetreden. Een 
+mooi gerangschikt kristal is ordelijker dan een wirwar van bewegende (‘zwemmende 
+en vliegende’) deeltjes. 
+ 
+Deze graad van wanorde of de mate van bewegingsvrijheid zullen we vatten in het 
+thermodynamische begrip entropie (S). Hoewel het niet evident is om dit abstracte 
+begrip om te zetten in een numerieke waarde (er bestaan immers geen instrumenten 
+om een entropiehoeveelheid praktisch te meten), zullen we toch een voorzichtige 
+poging wagen. De mate van vrijheid van een deeltje heeft immers te maken met het 
+aantal mogelijke plaatsen of toestanden die het kan innemen binnen een systeem. 
+ 
+Beschouwen we het volgende experiment. We vullen een doos met 100 pingpong-
+balletjes die we vooraf hebben genummerd van 1 tot 100. We gieten de doos leeg op 
+de vloer van een grote zaal. Nadat ieder balletje tot stilstand is gekomen, meten we 
+de positie van elk balletje (neem b.v. aan dat we een van de vier hoeken van de zaal 
+uitkiezen als nulpunt voor een x,y coördinatenstelsel). Nadat we alle posities nauw-
+keurig hebben genoteerd, laten we een niets vermoedende persoon een kijkje ne-
+men in de zaal. Het beeld dat hij of zij te zien krijgt, veroorzaakt een nogal wanorde-
+lijke indruk (bij ‘zij’ meestal meer dan bij ‘hij’). We sluiten vervolgens de deur, ruimen 
+alle balletjes terug in de doos en herhalen ons experiment. Na opmeting van de 
+nieuwe posities en door vergelijking met onze eerste reeks van gegevens, merken 
+we dat er een totaal nieuwe situatie is ontstaan. Elk van de balletjes heeft een ande-
+re positie ingenomen en de nieuwe wanordelijke situatie is totaal verschillend van de 
+eerste. Laten we de persoon aan de andere kant van de deur opnieuw binnen, dan is 
+het globale beeld van de zaal niet veranderd. Hij of zij treft een compleet vergelijkba-
+re wanordelijke situatie aan. Tenzij de persoon zou beschikken over een paardenge-
+heugen (om de individuele posities te onthouden) en een bijzondere graad van op-
+merkzaamheid, wordt geen enkel verschil waargenomen. 
+We kunnen dit nog enkele tientallen, zelfs duizenden keren herhalen. Het resultaat is 
+iedere keer hetzelfde (voor onze waarnemer) en tegelijkertijd verschillend (volgens 
+onze metingen). Algemene Scheikunde : Hfst. VII  Chemisch Evenwicht en Thermochemie  23
+Hieruit blijkt dat er enorm veel mogelijkheden bestaan om spontane wanorde te creë-
+ren. Is er dan ook een kans dat er spontaan orde wordt geschapen? Is er m.a.w. een 
+mogelijkheid dat alle balletjes zich toevallig zouden rangschikken volgens een regel-
+matig patroon (b.v. ieder balletje perfect in het midden van de 100 vloertegels die de 
+zaal telt)? Ja… maar we zullen lang moeten wachten (of de proef vele keren herha-
+len) tot het eens toevallig lukt, zo lang zelfs dat we het voor onmogelijk houden. Op 
+die manier denkt ook de lottospeler die al vele jaren grote sommen is kwijt gespeeld 
+tot… op een dag de grote pot wordt binnengehaald. 
+ 
+De kans om met de Lotto te winnen kan statistisch perfect worden berekend. De 
+kans berekenen om in onze zaal toevallig een geordend systeem te bekomen, is een 
+zwaarder wiskundig probleem. En wat dan met de kans dat in een gasmengsel van 1 
+mol A (6,02  1023 moleculen) en 1 mol B, alle moleculen A zich toevallig bovenaan 
+het vat en alle moleculen B zich toevallig onderaan het vat zouden bevinden? Onze 
+logica vertelt dat we die mogelijkheid kunnen uitsluiten want iedere volwassen com-
+puter zou aan de berekening ten onder gaan. Het feit dat gasmoleculen spontaan 
+homogeen mengen is dus een entropische evidentie. 
+ 
+Hoewel het begrip entropie toch op een statistische wijze kan geïnterpreteerd wor-
+den, zullen we ons beperken tot enkele kwalitatieve aspecten ervan.  
+ 
+    S     <    S     <    S  
+v vl g
+ 
+De entropie van een gas neemt toe naarmate bij constante temperatuur het volume 
+stijgt of de druk daalt 
+ 
+De entropie van een systeem neemt toe naarmate meer verschillende soorten deel-
+tjes aanwezig zijn 
+ 
+De entropie bij een evenwichtsreactie is het grootst aan de kant met het grootste 
+aantal gasmoleculen (herinner (cid:1)n ) 
+g
+ 
+ 
+ 
+Nemen  we  een  perfect  kristal  bij  het 
+absolute nulpunt. Hiervoor is de orde 
+kookpunt 
+S 
+maxiaal en de entropie ervan is gelijk 
+aan nul. 
+Naarmate het kristal opwarmt, trillen de 
+bouwstenen  op  hun  roosterplaats 
+steeds  heviger  waardoor  de  entropie 
+stijgt. Bij het smeltpunt neemt de en-
+tropie sterk toe. Naarmate de vloeistof  smeltpunt 
+verder opwarmt, blijft ook de entropie 
+stijgen en bij het kookpunt treedt een 
+zeer grote entropietoename op. 
+ 
+ 
+- 273 °C  T 
+ 
+ Algemene Scheikunde : Hfst. VII  Chemisch Evenwicht en Thermochemie  24
+6.2.2. Entropieverandering bij chemische reacties 
+ 
+We herinneren ons de definitie van enthalpieverandering 
+ 
+    DH = H - H  
+R L
+ 
+Op de enthalpie-as werd arbitrair een nulpunt geplaatst waardoor 
+ 
+(cid:1)( ) (cid:1)( )
+DH(cid:176) = DH0 - DH0  
+v R v L
+ 
+ 
+Analoog bekomen we voor de entropieverandering van een chemische reactie 
+ 
+    DS = S - S  
+R L
+ 
+Op de entropie-as hoeven we geen arbitrair nulpunt meer aan te brengen gezien vol-
+gens de 3de hoofdwet van de thermodynamica de entropie voor elke chemische stof 
+gelijk is aan nul bij het absolute nulpunt. 
+In tabellen (zie helemaal achteraan de cursus) vinden we voor diverse chemische 
+stoffen de waarde van de absolute entropie bij standaardvoorwaarden (standaard 
+molaire entropie S°), d.i. bij een temperatuur van 25 °C en een druk van 1 bar (of 100 
+kPa).  
+ 
+(cid:1)( ) (cid:1)( )
+    DS(cid:176) = S0 - S0  
+R L
+ 
+ 
+Opmerking 1: voor enkelvoudige stoffen zijn in tegenstelling met standaard molaire 
+vormingsenthalpieën, de standaard molaire entropiewaarden niet gelijk aan nul. 
+ 
+Opmerking 2: De waarden voor (cid:1)H°  en S° zijn gedefinieerd bij een temperatuur van 
+v
+25 °C. (cid:1)H° -waarden zijn matig temperatuursafhankelijk, S°-waarden sterk tempera-
+v
+tuursafhankelijk. De invloed van de temperatuur is echter voor alle verbindingen na-
+genoeg even groot waardoor (cid:1)H en (cid:1)S nagenoeg onafhankelijk zijn van de tempera-
+tuur. 
+ 
+ 
+Volgens de eerste hoofdwet van de thermodynamica blijft de energie van het univer-
+sum constant. Dit betekent dat bij een omzetting en voor de uitwisseling van warmte 
+tussen systeem en omgeving geldt 
+ 
+    DH = -DH  
+systeem omgeving
+ 
+ 
+De tweede hoofdwet leert dat bij ieder proces de totale entropie toeneemt. Binnen 
+een systeem kan wel orde gecreëerd worden ((cid:1)S  < 0) maar dat gaat gepaard 
+systeem
+met een grotere entropietoename van de omgeving zodat 
+ 
+    DS = DS + DS > 0 
+tot systeem omgevingAlgemene Scheikunde : Hfst. VII  Chemisch Evenwicht en Thermochemie  25
+6.3  Gibbs Vrije Energie 
+6.3.1  Spontaneïteit van chemische reacties 
+ 
+Uit het voorgaande kunnen we samenvatten dat een systeem zal streven naar een 
+minimale enthalpie (stevige bindingen) en een maximale entropie (zo groot mogelijke 
+wanorde). Vaak zijn dit tegenstrijdige principes want orde in chemische systemen 
+kan enkel optreden indien er voldoende stevige bindingen bestaan en maximale be-
+wegingsmogelijkheden voor deeltjes zijn er alleen maar wanneer ze niet of weinig 
+gehinderd worden door interacties. 
+ 
+Nemen we even de proef met de pingpongballetjes terug. Vooraleer de doos leeg te 
+gieten, hebben we de balletjes ingesmeerd met een kleverige siroop. De balletjes 
+zullen nog wel ronddansen maar ze worden in hun beweging gehinderd doordat ze 
+min of meer aan de vloer en aan elkaar blijven kleven. We zullen ze ook minder ver-
+spreid aantreffen in onze zaal want ze zijn binnen een beperkte straal van de plaats 
+waar de doos is leeggegoten, tot stilstand gekomen. Onze neutrale waarnemer merkt 
+een minder wanordelijke toestand. Het is omwille van de zwakke bindingen door de 
+kleverige siroop dat een wanordelijke toestand bemoeilijkt wordt. 
+Gebruiken we i.p.v. de siroop een superlijm (zeer sterke bindingen), dan geraken de 
+balletjes niet meer los van elkaar. Ze blijven samen in een mooi gerangschikte struc-
+tuur. Ze vallen zelfs niet meer uit de doos bij omdraaien tenzij we heel hard zouden 
+schudden. Schudden impliceert energie toevoegen en voor moleculaire systemen 
+kan dat door het verhogen van de temperatuur. 
+ 
+Een evenwichtsreactie gaat spontaan door naar rechts wanneer (cid:1)H < 0 en (cid:1)S > 0. 
+De reactie gaat niet spontaan naar rechts, wel naar links voor (cid:1)H > 0 en (cid:1)S < 0. 
+In het geval (cid:1)H en (cid:1)S elkaar tegenwerken (beide positief of beide negatief) kan 
+voorlopig niet duidelijk worden uitgemaakt in welke richting de reactie zal evolueren. 
+Er zal een compromis moeten gevonden worden tussen beide thermodynamische 
+grootheden (voldoende sterke bindingen en toch nog de nodige bewegingsmogelijk-
+heden). Na het sluiten van een compromis treedt er doorgaans rust op en rust in ter-
+men van chemische reacties betekent ‘chemisch evenwicht’. Nochtans beseffen we 
+dat stabiliteit en stevige bindingen bevorderd worden wanneer de deeltjes traag of 
+weinig bewegen (dus bij lage temperatuur) en dat wanorde wordt bevorderd bij hevi-
+ger beweging (dus bij hogere temperatuur). De temperatuur speelt dus op de een of 
+andere manier mee bij het afwegen van (cid:1)H tegenover (cid:1)S. 
+ 
+Om  dit  probleem  op  te  lossen  werd  door  Gibbs  een  nieuwe  thermodynamische 
+grootheid G ( Gibbs Vrije Energie) ingevoerd die een relatie legt tussen de verschil-
+lende thermodynamische grootheden. 
+ 
+ 
+    G  =  H  - T . S 
+ 
+ 
+Voor een proces dat doorgaat bij constante druk en constante temperatuur wordt de 
+verandering in vrije energie gegeven door de vergelijking van Gibbs-Helmholtz. 
+ 
+ 
+    (cid:1)G  =  (cid:1)H  - T . (cid:1)S Algemene Scheikunde : Hfst. VII  Chemisch Evenwicht en Thermochemie  26
+ 
+ 
+voor (cid:1)G < 0       spontane reactie  
+ 
+voor (cid:1)G > 0       spontane reactie 
+ 
+voor (cid:1)G = 0       geen reactie want          evenwicht 
+ 
+Hoe dan ook   (cid:1)G < 0  wanneer  (cid:1)H < 0  (cid:1)S > 0 
+ 
+      (cid:1)G > 0  wanneer  (cid:1)H > 0  (cid:1)S < 0 
+ 
+Maar  als  (cid:1)H < 0  (cid:1)S < 0  bij lage T  (cid:1)G < 0 
+ 
+            bij hoge T  (cid:1)G > 0 
+ 
+    (cid:1)H > 0  (cid:1)S > 0  bij lage T  (cid:1)G > 0 
+ 
+            bij hoge T  (cid:1)G < 0 
+ 
+ 
+Wat moeten we ons van de Gibbs vrije energieverandering (cid:1)G voorstellen? Wat is 
+de betekenis ervan? Zoals de term het zelf uitdrukt, stelt (cid:1)G het gedeelte voor van 
+de totale potentiële energie van een moleculair systeem dat bij een chemische om-
+zetting kan worden vrijgemaakt. Dit impliceert dat er nog meer potentiële energie in 
+de moleculen aanwezig is die bij de betrokken reactie niet kan worden vrijgemaakt. 
+ 
+Maken we de vergelijking met een winkeltocht doorheen een supermarkt. Wanneer 
+we voorbij de kassa gaan, dienen we uiteraard te betalen. Dat kunnen we enkel re-
+gelen met euromuntjes en/of briefjes of met behulp van een creditkaart. Nochtans 
+vertegenwoordigt de inhoud van onze portefeuille plus de (hopelijk positieve) stand 
+van onze zichtrekening niet ons volledige bezit. De kleren die we dragen, de GSM op 
+zak en de fiets of wagen op de parking vertegenwoordigen ook een waarde. Met de-
+ze laatste voorwerpen (onroerende goederen) kunnen we echter niet betalen (de tijd 
+van de ruilhandel ligt in een ver verleden). Net zoals we een betaling (geldtransfer) 
+slechts kunnen uitvoeren met liquide betaalmiddelen, kan bij een chemische omzet-
+ting (transfer van warmte of arbeid) ook slechts die hoeveelheid energie worden uit-
+gewisseld voor een bedrag ter waarde van de Gibbs vrije energie. 
+ 
+Tot hiertoe hebben we enkel warmte en druk-volume-arbeid beschouwd als uitwis-
+selbare energievormen. Er bestaan nog andere vormen waaronder energie kan wor-
+den uitgewisseld. In hoofdstuk X komen we hierop uitgebreid terug. Voorlopig vol-
+staat het om (cid:1)G te definiëren als de nuttige arbeid A’ die bij een spontane reactie 
+kan worden vrijgesteld. Gezien (cid:1)G voor een spontane reactie negatief is en we een 
+door een systeem geleverde arbeid steeds positief definiëren (zie paragraaf 4 van 
+hoofdstuk I) schrijven we 
+ 
+ 
+      (cid:1)G  =  - A’ 
+ Algemene Scheikunde : Hfst. VII  Chemisch Evenwicht en Thermochemie  27
+In de tabel op de vorige pagina hebben we de voorwaarden beschreven voor een 
+spontane reactie in de een of de andere richting. Een gelijkaardige voorspelling voor 
+de richting van een spontane reactie werd gemaakt op pagina 8 uit de vergelijking 
+van de Q-waarde met de K-waarde. 
+ 
+ 
+Q vergelijken met  K Q/K  richting spontane reactie 
+ 
+Q  < K < 1   
+c c 
+Q  > K   > 1   
+c c
+Q  = K = 1  reactie in evenwicht 
+c c 
+ 
+ 
+Gezien  de  beide  uitgangsprincipes  (factoren  die  verband  houden  met  chemisch 
+evenwicht zoals reactiequotient en evenwichtsconstante enerzijds en de thermody-
+namische grootheid (cid:1)G anderzijds) dezelfde voorspellingen maken, moeten beide 
+met elkaar in relatie staan. 
+Zonder in te gaan op de oorsprong van dit verband (hoewel we uit wat vooraf ging 
+wel een logaritmisch verband durven vermoeden), bekomen we 
+ 
+Q
+    DG = RT ln  
+K
+ 
+Om analoge redenen (zie verder) als aangehaald bij het gebruik van de Van ’t Hoff 
+vergelijking, dienen opnieuw K -waarden te worden gebruikt voor reacties in oplos-
+c
+sing en K -waarden voor gasreacties. 
+p
+ 
+ 
+6.3.2. Standaard Gibbs Vrije Energieverandering 
+ 
+ 
+De standaard vrije energieverandering ((cid:1)G°) van een reactie is de verandering in 
+vrije energie als alle deeltjes die deelnemen aan de reactie aanwezig zijn onder 
+standaardvoorwaarden. Dit betekent een standaardconcentratie van 1 mol.l-1 voor 
+opgeloste stoffen en een standaarddruk van 1 bar (100 kPa) voor gassen. 
+ 
+ 
+Onder die voorwaarden wordt de Gibbs-Helmholtz vergelijking 
+ 
+ 
+    (cid:1)G°  =  (cid:1)H°  - T . (cid:1)S° 
+ 
+ 
+(cid:1)H° en (cid:1)S° kunnen worden berekend uit de tabelwaarden (zie paragraaf 5.2.2) en 
+zijn, zoals uitgelegd, temperatuursonafhankelijk. De Gibbs-Helmholtz vergelijking laat 
+dan toe bij elke willekeurige temperatuur de waarde voor (cid:1)G° te berekenen. Let er 
+immers op dat (cid:1)G° wel degelijk afhangt van de temperatuur. De thermodynamische 
+betekenis van (cid:1)G° wordt in volgende paragraaf gegeven. 
+Het zou ons enig (zij het dan wel eenvoudig) rekenwerk besparen indien we konden 
+beschikken over tabelwaarden voor de rechtstreekse berekening van (cid:1)G°. Om die 
+reden werd het begrip standaard molaire Gibbs vrije vormingsenergie ((cid:1)G° ) inge-
+vAlgemene Scheikunde : Hfst. VII  Chemisch Evenwicht en Thermochemie  28
+voerd. De voorwaarden voor het gebruik van deze waarden zijn identiek dezelfde als 
+voor de waarden van (cid:1)H° . Hou er wel terdege rekening mee dat (cid:1)G° -waarden 
+v v
+temperatuursafhankelijk zijn en de volgende formule dus enkel mag gebruikt worden 
+bij een temperatuur van 25 °C. Voor elke andere temperatuur dient de omweg te 
+worden gemaakt via (cid:1)H°  en S°-waarden. 
+v
+ 
+(cid:1)( ) (cid:1)( )
+    DG(cid:176) = DG0 - DG0     enkel bruikbaar bij 25 °C 
+v R v L
+ 
+ 
+6.3.3  Verband tussen (cid:1)G en (cid:1)G° 
+ 
+De betekenis van (cid:1)G werd reeds duidelijk gemaakt in paragraaf 5.3.1, nl. de richting 
+en de mate waarin een reactie spontaan zal doorgaan wanneer we willekeurige hoe-
+veelheden van de reactiecomponenten met elkaar mengen. 
+ 
+Q
+    DG = RT ln    of     DG = RT lnQ - RT lnK 
+K
+ 
+Voor (cid:1)G° hebben we de standaardvoorwaarden gedefinieerd. Wanneer we nu star-
+ten met een reactiemengsel waarin we de reagerende componenten samenbrengen 
+in standaardvoorwaarden, dan is voor iedere willekeurige reactie Q = 1 
+ 
+[C]c [D]d 1c 1d
+Neem b.v.  aA  +  bB         cC +  dD  Q = = = 1 
+  [A]a [B]b start 1a 1b
+Onder die voorwaarden wordt 
+ 
+    DG(cid:176) = - RT lnK  
+ 
+ 
+Voor een evenwicht dat vooral naar rechts is gelegen 
+ 
+    K >>> 1    ln K >> 0    (cid:1)G° << 0 
+ 
+Een evenwicht dat matig naar rechts is gelegen 
+ 
+    K > 1      ln K > 0    (cid:1)G° < 0 
+ 
+Een evenwicht exact in het midden 
+ 
+    K = 1      ln K = 0    (cid:1)G° = 0 
+ 
+Een evenwicht in beperkte mate naar links 
+ 
+    K <1      ln K < 0    (cid:1)G° > 0 
+ 
+Voor een evenwicht sterk naar links 
+ 
+    K <<< 1    ln K << 0    (cid:1)G° >> 0 
+ Algemene Scheikunde : Hfst. VII  Chemisch Evenwicht en Thermochemie  29
+In dit verband komt het begrip standaardvoorwaarde tot zijn volle betekenis. Voor 
+opgeloste deeltjes hebben we de keuze voor de standaardconcentratie vastgelegd bij 
+1 mol.l-1. Dit betekent ook dat we in alle uitdrukkingen met Q  en K  deze eenheid 
+c c
+dienen te gebruiken. Voor deeltjes in de gasfase werd de eenheid 1 bar gekozen. 
+Die eenheid blijven we ook hanteren bij invullen in Q  en K . 
+p p
+Dat is ook de reden waarom we in de formules  
+ 
+Q
+    DG = RT ln    en     DG(cid:176) = - RT lnK  
+K
+ 
+de nodige aandacht moeten schenken aan de gebruikte eenheden. 
+ 
+We beseffen dat het verwarrend kan overkomen door nu plotseling als eenheidsdruk 
+1 bar te kiezen daar waar we voorheen steeds hebben gewerkt met eenheden van 
+kPa. Beide zijn dezelfde op een factor 100 na. Hoe wordt omgerekend van K  
+p (bar)
+naar K  werd reeds uitgelegd op pagina 9. 
+p (kPa)
+ 
+Dezelfde opmerkingen i.v.m. standaardvoorwaarden en het gebruik van de juiste 
+eenheden werden gemaakt bij gebruik van de Van ’t Hoff vergelijking (pagina 17). 
+Deze vergelijking kunnen we op dit moment immers opnieuw afleiden met behulp van 
+thermodynamische parameters. 
+ 
+ 
+    DG(cid:176) = - RT lnK       DG(cid:176) = DH(cid:176) - T DS(cid:176) 
+ 
+       
+            - RT lnK = DH(cid:176) - T DS(cid:176) 
+ 
+ 
+voor T - RT lnK = DH(cid:176) - T DS(cid:176) 
+1    1 1 1
+ 
+DH(cid:176) DS(cid:176)
+      - lnK = -   (*) 
+1 RT R
+1
+ 
+ 
+voor T     - RT lnK = DH(cid:176) - T DS(cid:176) 
+2 2 2 2
+ 
+DH(cid:176) DS(cid:176)
+      - lnK = -   (**) 
+2 RT R
+2
+ 
+ 
+ 
+K DH(cid:176) T -T
+vergelijking (*) – vergelijking (**)  geeft    ln T2 = 2 1  
+K R T T
+T 1 2
+1
+ 
+ 
+ 
+ Algemene Scheikunde : Hfst. VII  Chemisch Evenwicht en Thermochemie  30
+6.4.  Grafische voorstelling van reactie-evenwichten 
+ 
+We wensen geen verwarring te laten tussen de begrippen (cid:1)G en (cid:1)G° en Q en K an-
+derzijds. Ze hebben elk hun betekenis die we toch nog even voor alle duidelijkheid 
+tegenover elkaar afwegen. 
+ 
+(cid:1)G geeft de richting aan waarin een reactie spontaan doorgaat bij samenbrengen 
+van willekeurige concentraties (of partieeldrukken) van de reactiecomponenten. Deze 
+beginhoeveelheden bepalen de waarde van Q.  
+(cid:1)G° bepaalt de eindtoestand. De evenwichtsconcentraties voor een reactie in oplos-
+sing (of evenwichtspartieeldrukken in het geval van een gasreactie) voldoen aan de 
+waarde van de evenwichtsconstante K.  
+ 
+Maken we de vergelijking met het traject van de E40 tussen Gent en Brussel. Stel dat 
+onze bestemming (eindtoestand bepaald door de waarde van K) ergens in Aalst 
+ligt. Dat is zowat halverwege tussen Gent en Brussel (evenwicht in het midden en 
+(cid:1)G° ~ 0 of K ~ 1). Wanneer we vertrekken vanuit Gent (uiterst links of Q  <<< K) of 
+1
+vanuit Merelbeke (ver naar links of Q  << K), dan moeten we naar het oosten rijden 
+1
+om in Aalst te geraken (op een wegenkaart betekent dit naar rechts). Vanuit Gent is 
+de afstand iets groter ((cid:1)G <<< 0) dan vanuit Merelbeke ((cid:1)G << 0). Starten we echter 
+in Brussel, dan moeten we naar het westen of naar links (Q  >>> K en (cid:1)G >>> 0) 
+2
+om op onze bestemming te geraken. 
+(cid:1)G < 0  (cid:1)G > 0 
+Q1 < K  K  Q2 > K 
+GENT  AALST  BRUSSEL 
+MERELBEKE 
+ 
+ 
+Wanneer het gaat over een ‘echte’ evenwichtsreactie, dan omvat een reactiemengsel 
+in evenwicht de toestand met de laagste vrije energie-inhoud. Een bedrag gelijk aan 
+–(cid:1)G = A’ of aan Gibbs vrije energie wordt tijdens de reactie vrijgesteld. Alle andere 
+samenstellingen voor het reactiemengsel zijn niet in evenwicht en bezitten een hoge-
+re energie-inhoud. We hadden ons autostradevoorbeeld misschien beter gekozen 
+ergens op de E411 Brussel-Luxemburg dan in het vlakke Vlaanderland. 
+ 
+Het verband tussen de Gibbs vrije energie en de reactiecoördinaat wordt grafisch 
+voorgesteld in de volgende figuren. Met reactiecoördinaat bedoelen we een plaats op 
+de abscis die correspondeert met een bepaalde samenstelling Q (een mogelijke 
+startpositie). Uiterst links in de figuur treffen we uitsluitend producten L aan, uiterst 
+rechts uitsluitend producten R. Tussenin en gaande van links naar rechts wordt het 
+reactiemengsel steeds rijker aan producten R en de waarde voor Q stijgt. In de ordi-
+naat plaatsen we G°. Deze waarde berekenen we via 
+ 
+(cid:1)( ) (cid:1)( ) (cid:1)( ) (cid:1)( )
+G0 = DH0 - T S0   G0 = DH0 - T S0    DG0 = G0 -G0 
+R v R R L v L L R LAlgemene Scheikunde : Hfst. VII  Chemisch Evenwicht en Thermochemie  31
+G°L  G°R 
+(cid:1)G° 
+(cid:1)G 
+willekeurig 
+startmengsel Q  
+1
+EVENWICHT   Q = K 
+reactiecoördinaat 
+ 
+ 
+G°L  G°R 
+(cid:1)G° 
+(cid:1)G 
+willekeurig 
+startmengsel Q  
+EVENWICHT   Q = K  2
+reactiecoördinaat 
+ 
+ 
+Afhankelijk van de startpositie (samenstelling van het uitgangsmengsel) bekomen we 
+een andere waarde voor (cid:1)G. In alle gevallen gaat de reactie door in de ene of de 
+andere richting tot evenwicht wordt bereikt. Voor situatie 1 (Q ) is (cid:1)G negatief voor 
+1
+een reactie van links naar rechts. Voor situatie 2 (Q  is (cid:1)G positief voor de reactie 
+2)
+van links naar rechts maar negatief voor de reactie van rechts naar links. In alle ge-
+vallen wordt een hoeveelheid Gibbs vrije energie vrijgesteld wanneer, vertrekkende 
+uit een bepaalde startsituatie, de reactie evolueert naar evenwicht en streeft naar de 
+meest stabiele samenstelling. 
+ Algemene Scheikunde : Hfst. VII  Chemisch Evenwicht en Thermochemie  32
+Nemen we opnieuw  
+ 
+(cid:1)( ) (cid:1)( )
+G0 = DH0 - T S0  
+R v R R
+ 
+(cid:1)( ) (cid:1)( )
+G0 = DH0 - T S0  
+L v L L
+ 
+ 
+Bij een andere temperatuur veranderen de waarden voor G°  en G°  op een andere 
+R L
+wijze afhankelijk van de entropie van S°  en S° . Hierdoor komt het minimum in de 
+R L
+curve (G° i.f.v. de reactiecoördinaat) op een andere plaats te liggen. We weten im-
+mers uit wat vooraf ging dat de temperatuur de numerieke waarde van de even-
+wichtsconstante beïnvloedt. Op die wijze is het mogelijk dat een reactie vertrekkende 
+van een bepaalde Q bij een bepaalde temperatuur naar rechts en bij een andere 
+temperatuur naar links verloopt. 
+ 
+ 
+G°   G°  
+L grotere entropie-invloed  R
+Q  kleinere entropie-invloed 
+T
+1 
+naar L bij T
+2 
+naar R bij T
+1 
+T
+2 
+T   >  T  
+2 1
+evenwicht bij T evenwicht bij T
+2  1 
+reactiecoördinaat 
+ 

@@ -1,0 +1,117 @@
+8/22/2019
+Lay 2.2, 2.3
+y = A x
+x = A-1 y
+Definitie en toepassingen
+18/22/2019
+Inverse matrix: definitie
+• De nn matrix A is inverteerbaar  er een
+nn matrix C bestaat waarvoor geldt:
+CA = I en AC = I
+n n
+• C is dan dé inverse van A, genoteerd als A-1
+Als B en C beide inverse zijn van A, dan is B = B I = 
+n
+BAC = I C = C  inverse is uniek
+n 
+• Een niet inverteerbare A noemen we singulier
+Oplossen van Ax = b
+• A een inverteerbare nn matrix, dan is voor
+alle b  n de oplossing gegeven door x = A-1b
+
+ want A(A-1b) = b
+• Elke andere oplossing u zodat Au=b voldoet
+aan A-1Au  = A-1b dus I u = A-1b dus u = x
+n
+28/22/2019
+Enkele rekenregels (A, B inverteerbaar)
+• (A-1)-1 = A
+Avoldoetaan de vwdnom de inverse van A-1te zijn: 
+A A-1 = I = A-1A
+n
+• (AB)-1 = B-1 A-1
+B-1A-1voldoet aande vwdnom de inverse van AB te
+zijn: (AB)(B-1A-1) = A(BB-1)A-1= A A-1= I
+n
+en: (B-1A-1) (AB) = B-1(A-1A)B= B-1B = I
+n
+• (AT)-1 = (A-1)T
+A A-1 = I= A-1A (A A-1)T= I T= (A-1A)T
+n 
+(A-1)TAT= I = AT(A-1)T(A-1)Tis inverse van AT
+n
+• Merk op datA-1, AB en AT inverteerbarematrices zijn
+Constructie van de inverse matrix
+38/22/2019
+Elementaire matrices
+• Linksvermenigvuldigenmet eenelementairematrixvoerteen
+elementairerij-operatie(ER) uit
+1 0 0 𝑎 𝑏 𝑐 𝑎 𝑏 𝑐
+– Rijschaling:  0 1 0 𝑑 𝑒 𝑓 = 𝑑 𝑒 𝑓
+0 0 𝑘 𝑔 ℎ 𝑖 𝑘𝑔 𝑘ℎ 𝑘𝑖
+1 0 0 𝑎 𝑏 𝑐 𝑎 𝑏 𝑐
+– Rijomwisseling: 0 0 1 𝑑 𝑒 𝑓 = 𝑔 ℎ 𝑖
+0 1 0 𝑔 ℎ 𝑖 𝑑 𝑒 𝑓
+1 0 0 𝑎 𝑏 𝑐 𝑎 𝑏 𝑐
+– Rijvervanging:  0 1 0 𝑑 𝑒 𝑓 = 𝑑 𝑒 𝑓
+𝑘 0 1 𝑔 ℎ 𝑖 𝑔+𝑘𝑎 ℎ+𝑘𝑏 𝑖+𝑘𝑐
+Inverse van elementaire matrices
+• ER zijn omkeerbaar
+1 0 0 1 0 0
+– Rijschaling: E= 0 1 0 ; E-1= 0 1 0
+0 0 𝑘 0 0 1/𝑘
+1 0 0 1 0 0
+– Rijomwisseling: E= 0 0 1 ; E-1=E= 0 0 1
+0 1 0 0 1 0
+1 0 0 1 0 0
+– Rijvervanging: E= 0 1 0 ; E-1= 0 1 0
+𝑘 0 1 −𝑘 0 1
+• Bewijs: nagaan dat E-1E=EE-1=I
+48/22/2019
+A-1 berekenen
+A inverteerbaar  A  I
+
+n
+Als A inverteerbaaris geldt: [A I ]  [I A-1]
+
+n n
+Bewijs
+ A inverteerbaar  b  n unieke oplossing
+
+ geen vrijevariabelen  n pivotkolommen
+ n pivots op diagonaal  I is GEV
+n
+ A  I  E E … E A = I
+
+n p p-1 1 n
+ E -1 E E … E A = E -1 I = E -1
+p p p-1 1 p n p
+ E … E A = E -1  …  A = E -1 … E -1 invertb
+p-1 1 p 1 p
+ A-1 = E … E
+p 1
+ A-1 = E … E I (dus [A I ]  [I A-1] )
+
+p 1 n  n n
+Matrixinversiestellingen
+58/22/2019
+Inverteerbare matrices
+a.Annmatrix is inverteerbaar
+ b.A  I
+n
+ c.A heeftnpivot-posities
+ d. Ax=0heeftenkelde triviale oplossing
+ e. A heeftlineair onafhankelijkekolommen
+ f. T: x  Ax is 1-op-1
+ g. Ax=b heeftminstens1 oplossingb n
+
+ h. Span{a , a , … a } =  n
+1 2 n 
+ i. T: x Ax beeldt n af op  n
+ 
+ j.  C zodatCA=I
+n
+ k.  DzodatAD=I
+n
+ l. AT is inverteerbaar
+6

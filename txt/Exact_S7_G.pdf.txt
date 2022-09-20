@@ -1,0 +1,147 @@
+8/22/2019
+Lay 2.1
+p n m
+  
+x y = S(x) = Bx T(y) = Ay
+S(x) = Bx T(y) = Ay
+T(S(x))= (AB)x
+Matrixbewerkingen
+• m×n matrix A = [a a … a ], B = [b b … b ]  m×n
+1 2 n 1 2 n 
+• u  n
+
+• Matrixproduct Au = u a + u a + … + u a  m
+1  1 2  2 n  n 
+• A+B [(a +b ) (a +b ) … (a +b )]  m×n
+
+1 1 2 2 n n 
+• c  : cA [ca ca … ca ] 
+  1 2 n
+• A + B = B + A ; (A+B)+C = A+(B+C) ; A + 0 = A
+• r(A+B) = rA + rB ; (r+s)A = rA + sA ; r(sA) = (rs)A
+r, s 
+
+18/22/2019
+Matrixproduct
+• Definitie en interpretatie van AB
+Samengestelde lineaire transformatie
+• Beschouw lineaire transformatie 
+T:  n m met standaardmatrix A  m×n
+
+  
+n m
+• T(y) = Ay  
+y T(y) = Ay
+• Beschouw lineaire transformatie 
+S:  p n met standaardmatrix B  n×p
+
+  
+• S(x) = Bx
+p n
+ 
+x S(x) = Bx
+28/22/2019
+Samengestelde lineaire transformatie
+p n m
+  
+x y = S(x) = Bx T(y) = Ay
+S(x) = Bx T(y) = Ay
+T(S(x)) = (AB)x
+• T(S(x)) = T(y) = Ay= A(Bx) 
+= A([b b … b ]x) = A(x b + x b + … + x b )
+1 2 p 1  1 2  2 p p
+= x Ab + x Ab + … + x Ab
+1  1 2  2 p p
+= [Ab Ab … Ab ]x
+1 2 p
+(AB)x
+• T(S(x)) is ook lineair en heeft standaardmatrix AB  m×p
+
+• AB BA
+AB berekenen
+• Noteer de elementen van A m×nals a : (A) = a
+ ij  ij ij 
+• Noteer de elementen van B n×p als b : (B) = b
+ ij  ij ij 
+• AB [Ab … Ab … Ab ]
+ 1 j p
+= [a a … a ]b
+1 2 n j
+= b a + b a + … + b a
+1j  1 2j  2 nj n
+• (AB) = b a + b a + … + b a
+ij 1j  i1 2j  i2 nj in
+= a b + a b + … + a b
+i1  1j  i2  2j  in nj
+i= 1 … m , j = 1 … p
+𝑏 ∗ ∗ 𝑏
+𝐀𝐁 (cid:2869)(cid:2869) ∗ = 𝑎(cid:2869)(cid:2869) 𝑎(cid:2869)(cid:2870) 𝑎(cid:2869)(cid:2871) 𝑏(cid:2869)(cid:2869) ∗ ∗ 𝐀𝐁 (cid:2869)(cid:2870) = 𝑎(cid:2869)(cid:2869) 𝑎(cid:2869)(cid:2870) 𝑎(cid:2869)(cid:2871) ∗ 𝑏(cid:2869)(cid:2870)
+∗ ∗ ∗ ∗ ∗ (cid:2870)(cid:2869) ∗ ∗ ∗ ∗ ∗ (cid:2870)(cid:2870)
+𝑏 ∗ ∗ 𝑏
+(cid:2871)(cid:2869) (cid:2871)(cid:2870)
+𝑏 ∗ ∗ 𝑏
+∗ ∗ ∗ ∗ ∗ (cid:2869)(cid:2869) ∗ ∗ ∗ ∗ ∗ (cid:2869)(cid:2870)
+= 𝑏 ∗ = ∗ 𝑏
+𝐀𝐁 ∗ 𝑎 𝑎 𝑎 (cid:2870)(cid:2869) ∗ 𝐀𝐁 𝑎 𝑎 𝑎 (cid:2870)(cid:2870)
+(cid:2870)(cid:2869) (cid:2870)(cid:2869) (cid:2870)(cid:2870) (cid:2870)(cid:2871) (cid:2870)(cid:2870) (cid:2870)(cid:2869) (cid:2870)(cid:2870) (cid:2870)(cid:2871)
+𝑏 ∗ ∗ 𝑏
+(cid:2871)(cid:2869) (cid:2871)(cid:2870)
+38/22/2019
+Eigenschappen van het product van 
+matrices
+• Gevolg van AB = [Ab Ab … Ab ]
+1 2 p
+• A, B, C matrices van geschikte afmeting
+• r is scalair
+• (AB)C = A(BC)
+• A(B+C) = AB + AC
+• (B+C)A = BA + CA
+• r(AB) = (rA)B = A(rB)
+Aanvullingen
+48/22/2019
+Getransponeerde matrix
+• A een mxn matrix, dan is AT een nxm matrix gevormd 
+door de rij- en kolomindex om te wisselen
+𝑎 𝑏
+𝑎 𝑐 𝑒
+• 𝐀 = 𝑐 𝑑 en 𝐀(cid:3021) =
+𝑏 𝑑 𝑓
+𝑒 𝑓
+z
+A Bereikxy = Ax
+(x 2)
+x 
+2 2 a2 y = Span{a1, a2} 
+3
+0 
+x
+1 a
+1
+AT
+BereikzATz
+=  2
+
+Getransponeerde: eigenschappen
+r een scalair, A en B matrices van geschikte 
+afmetingen
+• (AT)T = A
+• (A + B)T = AT + BT
+• (rA)T = rAT
+• (AB)T = BT AT
+Volgorde omwisselen !
+58/22/2019
+Diagonaalmatrix
+• Een nxn matrix (vierkant) is diagonaal als alle 
+a = 0 voor i  j
+ij
+• a noemen we de diagonaalelementen
+ii
+𝑎 0 0
+• voorbeeld 𝐀 =  0 𝑏 0
+0 0 𝑐
+• Eenheidsmatrix I = diagonaalmatrix met a = 
+n ii
+1 voor i = 1 ... N
+Voor B een mxn matrix:  B I = B = I B
+n m
+6

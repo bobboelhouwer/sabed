@@ -1,0 +1,1061 @@
+Aanvullende voorbeelden bij Hoofdstuk 1  31
+Een wit poeder wordt geanalyseerd en er wordt gevonden dat het 43,64 % fosfor en 
+56,36 % zuurstof bevat. De verbinding heeft een relatieve molecuulmassa van 283,88. 
+Geef de empirische en moleculaire formule van de verbinding. 
+ 
+ 
+Oplossing 
+ 
+Stap 1: 
+ 
+We zoeken eerst de empirische formule van de verbinding die we voorlopig door P O   zullen 
+x Y
+voorstellen.   
+    
+ 43,64 %  P  d.w.z. dat  100 g P O  43,64 g P bevat 
+x Y
+ 56,36 %  O  d.w.z. dat  100 g P O  56,36 g O bevat 
+x Y
+ 
+We zetten eerst het aantal gram om in een aantal mol door te delen door de respectievelijke 
+relatieve atoommassa’s  
+ 
+43,64 g 56,36 g
+  = 1,41mol P en = 3,52 mol O 
+g g
+30,97 16,00
+mol mol
+ 
+ 
+Nu delen we het bekomen aantal mol van elk door het kleinste getal van de twee nl. 1,41 
+ 
+1,41 3,52
+  = 1,00 en = 2,50 
+1,41 1,41
+ 
+ 
+We vinden x = 1 en y = 2,5 maar we wensen in een chemische formule enkel gehele getallen 
+zodat de empirische formule wordt 
+ 
+    P2O5 
+   
+ 
+Stap 2: 
+ 
+Nu volgt de bepaling van de moleculaire formule a.h.v. de gegeven relatieve molecuulmassa 
+(283,88) 
+ 
+   
+gegeven molecuulmassa   =   ? x  molecuulmassa van empirische formule 
+ 
+ 
+ 
+g g
+  283,88     =   2 x   141,94   
+mol mol
+ 
+ 
+ 
+ 
+Dus de molecuulformule wordt 
+ 
+   
+(P O ) of   P O
+  2 5 2   4 10 
+ 
+ 
+ Aanvullende voorbeelden bij Hoofdstuk 1  32
+Een verbinding bevat enkel koolstof, waterstof, stikstof en zuurstof. Verbranding van 
+0,1570 g van de verbinding geeft 0,213 g CO  en 0,031 g H O. In een ander experiment 
+2 2
+wordt er vastgesteld dat er uit 0,103 g van de verbinding 0,023 g NH  ontstaat. Wat is 
+3
+de empirische formule van de verbinding? 
+ 
+ 
+Oplossing 
+ 
+Na verbranding zal alle koolstof uit de verbinding zich bevinden in het vrijgekomen CO , zo 
+2
+zal ook al de waterstof zich bevinden in het vrijgestelde water en de stikstof tenslotte in NH . 
+3
+ 
+Stap1: 
+ 
+We zetten eerst het gegeven aantal gram van de verbindingen uit het eerste experiment om 
+in een aantal mol door te delen door de respectievelijke relatieve molecuulmassa’s, waaruit 
+we dan het aantal mol C en H kunnen bepalen. Dit aantal mol vermenigvuldigen we dan met 
+de atoommassa’s zodat we het aantal gram C en H krijgen. Vervolgens bepalen we het 
+percentage aan koolstof en waterstof in de verbinding door het aantal gram C en H te delen 
+door het aantal gram van de verbinding. 
+ 
+ 
+0,213 g CO
+  2 = 0,00484 mol CO ﬁ 0,00484 mol C ﬁ 0,5809 g C    
+g 2
+44,00
+mol
+ 
+0,5809 g C
+      %C = x100 = 37,00 %C 
+0,1570 g verbinding
+ 
+ 
+0,031g H O
+            2 = 0,00172 mol H O ﬁ 0,003441mol H ﬁ 0,003441g H  
+g 2
+18,00
+mol
+ 
+0,003441g H
+       % H = x100 = 2,19 % H  
+0,1570 g verbinding
+   
+stap 2 :   
+ 
+Het % N halen we uit het tweede experiment 
+ 
+0,023 g NH
+  3 = 0,001352 mol NH ﬁ 0,001352 mol N ﬁ 0,01892 g N  
+g 3
+17,00
+mol
+ 
+0,01892 g N
+      % N = x100 = 18,36 % N 
+0,1030 g verbinding
+   
+Stap 3 : 
+ 
+Er rest ons nog het massa% zuurstof te bepalen 
+ 
+  % zuurstof = 100 – ( 37,00 + 2,19 + 18,36 ) = 42,45 % O Aanvullende voorbeelden bij Hoofdstuk 1  33
+stap 4 : 
+ 
+100 g verbinding bevat dus 
+ 
+37,00 g C ﬁ 3,083mol C
+2,19 g H ﬁ 2,19 mol H
+    
+18,36 g N ﬁ 1,311mol N
+42,45 g O ﬁ 2,653mol O
+ 
+Nu delen we het bekomen aantal mol door het kleinste getal van de vier nl. 1,311 en zetten 
+dan de bekomen getallen om in gehele getallen door te vermenigvuldigen met 3 wat leidt tot 
+de empirische formule 
+   
+C H N O
+  7 5 3 6 
+ 
+ 
+ 
+Een component bevat enkel C, H en Cl. Door een staalneming van 150 g van deze 
+component stellen we vast dat hij 80 g C en 10 g H bevat, de rest is Cl. Wat is de 
+procentuele samenstelling? 
+ 
+ 
+oplossing 
+ 
+stap 1 : 
+ 
+We weten de massa van C en H, we moeten dus nog de massa Cl berekenen. Als de 
+component enkel C, H en Cl bevat dan is de totale massa van het staal de som van de 
+massa’s van de drie elementen. 
+ 
+  massa C + massa H + massa Cl = massa staal 
+  80 g        + 10 g        + massa Cl = 150 g 
+  massa Cl = 150 g - 80 g - 10 g = 60 g 
+ 
+stap 2 : 
+massa element
+procentuele samenstelling   (cid:1)   x100% = ...% 
+massa staal
+ 
+80 g C
+x100% = 53,33%C 
+150 g staal
+ 
+ 
+10 g H
+x100% = 6,67% H  
+150 g staal
+ 
+   
+60 g Cl
+x100% = 40,00%Cl 
+150 g staal
+                         
+                         
+Dus het staal bevat  53,33% C                   6,67% H                       40,00% Cl Aanvullende voorbeelden bij Hoofdstuk 1  34
+In het menselijke lichaam reageert  glucose (C H O ) met zuurstof (O ) volgens  
+6 12 6 2
+ 
+ C H O  + 6 O    (cid:1)  6 CO  + 6 H O 
+6 12 6 2 2 2
+ 
+Hoeveel  gram  H O  wordt  er  vrijgesteld  wanneer  30  g  glucose  reageert  met  een 
+2
+overmaat zuurstof? 
+ 
+ 
+oplossing  
+ 
+De omzettingen die moeten gebeuren staan hieronder schematisch weergegeven 
+ 
+gram glucose  (cid:1)  mol glucose  (cid:1)  mol H O  (cid:1)  gram H O 
+2 2
+ 
+ 
+30 g C H O
+6 12 6 = 0,167 mol C H O  
+g 6 12 6
+180
+mol
+ 
+Bekijken we nu de reactievergelijking 
+ 
+1 C H O  + 6 O    (cid:1)  6 CO  + 6 H O 
+6 12 6 2 2 2
+ 
+1 mol C H O  geeft 6 mol H O 
+6 12 6 2
+   
+ 0,167 mol C H O  geeft dan 6 x 0,167 mol = 1,002 mol H O 
+6 12 6 2
+                                                                                        (cid:2) 
+                                                                               
+18,036 g H O 
+2
+ 
+ 
+ 
+ 
+Kaliumchromaat, een lichtgele vaste stof, ontstaat door reactie van vast chroomerts 
+(FeCr O ) met vast kaliumcarbonaat en gasvormig zuurstof bij hoge temperatuur. De 
+2 4
+andere reactieproducten zijn vast ijzer((cid:2)(cid:2)(cid:2))oxide en gasvormig koolstofdioxide. In een 
+bepaald  experiment  worden  bij  hoge  temperatuur  174  g  chroomerts,  303  g 
+kaliumcarbonaat  en  80  g  zuurstof  in  een  reactievat  gebracht  waar  ze  reageren. 
+Hoeveel g kaliumchromaat wordt gevormd? 
+ 
+ 
+Oplossing 
+ 
+Stap 1 : 
+ 
+De opgave in woorden vertalen we in een reactievergelijking 
+ 
+FeCr O    + K CO    + O   (cid:1)  K CrO    + Fe O    + CO  
+2 4 (v) 2 3 (v) 2 (g)   2 4 (v) 2 3 (v) 2 (g) 
+ 
+Stap 2 : 
+ 
+We gaan na of de massabalans klopt of anders gezegd: is het aantal atomen van elke soort 
+links en rechts van de reactiepijl gelijk?  
+ 
+Neen  (cid:1)  we corrigeren door voorgetallen te plaatsen. Aanvullende voorbeelden bij Hoofdstuk 1  35
+4 FeCr O    + 8 K CO    + 7 O   (cid:1) 8 K CrO    + 2 Fe O    + 8 CO    
+2 4 (v) 2 3 (v) 2 (g)   2 4 (v) 2 3 (v) 2 (g)
+ 
+Stap 3 : 
+ 
+Een stoechiometrische berekening wordt altijd uitgevoerd in mol, we zetten de opgegeven 
+massa’s daarom eerst om in mol. 
+ 
+174 g
+FeCrO = 0,77 mol
+2 4 g
+223,84
+mol
+303 g
+K CO = 2,19 mol   
+2 3 g
+138,20
+mol
+80 g
+O = 2,50 mol
+2 g
+32,00
+mol
+ 
+We gaan dan na welk van de 3 reagerende stoffen het beperkend reagens is. 
+Hiertoe delen we het aantal mol van elk reagens door z’n voorgetal in de reactievergelijking.   
+ 
+0,77
+FeCrO = 0,19
+2 4
+4
+2,19
+K CO = 0,27  
+2 3
+8
+2,50
+O = 0,36
+2 7
+ 
+0,19 is het kleinste getal dus we kunnen besluiten dat FeCr O  het beperkend reagens is. 
+2 4
+ 
+ 
+Stoechiometrische berekening (in mol) : 
+ 
+         4 FeCr O    +   8 K CO     +  7 O   (cid:1)   8 K CrO     +  2 Fe O     +  8 CO  
+2 4 (v)   2 3 (v) 2 (g)      2 4(v) 2 3 (v) 2 (g) 
+ 
+voor       0,77                   2,19               2,50                   -                        -                 -   
+8 7 8 2 8
+             -0,77              -0,77 x          -0,77 x       +0,77 x          +0,77 x        +0,77 x   
+4 4 4 4 4
+ 
+na            0                       0,65              1,15                1,54                  0,38             1,54 
+ 
+ 
+ 
+Er wordt dus 1,54 mol K CrO     gevormd      (cid:1)     2  99,07 g K CrO     
+2 4 (v) 2 4 (v)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Aanvullende voorbeelden bij Hoofdstuk 1  36
+Zilvernitraat reageert met NaCl in 36 cm3 oplossing volgens onderstaande reactie 
+ 
+  AgNO    + NaCl    (cid:1)    AgCl   + NaNO
+3 (opl) (opl)    (v)  3 (opl) 
+ 
+AgCl wordt afgezonderd, gedroogd en gewogen zodat 0,52 g AgCl wordt bekomen. 
+Wat is de molaire concentratie van de start AgNO -oplossing? 
+3
+ 
+ 
+Oplossing 
+ 
+Stap 1 : 
+ 
+We berekenen hoeveel mol AgCl wordt bekomen na reactie 
+ 
+0,52 g
+  = 0,0036 mol 
+g
+143,36
+mol
+ 
+stap 2 : 
+ 
+We kijken naar de reactievergelijking 
+   
+  1 AgNO    + NaCl    (cid:1)   1  AgCl   + NaNO  
+3 (opl) (opl)    (v)  3 (opl)
+ 
+ 
+            1 mol AgCl is ontstaan uit 1mol AgNO
+3 
+ 
+            0,0036 mol AgCl is dus ontstaan uit 0,0036 mol AgNO    
+3
+ 
+stap 3 :  
+ 
+We weten nu dat we vertrokken zijn met 0,0036 mol 
+AgNO , en uit de opgave blijkt dat deze hoeveelheid 
+3
+mol zich bevindt in 36 cm3 = 36 ml oplossing         
+ 
+0,0036 mol 0,0036 mol AgNO   
+3
+= 0,1M                                                                    
++ H O 
+0,036l 2
+V  = 0,036 l 
+                       tot
+ 
+ 
+Loodchromaat wordt gebruikt als een pigment in verven. Hoeveel g.l-1 loodchromaat  
+ontstaat er wanneer 200 ml 0,36 M natriumchromaat wordt gemengd met 100 ml 0,25 M 
+lood((cid:3)(cid:3))nitraat? 
+ 
+ 
+Oplossing 
+ 
+Stap 1 : 
+ 
+We schrijven de reactievergelijking en letten erop dat de massabalans klopt. 
+ 
+  Na CrO  + Pb(NO )    (cid:1)PbCrO  + 2 NaNO  
+2 4 (opl)  3 2 (opl)  4 (v)  3 (opl)
+ 
+ Aanvullende voorbeelden bij Hoofdstuk 1  37
+Stap 2 : 
+ 
+ We rekenen uit met hoeveel mol Na CrO  en Pb(NO )  er gestart wordt. 
+2 4 3 2 
+ 
+         Na CrO    :       0,2 l x 0,36 M = 0,072 mol 
+2 4
+         Pb(NO )  :       0,1 l x 0,25 M = 0,025 mol        
+3 2  
+ 
+ 
+Stap 3 :      
+ 
+Vervolgens gaan we na wat het beperkend reagens is, Na CrO  of Pb(NO ) ? 
+2 4 3 2 
+ 
+0,072
+Na CrO = 0,072
+2 4 1
+ 
+0,025
+Pb(NO ) = 0,025
+3 2 1
+ 
+0,025 is het kleinste getal m.a.w. Pb(NO )  is het beperkend reagens 
+3 2 
+ 
+stap 4 :      
+ 
+Stoechiometrische berekening (in mol) : 
+ 
+         Na CrO  + Pb(NO )    (cid:1)  PbCrO  + 2 NaNO  
+2 4 (opl)  3 2 (opl)  4 (v)  3 (opl)
+ 
+voor     0,072                0,025                   -                      - 
+2
+           -0,025              -0,025                 +0,025       +0,025 x   
+1
+na        0,047                0                         0,025          0,050          
+ 
+We bekomen dus 0,025 mol PbCrO   
+4
+ 
+Stap 5 : 
+ 
+Mol omzetten in gram :              PbCrO    :    0,025 mol x 323 g.mol-1 = 8,075 g  
+4  
+ 
+Stap 6 : 
+ 
+8,075 g PbCrO  bevindt zich in 300ml oplossing (200ml Na CrO  en 100ml Pb(NO )  ) 
+4 2 4 3 2
+ 
+8,075 g
+  = 26,9 g.l-1 
+0,3l
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Aanvullende voorbeelden bij Hoofdstuk 1  38
+Hoeveel gram SF  ontstaat er wanneer 5,00 g SCl  reageert met 4,50 g NaF   
+4 (g) 2 (g)  (v)
+volgens onderstaande reactievergelijking?  
+ 
+  3 SCl   + 4 NaF    (cid:1)   SF + S Cl  + 4 NaCl 
+2 (g) (v) 4 (g)   2 2 (g) (v)   
+ 
+Welke druk veroorzaakt dit gas als deze reactie doorgaat in een vat van 10 l en bij een 
+temperatuur van 25 °C? 
+Welk volume neemt S Cl  in als deze reactie zou doorgaan bij 1013 hPa en 30 °C? 
+2 2 (g)
+ 
+Oplossing 
+ 
+Stap 1 : 
+ 
+Een stoechiometrische berekening wordt altijd uitgevoerd in mol :  g   (cid:1)   mol 
+ 
+5,00 g
+SCl = 0,0485 mol
+2 g
+103,00
+mol
+   
+4,50 g
+NaF = 0,1071mol
+g
+42,00
+mol
+   
+stap 2 : 
+ 
+Is SCl of NaF het beperkend reagens? 
+2 
+ 
+0,0485
+SCl   :  = 0,0162   
+2
+3
+ 
+0,1071
+NaF  :   = 0,0267 
+4
+ 
+0,0162 is het kleinste getal dus SCl  is het beperkend reagens 
+2
+ 
+stap 3 : 
+ 
+stoechiometrische berekening (in mol) : 
+ 
+ 
+  3 SCl          +         4 NaF           (cid:1)       SF +         S Cl         +      4 NaCl 
+2 (g) (v) 4 (g)           2 2 (g) (v)   
+ 
+voor  0,0485                       0,1071                        -                           -   
+ 
+4 1 1
+        -0,0485                     -0,0485 x            +0,0485 x        +0,0485 x            
+3 3 3
+ 
+na     0                               0,0424                    0,0162                0,0162 
+      
+ 
+we bekomen 0,0162 mol SF
+4 
+ 
+stap 4 : 
+ Aanvullende voorbeelden bij Hoofdstuk 1  39
+ 
+g
+  0,0162 mol x 108,00    =     1  , 7  9  6    g    S  F                         
+mol 4
+ 
+stap 5 : 
+ 
+we berekenen de druk die SF  zou veroorzaken na reactie in een vat van 10 l en bij een 
+4 (g)
+temperatuur van  25 °C. Om dit probleem op te lossen maken we gebruik van de ideale 
+gaswet 
+ 
+   
+P x V    =    n x R x T 
+ 
+ 
+Let op de eenheden! 
+ 
+  P is de druk die het gas uitoefent (in kPa) 
+  V is het volume  die het gas inneemt (in l) 
+  n is het aantal mol gas  (in mol) 
+  R is de universele gasconstante  ( = 8,314 J.mol-1 K-1) 
+         T is de temperatuur (in K) 
+ 
+In dit geval is  P   =   ? 
+                       V   =   10 l 
+                       n   =    0,0162 mol  
+                       T   =    298 K 
+ 
+n x R xT
+  (cid:1)  P =  
+V
+ 
+0,0162 x 8,314 x 298
+      P = = 4 kPa  
+SF4 10
+ 
+SF  veroorzaakt  bij 25 °C een druk van    4    k  P  a         in een vat van 10 l.      
+4 (g)
+ 
+stap 6 :   
+ 
+Om het volume te bepalen die S Cl  na reactie zou innemen bij 1013 hPa en 30 °C maken 
+2 2 (g)
+we eveneens gebruik van de ideale gaswet 
+ 
+In dit geval is  P   =   101,3 kPa 
+                       V   =   ? 
+                       n   =    0,0162 mol  
+                       T   =    303 K 
+ 
+n x R xT
+                (cid:1)  V =  
+P
+ 
+0,0162 x8,314 x 303
+      V = = 0,4029l  
+S Cl
+2 2 101,3
+ 
+ 
+S Cl  neemt bij 30 °C en 1013 hPa een volume in van     0,4029 l 
+2 2 (g)Aanvullende voorbeelden bij Hoofdstuk 1  40
+Een  monster  KClO   wordt  gemengd  met  een  niet  reactieve  stof  en  wordt  hard 
+3
+verwarmd totdat alle O  is uitgedreven. O  wordt over H O geleid en voor het volume 
+2 2 2
+gas O  wordt een waarde van 0,8 l gevonden bij een temperatuur van 25 °C en een 
+2
+totaaldruk van 1000 hPa. Wat was de massa van KClO  ? De dampdruk van H O bij 25 
+3 2
+°C is 33 hPa. 
+ 
+ 
+oplossing 
+ 
+  2 KClO    (cid:1)   3 O  + 2 KCl 
+3 2
+ 
+Stap 1 : 
+ 
+Om dit probleem op te lossen zullen we weer moeten gebruik maken van de ideale gaswet, 
+maar eerst zullen we de partieeldruk van O  moeten bepalen. 
+2
+ 
+De partieeldruk van O  is de totale gasdruk – de dampdruk van het H O 
+2 2
+   
+  1000 hPa - 33 hPa  =  967 hPa 
+                                         =  96,7 kPa       
+ 
+stap 2 : 
+ 
+We berekenen het aantal mol O  uit de ideale gaswet 
+2
+ 
+P  =  partieeldruk O   =  96,7 kPa 
+2
+V  =  0,8 l 
+n  = ? 
+T  =  298 K 
+ 
+P xV
+                 (cid:1)  n =  
+R xT
+ 
+96,7 x 0,8
+      n = = 0,03mol  
+O2 8,314 x 298
+ 
+stap 3 : 
+ 
+  2 KClO    (cid:1)   3 O  + 2 KCl 
+3 2
+ 
+3 mol O  ontstaat uit 2 mol KClO   
+2 3
+2
+0,03 mol O  ontstaat dan uit 0,03 mol x    =  0,02 mol KClO  
+2 3
+3
+ 
+stap 4 : 
+ 
+a.h.v. de molecuulmassa bekomen we dan het aantal gram KClO
+3 
+ 
+g
+ 0,02 mol KClO  x  122,6    =      2,45 g   KClO
+3  mol 3 
+ 
+ Aanvullende voorbeelden bij Hoofdstuk 1  41
+g
+Vloeibaar pentaan, C H  heeft een densiteit van 0,626    bij 25 °C. Als 0,4 l 
+5 12  ml
+pentaan verbrand wordt in een overmaat O , hoeveel l gasvormig CO  zal er dan 
+2  2
+ontstaan zijn wanneer we het experiment uitvoeren bij 25 °C en 1,1 atm. 
+   
+ 
+Oplossing 
+ 
+Stap 1 : 
+ 
+Schrijf de reactievergelijking en let op de massabalans 
+ 
+  C H  + 8 O   (cid:1)  5 CO  + 6 H O 
+5 12 2 2 2
+ 
+Stap 2 : 
+ 
+We vertrekken van 0,4 l pentaan met een dichtheid van 0,626 g.ml-1  , hieruit kunnen we 
+berekenen met hoeveel g pentaan we starten in de reactie 
+ 
+0,4 l  =  400 ml 
+ 
+400 ml x 0,626 g.ml-1  =  250,4 g C H      (cid:1)       3,5 mol C H
+5 12         5 12 
+ 
+stap 3 : 
+ 
+1 C H  + 8 O   (cid:1)  5 CO  + 6 H O 
+5 12 2 2 2
+ 
+1 mol C H  stelt door reactie met zuurstof 5 mol CO vrij 
+5 12 2 
+3,5 mol C H  stelt dan 17,4 mol CO vrij 
+5 12 2 
+ 
+stap 4 : 
+ 
+m.b.v. de ideale gaswet kunnen we het volume vrijgestelde CO  berekenen 
+2
+ 
+In dit geval is  P   =   111,4 kPa   (cid:1)     1    a  t m       =      1  0  1  , 3    k  P  a            (cid:1)  1,1 atm  =  111,4 kPa        
+                       V   =   ? 
+                       n   =    17,4 mol  
+                       T   =    298 K 
+ 
+n x R xT
+                (cid:1)  V =  
+P
+ 
+17,4 x8,314 x 298
+      V = = 387 l  
+CO2 111,4
+ 
+door reactie zal er bij 25 °C en 1,1 atm  387 l  CO    ontstaan zijn 
+2 
+ 
+ 
+ 
+Als ijzer((cid:3)(cid:3)(cid:3))oxide reageert met koolstofmonoxide, ontstaat er ijzer en koolstofdioxide. 
+Hoeveel g Fe O  is er nodig om 1,2 kg ijzer te vormen? Hoeveel l koolstofmonoxide, 
+2 3
+met als densiteit 1,25 g.l-1 is nodig? Bereken hoeveel liter koolstofdioxide, met als 
+densiteit 1,98 g.l-1 er ontstaat. 
+ Aanvullende voorbeelden bij Hoofdstuk 1  42
+Oplossing 
+ 
+Stap 1 : 
+ 
+Schrijf de reactievergelijking en let op de massabalans 
+ 
+  Fe O  + 3 CO   (cid:1)   2 Fe + 3 CO
+2 3 2 
+ 
+Stap 2 : 
+ 
+g  (cid:1)   mol 
+ 
+1200 g
+1,2 kg  Fe = 1200 g Fe   (cid:1)    = 21,5molFe 
+g
+55,85
+mol
+ 
+stap 3 : 
+ 
+1 Fe O  + 3 CO   (cid:1)   2 Fe + 3 CO
+2 3 2 
+ 
+2 mol Fe ontstaat uit 1 mol Fe O
+2 3 
+21,5 mol Fe ontstaat uit 10,7 mol Fe O  
+2 3
+ 
+                                                                         (cid:2)
+ 
+                                   1708,8 g Fe O  = 1,71 kg 
+     2 3 
+                                           
+Stap 4 : 
+ 
+ Fe O  + 3 CO   (cid:1)   2 Fe + 3 CO
+2 3 2 
+ 
+2 mol Fe ontstaat uit 3 mol CO 
+3
+21,5 mol Fe ontstaat uit 21,5 x    =  32,2 mol CO
+ 
+2
+                                                                      (cid:2) 
+                                                              901,6 g CO    
+ 
+901,6 g
+  = 721,28l CO                                                                                                      
+g
+1,25
+l
+          
+stap 5 : 
+ 
+Fe O  +  CO   (cid:1)   2 Fe + 3 CO
+2 3 2 
+ 
+Uit de reactievergelijking zien we dat er 2 mol Fe en 3 mol CO ontstaan. 
+2 
+3
+Als de reactie doorgaat, ontstaat er  dus 21,5 mol Fe en 21,5 x   = 32,2 mol CO
+2 
+2
+                                                                                                                     (cid:2) 
+ 
+                                                                                                            1416,8 g CO     
+2
+1416,8 g
+  = 715,56l CO                                         
+g 2
+1,98
+lAanvullende voorbeelden bij Hoofdstuk 1  43
+Ca(OH)  is een belangrijke industriële verbinding. De eerste stap om Ca(OH)  te maken 
+2 2
+is het roosten van CaCO  dat een endotherm proces is.  
+3
+ 
+  CaCO    (cid:1)   CaO  + CO                     (cid:4)H = 176 kJ 
+3 (v)  (v) 2 (g)
+ 
+Hoeveel energie kost het om 922 g CaCO  te ontbinden volgens deze methode?          
+3
+ 
+ 
+oplossing           
+ 
+g CaCO    (cid:1)   mol CaCO    (cid:1)   energie 
+3 3
+ 
+ 
+922 g
+= 9,22 mol CaCO  
+g 3
+100
+mol
+ 
+ 
+1 CaCO    (cid:1)   CaO  + CO                     (cid:4)H = 176 kJ 
+3 (v)  (v) 2 (g)
+ 
+1 mol CaCO     (cid:1)   (cid:4)H = 176 kJ  (cid:3)H is recht evenredig met de 
+3 (v)
+  hoeveelheid stof die weg 
+9,22 mol CaCO      (cid:1)  (cid:3)H = 1622,72 kJ  reageert bij een reactie 
+3 (v)
+                                         
+ 
+ 
+Gegeven : 
+ 
+a)  2 NH  + 3 N O    (cid:1)   4 N    + 3 H O                      (cid:4)H = -1010 kJ 
+3 (g) 2  (g) 2 (g) 2  (vl)
+b)  4 NH  + 3 O       (cid:1)   2 N    + 6 H O                      (cid:4)H = -1531 kJ 
+3 (g) 2 (g) 2 (g) 2  (vl)
+ 
+ 
+Bereken (cid:4)H voor de reactie 
+   
+1
+  N  +   O     (cid:1)   N O
+2 (g) 2 (g)  2 (g) 
+2
+ 
+ 
+Oplossing 
+ 
+      a) 
+Als we de reactie met 2 vermenigvuldigen, dan verdubbelt de waarde van 
+ 
+(cid:3)H 
+ 
+            2 ( 2 NH  + 3 N O    (cid:1)   4 N    + 3 H O )                (cid:3)H = 2 x -1010 kJ 
+3 (g) 2  (g) 2 (g) 2  (vl) 
+                 4 NH  + 6 N O    (cid:1)   8 N    + 6 H O                  (cid:3)H = -2020 kJ 
+3 (g) 2  (g) 2 (g) 2  (vl) 
+ 
+Het omgekeerd schrijven van een reactie verandert het teken, maar niet de 
+      a’)    
+waarde van (cid:3)H.  
+   
+ 
+ 
+                 8 N    + 6 H O     (cid:1)   4 NH  + 6 N O                      (cid:3)H = +2020 kJ 
+2 (g) 2  (vl)  3 (g) 2  (g)
+  
+ 
+ Aanvullende voorbeelden bij Hoofdstuk 1  44
+ 
+ 
+Wet van Hess : Als een reactie kan beschouwd worden als de algebraïsche som van 2 
+ 
+of meer reacties, wordt (cid:3)H van de totale reactie bekomen door de algebraïsche som te 
+ 
+maken van de (cid:3)H waarden van de samenstellende reacties. 
+ 
+      
+  6 
+             a’) 8 N     + 6 H O     (cid:1)   4 NH  + 6 N O                      (cid:3)H = +2020 kJ 
+2 (g) 2  (vl)  3 (g) 2  (g)
+  
+             b) 4 NH  + 3 O        (cid:1)   2 N       +  6 H O                    (cid:3)H = -1531 kJ 
+3 (g) 2 (g) 2 (g) 2  (vl)
+ 
+    
+a’) + b) :       6 N  + 3 O       (cid:1)    6 N O                                       (cid:3)H = 489 kJ 
+2 (g) 2 (g) 2  (g)
+ 
+             of 
+           
+  Als we de voorgetallen van de reactie door 6 delen dan moet  de (cid:3)H waarde 
+             ook door 6 gedeeld worden. 
+     
+1
+                       N  +   O      (cid:1)    N O                                           (cid:3)H = 81,5 kJ 
+2 (g) 2 (g) 2  (g)
+2
+                                       
+             
+19,6 g van een metaal wordt opgewarmd tot 61,67 °C. Wanneer het metaal in een 
+calorimeter aan 26,7 g water toegevoegd wordt, zal de temperatuur van het water 
+stijgen van 25,00 °C naar 30,00 °C. Geef de soortelijke warmte van het metaal.  
+   
+ 
+Oplossing 
+ 
+metaal :  m  = 19,6 g 
+met
+                        T = 61,67 °C   (cid:1)   30,00 °C 
+                        s.w.  =  ? 
+met
+ 
+water:              m =  26,7 g 
+                         T = 25,00°C   (cid:1)   30,00 °C 
+J
+                         s.w.  =  4,18   
+water g (cid:176)C
+         
+     
+    q = s.w. x m x (cid:3)T 
+ 
+  q  = s.w.  x m  x (cid:3)T 
+met met met
+                = s.w.  x 19,6 g x ( 30,00 – 61,67 ) °C 
+met
+                = s.w.  x ( -620,73 ) g °C 
+met
+ 
+ 
+  q  = s.w.  x m  x (cid:3)T 
+water water water
+                  = 4,18  J  x 26,7 g x ( 30,00 – 25,00 ) °C 
+g (cid:176)C
+                 = 558,03 J 
+ 
+ 
+   
+- q  = q
+met water Aanvullende voorbeelden bij Hoofdstuk 1  45
+ 
+  s.w.   g °C x ( -620,73 ) = 558,03 J 
+met
+558,03 J
+                         s . w   .m  e t        =   
+620,73 g (cid:176)C
+                                                                                          
+J
+                                            =  0,899   
+g (cid:176)C
+ 
+ 
+ 
+ 
+De verbranding van N H  gebeurt in een bomcalorimeter met een overmaat O . 
+2 4 (g) 2 (g)
+Reactie :  
+  N H  + O    (cid:1)   N  + 2 H O  
+2 4 (g) 2 (g) 2 (g) 2  (vl)
+ 
+Als 2,50 g N H  verbrand wordt in een bomcalorimeter, gevuld met 3,00 kg H O, dan 
+2 4 (g) 2
+stijgt de temperatuur van 24,62 °C tot 28,16 °C. De warmtecapaciteit van de bom is 
+2100 J  . Bereken (cid:4)E en (cid:4)H voor bovenstaande reactie.  
+(cid:176)C
+ 
+Oplossing 
+ 
+Bomcalorimeter : V = constante 
+ 
+De warmte die vrijkomt bij de reactie wordt opgenomen door de bomcalorimeter: 
+ 
+    - q   = q 
+v reactie bomcalorimeter 
+       q   = - q
+v reactie  bomcalorimeter 
+                 = - ( C x (cid:3)T + s.w.  x m  x (cid:3)T ) 
+bomcal.  water water
+ 
+ 
+                        = - ( C  + s.w.  x m  ) x (cid:3)T 
+bomcal. water water
+                        = - (2100 J  + 4,18  J  x 3000 g ) x ( 28,16 – 24,62 ) °C 
+(cid:176)C g (cid:176)C
+                      = - 51825,6 J 
+ 
+Bij de verbranding van 2,5 g N O  komt  - 51825,6 J  aan warmte vrij, we berekenen nu 
+2 4 (g)
+hoeveel warmte er vrijkomt bij de verbranding van 1 mol N O . 
+2 4 (g)
+ 
+- 51825,6 J      (cid:1)   2,5 g N O
+2 4 (g) 
+g
+-663367,68 J  (cid:4)    32 g  N O  = 1 mol  ( MM = 32   ) 
+2 4 (g) mol
+ 
+J
+dus - 663367,68   
+mol
+kJ
+    = - 663,4   
+mol
+ 
+   
+q  = (cid:3)E
+ v reactie reactie 
+  
+ 
+ 
+kJ
+  - 663,4   = (cid:3)E
+mol reactie 
+          
+ Aanvullende voorbeelden bij Hoofdstuk 1  46
+ 
+(cid:3)E = (cid:3)H – R x T x (cid:3)n  
+  g
+ 
+                     (cid:2) 
+kJ
+               (cid:3)H = (cid:3)E + R x T x (cid:3)n              met (cid:3)E = - 663,4   
+g mol
+(cid:6)24,62 + 28,16(cid:3)
+                                                                         T  = 26,39 °C =(cid:4) (cid:1)°C = 299,39 K 
+(cid:5) 2 (cid:2)
+                                                                       (cid:3)n  =  - 1 (= 1 - 1 -1 ) 
+g
+                                                                               (cid:2) 
+                                                                           zie reactievergelijking : 
+ 
+                                                                          1 N O  + 1 O    (cid:1)  1 N  + 2 H O   
+2 4 (g) 2 (g) 2 (g) 2  (vl)
+ 
+          
+J J
+                       = -663367,68    + ( 8,314   x 299,39 K x (-1) ) 
+mol K mol
+J
+              = -665856,8      
+mol
+ 
+  kJ
+(cid:3)H = -665,9   
+  mol
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+De volgende pagina’s bevatten een reeks opgaven i.v.m. stoechiometrie en de 
+thermochemische aspecten ervan. 

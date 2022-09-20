@@ -1,0 +1,498 @@
+Basisbegrippen Taalkunde
+Morfologie en syntaxis
+HansSmessaert,JeroenvanCraenenbroeckenGuidoVandenWyngaerdHoofdstuk 1
+De structuur van woorden en
+zinnen
+Hetfeitdatwemorfologieensyntaxissamenbrengeninéénhandboeksuggereertdatzeken-
+merkengemeenschappelijkhebben.Dithoofdstukbehandeltdiegemeenschappelijkepunten.
+Weintroducerenbegrippenenprincipesdiedetweedelingmorfologie/syntaxisoverstijgenen
+diedanook zowelin hetdeel overwoordontleding (deelII)als inhet deelover zinsontleding
+(deelIII)eenrolzullenspelen. Deconceptendietersprakekomenzijnhiërarchischestructuur
+(§1.1),hoofdigheid(§1.2),hetprincipevancompositionaliteit(§1.3),hetnauwverwantebegrip
+vanstructureleambiguïteit(§1.4),enhetonderlinggerelateerdepaarvalentieensubcatego-
+risatie(§1.5).
+1.1 Lineariteit versus hiërarchie
+Demanierwaaropwetaalproducerenenwaarnemenisinhogematelineair. Wanneerjebij-
+voorbeeld een zin op een blad papier schrijft, dan plaats je de woorden van links naar rechts
+op een lijn – of van rechts naar links, als je bijvoorbeeld Arabisch schrijft – en wanneer je die
+zinleest,danmaakjedezelfdelineairebewegingmetjeogen. Hetzelfdegeldtvoorgesproken
+taal, zijhetdathetdezekeernietomeenruimtelijkelijngaat, maaromeenchronologische:
+jespreekteerstheteerstewoorduit,vervolgenshettweede,enzovoort,endetoehoordervan
+zijnkant,dieluistertnaardiewoordeninpreciesdezelfdechronologischevolgorde.Zelfsgeba-
+rentaal,waarerinprincipemeermogelijkhedenzijnomgelijktijdig(endusnietlangerlineair)
+verschillendewoordenuittebeelden,bevateenhogematevanlineariteit. Opheteerstege-
+zicht lijkt het hier dus om een fundamentele eigenschap van taal te gaan. Laten we dat wat
+concretermakenaandehandvaneenvoorbeeld.
+(1) Demanzieteenkat.
+Dezezinbestaatuitvijfwoorden. AlsdesyntaxisvanhetNederlandslineairzouwerken,dan
+ontstaat deze zin door het een-na-een naast elkaar plaatsen van die vijf woorden. Je kan dit
+56 B(cid:262)(cid:280)(cid:270)(cid:280)(cid:263)(cid:266)(cid:268)(cid:279)(cid:270)(cid:277)(cid:277)(cid:266)(cid:275)T(cid:262)(cid:262)(cid:273)(cid:272)(cid:282)(cid:275)(cid:265)(cid:266): M(cid:276)(cid:279)(cid:267)(cid:276)(cid:273)(cid:276)(cid:268)(cid:270)(cid:266)(cid:266)(cid:275)(cid:280)(cid:286)(cid:275)(cid:281)(cid:262)(cid:285)(cid:270)(cid:280)
+procesvergelijkenmethetmakenvaneenkralenketting: jeneemteentouwtje,enjerijgtdaar
+kralen (woorden) aan tot je een ketting (zin) hebt. Je voelt echter hopelijk intuïtief aan dat
+dezemaniervanredenerennietgeheelrechtdoetaandezinin(1). Devijfwoordenindezin
+Demanzieteenkatstaannietallemaalindezelfderelatietotelkaar. Zoisderelatietussende
+enman‘hechter’dandietussenmanenziet: dewoordendemanvormeneenaparteeenheid
+binnen de zin (en hetzelfde geldt voor een kat). Dit lijkt een vrij triviale observatie, maar ze
+heeftverreikendeconsequenties: hetlaatnamelijkziendatdemanierwaaropeenzinwordt
+opgebouwdinhetNederlands–desyntaxis–nietlineair,maar(cid:269)(cid:270)(cid:311)(cid:279)(cid:262)(cid:279)(cid:264)(cid:269)(cid:270)(cid:280)(cid:264)(cid:269)is. Datbetekent
+datwoordennietzondermeervanlinksnaarrechtsnaastelkaarwordengeplaatst,maardatze
+inkleinegroepjeswordensamengenomen,dieophunbeurtweerdeeluitmakenvangrotere
+groepjes,enzovoort. Diegroepjesnoemenwewoordgroepen(ziehoofdstuk10). Eenhiërar-
+chischestructuurwordtvaakweergegevendoormiddelvaneenzogenaamdeboomstructuur.
+Eenvoorbeelddaarvanwordtgegevenin(2).
+(2)
+De man ziet
+een kat
+Deze representatie laat duidelijk zien dat er meer structuur zit in de zin in (1) dan je met het
+blote oog kan zien. De woorden de en man en een en kat worden eerst samengenomen tot
+dewoordgroependemaneneenkat. Vervolgenswordteenkatgecombineerdmethetwerk-
+woordzietomdegroterewoordgroepzieteenkattevormen,enalslaatstewordtzieteenkat
+samengenomenmetdemanomzouittekomenbijdezinDemanzieteenkat.
+Jekanjeafvragenwaaromhetwerkwoordeerstwordtsamengenomenmeteenkatenpas
+daarna met de man. Dat vormt het onderwerp van een meer gevorderde cursus taalkunde,
+maarerzijngoederedenenomaantenemendatdestructurelerelatievaneenwerkwoordmet
+zijnlijdendvoorwerp(inditgevaleenkat)hechterisdandiemetzijnonderwerp(deman). Om
+jealvasteenideetegeven: devoorbeeldenin(3)latenziendatdecombinatievanwerkwoord
+en lijdend voorwerp vervangen kan worden door een voornaamwoord, maar de combinatie
+werkwoord en onderwerp niet. Dat suggereert dat het werkwoord en het lijdend voorwerp
+samenweleenwoordgroepvormen,maarhetonderwerpenhetwerkwoordniet. (Zieookde
+besprekingvandeverbaleconstituentofVPin§10.2.)
+(3) a. Demanzieteenkatendevrouwdoetdatook. (dat=ziet+eenkat)
+̸
+b. *Demanzieteenkatendatdoetookeenhond. (dat=deman+ziet)
+Bemerkdatwebijhetlaatstevoorbeelddetypischtaalkundigeconventiehanterenvande(cid:262)(cid:280)-
+(cid:281)(cid:266)(cid:279)(cid:270)(cid:280)(cid:272) of het sterretje *. Als we zo’n asterisk vóór een woordvorm of een zin plaatsen, dan
+willenwedaarmeeaangevendatdebetreﬀendevorm(cid:276)(cid:275)(cid:268)(cid:279)(cid:262)(cid:274)(cid:274)(cid:262)(cid:281)(cid:270)(cid:264)(cid:262)(cid:262)(cid:273)is,m.a.w. despelre-
+gelsvandeNederlandsegrammaticanietrespecteert.
+De structuur in (2) illustreert ook mooi dat het opbouwen van hiërarchische structuur re-
+cursiefgebeurt. R(cid:266)(cid:264)(cid:282)(cid:279)(cid:280)(cid:270)(cid:283)(cid:270)(cid:281)(cid:266)(cid:270)(cid:281)iseenbegripdatinzijnmeestalgemenevormverwijstnaardeD(cid:266)(cid:280)(cid:281)(cid:279)(cid:282)(cid:264)(cid:281)(cid:282)(cid:282)(cid:279)(cid:283)(cid:262)(cid:275)(cid:284)(cid:276)(cid:276)(cid:279)(cid:265)(cid:266)(cid:275)(cid:266)(cid:275)(cid:287)(cid:270)(cid:275)(cid:275)(cid:266)(cid:275) 7
+situatiewaarbijdeuitkomstvaneenbepaaldprocesopnieuwalsinputvoordatzelfdeproces
+kan worden gebruikt. Toegepast op het voorbeeld in (1)/(2): de syntaxis bevat een regel die
+tweeelementen(woordenofwoordgroepen)kansamenvoegentoteenwoordgroep;deout-
+putvandieregel(dewoordgroep)kanopbasisvandiezelfderegelgecombineerdwordenmet
+een woord (of woordgroep) om een nog grotere woordgroep te maken; die grotere woord-
+groepkanookweeralsinputvoorderegelwordengebruikt,enzoverderadinﬁnitum.
+DeobservatiedathetNederlands–enbijuitbreiding: allenatuurlijketalen–hiërarchisch
+opgebouwdis,vormteenvandemeestfundamentelebevindingenvandetaalkunde. Zeover-
+stijgtdanookdesyntaxis,eniseveneensvantoepassingopanderesubdisciplinesvandetaal-
+kunde. Zozijnnietalleenzinnen,maarookwoordenhiërarchischopgebouwd. Neembijvoor-
+beeldeenwoordalsbadhanddoek. Daarwaardesyntaxistotdoelheeftomzinnenteontleden
+in kleinere delen (woorden), ontleedt de morfologie die woorden dan weer in kleinere delen
+(diewemorfemennoemen,ziehoofdstuk3). Inhetgevalvanbadhanddoekishetduidelijkdat
+dit woord uit drie onderdelen bestaat: bad, hand, en doek. En net als bij de zin in (2) voel je
+ookhieraandatdezedriedelennietopeenvlakke,lineairemaniermetelkaargecombineerd
+worden. Een badhanddoek is immers een handdoek die je na je bad gebruikt. Met andere
+woorden, de morfemen hand en doek worden eerst samengenomen tot de grotere eenheid
+handdoek,enpasdaarnawordthetderdemorfeembaderaantoegevoegd. Ookhierkunnen
+wedezeontledingweergevenaandehandvaneenboomstructuur:
+(4)
+bad
+hand doek
+Kortom, zowel zinnen (syntaxis) als woorden (morfologie) zijn hiërarchisch opgebouwd, ook
+alzijnallevormenvantaaldieweinhetdagelijkseleventegenkomenbijhetschrijven,lezen,
+spreken,enluisterenlineairendusniet-hiërarchischvanaard.
+Vooraleerweovergaantothetgerelateerdeconceptvanhoofdigheid,loonthetdemoeite
+evenaantestippendatookdemanierwaaropwespraakklankencombineren(hetterreinvan
+defonologie, meerspeciﬁekdefonotaxis)hiërarchischverloopt. Zozoujeaanvankelijkkun-
+nendenkendateenwoordalskrantontstaatdoorhetalskralenaaneenkettingnaastelkaar
+plaatsenvanvijfklanken: dek-klankwordtgevolgddoorder-klank,dieopzijnbeurtweerge-
+volgdwordtdoordea-klank,enz. Ookhierzitechtermeer(abstracte)structuurin. Eenk-klank
+kanbijvoorbeeldgevolgdwordendooreenr-klankaanhetbeginvaneenwoord(zoalsinkrant),
+maarnooitaanheteinde:eenvormals*takrisnietalleengeenbestaandwoordvanhetNeder-
+lands,hetisookeenonmogelijkwoord,d.w.z. geenenkelNederlandswoordkanerzouitzien.
+Dat betekent dat de klanken aan het begin van een woord – of preciezer, aan het begin van
+eensyllabeoflettergreep–eenapartsubgroepjevormentenopzichtevandeklankenaanhet
+einde. Eensyllabebestaatmetanderewoordenuittweedelen,diewedeaanzetenhetrijm
+noemen.8 B(cid:262)(cid:280)(cid:270)(cid:280)(cid:263)(cid:266)(cid:268)(cid:279)(cid:270)(cid:277)(cid:277)(cid:266)(cid:275)T(cid:262)(cid:262)(cid:273)(cid:272)(cid:282)(cid:275)(cid:265)(cid:266): M(cid:276)(cid:279)(cid:267)(cid:276)(cid:273)(cid:276)(cid:268)(cid:270)(cid:266)(cid:266)(cid:275)(cid:280)(cid:286)(cid:275)(cid:281)(cid:262)(cid:285)(cid:270)(cid:280)
+(5) syllabe
+aanzet rijm
+kr a nt
+Aangezien dit geen handboek fonologie is, gaan we hier nu niet verder op in, maar het illu-
+streert wel mooi waarom we de aanwezigheid van hiërarchische structuur een van de meest
+fundamentele eigenschappen van natuurlijke taal noemen: je vindt die structuur immers op
+alleniveausterug.
+1.2 Hoofdigheid
+Zowelwoordenalsmorfemenwordendusingroepjessamengenomentotgroteregroepenom
+zo uiteindelijk een hele hiërarchische structuur op te bouwen. In deze sectie wordt duidelijk
+datnietalleledenvandiegroepjesevenwaardigzijn. Datkunnenweillustrerendoornaarde
+voorbeeldenin(6)tekijken.
+(6) a. [Ergoudemannenmetbaarden]zingeneenlied.
+b. melkchocolade
+Hettussenvierkantehakengeplaatstedeelvanvoorbeeld(6a)vormteenwoordgroepdiebe-
+staatuitvijfwoorden. Hetisechterduidelijkdatnietaldiewoordenevenbelangrijkzijn. De
+kernbetekenisvanergoudemannenmetbaardenzitimmersvervatinhetnomenmannen: dat
+iswaarhetindiewoordgroepomgaat. Zoweldewoordgroepergoudealsdewoordgroepmet
+baardengevenoptionele,extrainformatieoverdatnomen. Bovendienkanjedehelewoord-
+groepookvervangendoorhetnomenmannen,zonderdatdaarbijdebetekenisingrijpendver-
+andert:
+(7) Mannenzingeneenlied.
+Destatusvanmannenbinnendewoordgroepergoudemannenmetbaardenisdusandersdan
+dievandeoverigewoorden. Aangezienditwoorddekernbetekenisvandehelewoordgroep
+draagtendieookkanvervangen,noemenwemannenhierde(cid:272)(cid:266)(cid:279)(cid:275)ofhet(cid:269)(cid:276)(cid:276)(cid:267)(cid:265)vandewoord-
+groep. Deoverigeelementenzijndan(cid:263)(cid:266)(cid:277)(cid:262)(cid:273)(cid:270)(cid:275)(cid:268)(cid:266)(cid:275). Zovormtergoudeeen(cid:283)(cid:276)(cid:276)(cid:279)(cid:263)(cid:266)(cid:277)(cid:262)(cid:273)(cid:270)(cid:275)(cid:268)bij
+de kern mannen, en met baarden een (cid:275)(cid:262)(cid:263)(cid:266)(cid:277)(cid:262)(cid:273)(cid:270)(cid:275)(cid:268). Het hoofd bepaalt de eigenschappen van
+de hele woordgroep. Mannen is bijvoorbeeld een nomen (zie hoofdstuk 2), en dus noemen
+wede woordgroepergoude mannen metbaarden eennominale constituent. Merk op dat de
+termen‘woordgroep’en‘constituent’minofmeerhetzelfdebetekenen,maardatwezeindit
+handboeknietalsinwisselbaarbeschouwen. Wegebruiken‘woordgroep’alseenneutralebe-
+schrijvingvooreengroepjewoordendateeneenheidvormt,enreserverendeterm‘constitu-
+ent’voorsituatieswaarbijweeenwoordgroepbeschrijvenintermenvanzijnvorm,d.w.z. de
+woordsoortvanhethoofdvandewoordgroep(zieook§10.2voorverderebespreking).D(cid:266)(cid:280)(cid:281)(cid:279)(cid:282)(cid:264)(cid:281)(cid:282)(cid:282)(cid:279)(cid:283)(cid:262)(cid:275)(cid:284)(cid:276)(cid:276)(cid:279)(cid:265)(cid:266)(cid:275)(cid:266)(cid:275)(cid:287)(cid:270)(cid:275)(cid:275)(cid:266)(cid:275) 9
+Omnaareennominaleconstituentteverwijzen,gebruikenweinwatvolgtdetermNP,als
+a(cid:424)ortingvoordeinternationaalgangbaretermNounPhrase. MerkopdatdeNPin(7)meer-
+voudigis(watjekanaﬂeidenuitdemeervoudigecongruentieophetwerkwoordzingen),endat
+dithetgevolgisvanhetfeitdatzijnhoofdookmeervoudigis. Dezerelatietusseneenwoord-
+groepenzijnhoofdgaatverderdanenkelNP’s.Zoisdevoorbepalingergoudeopzijnbeurtook
+eenwoordgroep–herinnerjedathiërarchischestructuurrecursiefis. Hethoofdisinditgeval
+hetadjectiefoude,enhetbijwoordergvormtdaareenvoorbepalingbij. Hetgaathierdusom
+eenadjectivaleconstituentofAP(AdjectivePhrase). Meerinhetalgemeenstellenwehetprin-
+cipevande(cid:269)(cid:276)(cid:276)(cid:267)(cid:265)(cid:270)(cid:268)(cid:269)(cid:266)(cid:270)(cid:265)ofde(cid:266)(cid:275)(cid:265)(cid:276)(cid:264)(cid:266)(cid:275)(cid:281)(cid:279)(cid:270)(cid:264)(cid:270)(cid:281)(cid:266)(cid:270)(cid:281)vooromderelatietusseneenwoordgroepen
+zijnhoofdtedeﬁniëren.
+(8) Hetprincipevande(cid:266)(cid:275)(cid:265)(cid:276)(cid:264)(cid:266)(cid:275)(cid:281)(cid:279)(cid:270)(cid:264)(cid:270)(cid:281)(cid:266)(cid:270)(cid:281)
+a. Elke woordgroep heeft een hoofd dat de eigenschappen van die woordgroep be-
+paalt.
+b. Elkwoordishethoofdvaneenwoordgroepwaarvanhetdeeigenschappenbepaalt.
+Ditprincipeheeftverstrekkendegevolgen. Hetbetekentbijvoorbeelddatdevoorbepalingerg
+indeAPergoudeopzijnbeurtookeenwoordgroepvormt. Hetgaatdanomeenadverbiale
+constituent(AdvP),metalshoofdhetbijwoorderg(zonderverderevoor-ofnabepalingen).Eén
+woordkanmetanderewoordenookeen(triviale)woordgroepvormen.
+(9) AP
+AdvP A
+Adv
+erg oude
+Zelfsschijnbaarbetekenislozewoordenzoalsdeprepositiemetin(6a)ofdelidwoordendeen
+eenin(1)moetenvolgensdetweedeclausulevanhetprincipevandeendocentriciteithethoofd
+vormenvanhuneigenwoordgroepwaarvanzeookdeeigenschappenbepalen. In§10.2.2zul-
+lenweinderdaadziendaterookvoorzetselconstituenten(PP’s)bestaan.
+(10) PP
+P NP
+N
+met baarden
+Ookvanlidwoordenenaanwijzendevoornaamwoordenisbeweerddatzedehoofdenzijnvan
+eenconstituent–deDPofDeterminerPhrase–maardieconstituentzullenwebinnenhetbe-10 B(cid:262)(cid:280)(cid:270)(cid:280)(cid:263)(cid:266)(cid:268)(cid:279)(cid:270)(cid:277)(cid:277)(cid:266)(cid:275)T(cid:262)(cid:262)(cid:273)(cid:272)(cid:282)(cid:275)(cid:265)(cid:266): M(cid:276)(cid:279)(cid:267)(cid:276)(cid:273)(cid:276)(cid:268)(cid:270)(cid:266)(cid:266)(cid:275)(cid:280)(cid:286)(cid:275)(cid:281)(cid:262)(cid:285)(cid:270)(cid:280)
+stekvanditboeknietverderbespreken.
+Deinternestuurvandewoordgroepergoudemannenmetbaardenkunnenwenualsvolgt
+weergeven:
+(11) NP
+AP N PP
+AdvP A P NP
+Adv N
+erg oude mannen met baarden
+Totdusverhebbenwehetconcept‘hoofdigheid’enkelbekekenvanuitsyntactischoogpunt.
+Hetvoorbeeldin(6b)maaktechterduidelijkdathoofdigheidookvantoepassingisopdemor-
+fologie. Hetwoordmelkchocoladebestaatuittweeonderdelen: melk enchocolade. Netzoals
+hetgevalwasindeNPergoudemannenmetbaardenisdestatusvandietweeonderdelenniet
+gelijk: melkchocoladeisimmerseensoortvanchocolade,ennieteensoortvanmelk. Hetmor-
+feemchocoladebepaaltmetanderewoordendebetekenisvanhetgeheel. Hetmorfeemcho-
+coladevormthethoofdvanhetmorfologischcomplexewoordmelkchocolade,enhetmorfeem
+melkisdaareenbepalingbij.
+Zowelopsyntactischalsopmorfologischniveaukunnenwedussprekenvanhoofden. De
+plaatswaardathoofdzichbevindtinhetgroteregeheelkanechtervariëren. Ineenmorfolo-
+gischcomplexwoordvindenwehethoofddoorgaansaanderechterkant. Datkanjegemak-
+kelijklatenziendoorhetwoordsteedslangertemakenennategaanwelkeinvloeddatheeft
+opdebetekenis. Zoiseenhanddoek eensoortvandoek, eenhanddoekenverkoper eensoort
+vanverkoper,eenhanddoekenverkopersbijeenkomsteensoortvanbijeenkomst,enz.,maarals
+wehetwoorduitbreidenaandelinkerkant,blijftdebasisbetekenisbehouden: eenhanddoek,
+badhanddoek,gastenbadhanddoek,enz.zijnallemaalsoortenvandoeken.Degeneralisatiedat
+eenmorfologischhoofdtypischaanderechterkantzit, noemenwedeR(cid:266)(cid:264)(cid:269)(cid:281)(cid:266)(cid:279)(cid:269)(cid:262)(cid:275)(cid:265)(cid:269)(cid:276)(cid:276)(cid:267)(cid:265)-
+(cid:279)(cid:266)(cid:268)(cid:266)(cid:273)(RHHR).Wekunnendezeregelabstractalsvolgtweergeven:
+(12) a. [ [ α][ β]]
+Y X Y
+b. Y
+X Y
+α β
+Hierzijn αen βtwee morfemen, bijvoorbeeld demorfemenmelk enchocoladeinhet morfo-
+logisch complexe woord melkchocolade. X en Y zijn eigenschappen van die twee morfemen.
+De RHHR zegt dan het volgende: als een morfeem α met eigenschap X combineert met een
+morfeemβmeteigenschapY,danheeftderesulterendecombinatieαβdezelfdeeigenschapD(cid:266)(cid:280)(cid:281)(cid:279)(cid:282)(cid:264)(cid:281)(cid:282)(cid:282)(cid:279)(cid:283)(cid:262)(cid:275)(cid:284)(cid:276)(cid:276)(cid:279)(cid:265)(cid:266)(cid:275)(cid:266)(cid:275)(cid:287)(cid:270)(cid:275)(cid:275)(cid:266)(cid:275) 11
+Y als het rechterlid β. Die algemene eigenschappen X en Y kunnen we op drie verschillende
+manierenconcreetinvullen.
+EeneerstetoepassingvandeRHHRheeftbetrekkingopde(cid:284)(cid:276)(cid:276)(cid:279)(cid:265)(cid:280)(cid:276)(cid:276)(cid:279)(cid:281)oflexicalecate-
+gorie(ziehoofdstuk2). XenYin(12)staandanvoordeverschillendelexicalecategorieënzoals
+nomen(N),adjectief(A)ofverbum(V).DeRHHRzegtinzoeengeval: alseenmorfeemαvan
+categorieXcombineertmeteenmorfeemβvancategorieY,danisderesulterendecombina-
+tieαβvandecategorieY.Metanderewoorden,hetrechterlidbepaaltdewoordsoortvanhet
+geheel:
+(13) a. [[kook] [pot] ]
+V N N
+b. [[groot] [vader] ]
+A N N
+Inkookpotheefthetα-morfeem,nl. kook,decategorieVenhetβ-morfeem,nl. pot,decate-
+gorieN.Deαβ-combinatiekookpotheeftduscategorieN.Ingrootvader levertdecombinatie
+vanA+NeencategorieNopvoorhetgeheel.
+Alsdemorfemenαenβvandezelfdecategoriezijn(m.a.w. alsX=Y),danziejehetverschil
+nietdirect. Bijhuisdeur,bijvoorbeeld,iszowelhuisalsdeur vandecategorieN.Hetisdanook
+nietduidelijkofdevormhuisdeur diecategorieoverneemtvanhetlinker-ofvanhetrechter-
+lid. Semantischiserechtergeentwijfel: eenhuisdeur iseensoortdeur ennieteensoorthuis.
+Ook de keuzevan het lidwoord verraadt dat het rechterlid het hoofd is (het huis, dedeur, de
+huisdeur).
+MetdielaatstevaststellingzijnwebelandbijnogeenandereeigenschapvanXenY,nl. het
+(cid:268)(cid:266)(cid:275)(cid:282)(cid:280)vandebetrokkenmorfemen,d.i. hetonderscheidtussende-woordenenhet-woorden.
+Als een morfeem α met genus X combineert met een morfeem β met genus Y, dan heeft de
+resulterendecombinatieαβgenusY.Andersgezegd: hetgenusvanhetrechterlidbepaalthet
+genusvanhetgeheel. HeteﬀectvandeRHHRishetduidelijkstwanneerdemorfemenαenβ
+(meteenverschillendgenus)zowelindecombinatieαβalsindecombinatieβαkunnenvoor-
+komen:
+(14) a. [[zak] [geld] ]
+de het het
+b. [[geld] [zak] ]
+het de de
+Structureelkunnenweditalsvolgtweergeven:
+(15) a. N b. N
+het de
+N N N N
+de het het de
+zak geld geld zak
+Als het β-gedeelte twee genera heeft met een verschillende betekenis, dan weerspiegelt de
+combinatieαβdatzelfdeonderscheid:
+(16) a. [[strand] [bal] ]
+het de de
+b. [[opening] [bal] ]
+de het het12 B(cid:262)(cid:280)(cid:270)(cid:280)(cid:263)(cid:266)(cid:268)(cid:279)(cid:270)(cid:277)(cid:277)(cid:266)(cid:275)T(cid:262)(cid:262)(cid:273)(cid:272)(cid:282)(cid:275)(cid:265)(cid:266): M(cid:276)(cid:279)(cid:267)(cid:276)(cid:273)(cid:276)(cid:268)(cid:270)(cid:266)(cid:266)(cid:275)(cid:280)(cid:286)(cid:275)(cid:281)(cid:262)(cid:285)(cid:270)(cid:280)
+Destrandbaliseenvoorwerpomdatdebaldatookis,terwijlhetopeningsbaleengebeurtenis
+isomdathetbaldatookis.
+EenderdemanieromdeX-enY-eigenschappenuitdeRHHR-formuleconcreetintevullen
+betreft morfologische kenmerken zoals de vorming van het (cid:274)(cid:266)(cid:266)(cid:279)(cid:283)(cid:276)(cid:282)(cid:265). Als het β-morfeem
+zoweleenmeervoudop-salsop-enheeftmeteenverschillendebetekenis,danweerspiegelt
+decombinatieαβdatzelfdeonderscheid:
+(17) a. [[nacht] [portier] ]
+en s s
+b. [[auto] [portier] ]
+s en en
+Nachtportierszijnpersonenomdatportiersdatookzijn,terwijlautoportierendeurenzijnomdat
+portierendatookzijn. Alshetβ-morfeem,tenslotte,eenspecialevormheeftinhetmeervoud,
+danerftdecombinatieαβdieafwijking(bv. kinderenenstraatkinderen).
+HetmogeduidelijkzijndatdeRHHReencentralerolspeeltindemorfologie. Degenerali-
+satiedathethoofdaanderechterkantstaatzaldanookeenleidendprincipevormenvoorde
+hoofdstukkenvandeelII.Indesyntaxisisdepositievanhethoofdmeervariabel. Datkanjeal
+zienaandevoorbeeldendiewehierbovenbesprokenhebben: indeNPergoudemannenmet
+baardenstaathethoofdinhetmidden,maarindeAPergoudestaathetachteraan. Inhetal-
+gemeenkunnenwestellendathetNederlandsopsyntactischniveaumeergebruikmaaktvan
+voorbepalingendanvannabepalingen,metanderewoordendathethoofddoorgaansachter-
+aanstaatindewoordgroep. Zoalsin§10.2echterduidelijkzalworden,zijnerookveeluitzon-
+deringenopdiegeneralisatie.
+1.3 Het principe van compositionaliteit
+Hethoofdvaneenwoordgroepofcomplexwoordmagdanweldekernbetekenisbepalenvan
+hetgeheel,hetisduidelijkdatdebepalingenookbijdragentotdeuiteindelijkebetekenis. Zo
+verwijstchocolademelkweliswaarnaareensoortvanmelk,maardebepalingchocolademaakt
+duidelijkomwatvoorsoortmelkhetgaat: melkdiesmaaktnaarchocoladeofwaarinchoco-
+ladeisopgelost. Jezouduskunnenzeggendatdebetekenisvanchocolademelkeenoptelsom
+isvandebetekenissenvanchocoladeenmelk. Tegelijkishetechterookmeerdaneeneenvou-
+digesom. Datwordtduidelijkwanneerwechocolademelk vergelijkenmetmelkchocolade. In
+beidegevallenkrijgenweeencomplexwoordwaarindebetekenissenvanzowelmelkalscho-
+coladedoorschemeren(‘melkdienaarchocoladesmaakt’vs. ‘chocoladedieopbasisvanmelkis
+gemaakt’),maardemanierwaaropwededietweemorfemenhebbensamengevoegd–meer
+concreet:heteﬀectvandeRechterhandhoofdregel–bepaaltmeedebetekenisvanhetgeheel.
+Ditdubbelemechanismevanbetekenisbepalingnoemenwehetprincipevan(cid:264)(cid:276)(cid:274)(cid:277)(cid:276)(cid:280)(cid:270)(cid:281)(cid:270)(cid:276)(cid:275)(cid:262)-
+(cid:273)(cid:270)(cid:281)(cid:266)(cid:270)(cid:281). Toegepastopdemorfologiekunnenwehetalsvolgtformuleren:
+(18) Hetprincipevan(cid:264)(cid:276)(cid:274)(cid:277)(cid:276)(cid:280)(cid:270)(cid:281)(cid:270)(cid:276)(cid:275)(cid:262)(cid:273)(cid:270)(cid:281)(cid:266)(cid:270)(cid:281)(toegepastopdemorfologie)
+Debetekenisvaneenmorfologischcomplexwoordkomttotstandopbasisvan:
+(a)debetekenissenvandemorfemenvandatwoord,en
+(b)demanierwaaropdiemorfemenzijnsamengevoegd.D(cid:266)(cid:280)(cid:281)(cid:279)(cid:282)(cid:264)(cid:281)(cid:282)(cid:282)(cid:279)(cid:283)(cid:262)(cid:275)(cid:284)(cid:276)(cid:276)(cid:279)(cid:265)(cid:266)(cid:275)(cid:266)(cid:275)(cid:287)(cid:270)(cid:275)(cid:275)(cid:266)(cid:275) 13
+Datzelfde principe is ook van toepassing op de syntaxis. Bekijken we bijvoorbeeld de NP de
+man met de ballon. Het is duidelijk dat het hoofd man de betekenis van de NP bepaalt (een
+manmeteenballoniseensoortvanman), maartegelijkvoegendevoor-ennabepalingnog
+extrainformatietoe,enisdevolledigebetekenisvandeNPeenoptelsomvandebetekenissen
+vandewoordendiedeeluitmakenvandeNP:ballonverwijstnaareenballon,metmaaktdui-
+delijkwatderelatieistussendemanendeballon,enhetbepaaldlidwoorddedruktuitdathet
+omeenspeciﬁekemaneneenspeciﬁekeballongaat. Netalsinhetmorfologischevoorbeeld
+vanhierbovenspeeltechterookdehiërarchischestructuureenbelangrijkerolinhetbepalen
+vandebetekenis. DeNPdeballonmetdemanbevatpreciesdezelfdevijfwoordenalsdeman
+metdeballon,maarheefteenduidelijkverschillendebetekenis(namelijkeenballonwaareen
+manopafgebeeldstaat). Ookhiergeldtdusdatdemanierwaaropdeonderdelenwordensa-
+mengevoegdmeedebetekenisvanhetgeheelbepaalt. Toegepastopdesyntaxiskunnenwe
+hetprincipevancompositionaliteitformulerenalsin(19).
+(19) Hetprincipevan(cid:264)(cid:276)(cid:274)(cid:277)(cid:276)(cid:280)(cid:270)(cid:281)(cid:270)(cid:276)(cid:275)(cid:262)(cid:273)(cid:270)(cid:281)(cid:266)(cid:270)(cid:281)(toegepastopdesyntaxis)
+Debetekenisvaneenwoordgroepofzinkomttotstandopbasisvan:
+(a)debetekenissenvandewoordenindiewoordgroepofzin,en
+(b)demanierwaaropdiewoordenzijnsamengevoegd.
+Eenstemeerzijnwemethetprincipevancompositionaliteitduseenconceptophetspoordat
+detweedelingtussensyntaxisenmorfologieoverstijgt. Wekunnenditprincipedanookmeer
+algemeenformulerenalsvolgt:
+(20) Hetprincipevan(cid:264)(cid:276)(cid:274)(cid:277)(cid:276)(cid:280)(cid:270)(cid:281)(cid:270)(cid:276)(cid:275)(cid:262)(cid:273)(cid:270)(cid:281)(cid:266)(cid:270)(cid:281)(algemeen)
+Debetekenisvaneencomplexeuitdrukkingkomttotstandopbasisvan:
+(a)debetekenissenvandesamenstellendedelenvandieuitdrukking,en
+(b)demanierwaaropdiedelenzijnsamengevoegd.
+Merk op dat in tegenstelling tot de notie van hiërarchische structuur het principe van com-
+positionaliteit niet van toepassing is op de fonologie. Herinner je bijvoorbeeld dat we een
+woordalskrantkunnenopvattenalsde(hiërarchischeenrecursieve)combinatievanvijfklan-
+ken. In dat opzicht kan je krant dus beschouwen als “een complexe uitdrukking” zoals be-
+doeldin(20). Debetekenisvankrant(volgensVanDale“opge re gel detij den,meest alda gel ijks
+ver schij nenddruk werkterver sprei dingvannieuwsenwe tens waar dig he denentotvoor lich ting
+vanhetpu bliek”)komtechterniettotstandopbasisvandebetekenissenvandeklankenvan
+datwoorden/ofdemanierwaaropdieklankenwordensamengevoegd. Woordendiemeteenk
+beginnendelenbv.nietdebetekenisdatzeietsmetkrantenofdrukwerktemakenhebben.We
+stotenhierdusopeenfundamenteleasymmetrietussendemorfologieendesyntaxisenerzijds
+endefonologieanderzijds. DieasymmetrieheeftbetrekkingopwatdeZwitsersetaalkundige
+Ferdinand de Saussure de dubbele articulatie van taaluitingen genoemd heeft. Dit betekent
+datelktaaltekeneenvormkanteneenbetekeniskantheeft(ziehieroverook§3.2). Morfologi-
+scheensyntactischeprocessenbouwencomplexevormenop,dieookcomplexebetekenissen
+hebben. Morfemenwordensamengevoegdtotwoorden,dieophunbeurtwordensamenge-
+voegd tot woordgroepen en zinnen, dat alles volgens het principe van de compositionaliteit.14 B(cid:262)(cid:280)(cid:270)(cid:280)(cid:263)(cid:266)(cid:268)(cid:279)(cid:270)(cid:277)(cid:277)(cid:266)(cid:275)T(cid:262)(cid:262)(cid:273)(cid:272)(cid:282)(cid:275)(cid:265)(cid:266): M(cid:276)(cid:279)(cid:267)(cid:276)(cid:273)(cid:276)(cid:268)(cid:270)(cid:266)(cid:266)(cid:275)(cid:280)(cid:286)(cid:275)(cid:281)(cid:262)(cid:285)(cid:270)(cid:280)
+Defonologiedaarentegenheeftenkelbetrekkingopdevormkant, enisblindvoorbetekenis
+omdatzewerktmetbouwsteneneneenhedendiegeenbetekenisdragen(zoalsfonemenen
+syllabes).
+Vancompositioneelbepaaldebetekenissenzoalsdievanchocolademelkendemanmetde
+ballon kunnen we ook zeggen dat ze (cid:268)(cid:266)(cid:274)(cid:276)(cid:281)(cid:270)(cid:283)(cid:266)(cid:266)(cid:279)(cid:265) zijn: uit de vorm van dergelijke woorden
+en constituenten kunnen we iets concluderen over de betekenis ervan. De betekenis is dus
+gemotiveerdvanuitdevorm. Hetfeitdatzoweldemorfologiealsdesyntaxishetprincipevan
+compositionaliteit volgen en dus gemotiveerde betekenissen opleveren, betekent overigens
+nietdatergeenuitzonderingenzijnop ditprincipe. Bekijkenweindat verbanddevolgende
+voorbeelden.
+(21) a. Deaapkomtuitdemouw.
+b. droogstoppel
+Debetekenisvandecomplexetaaluitingenin(21)isniet-compositioneelopgebouwd. Zovin-
+denweindebetekenisvanDeaapkomtuitdemouw(‘Datgenewatiemandverborgenwilhou-
+den,komtvoordedag’)nietdebetekenissenvanaap(‘vier han digzoog diervandeon der or de
+An thro poi deavandeor devandepri ma ten’)ofmouw (‘elkvandede lenvaneenkle ding stuk
+waar indearmwordtge sto ken’)terug,eneendroogstoppel(‘saai,vervelendmens’)heeftniets
+te maken met droog (‘niet of niet meer nat of voch tig’) of met stoppel (‘het bo ven de grond
+over blij ven dege deel tevanhal mennahetmaai en’). Dezebetekenissenzijnnietgemotiveerd,
+maar(cid:262)(cid:279)(cid:263)(cid:270)(cid:281)(cid:279)(cid:262)(cid:270)(cid:279). Inhetgevalvanniet-compositionelebetekenissenvansyntactischeconstitu-
+entenzoalsdiein(21a)sprekenwedanover(cid:270)(cid:265)(cid:270)(cid:276)(cid:274)(cid:262)(cid:281)(cid:270)(cid:280)(cid:264)(cid:269)(cid:266)(cid:282)(cid:270)(cid:281)(cid:265)(cid:279)(cid:282)(cid:272)(cid:272)(cid:270)(cid:275)(cid:268)(cid:266)(cid:275).
+Bij morfologisch complexe woorden bevinden we ons vaak in een overgangszone tussen
+striktcompositioneleenstriktniet-compositionelebetekenissen. Zoiseenstadhuisweldege-
+lijkeensoortvanhuisdatindestadstaat–enzienweduseenduidelijkematevancompositi-
+onaliteit–maartegelijkgaathetnietomomhetevenwelkhuisindestad,maarheelspeciﬁek
+omhethuiswaar inhetbe stuurvaneenstadge ves tigdis. Vandergelijkegevallenstellenwe
+datersprakeisvaneencompositionelebetekeniswaarin(cid:280)(cid:266)(cid:274)(cid:262)(cid:275)(cid:281)(cid:270)(cid:280)(cid:264)(cid:269)(cid:266)(cid:280)(cid:277)(cid:266)(cid:264)(cid:270)(cid:262)(cid:273)(cid:270)(cid:280)(cid:262)(cid:281)(cid:270)(cid:266)of(cid:263)(cid:266)(cid:281)(cid:266)-
+(cid:272)(cid:266)(cid:275)(cid:270)(cid:280)(cid:280)(cid:277)(cid:266)(cid:264)(cid:270)(cid:262)(cid:273)(cid:270)(cid:280)(cid:262)(cid:281)(cid:270)(cid:266)optreedt: hetonderdeelhuiskrijgthiereenandere,meerspeciﬁekebete-
+kenisdanhetnormaalgesprokenkrijgt,maardebetekenisvanhethelewoordstadhuisiswel
+nogsteedscompositioneelopgebouwdendusgemotiveerd.
+1.4 Structurele ambiguïteit
+Indevorigesectiehebbenwegeïllustreerddatdemanierwaaropmorfemenenwoordenwor-
+densamengevoegdbijdraagtaandebetekenisvanhetcomplexewoordofdewoordgroepdie
+zo ontstaat. De woorden chocolademelk en melkchocolade bestaan uit dezelfde morfemen,
+maaromdatzeopeenverschillendemanierzijnsamengevoegd,betekenendetweewoorden
+ietsanders. HetzelfdegeldtvoordeNP’sdemanmetdeballonendeballonmetdeman. Soms
+kanjeechteraanhetwoordofdeconstituentnietziendatersprakeisvantweeverschillende
+hiërarchischestructuren. Wesprekendanvan(cid:280)(cid:281)(cid:279)(cid:282)(cid:264)(cid:281)(cid:282)(cid:279)(cid:266)(cid:273)(cid:266)(cid:262)(cid:274)(cid:263)(cid:270)(cid:268)(cid:282)(cid:326)(cid:281)(cid:266)(cid:270)(cid:281). Ambiguïteitishetfe-
+nomeenwaarbijeenendezelfdetaaluitingmeerdanéénbetekeniskanhebben. Diemeervou-D(cid:266)(cid:280)(cid:281)(cid:279)(cid:282)(cid:264)(cid:281)(cid:282)(cid:282)(cid:279)(cid:283)(cid:262)(cid:275)(cid:284)(cid:276)(cid:276)(cid:279)(cid:265)(cid:266)(cid:275)(cid:266)(cid:275)(cid:287)(cid:270)(cid:275)(cid:275)(cid:266)(cid:275) 15
+digebetekeniskanopverschillendemanierentotstandkomen. Dezinin(22)isbijvoorbeeld
+(cid:273)(cid:266)(cid:285)(cid:270)(cid:264)(cid:262)(cid:262)(cid:273)(cid:262)(cid:274)(cid:263)(cid:270)(cid:268)(cid:282). Hetwoordbankkanzowelnaareenzitmeubelverwijzenalsnaareenﬁnan-
+ciëleinstelling,enaangezienditvoorbeeldnietduidelijkmaaktwelkebetekenishierbedoeld
+wordt,isookdehelezinambigu: hijkanzowel‘Ikkijknaarhetzitmeubel’betekenenals‘Ikkijk
+naardeﬁnanciëleinstelling’.
+(22) Ikkijknaardebank.
+(23) Ikziedemanmetdeverrekijker.
+Inhetvoorbeeldin(24)iserechterietsandersaandehand. Dezezinheeftooktweebeteke-
+nissen. Inheteerstegevalverwijsthijnaareensituatiewaarbijdesprekergebruikmaaktvan
+eenverrekijkeromnaareenmantekijken. Indetweedebetekeniszietdesprekereenmandie
+eenverrekijkerbij zich heeft. Deze ambiguïteit is echter nietlexicaal van aard: alle woorden
+vandezezinhebbenpreciesdezelfdebetekenisinbeideinterpretaties.
+Deambiguïteitvan(23)isstructureelvanaard:hetisdemanierwaaropdewoordenworden
+samengevoegd(detweedeclausulevanhetprincipevancompositionaliteit)diehetbetekenis-
+verschilveroorzaakt. Latenwedatwatconcretermaken. Detweedebetekenisvandezinin
+(23)(desprekerzieteenmandieeenverrekijkerbijzichheeft)kunnenweweergevenaande
+hand van de boomstructuur in (24) (waarbij we de hoogste knoop van de boomstructuur ge-
+makshalveevenweergevenalsS,watstaatvoor‘Sentence’).
+(24) S
+NP VP
+ik V NP
+zie D N PP
+de man P NP
+met D N
+de verrekijker
+Letgoedophetonderdeelvandestructuurdatweomcirkeldhebben. Ditdeelvandeboom-
+structuur bevat de woordgroep de man met de verrekijker. Het gaat hier om een NP met als
+hoofdhetnomenmanenalsnabepalingdePPmetdeverrekijker. DezeNPverwijstdusnaar
+een(speciﬁeke)mandieeen(speciﬁeke)verrekijkerbijzichheeft. WanneerwedieNPvervol-
+genscombinerenmethetwerkwoordzieendaarnadehelewoordgroepmethetonderwerpik,
+danontstaateenvandetweebetekenissendiehierbovenbeschrevenwerden: desprekerziet
+eenmandieeenverrekijkerbijzichheeft. Wekunnendeverschillendeonderdelenvandezin16 B(cid:262)(cid:280)(cid:270)(cid:280)(cid:263)(cid:266)(cid:268)(cid:279)(cid:270)(cid:277)(cid:277)(cid:266)(cid:275)T(cid:262)(cid:262)(cid:273)(cid:272)(cid:282)(cid:275)(cid:265)(cid:266): M(cid:276)(cid:279)(cid:267)(cid:276)(cid:273)(cid:276)(cid:268)(cid:270)(cid:266)(cid:266)(cid:275)(cid:280)(cid:286)(cid:275)(cid:281)(cid:262)(cid:285)(cid:270)(cid:280)
+in(23)echterookopeenanderemaniersamenvoegen. Datwordtweergegevenindestructuur
+in(25).
+(25) S
+NP VP
+ik V NP PP
+zie D N P NP
+de man met D N
+de verrekijker
+In deze structuur is er niet langer een knoop die overeenkomt met de omcirkelde NP uit de
+boomin(24),m.a.w.erisnietlangereenwoordgroepdemanmetdeverrekijker.ErisweleenNP
+demaneneenPPmetdeverrekijker (allebeiomcirkeld). DePPmetdeverrekijker isnuimmers
+geennabepalingbijmanmeer,maarwelbijzie. Hetgevolgdaarvanisdatmetdeverrekijkernu
+meer informatie geeft over de manier waarop de spreker de zie-handeling verricht, namelijk
+gebruikmakendvaneenverrekijker. Opdiemanierontstaatdeanderebetekenisvandezin:de
+sprekermaaktgebruikvaneen(speciﬁeke)verrekijkeromnaareen(speciﬁeke)mantekijken.
+Ditvoorbeeldlaatnogmaalshetbelangzienvanhiërarchischestructuur:detweebetekenissen
+vandezinin(23)bevattenpreciesdezelfdelineaireaaneenschakelingvanwoorden. Hetispas
+doornaarde(meerabstracte)hiërarchischestructuurvandezintekijkendatwebegrijpenop
+welkemanierdetweebetekenissentotstandkomen.
+Aangezienookmorfologischestructuurhiërarchischisopgebouwdenhetprincipevancom-
+positionaliteitrespecteert,hoefthetnietteverbazendatweookdaarvoorbeeldenvanstruc-
+tureleambiguïteitaantreﬀen(almoetwelwordenaangestiptdatdergelijkevoorbeeldeninde
+morfologieminderfrequentzijndanindesyntaxis). Zokanhetwoordtuinboonkever bijvoor-
+beeld verwijzen een kever met een voorliefde voor tuinbonen of naar een boonkever die we
+voornamelijkindetuinaantreﬀen. Inheteerstegevalkunnenwedestructuurvanditwoord
+weergevenalsin(26), terwijlvoor detweedebetekenisdeboomstructuurin(27)decorrecte
+weergavevormt.
+(26) N (27) N
+N N N N
+N N kever tuin N N
+tuin boon boon keverD(cid:266)(cid:280)(cid:281)(cid:279)(cid:282)(cid:264)(cid:281)(cid:282)(cid:282)(cid:279)(cid:283)(cid:262)(cid:275)(cid:284)(cid:276)(cid:276)(cid:279)(cid:265)(cid:266)(cid:275)(cid:266)(cid:275)(cid:287)(cid:270)(cid:275)(cid:275)(cid:266)(cid:275) 17
+1.5 Valentie en subcategorisatie
+Steldatjedeopdrachtkrijgteenzintemakendieeenvormvanhetwerkwoordbegrijpenbevat.
+Hoewelditeenergopenopdrachtisdieveelruimtelaatvooreigencreativiteit,legtdekeuze
+vanhetwoordbegrijpenmeteeneenaantalbeperkingenop. Inherentaandebetekenisvandit
+werkwoordisimmersdathetgaatomeenactiviteitdietweeparticipantenheeft: depersoon
+diebegrijptendiegenedie(ofdatgenewat)begrepenwordt. Andersgesteld,hetwerkwoord
+begrijpenmoetgecombineerdwordenmetzoweleensubjectalseendirectobject. Dergelijke
+combinatievereisten die voortvloeien uit de betekenis van een woord noemen we de (cid:283)(cid:262)(cid:273)(cid:266)(cid:275)-
+(cid:281)(cid:270)(cid:266) van dat woord. Valentie is een begrip dat een erg belangrijke rol speelt bij zinsontleding
+(zie deel 3). De meest duidelijke voorbeelden van valentie zien we bij werkwoorden. Verge-
+lijkbijvoorbeeldbegrijpenenerzijdsmetslapenofgevenanderzijds. Daarwaarerbijbegrijpen
+tweeparticipantenzijn,iserbijslapenmaaréén(deslaper),enzijnerbijgevendrie(degever,
+deontvanger, endatgenewatgegevenwordt). Eensynoniemvoorvalentieis(cid:277)(cid:273)(cid:262)(cid:262)(cid:281)(cid:280)(cid:270)(cid:268)(cid:269)(cid:266)(cid:270)(cid:265):
+een(werk)woordcreëerteenaantalopenplaatsendiemoetenwordeningevulddoorandere
+zinsdelen. Zokunnenwezeggendatslapen(cid:266)(cid:266)(cid:275)(cid:277)(cid:273)(cid:262)(cid:262)(cid:281)(cid:280)(cid:270)(cid:268)is,begrijpen(cid:281)(cid:284)(cid:266)(cid:266)(cid:277)(cid:273)(cid:262)(cid:262)(cid:281)(cid:280)(cid:270)(cid:268),engeven
+(cid:265)(cid:279)(cid:270)(cid:266)(cid:277)(cid:273)(cid:262)(cid:262)(cid:281)(cid:280)(cid:270)(cid:268).
+Valentieisnietdeenigebeperkingdiewoordenkunnenopleggenaanhunomgeving. Om
+datteillusterenkunnenwekijkennaarhetwerkwoordenpaarhoren/luisteren. Dezetweewerk-
+woordenhebbeneensterkverwantebetekenisendaardoordusookdezelfdevalentie. Inbeide
+gevallenzijnertweeparticipanten(zezijndusallebeitweeplaatsig): eenauditiefsignaalende
+ontvangervandatsignaal. Dezinnenwaarindezewerkwoordenkunnenverschijnenverschil-
+lenechtergrondigvanelkaar:terwijlluisterenverplichtgecombineerdwordtmetdeprepositie
+naar,isdatvoorzetselonwelgevormdendusafwezigincombinatiemethoren.
+(28) a. Ikluisternaardemuziek.
+b. *Ikluisterdemuziek.
+(29) a. *Ikhoornaardemuziek.
+b. Ikhoordemuziek.
+Naast restricties die voortvloeien uit hun betekenis (valentie), kunnen woorden dus ook for-
+melebeperkingen opleggen aan de constituenten in hun omgeving, d.w.z. beperkingen met
+betrekkingtotdevormofwoordsoortvandewoordgroepenwaarmeezegecombineerdwor-
+den. Deze formele beperkingen noemen we (cid:280)(cid:282)(cid:263)(cid:264)(cid:262)(cid:281)(cid:266)(cid:268)(cid:276)(cid:279)(cid:270)(cid:280)(cid:262)(cid:281)(cid:270)(cid:266). Zo is het werkwoord horen
+gesubcategoriseerdvooreenNP(demuziek)enhetwerkwoordluisterenvooreenPP(naarde
+muziek).
+Ookbinnendemorfologiespelenvalentieensubcategorisatieeenrol,zijhetsomsopeen
+ietsanderemanier. Valentiezienwevoornamelijkopduikenwanneereenmorfologischcom-
+plexwoordeenwerkwoordbevatalseenvanzijnonderdelen. Zobestaathetwoordhaaruitval
+enerzijdsuithetnomenhaarenanderzijdsuithetwerkwoorduitval(datoverigensookopzijn
+beurt weer uit twee delen bestaat: uit en val). Het werkwoord uitvallen is eenplaatsig: er is
+slechtséénparticipantnodigomdebetekenisvolledigtemaken,namelijkdatgenewat(ofdie-
+genedie)uitvalt. Alsweeenzinzoudenmakenmetditwerkwoord,danzoudieeneparticipant18 B(cid:262)(cid:280)(cid:270)(cid:280)(cid:263)(cid:266)(cid:268)(cid:279)(cid:270)(cid:277)(cid:277)(cid:266)(cid:275)T(cid:262)(cid:262)(cid:273)(cid:272)(cid:282)(cid:275)(cid:265)(cid:266): M(cid:276)(cid:279)(cid:267)(cid:276)(cid:273)(cid:276)(cid:268)(cid:270)(cid:266)(cid:266)(cid:275)(cid:280)(cid:286)(cid:275)(cid:281)(cid:262)(cid:285)(cid:270)(cid:280)
+uitgedruktwordendoorhetsubjectvandezin(bv. Zijnhaarvaltuit),maarinhetgevalvanhet
+morfologischcomplexewoordhaaruitvalvervultheteerstedeelvandatwoorddiefunctie. We
+ziendushoedeopenplaatsenindevalentievaneenwoordnietenkelkunnenwordeningevuld
+doorzinsdelen(hetterreinvandesyntaxis),maarookdoormorfemen(demorfologie).
+Omderolvansubcategorisatiebinnendemorfologieteillusteren,kunnenweonsrichten
+toteenwoordalsdrukte. Ookditbestaatuittweedelen: hetadjectiefdruk enhetsuﬃx-te(§
+3.3.1). Datsuﬃxlegtnetalsdewerkwoordenhorenenluisterenindevoorbeeldenin(28)–(29)
+formele vereisten op aan de morfemen waarmee het kan worden gecombineerd. Zo kan-te
+enkelgecombineerdwordenmetadjectievenzoalsgeïllustreerdin(30a)(eninzeerbeperkte
+matemetwerkwoorden,zie(30b)),maarnooitmetnomina,zoalsdevoorbeeldenin(30c)la-
+tenzien. Merkopdatdeonwelgevormdheidvandewoordenin(30c)nietgerelateerdisaande
+betekenisvan-te. Zozou*mensteinprincipeperfectkunnenwordengebruiktomteverwij-
+zennaar‘hetmenszijn’(netzoalsleegte‘hetleegzijn’betekent). Sterkernog,woordenzoals
+mensheid en mensdom drukken precies die betekenis uit. Het gaat hier dus om een puur for-
+melebeperking. Wezeggendanookdathetsuﬃx-tegesubcategoriseerdisvooradjectieven
+(eninzeerbeperktemateookvoorwerkwoorden),maarnietvoornomina.
+(30) a. breedte,diepte,leegte,scherpte,warmte,droogte,…
+b. schaamte,sterfte,behoefte
+c. *menste,*boomte,*dorpte
+1.6 Verwijzingen
+VooralgemeneintroductiesindegrammaticavanhetNederlandsdiehetbelangvanhiërarchi-
+schestructuurbenadrukken,verwijzenwenaarSybesma(2002)enBennis(2000). Hetprincipe
+vancompositionaliteitwordtuitvoerigbesprokeninVanCraenenbroeck&VandenWyngaerd
+(2015)enSmessaert(2019). DefonologievanhetNederlandswordtbehandeldinSmessaert
+&Decoster(2019).

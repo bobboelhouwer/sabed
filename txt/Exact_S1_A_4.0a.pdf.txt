@@ -1,0 +1,323 @@
+Aanvullende voorbeelden bij Hoofdstuk VI  24
+Voor de ontbindingsreactie van distikstofpentaoxide in stikstofdioxide en zuurstofgas  
+ 
+    2 N O     (cid:1)  4 NO +   O
+2 5 2    2 
+ 
+werd de N O  concentratie i.f.v. de tijd gevolgd en dit leverde volgende resultaten op
+2 5
+   
+     
+N O  (mol.l-1)  tijd ( s)   
+2 5
+5,00  0   
+3,52  500  (a) Bepaal de orde van bovenstaande reactie.  
+2,48  1000  (b) Bepaal de waarde van de reactiesnelheidsconstante. 
+1,75  1500  (c) Ga na met welke snelheid N2O5 verdwijnt na 300 s. 
+1,23  2000  (d) Bereken de halveringstijd. 
+(e) Hoelang duurt het voor 80 % van N O  ontbonden is? 
+0,87  2500  2 5
+ 
+0,61  3000 
+ 
+ 
+ 
+ 
+Oplossing 
+ 
+(a)  Om na te gaan of het gaat om een 0de, 1ste of 2de orde reactie, moeten volgende 
+grafieken uitgezet worden         
+ 
+1
+( N O ) i.f.v. tijd     ln ( N O ) i.f.v. tijd     i.f.v. tijd  
+2 5  2 5  (N O )
+2 5
+ 
+5,5
+( N2O5 )
+ln ( N2O5 )
+4,5
+1 / ( N2O5 )
+3,5
+2,5
+1,5
+0,5
+-0,5
+0 500 1000 1500 2000 2500 3000
+tijd
+ 
+ 
+Er wordt enkel een lineair verband gevonden voor de grafiek ln ( N O ) i.f.v. tijd. We hebben 
+2 5 
+hier te maken met een 1 ste  orde reactie. 
+              
+(b)  Nu geweten is dat het om een 1ste orde reactie gaat, kan de reactiesnelheidsconstante k 
+bepaald worden via 
+ 
+   ln (A) = ln (A)  –  k.t                                 kies b.v. t = 1000 s 
+t 0  Aanvullende voorbeelden bij Hoofdstuk VI  25
+  ln (N O )   =  ln (N O )   -  k. 1000 
+2 5 1000 2 5 0
+ 
+  ln (2,48)        =  ln (5,00)   -  k. 1000 
+ 
+                      k = 0,0007 s-1 
+ 
+ 
+(c)  Met dezelfde formule berekenen we de concentratie van N O  na 300 s 
+2 5
+ 
+  ln (N O )   =  ln (N O )   -  k. 300 
+2 5 300 2 5 0
+ 
+                       = ln (5,00)   - 0,0007 * 300    =   1,4 
+ 
+     (N O ) = 4,05 mol.l-1 
+2 5 300  
+ 
+ 
+Nu kan de snelheid  berekend worden waarmee N O  verdwijnt na 300 s. 
+2 5
+ 
+    RS (A)  =  k (A)
+t 
+ 
+ 
+  RS ( N O  )   =  k (N O )
+2 5 300 2 5 300 
+ 
+                                    =  0,0007 s-1 . 4,05 mol.l-1 
+ 
+                                    =  0 ,0028 mol.l-1s-1 
+ 
+ 
+(d) De halfwaardetijd t  van een 1ste orde reactie bekomen we uit 
+1/2
+ 
+  0,693
+  t  =  
+1/2
+k
+ 
+0,693
+t  =     =  9 90 s 
+1/2 
+0,0007 s-1
+ 
+ 
+(e) 80% N O ontbinden in NO en O betekent dat van 100% N O  80% wordt omgezet en 
+2 5   2  2  2 5
+20% overblijft 
+                                 
+ van  5,00 mol.l-1 N O   blijft 5,00 mol.l-1  * 20% over   =  1 mol.l-1 
+2 5 
+                                                                                                                               
+ 
+We maken opnieuw gebruik van  
+ 
+ 
+ 
+  ln (A) = ln (A)  -  k.t 
+t 0  
+ 
+ 
+      ln (N O )  =  ln (N O )   - k.t 
+2 5 t 2 5 0
+ 
+      ln (1)       =  ln (5)  -  0,0007 s-1  *  t 
+                 
+                       t = 2299 s Aanvullende voorbeelden bij Hoofdstuk VI  26
+Bij een temperatuur van 55 °C werden een aantal proeven gedaan voor de reactie 
+ 
+  (CH ) CBr   +   OH-        (cid:1)      (CH ) COH   +   Br-  
+3 3 3 3
+ 
+waarbij de volgende gegevens werden bekomen 
+ 
+initiële (CH ) CBr conc.  initiële OH- conc.   initiële snelheid vorming (CH  ) COH 
+3 3 3 3
+             
+0,10  0,10  0,0010 
+0,20  0,10  0,0020 
+0,30  0,10  0,0030 
+0,10  0,20  0,0010 
+0,10  0,30  0,0010 
+ 
+(a) Bepaal de orde van de reactie.  
+(b) Bepaal de snelheidsvergelijking.  
+(c) Geef de waarde van de reactiesnelheidsconstante k. 
+ 
+ 
+Oplossing 
+ 
+(a) Algemene uitdrukking:  RS = k ((CH ) CBr)x (OH-)y 
+3 3
+ 
+Toegepast op de gegevens :     0,0010  =  RS   =  k (0,10)x (0,10)y 
+1
+                          0,0020  =  RS =  k (0,20)x (0,10)y 
+2  
+                       0,0030  =  RS =  k (0,30)x (0,10)y 
+3  
+                       0,0010  =  RS  =  k (0,10)x (0,20)y 
+4 
+                       0,0010  =  RS =  k (0,10)x (0,30)y 
+5  
+ 
+ x en y bepalen door vergelijking van 2 proeven waarbij de beginconcentratie van slechts 1 
+reagens verschillend is. 
+ 
+ 
+Voor de bepaling van x kan gebruik gemaakt worden van b.v. RS  en RS   
+1 3
+ 
+RS 0,0010 k (0,10)x (0,10)y
+1 = =  
+RS 0,0030 k (0,30)x (0,10)y
+3
+ 
+(0,10)x
+                  0,333 = = (0,333)x                                         x = 1 
+(0,30)x
+ 
+ 
+Voor de bepaling van y kan b.v. R.S.  en R.S.  genomen worden 
+4 5
+    
+R.S. 0,0010 k (0,10)x (0,20)y
+4 = =  
+R.S. 0,0010 k (0,10)x (0,30)y
+5
+ 
+(0,20)y
+                            1 = = (0,666)y        y = 0 
+(0,30)y
+ 
+De totale orde van de reactie wordt  x  + y  = 1 + 0  =  1   Aanvullende voorbeelden bij Hoofdstuk VI  27
+(b)  Nu de waarden van x en y bepaald zijn, kan de snelheidsvergelijking opgesteld worden. 
+ 
+s nelheidsvergelijking:    RS = k ((CH ) CBr)1 (OH-)0 
+3 3
+ 
+                                            RS = k ((CH ) CBr)   
+3 3
+ 
+ 
+(c) De waarde van k halen we uit de snelheidsvergelijking waarin we de opgegeven waarden 
+van b.v. RS  invullen 
+2
+                        
+                                      RS  = k ((CH ) CBr)            
+2 3 3
+      
+                 0,0020  mol.l-1s-1  = k  (0,20)  mol.l-1 
+                                                (cid:1) 
+ 
+                                             k  =  0,01  s-1           
+                                                        
+ 
+  
+Voor de reactie 
+   
+  H +     I       (cid:1)     2 HI
+2(g)      2(g) (g) 
+ 
+waarvoor 
+ 
+d(H )
+  - 2 = k (H )(I )  
+dt 2 2
+ 
+worden bij verschillende temperaturen de snelheidsconstanten 2,45 10-4 l.mol-1s-1 (bij 
+302 °C) en 0,95 l.mol-1s-1 (bij 508 °C) gemeten.  
+ 
+(a) Bereken de waarde van de activeringsenergie E .   
+a
+(b) Bepaal de constante A uit de Arrheniusvergelijking. 
+(c) Bereken de waarde van de reactiesnelheidsconstante k bij 375 °C. 
+(d) Wanneer gestart wordt met 0,1 M H , wat wordt de concentratie van H  na 30 s 
+2 2
+bij een temperatuur van 375 °C. 
+ 
+ 
+Oplossing 
+ 
+(a)  We maken gebruik van onderstaande vergelijking 
+ 
+k E 1 1
+  ln 2 = a ( - ) 
+k R T T
+1 1 2
+ 
+hierbij is:  
+ 
+k  = 2,45  10-4  l.mol-1s-1    bij T  = 302 °C = 575 K 
+1 1
+k  =    0,95  l.mol-1s-1         bij T  = 508 °C = 781 K 
+2 2
+ 
+0,95 E 1 1
+ln = a ( - ) 
+2,45 10-4 8,314 575 781
+ Aanvullende voorbeelden bij Hoofdstuk VI  28
+                         E  = 1,5 * 105 J.mol-1 
+a
+ 
+ 
+ 
+(b)  De constante A zal uiteraard afgeleid worden uit de Arrheniusvergelijking 
+ 
+-E
+a
+  k = A e RT  
+ 
+Maken we b.v. gebruik van de gegevens bij T  
+1
+ 
+-E
+a
+ k = A e RT1  
+1
+-1,5*105
+2,45 10-4 = A e 8,314*575 
+ 
+ A   =  1010  l.mol-1s-1    (dezelfde eenheden als k gezien 2de orde) 
+ 
+ 
+ 
+(c)  Dezelfde vergelijking gebruiken we om de waarde van k bij 375 °C te berekenen 
+ 
+-1,5*105
+  k = 1010 e 8,314*648 
+ 
+                k   = 8,1  10-3  l.mol-1s-1 
+ 
+ 
+ 
+(d)  Aangezien het hier gaat om een  2de orde reactie 
+ 
+d(H )
+            zie hiervoor opgave:     - 2 = k (H )(I )  
+dt 2 2
+ 
+      kan gebruik gemaakt worden van de volgende vergelijking 
+   
+1 1
+  = + k t                    
+A A
+t 0
+ 
+1 1
+= + k 30               met  (H )  de concentratie na 30 s 
+(H ) (H ) 2 30 
+2 30 2 0
+                                                                          (H )  = 0,1 M 
+2 0
+ 
+                                                 k   = 8,1 * 10-3 l.mol-1s-1 bij 375 °C) 
+ 
+ 
+(H ) = 0,098 M 
+  2 30 
+   
+ 

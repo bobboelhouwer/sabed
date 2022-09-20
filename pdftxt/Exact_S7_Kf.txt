@@ -1,0 +1,120 @@
+30/10/2019
+
+Aanvullingen H4
+
+Orthogonale basis, orthogonale
+projectie, orthogonale matrix
+
+u•v=v•u
+
+Definities
+• C ∈ Cmxn : Hermitiaans toegevoegde
+ ∗ =  
+m.a.w. complex toegevoegd en getransponeerd
+• C ∈ Cnxn is Hermitisch asa  ∗ = 
+o Een reële, symmetrische matrix is Hermitisch
+o Een Hermitische matrix heeft reële elementen op de diagonaal
+
+• Hermitisch product van u en v ∈ Cn : u • v =  
+    =  ∗
+o u•v=v•u
+o (u + v) • w = u • w + v • w
+o c ∈ C: u • (cv) = c (u • v) ; (cu) • v = (̅ u • v)
+o u • u ≥ 0 en u • u = 0 ⇔ u = 0
+o Als u en v ∈ Rn, wordt dit het gekende inwendig product
+
+1
+
+ 30/10/2019
+
+Orthogonale basis
+• u en v ∈ Cn: u ⊥ v ⇔ u • v = 0
+•   = u • u lengte van u
+• {u1, ... , up} is een orthogonale basis voor (deel)ruimte W
+ 
+o ui ⊥ uj voor i ≠ j
+o Span {u1, ... , up} = W
+
+• y = c1 u1 + ... + cp up
+⇓
+uj • y = uj • (c1 u1) + ... + uj • (cp up)
+= c1 (uj • u1) + ... + cp (uj • up) = cj (uj • uj)
+⇓
+u •y
+= j
+Volgorde inwendig product belangrijk !
+uj • uj
+
+Orthogonale projectie
+• ∀ y ∈ Cn : y =  +z (uniek) met   ∈ W, z ∈ W⊥
+• Als {u1, ... , up} een orthogonale basis van W is:
+u •y
+u •y
+  = u 1• u u + ⋯ + u p• u u  = ProjW(y)
+
+
+
+
+• is {u1, ... , up} een orthonormale (uj • uj = 1) basis:
+  = (u1 • y) u + ⋯ + (up • y)u 
+u1 • y
+u
+…
+u
+⋮
+ 
+= 
+=  ∗ 
+up • y
+ProjW(y) =  ∗ 
+•  ∈ Cnxp met orthonormale kolommen, dan is  ∗ ∈ Cnxn de
+projectiematrix op Span {u1, ... , up} = Col(U)
+• U ∈ Cnxn met orthonormale kolommen heet unitair
+ ∗ =  ∗  = In zodat   =  ∗
+
+2
+
+ 30/10/2019
+
+Eigenwaardenontbinding van
+Hermitische matrices
+• De eigenwaarden van een Hermitische matrix C zijn reëel
+Cv=λv ⇒ v*Cv=λv*v
+v*v ∈ R, (v*Cv)*= v*C* v = v*Cv dus ∈ R ⇒ λ ∈ R
+
+• De eigenruimten bij verschillende e.w. van een Hermitische matrix C
+zijn orthogonaal
+Cv1=λ1v1 ; Cv2=λ2v2
+λ1 v2*v1 = v2*Cv1 = v2*C*v1 = (v1*Cv2)*=(λ2 v1*v2)*= λ2 v2*v1
+(λ1 - λ2) (v2*v1) = 0 ⇒ v2*v1 = 0 ⇒ v2 ⊥ v1
+• C = U D U* met
+U een unitaire matrix
+D een reële diagonale matrix
+
+Gram-Schmidt en QR
+• GS: Zelfde aanpak als in Rn of elke andere
+vectorruimte …
+• A = QR met
+o A = [a1, ... , an] ∈ Cmxn met l.o. kolommen
+o Q = [u1, ... , un]∈ Cmxn unitair
+o R ∈ Cnxn bovendriehoeks, inverteerbaar; ri,i kunnen
+reëel en strikt positief gekozen worden.
+ai = ri,i ui + ri-1,i ui-1 + ri-2,i ui-2 + ... + r1,i u1
+Projectie van ai op Wi-1 = Span{u1, ... , ui-1} = Span {a1, ... , ai-1}
+zi = ai - ProjWi-1(ai)
+ri,i = zi
+
+3
+
+ 30/10/2019
+
+Kleinste kwadraten
+A = [a1, ... , an] ∈ Cmxn, b ∈ Cm,
+zoek x ∈ Cn zodat  −  minimaal
+⇔ Ax-b ⊥ Col A
+⇔ Ax-b ⊥ ai voor i = 1 ... n
+⇔ voldoet aan normaalvergelijkingen A*Ax = A* b
+
+4
+
+ 

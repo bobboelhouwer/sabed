@@ -1,0 +1,441 @@
+Nederlandse Taalkunde I
+Hoofdstuk 11 (deel II)
+Handboek pp.361–375
+(incl. het naamwoordelijk gezegde uit pp.319–361)
+
+Jeroen van Craenenbroeck
+
+ Protoypiciteit herbekeken
+(1)
+
+Het probleem wordt opgelost door de vrouw.
+
+(2)
+
+(3)
+
+Het probleem wordt opgelost door de vrouw
+10
+
+20
+
+21
+
+70
+
+ Protoypiciteit herbekeken
+:
+1. Constituentstype, vervangbaarheid, en verplaatsbaarheid zijn
+(syntactische) criteria >< valentie is een
+(semantisch) criterium.
+2. Syntactische en semantische criteria leiden soms tot verschillende
+conclusies met betrekking tot zinsontleding.
+3. Als we dergelijke discrepanties tegenkomen, dan volgen wij in onze
+zinsontleding de vormelijke criteria, niet de betekenisgebaseerde.
+
+ Het subjectscomplement
+(4)
+
+Dat Mohammed hard werkt bleek gisteren.
+
+ Het subjectscomplement
+(5)
+
+Mohammed bleek gisteren hard te werken.
+
+ Het subjectscomplement
+(6)
+
+a.
+b.
+c.
+d.
+e.
+f.
+g.
+
+Hij schijnt jou te helpen.
+Hij lijkt me van jazz te houden.
+Hij zal zich vergist hebben.
+Hij wil zich wel eens vergissen.
+Hij mag ook wel eens met de afwas helpen.
+Hij moet reeds vertrokken zijn.
+Hij kan al vertrokken zijn.
+
+ Het subjectscomplement
+(7)
+
+Hij lijkt me van jazz te houden.
+
+ Het subjectscomplement
+(8)
+
+Hij moet reeds vertrokken zijn.
+
+ Het subjectscomplement
+Hij heeft vis moeten eten.
+
+Hij moet de vis gegeten hebben.
+
+ Het naamwoordelijk gezegde
+(9)
+
+a.
+b.
+c.
+d.
+
+Hij is ziek.
+Hij is trots op Jan.
+Hij is taalkunde beu.
+Hij is mij e 10 schuldig.
+
+(10)
+
+a.
+b.
+c.
+
+Jan is ziek.
+Jan wordt ziek.
+Jan blijft ziek.
+
+ Het naamwoordelijk gezegde
+(11)
+
+Jan is ziek.
+
+ Het naamwoordelijk gezegde
+(12)
+
+Zij blijft trots op het resultaat.
+
+ Het naamwoordelijk gezegde
+(13)
+
+Met je ogen open zie je alles.
+
+ Het naamwoordelijk gezegde
+(14)
+
+De op Marie verliefde jongen staat voor de deur.
+
+ Het naamwoordelijk gezegde
+(15)
+
+De mooie jongen staat voor de deur.
+
+ Het naamwoordelijk gezegde
+gezegde
+
+werkwoordelijk
+
+werkwoordelijk deel
+
+ﬁniet
+werkwoordelijk
+deel
+(PV)
+20
+
+niet-ﬁniet
+werkwoordelijk
+deel
+21
+
+naamwoordelijk
+23
+
+niet-werkwoordelijk
+deel
+22
+
+vnw. bij
+verplicht
+wederkerend
+ww.
+
+scheidbaar
+deel van
+samenkoppeling
+
+niet-ww. deel
+van werkwoordelijke
+uitdrukking
+
+niet-ww. deel van
+vaste verbinding
+
+niet-ww. deel
+van idiomatische
+verbinding
+
+ De “bepaling van gesteldheid”
+(16)
+
+Hij ging waarschijnlijk naar huis.
+
+(17)
+
+Hij ging teleurgesteld naar huis.
+
+(18)
+
+a.
+b.
+c.
+d.
+e.
+f.
+
+Kwaad liep hij de kamer uit.
+Mijn vader is arm gestorven.
+Als student woonde hij op kot.
+De bloemen regenen kapot.
+Dat voorstel klinkt heel interessant.
+De leiding vriest uiteen.
+
+ De “bepaling van gesteldheid”
+Hij ging teleurgesteld naar huis.
+
+De bloemen regenen kapot.
+
+ Terug naar het subjectscomplement
+code
+constituent
+valentie
+
+vervangbaarheid
+verplaatsbaarheid
+extra
+(19)
+
+a.
+b.
+c.
+d.
+
+10+
+AP, PP, NP, als-NP
+niet in valentie
+introduceert zelf valentie
+niet-weglaatbaar
+meestal niet proportioneel,
+maar soms wel met Type I (zaak) of Type III (wijze)
+??AL, VV, *MV1, *MV2, MV3, *AV, ??UL
+staat in een predicatieve relatie met het subject
+
+De bloemen regenen kapot.
+De leiding vriest aan ﬂarden.
+Jan is directeur.
+Het voorstel klinkt als muziek in mijn oren.
+
+ Terug naar het subjectscomplement
+code
+constituent
+valentie
+
+vervangbaarheid
+verplaatsbaarheid
+extra
+
+10+
+AP, PP, NP, als-NP
+niet in valentie
+introduceert zelf valentie
+niet-weglaatbaar
+meestal niet proportioneel,
+maar soms wel met Type I (zaak) of Type III (wijze)
+??AL, VV, *MV1, *MV2, MV3, *AV, ??UL
+staat in een predicatieve relatie met het subject
+
+(20)
+
+a. De bloemen regenen kapot.
+b. *De bloemen regenen dat/zo/zozeer.
+c. *Wat/Hoe regenen de bloemen?
+
+(21)
+
+a.
+b.
+c.
+
+Dat voorstel klinkt heel interessant.
+Zo klinkt dat voorstel.
+Hoe klinkt dat voorstel?
+
+ Terug naar het subjectscomplement
+code
+constituent
+valentie
+
+vervangbaarheid
+verplaatsbaarheid
+extra
+(22)
+
+10+
+AP, PP, NP, als-NP
+niet in valentie
+introduceert zelf valentie
+niet-weglaatbaar
+meestal niet proportioneel,
+maar soms wel met Type I (zaak) of Type III (wijze)
+??AL, VV, *MV1, *MV2, MV3, *AV, ??UL
+staat in een predicatieve relatie met het subject
+
+a. *Kapot, zo/dat regenen de bloemen.
+b. ?Interessant, zo klinkt het voorstel.
+c. Ziek, dat is hij niet meer.
+
+ Terug naar het subjectscomplement
+code
+constituent
+valentie
+
+vervangbaarheid
+verplaatsbaarheid
+extra
+
+10+
+AP, PP, NP, als-NP
+niet in valentie
+introduceert zelf valentie
+niet-weglaatbaar
+meestal niet proportioneel,
+maar soms wel met Type I (zaak) of Type III (wijze)
+??AL, VV, *MV1, *MV2, MV3, *AV, ??UL
+staat in een predicatieve relatie met het subject
+
+(23)
+
+a. dat het voorstel mij gisteren interessant leek.
+b. *dat het voorstel mij interessant gisteren leek.
+c. dat Masha gisteren ziek was.
+d. *dat Masha ziek gisteren was.
+e. dat de bloemen gisteren kapot regenden.
+f. *dat de bloemen kapot gisteren regenden.
+
+(24)
+
+a. *dat hij leek in de war.
+b. *dat zij was in de wolken.
+c. *dat de bloemen regenden aan ﬂarden.
+
+ Het objectscomplement
+(25)
+
+Carlos veegt de bezem aan ﬂarden.
+
+ Het objectscomplement
+code
+constituent
+valentie
+
+vervangbaarheid
+verplaatsbaarheid
+extra
+
+30+
+AP, PP, NP, als-NP
+niet in valentie
+introduceert zelf valentie
+niet-weglaatbaar
+meestal niet proportioneel,
+maar soms wel met Type III (wijze)
+??AL, VV, *MV1, *MV2, MV3, *AV, ??UL
+staat in een predicatieve relatie met het direct object
+
+(26)
+
+a.
+b.
+c.
+d.
+
+Hij maakt zijn jas vuil.
+Men verklaarde hem voor gek.
+Ik vind hem een idioot.
+Ik beschouw haar als mijn mentor.
+
+(27)
+
+a. #Carlos veegt de bezem.
+b. *Men verklaarde hem.
+c. *Ik beschouw haar.
+
+ Het objectscomplement
+code
+constituent
+valentie
+
+vervangbaarheid
+verplaatsbaarheid
+extra
+(28)
+
+30+
+AP, PP, NP, als-NP
+niet in valentie
+introduceert zelf valentie
+niet-weglaatbaar
+meestal niet proportioneel,
+maar soms wel met Type III (wijze)
+??AL, VV, *MV1, *MV2, MV3, *AV, ??UL
+staat in een predicatieve relatie met het direct object
+
+a. *Men verklaarde hem dat/zo.
+b. *Hoe/Wat verklaarde men hem?
+c. Ik vind hem *dat/??zo.
+d. Hoe/*Wat vind je hem?
+e. Ze noemen me *dat/zo.
+f. Hoe/*Wat noemen ze je?
+
+ Het objectscomplement
+code
+constituent
+valentie
+
+vervangbaarheid
+verplaatsbaarheid
+extra
+(29)
+
+30+
+AP, PP, NP, als-NP
+niet in valentie
+introduceert zelf valentie
+niet-weglaatbaar
+meestal niet proportioneel,
+maar soms wel met Type III (wijze)
+??AL, VV, *MV1, *MV2, MV3, *AV, ??UL
+staat in een predicatieve relatie met het direct object
+
+a. ??Vervelend, zo vind ik hem.
+b. Carlos heeft de bezem gisteren aan ﬂarden geveegd.
+c. *Carlos heeft de bezem aan ﬂarden gisteren geveegd.
+d. *Carlos heeft de bezem gisteren geveegd aan ﬂarden.
+
+ Het objectscomplement
+▶
+
+(30)
+
+ook hier: “bepaling van gesteldheid”
+a.
+b.
+c.
+d.
+
+Hij eet de vis rauw.
+We vangen die leeuw levend.
+Ik noem hem Jan.
+Hij noemde mij een idioot.
+
+ Het objectscomplement
+Hij eet de vis rauw.
+
+Ik noem hem Jan.
+
+ 

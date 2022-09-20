@@ -1,0 +1,89 @@
+9/09/2017
+Definitie
+• Optimalisatie: 
+zoek de waarde van x in een gegeven domein 
+waarvoor Q(x): (cid:1)n → (cid:1) een max of min bereikt
+• Hier: 
+Q(x) is kwadratische vorm: Q(x) = xTAx 
+domein is  (cid:1) = 1
+• m= min xTAx	
+(cid:1) (cid:7)(cid:8)
+• M= max xTAx
+(cid:1) (cid:7)(cid:8)
+19/09/2017
+Voorbeeld: positief definiet
+• (cid:1) = 1	is cirkel 
+met straal 1
+Voorbeeld 2: indefiniet
+• (cid:1) = 1	is cirkel 
+met straal 1
+29/09/2017
+Oplossing: veranderen van basis
+• Q(x) = xTAx = xTPDPTx = yTDy
+waarbij y = P-1x = PTx of x = Py
+• Beperking:  (cid:1) = 1⇔ (cid:1) (cid:12) = 1⇔xTx = 1
+⇔ (Py)T(Py)=1⇔ yTPTPy=1 ⇔ yTy=1
+⇔ (cid:13) (cid:12) = 1 ⇔ (cid:13) = 1
+• m= min xTAx = min yTDy
+(cid:1) (cid:7)(cid:8) (cid:13) (cid:7)(cid:8)
+• M= max xTAx = max yTDy
+(cid:1) (cid:7)(cid:8) (cid:13) (cid:7)(cid:8)
+Oplossing: maximum
+• Q(xxxx)=				yTDy =	λ (cid:18) (cid:12) +	…+λ (cid:18) (cid:12)
+(cid:8) (cid:8) (cid:21) (cid:21)
+• e.w./e.v. geordend zodat λ ≥λ ≥…≥ λ
+(cid:8) (cid:12) (cid:21)
+• Q(xxxx)=	λ (cid:18) (cid:12) +	…+λ (cid:18) (cid:12) met	 (cid:13) (cid:12) = 1
+(cid:8) (cid:8) (cid:21) (cid:21)
+≤	λ (cid:18) (cid:12) +	…+λ (cid:18) (cid:12)=	λ (cid:18) (cid:12) +	…+(cid:18) (cid:12) =	λ
+(cid:8) (cid:8) (cid:8) (cid:21) (cid:8) (cid:8) (cid:21) (cid:8)
+bereikt als y =±1 en y=0 met i=2...n
+1 i
+±1
+y= 0 = ±e of x= ±P e = ±u de genormeerde e.v. 
+⋮ 1 1 1
+0
+horende bij λ
+(cid:8)
+• M= max xTAx= max yTDy= λ
+(cid:8)
+(cid:1) (cid:7)(cid:8) (cid:13) (cid:7)(cid:8)
+39/09/2017
+Gelijkaardig: minimum
+• Q(xxxx)=				yTDy =	λ (cid:18) (cid:12) +	…+λ (cid:18) (cid:12)
+(cid:8) (cid:8) (cid:21) (cid:21)
+• e.w./e.v. geordend zodat λ ≥λ ≥…≥ λ
+(cid:8) (cid:12) (cid:21)
+• Q(xxxx)=	λ (cid:18) (cid:12) +	…+λ (cid:18) (cid:12) met	 (cid:13) (cid:12) = 1
+(cid:8) (cid:8) (cid:21) (cid:21)
+≥	λ (cid:18) (cid:12) +	…+λ (cid:18) (cid:12)=	λ (cid:18) (cid:12) +	…+(cid:18) (cid:12) =	λ
+(cid:21) (cid:8) (cid:21) (cid:21) (cid:21) (cid:8) (cid:21) (cid:21)
+bereikt als y =±1 en y=0 met i=1...n-1
+n i
+0
+⋮
+y= = ±e of x= ±P e = ±u de genormeerde e.v. 
+0 n n n
+±1
+horende bij λ
+(cid:21)
+• m	= min xTAx= min yTDy = λ
+(cid:21)
+(cid:1) (cid:7)(cid:8) (cid:13) (cid:7)(cid:8)
+Optimalizatie met beperkingen
+• Beperking:  (cid:1) (cid:12) = 1 en xTu =0
+1
+u (cid:26)
+1
+• Herinner y = PTx =  ⋮ x maw y =0
+1
+u (cid:26)
+n
+• Grootste waarde van 
+Q(xxxx)=				xTAx =	λ (cid:18) (cid:12) +	λ (cid:18) (cid:12) + ⋯+ λ (cid:18) (cid:12)
+(cid:8) (cid:8) (cid:12) (cid:12) (cid:21) (cid:21)
+bereikt bij y = ±e
+2
+• M= max xTAx = max yTDy= λ
+(cid:1) (cid:7)(cid:8),				x⊥u1  (cid:13) (cid:7)(cid:8),(cid:29)(cid:30)(cid:7)(cid:31) (cid:12)
+4

@@ -1,0 +1,1423 @@
+Toegepaste Algebra: Aanvullingen
+Auteurs
+Vincent Rijmen en Hugo Van hamme
+Augustus 2021Inhoudsopgave
+Afkortingen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+1 Beschrijving van signalen en systemen 5
+1.1 Nut . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+1.2 Signalen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+1.2.1 Discrete signalen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+1.2.2 Deﬁnitie . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+1.2.3 Verschuiving in de tijd . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+1.3 Systemen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+1.3.1 Deﬁnitie . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+1.3.2 Synthese . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+1.4 Toestandsbeschrijving . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+1.4.1 Toestand . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+1.4.2 Toestandsbeschrijving aﬂeiden uit het schema . . . . . . . . . . . . . . 10
+2 Analyse van systemen 12
+2.1 Numeriek . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+2.2 Oplossen van de toestandsvergelijkingen . . . . . . . . . . . . . . . . . . . . . 12
+2.3 Equivalente beschrijvingen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+2.3.1 Verandering van toestandsvector . . . . . . . . . . . . . . . . . . . . . 13
+2.3.2 Diagonaalvorm . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+2.3.3 Inwendige stabiliteit . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+2.3.4 Nulingangsresponsie . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+2.3.5 Canonieke vorm . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+2.3.6 Canonieke vorm en diﬀerentievergelijkingen . . . . . . . . . . . . . . . 23
+2.4 Impulsresponsie . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24
+2.4.1 Impuls en eenheidsstap . . . . . . . . . . . . . . . . . . . . . . . . . . 24
+2.4.2 Responsie op een impuls . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+2.4.3 Responsie op een willekeurige ingang . . . . . . . . . . . . . . . . . . . 25
+2.4.4 Convolutie . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 26
+2.4.5 Impulsresponsie in de toestandsbeschrijving . . . . . . . . . . . . . . . 27
+2.4.6 Vorm van de impulsresponsie . . . . . . . . . . . . . . . . . . . . . . . 30
+3 Voorbeelden inwendig product (Lay H6.8) 31
+3.1 Discrete signalen over een beperkt tijdsinterval . . . . . . . . . . . . . . . . . 31
+3.1.1 Deﬁnitie van een inwendig product . . . . . . . . . . . . . . . . . . . . 31
+3.1.2 Een orthonormale basis . . . . . . . . . . . . . . . . . . . . . . . . . . 31
+14 Aanvullingen op H6 36
+4.1 Inleiding . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 36
+4.2 Hermitiaans product . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 36
+4.2.1 Inleidende begrippen . . . . . . . . . . . . . . . . . . . . . . . . . . . . 36
+4.2.2 Deﬁnitie . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 37
+4.2.3 Eigenschappen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 37
+4.2.4 Lengte en afstand . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 38
+4.2.5 Orthogonale vectoren . . . . . . . . . . . . . . . . . . . . . . . . . . . 38
+4.3 Orthogonale verzamelingen . . . . . . . . . . . . . . . . . . . . . . . . . . . . 38
+4.4 Eigenwaardenontbinding van Hermitische matrices . . . . . . . . . . . . . . . 39
+4.5 Orthogonale projecties . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 39
+4.6 Gram-Schmidt, QR factorisatie . . . . . . . . . . . . . . . . . . . . . . . . . . 40
+4.7 Kleinste kwadraten . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 40
+2Afkortingen
+DTLTI Discrete-Tijd Lineair Tijdsinvariant
+MIMO Multiple-Input Multiple-Output
+SISO Single-Input Single-Output
+K.P. karakteristieke polynoom
+3Voorwoord
+Elkefeedbackiswelkomopvincent.rijmen@esat.kuleuven.beenhugo.vanhamme@esat.kuleuven.be.
+Wij bedanken Prof. J. Vandewalle en Prof. R. Cools, eerdere docenten van dit vak en
+bronnen van inspiratie voor ons.
+Vincent Rijmen & Hugo Van hamme
+augustus 2021
+4Hoofdstuk 1
+Beschrijving van signalen en
+systemen
+1.1 Nut
+In het algemeen kunnen we stellen dat ´e´en van de taken van een ingenieur is om fysische
+processen te analyseren en te be¨ınvloeden. Grote industri¨ele ovens, scheikundige reactoren,
+trillende machines, wagens, vliegtuigen, ... zijn allemaal voorbeelden van fysische processen
+waar ingenieurs mee te maken krijgen. Het blijkt dat veel processen zich op vergelijkbare
+manieren gedragen en op gelijkaardige manieren be¨ınvloed kunnen worden om een bepaald
+gewenst gedrag te vertonen. In vele gevallen kunnen we abstractie maken van de fysische
+aspecten van een toepassing en een meer algemeen wiskundig model bestuderen. De studie
+van de wiskundige eigenschappen van het model laat reeds toe om belangrijke conclusies te
+trekken over bevoorbeeld stabiliteit en reactietijd van de toepassing.
+1.2 Signalen
+1.2.1 Discrete signalen
+Een signaal is een functie die een fysische grootheid voorstelt, bijvoorbeeld de sterkte van een
+elektrische stroom, de uitwijking van een slinger, ...
+De meeste fysische grootheden veranderen continu in de tijd. Ze worden voorgesteld
+door continue functies. Een digitale computer werkt echter met een discreet beeld van de
+tijd. De resultaten van berekeningen en de waarden opgeslagen in het geheugen zijn pas
+goed gedeﬁnieerd op het einde van een klokcyclus. Een signaal dat verwerkt wordt op een
+digitale computer is altijd een discrete-tijd signaal. Het is mogelijk om continue signalen
+precies te benaderen door middel van discrete-tijd signalen. Deze techniek heet bemonsteren
+en wordt behandeld in de cursus Informatie-overdracht en -verwerking. Figuur 1.1 toont een
+voorbeeld van een continue signaal en het discrete-tijd signaal dat eruit kan worden afgeleid
+door bemonstering. Daarnaast bestaan er ook signalen die van nature uit discrete-tijd zijn,
+bijvoorbeeld: het aantal uren zonlicht op een dag.
+5Figuur 1.1: Continu signaal (links) en het door bemonstering hieruit afgeleide discrete-tijd
+signaal (rechts).
+1.2.2 Deﬁnitie
+We behandelen hier enkel discrete-tijd signalen. Verder nemen we meestal aan dat signalen
+gelijk zijn aan 0 voor negatieve tijdstippen. Men noemt dit enkelzijdige signalen.
+Deﬁnitie 1.1. Een enkelzijdig discrete-tijd signaal is een functie van de natuurlijke
+getallen naar de re¨ele getallen.
+N → R : k (cid:55)→ x[k]
+We noteren de verzameling van alle enkelzijdige discrete-tijd signalen met S. Een enkelzij-
+digdiscrete-tijdsignaalkanvoorgesteldwordendoormiddelvaneenopsomming,bijvoorbeeld:
+x[k] = 0,1,1,2,1,1,3,...
+of door middel van een formule (voorschrift), bijvoorbeeld:
+x[k] = (−3)k +(1/2)k, k ≥ 0
+(cid:18) (cid:19)
+π
+y[k] = 2cos 2k+ , k ≥ 0
+3
+De voorwaarde k ≥ 0 zullen we niet altijd expliciet vermelden. Bij uitbreiding kunnen we
+ook stellen dat de signalen gedeﬁnieerd zijn voor alle k ∈ Z maar de waarde nul aannemen
+voor k < 0. Uitzonderlijk (bijvoorbeeld in de volgende paragraaf) nemen de signalen toch
+niet nulle waarden aan voor k < 0, maar dan zullen we dat uitdrukkelijk vermelden.
+Deﬁnitie 1.2. Verschillende signalen samen kunnen we voorstellen door een signaalvector:
+ 
+x [k]
+1
+x [k]
+x[k] =  2 
+ ... 
+ 
+x [k]
+n
+6Figuur 1.2: De signalen a[k], b[k] = a[k − 1] en c[k] = a[k + 2]. (De signalen zijn enkel
+gedeﬁnieerd voor gehele waarden van k. De lijnen daartussen zijn enkel getekend om aan te
+geven welke waarden bij hetzelfde signaal horen.)
+1.2.3 Verschuiving in de tijd
+Bekijken we de 3 signalen gegeven door de volgende beschrijvingen:
+a[k] = k3−9k2+23k−15 = (k−1)(k−3)(k−5), k ≥ 0 (1.1)
+b[k] = k3−12k2+44k−48 = (k−2)(k−4)(k−6), k ≥ 1 (1.2)
+c[k] = k3−3k2−k+3 = (k+1)(k−1)(k−3), k ≥ −2 (1.3)
+Uit de formules volgt dat ∀k : b[k] = a[k − 1] en c[k] = a[k + 2]. Figuur 1.2 toont de 3
+signalen. We zien dat het signaal b[k] overeenkomt met een verschuiving van het signaal a[k]
+over´e´en stap naar rechts, en het signaal c[k] met een verschuiving van a[k] over twee stappen
+naar links. Informeel kunnen we stellen dat op elk tijdstip k het signaal b[k] ´e´en stap “achter
+loopt” op a[k], terwijl c[k] al twee stappen “verder” ge¨evolueerd is. Meer algemeen kunnen
+we stellen dat als we in het voorschrift van een signaal x[k] overal k vervangen door k−j, dit
+overeenkomt met een vertraging van het signaal over j tijdsstappen.
+1.3 Systemen
+1.3.1 Deﬁnitie
+Deﬁnitie 1.3. Een systeem is een wiskundige beschrijving van een fysisch proces. Een
+systeem krijgt invoer vanuit ´e´en of meerdere ingangssignalen. De geproduceerde uitvoer
+noemen we het uitgangssignaal of de uitgangssignalen.
+De uitgangssignalen van een systeem noemen we ook de responsie van het systeem. We
+noteren het aantal ingangssignalen met m en het aantal uitgangssignalen met l. Een discrete-
+tijd systeem is een systeem dat werkt met enkel discrete-tijd signalen. Bij een discrete-tijd
+7u[k] T y[k]
+Figuur 1.3: Een systeem voorgesteld als ´e´en blok.
+systeem noteren we de ingangssignalen met u[k] en de uitgangssignalen met y[k]. Met de
+notatie
+(cid:0) (cid:1)
+y[k] = T u[k] (1.4)
+drukken we uit dat wanneer de ingang u[k] aan het systeem aangelegd wordt, dit resulteert
+in de uitgang y[k] (zie Figuur 1.3). Wiskundig kunnen we een systeem beschouwen als een
+afbeelding van de ingangssignalen u[k] ∈ Sm naar de uitgangssignalen y[k] ∈ Sl:
+T : Sm → Sl : u[k] (cid:55)→ y[k] = T (cid:0)u[k](cid:1) (1.5)
+Deﬁnitie 1.4. Een tijdsinvariant systeem is een systeem met een beschrijving die constant
+blijft in de tijd.
+Een tijdsinvariant systeem heeft de volgende eigenschap:
+T (cid:0)u[k](cid:1) = y[k] ⇔ ∀j ∈ Z : T (cid:0)u[k−j](cid:1) = y[k−j] (1.6)
+Bij een tijdsinvariant systeem kunnen wel de ingangs- en uitgangssignalen veranderen in de
+tijd, maar het verband tussen de signalen onderling verandert niet in de tijd.
+Deﬁnitie 1.5. Een lineair systeem is een systeem met de volgende eigenschap.
+(cid:41)
+(cid:0) (cid:1)
+T (cid:0)u[k](cid:1) = y[k] ⇒ ∀a,b ∈ R : T (cid:0)au[k]+bv[k](cid:1) = ay[k]+bz[k] (1.7)
+T v[k] = z[k]
+Een discrete-tijd lineair tijdsinvariant systeem korten we voortaan af tot DTLTI systeem.
+1.3.2 Synthese
+Elk lineair discrete-tijd tijdsinvariant systeem kan beschreven worden door bouwblokken van
+slechts 3 verschillende types te gebruiken. Deze types bouwblokken hebben de volgende
+beschrijvingen:
+schaalelement: De uitgang is a keer de ingang (a ∈ R):
+y[k] = a·u[k] (1.8)
+sommator: De uitgang is de som van de twee ingangen:
+y[k] = u [k]+u [k] (1.9)
+1 2
+We laten ook sommatoren met meer dan twee ingangen toe. Ze zijn equivalent met een
+reeks van sommatoren met elk slechts 2 ingangen. We laten ook toe dat een sommator
+gebruikt wordt om een verschil te berekenen. Zo’n bouwblok is equivalent met een
+schaling met a = −1 gevolgd door een gewone sommator.
+8u[k] y[k]
++
+−1/2
+−1/2
+3/2
+D + D +
+1/2
+D 3/8
+Figuur 1.4: Een schema van een lineair discrete-tijd tijdsinvariant systeem
+geheugenelement: De uitgang is gelijk aan de waarde van de ingang op het vorige tijdstip:
+y[k] = u[k−1] (1.10)
+wat equivalent is met
+y[k+1] = u[k] (1.11)
+Men noemt de beschrijving van een systeem met behulp van deze drie types bouwblokken een
+synthese.
+Omgekeerdgeldtookdatelkdiscrete-tijdsysteemdatbeschrevenkanwordendooruitslui-
+tend gebruik te maken van bovenstaande drie bouwblokken, lineair en tijdsinvariant is. Een
+lineair discrete-tijd tijdsinvariant systeem kan ook graﬁsch voorgesteld worden. We noemen
+deze graﬁsche voorstelling het schema van het systeem. Figuur 1.4 geeft een voorbeeld van
+zo’n schema.
+1.4 Toestandsbeschrijving
+1.4.1 Toestand
+De inhoud van ieder geheugenelement van een systeem vormt ook een signaal. We noteren
+het uitgangssignaal van geheugenelement i met x [k]. De vector die de inhoud van alle geheu-
+i
+genelementen bevat, noemen we de toestandsvector of kortweg de toestand van het systeem.
+ 
+x [k]
+1
+x [k]
+x[k] =  2 
+ ... 
+ 
+x [k]
+n
+Deﬁnitie 1.6. De begintoestand van een systeem is de waarde van de toestandsvector op
+tijdstip k = 0.
+9Deﬁnitie 1.7. De lengte van de toestandsvector, dit is het aantal geheugenelementen in het
+schema van het systeem, noemen we de orde van het systeem.
+1.4.2 Toestandsbeschrijving aﬂeiden uit het schema
+De toestandsbeschrijving van een systeem leiden we af uit het schema door de volgende 3
+stappen te volgen:
+1. Per deﬁnitie zijn de uitgangen van de geheugenelementen gelijk aan de signalen x [k].
+i
+De nummering van de geheugenelementen kunnen we vrij kiezen. Uit (1.11) volgt dat
+de uitgang van een geheugenelement gelijk is aan x [k] als de ingang van dat geheugen-
+i
+element gelijk is aan x [k+1].
+i
+2. Gebruik de vergelijkingen van de sommatoren en schaalelementen zoals (1.9) en (1.8)
+om de ingangen van de geheugenelementen uit te drukken als lineaire combinaties van
+de toestandssignalen x [k] en de ingangssignalen u [k] van het systeem.
+i i
+3. Schrijfookdeuitgangeny [k]vanhetsysteemalslineairecombinatiesvandetoestands-
+i
+signalen x [k] en de ingangssignalen u [k] van het systeem.
+i i
+Op die manier krijgen we vergelijkingen van de volgende vorm:
+x[k+1] = Ax[k]+Bu[k] (1.12)
+y[k] = Cx[k]+Du[k] (1.13)
+Voor een systeem van orde n met m ingangssignalen en l uitgangssignalen, is A een n×n
+matrix, B een n×m matrix, C een l×n matrix en D een l×m matrix. Figuur 1.5 geeft een
+schematische voorstelling van de rol van deze 4 matrices.
+Deﬁnitie 1.8. De matrices A,B,C,D van hierboven vormen de toestandsbeschrijving
+van een systeem.
+De toestandsbeschrijving van een systeem is niet uniek. Dit volgt al uit het feit dat we
+de nummering van de geheugenelementen vrij mogen kiezen. Hierdoor kunnen de elementen
+in de matrices van plaats wisselen. De belangrijke eigenschappen van een systeem, die we
+verderop zullen bespreken, zijn wel uniek.
+Wanneer l = m = 1 hebben we een Single-Input/Single-Output (SISO) systeem. Bij een
+SISO systeem zullen we de notatie u[k],y[k] vervangen door u[k],y[k]. De matrix B wordt
+dan een kolomvector die we noteren als b, de matrix C wordt een rijvector c en de matrix D
+wordt een scalair d.
+Oefening 1.1. Bepaal de toestandsbeschrijving van het systeem waarvan Figuur 1.4 het
+schema geeft.
+We noemen de uitgang van het geheugenelement rechtsboven x , linksboven x en onder-
+1 2
+aan x . Dan krijgen we de volgende vergelijkingen:
+3
+x [k+1] = 1/4x [k]−3/4x [k]+3/8x [k]−1/2u[k] (1.14)
+1 1 2 3
+x [k+1] = x [k]+1/2x [k] (1.15)
+2 1 2
+x [k+1] = x [k] (1.16)
+3 2
+y[k] = −1/2x [k]+3/2x [k]+u[k] (1.17)
+1 2
+10A
+x[k]
+m n
+u[k] B +
+C
+l
+D + y[k]
+Figuur 1.5: Schematische weergave van de rol van de matrices A, B, C en D uit de toe-
+standsvoorstelling.
+Dit geeft voor de toestandsbeschrijving:
+   
+1/4 −3/4 3/8 −1/2
+x[k+1] =  1 1/2 0 x[k]+ 0 u[k] (1.18)
+   
+0 1 0 0
+(cid:124) (cid:123)(cid:122) (cid:125) (cid:124) (cid:123)(cid:122) (cid:125)
+A B
+(cid:104) (cid:105) (cid:104) (cid:105)
+y[k] = −1/2 3/2 0 x[k]+ 1 u[k] (1.19)
+(cid:124) (cid:123)(cid:122) (cid:125) (cid:124)(cid:123)(cid:122)(cid:125)
+C D
+11Hoofdstuk 2
+Analyse van systemen
+2.1 Numeriek
+Wanneer we voor een systeem de begintoestand x[0] kennen en de ingangssignalen u[k] voor
+k = 0,1,2,..., dan kunnen we (1.12) gebruiken om x[k] te berekenen voor k = 1,2,3,...,
+alsook (1.13) om de uitgangssignalen y[k] voor k = 0,1,2,... te berekenen.
+Oefening 2.1. Neem aan dat het systeem van Oefening 1.1 vertrekt uit de nultoestand. Be-
+reken voor k = 0,1,2,3,4,5 de toestand en de uitgang die ontstaan als u[k] = {1,1,1,0,0,0}.
+We vullen de gekende waarden in in de formules (1.18) en (1.19) en bepalen zo de gevraagde
+signalen:
+k u[k] x [k] x [k] x [k] y[k]
+1 2 3
+0 1 0 0 0 1
+1 1 −1/2 0 0 5/4
+2 1 −5/8 −1/2 0 9/16
+3 0 −9/32 −7/8 −1/2 −75/64
+4 0 51/128 −23/32 −7/8 −327/256
+5 0 159/512 5/128 −23/32 −99/1024
+2.2 Oplossen van de toestandsvergelijkingen
+Inplaatsvanexhaustieftewerken,kunnenweookdeevolutievandetoestandvaneensysteem
+symbolisch beschrijven. We bekijken eerst de evolutie van de toestandsvector. Herhaaldelijk
+toepassen van (1.12) geeft:
+x[1] = Ax[0]+Bu[0] (2.1)
+x[2] = Ax[1]+Bu[1] (2.2)
+= A2x[0]+ABu[0]+Bu[1] (2.3)
+In het algemeen krijgen we voor k > 0:
+k−1
+(cid:88)
+x[k] = Akx[0]+ Ak−1−jBu[j] (2.4)
+j=0
+12Indien de ingangssignalen u[k] = 0 voor k = 0,1,2,... dan krijgen we een systeem dat zonder
+ingangen evolueert:
+x[k] = Akx[0] (2.5)
+De bespreking in Lay, Hoofdstuk 5.6 is beperkt tot systemen zonder ingangen, maar wij
+behandelen de meer algemene vorm. Bekijken we nu de uitgangssignalen. Voor k = 0 geldt:
+y[0] = Cx[0]+Du[0] (2.6)
+Voor k > 0 gebruiken we (2.4) in (1.13) en bekomen:
+k−1
+(cid:88)
+y[k] = CAkx[0]+ CAk−1−jBu[j]+Du[k] (2.7)
+j=0
+De responsie van het systeem kan opgedeeld worden in twee termen:
+het gedeelte CAkx[0] is evenredig met de begintoestand x[0]. Dit gedeelte noemen we de
+nulingangsresponsie.
+k−1
+(cid:88)
+het gedeelte CAk−1−jBu[j]+Du[k] wordt veroorzaakt door de ingang u[k]. Dit ge-
+j=0
+deelte noemen we de nultoestandsresponsie.
+2.3 Equivalente beschrijvingen
+2.3.1 Verandering van toestandsvector
+We hebben de werking van het discrete-tijd lineair tijdsinvariant systeem beschreven door:
+x[k+1] = Ax[k]+Bu[k] (2.8)
+y[k] = Cx[k]+Du[k] (2.9)
+We illustreren nu dat de toestandsvector x[k] niet uniek is. Beschik je over een toestandsbe-
+schrijving (2.8) en (2.9), dan kan je een nieuwe toestandsvector w[k] deﬁni¨eren zodat
+x[k] = Pw[k] (2.10)
+met P een inverteerbare n×n matrix. Substitueer (2.10) in (2.8):
+Pw[k+1] = APw[k]+Bu[k] (2.11)
+Daar P inverteerbaar is kunnen we beide leden van de vergelijking links met P−1 vermenig-
+vuldigen:
+w[k+1] = P−1APw[k]+P−1Bu[k] (2.12)
+Gelijkaardig vormen we (2.9) om tot
+y[k] = CPw[k]+Du[k] (2.13)
+13Deﬁni¨eer nu de nieuwe toestandsbeschrijvingsmatrices:
+A = P−1AP (2.14)
+B = P−1B (2.15)
+C = CP (2.16)
+D = D (2.17)
+dan krijgt hetzelfde systeem een toestandsbeschrijving uitgedrukt met de toestandsvector
+w[k]:
+w[k+1] = Aw[k]+Bu[k] (2.18)
+y[k] = Cw[k]+Du[k] (2.19)
+Deze vergelijkingen hebben ook de vorm van een toestandsbeschrijving zoals in (2.8) en (2.9)
+en vormen een equivalente beschrijving van het oorspronkelijke systeem. Het verband tussen
+de ingang u[k] en de uitgang y[k] blijft hetzelfde: vergelijkingen (2.18) en (2.19) zijn geldig
+enkel en alleen als (2.8) en (2.9) geldig zijn, dus heeft het systeem met de nieuwe toestands-
+beschrijving hetzelfde gedrag als het systeem met de oude toestandsbeschrijving. Met andere
+woorden, het verband tussen beide systemen is sterker dan alleen maar vormelijk. Merk op
+dat we A en A herkennen als gelijkvormige matrices (Lay paragraaf 5.2).
+We berekenen nu de nulingangsresponsie voor beide systemen. Met u[k] = 0 wordt de
+nulingangsresponsie voor de originele beschrijving:
+x[k] = Ax[k−1] = Akx[0] (2.20)
+y[k] = Cx[k] = CAkx[0] (2.21)
+Voor de nieuwe toestandsbeschrijving vinden we:
+k
+w[k] = Aw[k−1] = A w[0] (2.22)
+y[k] = Cw[k] = C Akw[0] = CPP−1AkPw[0] = CAkPw[0] (2.23)
+Dus hebben beide beschrijvingen dezelfde respons op een niet-nulle initi¨ele toestand (bij
+nulle ingang, m.a.w. de nulingangsresponsie), mits we het verband aanhouden dat x[0] =
+Pw[0] of dus de initi¨ele toestand van de nieuwe beschrijving kiezen als w[0] = P−1x[0]. De
+nulingangsresponsies van beide systemen zijn dus gelijk. Daarnaast hebben we hierboven ook
+aangetoond dat beide beschrijvingen ook dezefde respons hebben op een niet-nulle ingang.
+Vertrekken beide systemen uit de nultoestand, dan zullen ze ook dezelfde uitgangssignalen
+genererenindiendeingangssignalengelijkzijn, m.a.w. ookdenultoestandsresponsieszijnook
+gelijk.
+2.3.2 Diagonaalvorm
+Veronderstel dat A in (2.8) diagonaliseerbaar is, dan kiezen we de kolommen van P gelijk
+aan de n lineair onafhankelijke eigenvectoren van A en wordt A een diagonaalmatrix die we
+met Λ noteren:
+Λ = P−1AP (2.24)
+A = PΛP−1 (2.25)
+14De matrixvergelijking (2.18) transformeert in n scalaire uitdrukkingen die elk maar ´e´en sca-
+laire toestandsveranderlijke bevatten:
+w [k+1] = λ w [k]+B u[k] i = 1...n (2.26)
+i i i i
+waarbij B de i-de rij van B is en λ , i = 1...n de elementen op de diagonaal van Λ zijn.
+i i
+We beschouwen voor de rest van deze paragraaf enkel SISO-systemen. Voor een SISO
+systeem wordt de matrix B een kolomvector, die we noteren met b. De matrix C wordt een
+rijvector, die we noteren met c. De matrix D wordt een re¨eel getal, dat we noteren met d.
+We kunnen dan de toestandsbeschrijving graﬁsch weergeven als in Figuur 2.1. Hierin kunnen
+we zien hoe de uitgang is samengesteld uit de som van de responsies van n onafhankelijk
+werkende eerste-orde systemen, plus een directe verbinding tussen ingang en uitgang.
+Merk op dat het kan zijn dat een element in de vector b nul is. Er is dan geen verbinding
+van de ingang van het systeem naar de betreﬀende toestandsveranderlijke. We kunnen de
+toestandsveranderlijke dan ook niet be¨ınvloeden via de ingang. Deze toestand noemen we
+niet-controleerbaar. Een niet-controleerbare toestand kan ook niet bijdragen tot de nultoe-
+standsresponsie van het systeem. Analoog kan een element van c nul zijn. De corresponde-
+rende toestand noemen we niet-observeerbaar, daar hij niet bijdraagt tot het uitgangssignaal.
+Een niet-observeerbare toestand draagt evenmin bij tot de nultoestandsresponsie van het
+systeem.
+Een systeem dat niet-controleerbare of niet-observeerbare toestanden bevat noemen we
+niet-minimaal. Erbestaatdaneensysteemmeteenkleineraantaltoestandsveranderlijkendat
+voor hetzelfde ingangssignaal hetzelfde uitgangssignaal zal genereren, namelijk het systeem
+waarin alle niet-observeerbare en niet-controleerbare toestanden verwijderd zijn. Dit kleinere
+systeem noemen we een minimale realisatie van het oorspronkelijke systeem.
+IndienAcomplexeeigenwaardenheeft,dankomendezesteedsinparen{λ ,λ },waarbij
+i i+1
+λ de complex toegevoegde is van λ . Er zal dan ook steeds gelden dat b de complex
+i+1 i i+1
+toegevoegde is van b en dat c de complex toegevoegde is van c . Voor re¨ele ingangen u[k]
+i i+1 i
+zal dan ook w [k] de complex toegevoegde zijn van w [k] en de som van hun bijdragen tot
+i+1 i
+y[k] zal ook een re¨eel getal zijn.
+Indien A niet diagonaliseerbaar is, dan kan het systeem niet precies in de vorm van
+Figuur 2.1 gebracht worden, maar wel in een vorm die er op lijkt. Een diepere behandeling
+van niet-diagonaliseerbare A valt buiten het bestek van deze cursus.
+2.3.3 Inwendige stabiliteit
+Deﬁnitie 2.1. Een DTLTI systeem is inwendig stabiel indien voor om het even welke
+begintoestand x[0] geldt dat bij ingang nul (u[k] = 0 ∀k) de toestand x[k] evolueert naar de
+nulvector wanneer k naar ∞ gaat.
+De diagonaalvorm van de toestandsbeschrijving (2.8) is erg geschikt om de inwendige
+stabiliteit te bestuderen. Aangezien u[k] = 0 geldt x[k+1] = Ax[k] en dus:
+x[k] = Akx[0] (2.27)
+Het gedrag van x[k] wordt ook besproken in paragraaf 5.6 van het handboek van Lay. We
+hernemen hier de belangrijkste elementen. Indien A diagonaliseerbaar is, dan vinden we:
+x[k] = PΛkP−1x[0] (2.28)
+15u[k]	   d y[k]	  
+b1 w1[k+1]	   D	   w1[k]	   c1
+λ1
+b2 w2[k+1]	   D	   w2[k]	   c2
+λ2
+…
+	  
+bn wn[k+1]	   D	   wn[k]	   cn
+λn
+Figuur 2.1: Diagonale vorm van het systeem voor diagonaliseerbare A.
+en
+x[k] = λkw [0]p +λkw [0]p +···+λkw [0]p (2.29)
+1 1 1 2 2 2 n n n
+waarbij P = [p ...p ] en w[0] = P−1x[0]. Het is nu duidelijk dat zodra er ´e´en eigenwaarde
+1 n
+is met |λ | ≥ 1, x[k] niet naar de nulvector zal streven voor elke begintoestand waarvoor de
+i
+w [0] (cid:54)= 0 en het systeem dus niet inwendig stabiel is. Hebben alle eigenwaarden een modulus
+i
+strikt kleiner dan ´e´en, dan komt x[k] wel willekeurig dicht bij de nulvector voor voldoende
+grote k, wat ook de begintoestand is. We hebben dus aangetoond dat een systeem inwendig
+stabiel is als en slechts als alle eigenwaarden van A strikt kleiner dan ´e´en zijn in modulus.
+Minder formeel zeggen we “de eigenwaarden moeten binnen de eenheidscirkel liggen”.
+2.3.4 Nulingangsresponsie
+Dankzij onze analyse uit de vorige paragraaf kunnen we nu ook eenvoudig aﬂeiden wat de
+algemene vorm van de nulingangsresponsie is voor een DTLTI SISO systeem met een diago-
+naliseerbare A-matrix. Voor nulle invoer volgt uit (2.29) en (1.13):
+y[k] = λkw [0] c p +λkw [0] c p +···+λkw [0] c p (2.30)
+1 1 1 2 2 2 n n n
+waarbij c een rijvector is (SISO systeem). We zien dus dat de nulingangsresponsie van een
+n-de orde systeem opgebouwd is uit ten hoogste n exponenti¨ele termen. De grootte van elke
+exponenti¨ele bijdrage hangt af van de initi¨ele conditie w [0] (i = 1...n) en van de systeemei-
+i
+genschapc×p . Isc×p = 0,danisdei-demodenietobserveerbaar, zoalshogeraangegeven.
+i i
+Het grondtal van de i-de exponenti¨ele bijdrage is de i-de eigenwaarde. Naargelang de positie
+van de eigenwaarde in het complexe vlak krijgen we verschillende karakteristieke vormen.
+Merk op dat voor systemen met een niet-diagonaliseerbare A-matrix, nog andere vormen
+kunnen optreden, namelijk het product van een polynoom en een exponenti¨ele demping. Het
+behandelen daarvan valt buiten het bestek van deze tekst.
+16Figuur 2.2: Bijdrage tot de nulingangsreponsie voor λ > 1
+i
+Figuur 2.3: Bijdrage tot de nulingangsreponsie voor λ < −1
+i
+Re¨ele eigenwaarde
+De eigenvectoren die horen bij een re¨ele eigenwaarde zijn re¨eel, dus is c×p re¨eel. Indien de
+i
+i-de mode observeerbaar is, en een re¨ele, van nul verschillende initi¨ele toestand w [0] gekozen
+i
+wordt, krijgen we een re¨ele bijdrage. Indien |λ | > 1 is het systeem inwendig onstabiel en
+i
+groeit de nulingangsresponsie zonder beperking voor k → ∞, zie Figuur 2.2. Indien λ < 0
+i
+wisselt de responsie voortdurend van teken, zie Figuur 2.3.
+Indien |λ | < 1 is het systeem inwendig stabiel en sterft de nulingangsresponsie exponen-
+i
+tieel uit voor k → ∞. Ook hier wisselt de responsie bovendien voortdurend van teken voor
+λ < 0, zie Figuur 2.4 en Figuur 2.5.
+i
+Indien λ = 1 is de impulsresponsie een constante en het systeem is inwendig instabiel, zie
+i
+Figuur 2.6 en Figuur 2.7.
+Figuur 2.4: Bijdrage tot de nulingangsreponsie voor 0 < λ < 1
+i
+17Figuur 2.5: Bijdrage tot de nulingangsreponsie voor −1 < λ < 0
+i
+Figuur 2.6: Bijdrage tot de nulingangsreponsie voor λ = 1
+i
+Figuur 2.7: Bijdrage tot de nulingangsreponsie voor λ = −1
+i
+18Complexe eigenwaarden
+Is λ een complex getal met modulus r en argument πω, m.a.w. λ = reiπω, dan moet er
+i i
+een andere eigenwaarde zijn die de complex toegevoegde is. Voor de eenvoud noemen we die
+λ = re−iπω. Merk op dat door een juiste volgorde te kiezen, we kunnen veronderstellen
+i+1
+dat 0 < ω < 1. De bijhorende eigenvectoren zijn dan ook complex toegevoegd. Wegens
+(2.10) zullen ook w [0] en w [0] complex toegevoegd zijn. Dus krijgen we een bijdrage in de
+i i+1
+nulingangsresponsie van de vorm:
+c×(λkw [0]p +λ kw [0]p )
+i i i i i i
+= 2c×Re(λkw [0]p )
+i i i
+= 2rkc×Re(eikπωw [0]p )
+i i
+= 2rkRe(eikπωw [0]c×p )
+i i
+In de laatste stap maken we gebruik van het feit dat c re¨eel is. De uitdrukking w [0]c×p is
+i i
+een complex getal dat we noteren als seiφ (modulus s, argument φ). Dus wordt de bijdrage
+van het complex toegevoegde eigenwaardenpaar:
+2srkRe(ei(φ+kπω)) = 2srkcos(φ+kπω)
+We herkennen drie factoren:
+(cid:136) de constante 2s die de grootte van de nulingangsrespons weergeeft
+(cid:136) rk stelt een exponenti¨eel verloop voor zoals beschreven in paragraaf 2.3.4, waarbij we
+een verschillend gedrag krijgen (stijgend/vlak/uitdempend) naargelang de modulus r
+van de eigenwaarde λ .
+i
+(cid:136) een cosinuso¨ıdaal verloop dat voor een golvend verloop zorgt. ω noemen we de genor-
+maliseerde frequentie van die schommelingen.
+Indien de complex toegevoegde eigenwaarden binnen de eenheidscirkel liggen (|λ | =
+i
+|λ | < 1) dempt de nulingangsrespons uit, zie Figuur 2.8. Is |λ | > 1, dan neemt de
+i+1 i
+output onbegrensd toe en is het systeem inwendig instabiel, zie Figuur 2.9. Ligt de eigen-
+waarde op de eenheidscirkel spreken we van een oscillator met genormaliseerde frequentie ω:
+eens ge¨exciteerd, blijft het systeem een sinuso¨ıdaal signaal produceren, zie Figuur 2.10. Een
+dergelijk systeem is ook onstabiel.
+19Figuur 2.8: Bijdrage tot de nulingangsrespons van twee complex toegevoegde eigenwaarden
+met |λ | < 1
+i
+Figuur 2.9: Bijdrage tot de nulingangsrespons van twee complex toegevoegde eigenwaarden
+met |λ | > 1
+i
+Figuur 2.10: Bijdrage tot de nulingangsrespons van twee complex toegevoegde eigenwaarden
+met |λ | = 1
+i
+202.3.5 Canonieke vorm
+In deze paragraaf bestuderen we enkele controleerbare SISO-systemen. We zoeken nu een
+transformatiematrixQzodatwedematricesA,bvandetoestandsbeschrijvingindevolgende
+vorm kunnen brengen:
+ 
+0 1 0 0 ··· 0
+ 0 0 1 0 ··· 0 
+ 
+A˜ =  0 ... ... 0  (2.31)
+ 0 0 ··· 0 1 0 
+ 
+ 0 0 ··· 0 0 1 
+ 
+−a˜ −a˜ ··· −a˜ −a˜ −a˜
+0 1 n−3 n−2 n−1
+(companionvorm) en
+ 
+0
+.
+.
+b˜ = . (2.32)
+0
+ 
+1
+We hebben tijdens de oefenzittingen Toegepaste Algebra afgeleid dat we de getallen a˜ recht-
+i
+streeks in de karakteristieke veelterm van A vinden.
+Als we het schema opstellen voor deze vorm van de toestandsvergelijkingen (zie Fi-
+guur2.11),danzienwedatdevertragingselementenalseenlangekettingachterelkaarkomen.
+Dit wordt uitgedrukt door de bovenste n − 1 toestandsvergelijkingen. Het ingangssignaal
+voedt enkel het eerste vertragingselement rechtstreeks. Dit wordt uitgedrukt door de speciale
+vorm van b˜. De uitgang wordt dan een lineaire combinatie van de toestandsvariabelen met
+gewichten c˜, plus een directe verbinding tussen ingang en uitgang met gewicht d˜.
+u[k]	   d! y[k]	  
+c!
+n
+c!
+n−1
+c!
+2
+c!
+1
++
+D	   D	   D	   D	  
+-­‐	  
+a! wn[k]	   wn-­‐1[k]	   w2[k]	   w1[k]	  
+n−1
+a!
+n−2
+…
+	  
+a!
+1
+a!
+0
+Figuur 2.11: Canonieke vorm van het systeem.
+21Hoe kunnen we de transformatiematrix Q construeren voor een gegeven SISO systeem
+met toestandsbeschrijving A, b, c, d? We drukken Q uit met zijn n kolommen:
+Q = [q ...q ].
+1 n
+Uit (2.15) volgt dat Qb˜ = b. Met de gekozen vorm voor b˜ vinden we direct dat
+q = b (2.33)
+n
+De gelijkvormigheid van A en A˜ drukken we uit als AQ = QA˜. Met de bijzondere vorm van
+A˜ wordt dit:
+A[q ···q ] = QA˜
+1 n
+ 
+0 1 ··· 0
+ 0 ... ... 0 
+= [q1···qn] 
+ 0 0 ··· 1 
+ 
+−a˜ −a˜ ··· −a˜
+0 1 n−1
+   
+0 1 ··· 0 0 0 ··· 0
+0 ... ... 0 0 ... ... 0 
+= [q1···qn] −[q1···qn] 
+0 0 ··· 1 0 0 ··· 0 
+   
+0 0 ··· 0 a˜ a˜ ··· a˜
+0 1 n−1
+(cid:104) (cid:105)
+= [0 q ···q ]− a˜ q a˜ q ··· a˜ q
+1 n−1 0 n 1 n n−1 n
+De i-de kolom van beide leden aan elkaar gelijk stellen:
+Aq = −a˜ q
+1 0 n
+Aq = q −a˜ q voor i = 2...n
+i i−1 i−1 n
+of met (2.33)
+Aq = −a˜ b (2.34)
+1 0
+q = Aq +a˜ b voor i = 2...n (2.35)
+i−1 i i−1
+Herschrijf voor i = n
+q = (A+a˜ I )b (2.36)
+n−1 n−1 n
+en substitueer in (2.35) voor i = n−1
+q = (A2+a˜ A+a˜ I )b (2.37)
+n−2 n−1 n−2 n
+en zo verder:
+q = (An−i+a˜ An−i−1+···+a˜ I )b voor i = 1...n−1 (2.38)
+i n−1 i n
+endusisQvollediggekend.1,2 Wekunnenvervolgensc˜ berekenenuitc˜ = cQ. Indevolgende
+paragraaf tonen we het praktisch belang van deze aﬂeiding aan.
+1De stelling van Cayley-Hamilton zegt dat An+a˜ An−1+...+a˜ A+a˜ I = 0, m.a.w. “een matrix
+n−1 1 0 n
+voldoet aan zijn eigen karakteristieve vergelijking”. Daardoor is (2.38) voor i=1 consistent met (2.34).
+2We hebben verondersteld dat het systeem controleerbaar is. Is dat niet zo, dan wordt Q singulier, en
+kunnen we niet meer van een gelijkvormigheidstransformatie spreken, want de co¨ordinatentransformatie 2.10
+voldoet niet meer aan de gestelde inverteerbaarheidsvoorwaarde. Een gedetaileerde behandeling hiervan valt
+buiten het bestek van deze cursus.
+222.3.6 Canonieke vorm en diﬀerentievergelijkingen
+In de vorige paragraaf hebben we aangetoond dat een controleerbaar discrete-tijd lineair
+tijdsinvariant (DTLTI) SISO systeem kan omgevormd worden tot een canonieke vorm. In
+deze canonieke vorm kunnen we makkelijk de toestandsvariabelen elimineren, zodat we een
+rechtstreeksverbandbekomentussendeingangu[k]endeuitgangy[k]. Wevertrekkenvanuit
+het verband
+w[k+1] = A˜w[k]+b˜u[k]. (2.39)
+Uit de n−1 eerste rijen van (2.39) volgt met (2.31) dat w [k] = w [k+1], w [k] = w [k+1] =
+2 1 3 2
+w [k+2], ... Algemeen:
+1
+w [k] = w [k+i−1] voor i = 1...n. (2.40)
+i 1
+Nemen we nu de n-de vergelijking van (2.39):
+w [k+1]+a˜ w [k]+a˜ w [k]+···+a˜ w [k] = u[k] (2.41)
+n n−1 n n−2 n−1 0 1
+Deze kunnen we d.m.v. (2.40) herschrijven als:
+w [k+n]+a˜ w [k+n−1]+a˜ w [k+n−2]+···+a˜ w [k] = u[k] (2.42)
+1 n−1 1 n−2 1 0 1
+Daar de vergelijking geldt voor alle k ≥ 0, kunnen we nog n−1 verschoven versies van deze
+vergelijking schrijven:
+w [k+n+1]+a˜ w [k+n]+···+a˜ w [k+1] = u[k+1] (2.43)
+1 n−1 1 0 1
+w [k+n+2]+a˜ w [k+n+1]+···+a˜ w [k+2] = u[k+2] (2.44)
+1 n−1 1 0 1
+.
+.
+.
+w [k+2n−1]+a˜ w [k+2n−2]+···+a˜ w [k+n−1] = u[k+n−1] (2.45)
+1 n−1 1 0 1
+Gelijkaardig kunnen we ook het verband
+y[k] = c˜w[k]+d˜u[k]. (2.46)
+herschrijven als:
+y[k] = c˜ w [k]+c˜ w [k+1]+···+c˜ w [k+n−1]+d˜u[k] (2.47)
+1 1 2 1 n 1
+Vermenigvuldigen we nu (2.42) met c˜ , (2.43) met c˜ , (2.44) met c˜ enzoverder tot (2.45) met
+1 2 3
+c˜ , tellen alle vergelijkingen op en maken gebruik van (2.47) en de verschoven versies hiervan,
+n
+dan vinden we:
+(y[k+n]−d˜u[k+n])+a˜ (y[k+n−1]−d˜u[k+n−1])+···+a˜ (y[k]−d˜u[k])
+n−1 0
+= c˜ u[k]+c˜ u[k+1]+···+c˜ u[k+n−1]
+1 2 n
+Tenslotte voeren we nieuwe notaties in:
+f = d˜en f = c˜ +d˜·a˜ voor i = 0...n−1. (2.48)
+n i i+1 i
+23We krijgen zo:
+y[k+n]+a˜ y[k+n−1]+···+a˜ y[k+1]+a˜ y[k]
+n−1 1 0
+= f u[k+n]+f u[k+n−1]+···+f u[k+1]+f u[k] (2.49)
+n n−1 1 0
+Dit noemen we een diﬀerentievergelijking: het is een (in dit geval lineair) verband tussen de
+verschoven versies van de ingang u[k] en de uitgang y[k]. We hebben dus aangetoond dat een
+toestandsbeschrijvingkanomgevormdwordentoteendiﬀerentievergelijking.3 Deco¨eﬃci¨enten
+a˜ van de diﬀerenties van y[k] worden gegeven door de co¨eﬃci¨enten van de karakteristieke
+i
+veeltermvandeA-matrixvaneentoestandsbeschrijving(alletoestandsbeschrijvingenhebben
+gelijkvormige A-matrices en dus dezelfde karakteristieke vergelijking - zie paragraaf 2.3.1).
+Omgekeerdkaneendiﬀerentievergelijkingmakkelijkomgevormdwordentoteentoestands-
+beschrijving, wat een antwoord geeft op de synthesevraag: “Hoe kan je een DTLTI systeem
+bouwen waarvan het ingangs- en uitgangssignaal aan een gegeven diﬀerentievergelijking vol-
+doen?” Wegaandanalsvolgttewerk: dea˜ stoppenwedirectin(2.31)watsamenmet(2.32)
+i
+deeerstevergelijking(2.39)vandetoestandsbeschrijvingbepaalt. Wegebruikenvervolgensde
+gegevena˜ enf omd.m.v. (2.48)detweedevergelijking(2.46)vandetoestandsbeschrijvingte
+i i
+bepalen. Ook in Figuur 2.11 zijn alle schaalelementen nu bepaald. De diﬀerentievergelijking
+en het bekomen canonieke systeem hebben dezelfde nultoestandsresponsie.4
+2.4 Impulsresponsie
+Hoewel de concepten in deze paragraaf gelden voor systemen met meerdere ingangen en
+uitgangen, beperken we de behandeling hier tot SISO systemen, zodat de notaties lichter
+worden. Naast de exhaustieve manier om een stelsel te analyseren en het oplossen van de
+toestandsvergelijkingen, bekijken we nu een derde manier om de responsie te berekenen.
+2.4.1 Impuls en eenheidsstap
+We deﬁni¨eren twee speciale signalen:
+Deﬁnitie 2.2. De impuls δ[k] is gedeﬁnieerd als volgt:
+(cid:40)
+1 k = 0
+δ[k] = (2.50)
+0 k (cid:54)= 0
+De eenheidsstap is gedeﬁnieerd als volgt:
+(cid:40)
+1 k ≥ 0
+(cid:15)[k] = (2.51)
+0 k < 0
+3In deze paragraaf hebben we eigenlijk slechts een nodige voorwaarde op het verband tussen u[k] en y[k]
+afgeleid. Is het systeem niet-observeerbaar, dan kan er een verschil bestaan in de nulingangsresponsie. Een
+meer diepgaande discussie zou ons echter te ver leiden.
+4Voordevolledigheidvermeldenwedatdenulingangsresponsievancanonieksysteemendiﬀerentievergelij-
+king verschillend kan zijn indien het resulterende systeem niet observeerbaar is. Een diepere behandeling van
+dit aspect valt buiten het bestek van deze tekst.
+242.4.2 Responsie op een impuls
+Deﬁnitie 2.3. De nultoestandsimpulsresponsie of impulsresponsie h[k] is de responsie
+van het systeem die verkregen wordt door te vertrekken met een systeem in nultoestand en een
+impuls δ[k] als inganssignaal te nemen.
+h[k] = T(δ[k])
+Bijeensysteemdatstartindenultoestandverwachtenwedatergeenresponsieisvoordat
+de ingang verschilt van 0. Zo’n systeem noemen we een causaal systeem. Voor een causaal
+systeem geldt:
+∀k < 0 : h[k] = 0 (2.52)
+2.4.3 Responsie op een willekeurige ingang
+Uit (2.50) volgt:
+(cid:40)
+1 k = j
+δ[k−j] = (2.53)
+0 k (cid:54)= j
+Een belangrijke eigenschap is dat elk discrete-tijd signaal kan geschreven worden als een
+gewogen som van verschoven impulsen:
+∞
+(cid:88)
+u[k] = u[j]δ[k−j] (2.54)
+j=−∞
+Formeel volgt deze eigenschap uit de vaststelling dat δ[k −j] enkel verschilt van 0 wanneer
+k = j. Dus van de oneindige som moeten we enkel de term overhouden met j = k. Fysisch
+kunnen we de sequentie
+∞
+(cid:88)
+δ[k−j] (2.55)
+j=−∞
+zien als een oneindige impulstrein. De vergelijking (2.54) zegt dan dat wanneer we op elk
+tijdstip j de impulstrein vermenigvuldigen met u[j], we weer het signaal u bekomen. Deze
+op het eerste gezicht triviale bewering heeft een belangrijk gevolg: de nultoestandsresponsie
+van een lineair tijdsinvariant discrete-tijd systeem kan berekend worden als de som van de
+responsies op de gewogen en verschoven impulsen.
+(cid:0) (cid:1)
+y[k] = T u[k] (2.56)
+ 
+∞
+(cid:88)
+= T  u[j]δ[k−j] (2.57)
+j=−∞
+∞
+(cid:88) (cid:0) (cid:1)
+= T u[j]δ[k−j] (2.58)
+j=−∞
+∞
+(cid:88) (cid:0) (cid:1)
+= u[j]T δ[k−j] (2.59)
+j=−∞
+∞
+(cid:88)
+= u[j]h[k−j] (2.60)
+j=−∞
+25De impulsresponsie is dus een belangrijke eigenschap van een systeem, want ze kan gebruikt
+worden om de responsie op eender welk ingangssignaal te berekenen. We illustreren dit in
+Figuur 2.12.
+ingangssignaalu[k]
+3
+2
+1
+0
+0 1 2 3 4 5 k
+ontbindinginimpulsen
+3 3 3
+2 2 2
+1 1 1
+0 0 0
+0 1 2 3 4 5 k 0 1 2 3 4 5 k 0 1 2 3 4 5 k
+responsieopelkeimpuls
+3 3 3
+2 2 2
+1 1 1
+0 0 0
+0 1 2 3 4 5 k 0 1 2 3 4 5 k 0 1 2 3 4 5 k
+responsieopu[k]
+5
+4
+3
+2
+1
+0
+0 1 2 3 4 5 k
+Figuur 2.12: Graﬁsche berekening van de responsie op een willekeurig ingangssignaal.
+2.4.4 Convolutie
+De operatie op u[k] en h[k] in (2.60) noemen we de convolutie van u[k] en h[k].
+Deﬁnitie 2.4. De convolutie van twee discrete-tijd signalen a[k] en b[k] is gedeﬁnieerd als:
+∞
+(cid:88)
+a[k]∗b[k] = a[i]b[k−i]
+i=−∞
+Voor enkelzijdige discrete-tijd signalen geldt a[k],b[k] = 0,k < 0 en kunnen we deze deﬁnitie
+dus vereenvoudigen tot:
+k
+(cid:88)
+a[k]∗b[k] = a[i]b[k−i]
+i=0
+De convolutie heeft de volgende eigenschappen:
+26Associatief:
+∀a[k],b[k],c[k] ∈ S : (a[k]∗b[k])∗c[k] = a[k]∗(b[k]∗c[k]) (2.61)
+Commutatief:
+∀a[k],b[k] ∈ S : a[k]∗b[k] = b[k]∗a[k] (2.62)
+Neutraal element: De impuls δ[k] is het neutraal element voor de convolutie
+∀a[k] ∈ S : a[k]∗δ[k] = a[k] = δ[k]∗a[k] (2.63)
+Lineair:
+∀a[k],b[k],c[k] ∈ S,∀r,s ∈ R :
+(r·a[k]+s·b[k])∗c[k] = r(a[k]∗c[k])+s(b[k]∗c[k]) (2.64)
+2.4.5 Impulsresponsie in de toestandsbeschrijving
+Herinner dat we SISO-systemen beschouwen en dus dat D een scalar d wordt en de matrices
+B en C respectievelijk een kolomvector b en een rijvector c worden. Stellen we in (2.7)
+dat x[0] = 0 en vergelijken we de termen in de sommatie met (2.60), dan zien we dat de
+impulsresponsie in de toestandsbeschrijving gegeven wordt door:
+
+ 0 k < 0
+
+h[k] = d k = 0 (2.65)
+ cAk−1b k > 0
+We zien dat h[k] = 0 wanneer k < 0, zoals we verwachten bij een causaal systeem. Een
+toestandsbeschrijving zoals (2.8) beschrijft dus steeds een causaal systeem.
+Oefening 2.2. Toon aan dat de impulsresponsie van systemen, bekomen door een verandering
+van toestandsvector zoals beschreven in paragraaf 2.3.1, dezelfde is.
+Wanneer we formule (2.65) gebruiken op een systeem met als toestandsbeschrijving de
+vergelijkingen (2.18) en (2.19), dan krijgen we:
+
+0 k < 0
+
+
+h[k] = d = d k = 0 (2.66)
+ c Ak−1b = cPP−1Ak−1PP−1b = cAk−1b k > 0
+waarbij we hebben gebruikt dat
+Ak−1 = (P−1AP)k−1 = P−1APP−1AP...P−1AP = P−1Ak−1P
+Metanderewoorden: beidesystemenhebbendezelfdeimpulsresponsieenzullendushetzelfde
+antwoordgenererenopeenidentiekeingang,m.a.w. zehebbendezelfdenultoestandsresponsie.
+27Stel nu dat A diagonalizeerbaar is als A = PΛP−1. Dan gebruiken we de volgende
+formule uit Lay, Hoofdstuk 5.3, voorbeeld 2 :
+Ak−1 = (PΛP−1)k−1 = PΛP−1...PΛP−1 = PΛk−1P−1 (2.67)
+We krijgen:
+h[k] = cPΛk−1P−1b, k > 0 (2.68)
+Net zoals in Hoofdstuk 2.3.3 zien we hier dat de eigenwaarden een belangrijke rol spelen bij
+het bepalen van de vorm van de impulsresponsie van een systeem.
+Oefening 2.3. Bepaal de impulsresponsie van het systeem gegeven in Oefening 1.1.
+h[0] = d = 1. Voor k > 0 krijgen we
+h[k] = cAk−1b (2.69)
+De eigenwaarden van A bepalen we uit det(A−λI) = 0. Dit wordt:
+(cid:12) (cid:12)
+(cid:12)1/4−λ −3/4 3/8(cid:12)
+(cid:12) (cid:12)
+(cid:12) 1 1/2−λ 0 (cid:12) = 0 (2.70)
+(cid:12) (cid:12)
+(cid:12) 0 1 −λ(cid:12)
+(cid:12) (cid:12)
+Ontwikkelen naar de laatste kolom geeft
+(cid:2) (cid:3)
+0 = 3/8−λ (1/4−λ)(1/2−λ)+3/4 (2.71)
+= 3/8−λ(1/8−3/4λ+λ2+3/4) (2.72)
+= −λ3+3/4λ2−7/8λ+3/8 (2.73)
+Ge¨ınspireerd door de breuken in de co¨eﬃci¨enten proberen we eenvoudige breuken voor λ. We
+√
+vinden dat λ = 1/2 een oplossing is. De twee resterende eigenwaarden zijn 1/8+i 47/8 en
+√
+1/8−i 47/8. De eigenvector bij eigenwaarde 1/2 vinden we uit:
+   
+−1/4 −3/4 3/8 0
+ 1 0 0 v = 0 ⇒ v = 1
+  1 1  
+0 1 −1/2 2
+√
+De eigenvector bij 1/8+i 47/8 vinden we uit:
+ √   
+1/8−i 47/8 −3/4 3/8 x
+√
+ 1 3/8−i 47/8 0 ×y = 0
+ √   
+0 1 −1/8−i 47/8 z
+√
+We kiezen z = 32 en vinden dan uit de derde vergelijking dat y = 4+i4 47. Invullen in de
+√
+tweede vergelijking geeft x = −25−i 47. We veriﬁ¨eren met de eerste vergelijking.
+ √   √ 
+−25−i 47 −25+i 47
+√ √
+v =  4+i4 47 , v = v =  4−i4 47 
+2   3 2  
+32 32
+28Dus
+ √ √ 
+0 −25−i 47 −25+i 47
+(cid:104) (cid:105) √ √
+h[k] = −1/2 3/2 0 ×1 4+i4 47 4−i4 47 
+ 
+2 32 32
+ 
+1/2k−1 0 0
+√
+× 0 (1/8+i 47/8)k−1 0 
+ √ 
+0 0 (1/8−i 47/8)k−1
+ √ √ −1  
+0 −25−i 47 −25+i 47 −1/2
+√ √
+×1 4+i4 47 4−i4 47  × 0 
+   
+2 32 32 0
+De inverse berekenen van een 3×3 matrix met complexe getallen is een hele klus. Gelukkig
+hebben we enkel de eerste kolom van de inverse nodig. Bij de vermenigvuldiging met b zullen
+de tweede en de derde kolom immers met 0 vermenigvuldigd worden. Om de volledige inverse
+te berekenen zouden we rijoperaties toepassen op:
+ √ √ 
+0 −25−i 47 −25+i 47 1 0 0
+√ √
+1 4+i4 47 4−i4 47 0 1 0 ,
+ 
+2 32 32 0 0 1
+maar nu kunnen we dus werken met een uitgebreide matrix die slechts 4 kolommen heeft:
+ √ √   
+0 −25−i 47 −25+i 47 1 1 16 16 0
+√ √ √ √
+1 4+i4 47 4−i4 47 0 ∼ 0 −25−i 47 −25+i 47 1
+   √ √ 
+2 32 32 0 0 −12+i4 47 −12−i4 47 0
+ 
+1 16 16 0
+√ √
+∼ 0 1 (578−i50 47)/672 (−25+i 47)/672
+ √ √ 
+0 0 (−47−i25 47)/3 (−1+i 47)/6
+ 
+1 16 16 0
+√ √
+∼ 0 1 (578−i50 47)/672 (−25+i 47)/672 
+ √ 
+0 0 1 (−47−i3 47)/2632
+ 
+1 0 0 4/7
+√
+∼ 0 1 0 (−47+i3 47)/2632
+ √ 
+0 0 1 (−47−i3 47)/2632
+Invullen in de formule voor h[k] en uitwerken geeft:
+(cid:104) √ √ (cid:105)
+h[k] = 3/2 (37+i13 47)/2 (37−i13 47)/2
+   
+1/2k−1 0 0 −2/7
+√ √
+× 0 (1/8+i 47/8)k−1 0 ×(47−i3 47)/5264
+ √   √ 
+0 0 (1/8−i 47/8)k−1 (47+i3 47)/5264
+√ √
+= (−3/7)(1/2)k−1+((893−i125 47)/2632)((1+i 47)/8)k−1
+√ √
++((893−i125 47)/2632)((1−i 47)/8)k−1
+29Nu zetten we de k−1 in de exponent om naar k door teller en noemer te vermenigvuldigen
+met het grondtal. We krijgen:
+√ √ √ √
+h[k] = (−6/7)(1/2)k +((141−i16 47)/329)((1+i 47)/8)k +((141+i16 47)/329)((1−i 47)/8)k
+Aangezien het systeem enkel re¨ele co¨eﬃci¨enten heeft, moeten ook de impulsresponsie een
+re¨eel signaal zijn. We kunnen de uitdrukking voor h[k] vereenvoudigen door over te gaan
+(cid:32) √ (cid:33) (cid:114) (cid:114)
+16 47 1412+162×47 97
+op poolco¨ordinaten. Deﬁni¨eer α = −bgtg , M = = en
+141 3292 329
+(cid:16)√ (cid:17)
+ω = bgtg 47 . Dan krijgen we:
+6 (cid:18)1(cid:19)k (cid:32)√3(cid:33)k
+h[k] =− +M(cosα+isinα) (cos(kω)+isin(kω))
+7 2 2
+(cid:32)√ (cid:33)k
+3
++M(cosα−isinα) (cos(kω)−isin(kω))
+2
+6 (cid:18)1(cid:19)k (cid:32)√3(cid:33)k
+=− +2M cos(kω+α)
+7 2 2
+Deze uitdrukking geldt voor k > 0. Voor k = 0 moet gelden h[k] = d = 1. Dit klopt als we
+δ[k] toevoegen. Dus de formule voor h[k] die geldt voor k ≥ 0 is:
+6 (cid:18)1(cid:19)k (cid:32)√3(cid:33)k
+h[k] = − +2M cos(kω+α)+δ[k]
+7 2 2
+2.4.6 Vorm van de impulsresponsie
+In paragraaf 2.3.4 hebben we de vorm van de nulingangsresponsie besproken. Die had de
+vorm y[k] = cAkx[0] voor k ≥ 0. De toenemende macht van A zorgt voor een exponentieel
+verloop van de reponsie, eventueel met schommelingen bij complexe eigenwaarden van A.
+Volgens (2.65) heeft de impulsresponsie een gelijkaardig gedrag: de toenemende machten
+van A zorgen tevens voor een (mogelijk schommelend) exponenti¨eel verloop, dat even snel
+aangroeit of uitsterft als de nulingangsresponsie. De vorm is dus identiek voor k > 0, hoewel
+elkvandebijdrageneenanderegroottekanhebben: wevermenigvuldigencAk−1 immersmet
+b voor de impulsresponsie en met Ax[0] voor de nulingangsresponsie.
+30Hoofdstuk 3
+Voorbeelden inwendig product (Lay
+H6.8)
+3.1 Discrete signalen over een beperkt tijdsinterval
+Zoals besproken in Hoofdstuk 1 (en ook in Lay Hoofdstuk 4.1 Example 3 en Lay Hoofdstuk
+4.8),iseendiscrete-tijdsignaalookeenvector. Webeperkenonshiertotdiscrete-tijdsignalen
+over een op voorhand vastgelegd tijdsinterval, dus met een gekend vast aantal punten. We
+noteren de verzameling van discrete-tijd signalen over een interval van m punten met S .
+m
+Je kan makkelijk nagaan dat S een vectorruimte vormt. Om de tijdsafhankelijkheid en
+m
+de gelijkenis met de voorgaande hoofdstukken te benadrukken, noteren we een vector s uit
+deze vectorruimte ook als s[k].
+3.1.1 Deﬁnitie van een inwendig product
+We nemen m = 6 en deﬁni¨eren het inwendig product van twee signalen als de som van de
+producten van de waarden van de signalen op de tijdstippen 0, 1, 2, 3, 4, 5:
+5
+(cid:88)
+f[k]•g[k] = f[k]g[k] (3.1)
+k=0
+Deze nieuwe deﬁnitie voor het inwendig product leidt tot een nieuwe deﬁnitie voor lengte,
+namelijk
+(cid:112)
+(cid:107)f[k](cid:107) = f[k]•f[k], (3.2)
+en dus ook tot een nieuwe deﬁnitie voor afstand. Volgens deze nieuwe deﬁnitie is de afstand
+tussensignalenf[k]eng[k]kleinalsdesignalengoedebenaderingenvoorelkaarzijn,tenminste
+op de tijdstippen k = 0, 1, 2, 3, 4, 5. Figuur 3.1 toont een voorbeeld.
+3.1.2 Een orthonormale basis
+Vaak is het interessant om een signaal te benaderen door een som van een paar signalen van
+de vorm
+f[k] = acos(bπk+c). (3.3)
+31Figuur 3.1: Drie signalen, waarvan er twee op korte afstand van mekaar liggen. (De signalen
+zijn enkel gedeﬁnieerd voor gehele waarden van k. De lijnen daartussen zijn enkel getekend
+om aan te geven welke waarden bij hetzelfde signaal horen.)
+Helaas ontbreekt ons de tijd om uit te leggen waarom deze vorm van benadering interessant
+kan zijn en moeten we hiervoor verwijzen naar vakken in volgende jaren. We deﬁni¨eren nu 6
+signalen f [k], n = 0,1,...,5, die de vorm (3.3) hebben:
+n
+√
+f [k] = 6/6, ∀k (3.4)
+0
+√ (cid:32) (cid:33)
+3 nπ(2k+1)
+f [k] = cos , n = 1,2,3,4,5 (3.5)
+n
+3 12
+Figuur 3.2 geeft een graﬁsche voorstelling van deze zes signalen. Tabel 3.1 geeft de signalen
+in tabelvorm. Met de waarden uit de tabel kan je nagaan dat deze signalen een orthonormale
+verzameling vormen. Bijvoorbeeld, om na te gaan dat f [k] loodrecht staat op f [k] rekenen
+1 3
+32we uit:
+5
+(cid:88)
+f [k]•f [k] = f [k]f [k]
+1 3 1 3
+k=0
+√ √ √ √ √ √ √ √
+6 6 6 6 6 6 6 6
+= A −( )( )−B +B(− )−( )( )−A(− )
+6 6 6 6 6 6 6 6
+√ √
+6 6 1
+= A −B −
+3 3 3
+√ √ √ √ √ √ √ √
+3( 6+ 2) 6 3( 6− 2) 6 1
+= − −
+12 3 12 3 3
+√ √ √ √ √ √
+3 2 6 3 2 6 1 1 1 1
+= + − = + − = 0
+12·3 12·3 3 6 6 3
+Op dezelfde wijze kunnen we uitrekenen dat f [k] • f [k] = 0 voor alle i (cid:54)= j. Hiermee is
+i j
+aangetoond dat we een orthogonale verzameling hebben. Om te bewijzen dat de verzameling
+orthonormaal is, moeten we nog de lengte van elke vector uitrekenen. We werken dit hier uit
+voor twee voorbeelden:
+5
+(cid:88)
+(cid:107)f [k](cid:107)2 = (f [k])2
+0 0
+k=0
+(cid:32)√ (cid:33)2
+6 1
+= 6 = 6· = 1
+6 6
+1
+(cid:107)f [k](cid:107)2 = 2A2+2B2+2·
+5
+6
+√ √
+2(3+ 3)2 2(3− 3)2 1
+= 2· +2· +
+144 144 3
+√ √
+9+6 3+3+9−6 3+3 1 24 1
+= + = + = 1
+36 3 36 3
+√ √ √ √
+Tabel 3.1: De signalen f [k]. A = 2(3+ 3)/12 en B = 2(3− 3)/12.
+n
+k 0 1 2 3 4 5
+√ √ √ √ √ √
+f 6/6 6/6 6/6 6/6 6/6 6/6
+0 √ √
+f A 6/6 B −B − 6/6 −A
+1
+f 1/2 0 −1/2 −1/2 0 1/2
+2 √ √ √ √ √ √
+f 6/6 − 6/6 − 6/6 + 6/6 6/6 − 6/6
+3 √ √ √ √ √ √
+f 3/6 − 3/3 3/6 3/6 − 3/3 3/6
+4 √ √
+f B − 6/6 A −A 6/6 −B
+5
+Vermits S dimensie zes heeft, vormt deze orthonormale verzameling dus ook een ortho-
+6
+normale basis voor S (zie Lay Hoofdstuk 4 Theorem 12). Dus kan elk signaal g(k) ∈ S op
+6 6
+een unieke manier geschreven worden als een gewogen som van de signalen (3.4)-(3.5) (zie
+33Figuur 3.2: De 6 signalen f (k) over interval [0,5].
+n
+Lay Hoofdstuk 4 Theorem 7):
+g[k] = c f [k]+c f [k]+c f [k]+c f [k]+c f [k]+c f [k]
+0 0 1 1 2 2 3 3 4 4 5 5
+De gewichten c worden gegeven door de volgende formule (zie Lay Hoofdstuk 6 Theorem 5):
+i
+5
+(cid:88)
+c = g[k]•f [k] = g[k]f [k]
+i i i
+k=0
+We hebben nu dus twee manieren om een signaal g[k] eenduidig te bepalen:
+1. door de waarde van g op de zes tijdstippen 0, 1, 2, 3, 4, 5; of
+2. door de zes gewichten c , c , c , c , c , c
+0 1 2 3 4 5
+Detweedemaniernoemtmenookdediscrete cosinustransformatie vang[k]omdathetsignaal
+g[k] wordt beschreven als een som van (discrete) cosinusfuncties.
+De discrete cosinustransformatie kan gebruikt worden om aan compressie te doen. Indien
+we geen 6 getallen willen bewaren om een functie g ∈ S voor te stellen, dan kunnen we
+6
+ook een benadering maken door bijvoorbeeld slechts enkele c te bewaren. Zo’n benadering
+i
+kan dicht bij de originele functie liggen, vooral indien de bewaarde c (veel) groter zijn in
+i
+absolute waarde dan de niet-bewaarde c . Dit wordt voorgesteld op Figuur 3.3. We zien daar
+i
+34de benaderingen met ´e´en of twee c ’s niet goed zijn, terwijl de benadering met vier c ’s wel
+i i
+dicht bij het originele signaal komt.
+Omgekeerd kunnen we ook signalen uit S voor m > 6 benaderen door een lineaire
+m
+combinatie van de signalen (3.4)-(3.5).
+Figuur 3.3: Verschillende benaderingen van het signaal rechtsonder. Linksboven met enkel
+c f [k],rechtsbovenmetc f [k]+c f [k],enlinksondermetc f [k]+c f [k]+c f [k]+c f [k].
+0 0 0 0 1 1 0 0 1 1 2 2 3 3
+35Hoofdstuk 4
+Aanvullingen op H6
+4.1 Inleiding
+LaybehandeltinHoofdstuk6enkelre¨elematrices. Inveleingenieurstoepassingenduikenech-
+tercomplexegetallenenmatricesop. Daarombehandelenwijhierkortbegrippenalsinwendig
+product, lengteenorthogonaliteitvoorcomplexematrices. Dedeﬁnitieseneigenschappendie
+we hier geven, zijn uitbreidingen van de deﬁnities uit Lay. Vermits Rn×m ⊂ Cn×m, gelden de
+deﬁnities en eigenschappen ook voorre¨ele matrices. Meer nog, in dat geval zijn ze in volledige
+overeenstemming met de deﬁnities en eigenschappen van Lay.
+4.2 Hermitiaans product
+4.2.1 Inleidende begrippen
+Wanneer we werken met matrices met complexe getallen, wordt de rol van de transpose van
+een matrix overgenomen door de Hermitiaans toegevoegde van een matrix.
+Deﬁnitie 4.1 (Hermitiaans toegevoegde). Laat C ∈ Cm×n. De Hermitiaans toegevoegde
+van de matrix C is de transpose van de complex toegevoegde van C:
+C∗ = CT
+Voorbeeld 4.1.
+ ∗  
+1 2 i 1 3 1+i
+ 3 1+i 5 =  2 1−i 8 
+   
+1−i 8 0 −i 5 0
+Voor een re¨ele matrix is de Hermitiaans toegevoegde dus gelijk aan de transpose. De rol
+van de symmetrische matrix wordt nu overgenomen door de Hermitische matrix.
+Deﬁnitie 4.2 (Hermitische matrix). De matrix C ∈ Cn×n is een Hermitische matrix als en
+slechts als
+C∗ = C.
+Voorbeeld 4.2. De volgende matrix is een Hermitische matrix:
+ 
+1 1+i 2
+1−i 0 −3i
+ 
+2 3i 7
+36Vermits transponeren de elementen op de hoofddiagonaal laat staan, geldt voor de ele-
+menten op de hoofddiagonaal van een Hermitische matrix dat c = c , met andere woorden
+ii ii
+c ∈ R voor i = 1,2,...,n. Merk verder op dat een re¨ele symmetrische matrix een speciaal
+ii
+geval is van een Hermitische matrix.
+4.2.2 Deﬁnitie
+Het inwendig product van twee vectoren wordt uitgebreid naar complexe vectoren als volgt.
+Deﬁnitie 4.3 (Hermitisch product). Laat u,v ∈ Cn. Dan wordt het Hermitisch product van
+u en v gedeﬁnieerd als volgt:
+n
+(cid:88)
+u•v = u∗v = uTv = u v
+i i
+i=1
+Voorbeeld 4.3.
+     
+2 1 1
+(cid:104) (cid:105)
+i• 1  = 2 −i 3  1  = 2−i+3i+6 = 8+2i
+     
+3 i+2 i+2
+     
+1 2 2
+(cid:104) (cid:105)
+ 1 •i = 1 1 2−i i = 2+i+6−3i = 8−2i
+     
+i+2 3 3
+     
+1 1 1
+(cid:104) (cid:105)
+ 1 • 1  = 1 1 2−i  1  = 1+1+4−i2 = 7
+     
+i+2 i+2 i+2
+4.2.3 Eigenschappen
+Theorem 1 [Lay, p349] wordt uitgebreid als volgt.
+Stelling 4.1. Laat u,v,w ∈ Cn en z ∈ C. Dan geldt:
+1. u•v = v•u
+2. (u+v)•w = (u•w)+(v•w) en u•(v+w) = (u•v)+(u•w)
+3. u•(cv) = c(u•v) en (cu)•v = c(u•v)
+4. u•u ≥ 0 en u•u = 0 als en slechts als u = 0
+Opmerkingen:
+1. Uit de eerste eigenschap volgt dat het hermitisch product in het algemeen niet symme-
+trisch is. Bekijk ook aandachtig de derde eigenschap: we mogen niet altijd zomaar een
+scalar buiten de haakjes brengen. Echter, indien de scalar c ∈ R dan geldt c = c en
+hebben we precies dezelfde eigenschap als in Theorem 1 [Lay, p349].
+2. Het Hermitisch product van een vector met zichzelf is steeds een positief re¨eel getal.
+Immers, er geldt:
+n n
+(cid:88) (cid:88)
+u•u = u u = |u |2 ∈ R+
+i i i
+i=1 i=1
+374.2.4 Lengte en afstand
+We kunnen de lengte van een complexe vector deﬁni¨eren op een gelijkaardige manier als voor
+een re¨ele vector, namelijk als de vierkantswortel van het Hermitisch product van de vector
+met zichzelf:
+(cid:118)
+√ (cid:117)(cid:117)(cid:88)n
+(cid:107)u(cid:107) = u•u = (cid:116) |ui|2
+i=1
+Vermits het Hermitisch product van een vector met zichzelf steeds een positief re¨eel getal is,
+is de vierkantswortel ervan steeds goed gedeﬁnieerd. Voor re¨ele vectoren u valt deze deﬁnitie
+samen met de oude [Lay, p349]. Er geldt ook (∀c ∈ C):
+(cid:112) (cid:112) (cid:112) √
+(cid:107)cu(cid:107) = (cu)•(cu) = cc(u•u) = |c|2u•u = |c| u•u = |c| (cid:107)u(cid:107)
+De afstand tussen twee complexe vectoren deﬁni¨eren we als de lengte van het verschil van de
+twee vectoren, net als bij re¨ele vectoren.
+4.2.5 Orthogonale vectoren
+Deﬁnitie 4.4 (Orthogonale vectoren). Twee vectoren u,v ∈ Cn zijn orthogonaal als en
+slechts als
+u•v = 0
+   
+−1 2−2i
+Voorbeeld 4.4. Neem u =  2  en v =  −1 . Dan geldt
+   
+2+i 2
+ 
+2−2i
+(cid:104) (cid:105)
+u•v = −1 2 2−i  −1  = −2+2i−2+4−2i = 0
+ 
+2
+en dus zijn u en v orthogonale vectoren.
+4.3 Orthogonale verzamelingen
+De deﬁnitie voor een orthogonale verzameling blijft dezelfde: het is een verzameling waarvan
+de vectoren onderling orthogonaal zijn. Een orthogonale basis voor een deelruimte W van Cn
+is een orthogonale verzameling die ook een basis is voor W.
+Zij {u ,u ,...u } een orthogonale basis voor W en stel y ∈ W. Dan weten we dat er
+1 2 p
+complexe getallen c ,c ,...,c bestaan zodat:
+1 2 p
+y = c u +c u +···+c u (4.1)
+1 1 2 2 p p
+NetalsinTheorem5[Lay,p357]kunnenweeenuitdrukkingvindenvoordec doorhethermi-
+j
+tisch product te nemen van u met (4.1). Opgelet: de volgorde is belangrijk (zie Stelling 4.1,
+j
+puntje 3)! We plaatsen u links en krijgen:
+j
+(cid:0) (cid:1)
+u •y = u • c u +c u +···+c u
+j j 1 1 2 2 p p
+= u •(c u )+u •(c u )+···+u •(c u )
+j 1 1 j 2 2 j p p
+= c (u •u )+c (u •u )+···+c (u •u )
+1 j 1 2 j 2 p j p
+= 0+0+···+c (u •u )+0+···+0
+j j j
+38Dus we krijgen als uitdrukking:
+u •y
+j
+c = , (4.2)
+j
+u •u
+j j
+wat bijna hetzelfde is als de uitdrukking in Theorem 5 [Lay, p357].
+Het begrip orthogonale matrix kan makkelijk worden uitgebreid tot unitaire matrix:
+Deﬁnitie 4.5 (Unitaire matrix). Een matrix U ∈ Cn×n is een unitaire matrix als en slechts
+als
+U∗×U = I
+Voorbeeld 4.5.
+ √ 
+−1/2 1/2 2/2
+√
+ 1/2 −1/2 2/2
+ 
+1/2−i/2 1/2−i/2 0
+is een unitaire matrix
+4.4 Eigenwaardenontbinding van Hermitische matrices
+Stelling 4.2. Laat C ∈ Cn×n een Hermitische matrix zijn. Dan geldt:
+1. de eigenwaarden van C zijn re¨eel
+2. de eigenruimten horende bij verschillende eigenwaarden zijn orthogonaal
+3. er bestaat een unitaire matrix U met als kolommen de eigenvectoren van C en een re¨ele
+diagonale matrix D met de bijhorende eigenwaarden op de diagonaal, zodat C = UDU∗
+4.5 Orthogonale projecties
+Ook Theorem 8 [Lay, p366] kan uitgebreid worden naar deelruimtes van Cn.
+Stelling 4.3. Laat W een deelruimte zijn van Cn. Dan kan elke y ∈ C op precies ´e´en manier
+geschreven worden als
+y = yˆ +z
+met yˆ ∈ W en z ∈ W⊥. Bovendien, als {u ,u ,...,u } een orthogonale basis is voor W dan
+1 2 p
+geldt:
+u •y u •y u •y
+1 2 p
+yˆ = u + u +···+ u (4.3)
+1 2 p
+u •u u •u u •u
+1 1 2 2 p p
+Net zoals in Sectie 4.3 zijn de formules bijna gelijk aan de formules in Theorem 8 [Lay,
+p366]; enkel de volgorde in de Hermitiaanse produkten is anders. We noemen ook hier yˆ de
+projectie van y in W en noteren dit met proj y. Indien {u ,u ,...,u } een orthonormale
+W 1 2 p
+basis is voor W dan wordt (4.3) herleid tot:
+proj y = (u •y)u +(u •y)u +···+(u •y)u
+W 1 1 2 2 p p
+39(cid:104) (cid:105)
+Deﬁni¨eren we nu de matrix U als U = u u ... u dan krijgen we:
+1 2 p
+ 
+uT
+1
+(cid:104) (cid:105)uT
+UU∗y = u u ... u  2y
+1 2 p ...
+ 
+uT
+p
+(cid:16) (cid:17)
+= u uT+u uT+···+u uT y
+1 1 2 2 p p
+(cid:16) (cid:17) (cid:16) (cid:17) (cid:16) (cid:17)
+= u uTy +u uTy +···+u uTy
+1 1 2 2 p p
+= u (u •y)+u (u •y)+···+u (u •y)
+1 1 2 2 p p
+= proj y
+W
+4.6 Gram-Schmidt, QR factorisatie
+Stelling 4.4. Zij A een matrix in Cm×n met lineair onafhankelijke kolommen, dan bestaat
+er een Q ∈ Cm×n waarvan de kolommen een orthonormale basis vormen voor Col A en een
+R ∈ Cn×n die een inverteerbare bovendriehoeksmatrix is zodat
+A = QR
+De diagonaalelementen van R kunnen bovendien re¨eel en strict positief gekozen worden.
+Het Gram-Schmidt algoritme werkt zoals bij re¨ele matrices.
+4.7 Kleinste kwadraten
+Zij A ∈ Cm×n en b ∈ Cm. Dan zijn de kleinste-kwadraten oplossingen van Ax = b de
+vectoren in Cn die oplossing zijn van het volgende stelsel:
+A∗Ax = A∗b (4.4)
+40

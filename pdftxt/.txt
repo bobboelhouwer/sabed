@@ -1,0 +1,776 @@
+Methoden van het wetenschappelijk
+onderzoek: Deel 1
+Prof. Dr. Eva Van den Bussche
+
+Les 8: Correlationele en Beschrijvende
+onderzoeksstrategieën
+Handboek Hoofdstuk 12 (pp. 295-312)
+Handboek Hoofdstuk 13 (pp. 313-340)
+Prof. Dr. Eva Van den Bussche
+
+Overzicht
+• Terugkoppeling oefening
+• Empirische cyclus
+
+• Correlationele onderzoeksstrategie
+▪ Inleiding
+▪ Toepassingen
+▪ Voor- en nadelen
+▪ Meerdere variabelen
+
+• Beschrijvende onderzoeksstrategie
+▪ Observationeel design
+▪ Survey design
+▪ Case study design
+3
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+Terugkoppeling oefening
+• In een studie werd nagegaan hoe verschillende niveaus van alcohol en cafeïne
+consumptie een invloed hadden op reactietijd in een gesimuleerde rijtest. Aan de
+studie namen 120 volwassenen deel die random werden toegewezen aan de
+verschillende condities. De gemiddelden in de Tabel tonen de reactietijd in
+milliseconden voor de verschillende combinaties van alcohol en cafeïne consumptie
+Geen cafeïne
+
+200mg
+cafeïne
+
+400mg
+cafeïne
+
+Geen alcohol
+
+M = 620
+
+M = 600
+
+M = 590
+
+Alcohol
+
+M = 720
+
+M = 700
+
+M = 690
+
+Gebaseerd op Liguori & Robinson, 2001
+4
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+Terugkoppeling oefening
+1. Welke onderzoeksstrategie en welk onderzoeksdesign werden hier gebruikt?
+Wat zijn de factoren? Wat is de afh var?
+→ Experimentele onderzoeksstrategie
+→ 2×3 factorieel tussen-subject design met alcohol (2 niveaus: alcohol of geen
+alcohol) en cafeïne (3 niveaus: geen, 200mg of 400mg) als factoren
+→ De afhankelijke variabele is reactietijd gemeten in milliseconden
+
+5
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+Terugkoppeling oefening
+2. Bespreek de hoofd- en interactie-effecten
+→ Bereken de marginale gemiddelden!
+
+6
+
+Geen cafeïne
+
+200mg
+cafeïne
+
+400mg
+cafeïne
+
+Overall
+
+Geen alcohol
+
+M = 620
+
+M = 600
+
+M = 590
+
+M = 603
+
+Alcohol
+
+M = 720
+
+M = 700
+
+M = 690
+
+M = 703
+
+Overall
+
+M = 670
+
+M = 650
+
+M = 640
+
++100
+
++100
+
++100
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+Terugkoppeling oefening
+
+7
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+Terugkoppeling oefening
+2. Bespreek de hoofd- en interactie-effecten
+• Trend van een hoofdeffect van alcohol: RTs liggen hoger na
+alcoholconsumptie
+• Trend van een hoofdeffect van cafeïne: RTs dalen met toename aan cafeïne
+consumptie
+
+• Geen interactie-effect (lijnen lopen parallel, effecten van de 2 factoren zijn
+onafhankelijke van elkaar, cf. celgemiddelden)
+
+8
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+Empirische cyclus
+• Vorige week:
+▪ STAP 6: Factoriële designs
+
+• Vandaag:
+▪ STAP 5: Correlationele en Beschrijvende onderzoeksstrategieën
+▪ Geen één-op-één relatie met handboek: zowel slides als hoofdstukken behoren
+tot de leerstof (behalve 12.2)!
+
+9
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+10
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+I. Correlationele onderzoeksstrategie
+Handboek Hoofdstuk 12 (pp. 295-312, behalve 12.2)
+
+Inleiding
+• DOEL correlationele onderzoeksstrategie = onderzoeken en beschrijven van de
+relaties/verbanden tussen variabelen
+• We willen deze relaties/verbanden NIET verklaren, geen causale uitspraken
+• Geen poging tot controle of manipulatie van variabelen
+• DATA = 2/meer metingen, 1 voor elke variabele waarin we geïnteresseerd zijn
+
+• Elke participant (of “bron”) heeft een meting voor elk van de variabelen
+• Metingen kunnen in een labo omgeving verzameld worden OF in natuurlijke
+omgeving
+• We METEN de variabelen en die metingen worden dan onderzocht om na te gaan of
+er consistente patronen of verbanden aanwezig zijn en hoe sterk deze zijn
+12
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+Inleiding
+• Voorbeeld: is er een verband tussen tijd doorgebracht op Facebook en GPA
+(i.e., Grade Point Average) bij studenten?
+
+• Datastructuur (cf. les 4):
+
+Gebaseerd op Junco, 2015
+13
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+Inleiding
+• Voorbeeld: is er een verband tussen
+tijd doorgebracht op Facebook en
+GPA (i.e., Grade Point Average) bij
+studenten?
+• Scatterplot of correlatie (cf. Les 4)
+
+• Geen verklaring verband
+• Geen causale uitspraken (e.g.,
+“meer Facebook tijd veroorzaakt
+lagere GPA”)
+Gebaseerd op Junco, 2015
+14
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+Inleiding
+• → Experiment: geen controle, geen manipulatie
+• → Differentiële onderzoeksdesign: onderzoeksvraag idem!
+▪ Correlationeel: aantonen verband tussen 2 variabelen door beide te meten voor
+elke participant en te zoeken naar patronen in de paren van scores
+→ Focus = relatie tussen variabelen (e.g., verband tussen sekse en
+empathie?)
+▪ Differentieel: aantonen verband tussen 2 variabelen door een verschil aan te
+tonen tussen 2 groepen → 1 variabele wordt gebruikt om groepen van
+participanten te definiëren en dan wordt een 2e variabele gemeten om een score
+te krijgen voor elke groep
+→ Focus = verschil tussen groepen (e.g., verschil tussen mannen en vrouwen
+wat betreft empathie?)
+
+15
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+Toepassingen
+1. Voorspellen: als 2 variabelen consistent gerelateerd zijn, kan je kennis over
+de ene variabele gebruiken om de andere te voorspellen!
+→Voorbeeld: IQ kind en IQ ouder vertonen een consistente positieve relatie,
+dus als je de ene kent, kan je de andere voorspellen
+→ LET OP: bij deze strategie zijn beide variabelen equivalent, maar toch gaan
+we vaak afh var (”criterion variable”) en onafh var (“predictor”) definiëren
+→Vaak is het duidelijk uit het opzet welke var de afh is en welke de onafh
+→Voorbeeld: IQ ouder (onafh var) voorspelt IQ kind (afh var)
+→Als we deze strategie niet gebruiken om te voorspellen, gebruiken we de
+labels “afh var” en “onafh var” vaak om resp. de relatief ongekende, complexe
+var en de gekende var aan te duiden
+16
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+Toepassingen
+2. Betrouwbaarheid en validiteit: Cf. Les 2
+3. Theorieën evalueren: veel theorieën maken assumpties over verbanden
+tussen variabelen
+
+17
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+Voor- en nadelen
+• Voordelen:
+▪ Kan variabelen identificeren en verbanden tussen variabelen blootleggen
+▪ Toepasbaar wanneer we variabelen niet kunnen manipuleren en een experiment
+dus niet mogelijk is (e.g., ethiek of vooraf bestaande karakteristieken)
+▪ Omdat we niet manipuleren/controleren kunnen we fenomenen bestuderen zoals
+ze natuurlijk bestaan → hogere externe validiteit!
+
+• Nadelen:
+▪ Geen oorzaak-gevolg verbanden, geen verklaringen voor verbanden
+▪ Lagere interne validiteit → 2 problemen
+
+18
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+Voor- en nadelen
+1. 3e variabele probleem (cf. Les 5)
+▪ Verband tussen 2 variabelen betekent niet noodzakelijk een DIRECT verband
+▪ Een 3e variabele kan altijd het verband tussen de 2 variabelen bepalen
+Gewelddadige
+videospellen
+
+Agressief
+gedrag
+
+Socio-economische
+status
+
+19
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+Voor- en nadelen
+2. Het probleem van directionaliteit (cf. Les 5)
+▪ Veranderingen in de ene variabele gaan gepaard met veranderingen in de andere
+variabele
+▪ MAAR: laat NIET toe om te bepalen wat oorzaak is en wat gevolg
+▪ VOORSPELLEN ≠ VEROORZAKEN!
+Gewelddadige
+videospellen
+
+20
+
+?
+
+Agressief
+gedrag
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+Meerdere variabelen
+• Vaak interesse in verband tussen MEERDERE variabelen
+• Voorbeeld: verband tussen academisch succes en IQ, motivatie, sekse, etc.
+
+• 1 afh var wordt voorspeld door / hangt samen met een set onafh var
+• Variabele toevoegen aan analyse om te controleren voor de invloed van deze
+(potentieel storende) variabele op het verband waarin men geïnteresseerd is:
+voorspelt A nog steeds B als de invloed van C reeds in rekening werd gebracht?
+
+21
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+II. Beschrijvende onderzoeksstrategie
+Handboek Hoofdstuk 13 (pp. 313-340)
+
+Beschrijvende onderzoeksstrategie
+• DOEL = fenomeen beschrijven
+• Beschrijft de huidige toestand van een specifieke variabele of gedrag
+
+• Geen verbanden/relaties tussen variabelen, geen gedrag verklaren, geen
+oorzakelijke uitspraken
+• (set van) Variabele(n) METEN zoals ze natuurlijk optreden: elke aparte
+variabele wordt beschreven (geen verbanden)
+• 3 beschrijvende onderzoeksdesigns:
+▪ Observationeel design
+▪ Survey design
+▪ Case study design (cf. Les 10)
+23
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+Observationeel design
+• Marshmallow test
+• Observeren en systematisch optekenen van gedrag van individuen om dit
+gedrag te beschrijven
+• Hier: “delayed gratification” (Mischel et al., 1972)
+• Observatie kan als meettechniek gebruik worden in verschillende andere
+designs
+• Maar het kan ook een design op zich zijn als de observatie louter gebruikt
+wordt om een fenomeen te beschrijven!
+
+24
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+Observationeel design
+• Gedragsobservatie: directe observatie en systematisch optekenen van
+gedrag, meestal zoals het optreedt in een natuurlijke situatie
+
+• 2 meetproblemen:
+▪ Gedrag mag niet verstoord/vertekend worden door de aanwezigheid van de
+observator → impact op vraagkarakteristieken en reactiviteit (cf. Les 2)
+Oplossing: observator verbergen (ethiek?), habituatie
+▪ Observatie omvat steeds een zekere subjectieve interpretatie door de observator
+→ impact op betrouwbaarheid metingen (cf. Les 2)
+Oplossing: gebruik goed gedefinieerde categorieën om gedrag op te tekenen,
+gebruik goed getrainde observators, gebruik meerdere observators (bereken
+interbeoordelaarsovereenstemming)
+25
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+Observationeel design
+• Observaties kwantificeren: observaties omzetten in numerieke scores die
+gebruikt worden om het fenomeen te beschrijven
+▪ Frequentie: tellen hoe vaak het gedrag voorkomt tijdens een welbepaalde
+observatieperiode (e.g., kind vertoonde 3 agressieve gedragingen tijdens periode
+van 30 min)
+▪ Duur: hoeveel tijd een participant besteedt aan het gedrag tijdens een
+welbepaalde observatieperiode (e.g., kind speelde 18 minuten alleen tijdens
+periode van 30 min)
+▪ Interval: observatieperiode in intervallen opdelen en registreren of gedrag wel/niet
+voorkomt in elk interval (e.g., periode van 30 min opdelen in 30 intervallen van 1
+min; kind speelde in groep tijdens 12 van de intervallen)
+
+26
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+Observationeel design
+• Observaties optekenen: observaties omzetten in numerieke scores die
+gebruikt worden om het fenomeen te beschrijven
+▪ Bij complexe situaties (meerdere participanten en/of meerdere gedragingen
+tegelijk): opname maken (ethiek!)
+▪ Gebruik een steekproef van de mogelijke observaties ipv alles te proberen op te
+tekenen = sampling
+▪ Time sampling: observeren tijdens 1 interval, dan interval pauzeren om alles op te
+tekenen, etc.
+▪ Event sampling: focus op 1 type gedrag tijdens 1 interval, dan focus op ander gedrag
+tijdens 2e interval, etc.
+▪ Individual sampling: focus op 1 participant tijdens 1 interval, andere participant tijdens
+2e interval, etc.
+27
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+Observationeel design
+• Zelfde technieken kunnen gebruikt worden in situaties zonder directe
+observatie (cf. handboek):
+▪ Inhoudsanalyse: gedrag/gebeurtenissen meten in media (boeken, film, etc.)
+▪ Archief onderzoek: historische documenten/archieven bestuderen om
+gedrag/gebeurtenissen te meten die in het verleden plaatsvonden
+
+28
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+Observationeel design
+• Types observaties:
+1. Niet-participerende observatie: onderzoeker observeert gedrag in natuurlijke
+setting en neemt niet deel, buitenstaander, komt niet tussen
+→ Hoge externe validiteit, inzicht in real-life gedrag
+→ MAAR: tijdsintensief (wachten tot gedrag zich voordoet), onderzoeker mag
+gedrag niet verstoren/beïnvloeden
+
+29
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+Observationeel design
+2. Participerende observatie: onderzoeker mengt zich onder de participanten om
+hun gedrag te observeren, interactie met participanten
+→ Extreem voorbeeld: “On being sane in insane places” (Rosenhan, 1973)
+→ Hoge externe validiteit, wanneer niet-participerende observatie niet mogelijk
+is, uniek perspectief van observator door ervaringen te delen met participanten
+→ MAAR: tijdsintensief, potentieel gevaarlijk voor observator, interactie kan
+gedrag verstoren/beïnvloeden, minder objectiviteit
+
+30
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+Observationeel design
+3. Gestructureerde observatie: onderzoeker creëert setting die observatie van
+specifiek gedrag faciliteert
+→ Voorbeeld conservatie experimenten Piaget: onderzoeker legt probleem voor
+aan kind en observeert hoe kind het oplost
+→ Geen natuurlijke setting, meestal labo setting
+→ Compromis tussen niet-participerende observatie en (veld) experiment
+→ Sneller, maar minder natuurlijke omgeving → effect op externe validiteit
+
+31
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+Observationeel design
+
+32
+
+Research Design
+
+Strengths
+
+Weakness
+
+Naturalistic
+observation
+
+Behavior observed in the real
+world
+Useful for nonmanipulated
+behaviors
+Actual behaviors observed and
+recorded
+
+Time-consuming
+Potential for observer influence
+Potential for subjective
+interpretation
+
+Participant observation
+
+When natural observation is
+impossible
+Get information not accessible
+otherwise
+Participation gives unique
+perspective
+
+Time-consuming
+Potential for loss of objectivity
+Increased chance for observer
+influence
+
+Contrived observation
+
+Do not have to wait for a
+behavior to occur
+
+Less natural
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+Survey design
+• Surveys of vragenlijsten worden vaak gebruikt in de psychologie
+• Laat toe om snel grote hoeveelheden data te verzamelen omtrent attitudes,
+opinies, voorkeuren, gedragingen, demografische gegevens, etc. → flexibel!
+• Zelf-gerapporteerde data (“self-report”)
+• In plaats van te observeren, vragen we het gewoon aan de participant
+
+• Surveys kunnen gebruikt worden in verschillende onderzoeksdesigns
+(correlationeel, experiment, non- of quasi-experiment, etc.)
+• Maar het kan ook een design op zich zijn wanneer een survey wordt gebruikt
+om een beschrijving te geven van een bepaalde groep individuen = survey
+onderzoeksdesign
+33
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+Survey design
+• DOEL = accuraat beeld krijgen van een groep individuen
+• Voorbeeld: alcoholgebruik in scholen → hoe vaak drinken leerlingen?
+Hoeveel? Waar en wanneer? Welke attitudes hebben ze tov alcohol? Etc.
+• Survey omvat vaak vragen naar demografische gegevens (e.g., leeftijd, sekse,
+gender, beroep, inkomen, SES, naam, etc)
+• 4 belangrijke aspecten:
+1. Survey vragen ontwikkelen
+2. Vragen zo organiseren zodat survey goed opgebouwd is
+3. Selectieproces om exact te bepalen wie wel/niet zal deelnemen
+(representatieve steekproef!)
+4. Bepalen hoe de survey uitgevoerd zal worden (pen-en-papier, online, etc.)
+34
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+Survey design
+1. Types van vragen
+• Verschillende types vragen leiden tot verschillende types antwoorden
+
+• Bepalen hoeveel vrijheid participant heeft (heel gerestricteerd of heel open)
+• Vraagstelling kan bias induceren
+• Invloed op types statistische analyses en interpretatie (cf. meetniveau)
+• 3 types: open vragen, gerestricteerde vragen, beoordelingsschalen (“rating
+scales”)
+
+35
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+Survey design
+• Open vragen: bepaalt het onderwerp en geeft participant vrijheid om in eigen
+woorden te antwoorden
+▪ Voorbeeld: wat zijn volgens jou de meest bepalende factoren in de keuze van een
+opleiding?
+▪ Voordelen: biedt participant de meeste flexibiliteit, weinig restricties, grote kans
+dat echte gedachten/opinies worden blootgelegd
+▪ Nadelen: verschillende participanten kunnen de vraag anders benaderen
+waardoor antwoorden moeilijk te vergelijken en samen te vatten zijn, moeilijk te
+analyseren met standaard statistische analyses, afhankelijk van hoe goed een
+participant mening kan neerschrijven
+
+36
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+Survey design
+• Gerestricteerde vragen: participant krijgt beperkt aantal
+antwoordmogelijkheden (cf. multiple choice) en moet (vaak) het alternatief
+aanduiden dat het meest gepast, meest correct is
+▪ Voorbeeld: wat is volgens jou de meest bepalende factor in de keuze van een
+opleiding?
+a) Interesse
+b) Praktische overwegingen
+c) Keuze van vrienden
+d) Beroepsmogelijkheden
+▪ Makkelijk samen te vatten en te analyseren (proportie, %)
+
+37
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+Survey design
+• Beoordelingsschalen: participant selecteert een numerieke waarde op een
+vaste schaal om mate van instemming/akkoord aan te geven
+▪ Voorbeeld: Beroepsmogelijkheden is de meest bepalende factor in de keuze van
+een opleiding
+a) Helemaal mee eens
+b) Mee eens
+c) Noch eens, noch oneens
+d) Niet mee eens
+e) Helemaal niet mee eens
+▪ Likert schaal (hier: 5-punts Likert schaal)
+
+38
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+Survey design
+• Beoordelingsschalen:
+▪ Gelijke afstanden tussen de
+antwoordmogelijkheden
+▪ Vaak beschouwd als interval
+meetniveau
+▪ Gebruik voldoende categorieën (510): participanten vermijden vaak de
+extreme uiteinden (waardoor je 2
+categorieën “verliest”)
+▪ Gebruik labels (zeker van eindpunten
+en centrale categorie)
+
+39
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+Survey design
+• Beoordelingsschalen:
+▪ LET OP: als participanten een reeks vragen krijgen met dezelfde
+beoordelingsschaal, hebben ze de neiging om vaak dezelfde respons te
+gebruiken = “response set”
+E.g., noch eens, noch oneens → is men echt neutraal of wou men snel klaar zijn?
+E.g., altijd “eens”, behalve bij extreme onenigheid
+▪ Oplossing: gebruik een mix van positieve en negatieve stellingen → pas
+formulering aan
+E.g., “als ik pijn voel ben ik bang dat het zal blijven duren” EN “als ik pijn voel
+maak ik me niet meteen ongerust”
+▪ Dwingt participanten om de hele schaal te gebruiken en niet te vervallen in een
+response set
+40
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+Survey design
+• Beoordelingsschalen:
+▪ Beschouwd als interval → standaard statistische analyses mogelijk
+▪ Makkelijk te begrijpen en in te vullen voor participanten
+▪ Niet gedwongen in ja/nee, alles-of-niets antwoorden
+▪ Snel veel data verzamelen
+
+41
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+Survey design
+2. Survey samenstellen
+• Hoe de vragen organiseren om een coherente survey te krijgen?
+
+• Enkele algemene richtlijnen (niet exhaustief):
+▪ Demografische vragen op het einde (vaak saai, dus afhaken beperken + invloed
+hiervan op andere vragen beperken)
+▪ Gevoelige vragen, vragen die schaamte of ongemak kunnen veroorzaken in het
+midden van de survey
+▪ Vragen rond eenzelfde thema of met een zelfde format (e.g.,
+beoordelingsschalen) groeperen
+▪ Verzorg de lay-out, duidelijke instructies
+▪ Pas taalgebruik aan aan de beoogde participanten (e.g., kinderen)
+42
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+Survey design
+3. Selecteer relevante en representatieve steekproef
+• Doel = generaliseren (zie Les 3)
+
+• Kan externe validiteit bedreigen (zie ook Les 4)
+• Bijkomende bezorgdheden in survey design:
+▪ Vragen enkel relevant voor kleine subset van algemene populatie (e.g., vragen
+over kinderopvang) → hoe ga je relevante participanten werven? (i.e., ouders met
+kleine kinderen)
+▪ Vragen gericht op brede doorsnede van populatie (e.g., politieke attitudes) →
+beperk range steekproef niet te sterk (e.g., enkel studenten)
+▪ Tracht een goede steekproef te selecteren waarvoor de survey relevant is!
+
+43
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+Survey design
+4. Survey afnemen
+• Internet:
+▪ Via link op website, via e-mail
+▪ Online survey snel (en gratis) aan te maken met open source software (e.g.,
+LimeSurvey), grote groep potentiële respondenten bereiken
+▪ MAAR: selectiebias (e.g., social media): wie vult de survey uiteindelijk in?
+Representatieve sample? (= nonresponse bias)
+• Post:
+▪ Participanten vullen op eigen tempo in, niet bedreigend
+▪ MAAR: kostprijs (printen en versturen), lage response rate, selectiebias
+
+44
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+Survey design
+4. Survey afnemen
+• Telefoon
+▪ Zeer tijdrovend, enkel voor korte surveys,
+let op voor interviewer bias
+• Persoonlijk
+▪ Meest efficiënt, kan in groep verlopen,
+hoge response rate (vrijwilligers komen
+naar afgesproken moment en krijgen dan
+pas survey)
+▪ MAAR: let op met interviewer bias (bij
+individuele afname), vrijwilligersbias
+45
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+Survey design
+• Voor- en nadelen
+Survey Type
+
+Strengths
+
+Weaknesses
+
+Internet surveys
+
+Efficient to administer to a large number
+of participants
+Access to large number of individuals with common
+characteristics
+Survey can be individualized based on participant's
+responses
+
+Initial expense for site
+Sample may not be representative
+Cannot control composition of the sample
+
+Mail surveys
+
+Convenient and anonymous
+Nonthreatening to participants
+Easy to administer
+
+Can be expensive
+Low response rate and nonresponse bias
+Unsure exactly who completes the survey
+
+Telephone surveys
+
+Can be conducted from home or office
+Participants can stay at home or office
+
+Time-consuming
+Potential for interviewer bias
+
+In-person surveys
+
+Efficient to administer with groups, 100% response rate, and
+flexible (groups or individual interviews)
+
+Time-consuming, with individual interviews, and
+risk of interviewer bias
+
+46
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+Survey design
+• Voor- en nadelen
++ flexibel!
+
+- Lage response rates en nonresponse bias
+- Zelf-rapportage: kwaliteit survey hangt af van accuraatheid en eerlijkheid
+participanten → vatbaar voor vertekening, sociale wenselijkheid, info achterhouden,
+gebrek aan kennis over thema survey, etc.
+
+47
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+Oefening tegen volgende les
+Op Toledo zal je de methode-sectie vinden van een wetenschappelijk artikel
+Lees deze methode en bespreek de methode rekening houdend met alle
+aspecten die we het afgelopen semester hebben behandeld
+
+48
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+
+

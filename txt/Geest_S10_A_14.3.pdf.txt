@@ -1,0 +1,29 @@
+Overzicht
+Inleiding
+Linkshoofdigestructuren
+Copulatievesamenstellingen
+Exocentrischestructuren
+Aﬂeidingdoorcircumﬁgering
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Aﬂeidingdoorcircumﬁgering
+gebergte
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Aﬂeidingdoorcircumﬁgering
+Y [ NN\N] [ NN\V]
+N V
+[ NN\A] [ NN\Adv]
+X X\Y A Adv
+[ NumNum\Adv]
+Adv
+a…b
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Aﬂeidingdoorcircumﬁgering
+gespierd
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Aﬂeidingdoorcircumﬁgering
+beschadigen bevochtigen
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Aﬂeidingdoorcircumﬁgering
+gewerkt
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .

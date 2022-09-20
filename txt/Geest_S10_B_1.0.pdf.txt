@@ -1,0 +1,128 @@
+NederlandseTaalkundeI
+Hoofdstuk1
+Handboekpp.21–38
+JeroenvanCraenenbroeck
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Overzicht
+Inleiding
+Lineariteitvs.hiërarchie
+Hoofdigheid
+Compositionaliteit
+Structureleambiguïteit
+Valentie&subcategorisatie
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .(FONOLOGIE)
+SYNTAXIS MORFOLOGIE
+Inleiding
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .(FONOLOGIE)
+Inleiding
+SYNTAXIS MORFOLOGIE
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .(FONOLOGIE)
+Inleiding
+SYNTAXIS MORFOLOGIE
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Inleiding
+SYNTAXIS MORFOLOGIE
+(FONOLOGIE)
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Overzicht
+Inleiding
+Lineariteitvs.hiërarchie
+Hoofdigheid
+Compositionaliteit
+Structureleambiguïteit
+Valentie&subcategorisatie
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . 
+De
+Lineariteitvs. hiërarchie
+(1) Demanzieteenkat
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Lineariteitvs. hiërarchie
+(1) Demanzieteenkat
+ 
+De
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Lineariteitvs. hiërarchie
+(2) Demanzieteenkat
+ 
+man
+De
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Lineariteitvs. hiërarchie
+(3) Demanzieteenkat
+ 
+De
+ziet
+man
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Lineariteitvs. hiërarchie
+(4) Demanzieteenkat
+ 
+een
+De
+ziet
+man
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Lineariteitvs. hiërarchie
+(5) Demanzieteenkat
+ 
+De kat
+man een
+ziet
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Lineariteitvs. hiërarchie
+De man ziet een kat
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Lineariteitvs. hiërarchie
+(6) Demannenzieneenkatendevrouwendoendatook.
+(7) *Demannenzieneenkatendatdoenookeenhond.
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Recursiviteit
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Recursiviteit
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .(9)
+De man ziet
+een kat
+Recursiviteit
+(8) Eenrecursiefprocesiseenproceswaarvandeoutputopnieuwals
+inputkanwordengebruikt.
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Recursiviteit
+(8) Eenrecursiefprocesiseenproceswaarvandeoutputopnieuwals
+inputkanwordengebruikt.
+(9)
+De man ziet
+een kat
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .(11) krant
+Lineariteitvs. hiërarchie
+(10) badhanddoek
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Lineariteitvs. hiërarchie
+(10) badhanddoek
+(11) krant
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .(cid:0)! (cid:268)(cid:266)(cid:274)(cid:266)(cid:266)(cid:275)(cid:280)(cid:264)(cid:269)(cid:262)(cid:277)(cid:277)(cid:266)(cid:273)(cid:270)(cid:271)(cid:272)  (cid:0)
+1.(cid:269)(cid:270)(cid:311)(cid:279)(cid:262)(cid:279)(cid:264)(cid:269)(cid:270)(cid:280)(cid:264)(cid:269)(cid:266)
+(cid:280)(cid:281)(cid:279)(cid:282)(cid:264)(cid:281)(cid:282)(cid:282)(cid:279)
+&(cid:279)(cid:266)(cid:264)(cid:282)(cid:279)(cid:280)(cid:270)(cid:283)(cid:270)(cid:281)(cid:266)(cid:270)(cid:281)
+Lineariteitvs. hiërarchie
+SYNTAXIS MORFOLOGIE
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .1.(cid:269)(cid:270)(cid:311)(cid:279)(cid:262)(cid:279)(cid:264)(cid:269)(cid:270)(cid:280)(cid:264)(cid:269)(cid:266)
+(cid:280)(cid:281)(cid:279)(cid:282)(cid:264)(cid:281)(cid:282)(cid:282)(cid:279)
+&(cid:279)(cid:266)(cid:264)(cid:282)(cid:279)(cid:280)(cid:270)(cid:283)(cid:270)(cid:281)(cid:266)(cid:270)(cid:281)
+Lineariteitvs. hiërarchie
+SYNTAXIS(cid:0)! (cid:268)(cid:266)(cid:274)(cid:266)(cid:266)(cid:275)(cid:280)(cid:264)(cid:269)(cid:262)(cid:277)(cid:277)(cid:266)(cid:273)(cid:270)(cid:271)(cid:272)  (cid:0)MORFOLOGIE
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Lineariteitvs. hiërarchie
+SYNTAXIS(cid:0)! (cid:268)(cid:266)(cid:274)(cid:266)(cid:266)(cid:275)(cid:280)(cid:264)(cid:269)(cid:262)(cid:277)(cid:277)(cid:266)(cid:273)(cid:270)(cid:271)(cid:272)  (cid:0)MORFOLOGIE
+1.(cid:269)(cid:270)(cid:311)(cid:279)(cid:262)(cid:279)(cid:264)(cid:269)(cid:270)(cid:280)(cid:264)(cid:269)(cid:266)
+(cid:280)(cid:281)(cid:279)(cid:282)(cid:264)(cid:281)(cid:282)(cid:282)(cid:279)
+&(cid:279)(cid:266)(cid:264)(cid:282)(cid:279)(cid:280)(cid:270)(cid:283)(cid:270)(cid:281)(cid:266)(cid:270)(cid:281)
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .

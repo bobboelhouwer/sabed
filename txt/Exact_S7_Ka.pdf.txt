@@ -1,0 +1,159 @@
+30/10/2019
+Lay 6.2, 6.3
+Orthogonale basis, orthogonale 
+projectie, orthogonale matrix
+UT =U-1
+Orthogonale bases
+• Opmerking: vectoren en matrices van reële 
+getallen !
+• Veralgemening: zie tekst aanvullingen
+130/10/2019
+Orthogonale basis
+• S = {u , ... , u } heet orthogonaal
+1 p
+⇔ u.u = 0 voor i, j = 1 ... p maar i ≠ j
+i j
+• S = {u , ... , u } heet orthonormaal
+1 p
+⇔ S orthogonaal en (cid:1)u(cid:1) = 1 voor i = 1 ... p
+i
+• S = {u , ... , u } orthogonaal met u ≠ 0
+1 p i
+⇒ u , ... , u l.o. en dus basis voor Span{u , ... , u } 
+1 p 1 p
+Bewijs: 0 = c u + ... + c u
+1  1 p p
+0 = c (u .u) + ... + c (u .u) ⇒ 0 = c(u.u) ⇒ c=0
+1 1 i p p i i i i i
+• Orthogonale/orthonormale basis van deelruimte 
+W van Rn = basis die ook 
+orthogonale/orthonormale verzameling is
+Coordinaten in orthogonale basis
+S = {u , ... , u } is orthogonale basis van W
+1 p
+y = c u + ... + c u ∈ W heeft als coordinaten in 
+1  1 p p
+(cid:4).(cid:6)
+basis S: (cid:1) = (cid:7) met j = 1 ... p
+(cid:2)
+(cid:6) .(cid:6)
+(cid:7) (cid:7)
+y.u y.u
+y = (cid:8) u + ⋯+ (cid:12) u ∈ W
+u .u (cid:9) u .u (cid:13)
+(cid:8) (cid:8) (cid:12) (cid:12)
+230/10/2019
+Orthogonale projecties
+• Op een vector
+• Op een deelruimte
+Orthogonale projectie op een vector
+Gegeven u∈Rn, schrijf elke y∈Rnals 
+y= (cid:4)(cid:14)+zmet (cid:4)(cid:14)=αuen z⊥u
+α berekenen: z.u=(y-(cid:4)(cid:14)).u=y.u-(cid:4)(cid:14).u=y.u-αu.u=0
+y.u y.u
+(cid:15) = ⇒(cid:4)(cid:14) = u
+u.u u.u
+Merk op: projecteren op v= cu(c≠0) geeft zelfde (cid:4)(cid:14)
+y.v y.(cu) y.u
+(cid:4)(cid:14) = v =  (cu)=  u
+v.v (cu).(cu) u.u y
+z
+2
+(cid:4)(cid:14)is de projectie van yop L = Span{u}  z
+(cid:4)(cid:14)=ProjL(y) z1 α2u
+yyyy(cid:14)=αu
+(cid:4)(cid:14)∈L,z∈L⊥ αu
+1
+u
+0
+330/10/2019
+Orthogonale projectie op een 
+R
+deelruimte W van  n
+∀y∈Rn: y= (cid:4)(cid:14)+z(uniek) met (cid:4)(cid:14) ∈W,z∈W⊥
+Als {u , ... , u } een orthogonalebasis van W is: 
+1 p
+y.u y.u
+(cid:4)(cid:14) = (cid:17) u +⋯+ (cid:12) u =Proj (y)
+u .u (cid:17) u .u (cid:13) W
+(cid:17) (cid:17) (cid:12) (cid:12)
+Bewijs
+(cid:4)(cid:14) ∈W is triviaal
+y.u
+i= 1 ... p:z.u=(y-(cid:4)(cid:14)).u=y.u-(cid:4)(cid:14).u=y. u- (cid:18) u ....u =0
+i i i i i u .u (cid:19) (cid:19)
+⇒z∈W⊥ (cid:18) (cid:18)
+Uniek ?
+y= (cid:4)(cid:14)+z=(cid:4)(cid:14) +z met  (cid:4)(cid:14) ∈W,z ∈W⊥
+1 1 1 1
+v= (cid:4)(cid:14)-(cid:4)(cid:14) = z –zligt in W en W⊥⇒v.v=0 ⇒v=0⇒uniek
+1 1
+Orthogonale decompositie
+∀ y ∈ Rn: y = (cid:4)(cid:14)+z (uniek) met (cid:4)(cid:14) ∈ W, z ∈ W⊥
+y y
+W⊥
+W⊥
+z
+W
+W
+(cid:4)(cid:14)
+(cid:4)(cid:14)
+0
+0
+(cid:4)(cid:14) is uniek, dus onafhankelijk van de basis in W
+430/10/2019
+Beste benadering
+y
+W deelruimte van Rn
+y ∈ Rn, (cid:4)(cid:14) = Proj (y) W
+W
+v
+(cid:4)−(cid:21)(cid:4) < (cid:4)−(cid:23) ∀ v ≠ (cid:4)(cid:14) ∈∈∈∈W
+(cid:4)(cid:14)
+Bewijs:v - (cid:4)(cid:14) ∈∈∈∈W en (cid:4)(cid:14) − (cid:4) ∈∈∈∈W⊥
+y - v = y -	(cid:21)(cid:4) + (cid:4)(cid:14) −(cid:23) is som 
+0
+van ⊥ vectoren
+y − v (cid:25) = y −	(cid:21)(cid:4) (cid:25) + (cid:4)(cid:14) − (cid:23) (cid:25)
+>0
+Orthogonale projectie op een 
+R
+deelruimte W van  n
+∀y∈Rn: y= (cid:4)(cid:14)+z(uniek) met (cid:4)(cid:14)∈W,z∈W⊥
+Als {u , ... , u } een orthonormalebasis van W is: 
+1 p
+(cid:4)(cid:14) =(y.u )u +⋯+(y.u )u =Proj (y)
+(cid:9) (cid:9) (cid:13) (cid:13) W
+uTy uT
+1 1
+uTy uT
+2 2
+y.u = uTy ⇒ (cid:2) =       (cid:2)    y= UTy
+i  i
+u Ty u T
+p p
+met U = [u ... u ] (n×pmatrix) 
+1 p
+(cid:4)(cid:14) =Proj (y)=U(UTy) = UUTy
+W
+Merk op:
+a) UUT(n×nmatrix) is de standaardmatrix van de orthogonale projectie op 
+W
+b) UTU = I wegens orthonormaliteit van {u , ... , u } 
+p 1 p
+530/10/2019
+Matrix met orthonormale kolommen
+• Umx nmet orthonormalekolommen
+• UTU= I
+n
+• n≤m
+• (UUUUxxxx)....(UUUUyyyy)=	(UUUUxxxx)T(UUUUyyyy)	=	xxxxTUUUUTUUUUyyyy=xxxxTyyyy====xxxx				....				yyyy
+• (cid:31)  =  
+• (UUUUxxxx)....(UUUUyyyy)=0	⇔xxxx				....				yyyy=0
+• (UUUUxxxx)⊥⊥⊥⊥(UUUUyyyy)	⇔xxxx				⊥⊥⊥⊥yyyy
+• Orthogonale matrix: m=nenorthonormalekolommen
+• UTU= I ⇒UT =U-1
+n
+• ⇒UUT = UU-1= I ⇒rijenenkolommenorthonormaal!
+n
+6

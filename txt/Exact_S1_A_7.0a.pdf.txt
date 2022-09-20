@@ -1,0 +1,362 @@
+Aanvullende voorbeelden bij Hoofdstuk IX  30
+Gegeven: 
+ 
+  Zn(v) / Zn2+(1M) // Ag+(1M) / Ag(v)                      25°C 
+ 
+a)  Bereken de celpotentiaal van deze galvanische cel. 
+b)  Ligt het evenwicht naar links of naar rechts voor de globale celreactie? 
+ 
+oplossing 
+ 
+a)   Zn2+   +   2 e-       Zn              E° =  -0,76  V 
+      Ag+   +   e-       Ag                  E° =  0,80  V 
+ 
+ 
+oxidatie :           Zn   -   2 e-       Zn2+                            E° =  0,76 V 
+reductie :        ( Ag+   +   e-       Ag )  2 maal               E° =  0,80 V 
+   
+     Zn   +   2 Ag+      Zn2+   +   2 Ag                 E°   =  1,56 V 
+cel
+ 
+b) D G(cid:176) = -n F E(cid:176)  
+cel
+    DG(cid:176) = -2 mol · 96500C.mol-1 · 1,56 V  
+    DG(cid:176) = -301080 J  
+ 
+ 
+     DG(cid:176) = -RT lnK  
+DG(cid:176)
+    lnK = -  
+R·T
+-301080 J
+    lnK = -  
+8,314 J.mol-1K-1 ·298K
+    lnK = 121,5 
+    K = 5,98 1052 
+ 
+Vermits het gaat over een z eer grote K waarde ligt het e venwicht sterk naar rechts. 
+ 
+ 
+In welke richting gaat de onderstaande reactie spontaan door? 
+ 
+  3 Zn2+   +   2 NO  +  4 H O        3 Zn   +   8 H+  +  2 NO - 
+2 3
+ 
+Bijkomende gegevens: 
+( ) ( )
+Zn2+ = 1,1M                             NO- = 0,3M  
+3
+( )
+H+ = 0,01M                            P = 1,2 bar 
+NO
+ 
+oplossing 
+ 
+Zn2+   +   2 e-       Zn                                           E° =  -0,76  V 
+NO -  +  4 H+  +  3 e-       NO  +  2 H O               E° =  0,96  V 
+3 2
+ 
+De gegeven concentraties (druk) zijn geen standaard hoeveelheden en worden ingevuld in 
+de potentiaalbetrekking Aanvullende voorbeelden bij Hoofdstuk IX  31
+ 
+0,0591 links
+E = E(cid:176) + log  
+n rechts
+ 
+0,0591 (NO-) (H+)4 0,0591 0,3 (0,01)4
+E = E(cid:176) + log 3 = 0,96 + log = 0,79 V  
+R NO3-/NO n P 3 1,2
+NO
+ 
+0,0591 ( ) 0,0591 1,1
+E = E(cid:176) + log Zn2+ = -0,76 + log = -0,76 V  
+L Zn2+/Zn n 2 1
+ 
+ 
+oxidatie :           ( Zn   -   2 e-       Zn2+ )  3 maal 
+reductie :        ( NO -  +  4 H+  +  3 e-       NO  +  2 H O )  2 maal 
+3 2
+             
+      3 Zn   +   8 H+   +   2 NO -           3 Zn2+   +   2 NO  +  4 H O                
+3 2
+ 
+ 
+DE = E - E = 0,79 V - (-0,76V) = 1,55 V  
+R L
+ 
+ 
+DG = -n F E 
+DG = -6 mol ·96500C.mol-1 ·1,55V  
+DG = -897762 J  
+       
+ 
+Zn wordt spontaan geoxideerd tot Zn2+ o.i.v. NO - in aanwezigheid van H+ . 
+3
+De reactie in de opgave           3 Zn2+   +   2 NO  +  4 H O        3 Zn   +   8 H+  +  2 NO -   
+2 3
+gaat s pontaan door v an rechts naar links. 
+ 
+ 
+ 
+Kan het permanganaation Fe2+ oxideren tot Fe3+ onder de volgende omstandigheden: 
+ 
+•  pH = 4 
+( ) ( )
+•  Mn2+ = 1 10-6 M                  MnO- = 1 10-2 M     
+4
+( ) ( )
+•  Fe2+ = 1 10-3 M                  Fe3+ = 1 10-6 M  
+ 
+oplossing 
+ 
+Fe3+   +   e-       Fe2+                                               E° =  0,77  V 
+MnO -  +  8 H+  +  5 e-       Mn2+  +  4 H O                E° =  1,51  V 
+4 2
+ 
+ 
+Invullen van de gegevens in de potentiaalbetrekking 
+ 
+0,0591 (MnO-)(H+)8 0,0591 10-2 (10-4)8
+E = E(cid:176) + log 4 = 1,51+ log = 1,18 V
+R MnO4-Mn2+ n (Mn2+) 5 10-6
+ 
+ Aanvullende voorbeelden bij Hoofdstuk IX  32
+( )
+0,0591 Fe3+ 0,0591 10-6
+E = E(cid:176) + log = 0,77 + log = 0,59 V  
+L Fe3+/Fe2+ n (Fe2+) 1 10-3
+ 
+ 
+oxidatie :       ( Fe2+   +   e-       Fe3+ ) 5 keer 
+reductie :     MnO -  +  8 H+  +  5 e-       Mn2+  +  4 H O                    
+4 2
+             
+      5 Fe2+   +  MnO -  +   8 H+      5 Fe3+   +   Mn2+  +  4 H O                
+4 2
+ 
+ 
+E = E - E = 1,18 V - 0,59 V = 0,59 V  
+R L
+ 
+ 
+DG = -n F E 
+DG = -5mol e- ·96500C.mol-1 ·0,59 V  
+DG = -284675 J  
+       
+ 
+      JA, MnO - kan Fe2+ oxideren tot Fe3+ onder de hierboven genoemde omstandigheden. 
+4
+ 
+ 
+ 
+Bereken de Cu2+-concentratie als je weet dat onderstaande cel in evenwicht is. 
+ 
+  Sn  / Sn2+ (0,4M) // Cu2+ (?M) / Cu  
+(v) (v)
+ 
+ 
+Oplossing 
+ 
+Geen standaardomstandigheden: 
+ 
+E = E(cid:176) + 0,0591log[Cu2+] = 0,34 + 0,0591log[?]  
+R Cu2+/Cu n 2
+ 
+E = E(cid:176) + 0,0591log[Sn2+] = -0,14 + 0,0591log[0,4] = -0,15 V  
+L Sn2+/Sn n 2
+ 
+ 
+Evenwicht betekent  (cid:1)G = 0            E  = 0 = E  – E     dus    E  = E
+cel R L R L 
+ 
+ 
+                                E = E  
+R L
+ 
+0,0591
+0,34 + log[?] = -0,15  
+2
+0,0591
+           log[?] = -0,49  
+2
+[ ]
+                     log Cu2+ = -16,64  
+[ ]
+                           Cu2+ = 2,28 10-17 M  Aanvullende voorbeelden bij Hoofdstuk IX  33
+Een galvanische cel is opgebouwd uit volgende 2 halfcellen: 
+ 
+  Anode:   Cr   -   3e-        Cr3+
+(v) (opl) 
+  Kathode:   MnO   +  4 H+   +  2 e-      Mn2+   +  2 H O
+2(v) (opl) (opl) 2 (vl) 
+ 
+Bijkomende gegevens 
+( ) ( )
+Cr3+ = 0,05 M     Mn2+ = 0,1M  
+ 
+Wat moet de pH in de rechtse halfcel zijn om een E  van 0,73 V te bekomen? 
+cel
+ 
+oplossing 
+ 
+Geen standaardomstandigheden: 
+ 
+E = E(cid:176) + 0,0591log(Cr3+) = -0,74 + 0,0591log(0,05) = -0,76 V  
+L L n 3
+ 
+0,0591 (H+)4 0,0591 (H+)4
+E = E(cid:176) + log = 1,22 + log  
+R R n (Mn2+) 2 0,1
+ 
+E = E - E = 0,73V = (cid:4)(cid:6)1,22 + 0,0591log (H+)4 (cid:1)(cid:3) - (-0,76)  
+cel R L (cid:4)(cid:5) 2 0,1 (cid:1)(cid:2)
+0,0591 (?)4
+-1,25 = log  
+2 0,1
+(?)4
+-42,3 = log  
+0,1
+(?)4
+5 10-43 =  
+0,1
+( )
+H+ = 1,5 10-11  
+ 
+pH = -log (H+) = -log1,23 10-11 (cid:7)  pH = 10,8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Aanvullende voorbeelden bij Hoofdstuk IX  34
+Een voldoende zure oplossing van 200 ml bevat 0,1 M Co3+. Aan die 200 ml wordt 75 
+ml toegevoegd van een oplossing die 0,2 M Fe2+-ionen bevat. 
+a)  Bereken de potentiaal van die oplossing. 
+b)  Hoeveel ml Fe2+-oplossing moet toegevoegd worden aan die 200 ml Co3+-
+oplossing om de potentiaal op 0,79 V te brengen? 
+ 
+oplossing 
+ 
+We gaan vooraf na of Co3+ wel in voldoende aflopende mate reageert met Fe2+ tot vorming 
+van Co2+ en Fe3+. We bereken hiertoe de evenwichtsconstante voor de reactie 
+ 
+ 
+  Co3+     +     Fe2+           Co2+     +     Fe3+       (cid:1)E° = 1,82 – 0,77 = 1,05  V 
+ 
+0,0591 DE(cid:176) 1,82 -0,77
+  DE(cid:176) = log K log K = = = 17,8 
+1·1 ev ev 0,0591 0,0591
+ 
+ 
+    a)  samenvoegen maakt een totaal volume van   200 ml + 75 ml = 275 ml 
+ 
+( ) 200 ml
+          Co3+ = 0,1M · = 0,073M   
+275ml
+( ) 75ml
+           Fe2+ = 0,2 M · = 0,054 M  
+275ml
+ 
+ 
+                    Co3+    +    Fe2+           Co2+   +    Fe3+          
+                                               
+start            0,073        0,054 
+                  - 0,054      - 0,054            + 0,054     + 0,054 
+einde          0,019           weg                0,054        0,054 
+ 
+ 
+buffer 
+ 
+ 
+De potentiaal van de oplossing wordt bepaald door het redoxsysteem waarvan Ox en Red 
+samen aanwezig zijn 
+ 
+[ ]
+0,0591 Co3+ 0,0591 0,019
+E = E(cid:176) + log = 1,82 + log = 1 ,79 V  
+Co3+/Co2+ n [Co2+] 1 0,054
+ 
+ 
+ 
+b) samenvoegen maakt een totaal volume van      200 ml + x ml = (200 + x) ml 
+ 
+( ) 200 ml
+         Co3+ = 0,1M ·  
+(200 + x)ml
+( ) x ml
+         Fe2+ = 0,2 M ·  
+(200 + x)ml
+       Aanvullende voorbeelden bij Hoofdstuk IX  35
+ 
+                            Co3+             +           Fe2+                      Co2+             +               Fe3+   
+ 
+200 x
+start            0,1·            0,2·                 
+200 + x 200 + x
+        
+200 200 200 200
+                   -0,1·      -0,1·              +0,1·            +0,1·  
+200 + x 200 + x 200 + x 200 + x
+ 
+0,2 x -0,1·200 200 200
+einde                    weg                          0,1·                0,1·  
+200 + x 200 + x 200 + x
+ 
+ 
+redoxbuffer 
+ 
+ 
+In deze situatie is Co3+ het beperkend reagens en blijft Fe2+ over. Van het Fe3+/Fe2+ systeem 
+zijn Ox en Red samen in oplossing en dit bepaalt de potentiaal. 
+ 
+ 
+[ ]
+0,0591 Fe3+
+E = E(cid:176) + log  
+Fe3+/Fe2+ n [Fe2+]
+ 
+(cid:13)0,1·200(cid:10)
+(cid:11) (cid:8)
+0,0591 (cid:12) 200+ x (cid:9)
+0,79 = 0,77 + log  
+1 (cid:13) 0,2 x -0,1·200(cid:10)
+(cid:11) (cid:8)
+(cid:12) 200+ x (cid:9)
+ 
+(cid:13)0,1·200(cid:10)
+(cid:11) (cid:8)
+(cid:12) 200 + x (cid:9)
+0,34 = log  
+(cid:13) 0,2 x - 0,1·200(cid:10)
+(cid:11) (cid:8)
+(cid:12) 200 + x (cid:9)
+(cid:13)0,1·200(cid:10)
+(cid:11) (cid:8)
+(cid:12) 200 + x (cid:9)
+2,18 =  
+(cid:13) 0,2 x -0,1·200(cid:10)
+(cid:11) (cid:8)
+(cid:12) 200 + x (cid:9)
+ 
+ 
+0,43 x - 43,6 = 20 
+0,43 x = 63,6 
+63,6
+x =  
+0,43
+ x = 144,5ml  Fe2+-oplossing toevoegen 
+ 
+ 
+ 

@@ -1,0 +1,763 @@
+Part 6
+Firm behaviour and market 
+structures 
+Market structures I: MonopolyChapter 14
+Market structures I: 
+MonopolyIntroduction 262
+• In hoofdstuk 6 werd de markt van perfecte concurrentie bestudeerd.  
+Als de voorwaarden voor perfecte concurrentie niet meer voldaan 
+zijn en bvb. de aangeboden producten niet homogeen zijn of 
+enkele producenten aanwezig zijn in de markt met aanzienlijke 
+marktmacht waardoor zij controle kunnen uitoefenen op de prijs,  
+zal ook het ondernemingsgedrag anders zijn dan bij perfecte 
+concurrentie.
+• Wanneer de voorwaarden van perfecte concurrentie niet meer 
+opgaan, zijn bedrijven actief in een markt van imperfecte 
+concurrentie.
+.Overzicht
+/
+1. Imperfect competition (p.262-263)
+2.   Why monopolies arise (p.263-267)
+3. How monopolies make production and pricing decisions
+(p.267 - 272)
+4.   The welfare cost of monopoly  (p.272 – 275)
+5. Price discrimination (p.275 – 278)
+6. Public policy towards monopolies  (p.279 – 281)
+7. Conclusion : the prevalence of monopoly  (p. 281 - 282)1. Imperfect competition 262
+• Imperfect competition : exists where firms are able to differentiate 
+their product in some way and so can have some influence over 
+price.  
+• The opposite end of the competitive spectrum is a monopoly which 
+is a market structure with only one or one dominating firm. 
+Example: Microsoft ‘s Windows dominates the market of operating 
+systems with a market share of 82%. 
+• In reality, several firms can exercise market power where a firm is 
+able to raise the price of its product without losing its sales to rivals. 
+Such a firm is a price maker (prijszetter). 
+• A firm with market power typically has a substantial market share 
+which is the proportion of total sales in a market accounted for by 
+this firm. Monopolie: voorwaarden 263
+• Slechts één onderneming bedient de hele markt (zie voorbeeld van 
+Atos), of één onderneming domineert de hele markt (zoals 
+bijvoorbeeld Microsoft Windows).
+• Het volledige marktaanbod is gelijk aan het aanbod van de 
+monopolist.
+o Vb. De Post voor brievenpost tussen particulieren
+• Het goed kent weinig substituten.
+o Hangt af van subjectieve interpretatie: bijvoorbeeld brievenpost 
+versus email, Coca-Cola versus Pepsi Cola, …Gedrag van een monopolist 263
+• Een monopolist heeft geen concurrenten en kan daardoor de prijs
+van zijn product zelf zetten.
+• De prijs die de monopolist zet, is hoger dan de marginale kost van 
+productie.
+• De monopolist kan echter zijn prijs niet onbeperkt hoog zetten want 
+dan zullen de consumenten afhaken. 
+• De winst van een monopolist is hoog waardoor de welvaart in de 
+markt meestal niet maximaal is.
+• Vaak zal daarom de overheid ingrijpen bij een monopolie.2. Why monopolies arise 263
+• Monopoly : a firm that is the sole seller of a product without close 
+substitutes.
+• De oorzaak van het bestaan van een monopolie wordt verklaard
+door toetredingsbelemmeringen (barriers to entry) waardoor
+bedrijven niet of moeilijk kunnen toetreden tot de markt.  
+• Herhaling : bij perfecte concurrentie zijn geen
+toetredingsbelemmeringen aanwezig waardoor bedrijven vrij
+kunnen toetreden tot de markt en de aanwezige bedrijven geen
+marktmacht kunnen uitoefenen (lange termijn marktevenwicht
+evolueert naar nul winst).
+• Verschillende vormen van toetredingsbelemmeringen kunnen aan
+de basis liggen van een monopolie.Natuurlijke toetredingsbelemmeringen
+263
+Natuurlijke 
+toetredingsbelemmeringen hebben 
+te maken met het productieproces.
+o Controle over essentiële input 
+of exclusieve kennis
+• Vb. diamanthandel en de Beers
+• Vb. formule Coca-Cola, broncode 
+softwarepakket, …Natuurlijke 
+264
+toetredingsbelemmeringen
+Natuurlijke toetredingsbelemmeringen hebben te maken met
+het productieproces.
+o Controle over essentiële input of exclusieve kennis
+• Vb. diamanthandel en de Beers
+• Vb. formule Coca-Cola, broncode softwarepakket, …
+o Dealership contracten
+• Vb. autoproducenten – autodealers
+• Vb. brouwerijen – cafés
+o Leerkosten 
+• als de productiekosten afnemen met het historisch gecumuleerd 
+productievolume
+o Externe groei door overnames en fusies
+o Schaal- en scopevoordelenToetredingsbelemmeringen door 
+/
+schaalvoordelen
+ 
+GK,
+ 
+GK
+p  1 
+V
+ 
+GK
+2 
+30
+ 
+20
+ 
+10
+ 
+50 100 1.000 1.100 q
+         265
+Natuurlijk monopolie
+• Hoe groter de schaalvoordelen (d.w.z. hoe langer de GK dalen), 
+hoe minder plaats er is voor extra ondernemingen in de markt.
+o Dit fenomeen komt vaak voor in sectoren met relatief hoge 
+vaste kosten zoals in de autoproductie, banksector, 
+communicatietechnologie, …
+• In extreme gevallen geeft dit aanleiding tot een natuurlijk 
+monopolie (of duopolie of oligopolie):
+o als de omvang van de markt en het verloop van de 
+productiekosten van een onderneming van die aard zijn dat er 
+in de markt slechts ruimte is voor ten hoogste één (twee of 
+enkele) onderneming(en).Wettelijke 
+265
+toetredingsbelemmeringen
+Wettelijke toetredingsbelemmeringen zijn aanwezig wanneer de 
+overheid een onderneming het exclusieve recht verleent om een bepaald 
+product of dienst te verkopen.
+• Patent: the right conferred on the owner to prevent anyone else making 
+or using an invention or manufacturing process without permission
+o beschermen uitvinders van producten, diensten, processen, … tegen 
+namaak van hun uitvindingen (voor ongeveer 20 jaar).
+o Ze geven prikkels om voldoende middelen te investeren in 
+onderzoek en ontwikkeling van nieuwe producten, diensten, 
+processen.
+• Vb. farmaceutische industrie
+• De patenthouder kan een licentie verlenen aan een ander bedrijf om 
+zijn uitvinding te gebruiken. 
+o meestal in ruil voor een vergoedingWettelijke 
+265
+toetredingsbelemmeringen
+• Copyright © of auteursrecht : the right of an individual or 
+organization to own things they create in the same way as a 
+physical object to prevent others from copying or reproducing the 
+creation.
+o beschermt teksten, afbeeldingen, films, geluidsfragmenten, 
+software, … tegen namaak.
+o stimuleert creatieve processen
+• Vestigingswetten om kwaliteit te waarborgen:
+o Vb. apothekers, notarissen, radiofrequenties, …
+• Exclusiviteitsrecht in ruil voor maatschappelijke dienstverlening
+o De Post of de NMBS.3. How monopolies make 
+267
+production and pricing decisions
+• De individuele vraagcurve voor een producent in een markt van 
+perfecte concurrentie verloopt perfect prijselastisch. Hij is een 
+prijsnemer en heeft geen marktmacht.
+• De vraagcurve van de monopolist verloopt dalend. Hij bedient de hele 
+markt. Bij een hogere prijs zal hij minder verkopen. Zijn marktmacht of 
+prijszetting wordt dus bepaald door de prijsgevoeligheid van de 
+consumenten.
+Fig. 14.2/
+Prijszetting en marktmacht
+• Prijszetters kunnen door hun aanbodgedrag de prijs op de markt 
+beïnvloeden.
+• In de opbrengstenfunctie van een ondernemer is de verkoopprijs 
+niet langer een constante.
+• De prijs wordt nu gegeven door de betalingsbereidheid van de 
+consumenten.
+o Die betalingsbereidheid lezen we af aan de inverse 
+vraagfunctie.
+o Grotere hoeveelheden kunnen slechts verkocht worden door 
+de verkoopprijs te laten dalen.
+   
+TO q  p q  q
+i i i/
+Marginale opbrengsten en marktmacht
+• De marginale opbrengst van één extra eenheid verkoop is de 
+afgeleide van de TO functie naar q:
+   
+dTO q dp q
+  i i  
+MO q   p q   q
+i i i
+dq dq
+i i
+• De marginale opbrengst is lager dan de prijs omdat:
+dp(q)/dq ≤ 0 (vraagfuncties zijn dalend)
+• i
+Een bijkomende eenheid kan slechts verkocht worden 
+•
+door de prijs een beetje te verlagen.
+De prijsverlaging geldt voor alle verkochte eenheden
+•
+(onder uniforme prijszetting).Marginale opbrengsten en de 
+/
+prijselasticiteit van de vraag
+• Herschrijf de MO in functie van de prijselasticiteit van de vraag:
+     
+dp q dp q p q
+     
+MO q  p q  q  p q   q
+i i i   i
+dq dq p q
+i i
+ 
+ 
+ 
+1 1
+     
+ p q  1  p q  1
+ 
+ 
+ dq p q  V
+ 
+ 
+i p
+ 
+ 
+dp q q
+ 
+iMarginale opbrengsten gelijk aan 
+/
+marginale kosten
+• Winstmaximering vereist, zoals steeds, dat de ondernemer een 
+productieniveau kiest zodanig dat de marginale opbrengsten gelijk 
+zouden zijn aan de marginale kosten:
+ 
+1
+     
+MO q  p q  1  MK q
+ 
+i i V i i
+
+ 
+ 
+p
+
+ 
+1
+   
+p q  1   MK q
+i i
+V
+  
+ 
+pInverse elasticiteitsregel /
+ 
+  *
+p q  MK q
+1
+i i
+
+ 
+p q V
+p
+• Linkerkant = mark-up
+o Procentuele kloof tussen p en MK (t.o.v. p)
+• Winstmaximering impliceert prijszetting zodanig dat de mark-up 
+omgekeerd evenredig is aan de (absolute waarde van de) eigen 
+prijselasticiteit van de vraag.
+o Hoe prijsinelastischer de vraag, hoe hoger de mark-up die de 
+ondernemer kan afdwingen.268
+A monopoly’s revenue
+o Voorbeeld: pralineproducent heeft een lokaal monopolie in 
+zijn regio.
+o Kostenstructuur: zie vorige hoofdstukken
+o Opbrengstenstructuur:
+• GO zijn niet langer constant:
+GO(q) = p(q) en p neemt af in functie van q 
+•
+(inverse vraagfunctie met dalend verloop)
+• MO zijn niet langer constant:
+MO(q) < GO(q) = p(q)
+•
+Als de monopolist een bijkomende eenheid wil verkopen, 
+•
+moet hij zijn prijs laten zakken.Monopolie: evenwicht
+/
+Evenwichtsvoorwaarde: MO = MK (voor q = 6.000) 
+Productievoorwaarde:      p > GVK ( 5,50 > 2,87) 
+Prijs  Markt- Totale  Totale  Winst  Marginale  Marginale  Gemiddelde  Gemiddel-
+  vraag  opbrengst  kost    opbrengst  kost  variabele  de kost 
+(p=              kost   
+V
+GO)  (q )  (TO)  (TK)  (W)  (MO)  (MK)  (GVK)  (GK) 
+           
+7,00  0  0  2.285  -2.285  7,00       
+6,75  1.000  6.750  4.785  1.965  6,50  2,50  2,50  4,79 
+6,50  2.000  13.000  6.785  6.215  6,00  2,00  2,25  3,39 
+6,25  3.000  18.750  9.020  9.730  5,50  2,24  2,24  3,01 
+6,00  4.000  24.000  12.015  11.985  5,00  3,00  2,43  3,00 
+5,75  5.000  28.750  15.485  13.265  4,50  3,47  2,64  3,10 
+5,50  6.000  33.000  19.485  13.515  4,00  4,00  2,87  3,25 
+5,25  7.000  36.750  23.985  12.765  3,50  4,50  3,10  3,43 
+5,00  8.000  40.000  28.985  11.015  3,00  5,00  3,34  3,62 
+ 
+MO liggen onder de GO en dalen dubbel zo snel als GO (voor lineaire 
+vraagfuncties) : GO nemen af met 0,25€ per 1.000 eenheden terwijl MO 
+afnemen met 0,50€ per 1.000 eenheden./
+Monopolie : evenwicht
+ 
+   p 
+7
+p = GO 
+Mark-up
+6
+      MO 
+5
+      MK 
+4
+      GK 
+3
+      GVK 
+2
+1
+0
+1.000 2.000 3.000 4.000 5.000 6.000 7.000                 q 
+Winstmaximaliserende productie in een monopolie /
+Monopolist beperkt zijn aanbod
+• De monopolist beperkt zijn aanbod om de marktprijs op te 
+drijven.
+• De monopolist heeft geen aanbodcurve maar produceert in 
+het punt waar zijn winst maximaal is:  MO = MK (zie ook 
+tekstbox “ Why a monopoly does not have a supply curve 
+p.271)
+• Mark-up voor een prijszetter is positief (p > MK want p > MO)
+• Voorbeeld pralineproducent :  
+p  MK 5,50€  4,00€
+  0, 2727
+p 5,50€
+• Mark-up voor een prijsnemer (bij perfecte concurrentie) is 
+nul. (p = MK want p = MO)270
+Profit maximization
+• Fig. 14.4 : Een 
+monopolist 
+maximaliseert zijn 
+winst bij Qmax 
+waar MO = MK 
+(punt A) en leidt op 
+basis van de vraag 
+naar zijn product  
+de bijhorende prijs 
+(punt B) af opdat 
+hij deze 
+hoeveelheid zou 
+verkopen. 272
+A monopoly’s profit
+• Fig. 14.5 : De winst 
+van de monopolist 
+• is de opp. BCDE  = 
+(p-GK) x Q . 
+max
+• Vraag : Wat is de 
+mark-up van deze 
+monopolist? Duid 
+aan op de figuur.272
+4. The welfare cost of monopoly
+• Bij perfecte concurrentie is de markt efficiënt en leidt tot maximale 
+welvaart 
+• Allocatieve efficiëntie: wat en hoeveel?
+o MBB = MK (snijpunt vraag- en aanbodcurve)
+• Productieve efficiëntie: door wie of hoe?
+o MK = MK = … en productie tegen minimale GK
+1 2
+• Bij marktmacht:
+o P = MBB > MK, dus geen allocatieve efficiëntie
+o Monopolist produceert een hoeveelheid Q die verschillend 
+max
+kan zijn van de minimum efficiënte schaal (MES = min GK), 
+dus niet noodzakelijk productieve efficiëntie.273
+Het efficiënte niveau van productie
+Fig. 14.6 : De 
+welvaart is maximaal 
+waar MBB = MK. 
+Als MBB  > MK 
+wordt de welvaart 
+verhoogd door meer 
+te produceren. 
+Indien MBB < MK is 
+het efficiënter  de 
+productie te 
+verminderen.274
+The deadweight loss
+Fig. 14.7: De 
+welvaart is niet 
+maximaal bij een 
+monopolie omdat er 
+te weinig wordt 
+geproduceerd :
+MBB  > MK. Het 
+welvaartsverlies 
+wordt gegeven door 
+de gearceerde 
+driehoek./
+Welvaartsverlies in een monopolie
+• Veronderstelling: 
+o MK van monopolist valt samen met aanbod bij perfecte 
+concurrentie.
+o Welvaartsmaximum bij (p ,q ) waar (A=) MK = MBB (=V).
+c c
+• Het welvaartsverschil bij monopolie bestaat uit twee effecten:
+o De monopolist verkoopt zijn product té duur: p > p
+m c
+• transfer van consumentensurplus naar monopolist (dit is 
+een transfer van welvaart, geen welvaartsverlies).
+o De monopolist produceert té weinig: q < q
+m c
+• Welvaartsverlies (“deadweight loss” driehoek => duid 
+deze aan op de volgende slide )/
+Welvaartsverlies in een monopolie
+ 
+p, GO 
+MK, MO 
+Transfer van consumentensurplus 
+naar monopolist 
+Verlies aan consumentensurplus 
+p
+m 
+MK 
+te hoge 
+prijs 
+p
+c 
+Verlies aan 
+producentensurplus 
+MO
+ 
+V = GO
+ 
+q q q 
+m  c 
+te lage hoeveelheid 274
+The monopoly’s profit: a social cost?
+• Welvaart is de som van consumenten- en producentensurplus. 
+Als de monopolist een hoog producentensurplus of winst 
+realiseert is dit niet altijd ten nadele van de welvaart in de markt 
+(bvb.  de welvaart bij perfecte prijsdiscriminatie is wel 
+maximaal, zie verder in het hoofdstuk p.277), wel ten nadele 
+van het consumentensurplus.
+• Het welvaartsverlies ontstaat doordat de monopolist een 
+productiehoeveelheid verkoopt die lager is dan de 
+productiehoeveelheid waarbij welvaart maximaal is: 
+consumenten kopen te weinig van het product omdat de 
+monopolist zijn prijs hoog zet (hoger dan de marginale kost)
+• Dit leidt soms tot overheidsingrijpen (zie marginal cost pricing 
+verder in het hoofdstuk, p.280)275
+5. Price discrimination
+• Price discrimination (prijsdiscriminatie) : the business practice
+of selling the same good at different prices to different customers.
+• Bij perfecte concurrentie hebben aanbieders geen marktmacht en 
+geldt uniforme prijszetting. Uniforme prijszetting veronderstelt: 
+o alle consumenten betalen zelfde prijs 
+o alle eenheden worden aan dezelfde prijs verkocht
+• Om het nadeel van uniforme prijszetting te ontlopen, probeert de 
+aanbieder met marktmacht verschillende groepen consumenten 
+te onderscheiden en verschillende prijzen te vragen aan 
+verschillende consumententypes:
+o een hogere (lagere) prijs voor types met hogere (lagere) 
+betalingsbereidheid.Prijsdiscriminatie: algemeen principe 276
+• Prijsdiscriminatie = winst verhogen door 
+o enerzijds het omzetten van consumentensurplus (CS) in 
+producentensurplus (PS).
+o verminderen van deadweight loss door een lagere prijs te 
+hanteren voor consumenten met een lagere betalingsbereidheid
+• Twee praktische voorwaarden:
+o Consumententypes en hun betalingsbereidheid moeten kunnen 
+geïdentificeerd worden.
+• Gericht marktonderzoek: zinvol als baten > kosten.
+o Doorverkoop (arbitrage) moet onmogelijk zijn.
+• Doorverkoop is moeilijk in dienstensectoren (kappers, …).
+• Vliegtuigtickets zijn op naam.The analytics of price discrimination 277
+• Perfect price discrimination (perfecte prijsdiscriminatie): a 
+situation in which the monopolist knows exactly the willingness
+to pay of each customer and can charge each customer a different 
+price.
+• Perfecte prijsdiscriminatie = CS van elke consument volledig 
+afromen.
+• Dit vereist een specifieke prijs voor elke consument,
+dus een individuele prijszetting.
+o Lukt enkel als consumenten perfect geïdentificeerd kunnen 
+worden en doorverkoop onmogelijk is.
+• Een grotere verkoop kan nu gerealiseerd worden zonder een 
+prijsdaling op de intramarginale eenheden.
+• MO(q)=p(q)=MBB(q) voor elke aangeboden eenheid.Welvaart bij perfecte 
+277
+prijsdiscriminatie is maximaal  
+Bij perfecte prijsdiscriminatie biedt de producent aan tot het punt waar MO(q*) =MK(q*). De 
+MO-curve valt bij perfecte prijsdiscriminatie samen met de MBB(q*) = p(q*) 
+dus dit punt komt overeen met het evenwicht  bij perfecte concurrentie:  p(q*) = MK(q*) .
+De totale welvaart onder perfecte prijsdiscriminatie is even groot als bij perfecte 
+concurrentie en dus groter dan bij een monopolie met uniforme prijszetting (panel a) maar bij 
+perfecte prijsdiscriminatie eigent de producent zich alle surplus toe en het 
+consumentensurplus wordt volledig afgeroomd (panel b).
+Fig. 14.8Examples of price discrimination 278
+• Perfecte prijsdiscriminatie is moeilijk realiseerbaar in de praktijk. 
+Daarom wordt vaak met een benadering gewerkt.
+• Bvb. via segmentering van de markt (groepsprijszetting of 
+prijsdiscriminatie via marktsegmentering) in enkele 
+deelgroepen met een duidelijk verschillende prijsgevoeligheid.
+• Aan elke groep wordt een eigen specifieke prijs aangerekend.
+• Directe versus indirecte segmentering:
+o Directe segmentering: producent deelt groepen in op basis van 
+leeftijd, geslacht,  student versus niet-student, …  
+bvb. filmtickets voor studenten versus niet-studenten. Studenten 
+
+hebben meer tijd om naar de film te gaan dan werkenden maar 
+zij hebben anderzijds minder geld beschikbaar om naar de film 
+te gaan. Studenten zijn prijsgevoeliger dan werkenden en 
+betalen minder dan werkenden.Examples of price discrimination 278
+• Directe versus indirecte segmentering:
+o Indirecte segmentering: consument kiest zelf een prijsschema 
+uit een keuzemenu (= zelfselectie op basis van voorwaarden 
+aankoop van product of dienst). 
+bvb. vliegtuigtickets voor business versus economy reizigers. 
+
+Zakenmensen boeken hun vlucht slechts enkele dagen voor 
+vertrek. Zij willen echter in het weekend liever thuis zijn. Zij 
+betalen hun vliegtuigticket niet zelf en zijn daarom minder 
+prijsgevoelig dan toeristen. Toeristen kunnen hun vakantie lang 
+op voorhand boeken en maken daarbij geen onderscheid  tussen 
+weekend en weekdagen in hun vrije tijd. Op basis van deze 
+voorkeuren worden vliegtuigtickets tegen verschillend tarief 
+aangeboden.Directe marktsegmentering /
+• Directe segmentering houdt in dat de producent zelf de groepen 
+indeelt op basis van een duidelijk meetbaar en onveranderlijk 
+kenmerk van de consumenten.
+• Vb. pralineproducent:
+
+o volwassenen: Qv = 28.000 - 4.000 p  MBBv = 7 – 1/4.000 Qv
+
+o jongeren:        Qj = 36.000 - 6.000 p  MBBj = 6 – 1/6.000 Qj
+o jongeren:  prijsgevoeliger. Waarom?
+o Kostencurve: MK(q) = 4Directe marktsegmentering /
+Optimale prijszetting zodanig dat MO = MK in elk marktsegment 
+of inverse elasticiteitsregel toepassen in elk marktsegment.
+8 prijs 8
+volwassenen jongeren
+6
+6
+5,5
+5
+4
+V = 36 – 6 p
+V = 28 – 4 p
+j
+v
+2 2
+pralines
+(x 1.000)
+6 3 6
+0 0
+8 16 24 32 8 16 24 32 40Directe marktsegmentering /
+  Prijs  Verkochte  Winst 
+hoeveelheid 
+Uniforme prijs:       
+volwassenen  5,50  6.000  9.000 
+jongeren  5.50  3.000  4.500 
+totaal    13.500 
+Groepsprijszetting:       
+volwassenen  5,50  6.000  9.000 
+jongeren  5,00  6.000  6.000 
+totaal    15.000 
+ 
+Uniforme prijs (5.50€ voor volwassenen en jongeren) is niet optimaal.
+MBB = 6 – 1/6.000 Q  MO = 6 – 1/3.000 Q
+j j j j
+Bij p = 5,50 worden er 3.000 pralines gevraagd door de jongeren
+MO (3.000) = 5 > 4 = MK
+j
+Beter: een lagere prijs (5.00€) vragen aan jongeren.
+Bij p = 5,00 worden er 6.000 pralines gevraagd door de jongeren
+MO (6.000) = 4 = MK
+jPrijsinelastische consumenten betalen 
+/
+hogere prijs
+• Consumenten in het relatief prijsinelastischer segment betalen een 
+hogere prijs.
+• Volwassenen:
+o MO (6.000) = 7 – 6.000/2.000 = 4 = MK
+v
+o Mark-up = [(5.5 – 4) / 5.5] = 0.273
+o Elasticiteit = (-4.000)x[p/q] = -4.000x5.5/6.000
+= -3.667 = -1/0.273
+• Jongeren:
+o MO (6.000) = 6 – 6.000/3.000 = 4 = MK
+j
+o Mark-up = [(5.0 – 4) / 5.0] = 0.2
+o Elasticiteit = (-6.000)x[p/q] = -6.000x5/6.000
+= -5 = -1/0.2278
+Hoeveelheidskortingen
+• Producenten bieden soms hoeveelheidskortingen aan. 
+• Dat wil zeggen dat de prijs voor opeenvolgende grotere 
+hoeveelheden van het goed afneemt: 
+o p=p voor q < q
+0 0
+o p=p voor q < q < q
+1 0 1
+o p=p voor q > q
+2 1
+• Dat wil zeggen dat de gemiddelde prijs afneemt naarmate je 
+meer verbruikt (niet lineaire prijszetting).
+• Vb. gasmaatschappijen, grote verpakkingen in Colruyt, …/
+Hoeveelheidskortingen
+Quantity discounts are often a successful way 
+prijs
+of price discriminating  because  a customer’s 
+willingness to pay for an additional unit declines 
+p as the customer buys more units.
+0
+p
+1
+p
+2
+MBB(q)
+q q q
+0 1 2 hoeveelheid279
+6. Public policy towards monopolies
+• Monopolies fail to allocate resources efficiently .
+• Monopolies produce less than the socially desirable quantity of 
+output and, as a result, charge prices above marginal cost.
+• Policymakers can respond to the problem of monopoly in one of 
+four ways, by:
+o
+Trying to make monopolized industries more competitive
+o
+Regulating the behaviour of monopolies
+o
+Turning some private monopolies into public enterprises
+o
+Doing nothing at all279
+6. Public policy towards monopolies
+• Trying to make monopolized industries more competitive, based
+on competition legislation:
+o
+Acting against cartels
+o
+Banning pricing strategies which are anti-competitive
+o
+Monitoring and supervising acquisitions and joint ventures.
+o
+Investigation whether a merger leads to synergies where
+the perceived benefits of the combined operations of a 
+merged organization are greater than those which would
+arise if the firms stayed separate.280
+Regulation: Marginal cost pricing
+• Marginal cost pricing: 
+• Aangezien marktmacht leidt tot positieve mark-ups en 
+welvaartsverliezen, zou de overheid kunnen proberen de 
+verkoopprijs te plafonneren zodat p = MK.
+• In principe leidt marginal cost pricing tot een 
+welvaartsverhoging in vgl. met een niet gereguleerde 
+markt.
+• Maar marginal cost pricing is niet altijd mogelijk omdat het 
+tot verliezen voor de betrokken onderneming kan leiden.
+• Natuurlijk monopolie (bvb. NMBS)/
+Regulering van natuurlijke monopolies
+• De NMBS is een natuurlijk monopolie:
+• Als gevolg van de hoge vaste kosten van de 
+spoorinfrastructuur wordt de NMBS gekenmerkt door 
+een GK curve die steeds blijft dalen.
+• Er is slechts plaats voor één firma in de markt.
+• Zonder overheidsingrijpen zou de monopolist kiezen 
+voor (q ,p ) om zijn winst te maximaliseren.
+3 3
+• Minder rendabele lijnen worden afgestoten.
+• Overheid wil echter een universele dienstverlening 
+waarborgen en dwingt de NMBS door middel van 
+marginal cost pricing (p =MK) om toch q te produceren.
+1 1/
+Regulering van natuurlijke monopolies
+ 
+p, GO 
+GK 
+MK, MO 
+Gemiddeld verlies bij 
+Winstmaximum 
+marginal cost pricing 
+Break-even 
+p
+3 
+Welvaartsmaximum 
+p
+(Marginal cost pricing) 
+2 
+p
+1 
+MK = GVK 
+MO V = GO
+   
+q q q q 
+3  2  1 /
+Regulering van natuurlijke monopolies
+• Maar bij marginal cost pricing leidt de NMBS verlies wat op 
+lange termijn niet houdbaar is.
+• Verlies want p = GO < GK.
+1
+• Twee mogelijkheden:
+• Vasthouden aan marginal cost pricing principe en het 
+verlies bijpassen met overheidssubsidies.
+• Geen welvaartsverlies maar wel dure subsidies.
+• Subsidies leiden tot gebrekkige impulsen voor het 
+spoorwegmanagement om kosten te beheersen.
+• Tussenoplossing (q ,p ) waarbij p = GK en de NMBS 
+2 2
+breakeven draait (average-cost pricing, winst = 0).
+• Geen subsidies maar wel beperkt welvaartsverlies.
+• Betere impulsen voor kostenbeheersing dan bij MCP./
+Liberalisering van het spoorwegvervoer
+• Splitsing vroegere monopolie:
+• Netwerk: Infrabel
+• Hoge vaste kosten.
+• Geen concurrentie. 
+• Blijft gesubsidieerd door overheid.
+• Commerciële uitbating: NMBS 
+• Lagere FK, vooral variabele kosten.
+• Concurrerende maatschappijen worden toegelaten:
+• Vrachtvervoer: reeds concurrenten 
+B-Cargo, DLC, SNCF-Fret, Rail4Chem, …
+• Binnenlands personenvervoer: 
+vrijmaking in de nabije toekomst?281
+Public Ownership/ Doing Nothing
+• Public ownership: An industry owned by the government is 
+called a nationalized industry.
+• Economists prefer private to public ownership of natural 
+monopolies because of the cost of production:
+• Private owners have an incentive to minimize costs as 
+long as they reap part of the benefit in the form of higher 
+profit.
+• If the firm’s managers are doing a bad job, the firm’s 
+owners will fire them.
+• Doing nothing : government should not try to remedy the 
+inefficiencies of monopoly pricing because of the 
+imperfections of economic policies found in real political 
+systems (George Stigler)7. Conclusion: the prevalence of 281
+monopoly
+• Een monopolie veroorzaakt in tegenstelling tot perfecte 
+concurrentie  een welvaartsverlies (deadweight loss).
+• Prijsdiscriminatie kan het welvaartsverlies verminderen 
+maar leidt vooral tot een toename van producentensurplus 
+en een afname van consumentensurplus.
+• De macht van een monopolist is echter afhankelijk van de 
+prijsgevoeligheid van de consumenten die bepaald wordt 
+door de aanwezigheid van degelijke substituten282
+Competition versus monopoly
+Table 14.2
+Competition Monopoly
+Similarities
+Goal of firms Maximize profits Maximize profits
+Rule for maximizing MR = MC MR = MC
+Can earn economic profits in the short run? Yes Yes
+Differences 
+Number of firms Many One
+Marginal revenu MR = P MR < P
+Price P = MC P > MC
+Produces welfare-maximizing level of output? Yes No
+Entry in long run? Yes No
+Can earn economic profits in the long run? No Yes
+Price discrimination possible? No YesRecommended excercises 284-286
+Chapter 14:
+- Questions for review p. 284: 1-4-5-6-7
+- Problems and applications p. 284-286: 1-3-5-9-10

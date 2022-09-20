@@ -1,0 +1,89 @@
+Overzicht
+Inleiding
+Overzichtvanhethoofdstuk
+Techniek#1:Constituentstype
+Techniek#2:Valentieenweglaatbaarheid
+Techniek#3:Vervangbaarheid
+Techniek#4:Verplaatsbaarheid
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .(62) a. StefheefttoentotlaatstaanpratenmetBo.
+b. datSteftoentotlaatheeftstaanpratenmetBo.
+(cid:283)(cid:276)(cid:276)(cid:279)(cid:283)(cid:266)(cid:273)(cid:265) (cid:277)(cid:276)(cid:276)(cid:273)1 (cid:274)(cid:270)(cid:265)(cid:265)(cid:266)(cid:275)(cid:283)(cid:266)(cid:273)(cid:265) (cid:277)(cid:276)(cid:276)(cid:273)2 (cid:262)(cid:264)(cid:269)(cid:281)(cid:266)(cid:279)(cid:283)(cid:266)(cid:273)(cid:265)
+Stef heeft toentotlaat staanpraten metBo.
+dat Steftoentotlaat heeftstaanpraten metBo.
+Techniek#4: Verplaatsbaarheid: Hettweepolenschema
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .(cid:283)(cid:276)(cid:276)(cid:279)(cid:283)(cid:266)(cid:273)(cid:265) (cid:277)(cid:276)(cid:276)(cid:273)1 (cid:274)(cid:270)(cid:265)(cid:265)(cid:266)(cid:275)(cid:283)(cid:266)(cid:273)(cid:265) (cid:277)(cid:276)(cid:276)(cid:273)2 (cid:262)(cid:264)(cid:269)(cid:281)(cid:266)(cid:279)(cid:283)(cid:266)(cid:273)(cid:265)
+Stef heeft toentotlaat staanpraten metBo.
+dat Steftoentotlaat heeftstaanpraten metBo.
+Techniek#4: Verplaatsbaarheid: Hettweepolenschema
+(62) a. StefheefttoentotlaatstaanpratenmetBo.
+b. datSteftoentotlaatheeftstaanpratenmetBo.
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Techniek#4: Verplaatsbaarheid: Hettweepolenschema
+(62) a. StefheefttoentotlaatstaanpratenmetBo.
+b. datSteftoentotlaatheeftstaanpratenmetBo.
+(cid:283)(cid:276)(cid:276)(cid:279)(cid:283)(cid:266)(cid:273)(cid:265) (cid:277)(cid:276)(cid:276)(cid:273)1 (cid:274)(cid:270)(cid:265)(cid:265)(cid:266)(cid:275)(cid:283)(cid:266)(cid:273)(cid:265) (cid:277)(cid:276)(cid:276)(cid:273)2 (cid:262)(cid:264)(cid:269)(cid:281)(cid:266)(cid:279)(cid:283)(cid:266)(cid:273)(cid:265)
+Stef heeft toentotlaat staanpraten metBo.
+dat Steftoentotlaat heeftstaanpraten metBo.
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .b. Roept Kyliemij ,dankomikmeteen.
+c. *AlsroeptKyliemij ,dankomikmeteen.
+(cid:264)(cid:276)(cid:274)(cid:277)(cid:273)(cid:266)(cid:274)(cid:266)(cid:275)(cid:281)(cid:262)(cid:270)(cid:279)(cid:266)(cid:265)(cid:270)(cid:280)(cid:281)(cid:279)(cid:270)(cid:263)(cid:282)(cid:281)(cid:270)(cid:266)
+Techniek#4: Verplaatsbaarheid: Hettweepolenschema
+(63) a. Als Kyliemijroept,dankomikmeteen.
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .c. *AlsroeptKyliemij ,dankomikmeteen.
+(cid:264)(cid:276)(cid:274)(cid:277)(cid:273)(cid:266)(cid:274)(cid:266)(cid:275)(cid:281)(cid:262)(cid:270)(cid:279)(cid:266)(cid:265)(cid:270)(cid:280)(cid:281)(cid:279)(cid:270)(cid:263)(cid:282)(cid:281)(cid:270)(cid:266)
+Techniek#4: Verplaatsbaarheid: Hettweepolenschema
+(63) a. Als Kyliemijroept,dankomikmeteen.
+b. Roept Kyliemij ,dankomikmeteen.
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .(cid:264)(cid:276)(cid:274)(cid:277)(cid:273)(cid:266)(cid:274)(cid:266)(cid:275)(cid:281)(cid:262)(cid:270)(cid:279)(cid:266)(cid:265)(cid:270)(cid:280)(cid:281)(cid:279)(cid:270)(cid:263)(cid:282)(cid:281)(cid:270)(cid:266)
+Techniek#4: Verplaatsbaarheid: Hettweepolenschema
+(63) a. Als Kyliemijroept,dankomikmeteen.
+b. Roept Kyliemij ,dankomikmeteen.
+c. *AlsroeptKyliemij ,dankomikmeteen.
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Techniek#4: Verplaatsbaarheid: Hettweepolenschema
+(63) a. Als Kyliemijroept,dankomikmeteen.
+b. Roept Kyliemij ,dankomikmeteen.
+c. *AlsroeptKyliemij ,dankomikmeteen.
+(cid:264)(cid:276)(cid:274)(cid:277)(cid:273)(cid:266)(cid:274)(cid:266)(cid:275)(cid:281)(cid:262)(cid:270)(cid:279)(cid:266)(cid:265)(cid:270)(cid:280)(cid:281)(cid:279)(cid:270)(cid:263)(cid:282)(cid:281)(cid:270)(cid:266)
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Techniek#4: Verplaatsbaarheid: Hettweepolenschema
+(63) a. Als Kyliemijroept,dankomikmeteen.
+b. Roept Kyliemij ,dankomikmeteen.
+c. *AlsroeptKyliemij ,dankomikmeteen.
+(cid:264)(cid:276)(cid:274)(cid:277)(cid:273)(cid:266)(cid:274)(cid:266)(cid:275)(cid:281)(cid:262)(cid:270)(cid:279)(cid:266)(cid:265)(cid:270)(cid:280)(cid:281)(cid:279)(cid:270)(cid:263)(cid:282)(cid:281)(cid:270)(cid:266)
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .(64) Tomprobeert[omNielteoverhalen].
+(65) Tomprobeert[Nielteoverhalen].
+Techniek#4: Verplaatsbaarheid: Detweepolen
+(cid:283)(cid:276)(cid:276)(cid:279)(cid:283)(cid:266)(cid:273)(cid:265) (cid:277)(cid:276)(cid:276)(cid:273)1 (cid:274)(cid:270)(cid:265)(cid:265)(cid:266)(cid:275)(cid:283)(cid:266)(cid:273)(cid:265) (cid:277)(cid:276)(cid:276)(cid:273)2 (cid:262)(cid:264)(cid:269)(cid:281)(cid:266)(cid:279)(cid:283)(cid:266)(cid:273)(cid:265)
+Stef heeft toentotlaat staanpraten metBo.
+dat Steftoentotlaat heeftstaanpraten metBo.
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .(65) Tomprobeert[Nielteoverhalen].
+Techniek#4: Verplaatsbaarheid: Detweepolen
+(cid:283)(cid:276)(cid:276)(cid:279)(cid:283)(cid:266)(cid:273)(cid:265) (cid:277)(cid:276)(cid:276)(cid:273)1 (cid:274)(cid:270)(cid:265)(cid:265)(cid:266)(cid:275)(cid:283)(cid:266)(cid:273)(cid:265) (cid:277)(cid:276)(cid:276)(cid:273)2 (cid:262)(cid:264)(cid:269)(cid:281)(cid:266)(cid:279)(cid:283)(cid:266)(cid:273)(cid:265)
+Stef heeft toentotlaat staanpraten metBo.
+dat Steftoentotlaat heeftstaanpraten metBo.
+(64) Tomprobeert[omNielteoverhalen].
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Techniek#4: Verplaatsbaarheid: Detweepolen
+(cid:283)(cid:276)(cid:276)(cid:279)(cid:283)(cid:266)(cid:273)(cid:265) (cid:277)(cid:276)(cid:276)(cid:273)1 (cid:274)(cid:270)(cid:265)(cid:265)(cid:266)(cid:275)(cid:283)(cid:266)(cid:273)(cid:265) (cid:277)(cid:276)(cid:276)(cid:273)2 (cid:262)(cid:264)(cid:269)(cid:281)(cid:266)(cid:279)(cid:283)(cid:266)(cid:273)(cid:265)
+Stef heeft toentotlaat staanpraten metBo.
+dat Steftoentotlaat heeftstaanpraten metBo.
+(64) Tomprobeert[omNielteoverhalen].
+(65) Tomprobeert[Nielteoverhalen].
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Techniek#4: Verplaatsbaarheid: Detweepolen
+VV P1 MV P2 AV
+a. Dirk eet pasta.
+b. dat Dirkpasta eet.
+c. Dirk wil pasta eten.
+d. Dirk wil pasta kunnenblijveneten.
+e. dat Dirkpasta wilkunnenblijveneten.
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .

@@ -1,0 +1,612 @@
+30/10/2019
+Aanvullingen
+Responsie op 
+ingangssignalen en begintoestand
+130/10/2019
+Responsie berekenen
+• Gegeven toestandsbeschrijving (A, B, C, D) , 
+u[k] en x[0], wat zijn x[k] en y[k] ?
+• Toestandsbeschrijving
+x[k+1] = A x[k] + B u[k]
+y[k] = C x[k] + D u[k]
+• Exhaustieve berekening van x[k] en y[k]
+Voorbeeld
+x[k]
+2
+x[k]
+1
+x[k]
+3
+Gegeven
+230/10/2019
+“Oplossen” toestandsvergelijking
+• Gegeventoestandsbeschrijving, u[k] enx[0], wat zijnx[k] eny[k] ?
+• Toestandsbeschrijving
+x[k+1] = Ax[k] + Bu[k]
+y[k] = Cx[k] + Du[k]
+• Voorheen: x[k+1] = Ax[k] ⇒x[k] =Akx[0] 
+• Nu: k= 0:  x[1] = Ax[0] + Bu[0]
+k= 1:  x[2] = Ax[1] + Bu[1] = A(Ax[0] + Bu[0]) + Bu[1] 
+= A2x[0] + ABu[0] + Bu[1]
+k= 2:  x[3] = Ax[2] + Bu[2] = A3x[0] + A2Bu[0] + ABu[1] + Bu[2]
+Algemeen: k> 0
+• Uitgangssignaal
+• y[0] = Cx[0] + Du[0]
+k> 0
+Nulingangs- en nultoestandsrespons
+Nulingangs- Nultoestands-
+responsie responsie
+• Nulingangsresponsie: y[k] als u[k] = 0 ∀ k
+• Nultoestandsresponsie: y[k] als x[0] = 0
+330/10/2019
+Toestandsbeschrijving en 
+gelijkvormige matrices
+Toestandsbeschrijving is niet uniek
+• x[k] = Pw[k] met P= [p , ... , p ] een nxninverteerbare matrix
+1 n
+– Is verandering van coördinaten: w[k] zijn de coordinaten van x[k] in de 
+basis {p , ... , p }
+1 n
+• P w[k+1] = AP w[k] + Bu[k]
+P-1P w[k+1] = P-1 AP w[k] + P-1 Bu[k]
+= I =  = 
+(cid:1)(cid:2) (cid:4)(cid:2)
+w[k+1] =  w[k] +  u[k]
+(cid:1)(cid:2)	 (cid:4)(cid:2)
+• y[k] = Cx[k] + Du[k] = CP w[k] + Du[k]
+=  = 
+(cid:5)(cid:8) (cid:7)(cid:2)
+y[k] =  w[k] +  u[k]
+(cid:5)̅ (cid:7)(cid:2)
+430/10/2019
+Toestandsbeschrijving is niet uniek
+• In de nieuwe toestandsvector w[k] hebben we een 
+equivalente toestandsbeschrijving:
+w[k+1] =  w[k] +  u[k]
+(cid:1)(cid:2)	 (cid:4)(cid:2)
+y[k] =  w[k] +  u[k]
+(cid:5)(cid:8) (cid:7)(cid:2)
+• P-1 A P;  P-1 B;  ;
+(cid:1)(cid:2) =	 (cid:4)(cid:2) =	 (cid:5)(cid:8) = (cid:5)	(cid:10) (cid:7)(cid:2) = (cid:7)
+A en  zijn gelijkvormig
+(cid:1)(cid:2)
+• Beidesystemenzijnequivalent. Let wel op initiële
+toestand. Nulingangsresponsie: 
+w[k] = kw[0] = P-1 Ak P w[0]
+(cid:1)(cid:2)
+⇔P w[k] = AkP w[0]⇔x[k] = Akx[0] 
+Zorg ervoordatP w[0] = x[0], danis ookP w[k] = x[k] 
+voork>0, endusy[k]= w[k] = C x[k]
+(cid:5)(cid:8)
+Voorbeeld
+u[k] + x2[k+1] D x2[k] D y[k]
+x[k+1] x[k]
++ 1 1
+1/4
+(cid:11)(cid:12)[(cid:14)+1] 0 1 (cid:11)(cid:12)[(cid:14)] 0
+= + (cid:22)[(cid:14)]
+(cid:11)(cid:18)[(cid:14)+1] 1/4 0 (cid:11)(cid:18)[(cid:14)] 1
+(cid:11)(cid:12)[(cid:14)]
+(cid:23) (cid:14) = 1 0
+(cid:11)(cid:18)[(cid:14)]
+0 1 0
+(cid:1)= 	;(cid:4)= 	;(cid:5)= 1 0 	;(cid:7)=0
+1/4 0 1
+530/10/2019
+Voorbeeld (2)
+Kies
+(cid:10)= 1 −1 	⇔(cid:10)(cid:27)(cid:12)=	(cid:12) 1 1 zodat x[k] = P w[k]
+1 1 (cid:18) −1 1
+(cid:1)(cid:2)=(cid:10)(cid:27)(cid:12)(cid:1)	(cid:10)=	1 5 3  (cid:12)[(cid:14)+1] = 5/8 3/8  (cid:12)[(cid:14)] + 1/2 (cid:22)[(cid:14)]
+(cid:4)(cid:2)=(cid:10)(cid:27)(cid:12)(cid:4)=	1 81 −3 −5  (cid:18)[(cid:14)+1] −3 /(cid:12)8[(cid:14)]−5/8  (cid:18)[(cid:14)] 1/2
+2 1 (cid:23) (cid:14) = 1 −1
+(cid:5)(cid:8)=(cid:5)	(cid:10)=	 1 −1  (cid:18)[(cid:14)]
++
+u[k] 1/2 + w1[k+1] D w1[k] y[k]
++
++ -
+5/8
+3/8
+5/8
+-
+3/8
++ -
+D
+w [k+1] w [k]
+2 2
+Toestandsbeschrijving en 
+matrixdiagonalisatie
+630/10/2019
+Diagonaalvorm
+• Veronderstel dat A diagonaliseerbaar is
+• Herinner x[k] = Pw[k] 
+• Kies P = [v , ... , v ] met v eigenvector van A met 
+1 n i
+eigenwaarde  λ
+i
+! ⋯ 0
+(cid:12)
+• Dan wordt  P-1 A P=  = ΛΛΛΛ
+(cid:1)(cid:2) =	 ⋮ ⋱ ⋮
+0 ⋯ !
+• w[k+1] = ΛΛΛΛw[k] +  u[k] ; y[k] =  w%[k] +  u[k]
+(cid:4)(cid:2) (cid:5)(cid:8) (cid:7)(cid:2)
+• VoorSISO systeem:
+w[k+1] = ΛΛΛΛw[k] +  u[k] ; y[k] =  w[k] +  u[k]
+&̅ '̅ (̅
+w[k+1] = λ w[k] +  u[k]  i = 1 … n
+i i i b(cid:8)
+*
+• Toestandi beinvloedttoestandj ≠ i niet
+Diagonaalvorm voor SISO systeem
+• Som van 
+eerste-orde 
+systemen
+• Plus directe 
+verbinding 
+met winst 
+̅
++
+730/10/2019
+Voorbeeld
+0 1
+(cid:1)=
+1/4 0
+K.P.: λ2-1/4 = (λ-1/2)(λ+1/2)
+λ = ½ ⇒ 2 2 −2 (cid:27)(cid:12) (cid:12) 1 2
+1 ,(cid:12) = (cid:10) = ⇔(cid:10) =	
+1 1 1 - −1 2
+λ2= -½ ⇒,(cid:18) = −12 (cid:1)(cid:2) = (cid:10)(cid:27)(cid:12)(cid:1)	(cid:10)= (cid:12)0⁄(cid:18) −0(cid:12)⁄ 	
+(cid:18)
+(cid:4)(cid:2) = (cid:10)(cid:27)(cid:12)(cid:4)=	(cid:12) 1 ; (cid:5)̅ =(cid:5)	(cid:10) = 2 −2
+(cid:18) 1
++
+u[k] + w1[k+1] D w1[k] y[k]
+1/2 2
++
+-
+1/2
+-1/2
++ +
+D
+1/2 2
+w [k+1] w [k]
+2 2
+Minimaliteit
+• Voor sommige systemen kan een 
+/w(cid:8)*[=k] 0ka. nD ed atone nsiteatn bdesïvnevrlaonedde rlijke 
+i
+worden. Het systeem is niet 
+controleerbaar.
+• Voor sommige systemen kan een 
+. De toestandsveranderlijke 
+0w*̅ [=k] 0kan de uitvoer niet 
+i
+beïnvloeden. Het systeem is niet 
+observeerbaar.
+• Een systeem dat niet observeerbaar 
+en/of niet controleerbaar is heet 
+niet-minimaal. Hetzelfde ingangs-
+uitgangsgedrag kan gerealiseerd 
+worden met een kleiner aantal 
+geheugenelementen.
+830/10/2019
+Inwendige (interne) stabiliteit
+• Een systeem is inwendig stabiel als x[k] → 0
+als k→∞ bij u[k]=0 en dit voor alle x[0]
+• x[k] = Ak x[0] = P ΛΛΛΛk P-1 x[0] = P ΛΛΛΛkw[0]
+= w [0] λ kv + … + w [0] λ kv
+1 1 1 n n n
+• Inwendig instabiel zodra één | λ |≥1
+i
+• Inwendig stabiel ⇔ | λ | < 1 voor i = 1 … n
+i
+Nulingangsresponsie
+Nulingangs- Nultoestands-
+responsie responsie
+• Ak x[0] bestuderen
+• y[k] = c Ak x[0]   (c = rijvector; SISO system)
+930/10/2019
+Nulingangsresponsie
+• x[k] = Akx[0] = P ΛΛΛΛkP-1x[0] = P ΛΛΛΛkw[0]
+= w [0] λ kv + … + w [0] λ kv
+1 1 1 n n n
+w [0]
+1
+• w[0] =  = P-1x[0] is de coördinatenvector van x[0] in de 
+⋮
+w [0]
+n
+basis {v , … , v }
+1 n
+λ k w [0]
+1 1
+• ΛΛΛΛk w[0] =  = P-1x[k] is de coördinatenvector van x[k] in de 
+⋮
+λ k w [0]
+n n
+basis {v , … , v }
+1 n
+• y[k] = cx[k] = (cv ) w [0] λ k+ … +(cv ) w [0] λ k
+1 1 1 n n n
+is eengewogensomvan exponentiëlefunctiesin k
+Nulingangsresponsie
+w [0]v
+2 2
+v
+2
+λ w [0] v
+2 2 2 x[0]
+λ 2w [0] v
+2 2 2 x[1]
+λ 3w [0] v
+λ24w2[0] v2 x[2]
+2 2 2 x[3]
+x[4] λ =3/4
+1
+λ =2/3
+2
+w [0]v
+1 1
+v
+1
+1030/10/2019
+Bijdragen tot nulingangsresponsie
+|λ| > 1
+|λ| < 1
+|λ| = 1
+λ> 0 λ< 0
+λ λ
+0 <  < 1 ; 0 <  < 1 
+1 2
+Attractor / aantrekker
+Inwendig stabiel
+1130/10/2019
+λ λ
+1 <  ; 1 < 
+1  2
+Repeller / afstoter
+Inwendig onstabiel
+λ λ
+1 <  ; 0 <  < 1 
+1 2
+Saddle point / zadelpunt
+Inwendig onstabiel
+1230/10/2019
+Complexe eigenwaarden
+• ! = 12*34 ; ! = 12(cid:27)*34 = !(cid:2)
+* *5(cid:12) *
+ωis genormaliseerde frequentie. 
+0 < 	7 < 1
+• Eigenvectoren v en v = v
+i i+1 i
+• Neem complex toegevoegde termen samen in
+y[k] = (cv ) w [0] λ k+ … +(c v ) w [0] λ k
+1 1 1 n n n
+E E *E34
+(ccccis	eenreëlerijvector;		! = 1 2 )
+*
+E E E
+'	 !   0 , +!   0 , = 2 '	Re !   0 ,
+* * G * * G * * G
+E *E34
+= 21 '	Re 2   0 ,
+* G
+E *E34
+= 21 	Re 2   0 ',
+* G
+Complexe eigenwaarden (2)
+• Noem 
+*J
+  0 '	, = I	2
+* G
+• Bijdrage door complexe eigenwaarde in y[k] is 
+product van:
+oExponentieel verloop rk - zie reële eigenwaarde
+oGolvend verloop 
+cos(	K + (cid:14)L7)
+1330/10/2019
+λ λ
+0 < | | < 1 ; 0 < | | < 1 
+1 2
+Complexe eigenwaarden
+Inwendig stabiel
+Bijdrage tot nulingangsresponsie
+r = |λ| > 1
+r = |λ| < 1
+r = |λ| = 1
+1430/10/2019
+Canonieke vorm en 
+differentievergelijking
+Canonieke vorm
+• Zoek transformatiematrix Q = [q , ... , q ] zodat door de 
+1 n
+gelijkvormigheidstransformatie: (cid:1)M = N(cid:27)(cid:12)(cid:1)Nen &O = N(cid:27)(cid:12)&
+• (cid:1)M = N(cid:27)(cid:12)(cid:1)Nen &O = N(cid:27)(cid:12)&
+⇔ en 
+N(cid:1)M = (cid:1)N NO& = &
+• K.P. is  % %(cid:27)(cid:12)
+! +PQ ! +⋯+PQ !+PQ 	
+%(cid:27)(cid:12) (cid:12) R
+(cid:1) noemen we een compagnon-matrix
+(cid:1)M
+(cid:1) en Ahebben dezelfde K.P. want  gelijkvormig
+(cid:1)M
+• Constructie van Q–zie later
+1530/10/2019
+Waarom  die Ã en  ? 
+O
+&
+ (cid:12)[(cid:14)+1]  (cid:12)[(cid:14)] 0
+ (cid:18)[(cid:14)+1]  (cid:18)[(cid:14)] 0
+⋮ =																																																		 ⋮ + ⋮ (cid:22)[(cid:14)]
+ %(cid:27)(cid:12)[(cid:14)+1]  %(cid:27)(cid:12)[(cid:14)] 0
+ %[(cid:14)+1]  %[(cid:14)] 1
+y[k] = 0(cid:12)̃ w1[k] + 0(cid:18)̃ w2[k]  + ... + 0%̃ wn[k] + +Ou[k]
+Constructie van Q
+• (cid:1)N=N(cid:1)Men N&O =&
+0
+• 2devergelijking:   ⋮ ⇒
+T(cid:12)		⋯		T% =& T% =&
+0
+1
+1630/10/2019
+Constructie van Q
+• ⇒
+T = & (cid:1) T 		⋯		T 		& =
+% (cid:12) %(cid:27)(cid:12)
+U		T 	⋯		T − 	PQ &			PQ &		⋯		PQ &
+(cid:12) %(cid:27)(cid:12) R (cid:12) %(cid:27)(cid:12)
+• Kolom n: 
+T = (cid:1)& + 		PQ &
+%(cid:27)(cid:12) %(cid:27)(cid:12)
+• Kolom n-1: 
+T = (cid:1)T + 		PQ &
+%(cid:27)V %(cid:27)(cid:12) %(cid:27)(cid:18)
+• Kolom 2: 
+T = (cid:1)T + 		PQ &
+W V (cid:12)
+Waarom  die Ã en  ? 
+O
+&
+ (cid:12)[(cid:14)+1]  (cid:12)[(cid:14)] 0
+ (cid:18)[(cid:14)+1]  (cid:18)[(cid:14)] 0
+⋮ =																																																		 ⋮ + ⋮ (cid:22)[(cid:14)]
+ %(cid:27)(cid:12)[(cid:14)+1]  %(cid:27)(cid:12)[(cid:14)] 0
+ %[(cid:14)+1]  %[(cid:14)] 1
+w [k+1] = w [k]
+w [k+1] = w [k] 1 2
+1 2
+w [k+1] = w [k] w [k+2] = w [k+1] = w [k]
+2 3 1 2 3
+(cid:1) (cid:1)
+w [k+1] = w [k] w [k+n-1] = w [k+n-2] = (cid:2)= w [k]
+n-1 n 1 2 n
+w [k+1]= -ã w [k] -ã w [k] -... -ã w [k] + u[k] 
+n n-1 n n-2 n-1 0 1
+w [k+n] + ã w [k+n-1] + ã w [k+n-2] + ... + ã w [k] = u[k]
+1 n-1 1 n-2 1 0 1
+1730/10/2019
+Waarom  die Ã en  ? 
+O
+&
+Dus:
+w [k+n] + ã w [k+n-1] + ã w [k+n-2] + ... + ã w [k] = u[k]
+1 n-1 1 n-2 1 0 1
+Uitgangsvergelijking:
+y[k] =  w [k] +  w [k]  + ... +  w [k] +  u[k]
+0̃ 1 0̃ 2 0̃ n +O
+(cid:12) (cid:18) %
+Herschrijf:
+y[k]- u[k] =  w [k] +  w [k+1]  + ... +  w [k+n-1] 
++O 0̃ 1 0̃ 1 0̃ 1
+(cid:12) (cid:18) %
+w [k] elimineren
+1
+w [k+n]  + ã w [k+n-1] + ... + ã w [k]  = u[k] ×
+1 n-1 1 0 1 0(cid:12)̃
+w [k+n+1] + ã w [k+n]  + ... + ã w [k+1]  = u[k+1] ×
+1 n-1 1 0 1 0(cid:18)̃
+(cid:1)
+×
+w [k+2n-1] + ã w [k+2n-2]+ ... + ã w [k+n-1]= u[k+n-1]
+1 n-1 1 0 1 0%̃
+y[k+n] + ã y[k+n-1] + ã y[k+n-2] + ... + ã y[k] 
+n-1 n-2 0
+= (0(cid:12)̃ +ã0 +O) u[k] + (0(cid:18)̃ +ã1 +O) u[k+1]+ ... + (0%̃ +ãn-1 +O) u[k+n-1] + +Ou[k+n] 
+1830/10/2019
+Differentievergelijking
+y[k+n] + ã y[k+n-1] + ã y[k+n-2] + ... + ã y[k] 
+n-1 n-2 0
+= +Ou[k+n] + (0%̃ +ãn-1 +O) u[k+n-1] + ... + (0(cid:18)̃ +ã1 +O) u[k+1] +(0(cid:12)̃ +ã0 +O) u[k]
+= f u[k+n] + f u[k+n-1] + ... + f u[k+1] + f u[k] 
+n n-1 1 0
+• Rechtstreeks verband tussen u[k] en y[k]
+• Ditheeteendifferentievergelijking
+• Alternatief voor de toestandsbeschrijving
+• Is een verband tussen differentievergelijking en canonieke vorm
+• M.a.w.: gegeveneendifferentievergelijking
+y[k+n] + ã y[k+n-1] + ã y[k+n-2] + ... + ã y[k] 
+n-1 n-2 0
+= f u[k+n] + f u[k+n-1] + ... + f u[k+1] + f u[k] 
+n n-1 1 0
+Dan komen daarmee toestandsbeschrijvingen overeen die allemaal dezelfde K.P. 
+hebben:!%+PQ%(cid:27)(cid:12)!%(cid:27)(cid:12)+⋯+PQ(cid:12)!+PQR	
+• Ook: gegeveneentoestandsbeschrijving(A, b, c, d), dankomtdaarmeeeen
+differentievergelijking overeenwaarbijde ã ook de coëfficiënten van de K.P. 
+i
+van Azijn
+Voorbeeld
+1 5 3
+(cid:1)=	
+8 −3 −5
+1 1
+&=(cid:4)=	
+2 1
+'=(cid:5)=	 1 −1
+d=D= 0
+• n=2
+• K.P.: − X−! X+! + Z =!(cid:18)−(cid:12)[=!(cid:18)−(cid:12)
+Y Y [- [- -
+(cid:12)
+PQ(cid:12) =0	;	PQR =−-
+• q =b=(cid:12) 1
+2
+(cid:18) 1
+• (cid:12) 5 3 1 (cid:12) 1
+TW =(cid:1)TV+		PQ(cid:12)&=(cid:12)[ −3 −5 1 =(cid:18) −1
+1930/10/2019
+Voorbeeld
+0 1
+(cid:1)M=	 1
+0
+4
+&O =(cid:4)M=	 0
+1
+'Q=(cid:5)\=(cid:5)N=(cid:12) 1 −1 1 1
+(cid:18) −1 1
+				= 1 0
++O=(cid:7)M =(cid:7)=0
+Met  Q  (cid:12) 1 1 , canonieke vorm: 
+=	
+(cid:18) −1 1
+u[k] + y[k+2] D y[k+1] D y[k]
++
+1/4
+Voorbeeld
+0 1
+1
+(cid:1)M=	 1 0 PQ(cid:12)=0	;	PQR=−4
+4
+0(cid:12)̃ =1	;	0(cid:18)̃ =0
+&O =(cid:4)M=	 01 ](cid:18)=+O =0;](cid:12)=0̃(cid:18)+ ã 1+O =0	;]R =0(cid:12)̃ + ã0 +O =1
+'Q=(cid:5)\=(cid:5)N=(cid:12) 1 −1 1 1
+(cid:18) −1 1
+				= 1 0
++O=(cid:7)M =(cid:7)=0
+u[k] + y[k+2] D y[k+1] D y[k]
++
+1/4
+y[k+2] = u[k] +1/4 y[k]
+y[k+2] –¼ y[k] = u[k]     de differentievergelijkinggehaalduitde canoniekevorm
+2030/10/2019
+Impulsresponsie en convolutie
+Impulsresponsie
+• Doel: berekenenvan de responsie. We haddenal:
+(cid:2) Exhaustief
+(cid:2)
+• Nultoestandsimpulsrespons(impulsrespons) h[k] van 
+eenSISO DTLTI systeemis y[k] wanneeru[k] = δ[k]
+(cid:2) δ[k] = 1 voork = 0 enδ[k] = 0 voork ≠0
+δ[k] h[k]
+1 1
+k k
+-7 -6 -5 -4 -3 -2 -1 0  1  2  3  4  5  6  7 -7 -6 -5 -4 -3 -2 -1 0  1  2  3  4  5  6  7
+2130/10/2019
+Verschoven impuls
+δ[k] δ[k-1]
+1 1
+k k
+-7 -6 -5 -4 -3 -2 -1 0  1  2  3  4  5  6  7 -7 -6 -5 -4 -3 -2 -1 0  1  2  3  4  5  6  7
+δ[k-2] δ[k-3]
+1 1
+k k
+-7 -6 -5 -4 -3 -2 -1 0  1  2  3  4  5  6  7 -7 -6 -5 -4 -3 -2 -1 0  1  2  3  4  5  6  7
+Ontbinding u[k]
+u[0]=2
+u[1]=3
+u[2]=1
+= 2δ[k] + 3δ[k-1] + 1δ[k-2]
+2230/10/2019
+Lineair en tijdsinvariant
++ +
+u[k] = 2δ[k] 3δ[k-1] 1δ[k-2]
++ +
+y[k] = 2h[k] 3h[k-1] 1h[k-2]
+Convolutie
+•
+Formeel
+(cid:23) (cid:14) = ` (cid:22)[(cid:14)]
+d
+(cid:23) (cid:14) = ` a (cid:22) b c[(cid:14) −b]
+ef(cid:27)d
+d Lineair
+(cid:23) (cid:14) = ∑ (cid:22) b ` c[(cid:14) −b]
+ef(cid:27)d
+d Tijdsinvariant
+(cid:23) (cid:14) = ∑ (cid:22) b 	ℎ[(cid:14) −b]
+ef(cid:27)d
+(cid:23) (cid:14) = (cid:22) (cid:14) 	∗ℎ[(cid:14)]
+• Vooreensysteemdatuitde nultoestandvertrekt!
+• y[k] is deconvolutievan u[k] enh[k]
+• Uitvoeris convolutievan invoerenimpulsresponsie
+2330/10/2019
+Convolutie
+• Commutatief: a[k] * b[k] = b[k] * a[k]
+• Associatief: (a[k] * b[k]) * c[k] = a[k] * (b[k] * c[k])
+• Neutraalelement: a[k] * δ[k] = a[k]
+• Lineair: 
+(r a[k] + s b[k]) * c[k] = r (a[k]*c[k]) + s (b[k]*c[k])
+• Enkelzijdigesignalena[k] = b[k] = 0 voork<0 :
+d E
+0 (cid:14) = a P b 	/ (cid:14) −b = aP b 	/ (cid:14) −b
+ef(cid:27)d efR
+• Causaalsysteem: h[k] = 0 voork<0
+(cid:2) Geenresponsvóórde excitatie
+Impulsresponsie
+y[0] = Cx[0] + Du[0]     k=0
+k> 0
+Nulingangs- Nultoestands-
+responsie responsie
+• k= 0 : y[k] = d δ[0] = d
+• u[k] = δ[k] ⇒ in 2de term blijft enkel index j=0 staan
+• k > 0: enkel 2de term: y[k] = cAk-1b
+• k = 0:  y[k] = d
+2430/10/2019
+Voorbeeld
+h[0]	=	d	=	0
+ℎ (cid:14) ='(cid:1)E(cid:27)(cid:12)& voork>0
+E(cid:27)(cid:12)
+0 1 0
+(cid:3) = 1 0
+1/4 0 1
+ℎ (cid:14) ='̅(cid:1)(cid:2)E(cid:27)(cid:12)&̅
+(='(cid:10)	(cid:10)(cid:27)(cid:12)(cid:1)E(cid:27)(cid:12)	(cid:10)(cid:10)(cid:27)(cid:12)&='(cid:1)E(cid:27)(cid:12)&)
+1/2 0 E(cid:27)(cid:12) 1n2
+= 2 −2
+0 −1/2 1n
+2
+((cid:12))E(cid:27)(cid:12) 0 1n
+(cid:3) = 2 −2 (cid:18) 2
+0 ((cid:27)(cid:12))E(cid:27)(cid:12) 1n
+(cid:18) 2
+(cid:12) E(cid:27)(cid:12) (cid:12) E(cid:27)(cid:12)voor k>0 ; h[0]=0
+= − −
+(cid:18) (cid:18)
+-
+Impulsresponsie van 1ste orde systeem
+u[k] b + x[k+1] D x[k] c y1[k]
++
+λ
+x[k+1] = λx[k] +bu[k] ; y[k] = c x[k]
+u[k] = δ[k] ; nultoestandx[0]=0
+k=0: u[0] = 1; x[1]=b; y[k]=0
+k=1: u[1] = 0 ; x[2] = λx[1] = bλ; y[1] = cb
+k=2: u[2] = 0 ; x[3] = λx[2] = bλ2; y[2] = cbλ
+u[k] = 0 ; x[k+1] = bλk; y[k] = cbλk-1voork>0 ; y[0]=0
+y[k] = cbλk-1-op voork≥0 
+c (cid:14) 	
+q
+E(cid:27)(cid:12) E(cid:27)(cid:12) E(cid:27)(cid:12) E(cid:27)(cid:12)
+(cid:12) (cid:12) (cid:12) (cid:12) (cid:12) (cid:12) k>0 ; h[0]=0
+ℎ (cid:14) = 2 −2 − = − −
+(cid:18) (cid:18) (cid:18) (cid:18) (cid:18) (cid:18)
+2530/10/2019
+Vorm impulsresponsie
+• h[0]=d ; h[k] = cAk-1b voor k > 0
+• Zelfde bespreking als nulingangsresponsie
+– vb. 1ste orde systeem: cbλk-1, zie boven
+• Voor diagonaliseerbare A, som van:
+oExponentiëel verloop(λ reëel)
+oSchommelend exponentiëel verloop(λ complex)
+26

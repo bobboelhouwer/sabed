@@ -1,0 +1,147 @@
+30/10/2019
+Lay 6.4
+x
+k+1 v
+k+1
+W =Span{x, … x} = Span{v, … v} 
+k 1 k 1 k
+(cid:1)(cid:2) =Proj ((cid:1) )
+(cid:3)(cid:4)(cid:5) (cid:11)(cid:12) (cid:3)(cid:4)(cid:5)
+0
+Doel
+• Gegeven p≥1 l.o. vectoren x … x met W = 
+1 p
+Span{x … x }
+1 p
+of x … x eenbasis voor gegevenW
+1 p
+• Zoek een orthogonale/orthonormale basis voor W
+• Hoe ?
+maak ⊥ basis voor W = Span{x … x } voor k=1 … p
+k 1 k
+• Bewijs per inductie op k
+• Orthonormaal bekomen door elke bekomen
+basisvector v te normeren
+i
+130/10/2019
+Gram-Schmidt: bewijs per inductie
+• Geen van de x zijn 0
+i
+• k=1: v = x is een basisvector voor W = Span{x } 
+1 1 1  1
+= Span{v } 
+1
+• Inductie:v … v ⊥ basis voor W = Span{x … x }  
+1 k k 1 k
+= Span{v … v }. Merk op dim(W ) = k.
+1 k k
+• Hoe v maken ?
+k+1 
+Orthogonale decompositie x
+k+1
+x = v + (cid:15)(cid:16)(cid:17)(cid:18) x
+k+1 k+1 (cid:19)(cid:12) k+1
+∈W ⇒∈W
+k k+1
+dus v = x − (cid:15)(cid:16)(cid:17)(cid:18) x ∈ W
+k+1 k+1 (cid:19)(cid:12) k+1 k+1
+Grafisch
+x
+k+1 v
+k+1
+W =Span{x, … x} = Span{v, … v} 
+k 1 k 1 k
+(cid:1)(cid:2) =Proj ((cid:1) )
+(cid:3)(cid:4)(cid:5) (cid:11)(cid:12) (cid:3)(cid:4)(cid:5)
+0
+230/10/2019
+Basis voor W
+k+1
+• v ≠ 0 want indien wel, dan zou x ∈ W , 
+k+1 k+1 k
+dus l.a. van x … x (cid:1)
+1 k
+• v ⊥⊥⊥⊥ x … x en v ⊥⊥⊥⊥ v … v
+k+1 1 k k+1 1 k
+• dus is {v … v } een verzameling k+1 l.o. 
+1 k+1
+vectoren in W en zijn ze hiervoor een basis 
+k+1
+Gram-Schmidt proces
+• v = x
+1 1
+.v
+• v = (cid:1) − Proj (cid:1) = (cid:1) − (cid:1)(cid:23) (cid:22) v
+2 (cid:21) (cid:19) (cid:21) (cid:21) v .v (cid:24)
+(cid:22)
+(cid:22) (cid:22)
+.v .v
+• v = (cid:1) − Proj (cid:1) = (cid:1) − (cid:1)(cid:26) (cid:22) v − (cid:1)(cid:26) (cid:23) v
+3 (cid:25) (cid:19) (cid:25) (cid:25) v .v (cid:24) v .v (cid:21)
+(cid:23)
+(cid:22) (cid:22) (cid:23) (cid:23)
+• …
+• v = x − Proj x
+p (cid:27) (cid:19)(cid:28)(cid:29)(cid:22) (cid:27)
+• Eventueel v normeren → orthonormale basis 
+i
+voor Span{x , ... , x }
+1 p
+330/10/2019
+QR-decompositie/factorisatie
+• A een m x n matrix met l.o. kolommen
+• ∃ Q m x n met orthonormale kolommen 
+en R n x n bovendriehoeks, met strict positieve 
+diagonaalelementen en inverteerbaar zodat A = 
+QR
+• Q orthonormale kolommen: QTQ = I
+n
+• Construeer orthonormale basis u , ... , u voor a , 
+1 n 1
+... , a mbv GS: Q = [u ... u ]
+n 1 n
+• Bij constructie is a ∈ Span{u , ... , u } dus
+k 1 k
+a = r u + r u + ... + r u + 0 u + ... + 0 u
+k 1k 1 2k 2 kk k k+1 n
+QR-factorisatie
+• In matrixvorm:  (cid:30) 	…(cid:30) =
+(cid:24) !
+(cid:16) (cid:16) (cid:16) (cid:16)
+(cid:24)(cid:24) (cid:24)(cid:21) (cid:24)(cid:25) (cid:24)%
+0 (cid:16) (cid:16) (cid:16)
+(cid:21)(cid:21) (cid:21)(cid:25) (cid:21)%
+" 	…" 0 0 (cid:16) 			(cid:16) 	…
+(cid:24) ! (cid:25)(cid:25) (cid:25)%
+0 0 0 (cid:16)
+%%
+⋮ ⋮ ⋮ ⋮
+430/10/2019
+Eigenschappen R
+• Herinner in GS: x = v + (cid:15)(cid:16)(cid:17)(cid:18) x
+k+1 k+1 (cid:19) k+1
+(cid:12)
+• Hier: a = v + (cid:15)(cid:16)(cid:17)(cid:18) aaaa met W = 
+k+1  k+1 (cid:19) k+1 k
+(cid:12)
+Span{a … a } en u uit v door normeren, of
+a1 .uk i ia .u
+a = k+1 (cid:22) u + ⋯+ k+1 (cid:12) u + v
+k+1 u .u (cid:24) u .u ) k+1
+(cid:22) (cid:22) (cid:12) (cid:12)
+=1
+a = (a .u )u + ⋯+ (a .u )u + (cid:16) u
+k+1 k+1 (cid:24) (cid:24) k+1 ) ) )(cid:4)(cid:24),)(cid:4)(cid:24) k+1
+≠0 ; als <0 verander u van teken
+k+1
+• det R = product diagonaalelem. ≠ 0 ⇒ inverteerbaar
+Enkele toepassingen
+• Col A = Col Q, dus u , ... , u orthonormale 
+1 n
+basis for Col A
+• ATA = (RTQT)(QR) = RTQTQR = RTR
+(n x m) (m x n) wordt (n x n) (n x n)
+• Gevoeligheid voor numerieke afrondingen 
+verlagen
+• Kleinste-kwadraten-problemen
+5

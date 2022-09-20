@@ -1,0 +1,819 @@
+Nederlandse Taalkunde I
+Hoofdstuk 12
+Handboek pp.379–416
+
+Jeroen van Craenenbroeck
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Overzicht
+Nevenschikking
+Basistypes
+Bijzondere types
+Samentrekking
+Onderschikking
+Principes van classiﬁcatie
+Bijzinnen met achter-PV en grammaticaal voegwoord
+Bijzinnen met achter-PV en betekenisdragend voegwoord
+Bijzinnen met achter-PV en vragend element
+Bijzinnen met achter-PV en betrekkelijk element
+Bijzinnen met voor-PV
+Beknopte bijzinnen
+Overzicht
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Nevenschikking: Basistypes
+(1)
+
+Jan heeft Piet gezien en Carla heeft mij geroepen.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Nevenschikking: Basistypes
+(1)
+
+Jan heeft Piet gezien en Carla heeft mij geroepen.
+
+VV
+
+P1
+
+MV
+
+P2
+
+AV
+
+VV
+
+P1
+
+MV
+
+.
+
+P2
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+AV
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Nevenschikking: Basistypes
+(2)
+
+Jan heeft Piet gezien en Carla heeft mij geroepen.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Nevenschikking: Basistypes
+(3)
+
+Jan denkt dat Piet zingt en dat Marie danst.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Nevenschikking: Basistypes
+(4)
+
+a.
+b.
+c.
+
+Ze zijn al vertrokken, dus wij zullen ook vertrekken.
+Ze zijn al vertrokken, dus zullen wij ook vertrekken.
+Ze zijn al vertrokken, wij zullen dus ook vertrekken.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Nevenschikking: Basistypes
+(4)
+
+a.
+b.
+c.
+
+Ze zijn al vertrokken, dus wij zullen ook vertrekken.
+Ze zijn al vertrokken, dus zullen wij ook vertrekken.
+Ze zijn al vertrokken, wij zullen dus ook vertrekken.
+
+VV
+
+P1
+
+MV
+
+P2
+
+AV
+
+VV
+
+P1
+
+.
+
+MV
+
+P2
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+AV
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Nevenschikking: Bijzondere types
+(5)
+
+Werk hard en je zal slagen.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Nevenschikking: Bijzondere types
+(6)
+
+Hou ermee op of ik ga gillen!
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Nevenschikking: Bijzondere types
+(7)
+
+Ze zijn naar Spanje vertrokken, of interesseert je dat niet?
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Nevenschikking: Samentrekking
+(=
+
+)
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Nevenschikking: Samentrekking
+(=
+(8)
+
+)
+
+Hij heeft vaak gewonnen, maar hij heeft nog vaker verloren.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Nevenschikking: Samentrekking
+(=
+(8)
+
+)
+
+Hij heeft vaak gewonnen, maar hij heeft nog vaker verloren.
+
+(=
+
+)
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Nevenschikking: Samentrekking
+(=
+(8)
+
+)
+
+Hij heeft vaak gewonnen, maar hij heeft nog vaker verloren.
+
+(=
+(9)
+
+)
+
+Jan koopt oude schoenen en Piet verkoopt oude schoenen.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ 

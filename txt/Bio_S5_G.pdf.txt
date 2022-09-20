@@ -1,0 +1,367 @@
+Ontwikkelings-
+geneticaGenetica
+Ontwikkeling
+Ontwikkelingsgenetica
+Ontwikkeling
+     van een ééncellige zygote tot een 
+organisme met vele verschillende 
+cellen
+• Groei (celdeling)
+• Differentiatie
+• Patroonvorming
+• Morfogenese
+13 - 2 zie Raven 19Genetica
+Celdeling
+Ontwikkelingsgenetica
+Ontwikkeling van zygote tot embryo door talrijke 
+celdelingen zonder celgroei
+ 
+• de grote ééncellige zygote deelt zich in talrijke kleine 
+blastomeren
+• dit proces gaat zeer snel : soms één celdeling binnen 
+enkele minuten
+13 - 3 zie Raven 19Genetica
+Celdeling
+Ontwikkelingsgenetica
+Ontwikkeling van zygote tot embryo
+• G1 en G2 fase in celcyclus worden overgeslaan
+• veel mRNA voor cycline in onbevruchte eicel
+• transcriptie van cycline tijdens mitose en afbraak na mitose zorgt ervoor dat celcyclus 
+voortgaat zonder G1 en G2 fase
+13 - 4 zie Raven 19Genetica
+Celdeling
+Ontwikkelingsgenetica
+Ontwikkeling van zygote tot embryo
+• elke celdeling is gekend bij Caenorhabditis elegans 
+(1 mm groot, 959 cellen)
+• elke cel heeft dezelfde bestemming
+13 - 5 zie Raven 19Genetica
+Celdeling
+Ontwikkelingsgenetica
+Ontwikkeling van zygote tot embryo
+• de blastomeren in een menselijk embryo 
+zijn niet gedifferentieerd en kunnen later 
+elk type weefsel vormen
+• sommige cellen stoppen met delen na 
+differentiatie
+• stamcellen kunnen blijven delen
+• totipotente stamcellen kunnen 
+differentiëren in elk celtype (vb. 
+embryonale stamcellen uit blastocyst)
+• pluripotente stamcellen kunnen 
+differentiëren in meerdere celtypes (vb. 
+myeloid cellen vormen verschillende 
+types bloedcellen)
+• vele stamcellen zijn weefselspecifiek; 
+deze blijven actief in een volwassen 
+lichaam
+13 - 6 zie Raven 19Genetica
+Celdeling
+Ontwikkelingsgenetica
+Ontwikkeling van zygote tot embryo
+• planten groeien vanuit meristemen, 
+groepjes van delende cellen in de wortel- 
+en stengeltoppen
+• plantencellen blijven vaak totipotent
+13 - 7 zie Raven 19Genetica
+Celdifferentiatie
+Ontwikkelingsgenetica
+Cellen krijgen een bestemming 
+vooraleer ze beginnen 
+differentiëren
+• moleculaire mechanismen bepalen de 
+bestemming van een cel
+• de bestemming wordt pas na een 
+welbepaalde periode bepaald (vaak in 
+stappen, vb. eerst achterkant, dan 
+achterpoten, dan voet, dan teen)
+• de bestemming van een cel kan enkel 
+nagegaan worden door  
+transplantatie-experimenten
+• cellen krijgen een bestemming door
+• verschillende overerving van 
+bepaalde maternale producten 
+(mRNA, proteïnen) die in het 
+cytoplasma van de eicel aanwezig zijn
+• cel-cel interacties
+13 - 8 zie Raven 19Genetica
+Celdifferentiatie
+Ontwikkelingsgenetica
+Bestemming van cellen door ongelijke verdeling van producten 
+in cytoplasma in tunicaten
+• in de eicel komen pigmentgranules voor die na bevruchting assymetrisch 
+verdeeld zijn over de zygote; daardoor zullen na celdeling sommige 
+blastomeren meer pigmentgranules bevatten dan andere
+• cellen met veel pigmentgranules differentiëren in spiercellen van de staart
+• eicel levert mRNA voor macho-1 gen, dat genen activeert voor vorming van 
+spiercellen
+13 - 9 zie Raven 19Genetica
+Celdifferentiatie
+Ontwikkelingsgenetica
+Bestemming van cellen door cel-cel interactie in tunicaten (inductie)
+• binnenste cellen in 32-cellig stadium produceren FGF (‘fibroblast growth factor’)
+• aangrenzende cellen binden FGF en differentiëren in notochord (vooraan, geen macho-1) of 
+mesenchym (achteraan, wel macho-1)
+• niet-aangrenzende cellen binden geen FGF en differentiëren in zenuwcellen (vooraan, geen macho-
+1) of spiercellen (achteraan, wel macho-1)
+• binnenste cellen vormen later endoderm
+13 - 10 zie Raven 19Genetica
+Celdifferentiatie
+Ontwikkelingsgenetica
+Bestemming van cellen door cel-cel interactie in tunicaten (inductie)
+13 - 11 zie Raven 19Genetica
+Celdifferentiatie
+Ontwikkelingsgenetica
+Klonen door omkeren van celbestemming
+• plantencellen en vroeg-embryonale cellen zijn totipotent maar volwassen zoogdiercellen zijn 
+gedifferentieerd en niet langer totipotent
+• vervanging van nucleus van eicel door nucleus van gedifferentieerde cel resulteert in ontwikkeling 
+van een embryo als de donornucleus afkomstig is uit vroeg embryonaal stadium
+• 1996: versmelting van volwassen cel met eicel zonder nucleus (‘somatic cel nuclear transfer’ of 
+SCNT) lukt als nucleus en eicel in zelfde fase van celcyclus zitten (schaap ‘Dolly’)
+13 - 12 zie Raven 19Genetica
+Celdifferentiatie
+Ontwikkelingsgenetica
+Problemen met reproductief klonen
+• reproductief klonen = genetisch identiek individu maken
+• werkt met katten, muizen, ratten, varkens, geiten, muilezels,… maar kleine kans op succes (3-5%), 
+ouderdomsziekten en groter dan normaal
+• wellicht het gevolg van genomische inprenting en organisatie van chromatine (heeft jaren nodig bij 
+rijping eicel en moet bij klonen in enkele uren plaatsvinden)
+13 - 13 zie Raven 19Genetica
+Celdifferentiatie
+Ontwikkelingsgenetica
+Therapeutisch klonen
+• therapeutisch klonen = genetisch identiek orgaan maken
+• verloopt gelijk aan reproductief klonen, maar embryo wordt gebruikt voor productie van embryonale 
+stamcellen
+• embryonale stamcellen worden gebruikt voor regeneratie van weefsel bij patiënten (geen problemen 
+met immuunreacties)
+13 - 14 zie Raven 19Genetica
+Celdifferentiatie
+Ontwikkelingsgenetica
+Ethische discussie rond klonen
+• reproductief klonen van mensen is in de meeste 
+landen verboden
+• ook therapeutisch klonen is in vele landen niet 
+toegestaan (vb. VS, Duitsland, Zuid-Amerika), 
+is in sommige landen beperkt (Engeland) en in 
+andere landen vrijwel volledig vrij (China, 
+Thailand, Zuid-Korea)
+• recente experimenten suggereren dat 
+volwassen stamcellen een alternatief kunnen 
+bieden voor embryonale stamcellen (vb. 
+pluripotente stamcellen uit beenmerg)
+13 - 15 zie Raven 19Genetica
+Patroonvorming
+Ontwikkelingsgenetica
+Patroonvorming in Drosophila
+• van radiaal symmetrische zygote tot larve met voor- en achterkant, boven- en onderkant en 
+segmentatie
+13 - 16 zie Raven 19Genetica
+Patroonvorming
+Ontwikkelingsgenetica
+Voor/achter as in Drosophila
+• nuclei van embryo worden pas actief na 
+een 10-tal celdeling (1000-tal cellen) , 
+dus alle mRNA dat voordien actief is is 
+van maternale oorsprong
+• maternale cellen geven mRNA voor 
+Bicoid en Nanos genen door aan eicel
+• Bicoid mRNA wordt door microtubuli 
+naar voorkant van eicel getransporteerd, 
+Nanos mRNA wordt naar achterkant 
+getransporteerd (voor/achterkant is 
+maternaal bepaald)
+13 - 17 zie Raven 19Genetica
+Patroonvorming
+Ontwikkelingsgenetica
+Voor/achter as in Drosophila
+• na bevruchting treedt translatie op van Bicoid en 
+Nanos mRNA
+• Bicoid proteïne inhibeert translatie van (maternaal) 
+caudal mRNA, Nanos proteïne inhibeert translatie 
+van (maternaal) hunchback mRNA
+• Hunchback proteïne wordt vooraan de cel gevormd 
+en activeert genen die voorste structuren zullen 
+vormen, Caudal proteïne wordt achteraan de cel 
+gevormd en activeert genen die achterste 
+structuren zullen vormen
+13 - 18 zie Raven 19Genetica
+Patroonvorming
+Ontwikkelingsgenetica
+N
+o
+b
+el
+-
+p
+rij
+s
+ 
+1
+9
+9
+5
+13 - 19 zie Raven 19Genetica
+Patroonvorming
+Ontwikkelingsgenetica
+Dorsoventrale as in Drosophila
+gurken mRNA
+• Het Dorsal mRNA wordt gevormd door de 
+follikelcellen aan de ventrale zijde en wordt 
+doorgeven aan eicel voor de bevruchting
+maternale cellen
+• Na de bevruchting wordt Dorsal proteïne gevormd 
+eicel
+en dit is verspreid doorheen het syncytiaal 
+blastoderm
+follikelcellen
+• De nucleus van eicel vormt zelf gurken mRNA; dit 
+gurken mRNA bevindt zich aan de toekomstige 
+dorsale zijde van de eicel
+• Gurken proteïne geeft een signaal aan de 
+follikelcellen aan de dorsale zijde via 
+membraanreceptoren
+• De follikelcellen aan ventrale zijde van het embryo 
+die het Gurken signaal niet ontvangen hebben 
+produceren een reeks signalen
+• Deze signalen zorgen er voor dat nucleï aan de 
+ventrale zijde het Dorsal proteïne opnemen
+• Zowel dorsal als gurken mutanten hebben geen 
+ventrale zijde, enkel een dorsale zijde
+13 - 20 zie Raven 19Genetica
+Patroonvorming
+Ontwikkelingsgenetica
+Segmentatie in Drosophila
+• Hunchback en Krüppel zijn gap-genen: ze bepalen 
+de onderverdeling van het embryo in grote zone’s 
+(kop, thorax, abdomen)
+• de gap-genen activeren ‘pair-rule’ genen zoals 
+hairy: deze verdelen het embryo in segmenten
+• pair-rule genen activeren op hun beurt segment 
+polariteit genen zoals engrailed: deze bepalen de 
+voor- en achterkant van de segmenten
+13 - 21 zie Raven 19Genetica
+Patroonvorming
+Ontwikkelingsgenetica
+Segmentatie in Drosophila
+• Hunchback en Krüppel zijn gap-genen: ze bepalen 
+de onderverdeling van het embryo in grote zone’s 
+(kop, thorax, abdomen)
+• de gap-genen activeren ‘pair-rule’ genen zoals 
+hairy: deze verdelen het embryo in segmenten
+• pair-rule genen activeren op hun beurt segment 
+polariteit genen zoals engrailed: deze bepalen de 
+voor- en achterkant van de segmenten
+13 - 22 zie Raven 19Genetica
+Patroonvorming
+Ontwikkelingsgenetica
+Segmentatie in Drosophila
+• Hunchback en Krüppel zijn gap-genen: ze bepalen 
+de onderverdeling van het embryo in grote zone’s 
+(kop, thorax, abdomen)
+• de gap-genen activeren ‘pair-rule’ genen zoals 
+hairy: deze verdelen het embryo in 7 segmenten
+• pair-rule genen activeren op hun beurt segment 
+polariteit genen zoals engrailed: deze bepalen de 
+voor- en achterkant van de segmenten en delen elk 
+van de 7 segmenten in twee
+Uiteindelijke ontstaat een embryo dat bestaat uit 14 
+segmenten (3 kop, 3 thorax en 8 abdomen)
+13 - 23 zie Raven 19Genetica
+Patroonvorming
+Ontwikkelingsgenetica
+Bepaling van identiteit van segementen in 
+Drosophila
+• elk segment zal op een eigen manier ontwikkelen 
+onder invloed van homeotische genen
+• mutaties in deze genen resulteren bijvoorbeeld in 
+mutanten met een dubbel thorax-segment (vb. 
+Ultrabithorax met twee paar vleugels)
+13 - 24 zie Raven 19Genetica
+Patroonvorming
+Ontwikkelingsgenetica
+Homeotische genen in Drosophila
+• deze homeotische genen hebben een 
+geconserveerde sequentie (de homeobox 
+sequentie)
+• genen met deze geconserveerde sequentie worden 
+Hox genen genoemd
+• de homeotische genen komen gegroepeerd voor 
+op twee chromosomen
+• merkwaardig genoeg komt de volgorde van de 
+genen op de chromosomen overeen met de 
+volgorde van de segmenten die ze beïnvloeden
+13 - 25 zie Raven 19Genetica
+Patroonvorming
+Ontwikkelingsgenetica
+Patroonvorming in andere organismen
+• ook bij vertebraten komen Hox genen voor
+• bij vertebraten komen de Hox genen voor in vier 
+(ipv twee) clusters
+• in planten komen geen Hox genen voor maar 
+spelen MADS-box genen een rol in de ontwikkeling
+13 - 26 zie Raven 19Genetica
+Mutaties in Hox genen
+Ontwikkelingsgenetica
+Patroonvorming bij de mens
+• HoxA2 – microtia (afwijkende oren)
+• HoxA13 – hand-foot-genital syndrome
+• HoxB13 – ectodermale displasie (afwijking in huid, 
+haar en nagels)
+13 - 27 zie Raven 19Genetica
+Mutaties in Hox genen
+Ontwikkelingsgenetica
+HoxD13
+13 - 28 zie Raven 19Genetica
+Morfogenese
+Ontwikkelingsgenetica
+Het ontstaan van complexe structuren in het embryo
+• regulatie van het aantal, het ogenblik en de locatie van celdelingen
+• de oriëntatie van spoelfiguur zal bepalen waar nieuwe cellen toegevoegd 
+• de positie van de spoelfiguur in de cel zal bepalen wat de verhouding van de grootte van de 
+dochtercellen zal zijn
+• de groei van cellen
+• verandering in vorm van cellen
+• voorbeeld: zenuwcellen vormen langwerpige axonen
+• migratie van cellen in het embryo
+• afsterven van cellen
+• gecontroleerde celdood of apoptose
+13 - 29 zie Raven 19Genetica
+Morfogenese
+Ontwikkelingsgenetica
+Migratie van cellen in het embryo
+• gelijke celtypes blijven bij elkaar door 
+cadherines 
+• cadherines zijn transmembraanproteïnen 
+die aan elkaar gebonden zijn via Ca ionen
+• cellen van een bepaald weefsel hebben 
+dezelfde cadherines en blijven daardoor 
+met elkaar verbonden
+• cellen liggen soms ingebed in een 
+extracellulaire matrix
+• deze matrix bestaat uit polymeren of 
+vezelvormige moleculen (vb. elastine, 
+fibronectine, collageen)
+• cellen zijn verbonden aan deze matrix via 
+integrines
+• cellen kunnen zich via integrines 
+verplaatsen in deze matrix
+13 - 30 zie Raven 19Genetica
+Invloed van omgeving op ontwikkeling
+Ontwikkelingsgenetica
+Invloed van omgevingsfactoren
+• vooral belangrijk bij planten
+• vb. grootte in functie van temperatuur
+• vb. bloei in functie van dag/nachtlengte
+• vb. vorming van knolletjes in aanwezigheid van Rhizobium
+• Ook bij dieren
+• vb. verandering in morfologie in aanwezigheid van predatoren (Daphnia)
+• vb. geslachtsbepaling in functie van temperatuur bij reptielen
+Invloed van chemische stoffen
+• endocriene verstoorders: chemische stoffen die werking van endocriene hormonen verstoren 
+(hormonen die geslacht bepalen)
+• vb. dioxines, zware metalen, PCB, pesticiden,…
+• veroorzaken afwijkingen aan geslachtsorganen en verminderde fertiliteit
+13 - 31 zie Raven 19

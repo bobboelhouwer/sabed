@@ -1,0 +1,103 @@
+Tekstwetenschap 1
+Les 6 – discours en retorica – deel 2
+Hedendaagse retorica en argumentatie 
+
+Definitie
+“Argumentation is a verbal and social activity of reason aimed at increasing (or decreasing) the acceptability of a controversial standpoint for the listener or reader, by putting forward a constellation of propositions intended to justify (or refute) the standpoint before a rational judge (Van Eemeren, 1996: 5) 
+dialectiek vs retorica: focus op (inherente) kwaliteit van argumentatie vs focus op effectiviteit van argumentatie
+
+Toulmin (1)
+Uses of Argument (1958); reactie tegen formele logica
+Uitgangspunten
+standaards en waarden van praktisch redeneren zijn niet zuiver abstract en formeel
+‘soundness criteria’ hangen samen met aard van het probleem
+argumentatie betreft het rechtvaardigen van ‘claims’
+
+Toulmin (2)
+Kernconcepten
+Verschillende types van claims
+Feitelijke bewering (over verleden of heden), predictie, moreel oordeel, causaal oordeel, opinie, esthetisch oordeel
+Field-invariant characteristics vs field-dependent characteristics 
+FI = procedure, modal force
+FD = modal criteria, warrant, backing etc.
+
+
+Model van Toulmin
+New Rhetoric (1)
+Perelman en Olbrechts-Tytica (1969). The New Rhetoric. (Franstalige tekst uit 1958)
+“The study of discursive techniques allowing to induce or to increase the mind’s adherence to theses presented for its assent.” (o.c. 1969: 4)
+Uitgangspunten
+publiek ‘aanspreken’ en overtuigen via ‘plausibele’ argumenten – zoeken naar ‘common ground’ (context en waarden)
+argumenten zijn ‘persuasive’ voor een ‘particular audience’ of ‘convincing voor een ‘universal audience’;  publiek = (veranderlijk) construct van de argumenteerder
+New Rhetoric (2)
+Kernconcepten
+Twee types van uitgangspunten 
+Feitelijke uitgangspunten: feiten, waarheden, veronderstellingen
+Waardegebaseerde uitgangspunten: waarden, waardehiërarchieën, loci
+Aanvechtbaar omwille van status, relevantie of presentatie
+Argumentatieschema’s
+Via associatie: quasi-logische argumentatie, argumentatie gebaseerd op de structuur van de realiteit, argumentatie die de realiteit herstructureert (op basis van voorbeeld of analogie)
+Via dissociatie: een bestaand concept opsplitsen (schijnbaar vs eigenlijk)
+
+New Rhetoric (3)
+Illustratie: types van argumentatie gebaseerd op de structuur van de realiteit
+argumentation based on a sequential relation
+cause and effect (i.e. pragmatic argumentation)
+ends and means
+argumentation based on a coexistential relation
+a person and his or her acts (i.e. argumentation from authority)
+a group and its constituents
+an essence and its manifestations
+the symbol and the symbolized
+argumentation based on a combination of sequential and coexistential relations
+double hierarchy argumentation
+differences of degree
+differences of order
+Burke
+A Grammar of Motives (1945)
+Uitgangspunt: elk verhaal is eigenlijk retorisch
+Dramatistic Pentad
+analysemodel om retorische focus te achterhalen
+5 componenten: Act, Scene, Actor, Agency, Purpose
+David Ling's early analysis of Senator Edward Kennedy's speech on Chappaquiddick illustrates these functions: Faced with the act of leaving the scene of an accident that killed Mary Jo Kopechne, Kennedy directed attention to a scene of a narrow, unlighted bridge over cold, dark, rushing water that left him nearly drowned and not thinking straight. That terministic focus attempted to draw attention away from alternative terms, such as agent (Kennedy as irresponsible), agency (driving under the influence), attitude (careless), and so forth. It also sought to characterize a term (the scene, as life-threatening and overwhelming) and to characterize a terministic relationship (clearly implying that the scene controlled the act, as Kennedy staggered away in a daze). http://ac-journal.org/journal/vol1/iss3/burke/rountree.html
+ 
+
+Radicaal argumentativisme 
+Anscombre en Ducrot (1976): L’argumentation dans la langue.
+Uitgangspunt: zo goed als alle taalgebruik is argumentatief
+Principes: 
+« il existe, en français, des expressions, ni marginales ni exceptionnelles, dont l'utilisation discursive est soumise à certaines restrictions impossibles à déduire de leur valeur informative, même en dilatant à l'extrême cette dernière notion. Plus précisément, dès qu'un énoncé les contient, on voit apparaître des contraintes sur le type de conclusions en faveur desquelles il peut être utilisé. » (o.c. 9)
+“ Pour nous, il est constitutif du sens d'un énoncé de prétendre orienter la suite du dialogue. » (o.c.14)
+
+Discourse historical approach 
+Benadering binnen de CDA
+Reisigl and Wodak (2001)
+“gesitueerde” argumentatie: historische context
+Focus op inhoudelijke ‘topoi’ en ‘fallacies’ die in een corpus gehanteerd worden; ethische dimensie
+“The two validity claims of (theoretical) truth and normative rightness are central in almost all DH studies.” (Reisigl, 2018:50) 
+Voorbeeld: populistische retoriek in Oostenrijk
+Topos of ‘law and order’ – Fallacy: If I or we have the power, we will provide for/guarantee law and order.
+Topos of ‘dirty politics’ – Fallacy: Since politics is a dirty business, we must clear up/have a clean-out/muck out the stable
+	(Reisigl, 2014: 78-79)
+
+Pragmadialectiek
+“In the pragma-dialectical approach, argumentation is treated as part of a reasonable argumentative discourse aimed at resolving a difference of opinion.” (Van Eemeren en Grootendorst, 1995: 3)
+“In zijn pogingen om het tegelijkertijd nastreven van dialectische en retorische doelen met elkaar te verenigen – en mogelijke fricties tussen beide te verminderen – maakt hij gebruik van wat wij hebben genoemd strategisch manoeuvreren.” (Van Eemeren en Houtlosser, 2006:1-2)
+Instrumentarium:
+Tien regels voor kritische discussie: b.v. je mag geen impliciete uitgangspunten als premisse hanteren
+Fallacies (oneigenlijke argumentatie): b.v. ad hominem
+Actietypes: adjudication, deliberation, disputation, communion-seeking
+
+Pragmadialectiek (2)
+RULE 7
+(a) The protagonist has successfully defended the propositional content of a complex speech act of argumentation against an attack by the antagonist if the application of the intersubjective identification procedure yields a positive result or if the propositional content is in the second instance accepted by both  parties as a result of a sub-discussion in which the protagonist has successfully defended a positive sub-standpoint with regard to this propositional content.
+(b) The antagonist has successfully attacked the propositional content of the complex speech act of argumentation if the application of the intersubjective identification procedure yields a negative result and the protagonist has not successfully defended a positive sub-standpoint with regard to this propositional content in a sub-discussion
+Pragmadialectiek (3)
+The Validity Rule (7) can be violated at the argumentation stage by the protagonist in a variety of ways. Some cases of logical invalidity occur regularly and are not always immediately recognized. Among them are confusing a necessary condition with a sufficient condition (or vice versa) in arguments with an “If . . ., then . . .” premise (affirming the consequent, denying the antecedent). Other violations amount, for instance, to erroneously attributing a (relative and structure-dependent) property of the constituent parts to the whole or vice versa (fallacies of composition and division).
+
+Kerngedachten hedendaagse retorica
+argumentatie = ruimer dan ‘overtuigen’;
+argumentatie = gesitueerd;
+argumentatie = gericht op aanvaardbaarheid (eerder dan ‘waarheid’);
+
+

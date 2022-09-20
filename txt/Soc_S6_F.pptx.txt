@@ -1,0 +1,130 @@
+Vertegenwoordiging(gemeen recht)
+Vertegenwoordiging
+Toerekening aan opdrachtgever als vertegenwoordiger rechtshandeling stelt:
+in naam en voor rekening van opdrachtgever; en
+met en binnen vertegenwoordigingsbevoegdheid
+Gevolgen
+rechtstreekse band tussen derde en opdrachtgever
+opdrachtgever contractueel verbonden jegens derde
+vertegenwoordiger nooit contractueel verbonden jegens derde
+2
+In naam van de opdrachtgever
+Formeel criterium
+In principe niet relevant “in wiens belang”
+Kan wel blijken uit omstandigheden
+
+
+3
+In naam van de opdrachtgever 
+Voor rekening van de opdrachtgever
+Indien in eigen naam, maar voor rekening van opdrachtgever: middellijke vertegenwoordiging
+
+Vertegenwoordiger als partij persoonlijk gebonden jegens derde (contractueel)
+Opdrachtgever niet persoonlijk gebonden – geen partij
+Vertegenwoordiger moet resultaat overdragen aan opdrachtgever / opdrachtgever moet vertegenwoordiger vrijwaren
+
+
+5
+Onmiddellijke vs. middellijke vertegenwoordiging
+derde
+naamlener
+opdrachtgever
+derde
+vertegenwoordiger
+opdrachtgever
+
+
+
+Met en binnen bevoegdheid
+Expliciet of impliciet
+
+Lastgeving
+Art. 1984-2010 oud BW
+“Gemeen vertegenwoordigingsrecht” vindt uitdrukking in bepaalde regels van lastgeving (bv. art. 1998 oud BW)
+“Lastgeving of volmacht”: volmacht strikt genomen het document waaruit vertegenwoordigingsbevoegdheid blijkt
+
+Andere overeenkomst (bv. arbeidsovereenkomst)
+De wet (bv. bij handelingsonbekwaamheid)
+Gerechtelijke uitspraak (bv. aanstelling curator)
+
+
+
+7
+Met en binnen bevoegdheid
+
+bekrachtiging: retroactief vertegenwoordigingsbevoegd
+indien niet bevoegd : in de regel geen toerekening
+Opdrachtgever niet gebonden tav derde
+Risico van onbevoegdheid ligt bij de derde< derde kan zich indekken door vraag naar legitimatie
+Vertegenwoordiger nooit contractueel gebonden tav derde
+Vertegenwoordiger buitencontractueel aansprakelijk tav derde
+
+
+
+8
+Met en binnen bevoegdheid
+indien niet bevoegd : in de regel geen toerekening
+uitzonderlijk vertegenwoordigingsmacht op grond van schijnvertegenwoordiging: 
+aan vertegenwoordigde toerekenbare (≠ verwijtbare) schijn
+derde had rechtmatig vertrouwen en heeft op basis daarvan gehandeld
+risico van onbevoegdheid wordt bij opdrachtgever gelegd
+“derde mocht vertrouwen op legitimatie ook al gaf die verkeerde indruk”
+“derde niet ten kwade geduid dat geen volmacht of andere legitimatie gevraagd” 
+
+
+
+9
+Schijnvertegenwoordiging
+
+
+
+
+
+
+rechtstreekse band tussen derde en beweerd opdrachtgever
+opdrachtgever kan regres nemen op onbevoegd vertegenwoordiger
+geen reden waarom derde de onbevoegd vertegenwoordiger aansprakelijk kan stellen als er toerekening was aan opdrachtgever 
+
+derde
+onbevoegd vertegenwoordiger
+opdrachtgever
+
+
+
+Schijnvertegenwoordiging
+vertegenwoordigings-bevoegdheid 
+↔ 
+ 
+mag de vertegenwoordiger de opdrachtgever verbinden?
+kan de vertegenwoordiger de opdrachtgever verbinden?
+
+
+vertegenwoordigings-macht 
+Schijnvertegenwoordiging
+Schijnvertegenwoordiging blijft uitzonderlijk:het principe blijft dat derde risico van onbevoegdheid draagt
+Schijnvertegenwoordiging is belangrijker dan gedacht:
+het is het glijmiddel van het dagelijks handelsverkeer
+Functie
+ 
+ex post              ↔               ex ante
+ 
+Schijnvertegenwoordiging beschermt ook en misschien vooral de opdrachtgever
+Schijnvertegenwoordiging beschermt de derde
+Voorbeeldvraag
+Pedro vraagt Jan om voor hem een boek te bestellen bij een boekhandelaar. Jan aanvaardt om dit te doen en bestelt bij de boekhandelaar dit boek in eigen naam. De boekhandelaar levert door een onzorgvuldigheid uiteindelijk niet het boek dat werd besteld. Welke uitspraak is correct?
+
+Zowel Pedro als Jan hebben een contractuele vordering tegen de boekhandelaar.
+Pedro heeft een contractuele vordering tegen de boekhandelaar; Jan niet.
+Jan heeft een contractuele vordering tegen de boekhandelaar; Pedro niet.
+Zowel Pedro als Jan hebben géén contractuele vordering tegen de boekhandelaar.
+
+Voorbeeldvraag
+
+Sarah vraagt Karel om een fiets aan te kopen. Ze is heel specifiek in haar vereisten: een groene Brompton van maximaal 1.200 EUR. Karel aanvaardt deze taak. Sarah geeft Karel een ondertekende volmacht waaruit blijkt dat ze hem de bevoegdheid geeft om in haar naam “een fiets te kopen van max. 1.200 EUR”. 
+Karel koopt in naam van Sarah een oranje Brompton voor 1.100 EUR bij fietshandelaar Boonen. Boonen vraagt daarbij de overlegging van de volmacht. 
+Welke uitspraak is correct? 
+Boonen kan Sarah met succes aansprakelijk stellen. Boonen kan Karel niet met succes aansprakelijk stellen. 
+Boonen kan Sarah met succes aansprakelijk stellen. Boonen kan ook Karel met succes aansprakelijk stellen. 
+Boonen kan Sarah niet met succes aansprakelijk stellen. Boonen kan Karel met succes aansprakelijk stellen. 
+Boonen kan Sarah niet met succes aansprakelijk stellen. Boonen kan ook Karel niet met succes aansprakelijk stellen. 
+

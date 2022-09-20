@@ -1,0 +1,757 @@
+MUTATIES & POLYMORFISMES
+
+Effecten en ontstaan
+Variatie: wijziging in de samenstelling van het DNA
+
+  Op niveau van chromosoom : copij variaties (CNV)
+  Op niveau van DNA
+Lichaamscellen
+
+Voortplantingscellen  (erfelijk)
+
+
+Variatie in het humaan genoom
+
+Lokalisatie: intragenisch     buiten een gen
+Frequentie: variatie (<1%)      polymorfisme (>1%)
+Type wijziging:
+	- SNP (single nucleotide polymorfisme)
+	- enkele baseparen
+	- variabel aantal repeats : 
+		* microsatellieten: dinucleotide, trinucleotide; tetranucleotide ..
+	- insertie, deletie, inversie
+	- copij aantal (CNV)
+4.   Functionele gevolgen: silent      functioneel
+5.   Gunstig versus ongunstig (mutatie)		
+
+
+
+DINUCLEOTIDE REPEAT
+bv. CA-repeat : variabel aantal (CA) copies
+Amplificatie van de CA-repeat regio dmv PCR
+
+
+
+
+
+Allel 1
+Allel 2
+DINUCLEOTIDE REPEAT
+
+
+
+
+
+
+
+
+
+
+Kind
+Moeder
+Vader1
+Vader2
+
+Polymorfe locus : bv (CA)repeat
+Allel 24
+Allel 22
+Allel 19
+Allel 13
+Allel 8
+Genotype : 19/13     24/19     24/13         22/8
+
+Forensisch DNA onderzoek
+
+Negatief effect
+
+Geen effect 
+(polymorfisme)
+
+Bijv :
+- ziekte van Huntington
+ achondroplasie
+  …
+Bijv : 
+ silent substituties
+ meeste CA-repeats
+ …
+“FUNCTIONEEL POLYMORFISME”
+Gewijzigde genfunctie maar fenotypisch effect 
+is afhankelijk van bijkomende genetische 
+en omgevingsfactoren. 
+
+Bijv :  MTHFR C/T allel
+
+VARIATIE/MUTATIE
+Positief effect
+Bijv : 
+ sikkelcel anemie
+…
+Hoe kan men aantonen dat een variant = mutatie 
+	en de ziekte veroorzaakt?
+Familie onderzoek
+
+	Segregatie van de mutatie met de aandoening in de familie
+	de novo mutatie (bij dominante of X-gebonden aandoening)
+
+Controle populatie 
+
+	wijziging die bij gezonde personen wordt aangetroffen is waarschijnlijk een 
+	variant/polymorfisme
+
+Functionele gevolgen
+
+	voorspellen van effect op eiwit aan de hand van wijziging 
+	evolutionair geconserveerd?
+	In vitro studies naar functie van gewijzigd eiwit (research)
+2. Ontstaan van mutaties/variaties
+Spontaan
+DNA replicatie
+Invloed van paternele leeftijd op frequentie van monogene aandoeningen
+
+Mutagenen 
+Ioniserende stralingen
+Niet-ioniserende stralingen (UV)
+Toxische stoffen (ook alcohol en roken)
+human intergeneration mutation rate 
+of ~1.1 × 10−8 per position per 
+haploid genome
+3. Meest voorkomende type mutaties
+exon
+intron
+intron
+    nnnnag  … GGA TCC CCT GGA … gtnnnn
+ …  Gly  Ser  Pro  Gly  …
+
+NORMAAL
+PUNTMUTATIES
+exon
+intron
+intron
+    nnnnag  … GGA TCC CCT GGA … gtnnnn
+ …  Gly  Ser  Pro  Gly  …
+
+NORMAAL
+MICRODELETIES / MICRO-INSERTIES
+    nnnnag  … GGA TCC GCA CCT  GGA … gtnnnn
+ …  Gly    Ser  Ala  Pro  Gly  …
+insertie
+in frame
+Verkeerde mRNA processing
+Onstabiele trinucleotide repeats- dynamische mutatie
+3. Fragiele X syndroom
+1. Ziekte van Huntington
+2. Myotone dystrofie of
+Ziekte van Steinert
+4. Hoe veroorzaakt een mutatie een ziekte 
+(effecten van gen mutatie op de werking van het eiwit)
+Gen sequentie is aangetast er wordt geen of een abnormaal eiwit 
+gevormd dat niet langer zijn functie kan uitoefenen
+LOSS-OF-FUNCTION mutatie die leidt tot HAPLO-INSUFFIENTIE
+►effect mutatie op de werking van het eiwit: loss-of-function
+Achondroplasie 
+
+> 95% van de personen met achondroplasia hebben 
+dezelfde mutatie glycine380arginine in FGFR3 gen.
+Hierdoor wordt het eiwit =FGFR3-receptor geactiveerd met 
+sneller omzetten van kraakbeen naar bot en uiteindelijk kleine gestalte
+
+►effect mutatie op de werking van het eiwit: gain-of-function
+Collageen II
+normaal
+
+Loss-of-function: 
+Verminderde hoeveelheid 
+collageen
+Gain-of-function: 
+abnormale structuur
+Voor sommige genen kan zowel loss-of-function als gain-of-function voorkomen.
+Voorbeeld COL2A1 : een van de collageen coderende genen
+
+Loss-of-function: 
+Verminderde hoeveelheid 
+collageen
+Gain-of-function: 
+abnormale structuur
+Voor sommige genen kan zowel loss-of-function als gain-of-function voorkomen.
+Voorbeeld COL2A1
+Stickler syndroom
+Achondrogenese type 2
+DNA onderzoek
+
+Sequentie bepalen van een gen
+Opsporen van mutaties
+Klassieke (Sanger) sequencing
+1990-2003: sequence the human (haploid) genome	3.000.000.000 bp @ $ 2.700.000.000 
+Human genomeproject  (HGP)
+Next generation (massive) sequencing (NGS)
+Roche GS FLX (454 Life Sciences)
+James Watson, 4.5 months, $ 1.500.000
+
+Illumina Genome Analyzer II (Solexa)
+Marjolein Kriek, 6 months, € 40.000
+
+Applied Biosystems SOLiD 3 (Agencourt)
+
+Illumina HiSeq2000
+
+PacBio
+
+NovaSeq
+
+NGS sequencer
+DNA
+fragmentatie
+Patiënt
+DNA
+ Miljoenen korte DNA fragmentjes
+Illumina: sequence by synthesis
+Illumina: sequence by synthesis
+
+Illumina: sequence by synthesis
+
+A
+T
+G
+
+
+C
+G
+C
+A
+A
+T
+G
+
+
+
+G
+C
+A
+T
+
+G
+T
+T
+
+
+C
+A
+G
+A
+G
+A
+C
+
+
+
+T
+G
+A
+C
+T
+C
+A
+Illumina: sequence by synthesis
+
+A
+T
+G
+
+
+C
+G
+C
+A
+A
+T
+G
+
+
+
+G
+C
+A
+C
+T
+
+
+G
+T
+T
+
+
+C
+A
+G
+A
+G
+A
+C
+
+
+
+A
+
+T
+G
+A
+C
+T
+C
+A
+Illumina: sequence by synthesis
+
+A
+T
+G
+
+
+C
+G
+C
+A
+A
+T
+G
+
+
+
+G
+C
+A
+A
+C
+C
+A
+T
+
+
+G
+T
+T
+
+
+C
+A
+G
+A
+G
+A
+C
+
+
+
+A
+A
+
+T
+G
+A
+C
+T
+C
+A
+Illumina: sequence by synthesis
+
+
+A
+T
+G
+
+
+C
+G
+C
+A
+A
+T
+G
+
+
+
+G
+C
+A
+T
+A
+C
+C
+A
+T
+T
+
+
+G
+T
+T
+
+
+C
+A
+G
+A
+G
+A
+C
+
+
+
+A
+A
+C
+
+T
+G
+A
+C
+T
+C
+A
+Illumina: sequence by synthesis
+
+
+A
+T
+G
+
+
+C
+G
+C
+A
+A
+T
+G
+
+
+
+C
+T
+A
+C
+C
+A
+T
+C
+
+
+G
+T
+T
+
+
+C
+A
+G
+A
+G
+A
+C
+
+
+
+A
+A
+C
+T
+
+C
+A
+T
+G
+A
+C
+C
+G
+T
+C
+A
+Illumina: sequence by synthesis
+
+A
+T
+G
+
+
+C
+G
+C
+A
+A
+T
+G
+
+
+
+G
+C
+T
+A
+C
+C
+A
+G
+T
+C
+
+
+G
+T
+T
+
+
+C
+A
+G
+A
+G
+A
+C
+
+
+
+A
+A
+G
+C
+T
+
+G
+C
+A
+T
+T
+A
+C
+T
+C
+A
+Illumina: sequence by synthesis
+Illumina: sequence by synthesis
+
+A
+T
+G
+
+
+C
+G
+C
+A
+A
+T
+G
+
+
+
+T
+G
+C
+A
+T
+G
+C
+T
+A
+C
+C
+A
+G
+T
+C
+T
+
+
+G
+T
+T
+
+
+C
+A
+G
+A
+G
+A
+C
+
+
+
+C
+A
+A
+G
+C
+T
+
+T
+G
+A
+C
+T
+C
+A
+
+
+Reconstruction DNA-sequencing
+CCTATATAGGCCAAGTACATA
+AGGCCAAGTACATACC
+GCCAAGTACATACCTAG
+GTACATACCTAGTAAATG
+ATACCTAGTAAATGCCGGTATA
+AGTAAATGCCGGTATACCCTAGC
+Aligneren van miljoenen korte sequenties (150 bp) :
+Bio-informatica pipeline
+
+EXOOM SEQUENCING  ~1.5-2 % van ganse genoom 
+DNA gefragmenteerd
+
+Elk fragment krijgt een “linker”
+
+
+
+Hybridisatie met exoom array
+
+
+
+Elueren van het gecapteerde DNA
+
+
+
+Sequeneren van gecapteerde DNA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ATTGCTGCT
+GCAATCGATGATGTTTGAGATTCTCTAAGCTCCCTGGTACCTGGATATCGTCTCTCGAAACACACTTTGCCGCGGGAGTATAAAGCCCGATT
+TTTCAGGGA
+Capture/Exoom/Genoom
+Zygositeit
+Linkage
+Prioritisatie
+Functionele data
+Effect/conser-vatie
+Pathway
+Filters
+ATTGCTGCT
+GCAATCGATGATGTTTGAGATTCTCTAAGCTCCCTGGTACCTGGATATCGTCTCTCGAAACACACTTTGCCGCGGGAGTATAAAGCCCGATT
+TTTCAGGGA
+Causale mutatie
+Additionele families / Cohortes
+Diermodel
+Cel Biologie
+iPSC
+
+
+Functionele analyse
+ATTGTACGTGATGACCAGTGGAAT
+ACCGTAAGGTAAAGTACCGTGTAC
+TTGGTTGGAACGTAGACTGAATGC
+CAACCCTGGTATTGGTGTCCCGTG
+TACAAGGTTAGTAATGTACCATTGA
+TTCCGTAATACGTGTGGCGCGTGC
+GTAACACACTGACTGACCATCCTG
+GTAGCTAGTCAAGTCGTAGCTGTC
+GTGACGTAACGTATATGACACACG
+TCAGTACGGTCAGTACACACATGC
+TGTGGTGCAGTACAGATACAGTAC
+AGATTAGCAGAAATGCAGATTTAGT
+gespleten lip
+obesitas
+mucoviscidose
+dementie
+Variatie in ziekte
+Monogeen
+albinisme
+Multifactorieel
+intelligentie
+lengte
+fysieke uithouding
+schoonheid
+variatie 
+in kenmerken
+personaliteit
+ATTGTACGTGATGACCAGTGGAAT
+ACCGTAAGGTAAAGTACCGTGTAC
+TTGGTTGGAACGTAGACTGAATGC
+CAACCCTGGTATTGGTGTCCCGTG
+ATTGTACGTGATGACCAGTGGAAT
+ACCGTAAGGTAAAGTACCGTGTAC
+TTGGTTGGAACGTAGACTGAATGC
+CAACCCTGGTATTGGTGTCCCGTG
+TACAAGGTTAGTAATGTACCATTGA
+TTCCGTAATACGTGTGGCGCGTGC
+GTAACACACTGACTGACCATCCTG
+GTAGCTAGTCAAGTCGTAGCTGTC
+GTGACGTAACGTATATGACACACG
+TCAGTACGGTCAGTACACACATGC
+TGTGGTGCAGTACAGATACAGTAC
+AGATTAGCAGAAATGCAGATTTAGT
+TACAAGGTTAGTAATGTACCATTGA
+TTCCGTAATACGTGTGGCGCGTGC
+GTAACACACTGACTGACCATCCTG
+GTAGCTAGTCAAGTCGTAGCTGTC
+GTGACGTAACGTATATGACACACG
+TCAGTACGGTCAGTACACACATGC
+TGTGGTGCAGTACAGATACAGTAC
+AGATTAGCAGAAATGCAGATTTAGT
+interpretatie?
+
+Informed consent
+                 DEFINITION
+“Incidental finding”
+Pro- and Anti-disclosure
+Statement 
+
+Total genome analysis for minors 
+is only justifiable if the interests 
+of the minor in question
+are given priority.
+Screening
+Prevention 
+Longer and healthier life 
+
+
+Overestimation benefits screening 
+Over-medicalization
+
+
+Testen via internet
+
+
+
+
+
+
+
+	gezondheidsvoordeel-klinisch zinvol?
+
+
+
+Total genome analysis as instrument for screening? 
+Risico type 2 diabetes
+Statement
+A total genome analysis from a personal or life style interest is of very low utility to the consumer (today). 
+
+Statement
+Even though people pay themselves, it is not clear who controls the quality of the data/interpretation. There is a need for an (inter) national regulator that controls the quality of what is offered via the internet.
+
+Genome analysis via the internet

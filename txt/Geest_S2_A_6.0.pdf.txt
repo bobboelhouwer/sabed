@@ -1,0 +1,193 @@
+Medialis
+ Bijzonder gebruik van sommige handelings-
+werkwoorden met een niet-agentief subject:
+  Dat boek verkoopt goed.
+  Dat boek leest makkelijk.
+  Die weg rijdt vlot.
+  Die pen/Dat papier schrijft aangenaam.
+  Die stoel zit lekker.
+ Altijd met een ADVERBIAAL COMPLEMENT 
+(van wijze)
+1Medialis
+ Gelijkenis met passief: andere medespeler dan 
+Agens verschijnt als subject  
+ Verschillen met passief: 
+  geen bijzondere vorm van het werkwoord 
+  onmogelijk om Agens te noemen
+  aanwezigheid adverbiaal complement
+  veel minder regelmatig: absoluut niet zomaar bij 
+elk handelingswerkwoord mogelijk  
+2Medialis
+ Variant met loos subject:
+  Het schrijft aangenaam met die pen.
+  Het zit lekker in die stoel. 
+  Het danst heel prettig zonder jou, Marco.  
+3Bijzondere 
+moeilijkheden 
+II:
+Meer over 
+objecten
+4Thema’s
+   Indirect objecten 
+  Meer over DO vs. Meemakend voorwerp
+  Een bijkomende subcategorie: Oordelend voorwerp 
+  De possessieve datief (en de ethische datief)
+  Objecten bij een complex predikaat
+5Twee vergelijkbare klassen
+  Affecteerwerkwoorden zoals overkomen, ontgaan, 
+gebeuren, enz. krijgen een meemakend voorwerp:
+  Er overkwam Karen een bizar ongeluk.
+  Het juiste antwoord was de docent even ontgaan.
+  Impressiewerkwoorden zoals verbazen, 
+verwonderen, spijten, enz. krijgen een direct object:
+  De uitkomst van de test verbaasde Els.
+  Dat moeilijke examen zal de docent later spijten.
+  In beide gevallen noemt het object een typisch 
+menselijke referent die door de situatie “gevat” wordt     
+6Verschillend gedrag
+Affecteerww’s met  Impressieww’s met direct 
+meemakend voorwerp object
+Omschreven  • Er is aan Karen een  • * De uitkomst verbaasde aan 
+vorm met aan? ongeluk overkomen. Els.
+• het ontgaan van het juiste  • * het spijten van het examen 
+antwoord aan de docent aan de docent
+Voltooide tijd? • Er is aan Karen een  • De uitkomst heeft hem 
+ongeluk overkomen. verbaasd.
+• Het juiste antwoord is hem  • Het examen heeft haar 
+ontgaan. gespeten. 
+Perspectief- • * Ze was overkomen door  • Hij had/voelde spijt over het 
+omkering met  het ongeluk. examen.
+hebben/voelen  • * Hij had/voelde  • Ze was verbaasd over de 
+of met zijn +  ontgankenis over het  uitkomst.
+VD?  antwoord.  
+7Oordelend voorwerp
+   IO dat de beoordelende instantie noemt: 
+  bij schijnbare koppelwerkwoorden:
+  Hij lijkt mij een geschikte kerel.
+   Hij lijkt mij zijn laatste kans verspeeld te hebben.
+  Dat dunkte de commissaris een wijze beslissing. 
+  in zinnen met een gezegde dat aan een norm 
+refereert
+  Die soep is mij te zout.
+  Een eenvoudig excuus zou hem voldoende zijn. 
+8Oordelend voorwerp
+  kan subject worden in een parafrase met vinden
+  omschreven vorm met voor (niet in elk geval 
+mogelijk)
+9Possessieve datief
+   IO dat de eigenaar noemt van een lichaamsdeel of 
+kledingstuk dat elders in de zin wordt genoemd
+   Meestal: in een voorzetselconstituent
+De hooligan gooide de agent een bierglas 
+in het gezicht. 
+De tranen stonden haar in de ogen.
+Minder gewoon: in een nominale constituent als direct 
+object
+Hij sloeg zijn tegenstander de schedel in.
+ 
+10Possessieve datief
+   dikwijls is een parafrase met een bezittelijk vnw of 
+van-Ct als zinsdeelstuk mogelijk:
+De hooligan gooide een bierglas in het gezicht van de 
+agent.
+De tranen stonden in haar ogen.
+Hij sloeg de schedel van zijn tegenstander in.
+  in de prepositionele variant krijgt de possessieve 
+datief het vz bij:
+Hij gooide bij de agent een bierglas in het gezicht.
+De tranen stonden bij haar in de ogen.
+11Possessieve datief
+   Geen vijfde type, maar een speciaal geval van MV 
+en MmV:
+De hooligan gooide de agent een bierglas 
+in het gezicht. = MV + possessieve datief
+De tranen stonden haar in de ogen.
+= MmV + possessieve datief
+12Possessieve datief
+   Vaak krijgt de combinatie van ww + complement 
+een figuurlijke betekenis: vervanging door een 
+bezittelijk vnw of van-constituent heeft dan een 
+vreemd effect
+Ze wierpen hem allerlei misdrijven voor de 
+voeten.
+Hij speldt de oppositie vanalles op de mouw.
+ In zulke gevallen kan de combinatie van werkwoord 
+en voorzetselconstituent als een vaste uitdrukking 
+worden beschouwd: analyse als ZR   
+13Possessieve datief
+   Maar zie:
+De clown gooide de acrobaat een 
+bananenschil voor de voeten.
+De scoutsleider speldde alle welpen een lintje 
+  op de mouw. 
+14“Ethische datief”
+   Bijzonder gebruik van het persoonlijk vnw me om 
+schakering te bewerken:
+  Ze ging me daar een gang, zeg. 
+  Dat was me het feestje wel.
+  Hij gaf me de agent daar een klap voor zijn kop. 
+  Geen object, maar zinsmodificeerder
+15“Ethische datief ”
+Uit component Tweets van SoNaR-corpus:
+  Die Keith Bakker zit me een partij zijn carriere naar de 
+haaien te  helpen op Nederland 1, hee .. Oei oei oei . 
+   Ooh ... Wat een baaldag vandaag ! Alles wat mis kan gaan, 
+, gaat mis en dan komen mensen ook nog eens met lastige 
+vragen waar je niets mee wil Zo, ben ik me een 
+partij chagrijnig ! 
+   Pffff . Dat gaat me een partij gezeik worden ... Maar als 
+het moet dan moet het @Mirtt Verzonden ;) @
+16Complexe predikaten
+   een copulatief gezegde kan “zelf” een object 
+oproepen: kww + gezegde vormen “complex 
+predikaat” met eigen valentieschema
+De zanger was plots zijn zelfvertrouwen kwijt.
+Ik word jouw fratsen stilaan zat.
+Ik raak die vette kost beu.
+Witse was de dader al meteen op het spoor.
+Ik ben heel wat van plan.
+Boonen bleek de situatie meester.
+=  de afzonderlijke categorie OORZAKELIJK 
+OBJECT
+17Herkenningsproeven OO 
+Weglatingsproef: weglating van het OO resulteert 
+1)
+in 
+  ongrammaticaliteit:
+ * Ik ben beu, * Witse was op het spoor
+  betekenisverschil: 
+Ik word stilaan zat, Boonen bleek meester. 
+Attributiveringsproef: gezegde met een OO is niet 
+2)
+attributief te gebruiken
+* de jouw fratsen zatte leraar, * de zijn zelfvertrouwen 
+kwijte zanger, …
+18Herkenningsproeven OO 
+Nominalisering: OO verschijnt met van
+3)
+het beu zijn van die vette kost
+het op het spoor zijn van de dader
+het meester zijn van de situatie
+19VzO bij een complex 
+predikaat
+  Sommige complexe predikaten krijgen 
+een object met een vast voorzetsel: 
+    Youri is verzot op artisanale streekbieren.
+  De Vlaming is veel te gehecht aan zijn auto.
+  Hij was duidelijk gebrand op persoonlijk 
+  succes.
+= VOORZETSELOBJECT 
+Zie ook nog:
+ Ik heb een hekel aan de Mexicaanse keuken.
+ Hij heeft een zwak voor blitse schoenen.    
+20IO bij een complex 
+predikaat
+  Ook een IO bij een complex predikaat 
+is mogelijk:
+  De reden is (aan) mijn ouders bekend.
+  Hij blijft (aan) zijn idealen trouw.     
+  = Meemakend voorwerp 
+ Die soep is (voor) mij te zout.   
+ Een excuus is (voor) hem voldoende. 
+   = Oordelend voorwerp
+21

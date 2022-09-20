@@ -1,0 +1,775 @@
+﻿Hoofdstuk III  De Chemische Binding
+
+
+1	Inleiding
+
+Op het einde van vorig hoofdstuk hebben we aangetoond dat sommige atomen een stabiele en andere een minder stabiele elektronenconfiguratie bezitten. Deze stabiliteit heeft grotendeels te maken met een bolsymmetrische elektronenverdeling op de buitenste schil of een maximale spreiding van de elektronen binnen het volume van de elektronenwolk. Aldus konden we besluiten dat atomen met half maar vooral met volledig gevulde p- of d-orbitalen stabieler zijn dan atomen zonder dit voorrecht .
+
+De meest stabiele configuratie is diegene waarbij het buitenste s- en p-niveau bezet zijn met samen 8 elektronen (octetconfiguratie). De elementen die hieraan voldoen (de edelgassen) zijn in die mate stabiel dat ze in normale omstandigheden van druk en temperatuur voorkomen als mono-atomische ideale gassen. Alle andere elementen (met uitzondering van het element Hg) zijn bij deze omstandigheden onvoldoende stabiel waardoor we ze niet aantreffen als vrije atomen maar wel als verbindingen met soortgenoten of met andere atomen. Het vormen van moleculen of andere chemische vormen is het gevolg van het streven van de elementen naar een maximale stabiliteit waarbij ze hun elektronentekort of elektronenoverschot trachten weg te werken. 
+
+In wat volgt zullen we een aantal modellen beschrijven die een verklaring bieden voor de manier waarop elementen zich met elkaar verbinden tot grotere chemische structuren. We voegen er opnieuw onmiddellijk aan toe dat geen enkel model ‘alles’ kan verklaren maar dat de verschillende modellen wel een bevredigende uitleg kunnen bieden voor de diverse chemische vormen waarin materie wordt waargenomen met hun eigenschappen.
+
+Bekijken we de elektronenconfiguratie van de elementen Li, Na, K, Rb en Cs (behorende tot de IA-groep). Ze bezitten 1 (eenzaam) elektron op het buitenste s-niveau. Het weghalen van dit elektron zou voor het resterende ion (Li+, Na+, K+, enz.) een nieuwe buitenste schaal opleveren die de octetconfiguratie bezit. Hoewel het wegnemen van een elektron geen evidentie is (het kost veel energie), kunnen deze elementen toch overwegen om zich te laten ioniseren. In omstandigheden waarbij de te investeren energie voorhanden is (zie verder), zullen deze atomen dan ook de noodzakelijke stap zetten.
+
+De elementen Be, Mg, Ca, Sr en Ba (IIA-groep) bezitten 2 elektronen op het buitenste s-niveau. Het weghalen ervan resulteert opnieuw in een octetstructuur voor het resterende ion (Be2+, Mg2+, enz.). Hoewel het tweemaal ioniseren bijzonder veel inspanning vraagt, kunnen zich toch situaties voordoen waarbij dit energetisch verantwoord is. 
+
+De vorming van driewaardige ionen is op enkele uitzonderingen na (b.v. Al3+) bijna onbegonnen werk omwille van de te hoge energetische investeringen. De vorming van vierwaardige ionen en hoger zijn totaal onmogelijk. De manier waarop deze elementen erin slagen om verbindingen te vormen, wordt verder besproken.
+In plaats van elektronen af te staan tot het bekomen van de octetstructuur, is het voor de elementen van groep VIIA beter om een extra elektron op te nemen ter vervollediging van de buitenste schil en tot vorming van negatieve ionen (F-, Cl-, Br-, I-). Dit uit zich door een grote waarde voor de elektronegativiteit van deze elementen. Het opnemen van 2 extra elektronen door de elementen van groep VIA is in sommige omstandigheden ook nog verantwoord (S2-). Het supplementair opnemen van 3 of meer elektronen is opnieuw een onbegonnen zaak.
+
+In de volgende paragrafen zullen we een beschrijving geven voor de vorming van verbindingen op basis van ionen (indien energetisch verantwoord) of volgens een ander concept (covalente binding). We willen er hier reeds de aandacht op vestigen dat het begrip oxidatietrap of valentie niet noodzakelijk te maken heeft met de vorming van ionen.
+
+
+2	De ionaire binding
+
+Nemen we als voorbeeld de verbinding NaCl. Dit is bij normale omstandigheden een vaste kristallijne stof bestaande uit de elementen Na (met relatief lage ionisatie-energie) en Cl (hoge elektronenaffiniteit). 
+Het ioniseren van Na levert een Na+-ion
+
+
+Na						of	1s2  2s2  2p6  3s1
+
+Na+						of	1s2  2s2  2p6  
+
+
+Het hierbij vrijgemaakte elektron kan worden opgenomen door Cl tot vorming van Cl-
+
+
+Cl								of	1s2  2s2  2p6  3s2  3p5
+
+Cl-								of	1s2  2s2  2p6  3s2  3p6
+
+
+Beide ionen bezitten aldus de octetconfiguratie. Door hun tegengestelde lading trekken ze elkaar elektrostatisch aan. Op die manier zouden we neutrale NaCl-moleculen kunnen bouwen. De vermindering in potentiële energie die op die wijze zou tot stand komen, is evenredig met
+
+
+
+
+
+Bij de vorming van 2 afzonderlijke moleculen NaCl winnen we dus 2 keer dit energiebedrag Eaantr.
+
+Dit is evenwel niet wat in werkelijkheid optreedt. Wanneer 2 Na+-ionen zich zouden combineren met 2 Cl--ionen, bekomen we een grotere vermindering in potentiële energie dan voor de vorming van eenvoudige ionenparen (telkens 1 Na+ met 1 Cl-). We winnen in dit geval 4 keer Eaantr (zie figuur).
+
+We moeten echter ook rekening houden met de afstoting tussen de positieve ladingen onderling evenals tussen de negatieve ladingen. De potentiële energietoename die hiermee gepaard gaat, bedraagt per afstotende interactie
+
+
+
+Deze afstoting komt 2 keer voor (zie figuur).
+
+Voor een groep Na2Cl2 bedraagt het netto resultaat
+
+
+Dit betekent dat deze configuratie een bedrag  0,586 q2/r stabieler is dan 2 afzonderlijke moleculen. Een nog grotere stabiliteit wordt bekomen door het samennemen van nog meer individuele ionen. Op die manier bouwt zich een roosterstructuur op. In het geval van NaCl is in dit rooster elke Na+ omgeven door 6 Cl- en is elke Cl- omgeven door 6 Na+ (figuur zie verder). De eenheidscel van dergelijk rooster is een kubus. Dit bekomen we door Na+ (of Cl-) in het middelpunt van een kubus te plaatsen en 6 Cl- (of 6 Na+) in de middelpunten van de 6 vlakken.
+
+Op die manier zien we in dat NaCl wordt opgebouwd door het samenbrengen van een groot aantal Na+- en een even groot aantal Cl--ionen. De hoeveelheid energie die vrijkomt bij het samenbrengen van 1 mol van elk van deze gasvormige ionen in een kristalstructuur noemen we de roosterenergie.
+
+Laten we in een gedachtenexperiment (denk hiervoor aan de opmerkingen die werden gemaakt in hoofdstuk I i.v.m. thermochemische aspecten van reacties) 1 mol NaCl(v) vormen door reactie van 1 mol natriummetaal (Na(v)) en een halve mol chloorgas (Cl2 (g)) en deze omzetting opsplitsen in een aantal deelreacties
+
+	Na(v)	  	Na(g)					Hsublimatie = 108 kJ.mol-1
+
+
+	Cl2 (g)	  	2 Cl(g)					Hdissociatie = 243 kJ.mol-1
+
+	½ Cl2 (g)		Cl(g)				H = 121,5 kJ
+	
+
+	Na(g)	  	Na+(g)	   +	e-			Hionisatie = 496 kJ.mol-1
+
+	Cl(g)	  +	e-		Cl-(g)			Helek.aff. = -349 kJ.mol-1
+
+
+	Na+(g)	   +	Cl-(g)		NaCl(v)		Hrooster = -788 kJ.mol-1
+
+
+De som van deze deelreacties geeft ons de totaalreactie. Door dezelfde sommering  te maken voor de verschillende H-waarden, bekomen we de vormingsenthalpie van NaCl(v)
+
+
+	Na(v)	  +	½ Cl2 (g)		NaCl(v)	Hvorming = - 411 kJ.mol-1	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hieruit blijkt dat de grote energiestabilisatie bij de vorming van een kristalrooster de voorafgaande investering van de ionisatie-energie van Na ruim verantwoordt.
+
+In het kristalrooster van CsCl is elke Cs+ omringd door 8 Cl- en omgekeerd. Dit zorgt voor een nog grotere stabilisatie dan voor het geval van NaCl. De omringingsgraad (6-omringing, 8-omringing e.a.) is afhankelijk van de straalverhouding.
+
+Bij een straalverhouding 1 passen rond een bol ruimtelijk precies 12 gelijke bollen (6 in dezelfde laag, 3 in een laag eronder en 3 in een laag erboven). Deze omringing wordt de dichtste bolstapeling genoemd.
+
+De straal van een anion is doorgaans heel wat groter dan de straal van een kation waardoor een 12-omringing voor ionaire verbindingen niet voorkomt. Bij ongunstiger straalverhoudingen krijgen we typische roosterstructuren met 8-omringing (CsCl), 6-omringing (NaCl) of lager.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+We zullen niet ingaan op andere mogelijke kristalroosters. We vestigen wel de aandacht op een belangrijk chemisch kenmerk dat alle ionaire verbindingen gemeen hebben, nl. dat ze voorkomen bij normale omstandigheden als kristallijne vaste stoffen en zijn samengesteld uit een afwisseling van negatieve en positieve ionen. Meestal gaat het om eenwaardige ionen van de VIIA en de IA groep. Ook tweewaardige ionen zijn mogelijk (VIA en IIA groep). 
+
+We hebben reeds gewezen op het feit dat de vorming van driewaardige positieve of negatieve ionen energetisch zeer moeilijk is. Verbindingen waarin de atomen hogere oxidatietrappen aannemen, zullen we beschrijven via andere bindingsmodellen (zie verder).
+3	De covalente binding
+3.1	Valentiebindingstheorie
+3.1.1	Elektronenpaarbinding volgens Lewis
+
+Waterstofgas bij normale omstandigheden bestaat uit di-atomische moleculen H2. Er bestaat geen enkele reden om aan te nemen dat deze moleculen zouden zijn opgebouwd uit een H+ en een H--ion. Waarom zou het ene H-atoom een elektron afstaan en het andere gelijkwaardige H-atoom een elektron opnemen. Nochtans proberen beide atomen om de elektronenconfiguratie van hun buitenste schil (in dit geval het 1s-orbitaal) te vervolledigen. Dit wordt mogelijk wanneer beide atomen een elektronenpaar onderling delen.
+
+In deze paragraaf zullen we voorlopig geen rekening houden met de geometrische vorm en de ruimtelijke spreiding van de orbitalen uit vorig hoofdstuk. De bedoeling is om in eerste instantie een heel eenvoudig model te creëren dat bruikbaar is om de formules van enkele eenvoudige moleculen te verklaren. In volgende paragraaf zullen we de ruimtelijke gerichtheid van de orbitalen wel respecteren en een fijner model opstellen. We zullen ons voorlopig beperken tot twee belangrijke principes waaraan atomen in moleculen dienen te voldoen.
+
+
+Elektronen in moleculen komen voor als elektronenparen
+
+In moleculen heeft elk atoom 8 elektronen (2 voor H) op de buitenste schil
+(valentie-elektronen)
+
+
+
+
+Het maakt niet uit of deze elektronen oorspronkelijk tot een bepaald atoom behoorden, doch wel afkomstig zijn van een ander atoom dat een binding met dat bepaalde atoom heeft aangegaan. Daarom stellen we de elektronen eenvoudig voor door  en een elektronenpaar door .
+
+Voor de molecule H2 bekomen we
+
+
+						 
+
+Elk van de 2 waterstofatomen heeft 2 elektronen rond zich en samen delen ze een bindend elektronenpaar. 
+
+
+In deze configuratie zijn er zowel aantrekkende als afstotende wisselwerkingen. Elk van de twee H-kernen oefent een aantrekking uit op elk van de twee elektronen. De aantrekkende wisselwerkingen leveren een potentïele energieterm die omgekeerd evenredig is met de afstand tussen de atomen. Wanneer de atomen elkaar te dicht naderen, stoten ze elkaar opnieuw af. Zonder verder in te gaan op de details van deze afstoting zullen we aannemen dat de betrokken energieterm op een andere manier afhangt van de afstand.
+
+		
+
+De totale potentiële energie van een dergelijk systeem is de som van de twee bijdragen. In de volgende figuur is de potentiële energie van 2 tot elkaar naderende atomen voorgesteld in functie van hun onderlinge afstand r. Het minimum in de curve bevindt zich bij de werkelijke bindingsafstand.
+
+
+
+
+
+Voor de molecule F2 bekomen we
+
+
+
+
+
+
+
+
+Elk van de F-atomen bezit 8 elektronen. De elektronen van de binnenste schalen worden niet voorgesteld gezien ze niet in aanmerking komen voor chemische bindingen. 
+Het maakt niet uit of de elektronen uitsluitend aan 1 atoom toehoren (vrij elektronenpaar) dan wel gedeeld worden tussen 2 atomen (bindend elektronenpaar). We respecteren enkel de vooropgestelde regels: geen ongepaarde elektronen achterlaten  en aan elk atoom de octetstructuur toekennen.
+De elektronenverdeling voor een groot aantal eenvoudige moleculen kan op deze wijze verklaard worden. Voor de eenvoud van notatie stellen we een elektronenpaar niet meer voor door () maar door (-). Deze voorstelling van moleculen wordt de Lewis-notatie genoemd.
+
+Hieronder worden een aantal verbindingen in Lewis-notatie voorgesteld. Elk van de atomen in deze formules (met uitzondering van het element H) heeft 8 elektronen.
+
+
+
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+In de molecule O2 had ieder zuurstofatoom oorspronkelijk 6 elektronen op de buitenste schil. Opdat elk van de atomen de octetstructuur zou bekomen, dienen ze 4 elektronen te delen (2 bindende elektronenparen). De molecule O2 heeft zodoende een dubbele binding. In de molecule N2 bekomen we zelfs een drievoudige binding.
+
+
+
+
+
+Er bestaan een groot aantal moleculen waarin dubbele en drievoudige bindingen voorkomen. Viervoudige bindingen zijn niet mogelijk.
+
+
+
+
+
+
+
+
+
+
+Voor sommige moleculen en poly-atomische ionen waarbij meerdere atomen binden op een centraal atoom is het vaak moeilijker om de Lewis-structuur rechtstreeks te tekenen. Daarom formuleren we enkele hulpregels. Nemen we als voorbeeld het carbonaat-ion CO32-.
+
+We tellen het aantal valentie-elektronen van elk van de deelnemende atomen
+
+	Voor C :	4 e-
+	Voor O :	6 e-  x  3  =  18 e-
+
+In het geval het gaat over een negatief ion tellen we bij het totaal aantal valentie-elektronen ook het aantal negatieve ladingen. Voor een positief ion trekken we van het totaal aantal valentie-elektronen evenveel positieve ladingen af.
+In dit voorbeeld wordt dit 4 + 18 + 2 = 24 e-
+
+Om elk van de 4 atomen (1 keer C en 3 keer O) 8 elektronen te bezorgen, zijn er in totaal 32 elektronen nodig. Gezien er slechts 24 voorhanden zijn, dienen er 32 – 24 elektronen gemeenschappelijk te worden gedeeld. Dit levert 4 bindende elektronenparen. Om de 3 O-atomen aan het centrale C-atoom te binden volstaan 3 bindende elektronenparen. Het 4de bindende elektronenpaar plaatsen we dan maar tussen het centrale C-atoom en een willekeurig gekozen O-atoom waarbij een dubbele binding optreedt.
+
+
+
+
+
+
+
+Van de 24 beschikbare elektronen zijn er intussen 8 elektronen gebruikt en blijven er nog 24 – 8 = 16 over. Die worden verdeeld als vrije elektronenparen teneinde aan elk van de atomen 8 elektronen te geven.
+
+
+
+
+
+
+
+Alle atomen bezitten de octetconfiguratie. We kunnen ons de vraag stellen waar de extra elektronen van het ion zich bevinden. Later zullen we aantonen dat deze lading in feite verdeeld is over het ganse ion. In het huidige eenvoudige Lewis-model zullen we aan elk van de atomen evenwel een formele lading toekennen.
+We berekenen de formele lading op de volgende manier
+
+
+	aantal oorspronkelijke valentie-elektronen van het atoom
+min	de helft van het aantal gedeelde elektronen rond dit atoom
+min	het aantal niet gedeelde elektronen rond dit atoom
+
+Aldus bekomen we voor C : 	4 – 8/2 =	0
+Voor de dubbel gebonden O :	6 – 4/2 – 4 = 0
+Voor de enkel gebonden O :	6 – 2/2 – 6 =	-1
+
+We plaatsen bij de enkelvoudig gebonden O-atomen de formele lading -1 en vermelden dat het volledige ion een lading (-2) bezit
+
+
+
+
+
+
+
+
+
+Op analoge wijze bekomen we voor de ionen NO2-, SnO32- en SiO44- de volgende Lewis-notaties
+
+
+
+
+
+
+
+
+
+
+
+3.1.2   Elektronenpaarbinding volgens de golfmechanica
+3.1.2.1  De sigma () binding
+
+In vorige paragraaf hebben we voor het vormen van bindingen enkel belang gehecht aan het aantal valentie-elektronen van ieder atoom waarbij we een aantal vooropgestelde regels hebben gerespecteerd. We zullen in wat volgt deze regels blijven respecteren. Op die manier werden aan elk atoom 8 elektronen (gedeeld of niet gedeeld) toegewezen zonder rekening te houden met hun oorspronkelijke ruimtelijke oriëntatie in de samenstellende atomen zoals voorgeschreven door de golfmechanische principes (zie vorig hoofdstuk). Een covalente binding maakt dus in eerste instantie (zoals in vorige paragraaf besproken) gebruik van orbitalen met een ongepaard elektron tot vorming van bindende elektronenparen.
+
+We zullen in wat volgt wel degelijk rekening houden met de ruimtelijke vorm van de orbitalen en maken hierbij de volgende overwegingen. De kans dat twee atomen een gemeenschappelijk bindend elektronenpaar vormen, is het grootst wanneer de orbitalen bij het tot elkaar naderen van de atomen, het sterkst kunnen overlappen. De waarschijnlijkheid om een bindend elektronenpaar aan te treffen, is dan het grootst op die plaatsen waar de individuele elektronen zelf met een grote waarschijnlijkheid aanwezig zijn (hoge elektronendensiteit).
+
+We nemen het voorbeeld van 2 waterstofatomen die tot elkaar naderen. Het elektron van elk H-atoom bevindt zich in een 1s-orbitaal met een bolsymmetrische elektronenverdeling. Bij voldoende nadering overlappen de individuele orbitalen waarbij een ruimtelijk gebied ontstaat waarin de 2 elektronen een grote kans maken om gezamenlijk aanwezig te zijn.
+
+
+
+
+
+
+
+Gezien de elektronendichtheid in de 2 afzonderlijke H-atomen in alle richtingen dezelfde is, kunnen deze atomen in willekeurige richtingen tot elkaar naderen waarbij iedere keer opnieuw hetzelfde resultaat wordt bereikt. De binding gebeurt weliswaar volgens een bepaalde bindingsas en daarom noemen we een dergelijk type van binding een -binding. Meer concreet in dit geval noteren we
+
+	
+
+Een F-atoom heeft een ongepaard elektron op een 2pz-orbitaal. Daarnaast zijn er ook nog 2 andere orbitalen (2px en 2py) met een volledig elektronenpaar. Deze laatste orbitalen zijn reeds bezet met 2 elektronen en hoeven dus geen binding aan te gaan. Het half bezette orbitaal kan het elektronentekort aanvullen door een binding aan te gaan met een ander F-atoom. 
+
+Het maakt in feite niet uit welk orbitaal een ongepaard elektron en welke orbitalen een elektronenpaar bevatten. We kunnen evengoed het ongepaarde elektron op 2px of 2py plaatsen. Voor de eenvormigheid en zoals verder duidelijker zal blijken, kiezen we het pz-orbitaal voor het vormen van een eerste binding. We hoeven daarom niet noodzakelijk een notatie (x, y of z) te plaatsen bij elke as want in bepaalde gevallen zullen we zelfs de oriëntatie van de assen verwisselen.
+
+Bij het naderen van 2 F-atomen kan een voldoende overlap pas gebeuren wanneer de p-orbitalen van ieder F-atoom (met daarin het ongepaarde elektron) zich ten opzichte van elkaar oriënteren zoals in de volgende figuur
+
+
+
+
+Ook deze manier van overlappen noemen we een -binding maar dit keer gevormd tussen 2 p-orbitalen
+
+
+
+Bij het combineren van een H-atoom met een F-atoom ter vorming van de molecule HF bekomen we 
+	
+
+
+
+
+Het maakt niet uit of de binding wordt gevormd tussen gelijksoortige of ongelijksoortige orbitalen dan wel of de orbitalen afkomstig zijn van identieke of verschillende atomen. De bovenstaande voorbeelden (-bindingen) hebben als gemeenschappelijk kenmerk
+
+
+
+
+	
+
+Atomen met meerdere ongepaarde elektronen hoeven zich niet te beperken tot een enkele binding. De elementen zuurstof en stikstof hebben respectievelijk 2 en 3 ongepaarde elektronen en kunnen dus evenveel -bindingen aangaan. Hierbij dient de ruimtelijke oriëntatie van de p-orbitalen evenwel te worden gerespecteerd. Hou er rekening mee dat (voorlopig) enkel de orbitalen met ongepaarde elektronen worden getekend.
+
+Voor de moleculen H2O en NH3 bekomen we
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3.1.2.2 De pi (π) binding
+
+Bij de bespreking van de eenvoudige Lewis-beschrijving werd in de molecule O2 een dubbele binding geplaatst tussen de twee O-atomen ter volmaking van hun octetstructuur. Wanneer we opnieuw de ruimtelijke gerichtheid van de orbitalen wensen te respecteren, dan moeten de twee O-atomen tot elkaar naderen op een manier zoals voorgesteld in de volgende figuur. Hierbij wordt in eerste instantie een σ-binding gevormd.
+
+
+
+
+De twee andere orbitalen met een nog ongepaard elektron (1 voor elk O-atoom) hebben niet meer de mogelijkheid om op een gelijkaardige wijze te overlappen. De eerste binding heeft het voor deze orbitalen onmogelijk gemaakt om nog een tweede binding te vormen met dezelfde configuratie als de eerste. Wensen de O-atomen toch nog een tweede binding te vormen, dan dienen de atomen dichter tot elkaar te naderen zodat vooralsnog een overlap ontstaat maar dan op een totaal andere wijze als de eerste.
+
+
+
+
+
+Dit type van overlap noemen we een π-binding en wordt gekenmerkt door
+
+
+
+
+
+
+Voor de drievoudige binding in de molecule N2 hebben we naast een σ-overlap nog twee bijkomende π-bindingen nodig. Om de figuur duidelijk te houden zijn de pz-orbitalen (langsheen de bindingsas) en dus ook de σ-binding weggelaten.
+
+
+
+
+
+We onthouden voor later dat een 1ste binding tussen 2 atomen steeds σ-karakter heeft en een 2de en eventueel 3de binding steeds π-karakter. In volgende paragrafen zullen we dit bindingsmodel nog verder verfijnen doch het principe van σ- en π-bindingen laat toe om samen met later volgende modellen inzicht te verschaffen in ruimtelijke structuren van moleculen.
+3.1.3 De datieve binding
+
+Bij de aanvang van deze paragraaf willen we er nogmaals op wijzen dat geen enkele van de reeds besproken bindingsmodellen evenals de theorieën die nog zullen volgen, in staat zijn om een alomvattende verklaring te bieden voor de stoechiometrische opbouw en de structuur van elke willekeurige verbinding. De verklaring is evenwel des te eenvoudiger naarmate de molecule eenvoudig blijft. De voorgaande modellen lieten toe om de structuur van de meest eenvoudige verbindingen te verklaren. De basisprincipes die we uit vorige paragrafen hebben onthouden, zullen we verder blijven hanteren bij meer complexer situaties maar noodgedwongen dienen fijnere beschrijvingen te worden ingevoerd en soms zal moeten worden afgeweken van de gestelde basisregels. Om die reden dient de volledige bespreking van de covalente binding te worden gezien als een globaal model dat groeit vanuit een eenvoudig stramien naar een complexer geheel.
+
+De stoechiometrie van het nitraation (NO3-) kan met het model van Lewis niet worden verklaard. Dit kan wel voor het nitrietion (NO2-) (zie ook eerder). Voor het 3de O-atoom is er voorlopig geen mogelijkheid tot binden op het centrale stikstofatoom want de drie ongepaarde elektronen van N zijn reeds opgebruikt voor het 1ste  (via 1 σ-binding) en het 2de zuurstofatoom (via 1 σ-binding en 1π-binding).
+
+
+
+
+
+
+
+
+
+Het stikstofatoom beschikt evenwel nog over een vrij elektronenpaar. Dit elektronenpaar kan, indien nodig, integraal gebruikt worden om een binding aan te gaan met het 3de zuurstofatoom dat hiertoe zelf een leeg orbitaal creëert door de eigen elektronenconfiguratie te herschikken (zie figuur). Tussen de volledig gevulde orbitaal van N en de ledige orbitaal van O kan op die manier een σ-binding tot stand komen.
+
+Deze nieuwe bindingswijze, zullen we voorstellen door een pijl te tekenen van het elektronenpaar van N naar O en we noemen deze binding een datieve σ-binding
+
+
+
+
+
+
+
+
+
+
+
+Het herschikken van de elektronen bij zuurstof is verantwoord doordat op die manier een bijkomende binding kan worden gevormd en deze datieve binding is volkomen gelijkwaardig aan een gewone covalente binding.
+In dit verband is het toepasselijk om het begrip oxidatietrap bij covalente bindingen te omschrijven. Bij ionaire bindingen (paragraaf 2) is de oxidatiegraad van elk element gelijk aan het aantal positieve of negatieve ladingen van de gevormde ionen.
+
+NaCl		oxidatietrap van Na+	=	+1
+		oxidatietrap van Cl-		=	-1
+
+CaF2		oxidatietrap van Ca2+	=	+2
+		oxidatietrap van F-		=	-1
+
+Bij covalente bindingen worden geen ionen gevormd. Wanneer het gaat om een covalente binding tussen gelijksoortige atomen (H2, N2, O2) kennen we aan elk atoom een oxidatietrap 0 toe. Bij bindingen tussen ongelijksoortige atomen krijgt het meest elektronegatieve element een negatieve oxidatietrap, het minst elektronegatieve element de positieve oxidatietrap
+
+H2O		oxidatietrap van zuurstof	=	-II
+		oxidatietrap van waterstof	=	+I
+
+We gebruiken Romeinse cijfers om duidelijk aan te geven dat hier geen ionen worden gevormd. De elektronen worden gemeenschappelijk gedeeld zonder te worden afgestaan of opgenomen. Verder in dit hoofdstuk bij de bespreking van het begrip ‘dipoolmoment’ wordt hierop teruggekomen.
+
+Indien een atoom meerdere bindingen aangaat in een molecule, is de totale oxidatietrap de som van de individuele oxidatietrappen uit elke afzonderlijke binding. Nemen we als voorbeeld opnieuw het reeds besproken nitraat-ion
+
+
+
+
+
+
+
+
+
+Zuurstofatoom 1 vormt een σ-binding gevolgd door een π-binding met stikstof. Dit geeft 2 keer (-I) of –II voor zuurstof (meest elektronegatief) en 2 keer (+I) of + II voor stikstof.
+Zuurstofatoom 2 vormt enkel een σ-binding, dus: +I voor stikstof en –I voor zuurstof. Gezien dit atoom ook het extra elektron is toegewezen (δ-1) wordt de totale oxidatietrap eveneens –II.
+Zuurstofatoom 3 is gebonden via een datieve binding. De bindende elektronen werden beide geleverd door stikstof dat hierdoor een oxidatietrap +II krijgt. De totale oxidatietrap voor stikstof bedraagt dus +V.
+Andere voorbeelden van datieve bindingen vinden we terug in b.v. het sulfaation, het fosfaation en het perchloraation
+
+
+
+
+
+
+
+
+
+
+3.2 Ruimtelijke structuren
+3.2.1 Valentieschil-elektronenpaar-repulsie-theorie (VSEPR)
+
+In vorige paragraaf hebben we bij de vorming van bindingen de oorspronkelijke ruimtelijke oriëntatie van de orbitalen in de atomen gerespecteerd. Gezien p-orbitalen onderling hoeken vormen van 90° zouden in H2O en in NH3 de waterstofatomen t.o.v. elkaar dus ook gebonden zijn volgens bindingshoeken van 90°.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dit is evenwel niet wat wordt waargenomen want in werkelijkheid bedraagt de bindingshoek tussen de 2 H-atomen in H2O ongeveer 105°. We kunnen dit verklaren door aan te nemen dat de bindende elektronenparen elkaar afstoten zodat ze verder van elkaar worden verwijderd en op die manier grotere bindingshoeken vormen. We zullen deze VSEPR toepassen a.d.h.v. een aantal voorbeelden en op die manier de ruimtelijke structuur van een aantal verbindingen verklaren.
+
+
+2 elektronenparen
+
+We nemen als voorbeeld de molecule CO2. Het 1ste O-atoom vormt een σ-binding met koolstof gevolgd door een π-binding. Het 2de O-atoom kan worden gebonden via een datieve binding met het resterende vrije elektronenpaar van koolstof.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+De bindende elektronenparen zullen elkaar het minst afstoten wanneer ze zich maximaal van elkaar verwijderen. We tellen in dit geval 3 bindende paren waarvan 2 in σ-configuratie en 1 in π-configuratie. We hebben reeds aangetoond dat een π-binding de geometrie van de voorafgaande σ-binding dient te volgen waardoor dit π-elektronenpaar niet in rekening wordt gebracht voor bijkomende afstoting. We houden dus enkel rekening met de σ-paren en dat zijn er in dit geval 2. De twee elektronenparen zullen mekaar het minst hinderen wanneer ze zich plaatsen t.o.v. elkaar onder een hoek van 180°. Als resultaat bekomen we een lineaire structuur voor CO2.
+
+3 elektronenparen
+
+Als voorbeeld nemen we opnieuw het nitraation en vormen de bindingen zoals in onderstaand schema.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bij het tellen van het aantal elektronenparen houden we opnieuw geen rekening met het π-elektronenpaar. De 3 σ-paren zullen elkaar het minst hinderen wanneer ze onderling hoeken innemen van 120°. We bekomen aldus een vlakke driehoekstructuur.
+
+In de moleculen SnCl2 en SO2 is telkens een vrij elektronenpaar aanwezig. In tegenstelling tot een π-elektronenpaar dient een vrij elektronenpaar wel in rekening te worden gebracht bij het bepalen van de structuur. De afstoting door een vrij elektronenpaar is zelfs in geringe mate groter dan die van een σ-paar doordat het zich iets dichter bij het centrale atoom bevindt. We bekomen aldus
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Op die manier worden moleculen bekomen in de vorm van een boemerang.
+
+4 elektronenparen
+
+Het volgende schema geeft de bindingen weer voor PO43-. Er zijn in dit geval 4 σ-elektronenparen. Deze 4 paren stoten elkaar het minst af wanneer ze zich oriënteren naar de hoekpunten van een tetraëder. Op die manier wordt een ruimtelijke structuur bekomen waarvan de tetraëderhoek 109,28° bedraagt.
+
+
+
+                                                                                              
+                                                                                         
+                                                                                              
+
+
+
+Op gelijkaardige wijze bekomen we voor SO42-
+
+
+
+
+                                                                                                
+
+                                                                                                   
+
+
+
+
+De moleculen NH3 en H2O hebben respectievelijk 1 en 2 vrije elektronenparen die eveneens een rol spelen bij de onderlinge afstoting. Op die manier wordt de hoek tussen 2 H-atomen in NH3  107° en in H2O 104,5°
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                      
+
+
+
+
+3.2.2 Hybridisatie
+3.2.2.1  sp-hybridisatie
+
+Nemen we als voorbeeld de molecule BeF2. Het Be-atoom heeft als elektronenconfiguratie 1s2, 2s2 en bevat geen ongepaarde elektronen. Er zijn dus in eerste instantie geen bindingsmogelijkheden voorhanden. Door het promoveren van een elektron van het 2s- naar het 2p-niveau worden wel twee bindingsmogelijkheden gecreëerd. De energie hiervoor nodig wordt ruimschoots gecompenseerd na het vormen van de twee bindingen met de F-atomen.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Gezien de ene binding tussen Be en F gevormd wordt via een s-elektron van Be en de andere binding via een p-elektron van Be, lijken beide bindingen niet gelijkwaardig. Er bestaat evenwel geen enkele reden om aan te nemen dat er twee verschillende bindingen zouden zijn. Daarom zal Be de twee te gebruiken elektronen vooraf energetisch gelijkwaardig maken. Dit verschijnsel noemen we hybridisatie en vindt zijn oorsprong in de golfmechanica. De wiskunde leert dat wanneer twee golffuncties oplossingen zijn van de schrodingervergelijking, iedere lineaire combinatie van beide eveneens een oplossing ervan is. We zullen ons niet bekommeren om de uitwerking van dit principe en enkel de resultaten vermelden. 
+
+
+
+
+
+
+
+
+         
+
+De molecule BeF2 is bijgevolg een lineaire molecule
+3.2.2.2 sp2-hybridisatie
+
+We nemen als voorbeeld de molecule BF3. Analoog zoals in vorig voorbeeld zijn er in het B-atoom in eerste instantie te weinig ongepaarde elektronen om 3 bindingen te vormen. Door het promoveren van een 2s-elektron naar het 2p-niveau worden de 3 bindingen wel mogelijk. Vooraleer bindingen aan te gaan met de F-atomen zullen de orbitalen van B eerst hybridiseren.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                              
+
+
+
+
+
+Het resultaat is een vlakke driehoekmolecule.
+
+
+3.2.2.3 sp3-hybridisatie
+
+Als voorbeeld nemen we de molecule CCl4 of CF4. Na promotie van een elektron en hybridisatie van de orbitalen bekomen we een tetraëdrische molecule.
+
+
+
+
+
+
+
+                                                            
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3.2.2.4 sp3d-hybridisatie
+
+We zouden ons de vraag kunnen stellen hoe een centraal atoom in een molecule weet welke hybridisatievorm het dient aan te nemen. Laten we er gerust van uit gaan dat een atoom of een molecule niet nadenkt en enkel tracht om de stabielst mogelijke toestand te bereiken. Laten we als algemene regel stellen dat hoe groter het aantal bindingen, hoe stabieler de molecule wordt. Wij wensen de stoechiometrie en de geometrische vorm ervan te verklaren en gebruiken daarom een aantal modellen die complexer worden naarmate de moleculen groter zijn. In de volgende voorbeelden zullen we zelfs afwijken van de octetregel die stelt dat een atoom streeft naar 8 elektronen rond zich in de buitenste schil (bindende of vrije elektronenparen). We zullen voorbeelden bespreken van moleculen met een centraal atoom met meer dan 8 elektronen. De aandachtige lezer zal ongetwijfeld reeds hebben opgemerkt dat in de eerder besproken moleculen BeF2 en BF3 zich minder dan 8 elektronen bevinden rond Be respectievelijk B (elektrondeficiente moleculen). De octetregel is niet echt een absolute noodzaak maar wordt wel in veel moleculen gerespecteerd.
+
+Voor de molecule PF5 volstaan het 3s en de drie 3p-orbitalen niet om 5 bindingen te maken. We zullen in dit geval de lege 3d-orbitalen aanspreken om voldoende bindingsmogelijkheden te creëren. De gebruikte principes zijn analoog als boven beschreven. Na promotie van een elektron worden de orbitalen energetisch gelijkwaardig door hybridisatie.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        
+
+
+Op analoge manier bekomen we de molecule SF4. Hier blijft een vrij elektronenpaar over bij het S-atoom. De plaats van dit paar is niet willekeurig gezien een vrij paar een iets grotere afstoting teweeg brengt dan een bindend paar. Een trigonale bi-piramide bezit een geringere symmetrie dan andere ruimtelijke structuren gezien niet alle bindingshoeken gelijk zijn (90° en 120°). Daarom neemt het plaats op de minst gehinderde positie, d.i. op een willekeurig hoekpunt van de basisdriehoek.
+
+
+          
+     
+
+
+
+
+Voor de moleculen ClF3 en XeF2 bekomen we
+
+
+          
+
+
+
+
+
+
+          
+
+
+
+3.2.2.5  sp3d2-hybridisatie
+
+Indien nodig kunnen 2 elektronen worden gepromoveerd naar het 3d-niveau. Op die manier ontstaan er 6 bindingsmogelijkheden. De 6 bindende elektronenparen ondergaan de minste afstoting wanneer ze zich richten naar de hoekpunten van een octaëder of de 6 orbitalen combineren volgens een sp3d2-hybridisatie. Als voorbeeld nemen we de moleculen SF6, BrF5 en XeF4.
+
+ 
+         
+  
+
+                
+
+
+
+
+                
+
+
+
+
+
+
+
+                
+
+
+
+

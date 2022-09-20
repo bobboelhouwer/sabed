@@ -1,0 +1,167 @@
+Nederlandse taalkunde I: TaalsysteemAcademiejaar 2020-2021
+1
+Wat niet?
+ Jan is groter als Els.
+		      dan  
+Prescriptieve grammatica: afleren van grammaticale “fouten”
+=  onderdeel van de        taalzorg
+ 	
+2
+Wat wel?
+ 	Descriptieve grammatica: 	verklaren waarom de 	ene zin grammaticaal is en de andere niet – door 	de regels te expliciteren
+	(1)	 a.	Bert wil nog twee pizza’s eten.	
+		 b.   * Willen nog eten twee pizza’s door Bert.	
+ 	Hoe zit de structuur van de Nederlandse zin in elkaar?
+ 
+3
+Wat wel?
+ 	Twee grote onderdelen in Taalsysteem I:
+	woordsoorten
+ 	syntaxis van de enkelvoudige zin – incl. 	interne structuur NC en VzC
+ 	Basisvak, biedt samen met ‘Nederlandse  	Taalkunde II: Taalsysteem’ een uitgebreide 	introductie tot de verschillende 	componenten van het Nederlandse 	taalsysteem (fonologie, woordleer, syntaxis)
+4
+Hoofddoelstellingen
+	De afzonderlijke woorden in een tekst kunnen 	benoemen naar hun woordsoort: werkwoord, 	zelfstandig naamwoord, adjectief, …
+ 	Inzicht hebben in de binnenbouw van de NC en  	VzC: kern, determinator, bepaling, ... 
+ 	Een enkelvoudige zin kunnen ontleden in 	zinsdelen en de functie daarvan benoemen: 	zinsrelator, subject, objecten, complementen, …
+			
+5
+Bijvoorbeeld
+	(2) De oude boer telt zijn ganzen.
+ 	Wat is de woordsoort van zijn?
+bepaald lidwoord
+zelfstandig naamwoord
+persoonlijk voornaamwoord
+bezittelijk voornaamwoord
+
+ 	Wat is de zinsdeelsfunctie van zijn ganzen?
+subject (= onderwerp)
+gezegde
+direct object (= lijdend voorwerp)
+meewerkend voorwerp  
+
+6
+Hoorcollege
+ maandagmiddag, 14.30 - 15.45 uur – zeker  	eerste 6 lesweken online
+ lesgever: 
+		prof.  dr. Timothy Colleman
+		timothy.colleman@UGent.be
+		lokaal 05.03.100.031, Blandijnberg 2			
+7
+Oefeningen
+ 	Sessies per groep op dinsdag of woensdag, on 	campus 
+les 1: introductie tot de woordsoorten – verloopt verder via zelfstudie
+vanaf les 2: oefeningen syntaxis 	
+  Lesgevers:	Arne Dhondt, dr. Roxane Vandenberghe
+  Veranderen van groep: enkel op gemotiveerd 	verzoek via e-	mail	 
+8
+Studiemateriaal
+ 	handboek: Willy Vandeweghe, Grammatica van 	de Nederlandse zin. Achtste, herziene druk, 2013 	examenstof: ALLES in hoofdstukken 1-13 tenzij 	uitdrukkelijk anders vermeld
+ 	slides: online na college
+  syllabus woordsoorten: Ufora
+  oefeningenbundels: Ufora  	
+
+9
+Programma
+
+10
+Programma
+
+11
+Programma
+
+12
+De zinsrelator
+  	Zinsontleding begint bij de identificatie van het 	zinswerkwoord – zinswerkwoord vormt samen met 	evt. hulpwerkwoorden (en evt. niet-	werkwoordelijke delen) de zinsrelator
+
+ (3) Uit vuig winstbejag heeft Jan gisteren de 			nieuwe auto van grootvader verkocht aan een 		rondreizende marktkramer met grote oren. 	   
+ (4) Na de strijd tegen de noormannen beleeft Johan de rode ridder in dit nieuwe verhaal een spannend avontuur met een magisch tintje.  
+13
+Het valentieprincipe
+  	Bv. beleven: iemand beleeft iets
+
+	(5)	  a.  Johan beleeft een avontuur.
+		* b.  Johan beleeft.
+		* c.  Johan beleeft Arthur een avontuur.	 	 
+  	Bv. blozen: iemand bloost  
+					 
+	(6)   a.  Peter bloost.
+		* b.  Peter bloost zijn wangen. 	   
+
+
+14
+Het valentieprincipe
+  	Het zinswerkwoord roept bepaalde aanvullingen/ 	medespelers op
+ 	blozen, slapen, bewegen, verdwijnen, … : roepen één 	 	medespeler op = monovalent
+ 	slaan, bekijken, twijfelen, … : roepen twee 	 			medespelers op = divalent
+ 	geven, afpakken, beschuldigen, … : roepen drie 	 		medespelers op = trivalent
+  Zie ook de verwante begrippen transitief, 			intransitief, ditransitief 
+
+	
+15
+Ingrepen in de valentie
+	Valentiereductie: bij sommige transitieve ww’s 	hoeft het direct object niet uitgedrukt te worden, 	het is dan geïmpliceerd
+		(7)	a. Karel rookt een dikke Havana.
+			b. Karel zit in de badkamer te roken.
+ 	Valentie-uitbreiding: aan sommige intransitieve 	ww’s kan een direct object worden toegevoegd dat 	een element van de werkwoordbetekenis nader 	preciseert (= “inwendig object”)
+		(8) 	Zij stierf een zachte dood.
+16
+Syntactische proeven
+	Weglaatbaarheid
+		In welk van de volgende zinnen is in Gent 			weglaatbaar?
+Els heeft in Gent een bushokje beschilderd.
+Katrien woont al zes jaar in Gent. 		
+ Vervangbaarheid
+		bv. Vervang de vetgedrukte zinsdelen in Eva 				heeft de brandweerman een stoel 				gegeven door het passende pers. vnw.
+		=> Zij heeft hem een stoel gegeven.     
+		
+17
+Syntactische proeven
+	Verplaatsbaarheid: in welke mate kan een  	zinsdeel verhuizen naar andere posities in de zin?
+ 	De zinspolen en de zinsvelden:
+		
+		
+18
+Syntactische proeven
+ 	Bijvoorbeeld: in welk van de onderstaande zinnen 	 	kan het vetgedrukte zinsdeel gemakkelijk naar 		het achterveld worden verplaatst (= 				“extrapositie”)?
+Bert heeft de eerste vraag al opgelost.
+Karel heeft mij van fraude beschuldigd.
+De betogers steken twee auto’s in brand.  	
+
+19
+De 1ZD-proef
+Een constituent die als zinsdeel fungeert, kan op de eerste zinsplaats (= in het voorveld) staan:
+	Vorige week heeft Jan uit vuig winstbejag de 	nieuwe auto van grootvader verkocht aan een 	marktkramer met grote oren.
+	Jan heeft vorige week…
+	De nieuwe auto van grootvader heeft Jan vorige 	week… 
+20
+De 1ZD-proef
+Met constituenten die als zinsdeelstuk fungeren, lukt dat niet:
+	* Met grote oren heeft Jan vorige week uit vuig 	winstbejag de nieuwe auto van grootvader 	verkocht aan een rondreizende marktkramer.
+Met reeksen van meerdere zinsdelen lukt dat ook niet: * De nieuwe auto van grootvader aan een rondreizende marktkramer met grote oren heeft Jan vorige week uit vuig winstbejag verkocht.
+
+21
+De 1ZD-proef: een complicatie
+Sommige “niet-prominente” zinsdelen kunnen niet op de eerste zinsplaats – maar zijn toch zinsdeel  	
+doffe objectsvormen van het pers vnw  	
+	   (9) Ze hebben je genoemd als kandidaat-voorzitter. 
+	 	   * Je hebben ze genoemd als kandidaat-voorzitter.
+bepaalde “zinsmodificeerders”, bv. de zinsnegator niet	
+	   (10) Ik heb de oplossing niet gevonden.
+	 	    * Niet heb ik de oplossing gevonden.
+  
+22
+Syntactische proeven
+Parafrase: de hele zin omzetten naar een andere structuur met +/- dezelfde betekenis
+ bv. passivering: Jan trakteert Els op een wafel => Els wordt door Jan op een wafel getrakteerd.
+ bv. nominalisering: De mysterieuze vreemdeling schonk de krijgsheer een galeislaaf 
+	   => het schenken van een galeislaaf aan de 			krijgsheer door de mysterieuze vreemdeling 
+  
+23
+Niet-werkwoordelijke delen van de ZR
+Delen van vaste uitdrukkingen:
+	(11) a. 	Siegfried heeft de draak drie keer  			gestoken met zijn zwaard.
+		   b. 	Els heeft de draak gestoken met mijn 				idealen.
+Het reflexief vnw in vast-reflexieve verbindingen: 
+	(12)    De premier heeft zich gisteren vergist.		
+24

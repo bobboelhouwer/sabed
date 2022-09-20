@@ -1,0 +1,112 @@
+8/22/2019
+Lay 3.1
++  - +  - +  -
+- +  - +  - +
++  - +  - +  -
+- +  - +  - +
++  - +  - +  -
+- +  - +  - +
+Definitie
+• n×n matrix A
+• n=1: det A = a
+11
+∗ ∗
+• n=2: det A = a a – a a
+11 22 21 12 ∗ ∗
+• n=3: det A = a a a + a a a + a a a
+11 22 33 21 32 13 12 23 31
+– a a a – a a a – a a a
+31 22 13 21 12 33 32 23 11
+∗ ∗ ∗
+∗ ∗ ∗
+∗ ∗ ∗
+18/22/2019
+n = 3, ontwikkeling langs 1ste kolom
+• det A = a a a + a a a + a a a
+11 22 33 21 32 13 12 23 31
+– a a a – a a a – a a a
+31 22 13 21 12 33 32 23 11
+= a (a a – a a ) – a (a a –a a ) 
+11 22 33 32 23 21 12 33 32 13
++ a (a a – a a )
+31 11 23 22 13
+𝑎 𝑎 𝑎 𝑎 𝑎 𝑎 𝑎 𝑎 𝑎
+(cid:2869)(cid:2869) (cid:2869)(cid:2870) (cid:2869)(cid:2871) (cid:2869)(cid:2869) (cid:2869)(cid:2870) (cid:2869)(cid:2871) (cid:2869)(cid:2869) (cid:2869)(cid:2870) (cid:2869)(cid:2871)
++      𝑎   (cid:2870) (cid:2869)       𝑎  (cid:2870)  (cid:2870)       𝑎  (cid:2870)  (cid:2871)        - 𝑎(cid:2870)(cid:2869) 𝑎(cid:2870)(cid:2870) 𝑎(cid:2870)(cid:2871) + 𝑎(cid:2870)(cid:2869) 𝑎(cid:2870)(cid:2870) 𝑎(cid:2870)(cid:2871)
+𝑎 𝑎 𝑎 𝑎 𝑎 𝑎 𝑎 𝑎 𝑎
+(cid:2871)(cid:2869) (cid:2871)(cid:2870) (cid:2871)(cid:2871) (cid:2871)(cid:2869) (cid:2871)(cid:2870) (cid:2871)(cid:2871) (cid:2871)(cid:2869) (cid:2871)(cid:2870) (cid:2871)(cid:2871)
+n = 3, ontwikkeling langs 2de kolom
+• det A = a a a + a a a + a a a
+11 22 33 21 32 13 12 23 31
+– a a a – a a a – a a a
+31 22 13 21 12 33 32 23 11
+= - a (a a – a a ) + a (a a –a a ) 
+12 21 33 31 23 22 11 33 31 13
+- a (a a – a a )
+32 11 23 21 13
+𝑎 𝑎 𝑎 𝑎 𝑎 𝑎 𝑎 𝑎 𝑎
+(cid:2869)(cid:2869) (cid:2869)(cid:2870) (cid:2869)(cid:2871) (cid:2869)(cid:2869) (cid:2869)(cid:2870) (cid:2869)(cid:2871) (cid:2869)(cid:2869) (cid:2869)(cid:2870) (cid:2869)(cid:2871)
+- 𝑎(cid:2870)(cid:2869) 𝑎(cid:2870)(cid:2870) 𝑎(cid:2870)(cid:2871) +         𝑎  (cid:2870)  (cid:2869)      𝑎   (cid:2870)  (cid:2870)      𝑎  (cid:2870)  (cid:2871)           - 𝑎(cid:2870)(cid:2869) 𝑎(cid:2870)(cid:2870) 𝑎(cid:2870)(cid:2871)
+𝑎 𝑎 𝑎 𝑎 𝑎 𝑎 𝑎 𝑎 𝑎
+(cid:2871)(cid:2869) (cid:2871)(cid:2870) (cid:2871)(cid:2871) (cid:2871)(cid:2869) (cid:2871)(cid:2870) (cid:2871)(cid:2871) (cid:2871)(cid:2869) (cid:2871)(cid:2870) (cid:2871)(cid:2871)
+28/22/2019
+n = 3, ontwikkeling langs 3de kolom
+• det A = a a a + a a a + a a a
+11 22 33 21 32 13 12 23 31
+– a a a – a a a – a a a
+31 22 13 21 12 33 32 23 11
+= a (a a – a a ) – a (a a -a a ) 
+13 21 32 31 22 23 11 32 12 31
++ a (a a – a a )
+33 11 22 21 12
+𝑎 𝑎 𝑎 𝑎 𝑎 𝑎 𝑎 𝑎 𝑎
+(cid:2869)(cid:2869) (cid:2869)(cid:2870) (cid:2869)(cid:2871) (cid:2869)(cid:2869) (cid:2869)(cid:2870) (cid:2869)(cid:2871) (cid:2869)(cid:2869) (cid:2869)(cid:2870) (cid:2869)(cid:2871)
++      𝑎   (cid:2870) (cid:2869)       𝑎  (cid:2870)  (cid:2870)       𝑎  (cid:2870)  (cid:2871)        - 𝑎(cid:2870)(cid:2869) 𝑎(cid:2870)(cid:2870) 𝑎(cid:2870)(cid:2871) + 𝑎(cid:2870)(cid:2869) 𝑎(cid:2870)(cid:2870) 𝑎(cid:2870)(cid:2871)
+𝑎 𝑎 𝑎 𝑎 𝑎 𝑎 𝑎 𝑎 𝑎
+(cid:2871)(cid:2869) (cid:2871)(cid:2870) (cid:2871)(cid:2871) (cid:2871)(cid:2869) (cid:2871)(cid:2870) (cid:2871)(cid:2871) (cid:2871)(cid:2869) (cid:2871)(cid:2870) (cid:2871)(cid:2871)
+n = 3, ontwikkeling langs 1ste rij
+• det A = a a a + a a a + a a a
+11 22 33 21 32 13 12 23 31
+– a a a – a a a – a a a
+31 22 13 21 12 33 32 23 11
+= a (a a – a a ) – a (a a –a a ) 
+11 22 33 32 23 12 21 33 31 23
++ a (a a – a a )
+13 21 32 31 22
+𝑎 𝑎 𝑎 𝑎 𝑎 𝑎 𝑎 𝑎 𝑎
+(cid:2869)(cid:2869) (cid:2869)(cid:2870) (cid:2869)(cid:2871) (cid:2869)(cid:2869) (cid:2869)(cid:2870) (cid:2869)(cid:2871) (cid:2869)(cid:2869) (cid:2869)(cid:2870) (cid:2869)(cid:2871)
++      𝑎   (cid:2870) (cid:2869)       𝑎  (cid:2870)  (cid:2870)       𝑎  (cid:2870)  (cid:2871)        - 𝑎(cid:2870)(cid:2869) 𝑎(cid:2870)(cid:2870) 𝑎(cid:2870)(cid:2871) + 𝑎(cid:2870)(cid:2869) 𝑎(cid:2870)(cid:2870) 𝑎(cid:2870)(cid:2871)
+𝑎 𝑎 𝑎 𝑎 𝑎 𝑎 𝑎 𝑎 𝑎
+(cid:2871)(cid:2869) (cid:2871)(cid:2870) (cid:2871)(cid:2871) (cid:2871)(cid:2869) (cid:2871)(cid:2870) (cid:2871)(cid:2871) (cid:2871)(cid:2869) (cid:2871)(cid:2870) (cid:2871)(cid:2871)
+38/22/2019
+n=3, algemeen patroon
+• Kieseenrijof kolomenloop alleelementenaf
+• detA= somvan termen, elk het product:
++ − +
+volgens schema = (-1)(i+j)
+− + −
++ − +
+het element a
+ij
+de determinant van de kleinere matrix A bekomen 
+ij
+door de rij en kolom waar het element in staat te 
+schrappen
+• detA= (-1)i+1a detA + (-1)i+2a detA + (-1)i+3a detA
+i1 i1 i2 i2 i3 i3
+= (-1)1+ja detA + (-1)2+ja detA + (-1)3+ja detA
+1j 1j 2j 2j 3j 3j
+Willekeurige n
+detA= (-1)i+1a detA + (-1)i+2a detA + … + (-1)i+na detA
+i1 i1 i2 i2 in in
+= (-1)1+ja detA + (-1)2+ja detA + … + (-1)n+ja detA
+1j 1j 2j 2j nj nj
++  - +  - +  -
+- +  - +  - +
+Tekenpatroon +  - +  - +  -
+- +  - +  - +
++  - +  - +  -
+- +  - +  - +
+(-1)i+jdetA = C de cofactor van a
+ij ij ij
+4

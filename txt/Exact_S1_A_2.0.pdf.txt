@@ -1,0 +1,901 @@
+ATOOMBOUWElektromagnetische straling
+
+ A
+Golflengte   :  De afstand tussen twee gelijke punten in twee
+            op elkaar volgende golven
+Amplitude A  :  De hoogte van een golf of de diepte van een dal.
+            De intensiteit is evenredig met A²
+Lichtsnelheid  c :  Alle elektromagnetische golven hebben eenzelfde
+                 snelheid, de lichtsnelheid (3 x 108 m/s)
+c
+Frequentie  (nu) : Aantal golven die per seconde in een 
+[ Hz ]
+
+  bepaalde plaats passerenWat is licht ?
+Afhankelijk van de golflengte maak je een onderscheid tussen 
+verschillende vormen van elektromagnetische straling:
+1 km          1 m          1 cm                10 μm       550 nm              10 nm               0,1 nm            1 
+pm
+Frequentie (Hz)ELEKTROMAGNETISCHE STRALING
+λ
+A
+.c
+maat voor de intensiteitHet atoommodel van Rutherford
+voorspelt de totale zelfvernietiging van het atoomEigenschappen van een zwarte straler INFORMATIEF
+Een lichaam bij een bepaalde T zendt 
+elektromagnetische straling uit (en absorbeert 
+deze ook)
+In een holle bol bij temperatuur T heerst een 
+constante stralingsdichtheid, alle golflengtes 
+zijn aanwezig met een bepaalde verdeling die 
+sterk van de temperatuur afhangt en met een 
+verschuivend maximum (wet van Wien)
+Klassieke verklaring: warmtebeweging geeft 
+trillende elektrische ladingen in de wand  
+elektromagnetische straling van dezelfde 
+frequentie (Maxwell-model)
+In principe zijn “alle” trillingsfrequenties aanwezig in 
+de wand en dus ook alle EM frequenties in de 
+stralingsverdeling (Rayleigh-Jeans)
+Volgens klassieke opvattingen resulteert dit in de 
+UV-catastrofe
+In 1900 ontdekt Planck dat een perfecte aanpassing 
+aan de experimentele waarnemingen mogelijk 
+is als de toegestane energiewaarden van een 
+elektromagnetische oscillator niet continu zijn, 
+maar gequantiseerdKwantumtheorie van Max Planck
+Stralingsenergie kan alleen opgenomen (absorptie) of afgegeven (emissie)
+worden in bepaalde hoeveelheden, nl kwanta (= h)
+h = 6,656 . 10-34 J.s
+E = n . h   
+n = geheel getal
+= Energie van een kwantum (= pakketje energie)?Het Foto-elektrische effect (A. Einstein)
+Er worden geen elektronen uitgezonden door een metaal 
+wanneer het wordt bestraald door licht met een frequentie 
+lager dan een bepaalde grenswaarde ongeacht de 
+ingestraalde intensiteit .
+E   =  h . ν
+0 0
+Wanneer een metaal wordt bestraald door licht met een frequentie 
+groter dan de grenswaarde, neemt het aantal uitgezonden elektronen 
+toe met de intensiteit van het licht.In dit laatste geval neemt de kinetische energie van de uitgezonden 
+elektronen evenredig toe met de frequentie van het licht.
+E   = ½ m v2  =  h  -  h 
+Kin. 0
+licht heeft deeltjeskarakter : een foton heeft ook een massa
+E = m.c²De fotonenhypothese
+Na de studie van de zwarte straler doet Einstein 
+een suggestie: ook licht bestaat uit deeltjes, de 
+zogenaamde “fotonen”, met energie
+E hHet foto-elektrische effect
+Met de fotonen kan Einstein verklaren hoe elektronen 
+uit een metaaloppervlak kunnen losgeslagen 
+worden door ze met licht te beschijnen.
+Rood liGchrBot elanu lwic lhictht
+   golfle n  gg t o egl f7ole0lfn0leg nntemg t5e5 400 n0m nm
+   freque  n f tr ie efqr 1eu0qe1un3 etHinezt i1e0 1140 H15z Hz
+   energ i e e  E n e e=nr ge1ir,e7g  iEeeV  =E  2=, 33 ,e1V eVHet foto-elektrische effect
+Je kan het principe van het foto-
+elektrische effect vergelijken met een 
+drankautomaat dat enkel 
+muntstukken vanaf 1 euro aanvaardt. 
+Een drankje kost 1 euro.
+• Als je een muntstuk van minder dan 1 
+euro inwerpt, zal je geen drankje 
+krijgen: het automaat weigert deze 
+aan te nemen.
+• Een muntstuk van 1 euro geeft je exact 1 drankje.
+• Een muntstuk van 2 euro geeft je niet alleen een 
+drankje, maar ook nog wat extra wisselgeld.Dualistisch karakter van licht (Louis de Broglie)
+EINSTEIN:
+licht heeft een deeltjeskarakter
+E = m.c²
+PLANCK :
+licht heeft een golfkarakter
+h
+m.c =
+E = h. 
+of
+c
+E = h.
+Het atoommodel volgens Niels Bohr
+emitterende H-atomen
+diffractieprisma
+fotografische plaat
+410 nm 434 nm 486 nm 656 nmelektronensprong
+4
+E
+3
+1
+2
+3
+2
+4
+1
+410 nm 434 nm 486 nm 656 nmHoofdkwantumgetal
+POSTULATEN van BOHR
+Een atoom bestaat uit een kern en extranucleaire elektronen, waarbij 
+1.
+de wet van Coulomb de krachten tussen de deeltjes beheerst.
+1 q2 m v2
+F   
+4 r2 r
+0
+De elektronen bewegen rond de kern in cirkelvormige banen en 
+2.
+gehoorzamen aan alle wetten van de klassieke mechanica.
+Het aantal banen is echter beperkt want er moet voldaan worden aan de 
+volgende voorwaarde :
+n.h
+m.v.r 
+2h
+I m v r  n 
+2 
+Kwantisering
+m.v
+HOOFDKWANTUMGETAL
+rHoofdkwantumgetal
+POSTULATEN
+Wanneer een elektron zich op een bepaalde baan bevindt, wint het 
+3.
+noch verliest het energie.  Het elektron bevindt zich in een stationaire 
+toestand en heeft de volgende energie :
+ R
+n = 1, 2, 3, enz.
+E  H
+n2
+R  = 2,18 . 10-18 J/e-
+H
+Elektronen kunnen alleen in een andere energietoestand komen door 
+4.
+van de ene baan naar de andere baan te gaan, of anders uitgedrukt 
+door van een bepaalde energietoestand over te gaan naar een andere 
+energietoestand.  
+Overeenkomstig postulaat 3 zal dan energie gewonnen of verloren 
+worden in hoeveelheden gelijk aan een geheel aantal kwanta.Berekening  van de energie van een H - elektron 
+van de straal van de cirkel 
+van de snelheid van het elektron
+E E  E
+tot pot kin
+uit wet van Coulomb en de 
+1 q2 m v2
+uitdrukking voor de   F   
+4 r2 r
+middelpuntzoekende kracht
+0
+m v2 1 q2
+ 
+1 q2 1 r 1 q42  1 r2
+E        m.v2   0 m.v2
+tot
+4.. r 2 8.. r 2
+0 0 1 q2
+mv2  
+q2
+4.. r
+of 0m.v2.r
+4..
+2 
+0
+Deze vergelijking delen we door de 
+n.h
+m.v.r kwantumvoorwaarde van postulaat 3
+n.h
+1 q2 m.v.r 
+v  
+2
+2. nh
+0Berekening  van de energie van een H - elektron 
+van de straal van de cirkel 
+van de snelheid van het elektron
+1
+2
+E  m.v
+tot
+2
+2
+1  1 q2 1 q2 1 m q4
+v  
+E  m.   
+ 
+2. nh
+tot 2 2 n h 0 82 n2 h2
+ 
+0 0
+2
+1 q
+  =
+8 r
+0
+2 2
+ n h
+r  0 
+2
+ m qR
+2
+r  n a E   H
+RESULTAAT
+0 tot n2
+a  = 0,5 10-10 m  (Bohrse cirkelbaan)  R  = 2,18 10-18 J/e-  (Rydbergconstante) 
+0 H
+ 1  1 3
+E      2,18 1018  2,18 1018
+ 16  4 16
+n = 4
+r = 16 a
+0
+486 nm
+n = 3 E
+tot
+r = 9 a
+0 E = - R /16
+H
+E = - R /9
+n = 2 H
+r = 4 a
+0 E = - R /4
+H
+n = 1
+r = a
+0
+E = - R
+HAbsorptie / Emissie
+n = q
+n = p
+Absorptie van lichtstraal Emissie van lichtstraal
+Atoom neemt energie op van  Atoom geeft energie af aan  
+foton om elektron naar een  foton wanneer elektron van 
+hoger energieniveau te  een hoger energieniveau naar 
+brengen een lager energieniveau valt
+ R   R 
+E E  E   H     H  h.
+   
+q p q2 p2
+   Model van Bohr voor hogere atomen
+Arnold Sommerfeld
+CONFLICT2 kwantumgetallen nodig
+n maat voor de grote straal a 
+l maat voor de kleine straal b
+ 
+HOOFDKWANTUMGETAL
+b l  1
+
+b a n
+a
+NEVENKWANTUMGETAL l kan mogelijke waarden aannemen van 0  tot  n - 1
+b l  1
+
+a n
+n l
+1 0
+2 0 1
+3 0 1 2
+4 0 1 2 3
+ 1ste  kwantumvoorwaarde voor hogere atomen
+h
+ 
+I  m v r  l l  1 
+2
+E
+n l tot
+3
+n = 4
+2
+1
+0 1 2 3 0
+n = 3
+l = 2
+l = 1
+1 1s
+l = 0
+n = 2 l = 1
+2 2s 2p
+l = 0
+3 3s 3p 3d
+4 4s 4p 4d 4f
+n = 1
+l = 02de  kwantumvoorwaarde voor hogere atomen
+h
+ 
+I  m v r  l l  1 
+
+2 m v
+
+ 
+MAAR…. I  m v r
+
+r
+ 
+magnetisch moment
+m v r
+e
+  I 
+2 m c
+
+
+h e
+   
+  l l  1    l l  1 
+B
+2 2 m c
+u  = Bohrs magneton 
+B2de  kwantumvoorwaarde voor hogere atomen
+h e
+   
+  l l  1    l l  1 
+B
+2 2 m c
+
+H
+  cos  m 
+H l B
+
+
+
+θ 
+H
+ 
+l l  1  cos  m 
+B l B
+ 
+l l  1 cos  m
+l
+MAGNETISCH KWANTUMGETALm
+ 622266662222226666333622333622
+l
+ 
+l l 1
+l m   cos θ θ
+l l 1
+l
+ 
+l l  1 cos  m
+l
+0 0 0 onbepaald alle waarden alle hoeken
+2 ? 2 2 geen hoek
+1 2 2 2 2 45°
+0 0
+1 2 0 90°
+-1  2 2  2 2 135°
+-2 ?  2  2 geen hoek
+35,3°
+2
+65,9°
+1
+2 0 0 0 90°
+-1 114,1°
+144,7°
+-2E
+4
+2
+3
+1
+0
+1
+1
+0
+-1
+2
+0
+n = l =
+m =
+ 
+l
+1 0 Electron Spin: A Fourth 
+Quantum NumberATOOMBOUWlengte L
+De trillende snaar
+1 keer λ /2  =  L
+2 keer λ /2  =  L
+3 keer λ /2  =  L
+die golflengten zijn toegelaten waarvoor
+KWANTISERING
+n  keer λ /2  =  L2 π r  = 4 keer λ2 π r  = 5 keer λ2 π r  = 6 keer λ
+KWANTISERING
+2 π r  = n  λ
+h
+
+m v
+h
+I m v r  n 
+2 Relatie van DE BROGLIE en DUALISTISCH KARAKTER
+c
+2
+E m c en E h of E h
+
+h
+m c 
+
+?
+heeft materie ook lichtkarakter
+h h
+m v   ? ? ?
+ 
+ m v
+JA
+uit experimenten met diffractie
+enkel betekenisvol voor kleine deeltjes zoals elektronenHet twee-spleten experiment vanThomas Young 
+toont dat licht een golf is…Het onzekerheidsprincipe van Werner Heisenberg
+Er is een fundamentele beperking om op hetzelfde 
+ogenblik de exacte plaats en de exacte snelheid 
+(impuls) van een bewegend deeltje te kennen.
+h
+ mv  r 
+4 
+1
+ r  5   5102 m
+100
+h 6,631034
+ mv    1,051033 kg m.s1
+4 r 45102
+ mv 1,051033
+ v    5,251033 m.s1
+m 0,2Het onzekerheidsprincipe van Werner Heisenberg
+1
+ r  5 1011   5 1013 m
+100
+h 6,63 10 34
+ mv    1,05 10 22 kg m.s1
+4  r 4 5 1013
+ mv 1,05 10 21
+ v    1,15 108 m.s1
+m 9,11 10 31
+Er is een fundamentele beperking om op hetzelfde 
+ogenblik de exacte plaats en de exacte snelheid 
+(impuls) van een bewegend deeltje te kennen.Het atoommodel van Erwin Schrödinger
+Basis: differentiaalvergelijking die een verband legt 
+tussen de energie en de plaats in de ruimte (x,y,z) 
+van de deeltjesgolven (bewegende elektronen)
+Het oplossen van deze vergelijking levert functies ψ
+Deze functies beschrijven de amplitude van de golfbeweging in 
+elk punt van de ruimte in functie van de coördinaten x,y,z met 
+de kern als nulpunt van het coördinatenstalsel.
+Elke ψ : 
+•   correspondeert met een welbepaalde energie
+•   beschrijft een ruimte waarin het elektron kan aangetroffen 
+    worden
+•   is enkel een wiskundige uitdrukking en heeft voor de rest
+    geen fysische betekenisAtoommodel van Erwin Schrödinger
+
+ψ-functies moeten aan de volgende voorwaarden voldoen:
+ψ moet genormaliseerd zijn:  ψ² = 1 voor de totale ruimte
+ψ mag nooit oneindig worden
+ψ kan geen 2 waarden aannemen in één punt
+ψ moet een continue functie zijn
+Elke ψ in een atoom verschilt van een andere ψ
+ψ²  is evenredig met de intensiteit van een golf in een ‘punt’
+is een maat voor de waarschijnlijkheid om een elektron 
+op een bepaalde plaats aan te treffen
+is een maat voor de elektronendichtheid in een ‘punt’beweging van een deeltje tussen twee wanden
+x = 0 x = L
+ h2 d2 h2 d2 d2 82 m E
+H     E  of   
+82 m dx2 82 m dx2 dx2 h2
+  A sin kxd2A sin kx
+  A sin kx   k2 A sin kx
+dx2
+h2 d2 d2 82 m E
+  E  of   
+82 m dx2 dx2 h2
+82 m E h2 k2
+ k2   of E 
+h2 82 m
+Het deeltje kan zich niet buiten of in de ondoordringbare wanden bevinden   (•)
+De totale kans om het deeltje ergens binnen de wanden te vinden is 1  (••)
+Het deeltje kan zich overal ergens binnen de wanden bevinden   (•••)
+x = 0 x = LHet deeltje kan zich niet buiten of in de ondoordringbare wanden bevinden   (•)
+De totale kans om het deeltje ergens binnen de wanden te vinden is 1  (••)
+Het deeltje kan zich overal ergens binnen de wanden bevinden   (•••)
+   
+ 0  0  L  0
+n 
+O.K.
+enkel wanneer k 
+L
+  A sin kx
+ n 
+ 
+KWANTISERING  x  A sin  x
+ L 
+? 2 x dx
+kwantisering van A
+Het deeltje kan zich niet buiten of in de ondoordringbare wanden bevinden   (•)
+De totale kans om het deeltje ergens binnen de wanden te vinden is 1  (••)
+Het deeltje kan zich overal ergens binnen de wanden bevinden   (•••)
+L L  n 
+ 2x dx  A2 sin2  x dx  1
+0 0  L L 2x dx L A2 sin2  n x dx  1
+0 0  L 
+L  n  1
+ sin2  x dx 
+0  L  A2
+L 1
+2
+ A 
+2 A2 L
+2  n 
+ 
+ x  sin x
+L  L 
+hiervoor is   n = 1, 2, 3, 4 …
+n2 h2
+E 
+8 m L2Het golfmechanische H-atoom
+ h2  2 2 2 
+H     
+ 
+82 m x2 y2 z2
+ 
+1 e2
+E   
+pot
+4 r
+0
+ h2  2 2 2 
+   
+H      r,,   E  r,,
+ 
+82 m r2 2 2 tot.
+ voor een s-elektron
+3
+ r
+1  1  2
+    e a
+0
+ 
+1s
+ a
+ 
+0
+3
+ r
+1  1  2  r 
+     2   e a
+0
+   
+2s
+4 2  a a
+   
+0 0
+3
+ 2   r
+1  1  2 18 r  r 
+ 
+     27   2    e 3a
+0
+   
+3s  
+81 3 a a a
+   
+0  0 0  = R
+1s  1s
+3
+ r
+1  1 2
+    e a0
+ 
+1s
+ a
+ 
+0
+r (eenheden a )
+0 = R
+2s  2s
+3
+ r
+1  1 2  r 
+     2   e a0
+   
+2s
+4 2 a a
+   
+0 0
+r (eenheden a )
+0 = R
+3s  3s
+3
+ 2   r
+1  1 2 18 r  r 
+ 
+     27   2    e 3a0
+   
+3s  
+81 3 a a a
+   
+0  0 0 
+r (eenheden a )
+0R
+1s
+0 1 2 3 4 5 6 7 8 9 10
+r (eenheden a )
+0
+R2
+1s
+r (eenheden a )
+0R
+2s
+r (eenheden a )
+0
+R2
+2s
+r (eenheden a )
+0R
+3s
+r (eenheden a )
+0
+R2
+3s
+r (eenheden a )
+0².dV
+Radiale probabiliteit
+waarschijnlijkheid om een elektron 
+aan te treffen in een bolschil met 
+dikte dr op een afstand r van de kern 
+4 π r2 dr . R2
+1s
+r (eenheden a )
+0.dV
+Radiale probabiliteit
+4 π r2 dr . R2
+2s
+r (eenheden a )
+0Radiale probabiliteit
+.dV
+4 π r2 dr . R2
+3s
+r (eenheden a )
+0Radiale probabiliteit
+0 5 10 15 20 25Radiale probabiliteit
+4 π r2 R2
+1s
+2,6 a
+0
+90 % van het
+oppervlak
+r (eenheden a )
+0
+2,6 a
+0
+90 %s-orbitalenvoor een p-elektron
+3
+ r
+1  1  2  r 
+      e 2 a cos
+0
+   
+2p
+z 4 2  a a
+   
+0 0
+3
+ r
+1  1  2  r 
+      e 2 a sin cos
+0
+   
+2p
+x 4 2  a a
+   
+0 0
+3
+ r
+1  1  2  r 
+      e 2 a sin sin
+0
+   
+2p
+y 4 2  a a
+   
+0 0()  cos  en ()  1
+2 2
+ ()  cos 
+θ cos2 θ
+3/4 π/6
+0 1
+π/6 3/4
+2/4 π/4
+π/4 2/4
+π/3 1/4 π/3
+1/4
+π/2 0 π/2
+2π/3 1/4
+3π/4 2/4
+5π/6 3/4
+π 1
+enz.p-orbitalenp-orbitalend-orbitalenHet atoommodel van Erwin Schrödinger
+Betekenis van de quantumgetallen
+n  geeft het hoofdniveau aan
+l  duidt subniveau aan
+m duidt orbitalen in subniveau aan
+l
+m   duidt de spin aan van het elektron
+s
+n is een maat voor de grootte van de orbitaal 
+PRAKTISCH
+en voor de energie van het elektron
+l bepaalt de vorm van de orbitaal (s,p,d,f)
+m is een maat voor de richting van de orbitaal in de ruimte
+l
+m duidt de spin aan van een elektron
+s
+1 m e4 1
+E      R
+tot 2 2 2 H 2
+n 8  h n
+0E
+4
+2
+3
+1
+0
+1
+1
+0
+-1
+2
+0
+n = l =
+m =
+ 
+l
+1 0Opvulling van de energieniveaus
+E
+tot
+n = 4 3
+2
+H of  1s1
+1
+n = 3 0
+l = 2
+l = 1
+l = 0
+n = 2 l = 1
+tegengestelde spin 
+He of 1s2 l = 0
+Pauli principe
+Li of 1s2  2s1 
+n = 1
+l = 0
+Be of 1s2  2s2B of 1s2  2s2  2p1
+C of 1s2  2s2  2p2
+REGEL VAN HUND
+N of 1s2  2s2  2p3
+O of 1s2  2s2  2p4
+F of 1s2  2s2  2p5
+Ne of 1s2  2s2  2p6
+OCTETCONFIGURATIEz z z
+y y y
+x x x
+extra stabiliteit door bolsymmetrische elektronendensiteit bij 
+volledig gevuld p-orbitaal
+ook extra (maar minder) stabiliteit bij half gevuld p-subniveauNa
+Mg
+Al
+Si
+P
+S
+Cl
+ArE l =
+3
+n =
+2
+K [Ar]18  
+4
+1
+of [Ar]18  4s1
+2
+0
+3
+1
+Ca  [Ar]18  
+0
+1
+2
+    of  [Ar]18  4s2
+0
+1 01s
+2s 2p
+3s 3p 3d
+4s 4p 4d 4f
+5s 5p 5d 5f
+6s 6p
+7sSc [Ar]18  
+V [Ar]18  
+Ti [Ar]18  
+Cr [Ar]18  
+Mn [Ar]18  
+Fe [Ar]18 
+Co [Ar]18  
+Ni [Ar]18  
+Cu [Ar]18  
+Zn [Ar]18  
+Half en volledig gevulde p- en d-niveaus (ook f-niveaus) 
+vertonen een extra stabiliteitHet Periodieke systeem der elementen
+• 1869, Dimitri Mendelejev 
+Wanneer de elementen geordend worden volgens 
+toenemende atoommassa, komen sommige groepen 
+van eigenschappen periodisch terugHET PERIODIEKE SYSTEEM
+A A A A A A A A
+I II III IV V VI VII VIII
+s1 p0 s2 p0 s2 p1 s2 p2 s2 p3 s2 p4 s2 p5 s2 p6
+n
+1 H He
+2 Li Be B C N O F Ne
+3 Na Mg Al Si P S Cl Ar
+4 K Ca Ga Ge As Se Br KrElektronenconfiguratie en het periodieke systeemNoble Gases
+Alkali Metals The Periodic table
+Main Group
+Alkaline Earths
+Halogens
+Transition Metals
+Main Group Lanthanides and ActinidesAtoomstralen in 10-12 m
+n=1 H 53,7 He 29,1
+n=2 Li 158,6 Be 104,0 B 77,6 C 62,0 N 52,1 O 45,0 F 39,6 Ne 35,4
+n=3 Na 171,3 Mg 127,9 Al 131,2 Si 106,8 P 91,9 S 81,0 Cl 72,5 Ar 65,9
+n=4 K 216,2 Ca 169,0 Ga 125,4 Ge 109,0 As 100,1 Se 91,8 Br 85,1 Kr 79,5
+n=5 Rb 228,7 Sr 183,6 In 138,2 Sn 124,0 Sb 119,3 Te 111,1 I 104,4 Xe 98,6
+n=6 Cs 251,8 Ba 206,0 Tl 131,9 Pb 121,5 Bi 129,5 Po 121,2 At 114,6 Rn 109,0
+De atoomstraal van boven naar onder binnen eenzelfde groep in het periodiek 
+systeem neemt in beperkte mate toe
+De atoomstraal van links naar rechts binnen eenzelfde periode van het periodiek 
+systeem neemt systematisch afDe straal van een atoomDe straal van een kationDe straal van een anionstraal van atomen en ionenIonisatie-energie
+De eerste ionisatie-energie wordt gedefinieerd als de energie die nodig  
+is om het minst stevig gebonden elektron uit een afzonderlijk gasvormig 
+atoom (in de grondtoestand) te verwijderen
+Mg(g) → Mg (g) + e I  = 738 kJ
++ -
+1
+Mg (g) → Mg (g) + e I  = 1451 kJ
++ 2+ -
+2
+Z 2
+I = R eff
+H n2Ionisatie-energieën in kJ per mol elektronen
+n = 1 1ste IE 2de IE n = 2 1ste IE 2de IE 3de IE 4de IE
+H 1310,2 Li 519,5 7288,1 11798,7
+Be 898,3 1754,7 14828,2 20977,6
+B 799,5 2423,7 3654,7 24991,3
+C 1084,9 2349,4 4614,1 6214,1
+N 1400,4 2852,1 4571,8 7462,7
+O 1312,1 3383,6 5293,1 7458,9
+F 1678,7 3369,5 6042,1 8396,1
+He 2369,0 5243,3 Ne 2077,8 3946,9 6113,5 9357,7n = 3 1ste IE 2de IE 3de IE 4de IE n = 4 1ste IE 2de IE 3de IE 4de IE
+Na 495,2 4556,1 6900,7 9530,2 K 418,2 3047,6 4413,5 5868,8
+Mg 736,7 1448,7 7722,0 10527,9 Ca 589,0 1143,9 4905,6 6481,6
+Al 576,7 1814,2 2741,0 11561,5 Ga 578,0 1976,6 2959,0 6166,5
+Si 785,4 15745,0 3227,1 4349,5 Ge 761,1 1535,3 3297,6 4404,5
+P 1010,4 1904,8 2910,1 4956,7 As 943,2 1795,3 2731,7 4830,1
+S 999,8 2248,7 3352,1 4549,9 Se 939,7 2041,7 2969,6 4137,8
+Cl 1249,5 2294,5 3816,5 5151,5 Br 1138,3 2100,5 3468,7 4557,5
+Ar 1518,5 2662,2 3925,4 5762,8 Kr 1348,9 2347,1 3560,2 5058,5
+De eerste ionisatie-energie neemt toe van links naar rechts binnen eenzelfde 
+periode en neemt af van boven naar onder binnen eenzelfde groep in het   
+periodiek systeem Elektronenaffiniteit
+De enthalpieverandering bij het toevoegen van een elektron
+aan een afzonderlijk gasvormig atoom in zijn grondtoestand
+F(g) + e → F (g)  E  = -328 kJ
+-  -
+A
+F(1s 2s 2p ) + e → F (1s 2s 2p )
+2 2 5 -  - 2 2 6
+  Li(g) + e → Li (g)             E  = -59.6 kJ
+-  -
+AElektronenaffiniteit in kJ per mol
+n=1 n=2 n=3 n=4 n=5 n=6
+H -72,7 Li -59,5 Na -52,8 K -48,3 Rb -46,8 Cs -45,4
+Be - Mg - Ca -2,4 Sr -4,6 Ba -14,4
+B -26,7 Al -42,5 Ga -28,9 In -28,9 Tl -19,3
+C -121,7 Si -133,4 Ge -118,8 Sn -107,1 Pb -35,1
+N - P -71,9 As -78,0 Sb -100,8 Bi -91,1
+O -140,8 S -200,1 Se -194,7 Te -189,9 Po -183,1
+F -327,7 Cl -348,1 Br -324,1 I -294,7 At -269,8
+He - Ne - Ar - Kr - Xe - Rn -
+De elementen rechtsboven in het periodiek systeem bezitten de hoogste
+ elektronenaffiniteit  Elektronegativiteit
+Elektronegativiteiten van de elementen van de A-groepen
+n = 1 H 2,20
+n = 2 Li 0,98 Be 1,57 B 2,04 C 2,55 N 3,04 O 3,44 F 3,98
+n = 3 Na 0,93 Mg 1,31 Al 1,61 Si 1,90 P 2,19 S 2,58 Cl 3,16
+n = 4 K 0,82 Ca 1,00 Ga 1,81 Ge 2,01 As 2,18 Se 2,55 Br 2,96
+n = 5 Rb 0,82 Sr 0,95 In 1,78 Sn 1,96 Sb 2,05 Te 2,10 I 2,66
+n = 6 Cs 0,79 Ba 0,89 Tl 1,80 Pb 1,80 Bi 1,90 Po 2,00 At 2,20
+n = 7 Fr 0,70 Ra 0,90 Periodieke eigenschappen van de elementenMetalen gaan gemakkelijk elektronen afstaanNiet-metalen gaan gemakkelijk elektronen opnemen

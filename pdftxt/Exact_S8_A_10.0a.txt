@@ -1,0 +1,311 @@
+16. Fosfaten en fosfaatesters
+• fosfor in cellen aanwezig als deels gedeprotoneerde fosforzuren
+of fosfaatesters:
+
+2
+
+D3-
+
+• verantwoordelijk voor energietransport, energiebron,
+activeren van enzymen…
+
+Fosfaten en fosfaatesters
+
+1
+
+ • fosfaatesters als derivaten van suikers, vetten, eiwitten
+en nucleïnezuren
+• de binding in fosfaten (sterisch getal van P = 4: sp3)
+
+HO
+
+P
+
+O
+
+O
+
+O
+OH
+
+HO
+
+P
+
+OH
+
+HO
+
+P
+
+OH
+
+OH
+
+OH
+
+(a)
+
+(b)
+
+(c)
+
+OH
+
+3d-2p-p-bindingen
+back donation
+
+P: 1s2 2s2 2p6 3s2 3p3
+
+P
+
+Fosfaten en fosfaatesters
+
+O
+
+2
+
+ 16.1 Orthofosfaten, pyrofosfaten en trifosfaten
+• (ortho)fosforzuur redelijk sterk zuur, grotendeels geïoniseerd
+
+fysiologische pH: vooral mono- en dianion (2:1 tot 5:1), Pi(norganic)
+• pyrofosforzuur te beschouwen als anhydride fosforzuur
+
+tri- en
+tetra-anion
+
+Fosfaten en fosfaatesters
+
+3
+
+ • pKa-waarden (ter illustratie) fosfaat-, pyrofosfaat- en trifosfaatesters:
+
+fysiologische pH: ATP vooral tri- en tetra-anion
+
+Fosfaten en fosfaatesters
+
+4
+
+ 16.2 Hydrolyse van fosfaatesters
+• mechanisme afhankelijk van pH en graad verestering
+
+• in basisch milieu
+
+tetrahedrisch intermediair
+
+directe substitutie
+
+Fosfaten en fosfaatesters
+
+5
+
+ • hydrolysesnelheid in basisch milieu:
+tri- > di- > monoalkylfosfaten ( negatieve lading)
+
+• trialkylfosfaten in zuur milieu
+
+16.3 Hydrolyse van pyrofosfaten en trifosfaten
+
+Fosfaten en fosfaatesters
+
+6
+
+ • reactiever dan orthofosfaatester omwille van anhydridebinding
+✓ 7 minuten verhitten bij 100°C in 1 M zuur volstaat voor
+volledige hydrolyse anhydride, orthofosfaatesters reageren niet
+• trifosfaten reactiever dan pyrofosfaten (wegens opeenstapeling
+negatieve ladingen)
+• hydrolysesnelheid afhankelijk van pH: snelste hydrolyse bij pH
+waarbij ten minste één OH-groep niet geïoniseerd is
+
+Fosfaten en fosfaatesters
+
+7
+
+ • reacties met andere nucleofielen:
+
+✓ omzetting hydroxylgroep in betere vertrekkende groep
+✓fosforylering van serine-OH in enzymen door kinasen
+
+fosforylering
+
+pyrofosforylering
+
+Fosfaten en fosfaatesters
+
+8
+
+ ✓ omzetting acetaat in reactief acetylfosfaat
+
+16.4 Nucleofiele substitutie van fosfaten
+O
+
+Nu
+
+Nu
+
+O
+
+P
+
+OCH3
+
+OH-
+
+OCH3
+
+Zwavel- en koolstofnucleofielen
+
+OCH3
+
+O
+
+CH3
+
+P
+
+O
+
+OCH3
+
+OCH3
+O
+
+P
+OCH3
+
+Fosfaten en fosfaatesters
+
+9
+
+ ✓ reactie methionine met ATP
+
+SN2
+✓ isopentenyleringsreactie
+
+Fosfaten en fosfaatesters
+
+10
+
+ 16.0 Fosforyleringspotentiaal
+• bepaalde fosfaatverbindingen geven bij hydrolyse een grote
+hoeveelheid energie vrij
+ATP
+
+ADP
++ Pi
++ 31 kJ/mol
+
+AMP
++ Pi
++ 31 kJ/mol
+
+A
++Pi
++ 14 kJ/mol
+
+Keq > 105
+• deze fosfaatverbindingen gedragen zich als energie ‘shuttles’
+in de cel
+• vroeger beschreven als energierijke fosfaatbindingen, in feite
+hoge vrije energie bij hydrolyse door:
+✓ vermindering elektrostatische afstoting tussen O- atomen
+✓ hydrolyseproducten beter gestabiliseerd door mesomerie
+✓ entropie na reactie is hoger
+
+Fosfaten en fosfaatesters
+
+11
+
+ • het vermogen om als fosforylerend reagens op te treden
+wordt weergegeven door fosforyleringspotentiaal
+= standaard vrije energie voor hydrolyse DG°’
+(25°C - pH 7,0 - 0,01 mol/L Mg2+)
+O
+
+O
+P
+
+- H+
+O
+
++
+
+H 2O
+
+HO
+
+P
+
+O
+
++
+
+x kJ
+
+O
+
+O
+
+fosfaatverbinding
+
+DG°’ (kJ/mol)
+
+fosfoënolpyruvaat
+acetylfosfaat
+ATP
+glucose-1-fosfaat
+glucose-6-fosfaat
+
+-62,0
+-42,3
+-30,6
+-20,9
+-13,8
+
+Fosfaten en fosfaatesters
+
+energierijke
+verbindingen
+
+12
+
+ • fosforylering meestal door ATP uitgevoerd
+
+DG°’
+
+ATP + H2O
+→ ADP + fosfaat
+glucose + fosfaat → glucose-6-fosfaat + H2O
+
+- 30,6 kJ/mol
++13,8 kJ/mol
+
+→ ADP + glucose-6-fosfaat
+
+- 16,8 kJ/mol
+
+ATP + glucose
+
+• regeneratie ATP m.b.v. fosfoënolpyruvaat
+fosfoënolpyruvaat + H2O →
+ADP + fosfaat
+→
+
+pyruvaat + fosfaat
+ATP + H2O
+
+fosfoënolpyruvaat + ADP → pyruvaat + ATP
+
+Fosfaten en fosfaatesters
+
+Aromaten
+
+DG°’
+- 62,0 kJ/mol
++30,6 kJ/mol
+- 31,4 kJ/mol
+
+13
+
+ 

@@ -1,0 +1,326 @@
+Tekstwetenschap 1
+Les 7 – discours als interactief proces
+inleiding
+
+Waarover gaat het?
+Little ‘d’ = hoe teksten werken
+Interactief taalgebruik/dialoog/conversatie
+Verschillende invalshoeken
+Sociologie: Conversatieanalyse, interactionele sociolinguïstiek
+(taal)filosofie: Speech Act theorie, Griceaanse pragmatiek
+Sociolinguïstiek, variatiestudies en pragmatiek
+Basiskenmerken van interactie
+Vraag: Welke van onderstaande kenmerken onderscheiden monoloog van dialoog?
+Eenrichtingsverkeer
+Monitoring features 
+Reinforcements (continueerders)
+Aantal deelnemers
+Rol van de deelnemers
+Deel 1 - Verschillende invalshoeken
+
+Vanuit de sociologie
+
+Conversatieanalyse
+Sacks, Schegloff, Jefferson
+“CA is at a point where linguistics and sociology […] meet. For the target of its inquiries stands where talk amounts to action, where actions project consequences in a structure and texture of interaction which the talk is itself progressively embodying and realizing, and where the particulars of the talk inform what actions are being done and what sort of social scene is being constituted.” (Schegloff, 1999 [1991]:109)
+Focus: sequentiele structuren in interactie
+Concepten: beurtwisselingsregels, aangrenzende paren (adjacency), interrupties, aarzelingen, overlappingen, herstelwerk
+Methode: corpus, transcriptie, empirische formele analyse – datagestuurd 
+Kritiek ? cfr voorbereidende vraag 2
+
+
+Conversatieanalyse - illustratie
+K: sa aftaler vi hvordan det0h: (.) sa er det os der markeds- 
+then we decide how ituh: then WE are in charge of the marketing 
+f0rer det medmindre vi beder jer og og0h: <siger at> vi godt 
+unless we ask you to touh:                       say that we would like
+S: 				<hm hm> (clearing his throat) 
+K: vii have I skriver noget om det ik 	<altsa (.) vi> har ogsh 
+you to write something about it 	you know we have also 
+S: 				<mm mm> 
+K: forstaet I har et vist behov for og kunne0h: (0.5) 
+understood that you have a certain need to uh: be ableeuh: 
+S: altsa man man 	<skal jo kunne kommunikere lidt pa kongresser> 
+well one one 	shall I be able to communicate at congresses
+K: 		<altsa I skal have lov til og og skrive noget> om det
+		well you should be allowed to to write something about it 
+S: ja 
+(from: Kjaerbeck, S. 1997: 355)
+
+Conversatieanalyse - illustratie
+K: sa aftaler vi hvordan det0h: (.) sa er det os der markeds- 
+then we decide how ituh: then WE are in charge of the marketing 
+f0rer det medmindre vi beder jer og og0h: <siger at> vi godt 
+unless we ask you to touh:                       say that we would like
+S: 				<hm hm> (clearing his throat) 
+K: vii have I skriver noget om det ik 	<altsa (.) vi> har ogsh 
+you to write something about it 	you know we have also 
+S: 				<mm mm> 
+K: forstaet I har et vist behov for og kunne0h: (0.5) 
+understood that you have a certain need to uh: be ableeuh: 
+S: altsa man man 	<skal jo kunne kommunikere lidt pa kongresser> 
+well one one 	shall I be able to communicate at congresses
+K: 		<altsa I skal have lov til og og skrive noget> om det
+		well you should be allowed to to write something about it 
+S: ja 
+(from: Kjaerbeck, S. 1997: 355)
+
+Conversatieanalyse - illustratie
+K: sa aftaler vi hvordan det0h: (.) sa er det os der markeds- 
+then we decide how ituh: then WE are in charge of the marketing 
+f0rer det medmindre vi beder jer og og0h: <siger at> vi godt 
+unless we ask you to touh:                       say that we would like
+S: 				<hm hm> (clearing his throat) 
+K: vii have I skriver noget om det ik 	<altsa (.) vi> har ogsh 
+you to write something about it 	you know we have also 
+S: 				<mm mm> 
+K: forstaet I har et vist behov for og kunne0h: (0.5) 
+understood that you have a certain need to uh: be ableeuh: 
+S: altsa man man 	<skal jo kunne kommunikere lidt pa kongresser> 
+well one one 	shall I be able to communicate at congresses
+K: 		<altsa I skal have lov til og og skrive noget> om det
+		well you should be allowed to to write something about it 
+S: ja 
+(from: Kjaerbeck, S. 1997: 355)
+
+Conversatieanalyse - illustratie
+K: sa aftaler vi hvordan detehh: (.) sa er det os der markeds- 
+then we decide how ituh: then WE are in charge of the marketing 
+f0rer det medmindre vi beder jer og ogehh: <siger at> vi godt 
+unless we ask you to touh:                       say that we would like
+S: 				<hm hm> (clearing his throat) 
+K: vii have I skriver noget om det ik 	<altsa (.) vi> har ogsh 
+you to write something about it 	you know we have also 
+S: 				<mm mm> 
+K: forstaet I har et vist behov for og kunneehh: (0.5) 
+understood that you have a certain need to uh: be ableeuh: 
+S: altsa man man 	<skal jo kunne kommunikere lidt pa kongresser> 
+well one one 	shall I be able to communicate at congresses
+K: 		<altsa I skal have lov til og og skrive noget> om det
+		well you should be allowed to to write something about it 
+S: ja 
+(from: Kjaerbeck, S. 1997: 355)
+
+Conversatieanalyse - illustratie
+K: sa aftaler vi hvordan detehh: (.) sa er det os der markeds- 
+then we decide how ituh: then WE are in charge of the marketing 
+f0rer det medmindre vi beder jer og ogehh: <siger at> vi godt 
+unless we ask you to touh:                       say that we would like
+S: 				<hm hm> (clearing his throat) 
+K: vii have I skriver noget om det ik 	<altsa (.) vi> har ogsh 
+you to write something about it 	you know we have also 
+S: 				<mm mm> 
+K: forstaet I har et vist behov for og kunneehh: (0.5) 
+understood that you have a certain need to uh: be ableeuh: 
+S: altsa man man 	<skal jo kunne kommunikere lidt pa kongresser> 
+well one one 	shall I be able to communicate at congresses
+K: 		<altsa I skal have lov til og og skrive noget> om det
+		well you should be allowed to to write something about it 
+S: ja 
+(from: Kjaerbeck, S. 1997: 355)
+
+Conversatieanalyse en Critical Discourse Analysis
+A CDA view on Conversation Analysis (Fairclough, 1992)
+Interactional control
+omgaan met beurtwisselingsregels
+topicintroductie en ‘uptake’
+opstellen en bewaken van de gespreksagenda
+herformuleren van de bijdragen van andere spreker (s)
+
+13
+Interactionele sociolinguïstiek (1)
+Gumperz; Goffman
+“We know that social presuppositions and attitudes change in the course of interaction, often without a change in extralinguistic context.  […] Assumptions about role and status relationships vary as the conversation progresses, and these changes are signalled through speech itself.” (Gumperz, 1999 [1977]:99) – contextualization cues
+“A change in footing implies a change in the alignment we take up to ourselves and the others present as expressed in the way we manage the production or reception of an utterance. A change in our footing is another way of talking about a change in our frame of events.” (Goffman, 2001 [1981]: 96)
+Focus: signalen voor positionering; vaak in institutionele settings
+Concepten: contextualization cue, footing, frame
+Methode: corpus, transcriptie, interpretatie door participanten (interview)
+Frames and footing – illustratie
+Onderzoek van kind met hersenverlamming door pediater met moeder (video-opname)
+Dr: Let’s see. Can you open up like this, Jody, look.
+[doctor opens her own mouth]
+Child: Aaaaaaaaaaaah
+Dr:     [Good. That’s good.	
+Child: [Aaaaaaaaaaaah
+Dr: Seeing, for the palate, she [has a high arched palate
+Child: 			  [Aaaaaaaaah
+Dr: but there’s no cleft.
+[manoeuvres to grasp child’s jaw]
+What we’d want to look for is to see how she…moves her palate… which may be some of the difficulty with the breathing we’re talking about.
+(from: Tannen & Wallat, 1987)
+Frames and footing – illustratie
+Onderzoek van kind met hersenverlamming door pediater met moeder (video-opname)
+Dr: Let’s see. Can you open up like this, Jody, look.
+[doctor opens her own mouth]
+Child: Aaaaaaaaaaaah
+Dr:     [Good. That’s good.	
+Child: [Aaaaaaaaaaaah
+Dr: Seeing, for the palate, she [has a high arched palate
+Child: 			  [Aaaaaaaaah
+Dr: but there’s no cleft.
+[manoeuvres to grasp child’s jaw]
+What we’d want to look for is to see how she…moves her palate… which may be some of the difficulty with the breathing we’re talking about.
+(from: Tannen & Wallat, 1987)
+Interactionele sociolinguïstiek (2)
+“In each of these contacts, he tends to act out a line - that is, a pattern of verbal and nonverbal acts by which he expresses his view of the situation and through this his evaluation of the participants, esp. himself. […] The term face may be defined as the positive social value a person effectively claims for himself by the line others assume he has taken during a particular contact. (Goffman, 1999 [1967]:306)
+Cfr. gezichtsverlies, zijn gezicht redden; put a brave face on sth, face up to sth, at face value; 
+Soorten ‘facework’: vermijdingsstrategieën (veranderen van onderwerp, nuanceren, discretie, grapjes maken, negeren…); herstelwerk
+Later: Politeness theory en face-threatening activities (FTA) – Brown & Levinson (1987)
+Facework - illustratie
+Vanuit de filosofie
+
+Speech act theorie
+Austin, Searle
+“In performing a locutionary act we shall also be performing such an act as: asking or answering a question; giving some information of an assurance or a warning; announcing a verdict or an intention; pronouncing sentence; making an appointment or an appeal or a criticism; making an identification or giving a description; and the numerous like.” (Austin, 1999 [1962]:69)
+Focus: soorten taaldaden
+Concepten: illocutie (intentie), perlocutie (beoogd effect); ‘condities’ voor productie en interpretatie; indirecte taaldaden (e.g. Can you pass me the salt.)
+Methode: hypothetische uitingen en mogelijke interpretaties
+Speech act theorie (2)
+Vraag: wanneer is er sprake van een belofte?
+Volgens Searle (1965)
+Propositional content condition
+Toekomstige actie (A) van spreker (S)
+Preparatory condition
+Luisteraar (L) zou graag hebben dat S A doet, en S gelooft dit.
+L en S weten dat S normaal gezien A niet zal doen
+S kan A doen
+Sincerity condition
+S is van plan om A te doen
+Essential condition
+De belofte geldt als het op zich nemen van een verplichting om A te doen
+Speech act theorie (3)
+Vraag: welk van volgende uitingen is een belofte
+Moeder: Als je braaf bent, krijg je straks een ijsje.
+Tweelingbroertje: Als je braaf bent, krijg je straks een ijsje.
+Dokter: Neem 3 tabletten per dag bij de maaltijd. Binnen de drie dagen zal je je beter voelen.
+Collega: Straks ga je wat meemaken.
+Collega: Wacht even, ik laat je zien hoe je dat moet doen.
+Propositional content condition
+Toekomstige actie (A) van spreker (S)
+Preparatory condition
+Luisteraar (L) zou graag hebben dat S A doet, en S gelooft dit.
+L en S weten dat S normaal gezien A niet zal doen
+S kan A doen
+Sincerity condition
+S is van plan om A te doen
+Essential condition
+De belofte geldt als het op zich nemen van een verplichting om A te doen
+
+Speech act theory (4)
+Het eerste en laatste voorbeeld zijn idd beloften.
+Het broertje heeft niet de authoriteit/middelen om dit te doen (prep.condition 3 niet vervuld)
+De dokter ‘doet’ niets; heeft geen controle over de uitkomst (propositional content condition niet vervuld) 
+Wat is het dan wel ? 
+Het is niet duidelijk dat de geadresseerde college het graag zou hebben (prep.condition 1 niet vervuld); niet duidelijk dat de spreker het zal doen (prop.content condition ??)
+Logica en pragmatiek
+Grice
+“We might then formulate a rough general principle which participants will be expected, other things being equal, to observe, namely: make your  conversational contribution such as is required, at the stage at which it occurs, by the accepted purpose or direction of the talk exchange in which you are engaged. One might label this the Cooperative Principle.” (Grice, 1999 [1975]: 78)
+Focus: interpretatieprincipes en inferenties
+Concepten: CP, maxims of quantity (wees informatief), quality (wees waarheidsgetrouw), relation (wees relevant), manner (wees duidelijk); ‘flouting’ (regels breken voor communicatief effect)
+Methode: oorspronkelijk hypothetische uitingen en mogelijke interpretaties; nu ook corpusgebaseerd onderzoek (e.g. Schiffrin, 1994)
+Later: Relevance theory - Sperber & Wilson (1986)
+Logica en pragmatiek (2)
+Vraag: Tegen welke maxims wordt gezondigd in de volgende interacties? En wat is het effect?
+A: Smith doesn’t seem to have a girlfriend these days. B: He has been paying a lot of visits to New York. (Grice, 1975:51)  
+A: Kan je me het zout geven? 
+B: Ja, dat kan ik.
+A: Waar heb je gezeten? 
+     B: Overal en nergens.
+
+Logica en pragmatiek (3)
+2 voorbeelden van ‘flouting’ omwille van communicatief effect
+Vb1: relation – luisteraar moet op zoek naar verband
+Vb2: quantity – indirect verzoek letterlijk beantwoord – luisteraar pleegt obstructie om reactie uit te lokken
+1 voorbeeld van uncooperativeness
+Vb3: quantity en manner – luisteraar ontwijkt
+Variatie in gesproken taal
+
+Sociolinguïstiek, variatielinguïstiek en pragmatiek
+Verschillende benaderingen van variatie
+Sociolinguïstiek: bv Bernstein (1971): restricted/elaborated code
+Variatielinguïstiek: bv Labov (1972): overt/covert prestige
+Pragmatiek: bv Verschueren (1999): variability, negotiability, adaptability
+
+Bernstein (1971)
+“In the case of an elaborated code, the speaker will select from a relatively extensive range of alternatives and therefore  the probability of predicting the pattern of organizing elements is considerably reduced. In the case of a restricted code the number of these alternatives is often severely limited and the probability of predicting the pattern is greatly increased.” (1971:77)
+“If a restricted code facilitates the construction and exchange of ‘social’ symbols, then an elaborated code facilitates the construction and exchange of ‘individuated’ symbols.” (1971:78)
+Labov (1972)
+Labov draws on this typology in his theorizing about the life cycle of linguistic change (1972b, 178–180). Thus, he suggests that changes typically begin as indicators when the innovative usage comes to be adopted by certain groups of speakers. As the change becomes more firmly embedded in the community it attracts some degree of social awareness and people vary their use of it across styles, making it a marker. In some cases the level of awareness rises and the innovative forms become objects of explicit stigma or prestige as stereotypes. Varying degrees of salience also pertain to another distinction Labov proposes, between change from below and change from above. The directions refer to conscious awareness. Most changes operate below the level of awareness. A change from above might involve the adoption of a prestige feature from outside the speech community. Post-vocalic /r/ in New York City stands as a well-known example. Until the middle of the 20th century, /r/-dropping was the norm in the speech of New Yorkers of all social classes, but it has been losing ground since that time. Labov’s research demonstrated that retaining /r/ was increasingly common among younger speakers and that this tendency was stronger in the middle class than the working class. The style-shifting evidence, which showed higher levels of /r/ pronunciation in more careful styles, supported Labov’s interpretation that this was an incoming prestige feature operating as a change from above. (Gordon, 2017)
+Verschueren (1999: 58)
+Deel 2 - Interactiviteit in geschreven taal
+
+Interactiviteit in geschreven taal
+Stelling: een geschreven tekst is even interactief als een toespraak.
+Cfr hoofdstuk 2: audience design en dialogiciteit
+Cfr hoodstuk 6: topoï
+Halliday’s ‘interpersonal level’
+voornaamwoorden
+interrogatief en imperatief 
+modaliteit
+Informeel taalgebruik
+Interactiviteit in geschreven taal - illustratie
+Thompson (2012) – intersubjectiviteit in editorialen
+corpusonderzoek Guardian vs Sun; 10000 woorden elk; resp. 558 vs 778 ‘message units’
+Sun gebruikt meer ‘inclusive we’ voor eigen lezers; Guardian meer generisch gebruik van ‘we’ en ‘you’;
+Sun gebruikt meer imperatieven die lezers aanzetten tot actie;
+Guardian gebruikt vragen om vragen op te roepen; Sun gebruikt vragen om lezers in een bepaalde richting te leiden;
+Guardian gebruikt meer epistemische modaliteit;
+Conclusie: verschillende manier op met publiek te interageren
+
+Interactiviteit in ‘computer mediated communication’
+Vermengen van verschillende communicatiemodi
+Tekst + beeld
+Tekst + beeld + spraak
+Nieuwe manieren om met geschreven taal om te gaan
+Websites en ‘non-linear reading paths’
+SMS
+Chat en interactief schrijven
+
+
+real time speaking vs real time writing
+conversatie
+ontvanger(s) aanwezig tijdens productie
+visueel contact
+spraak = vluchtig
+interactief
+overlap, co-creatie…
+paralinguïstische elementen
+duidelijke participatiestatus
+
+
+chat
+
+
+real time speaking vs real time writing
+conversatie
+ontvanger(s) aanwezig tijdens productie
+visueel contact
+spraak = vluchtig
+interactief
+overlap, co-creatie…
+paralinguïstische elementen
+duidelijke participatiestatus
+
+
+chat
+ ontvanger(s) aanwezig tijdens productie
+geen visueel contact
+schrift = herleesbaar
+interactief
+sequentieel
+emoticons e.d.
+participatiestatus mgl. minder strikt gedefinieerd
+
+Conclusie
+interactiviteit is ‘gradueel’ fenomeen
+gesproken/geschreven, dialoog/monoloog zijn ‘folk categories’; maar dat is misschien ook het geval voor ‘computer mediated communication’
+dataverzameling en databeschrijving als uitgangspunt voor onderzoek naar discourse
+
+
+Vervolg
+Groepsopdracht met deadline zondag 12u
+3 kennisclips
+Footing, sprekers en luisteraars
+Facework
+Co-operative principle
+Verschueren in ‘wetenschappers aan het woord’

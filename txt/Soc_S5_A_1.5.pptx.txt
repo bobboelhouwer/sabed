@@ -1,0 +1,518 @@
+Prof. Dr. Eva Van den Bussche
+Methoden van het wetenschappelijk onderzoek - Deel 1
+Prof. Dr. Eva Van den Bussche
+Les 5: De experimentele onderzoeksstrategie, Experimentele designs: Tussen-subject designsHandboek Hoofdstuk 7 (pp. 157-184)Handboek Hoofdstuk 8 (pp. 185-210)
+Terugkoppeling oefening
+Empirische cyclus
+De experimentele onderzoeksstrategie
+Oorzaak-gevolg relaties
+Elementen van een experiment
+Bijkomende variabelen controleren
+Controlecondities 
+Manipulatie checks
+Externe validiteit verhogen
+Tussen-subject designs
+Karakteristieken
+Voor- en nadelen
+Individuele verschillen
+
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+3
+Overzicht
+Een arbeidspsycholoog is geïnteresseerd in de jobtevredenheid van de werknemers in een bedrijf. Bovendien wil die weten of deze jobtevredenheid samenhangt met het aantal gepresteerde werkuren
+ Stel voor deze interessante vraag een beschrijvende, correlationele, experimentele en non-experimentele onderzoeksstrategie voor
+
+
+
+
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+4
+Terugkoppeling oefening vorige les
+Beschrijvend: vraag werknemers om 1 maand lang elke dag hun aantal gepresteerde werkuren te registreren aan de hand van een dagboekopdracht. Vervolgens kan je het gemiddeld aantal gepresteerde werkuren per week berekenen (idem voor jobtevredenheid)
+Correlationeel: meet jobtevredenheid en aantal gepresteerde werkuren per week voor elke werknemer aan de hand van een vragenlijst
+Experimenteel: deel 40 werknemers random in in 2 groepen. De ene groep werkt voltijds; de andere groep werkt 4/5. Na 1 maand wordt jobtevredenheid gemeten aan de hand van een vragenlijst en wordt het verschil tussen de groepen bekeken
+Non-experimenteel: bevraag de jobtevredenheid van de voltijdse en deeltijdse werknemers en vergelijk deze groepen
+
+
+
+
+
+
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+5
+Terugkoppeling oefening vorige les
+Vorige les:
+STAP 5: Selecteer een onderzoeksstrategie
+Vandaag:
+STAP 5: Experimentele onderzoeksstrategie
+STAP 6: Experimenteel DESIGN: tussen-subject design
+Geen één-op-één relatie met handboek: zowel slides als hoofdstukken behoren tot de leerstof (behalve 8.6)!
+
+
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+6
+Empirische cyclus
+Onderzoeksstrategie = algemene aanpak en doel van een onderzoek
+Hangt af van de onderzoeksvraag die je wil beantwoorden en het antwoord dat je hoopt te vinden
+Hoofdstukken 7, 10, 12 en 13
+Onderzoeksdesign = algemeen plan om de onderzoeksstrategie toe te passen
+Bepaalt of je een groep of individu zal onderzoeken, of je vergelijkingen wil maken tussen of binnen groepen, hoeveel variabelen je zal opnemen in de studie
+Hoofdstukken 8, 9, 10, 11, 13 en 14
+Onderzoeksprocedure = gedetailleerd stap-voor-stap plan van hoe je de studie zal uitvoeren
+Faculteit Psychologie en Pedagogische Wetenschappen
+7
+Recap Les 4: Onderzoeksstrategieën
+Faculteit Psychologie en Pedagogische Wetenschappen
+8
+
+
+
+De experimentele onderzoeksstrategie Handboek Hoofdstuk 7 (pp. 157-184)
+Doel experimentele onderzoeksstrategie = oorzaak-gevolg relaties tussen 2 variabelen demonsteren
+Mogelijkheid uitsluiten dat het om toevallige relatie gaat
+Hoe? Uitvoeren van een experiment dat aantoont dat veranderingen in de ene variabele direct verantwoordelijk zijn voor het veroorzaken van veranderingen in de andere variabele
+
+
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+10
+Oorzaak-gevolg relaties
+Experimentele studie moet 4 basiselementen bevatten:
+Manipulatie: één van de variabelen wordt gemanipuleerd door zijn waarde te veranderen zodat er 2 of meer condities ontstaan
+Meting: de andere variabele wordt gemeten voor een groep participanten om een set van scores te krijgen voor elke conditie
+Vergelijking: de scores worden vergeleken tussen de condities. Consistente verschillen tussen de condities ondersteunen dat de manipulatie de veranderingen in de scores veroorzaakt heeft
+Controle: alle andere variabelen worden gecontroleerd om zeker te zijn dat ze de onderzochte variabelen niet beïnvloeden 
+
+
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+11
+Oorzaak-gevolg relaties
+Faculteit Psychologie en Pedagogische Wetenschappen
+12
+Voorbeeld: om de relatie tussen gewelddadige videospellen en agressief gedrag na te gaan wordt een steekproef van 19 jongens van 10 jaar random verdeeld over 2 condities: de ene groep speelt een gewelddadig videospel, de andere een niet-gewelddadig videospel. Nadien mogen ze vrij spelen en worden de jongens uit beide condities gemonitord op agressief gedrag.
+Manipulatie: gewelddadigheid van videospel wordt gemanipuleerd zodat er 2 condities ontstaan: gewelddadig of niet-gewelddadig
+Meting: agressief gedrag wordt gemeten voor een groep participanten om een meting voor agressief gedrag te krijgen voor elke conditie
+Vergelijking: het agressief gedrag wordt vergeleken tussen de condities. Jongens in de gewelddadige videospel conditie vertoonden meer agressie dan de jongens in de niet-gewelddadige conditie
+Controle: beide groepen bestonden uit participanten met dezelfde sekse en leeftijd en werden random aan de 2 condities toegewezen
+
+
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+13
+Oorzaak-gevolg relaties
+Terminologie:
+Onafhankelijke variabele = veroorzakend, variabele die gemanipuleerd wordt (ook wel “grouping variable”). De manipulatie creëert verschillende condities. Elke conditie bevat 1 specifieke waarde van de gemanipuleerde variabeleDe condities vormen de niveaus van de onafhankelijke variabele
+Afhankelijke variabele = wordt veroorzaakt, variabele die gemeten wordt in elke conditie
+Bijkomende (“extraneous”) variabelen = alle andere variabelen
+Faculteit Psychologie en Pedagogische Wetenschappen
+14
+Oorzaak-gevolg relaties
+Voorbeeld:
+Onafhankelijke variabele = niveau van videospel gewelddadigheid (2 niveaus: gewelddadig of niet gewelddadig)
+Afhankelijke variabele = agressief gedrag na het spelen van de videogames
+Bijkomende (“extraneous”) variabelen = persoonlijkheid, lengte, seizoen, weer, etc.
+Faculteit Psychologie en Pedagogische Wetenschappen
+15
+Oorzaak-gevolg relaties
+Opgelet:
+In psychologie: veranderingen in 1 variabele ~ veranderingen in vele gerelateerde variabelen  moeilijk om causale relatie tussen 2 variabelen bloot te leggen
+Cruciaal om in experiment de specifieke variabelen te scheiden en isoleren
+Toevallig ipv causaal: derde-variabele probleem  relatie tussen 2 variabelen ≠ causale relatie. Mogelijk is een 3e variabele verantwoordelijk voor de geobserveerde relatie (e.g.: gewicht – rekenvaardigheid)
+Probleem van directionaliteit: wat veroorzaakt wat? (e.g., agressief gedrag – gewelddadige videospellen)
+ Problemen die aangepakt moeten worden in een experiment voor er oorzaak-gevolg relaties kunnen gedemonstreerd worden
+Faculteit Psychologie en Pedagogische Wetenschappen
+16
+Oorzaak-gevolg relaties
+Experimentele studie moet 4 basiselementen bevatten:
+Manipulatie
+Meting
+Vergelijking
+Controle
+ Specifiek voor experimentele onderzoeksstrategie
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+17
+Elementen van een experiment
+Identificeren van de specifieke waarden van de onafhankelijke variabele die je wil bestuderen (e.g., gewelddadig VS niet-gewelddadig videospel)
+Creëren van een set condities die corresponderen met deze waarden (e.g., conditie waarin kinderen gewelddadig videospel spelen en een conditie waar kinderen een niet-gewelddadig videospel spelen)
+Dus, de onafh var verandert van de ene conditie naar de andere
+Waarom doen we dit?
+Faculteit Psychologie en Pedagogische Wetenschappen
+18
+1. Manipulatie
+Doel 1: RICHTING van de relatie bepalen
+Manipuleer een variabele en onderzoek of een andere variabele beïnvloed wordt door deze manipulatie
+Laat toe om te bepalen wat oorzaak is en wat gevolg
+Lost probleem van directionaliteit op
+Voorb: relatie depressie – insomnia  slaap manipuleren
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+19
+1. Manipulatie
+Gewelddadige videospellen
+Agressief gedrag
+?
+Doel 2: invloed van andere variabelen controleren
+Actief onafh var manipuleren ipv passief onafh var meten 
+Indien zelf verantwoordelijk voor veranderingen in onafh var, zekerheid dat deze veranderingen niet door een 3e variabele veroorzaakt worden
+Lost (deels) probleem van derde-variabele op
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+20
+1. Manipulatie
+Gewelddadige videospellen
+Agressief gedrag
+Socio-economische status
+
+Geobserveerde relatie tussen onafh en afh var mag niet beïnvloed worden door andere variabelen
+Alle storende (confounding) variabelen uitsluiten  alle alternatieve verklaringen voor de geobserveerde veranderingen uitsluiten
+Hier: alle variabelen die samen variëren met de onafh var en potentieel een invloed hebben op de afh var
+Faculteit Psychologie en Pedagogische Wetenschappen
+21
+2. Controle
+Voorbeeld:
+Faculteit Psychologie en Pedagogische Wetenschappen
+22
+2. Controle
+Voorbeeld:
+Faculteit Psychologie en Pedagogische Wetenschappen
+23
+2. Controle
+Maar: er zijn toch duizenden variabelen die mogelijk een invloed uitoefenen (e.g., humeur, dag van de week, seizoen, weer, vermoeidheid, kamertemperatuur, etc.)
+LET OP: niet elke bijkomende variabele is een storende (confounding) variabele!
+Een variabele is enkel een storende variabele als het een effect heeft op de afh var
+Een variabele is enkel een storende variabele als het systematisch mee varieert met de onafh var (variabelen die random variëren vormen geen bedreiging)
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+24
+2. Controle
+Stap 1: identificeer de set bijkomende variabelen die potentieel een storende variabele kunnen zijn en dus een bedreiging vormen
+Stap 2: controleer voor deze variabelen  3 methoden:
+Variabele constant houden
+Matching
+Randomiseren
+Faculteit Psychologie en Pedagogische Wetenschappen
+25
+Bijkomende variabelen controleren
+Door een variabele constant te houden doorheen het experiment elimineer je diens effect
+Variabelen die niet variëren kunnen geen effect hebben, zijn idem voor elke observatie
+In experimenten worden omgevingsfactoren vaak constant gehouden en dus gecontroleerd
+Kan ook met range ipv volledig constant
+Voorb: steeds zelfde kamer, zelfde moment van de dag, zelfde proefleider, zelfde leeftijd participanten, range van IQ scores tussen 100-110
+MAAR: beperkt externe validiteit!
+Faculteit Psychologie en Pedagogische Wetenschappen
+26
+1. Variabele constant houden
+Niveaus van de bijkomende variabele matchen over condities heen
+	Voorb: participanten in 2 condities matchen op leeftijd (e.g., gemiddelde leeftijd 	idem in condities, leeftijd range idem in condities), sekse (evenveel XX en XY in 	condities) 
+Ook gebruikt om omgevingsfactoren te controleren 
+	Voorb: 2 verschillende kamers: helft van elke conditie meten in de ene kamer, 	andere helft in de andere
+Ook gebruikt om tijdsgerelateerde factoren te controleren 
+	Voorb: 50% participanten krijgt eerst conditie 1 en dan conditie 2, de andere 	50% krijgt de omgekeerde volgorde = contrabalanceren
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+27
+2. Matching
+= meer passieve methode
+Verstoort elke systematische relatie tussen de bijkomende variabele en de onafh var, waardoor de bijkomende var geen storende var kan worden
+Random proces (cf. Les 3)
+Voorb: participanten random toewijzen aan de condities  doordat de toewijzing random is, kunnen we ervan uitgaan dat de participant karakteristieken (leeftijd, sekse, IQ, etc.) óók random verdeeld zijn over de condities heen en dus niet systematisch gaan variëren tussen de condities
+Ook gebruikt om omgevingsfactoren te controleren (e.g., welke conditie op welk moment afgenomen wordt)
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+28
+3. Randomiseren
+Voordeel: laat toe om vele bijkomende variabelen tegelijk te controleren
+Nadeel: biedt geen garantie dat de bijkomende variabelen écht gecontroleerd zijn, gebeurt op basis van kans Voorb: nog steeds mogelijk dat conditie 1 veel meer mannen bevat dat conditie 2Vooral probleem bij kleine steekproevenMinder geschikt om te gebruiken voor duidelijk bedreigende bijkomende variabelen!  methode 1 of 2
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+29
+3. Randomiseren
+Voorbeeld: effect van taak moeilijkheid op de accuraatheid op een werkgeheugentaak, controle voor IQ (invloed op werkgeheugen)
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+30
+Datastructuur en controle
+IQ confounded:
+Faculteit Psychologie en Pedagogische Wetenschappen
+31
+Datastructuur en controle
+
+
+IQ constant:
+Faculteit Psychologie en Pedagogische Wetenschappen
+32
+Datastructuur en controle
+
+IQ gematcht:
+Faculteit Psychologie en Pedagogische Wetenschappen
+33
+Datastructuur en controle
+
+
+IQ random:
+Faculteit Psychologie en Pedagogische Wetenschappen
+34
+Datastructuur en controle
+
+
+Experiment = vergelijken  vergelijken observaties op afh var over verschillende niveaus van onafh var
+Of nog: condities/groepen vergelijken
+Soms: slechts 1 conditie van belang  vergelijken met een “baseline” of controle conditie
+Vergelijken van een experimentele conditie (mét “behandeling”) met een controle of baseline conditie (zonder “behandeling”)
+Optioneel ( bijkomende var controleren)
+2 categorieën
+Faculteit Psychologie en Pedagogische Wetenschappen
+35
+Controle condities
+Geen-behandeling controle condities: 
+Participanten in deze conditie krijgen niet de “behandeling” die bestudeerd wordt
+= baseline waarmee de conditie mét behandeling vergeleken wordt
+Voorb: conditie mét medicatie VS conditie zonder medicatie, conditie mét assertiviteitstraining VS conditie zonder training
+Onafh var: 2 niveaus (met en zonder)
+Faculteit Psychologie en Pedagogische Wetenschappen
+36
+Controle condities
+Placebo controle condities: 
+Placebo = niet-werkzame stof/medicatie die een effect teweegbrengt omdat de participant een effect verwacht (= placebo-effect)
+Faculteit Psychologie en Pedagogische Wetenschappen
+37
+Controle condities
+Placebo controle condities: 
+Placebo = niet-werkzame stof/medicatie die een effect teweegbrengt omdat de participant een effect verwacht (= placebo-effect)
+Verschil tussen experimentele en controle conditie: is ons effect toe te schrijven aan de behandeling of aan het placebo-effect?
+Toevoegen placebo controle conditie aan het experiment  participanten krijgen placebo ipv “echte” behandeling
+Placebo VS experimentele conditie: effect van echte behandeling
+Placebo VS geen-behandeling controle conditie: grootte placebo-effect
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+38
+Controle condities
+Vooral van belang om:
+Succes na te gaan van manipulaties die de participant beïnvloeden (e.g., als we frustratie manipuleren, is die manipulatie dan ook echt succesvol geweest?)
+Na te gaan of participanten subtiele manipulaties hebben opgemerkt (e.g., effect van glimlachen VS niet glimlachen proefleider)
+Na te gaan of participanten geloven in de effectiviteit van een placebo bij experimenten met een placebo conditie (en niet de indruk hadden dat ze misleid werden)
+Na te gaan of een studie die een “echte wereld” situatie wil simuleren succesvol was
+
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+39
+Manipulatie checks
+Experiment bevat steeds een manipulatie van de onafh var
+Manipulatie check = bijkomende meting om na te gaan hoe de participanten de manipulatie waarnemen en interpreteren of om het succes van de manipulatie na te gaan
+2 manieren:
+Expliciete meting van de onafh var (e.g., gemoedstoestand manipuleren adhv mood induction  meting van gemoedstoestand om na te gaan of manipulatie succesvol was)
+Vragenlijst die peilt naar perceptie/interpretatie participanten van de manipulatie (e.g., Wat denk je dat het doel was? Merkte je op dat…?)
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+40
+Manipulatie checks
+Faculteit Psychologie en Pedagogische Wetenschappen
+41
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+42
+
+Experiment: vaak in een artificiële, gecontroleerde omgeving, labo setting
+Interne validiteit ↑, externe validiteit ↓
+Wat als we oorzaak-gevolg verklaringen voor gedrag in “real-world” situaties willen zoeken?
+Experimentele omgeving zo realistisch mogelijk maken  simulatie en veldstudies
+Vaak gevolgen voor interne validiteit (minder controle)
+Faculteit Psychologie en Pedagogische Wetenschappen
+43
+Externe validiteit verhogen
+Simulatie voorbeeld: Stanford Prison experiment (Haney, Banks & Zimbardo, 1973; http://www.prisonexp.org/)
+
+
+
+
+
+
+Nadien: kritiek
+Faculteit Psychologie en Pedagogische Wetenschappen
+44
+Externe validiteit verhogen
+Veldstudie voorbeeld: breng het labo naar de “echte” wereld
+“real-world”, natuurlijke omgeving
+Brown, Flint, & Fuqua (2014): verkoop van 5 snack automaten op universiteitscampus monitoren, nadien rode stickers op ongezonde voeding en groene stickers op gezonde voeding  verkoop items met groene sticker nam toe
+Faculteit Psychologie en Pedagogische Wetenschappen
+45
+Externe validiteit verhogen
+Oorzaak-gevolg relaties
+Centraal = manipulatie en controle
+Invloed van mogelijke storende variabelen elimineren
+Soms zijn controle condities en manipulatie checks nodig
+Om externe validiteit te verhogen kunnen simulaties of veldstudies gebruikt worden
+
+
+
+
+
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+46
+Besluit
+Kritische denker: Lees het artikel (op Toledo) of bekijk de film van het Stanford Prison experiment
+Formuleer je eigen kritieken
+Lees nadien ook de kritiek die nadien op het experiment werd gegeven door andere onderzoekers (Tip: Wikipedia)
+Welke elementen vind je terug die in de lessen al aan bod zijn gekomen?
+
+
+
+
+
+
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+47
+Oefening tegen volgende les
+Tussen-subject designsHandboek Hoofdstuk 8 (pp. 185-210)
+Doel experimentele onderzoeksstrategie = oorzaak-gevolg relaties tussen 2 variabelen demonsteren
+4 basiselementen: manipulatie, meting, vergelijking, controle
+Experiment = vergelijken: observaties op een afh var vergelijken tussen verschillende condities (niveaus onafh var)  zijn er systematische verschillen tussen de condities?
+Twee onderzoeksDESIGNS om groepen van scores/condities te vergelijken in een experiment
+Tussen-subject design (vandaag)
+Binnen-subject design (volgende week)
+
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+49
+Experimentele onderzoeksstrategie
+Tussen-subject design: elke groep van scores wordt verkregen van een verschillende groep participanten  elke conditie wordt afgenomen van een verschillende groep participanten
+
+Binnen-subject design: de verschillende groepen van scores worden verkregen van dezelfde groep participanten  dezelfde groep participanten doorloopt alle condities
+
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+50
+Experimentele onderzoeksdesigns
+Vergelijkt verschillende groepen participanten
+Experiment:
+Een onafh var wordt gemanipuleerd zodat er verschillende condities ontstaan
+Een verschillende groep participanten wordt toegewezen aan elke conditie
+De afh var wordt voor elke participant gemeten
+De verschillen tussen de groepen wordt geanalyseerd 
+Elke participant heeft slechts 1 score, elke score komt van een aparte, unieke participant  onafhankelijke scores
+Voorbeeld: is er een verschil in effectiviteit tussen 2 onderwijsmethoden  2 verschillende groepen individuen worden gebruikt, één voor elke methode
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+51
+Karakteristieken Tussen-subject design
+Faculteit Psychologie en Pedagogische Wetenschappen
+52
++ Elke score is onafhankelijk van de andere scores 	 onafhankelijke metingen (“independent measures”) 	 elke participant wordt slechts 1 keer gemeten	 een score wordt dus niet beïnvloed door factoren zoals leereffecten, 	vermoeidheid bij het doorlopen van meerdere condities, etc.
++ Kan gebruikt worden voor brede range onderzoeksvragen, altijd beschikbaar voor een experiment waar je 2 of meer condities wil vergelijken
+- Vereist grote steekproef (n)
+- Onderhevig aan individuele verschillen
+
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+53
+Voor- en nadelen
+Elke score komt van een uniek individu, met persoonlijke karakteristieken die verschillen van alle andere participanten
+Individuele verschillen = set persoonlijke karakteristieken die verschillen van de ene tot de andere participant (e.g., sekse, leeftijd, opleiding, persoonlijkheid, IQ, etc.)
+Meestal beschouwd als bijkomende (extraneous) variabelen
+MAAR:
+Individuele verschillen kunnen storende (confounding) variabelen worden (e.g., conditie 1 ouder, sneller, slimmer, etc. dan conditie 2)
+Ze veroorzaken variabiliteit in de scores die patronen in de data kunnen maskeren
+Faculteit Psychologie en Pedagogische Wetenschappen
+54
+Individuele verschillen
+Groepen moeten zo gelijkaardig mogelijk zijn, behalve wat betreft de onafh var die de condities differentieert
+Faculteit Psychologie en Pedagogische Wetenschappen
+55
+Individuele verschillen als confounders
+Groepen moeten zo gelijkaardig mogelijk zijn, behalve wat betreft de onafh var die de condities differentieert
+Merk op: probleem specifiek voor tussen-subject designs 
+Indien karakteristieken van de participanten in de ene conditie verschillen van die in de andere conditie  bedreiging interne validiteit (cf. Les 4)!
+2 bronnen van confounding:
+Participant variabelen, individuele verschillen
+Omgevingsvariabelen (zie Les 4)
+Faculteit Psychologie en Pedagogische Wetenschappen
+56
+Individuele verschillen als confounders
+Algemeen: Hoe potentieel storende variabelen controleren  zie: variabele constant houden, matching, randomiseren
+MAAR: in tussen-subject designs ook verschillen tussen de groepen beperken:
+Op dezelfde manier gecreëerd: hoe participanten verkregen worden zo veel mogelijk idem voor elke groep
+Gelijke behandeling: behalve de condities die gemanipuleerd worden in het experiment moeten de groepen gelijke ervaringen ondergaan
+Samengesteld uit equivalente individuen: de karakteristieken van de participanten in de verschillende groepen moeten zo gelijkend mogelijk zijn
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+57
+Individuele verschillen als confounders
+Hoe kunnen we verschillen tussen de groepen bij de start van het experiment beperken? Zelfde methoden voor de algemene controle van confounders
+Randomiseren: random toewijzing aan de groepen/condities (indien n gelijk in elke groep: restricted random toewijzing)
+Matching om te verzekeren dat groepen equivalent zijn voor wat betreft potentiële confounder
+Variabele constant houden zodat potentiële confounder geëlimineerd wordt
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+58
+Individuele verschillen als confounders
+Individuele verschillen kunnen grote variabiliteit veroorzaken
+Spreiding:
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+59
+Individuele verschillen en variabiliteit
+Student
+Faculteit Psychologie en Pedagogische Wetenschappen
+60
+Individuele verschillen en variabiliteit
+
+Individuele verschillen kunnen grote variabiliteit veroorzaken
+Spreiding:
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+61
+Individuele verschillen en variabiliteit
+Individuele verschillen kunnen een invloed hebben op de variantie en aldus op de interpretatie van de resultaten
+Voorbeeld: 
+2 populaties, één met kleine variantie (A) en één met grote variantie (B)
+Random steekproef van n = 20 uit elke populatie 
+Random verdeling van elke steekproef in 2 groepen van n = 10: 
+Groep 1 = controleconditie, geen effect op de scores van de participanten
+Groep 2 = experimentele conditie, effect op de scores van de participanten= +10 punten
+
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+62
+Individuele verschillen en variabiliteit
+Faculteit Psychologie en Pedagogische Wetenschappen
+63
+Individuele verschillen en variabiliteit
+Populatie A (kleine s²)
+Faculteit Psychologie en Pedagogische Wetenschappen
+64
+Individuele verschillen en variabiliteit
+Populatie B (grote s²)
+DOEL: 
+Variantie in de scores TUSSEN groepen maximaliseren (= effect van onze manipulatie)
+Variantie in de scores BINNEN groepen minimaliseren (= individuele verschillen)
+
+Hoe kunnen we de binnen-groep variantie minimaliseren?
+Gestandaardiseerde procedures en setting gebruiken
+Individuele verschillen beperken (variabele constant houden)
+Steekproefgrootte (n): grote steekproef verkleint variantie (cf. formule)
+(Opmerking: matching en randomisatie hebben geen effect op binnen-groep variantie, enkel op verkleinen verschillen tussen groepen)
+
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+65
+Individuele verschillen en variabiliteit
+Zie Handboek deel 8.5
+
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+66
+Andere bedreigingen van interne validiteit
+Faculteit Psychologie en Pedagogische Wetenschappen
+67
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+68
+

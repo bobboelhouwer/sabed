@@ -1,0 +1,106 @@
+8/22/2019
+Lay 4.7
+V ; dim(V)=n
+x
+𝐱 n 𝐱 n
+𝑩  𝑪 
+Basis is niet uniek
+• Voorbeeld in V =  2
+
+• {b , b } en{c , c } zijnbeidel.o. envoortbrengendvoor 2
+1 2 1 2 
+• x= 3 b + 1 b = 6 c + 4 c
+1 2  1 2
+• Tweecoördinatentransformaties:
+𝑎
+T (x) =  𝐱 =  als x= ab + bb
+1 𝑩 𝑏 1 2
+𝑐
+T (x) =  𝐱 = als x= cc + dc
+2 𝑪 𝑑 1 2
+3 6
+• 𝐱 = ;  𝐱 =
+𝑩 1 𝑪 4
+18/22/2019
+Basis is niet uniek
+• Voorbeeld in V =  2
+
+• {b , b } en{c , c } zijnbeidel.o. envoortbrengendvoor 2
+1 2 1 2 
+• x= 3 b + 1 b = 6 c + 4 c
+1 2  1 2
+• Tweecoördinatentransformaties:
+𝑎
+T (x) =  𝐱 =  als x= ab + bb
+1 𝑩 𝑏 1 2
+𝑐
+T (x) =  𝐱 = als x= cc + dc
+2 𝑪 𝑑 1 2
+3 6
+• 𝐱 = ;  𝐱 =
+𝑩 1 𝑪 4
+Algemene vectorruimte V
+V ; dim(V)=n
+x
+T (x) T (x)
+1 2
+𝐱 n 𝐱 n
+𝑩  𝑪 
+• Vb: V = verzameling van veeltermen graad 2 of lager
+• B= {1, t, t2}
+• C = {1-t+ t2, 1+t+ t2, 1-t2}
+• Wat is het verband tussen  𝐱 en  𝐱 ?
+𝑩 𝑪
+28/22/2019
+Verband tussen  en 
+𝑩 𝑪
+• x= a b + a b + … + a b ; [x] = [a a ... a ]T
+1  1 2  2 n n B 1  2  n
+• [x] = a [b ] + a [b ] + … + a [b ]
+C 1  1C 2  2C n n C
+a
+1
+=  [b ]  [b ]  … [b ] ⋮
+1 C 2C n C
+a
+(cid:3041)
+=  [b ]  [b ]  … [b ] [x] = P[x]
+1 C 2C n C B CB B
+• P =  [b ]  [b ]  … [b ] inverteerbaar.
+CB 1 C 2C n C
+• Analoog:  P =  [c ]  [c ]  … [c ]
+BC 1B 2B n B
+• [x] =  P[x] ; [x] =  P[x]
+C CB B B BC C
+• ( P)-1 =  P
+CB BC
+In  n
+
+• P =  [b ]  [b ]  … [b ]
+CB 1 C 2C n C
+p
+(cid:2869)(cid:3037)
+• Hoe [b]  =  ⋮ vinden ?
+jC
+p
+(cid:3041)(cid:3037)
+• Los n (j=1 ... n) stelsels op b = p 𝐜 +⋯+p 𝐜 = 𝐜  …𝐜 [b]  
+j (cid:2869)(cid:3037) (cid:2869) (cid:3041)(cid:3037) (cid:3041) (cid:2869) (cid:3041) jC
+1 stelsel  𝐜(cid:2869) …𝐜(cid:3041) | bj [I| [bj]C]
+nstelsels  𝐜(cid:2869) …𝐜(cid:3041) |𝐛(cid:2869) …𝐛(cid:3041) [I| [b1]C ... [bn]C]
+𝐜(cid:2869) …𝐜(cid:3041) |𝐛(cid:2869) …𝐛(cid:3041) [I|C 𝐏B]
+38/22/2019
+In  n
+
+• C={c , … , c } is standaardbasis E={ e , … , e } 
+1 n 1 n
+• 𝐜  …𝐜  |𝐛  …𝐛 =  𝐈 |𝐛  …𝐛
+(cid:2869) (cid:3041) (cid:2869) (cid:3041) (cid:2869) (cid:3041)
+• P = [𝐛  …𝐛 ]
+(cid:2869) (cid:3041)
+EB
+• x = [x] = [𝐛  …𝐛 ] [x]
+E (cid:2869) (cid:3041) B
+• [x] = [𝐛  …𝐛 ]-1 x
+B (cid:2869) (cid:3041)
+4

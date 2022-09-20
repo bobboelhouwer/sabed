@@ -1,0 +1,266 @@
+Inleiding tot Matlab
+Nota 1: Dit hoofdstuk werk je af v´o´or de aanvang van de eerste oefenzitting.
+Nota 2: Matlab is ge¨ınstalleerd op de PCs in de computerklassen. Je kan Matlab
+ook op je eigen laptop installeren via de Campuslicenties van ICTS.
+https://icts.kuleuven.be/sc/software/matlab. Voor studenten zijn deze licenties gratis.
+Er zijn tal van ingenieursvraagstukken waarin algebra een rol speelt. Vaak worden ze groot
+of ingewikkeld of moeten we het oplossen ervan veelvuldig herhalen. In dergelijke situaties
+maken we gebruik van een programmeertaal om ons probleem aan te pakken. E´en van de
+mogelijke keuzes hiervoor is Matlab. Zoals zo vaak in het leven heeft elke keuze voor- en
+nadelen. De bespreking hiervan laten we achterwege.
+In een programmeertaal moet je afspraken maken over de manier waarop we eenduidig uit-
+drukken wat we bedoelen. Een programmeertaal volgt daartoe een syntax die veel strikter is
+dan die van natuurlijke taal. Matlab volgt een syntax die erg goed lijkt op de taal van de wis-
+kunde, zoals hieronder duidelijk zal worden. Matlab werkt ook met variabelen (bijvoorbeeld
+een matrix) om nieuwe variabelen te maken via bewerkingen (bijvoorbeeld het product van
+tweematrices). Houechtersteedsinhetachterhoofddathetindewiskundeokisomabstract
+met symbolen te blijven rekenen zonder dat we weten welke waarde aan een variabele wordt
+toegekend. Matlab werkt numeriek: aan elke variabele moet een waarde toegekend worden
+alvorens er iets uitgerekend kan worden.
+Om de voorbeelden zelf te proberen start je matlab op en klik je in het commandovenster.
+Daar kan je achter de tekens >> (ook prompt genoemd) een commando typen (de tekens >>
+typ je zelf nooit), bijvoorbeeld ‘help +’, wat informatie zal geven over de optelling. Dit geven
+we in dit document weer als:
+>> help +
+0.1 Matrices, vectoren, scalairen
+Net als in de wiskunde mag je zelf een naam kiezen voor de variabelen. Zo bouwen we
+(cid:34) (cid:35)
+2 −3 7
+bijvoorbeeld een 2×3 matrix A =
+0 1.3 −2
+>> A = [2 -3 7;0 1.3 -2]
+1m.a.w., het begin en het einde van de matrix worden aangegeven door [ resp. ]. De elementen
+worden rij per rij opgesomd, gescheiden door een blanco (een komma mag ook) en de rijen
+worden gescheiden door een puntkomma (;). Een punt wordt gebruikt als decimaal teken.
+De naam van de variabele mag uit meerdere hoofd of kleine letters of cijfers bestaan, maar
+magnietstartenmeteencijfer. Andersdanindewiskunde(waarwevariabelenmet´e´enletter
+aanduiden, eventueel met onder- of bovenschriften of diacritische tekens), is het raadzaam om
+meerdere letters te gebruiken. Zo vorm je een leesbare en betekenisvolle naam, bijvoorbeeld
+DataMatrix of EigenVector. Wanneer er echter maar enkele variabelen zijn, is er minder
+reden voor meer typwerk.
+Een vector wordt op dezelfde manier ingegeven:
+>> b = [-1.9;5;-4]
+is een kolomvector en
+>> c = [0 1] is een rijvector.
+Je mag de rijen van een matrix ook scheiden door een nieuwe regel te starten:
+>> A = [ 2 -3 7
+0 1.3 -2]
+Tenslotte kan je ook een scalair deﬁni¨eren:
+>> t = 2
+Matlab maakt geen onderscheid tussen matrices of vectoren. Een kolomvector is gewoon een
+N ×1-matrix, wat prima is gezien de rekenregels.
+Je kan nu het matrix-vector-product (laten) uitrekenen en toekennen aan de kolomvector x:
+>> x = A*b
+Of een vector vermenigvuldigd met een matrix en toekennen aan y, die automatisch een
+rijvector wordt:
+>> y = c*A
+Mits de dimensies kloppen natuurlijk ... Want
+>> z = b*A
+geeft (terecht) een fout. Een uitzondering is vermenigvuldiging met een 1 × 1-matrix, een
+scalair dus. We hebben enkel de eerste vorm gedeﬁnieerd, maar in beide vormen hieronder
+wordt elk element van A vermenigvuldigd met scalair t:
+>> B = t*A
+>> B = A*t
+en A/t zal elk element van A delen door t.
+Hoewel we deze bewerking niet in de theorie behandeld hebben, kan het ook handig zijn om
+een elementsgewijze vermenigvuldiging of deling te maken. Zo zal:
+>> Z = B./A
+elk element van B delen door het overeenkomstige element van A en in een matrix van dezelfde
+afmeting als A (of B) plaatsen. Bijzonder geval:
+>> Z = 1./A
+zal een matrix met reciproken van A produceren (wat NIET de matrixinverse van A is).
+>> Z = A.*B
+2zal elk element van A vermenigvuldigen met het overeenkomstige element van B (wat NIET
+A*B is).
+Tip 1: Je hoeft het resultaat van een bewerking niet steeds aan een (nieuwe) variabele toe
+te kennen om een resultaat te bekijken:
+>> t*A
+zal een variabele ans aanmaken met het antwoord (answer) van je laatste berekening zonder
+toekenning.
+Je kan al je variabelen en hun afmeting bekijken met
+>> whos
+Tip 2: als je een commando eindigt met puntkomma, zal het antwoord onderdrukt worden
+op je scherm.
+>> t = 2;
+0.2 Getransponeerde, machten, en precedentie
+De getransponeerde van een matrix (of vector) wordt aangegeven met een accent (’).
+>> d = [-1 1 -1]
+>> A*d’
+is de vermenigvuldiging van een 2×3-matrix met een kolomvector.
+Een macht wordt aangegeven met een ‘hoedje’ (ˆ). Dit geldt voor scalairen,
+>> t^3
+geeft 8, maar ook voor matrices:
+>> C = [1 -2;-3 2];
+dan geeft C^3 hetzelfde als C*C*C. Let op:
+>> C.^2
+geefteenmatrixvandezelfdeafmetingalsC(hoeftnietmeervierkanttezijn)methetkwadraat
+van elk van de elementen van C.
+Net als in de wiskunde heeft ˆ precedentie over * die precedentie heeft over + (volgorde van
+de bewerking). Dat verander je met haakjes:
+>> (A*(b+d’)).^2
+zaleerstboptellenbij degetransponeerdevand, linksvermenigvuldigenmetAenelk element
+van de resulterende 2×1-vector kwadrateren.
+0.3 Adresseren
+Met‘adresseren’wordtbedoeld‘eenelementofeenaantalelementenuiteenmatrixselecteren’.
+Het element van de 2de rij, 3de kolom uit A halen doe je als volgt:
+>> A(2,3)
+wat een scalair oplevert. Je kan ook een hele rij selecteren:
+3>> A(2,:)
+geeft een 1×3 rijvector en A(:,1) geeft de hele eerste kolom.
+Je kan ook meerdere rijen of kolommen selecteren. Zo levert
+>> F = A(:,[1 3])
+de 2×2-matrix gevormd door de eerste en derde kolom van A te selecteren.
+Je kan F ook maken door de tweede kolom te schrappen:
+>> F = A; F(:,2)=[]
+Of matrices vormen door concatenatie:
+>> G = [A;b’;d]
+ 
+2 −3 7
+ 0 1.3 −2
+levert de 4×3-matrix  
+−1.9 5 −4
+ 
+−1 1 −1
+0.4 Scripts en save/load
+Stijgt het aantal commando’s dat je moet intypen om een vraagstuk op te lossen, dan is het
+niet zo handig meer om dat vanaf de prompt te doen. Je kan alle commando’s bundelen
+in een script. Dat is niets anders dan een tekstbestand dat de extensie ‘.m’ krijgt. Je kan
+daarvooreentekstverwerkernaarkeuzegebruiken(welopslaanintekstformaatengeen‘.docx’
+bijvoorbeeld !), maar de editor uit de ontwikkelomgeving van Matlab is warm aanbevolen:
+>> edit MijnScript.m
+De commando’s die je in een script schrijft zijn dezelfde als degene die je na de prompt >>
+zou ingeven (geen prompt typen in je script). Je slaat het bestand op in een directory (ook
+‘folder’ of ‘map’ genoemd) waar je schrijfrechten hebt. Je kan het dan uitvoeren door op de
+groene ‘play’-knop te drukken in de ontwikkelomgeving te drukken of door aan de prompt te
+typen:
+>> MijnScript
+Je kan vanaf nu ook MijnScript gebruiken om de instructies uit te laten voeren vanuit
+een ander script, bijvoorbeeld MijnTweedeScript. Zo kan je een grotere taak opsplitsen in
+kleinere taken.
+Tip 3: het kan best zijn dat Matlab je script niet vindt omdat je het op een plaats hebt gezet
+waar Matlab niet zoekt naar scripts. Zie help addpath om dit op te lossen.
+Tip 4: het is good practice om wat commentaar te schrijven in je script. Commentaar
+verduidelijkt het waarom en de relevantie van de instructies. Het verbetert de leesbaarheid
+en herbruikbaarheid van je werk. Commentaar start met % en alles wat na dit teken komt tot
+het eind van de lijn wordt genegeerd door Matlab.
+Scripts en functies laten je toe om je code op te slaan, zodat je later dezelfde bewerkingen
+kan uitvoeren. Je kan ook data opslaan in de huidige directory:
+>> save
+zal alle variabelen opslaan op de harde schijf. Je kan gerust je matlabsessie sluiten en morgen
+verderwerken:
+4>> load
+zet je variabelen terug in het geheugen. Let erop dat je in de juiste directory staat. Je kan
+ook speciﬁeke variabelen naar een speciﬁek bestand schrijven. Zie
+>> help save
+0.5 Functies
+Functies zijn bijzondere scripts: je geeft ze een aantal variabelen mee om bewerkingen op uit
+te voeren en je krijgt het resultaat terug in een nieuwe variabele. Bijvoorbeeld:
+>> t=1/4
+>> y=sin(2*pi*t)
+π
+berekent de sinus van . (pi is een voorgedeﬁnieerde variabele met de waarde π.) Heel wat
+2
+functies werken ook elementsgewijs op een matrix. Bijvoorbeeld:
+>> t=0:0.001:1
+>> y=sin(2*pi*t)
+De eerste regel deﬁnieert een rijvector (of matrix met´e´en rij) t met elementen 0, 0.001, 0.002,
+..., 1. In de tweede regel wordt de sinus van 2*pi keer elk van de 1001 elementen uit t
+berekend en in de vector y geplaatst.
+Let op: niet alle functies werken elementsgewijs. Gebruik
+>> help sin
+om het gedrag te weten te komen in dit voorbeeld.
+Je kan zelf functies schrijven, maar Matlab beschikt ook over een uitgebreide bibliotheek
+aan functies die relevant zijn voor de algebra. Je hoeft dus helemaal niet zelf een functie
+te schrijven om bijvoorbeeld de determinant van een vierkante matrix te berekenen, maar je
+typt eenvoudig:
+>> det(C)
+Beknopte documentatie roep je op met help det en meer uitgebreide met doc det.
+Opgave. Gebruik het help-commando om meer te weten te komen over volgende functies
+(die eventueel pas later aan bod komen in de theorie): size, zeros, ones, eye, inv, diag,
+sum, sqrt, max, norm, det, eig, qr, svd.
+Functieskunnenookmeerdan´e´enresultaathebben. Diewordendantussenvierkantehaakjes
+opgelijst. Bijvoorbeeld
+>> [waarde,index]=max([3.1 -1 5 2.2])
+(cid:104) (cid:105)
+geeft de maximale waarde (5) in de vector 3.1 −1 5 2.2 alsook de index (3) in de vector
+waar die maximale waarde zit.
+0.6 Eigen functies
+Matlab beschikt over een uitgebreide bibliotheek aan functies. Maar vaak zal je niet de
+gewenste functionaliteit terugvinden. Dan schrijf je een eigen functie. Bijvoorbeeld, wil je
+een N ×N matrix met eentjes op de hoofddiagonaal en op de gespiegelde diagonaal:
+5function B = MijnFunctie(N)
+% B = MijnFunctie(N)
+% Return a NxN matrix with ones along the diagonal and mirrored diagonal
+B = eye(N);
+B = B + B(N:-1:1,:)
+De laatste regel is een voorbeeld van adresseren: het selecteert de rijen N,N −1,...,1 uit
+matrix B, m.a.w. keert de volgorde van de rijen om.
+Deze regels sla je op in het bestand MijnFunctie.m. In een script of vanop de commandolijn
+kan je dan bijvoorbeeld
+>> Z = MijnFunctie(4)
+gebruiken i.p.v.
+>> Z = [1 0 0 1;0 1 1 0;0 1 1 0;1 0 0 1];
+De commentaarlijnen net onder de functiedeﬁnitie B = MijnFunctie(N) zullen weergegeven
+worden als je help MijnFunctie typt. Dat is handig voor documentatie en hergebruik van
+je werk. Merk op dat deze functie geen veronderstellingen maakt over de afmeting van de ge-
+wenste matrix, zodat de functie in verschillende problemen ingezet kan worden. Een dergelijk
+ontwerp bestempelen we als good practice.
+0.7 for-lussen
+In een script wil je vaak een aantal bewerkingen uitvoeren voor verschillende waarden van
+een variabele. Daarvoor kent Matlab de for-lus, die we illusteren d.m.v. een voorbeeld:
+>> for t=0:0.1:10,t^2,end
+(In een script kan je dit netjes in drie lijnen uitsplitsen.) zal de variable t achtereenvolgens de
+waarde 0, 0.1, 0.2, 0.3 enz. geven en stopt zodra t de waarde 10 strikt overschrijdt. Voor elk
+van de 101 waarden zullen alle commando’s tot de end worden uitgevoerd. Is het increment
+in de for-lus gelijk aan 1, dan mag je het weglaten:
+>> for k=1:10,MijnScript;end
+zal MijnScript tien keer uitvoeren.
+Wees echter voorzichtig met for-lussen: ze maken de uitvoering traag en het script ono-
+verzichtelijk. Het is net de kracht van Matlab dat je vaak for-lussen kan vervangen door
+matrixbewerkingen. Bijvoorbeeld, je hebt een matrix A en je wil nu graag een vector met
+daarin de Euclidische lengte 1 van elk van de kolommen. Dan kan je dat oplossen met een
+dubbele for-lus:
+>> Lengte=zeros(1,size(A,2));
+>> for kolom=1:size(A,2)
+for rij=1:size(A,1)
+Lengte(kolom)=Lengte(kolom)+A(rij,kolom)^2;
+end % for rij
+Lengte(kolom)=sqrt(Lengte(kolom));
+end % for kolom
+Beter is:
+1De lengte van een rijvector is de vierkantswortel uit de som van de kwadraten van de elementen.
+6>> Lengte=sqrt(sum(A.^2));
+70.8 Belangrijke commando’s en functies
+Commando Betekenis Voorbeeld
+[ ] matrix deﬁni¨eren A=[1 3;4 9]
+(,) adresseren A(2,3);A(2,:)
+’ getransponeerde/Hermitisch toegevoegde B=A’
+* matrixproduct A*B
+.* elementsgewijs product A.*A
+ˆ machtsverheﬃng van een vierkante matrix Aˆ17
+help documentatie help norm
+\ oplossen van een stelsel Ax = b x=A\b
+zeros() matrix met nullen A=zeros(2,3)
+ones() matrix met eentjes A=ones(2,3)
+eye() identiteitsmatrix I=eye(3)
+diag() diagonale matrix I=diag(ones(1,3))
+sin(), cos() elementsgewijze goniometrische functies t=0:0.01:5;y=sin(t)
+tan() t=pi*(0.01:0.01:0.4999);plot(t,tan(t))
+sqrt() elementsgewijze vierkantswortel b=sqrt(a)
+max() maximum en argmax a=[1 2 0];[waarde,index]=max(a)
+sum() som over alle elementen van eenzelfde kolom sum(A,1)
+som over alle elementen van eenzelfde rij sum(A,2)
+rref() gereduceerd echelonvorm van een matrix rref([A b])
+inv() inverse van een vierkante matrix inv(A)
+det() determinant van een vierkant matrix det(A)
+eig() eigenwaarden/eigenvectoren [V,D]=eig(A)
+qr() qr-ontbinding [Q,R]=qr(A,0)
+svd() singuliere waardenontbinding [U,D,V]=svd(A)
+gereduceerde SWO [U,D,V]=svd(A,0)
+plot() plot waarden in y tegen waarden in x t=0:0.01:5;plot(t,sin(2*pi*t))
+plot3() plot met driedimensionale illusie t=0:0.01:5;plot3(t,cos(2*pi*t),sin(2*pi*t))
+axis() stel bereik van een plot in axis([xmin xmax ymin ymax])
+hold teken volgende plots al dan niet over huidige hold on; hold oﬀ
+grid teken een rooster grid on; grid oﬀ
+for for-lus for k=1:10,DoeIets;end
+8

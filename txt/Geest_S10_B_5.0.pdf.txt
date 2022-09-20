@@ -1,0 +1,233 @@
+Overzicht
+Inleiding
+Overzichtvanhethoofdstuk
+Techniek#1:Constituentstype
+Techniek#2:Valentieenweglaatbaarheid
+Techniek#3:Vervangbaarheid
+Techniek#4:Verplaatsbaarheid
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Techniek#3: Vervangbaarheid: Proportionaliteit&
+lexicalisatie
+(47) Fatimadrinktvandaaggemberthee.
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Techniek#3: Vervangbaarheid: Paradigmatavan
+vervangbaarheid
+TypeI-paradigmata
+(cid:277)(cid:262)(cid:279)(cid:262)(cid:265)(cid:270)(cid:268)(cid:274)(cid:262)‘(cid:277)(cid:266)(cid:279)(cid:280)(cid:276)(cid:276)(cid:275)’ (cid:277)(cid:262)(cid:279)(cid:262)(cid:265)(cid:270)(cid:268)(cid:274)(cid:262)‘(cid:287)(cid:262)(cid:262)(cid:272)’
+persoonlijk hij/zij het
+aanwijzend die dat
+vragend wie? wat?
+betrekkelijk die dat
+kwantiﬁcationeel(existentieel) iemand iets
+kwantiﬁcationeel(universeelnegatief) niemand niets
+kwantiﬁcationeel(universeelpositief) iedereen alles
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Techniek#3: Vervangbaarheid: Paradigmatavan
+vervangbaarheid
+TypeII-paradigmata
+(cid:277)(cid:262)(cid:279)(cid:262)(cid:265)(cid:270)(cid:268)(cid:274)(cid:262)‘(cid:281)(cid:270)(cid:271)(cid:265)’ (cid:277)(cid:262)(cid:279)(cid:262)(cid:265)(cid:270)(cid:268)(cid:274)(cid:262)‘(cid:277)(cid:273)(cid:262)(cid:262)(cid:281)(cid:280)’
+persoonlijk dan er
+aanwijzend dan/toen/nu daar/hier
+vragend wanneer? waar?
+betrekkelijk wanneer waar
+kwantiﬁcationeel(existentieel) ooit ergens
+kwantiﬁcationeel(universeelnegatief) nooit nergens
+kwantiﬁcationeel(universeelpositief) altijd overal
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Techniek#3: Vervangbaarheid: Paradigmatavan
+vervangbaarheid
+TypeIII-paradigmata
+(cid:277)(cid:262)(cid:279)(cid:262)(cid:265)(cid:270)(cid:268)(cid:274)(cid:262)‘(cid:284)(cid:270)(cid:271)(cid:287)(cid:266)’ (cid:277)(cid:262)(cid:279)(cid:262)(cid:265)(cid:270)(cid:268)(cid:274)(cid:262)‘(cid:268)(cid:279)(cid:262)(cid:262)(cid:265)/(cid:274)(cid:262)(cid:281)(cid:266)’
+aanwijzend zo zozeer
+vragend hoe? hoezeer?
+betrekkelijk (demanier)waarop (demate)waarin
+kwantiﬁcationeel(existentieel) ?opeenofanderewijze ?enigszins/eenbeetje
+kwantiﬁcationeel(universeelnegatief) ?opgeenenkelewijze ?geenszins/helemaalniet
+kwantiﬁcationeel(universeelpositief) ?opallemogelijkewijzen ?alleszins/helemaal
+(cid:277)(cid:262)(cid:279)(cid:262)(cid:265)(cid:270)(cid:268)(cid:274)(cid:262)‘(cid:265)(cid:282)(cid:282)(cid:279)’ (cid:277)(cid:262)(cid:279)(cid:262)(cid:265)(cid:270)(cid:268)(cid:274)(cid:262)‘(cid:267)(cid:279)(cid:266)(cid:278)(cid:282)(cid:266)(cid:275)(cid:281)(cid:270)(cid:266)’
+aanwijzend zolang zovaak
+vragend hoelang? hoevaak?
+betrekkelijk (deperiode)waarin (elkmoment)dat/waarop
+kwantiﬁcationeel(existentieel) ?enigetijd ?afentoe
+kwantiﬁcationeel(universeelnegatief) ?niet ?geenenkelekeer
+kwantiﬁcationeel(universeelpositief) ?deheletijd ?iederekeer
+(cid:277)(cid:262)(cid:279)(cid:262)(cid:265)(cid:270)(cid:268)(cid:274)(cid:262)‘(cid:272)(cid:284)(cid:262)(cid:275)(cid:281)(cid:270)(cid:281)(cid:266)(cid:270)(cid:281)’
+aanwijzend zoveel
+vragend hoeveel?
+betrekkelijk (dehoeveelheid)die
+kwantiﬁcationeel(existentieel) ?eenbeetje
+kwantiﬁcationeel(universeelnegatief) ?geenenkele
+kwantiﬁcationeel(universeelpositief) ?alle
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .(48) LexicalisatievanTypeIparadigma‘persoon’:wie/die
+NP: [Sylvia]lacht.
+[Devrouw]lacht.
+(49) LexicalisatievanTypeI-paradigma‘zaak’:wat/dat
+NP: Carlaziet[eenauto].
+Carlaeet[eenuitstekendstukjekriekentaartmetslagroom
+datgisterendoorhaardochterisbereid].
+Techniek#3: Vervangbaarheid: Soortenlexicalisatie
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .(49) LexicalisatievanTypeI-paradigma‘zaak’:wat/dat
+NP: Carlaziet[eenauto].
+Carlaeet[eenuitstekendstukjekriekentaartmetslagroom
+datgisterendoorhaardochterisbereid].
+Techniek#3: Vervangbaarheid: Soortenlexicalisatie
+(48) LexicalisatievanTypeIparadigma‘persoon’:wie/die
+NP: [Sylvia]lacht.
+[Devrouw]lacht.
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Techniek#3: Vervangbaarheid: Soortenlexicalisatie
+(48) LexicalisatievanTypeIparadigma‘persoon’:wie/die
+NP: [Sylvia]lacht.
+[Devrouw]lacht.
+(49) LexicalisatievanTypeI-paradigma‘zaak’:wat/dat
+NP: Carlaziet[eenauto].
+Carlaeet[eenuitstekendstukjekriekentaartmetslagroom
+datgisterendoorhaardochterisbereid].
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .(51) LexicalisatievanTypeII-paradigma‘tijd’:wanneer/dan
+AdvP:Ikzaghem[gisteren].
+PP: Hijviel[tijdensdepresentatie]inslaap.
+NP: Ikzaghem[vorigeweek].
+Techniek#3: Vervangbaarheid: Soortenlexicalisatie
+(50) LexicalisatievanTypeII-paradigma‘plaats’:waar/daar
+AdvP:Octaviawerkt[daar].
+PP: Deballigt[opdetafel].
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Techniek#3: Vervangbaarheid: Soortenlexicalisatie
+(50) LexicalisatievanTypeII-paradigma‘plaats’:waar/daar
+AdvP:Octaviawerkt[daar].
+PP: Deballigt[opdetafel].
+(51) LexicalisatievanTypeII-paradigma‘tijd’:wanneer/dan
+AdvP:Ikzaghem[gisteren].
+PP: Hijviel[tijdensdepresentatie]inslaap.
+NP: Ikzaghem[vorigeweek].
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .(53) LexicalisatievanTypeIII-paradigma‘graad/mate’:hoezeer/zozeer
+AP: Hetkindamuseertzich[ongelofelijk].
+AdvP:Hijheeft[zeer]genotenvanhetspektakel.
+PP: Hijheeft[inhogemate]genotenvanhetspektakel.
+(54) LexicalisatievanTypeIII-paradigma‘duur’:hoelang/zolang
+AP: Dewedstrijdduurde[erglang].
+AdvP:Zedacht[eventjes]navoorzeantwoordde.
+PP: Devergaderingduurde[totnamiddernacht].
+NP: Hetheeft[deheleweek]geregend.
+Techniek#3: Vervangbaarheid: Soortenlexicalisatie
+(52) LexicalisatievanTypeIII-paradigma‘wijze’:hoe/zo
+AP: Hetpaardliep[ergsnel].
+AdvP:Debelastingverhogingwerd[domweg]doorgevoerd.
+PP: Zeopendededoos[metveelgeduld].
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .(54) LexicalisatievanTypeIII-paradigma‘duur’:hoelang/zolang
+AP: Dewedstrijdduurde[erglang].
+AdvP:Zedacht[eventjes]navoorzeantwoordde.
+PP: Devergaderingduurde[totnamiddernacht].
+NP: Hetheeft[deheleweek]geregend.
+Techniek#3: Vervangbaarheid: Soortenlexicalisatie
+(52) LexicalisatievanTypeIII-paradigma‘wijze’:hoe/zo
+AP: Hetpaardliep[ergsnel].
+AdvP:Debelastingverhogingwerd[domweg]doorgevoerd.
+PP: Zeopendededoos[metveelgeduld].
+(53) LexicalisatievanTypeIII-paradigma‘graad/mate’:hoezeer/zozeer
+AP: Hetkindamuseertzich[ongelofelijk].
+AdvP:Hijheeft[zeer]genotenvanhetspektakel.
+PP: Hijheeft[inhogemate]genotenvanhetspektakel.
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Techniek#3: Vervangbaarheid: Soortenlexicalisatie
+(52) LexicalisatievanTypeIII-paradigma‘wijze’:hoe/zo
+AP: Hetpaardliep[ergsnel].
+AdvP:Debelastingverhogingwerd[domweg]doorgevoerd.
+PP: Zeopendededoos[metveelgeduld].
+(53) LexicalisatievanTypeIII-paradigma‘graad/mate’:hoezeer/zozeer
+AP: Hetkindamuseertzich[ongelofelijk].
+AdvP:Hijheeft[zeer]genotenvanhetspektakel.
+PP: Hijheeft[inhogemate]genotenvanhetspektakel.
+(54) LexicalisatievanTypeIII-paradigma‘duur’:hoelang/zolang
+AP: Dewedstrijdduurde[erglang].
+AdvP:Zedacht[eventjes]navoorzeantwoordde.
+PP: Devergaderingduurde[totnamiddernacht].
+NP: Hetheeft[deheleweek]geregend.
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .(56) LexicalisatievanTypeIII-paradigma‘kwantiteit’:hoeveel/zoveel
+NP: Debokserweegt[75kilogram].
+Techniek#3: Vervangbaarheid: Soortenlexicalisatie
+(55) LexicalisatievanTypeIII-paradigma‘frequentie’:hoevaak/zovaak
+AP: Hijvergistzich[bijnadagelijks].
+AdvP:Zijmaakt[opnieuw]diezelfdefout.
+PP: Depoetshulpkomt[omdetweeweken].
+NP: Hijwisthaar[iederekeer]omdetuinteleiden.
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Techniek#3: Vervangbaarheid: Soortenlexicalisatie
+(55) LexicalisatievanTypeIII-paradigma‘frequentie’:hoevaak/zovaak
+AP: Hijvergistzich[bijnadagelijks].
+AdvP:Zijmaakt[opnieuw]diezelfdefout.
+PP: Depoetshulpkomt[omdetweeweken].
+NP: Hijwisthaar[iederekeer]omdetuinteleiden.
+(56) LexicalisatievanTypeIII-paradigma‘kwantiteit’:hoeveel/zoveel
+NP: Debokserweegt[75kilogram].
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .(57) NP AP A(cid:265)(cid:283)P PP
+TypeI‘persoon’ ✓ * * *
+TypeI‘zaak’ ✓ * * *
+TypeII‘plaats’ * * ✓ ✓
+TypeII‘tijd’ ✓ * ✓ ✓
+TypeIII‘wijze’ * ✓ ✓ ✓
+TypeIII‘graad/mate’ * ✓ ✓ ✓
+TypeIII‘duur’ ✓ ✓ ✓ ✓
+TypeIII‘frequentie’ ✓ ✓ ✓ ✓
+TypeIII‘kwantiteit’ ✓ * * *
+Techniek#3: Vervangbaarheid: Soortenlexicalisatie
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Techniek#3: Vervangbaarheid: Soortenlexicalisatie
+(57) NP AP A(cid:265)(cid:283)P PP
+TypeI‘persoon’ ✓ * * *
+TypeI‘zaak’ ✓ * * *
+TypeII‘plaats’ * * ✓ ✓
+TypeII‘tijd’ ✓ * ✓ ✓
+TypeIII‘wijze’ * ✓ ✓ ✓
+TypeIII‘graad/mate’ * ✓ ✓ ✓
+TypeIII‘duur’ ✓ ✓ ✓ ✓
+TypeIII‘frequentie’ ✓ ✓ ✓ ✓
+TypeIII‘kwantiteit’ ✓ * * *
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .(58) a. niet-essentieel ) weglaatbaar
+b. niet-weglaatbaar ) essentieel
+(59) a. essentieel ̸) niet-weglaatbaar
+b. weglaatbaar ̸) niet-essentieel
+(60) Hijheeftinderdaadgewonnen.
+(61) Ikbrenghemopdehoogtevanonzeplannen.
+Techniek#3: Vervangbaarheid:
+Proportionaliteit/weglaatbaarheid/essentieelheid
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .(60) Hijheeftinderdaadgewonnen.
+(61) Ikbrenghemopdehoogtevanonzeplannen.
+Techniek#3: Vervangbaarheid:
+Proportionaliteit/weglaatbaarheid/essentieelheid
+(58) a. niet-essentieel ) weglaatbaar
+b. niet-weglaatbaar ) essentieel
+(59) a. essentieel ̸) niet-weglaatbaar
+b. weglaatbaar ̸) niet-essentieel
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .(61) Ikbrenghemopdehoogtevanonzeplannen.
+Techniek#3: Vervangbaarheid:
+Proportionaliteit/weglaatbaarheid/essentieelheid
+(58) a. niet-essentieel ) weglaatbaar
+b. niet-weglaatbaar ) essentieel
+(59) a. essentieel ̸) niet-weglaatbaar
+b. weglaatbaar ̸) niet-essentieel
+(60) Hijheeftinderdaadgewonnen.
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Techniek#3: Vervangbaarheid:
+Proportionaliteit/weglaatbaarheid/essentieelheid
+(58) a. niet-essentieel ) weglaatbaar
+b. niet-weglaatbaar ) essentieel
+(59) a. essentieel ̸) niet-weglaatbaar
+b. weglaatbaar ̸) niet-essentieel
+(60) Hijheeftinderdaadgewonnen.
+(61) Ikbrenghemopdehoogtevanonzeplannen.
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Techniek#3: Vervangbaarheid:
+Proportionaliteit/weglaatbaarheid/essentieelheid
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .

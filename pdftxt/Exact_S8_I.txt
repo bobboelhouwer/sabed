@@ -1,0 +1,234 @@
+19. Fenolen en anilinen
+• -OH of –NH2 groep direct gebonden aan aromatische ring
+
+• afwijkende eigenschappen ten opzichte van klassieke
+alcoholen en aminen omwille van delocalisatie van het vrij
+elektronenpaar op het heteroatoom over de aromatische ring
+→ aparte klasse van verbindingen
+
+• planaire structuur fenol
+• waterstofbrugvorming
+
+1,36 Å
+(1,42 Å in MeOH)
+
+Fenolen en anilinen
+
+1
+
+ 19.1 Nomenclatuur
+• koolstofatoom met -OH of –NH2 groep krijgt nummer 1 (indien
+geen meer prioritaire substituenten aanwezig uiteraard)
+• overige substituenten: zo laag mogelijk nummer, alfabetisch
+
+N-fenylaniline
+(N,N-difenylamine)
+
+Fenolen en anilinen
+
+2
+
+ 19.2 Voorkomen en eigenschappen fenolen
+• hoger smeltpunt, kookpunt en wateroplosbaarheid in
+vergelijking met verbindingen met gelijkaardige massa
+
+C6H5CH3
+
+C6H5OH
+
+C6H5F
+
+Molecuulmassa
+
+92
+
+94
+
+96
+
+Smelpunt (°C)
+
+–95
+
+43
+
+–41
+
+Kookpunt (°C,1 atm)
+
+111
+
+132
+
+85
+
+Oplosbaarheid in
+H2O (g/100 mL, 25°C)
+
+0.05
+
+8.2
+
+0.2
+
+Fenolen en anilinen
+
+3
+
+ • vroeger als antisepticum gebruikt
+• fenolcoëfficiënt (effectiviteit tegen Staphylococcus aureus
+vergelijken met 5% fenoloplossing)
+• derivaten met antibacteriële eigenschappen:
+
+• werking hangt deels af van polariteit
+• complexe fenolen komen veelvuldig in natuur voor:
+o.a. estron, estradiol en thyroxine
+
+Fenolen en anilinen
+
+4
+
+ 19.3 Zuursterkte van fenolen
+• zuurder dan alcoholen (pKa fenol = 10, pKa ethanol = 16)
+• reden: stabilisatie fenolaat via mesomerie
+(zie figuur dissociatie-energieën besproken in inleiding slide 47)
+o
+p
+• elektronenzuigende substituenten in o,p (gevers weinig effect)
+o
+
+-I, -M
+
+p
+
+Fenolen en anilinen
+
+5
+
+ 19.4 Fenol als nucleofiel
+• fenolaatanion is goed nucleofiel
+
+Fenolen en anilinen
+
+6
+
+ 19.5 Anilinen
+• zwakkere base dan alifatische aminen
+• mesomere stabilisatie niet meer mogelijk bij geprotoneerd
+aniline (zie slide 49 inleiding)
+• elektronengevende substituenten doen basesterkte stijgen,
+elektronenzuigers doen basesterkte dalen
++I, +M
+
+Fenolen en anilinen
+
+-I, -M
+
+7
+
+ 19.6 Aniline als nucleofiel
+• vrij elektronenpaar N is nucleofiel
+• vorming gealkyleerde anilinen, (sulfon)aniliden
+
+SN2
+alkylering
+
+AEN
+acylering
+“sulfa drugs”
+
+Fenolen en anilinen
+
+8
+
+ 19.7 Oxidatie van fenolen
+• fenolaten: vorming gestabiliseerde fenoxyradicalen
+
+• fenol: vorming gestabiliseerde fenoxyradicalen
+
+-H+, -e-
+
+Fenolen en anilinen
+
+9
+
+ • toepassing als anti-oxidantia: zuurstof reageert eerder
+met fenolderivaat dan met vetten en oliën
+
+(E320)
+
+BHA 3-tert-butyl-4-hydroxyanisool
+BHT 3,5-di-tert-butyl-4-hydroxytolueen
+Vetoplosbaar, voeding, cosmetica
+
+• in natuur: tocoferolen (in plantaardige oliën)
+
+OH
+
+O
+
++ 2H+ + 2e-
+
+hydrochinon
+
+Fenolen en anilinen
+
+OH
+
+O
+
+chinon
+
+10
+
+ 19.8 Fenolen in natuurproducten
+polyketiden
+• groep natuurproducten opgebouwd uit polyacylketens via
+condensatie van acetylcoënzym A (4 tot 10 eenheden)
+• eerst lineaire polyacetylketen (gelijkenis vetzuursynthese)
+
+Claisen-type condensatiereactie
+
+Fenolen en anilinen
+
+11
+
+ • gevolgd door intramoleculaire cyclisatiereactie ter
+vorming van fenolen
+
+Fenolen en anilinen
+
+12
+
+ biosynthese van aromaten via shikimaatroute
+
+shikimaten en fenylpropanen
+
+(illustratief)
+
+Fenolen en anilinen
+
+polyhydroxybenzoëzuren
+(glycosiden)
+
+mono
+
+fenylpropanen
+
+13
+
+ aspirine
+
+AEN
+
+SEAr
+
+• synthese uit fenolaat: Kolbe-Schmitt-reactie
+
+Fenolen en anilinen
+
+Enzymen
+
+14
+
+ 

@@ -1,0 +1,237 @@
+Overzicht
+Protoypiciteitherbekeken
+Hetsubjectscomplement
+Hetnaamwoordelijkgezegde
+De“bepalingvangesteldheid”
+Terugnaarhetsubjectscomplement
+Hetobjectscomplement
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .(18) a. Kwaadliephijdekameruit.
+b. Mijnvaderisarmgestorven.
+c. Alsstudentwoondehijopkot.
+d. Debloemenregenenkapot.
+e. Datvoorstelklinktheelinteressant.
+f. Deleidingvriestuiteen.
+De“bepalingvangesteldheid”
+(16) Hijgingwaarschijnlijknaarhuis.
+(17) Hijgingteleurgesteldnaarhuis.
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .De“bepalingvangesteldheid”
+(16) Hijgingwaarschijnlijknaarhuis.
+(17) Hijgingteleurgesteldnaarhuis.
+(18) a. Kwaadliephijdekameruit.
+b. Mijnvaderisarmgestorven.
+c. Alsstudentwoondehijopkot.
+d. Debloemenregenenkapot.
+e. Datvoorstelklinktheelinteressant.
+f. Deleidingvriestuiteen.
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .De“bepalingvangesteldheid”
+Hijgingteleurgesteldnaarhuis. Debloemenregenenkapot.
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Overzicht
+Protoypiciteitherbekeken
+Hetsubjectscomplement
+Hetnaamwoordelijkgezegde
+De“bepalingvangesteldheid”
+Terugnaarhetsubjectscomplement
+Hetobjectscomplement
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .(19) a. Debloemenregenenkapot.
+b. Deleidingvriestaanﬂarden.
+c. Janisdirecteur.
+d. Hetvoorstelklinktalsmuziekinmijnoren.
+Terugnaarhetsubjectscomplement
+(cid:280)(cid:282)(cid:263)(cid:271)(cid:266)(cid:264)(cid:281)(cid:280)(cid:264)(cid:276)(cid:274)(cid:277)(cid:273)(cid:266)(cid:274)(cid:266)(cid:275)(cid:281)
+code 10+
+constituent AP,PP,NP,als-NP
+valentie nietinvalentie
+introduceertzelfvalentie
+niet-weglaatbaar
+vervangbaarheid meestalnietproportioneel,
+maarsomswelmetTypeI(zaak)ofTypeIII(wijze)
+verplaatsbaarheid ??AL,VV,*MV1,*MV2,MV3,*AV,??UL
+extra staatineenpredicatieverelatiemethetsubject
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Terugnaarhetsubjectscomplement
+(cid:280)(cid:282)(cid:263)(cid:271)(cid:266)(cid:264)(cid:281)(cid:280)(cid:264)(cid:276)(cid:274)(cid:277)(cid:273)(cid:266)(cid:274)(cid:266)(cid:275)(cid:281)
+code 10+
+constituent AP,PP,NP,als-NP
+valentie nietinvalentie
+introduceertzelfvalentie
+niet-weglaatbaar
+vervangbaarheid meestalnietproportioneel,
+maarsomswelmetTypeI(zaak)ofTypeIII(wijze)
+verplaatsbaarheid ??AL,VV,*MV1,*MV2,MV3,*AV,??UL
+extra staatineenpredicatieverelatiemethetsubject
+(19) a. Debloemenregenenkapot.
+b. Deleidingvriestaanﬂarden.
+c. Janisdirecteur.
+d. Hetvoorstelklinktalsmuziekinmijnoren.
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Terugnaarhetsubjectscomplement
+(cid:280)(cid:282)(cid:263)(cid:271)(cid:266)(cid:264)(cid:281)(cid:280)(cid:264)(cid:276)(cid:274)(cid:277)(cid:273)(cid:266)(cid:274)(cid:266)(cid:275)(cid:281)
+code 10+
+constituent AP,PP,NP,als-NP
+valentie nietinvalentie
+introduceertzelfvalentie
+niet-weglaatbaar
+vervangbaarheid meestalnietproportioneel,
+maarsomswelmetTypeI(zaak)ofTypeIII(wijze)
+verplaatsbaarheid ??AL,VV,*MV1,*MV2,MV3,*AV,??UL
+extra staatineenpredicatieverelatiemethetsubject
+(20) a. Debloemenregenenkapot.
+b. *Debloemenregenendat/zo/zozeer.
+c. *Wat/Hoeregenendebloemen?
+(21) a. Datvoorstelklinktheelinteressant.
+b. Zoklinktdatvoorstel.
+c. Hoeklinktdatvoorstel?
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Terugnaarhetsubjectscomplement
+(cid:280)(cid:282)(cid:263)(cid:271)(cid:266)(cid:264)(cid:281)(cid:280)(cid:264)(cid:276)(cid:274)(cid:277)(cid:273)(cid:266)(cid:274)(cid:266)(cid:275)(cid:281)
+code 10+
+constituent AP,PP,NP,als-NP
+valentie nietinvalentie
+introduceertzelfvalentie
+niet-weglaatbaar
+vervangbaarheid meestalnietproportioneel,
+maarsomswelmetTypeI(zaak)ofTypeIII(wijze)
+verplaatsbaarheid ??AL,VV,*MV1,*MV2,MV3,*AV,??UL
+extra staatineenpredicatieverelatiemethetsubject
+(22) a. *Kapot,zo/datregenendebloemen.
+b. ?Interessant,zoklinkthetvoorstel.
+c. Ziek,datishijnietmeer.
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Terugnaarhetsubjectscomplement
+(cid:280)(cid:282)(cid:263)(cid:271)(cid:266)(cid:264)(cid:281)(cid:280)(cid:264)(cid:276)(cid:274)(cid:277)(cid:273)(cid:266)(cid:274)(cid:266)(cid:275)(cid:281)
+code 10+
+constituent AP,PP,NP,als-NP
+valentie nietinvalentie
+introduceertzelfvalentie
+niet-weglaatbaar
+vervangbaarheid meestalnietproportioneel,
+maarsomswelmetTypeI(zaak)ofTypeIII(wijze)
+verplaatsbaarheid ??AL,VV,*MV1,*MV2,MV3,*AV,??UL
+extra staatineenpredicatieverelatiemethetsubject
+(23) a. dathetvoorstelmijgistereninteressantleek.
+b. *dathetvoorstelmijinteressantgisterenleek.
+c. datMashagisterenziekwas.
+d. *datMashaziekgisterenwas.
+e. datdebloemengisterenkapotregenden.
+f. *datdebloemenkapotgisterenregenden.
+(24) a. *dathijleekindewar.
+b. *datzijwasindewolken.
+c. *datdebloemenregendenaanﬂarden. . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Overzicht
+Protoypiciteitherbekeken
+Hetsubjectscomplement
+Hetnaamwoordelijkgezegde
+De“bepalingvangesteldheid”
+Terugnaarhetsubjectscomplement
+Hetobjectscomplement
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Hetobjectscomplement
+(25) Carlosveegtdebezemaanﬂarden.
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .(26) a. Hijmaaktzijnjasvuil.
+b. Menverklaardehemvoorgek.
+c. Ikvindhemeenidioot.
+d. Ikbeschouwhaaralsmijnmentor.
+(27) a. #Carlosveegtdebezem.
+b. *Menverklaardehem.
+c. *Ikbeschouwhaar.
+Hetobjectscomplement
+(cid:276)(cid:263)(cid:271)(cid:266)(cid:264)(cid:281)(cid:280)(cid:264)(cid:276)(cid:274)(cid:277)(cid:273)(cid:266)(cid:274)(cid:266)(cid:275)(cid:281)
+code 30+
+constituent AP,PP,NP,als-NP
+valentie nietinvalentie
+introduceertzelfvalentie
+niet-weglaatbaar
+vervangbaarheid meestalnietproportioneel,
+maarsomswelmetTypeIII(wijze)
+verplaatsbaarheid ??AL,VV,*MV1,*MV2,MV3,*AV,??UL
+extra staatineenpredicatieverelatiemethetdirectobject
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .(27) a. #Carlosveegtdebezem.
+b. *Menverklaardehem.
+c. *Ikbeschouwhaar.
+Hetobjectscomplement
+(cid:276)(cid:263)(cid:271)(cid:266)(cid:264)(cid:281)(cid:280)(cid:264)(cid:276)(cid:274)(cid:277)(cid:273)(cid:266)(cid:274)(cid:266)(cid:275)(cid:281)
+code 30+
+constituent AP,PP,NP,als-NP
+valentie nietinvalentie
+introduceertzelfvalentie
+niet-weglaatbaar
+vervangbaarheid meestalnietproportioneel,
+maarsomswelmetTypeIII(wijze)
+verplaatsbaarheid ??AL,VV,*MV1,*MV2,MV3,*AV,??UL
+extra staatineenpredicatieverelatiemethetdirectobject
+(26) a. Hijmaaktzijnjasvuil.
+b. Menverklaardehemvoorgek.
+c. Ikvindhemeenidioot.
+d. Ikbeschouwhaaralsmijnmentor.
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Hetobjectscomplement
+(cid:276)(cid:263)(cid:271)(cid:266)(cid:264)(cid:281)(cid:280)(cid:264)(cid:276)(cid:274)(cid:277)(cid:273)(cid:266)(cid:274)(cid:266)(cid:275)(cid:281)
+code 30+
+constituent AP,PP,NP,als-NP
+valentie nietinvalentie
+introduceertzelfvalentie
+niet-weglaatbaar
+vervangbaarheid meestalnietproportioneel,
+maarsomswelmetTypeIII(wijze)
+verplaatsbaarheid ??AL,VV,*MV1,*MV2,MV3,*AV,??UL
+extra staatineenpredicatieverelatiemethetdirectobject
+(26) a. Hijmaaktzijnjasvuil.
+b. Menverklaardehemvoorgek.
+c. Ikvindhemeenidioot.
+d. Ikbeschouwhaaralsmijnmentor.
+(27) a. #Carlosveegtdebezem.
+b. *Menverklaardehem.
+c. *Ikbeschouwhaar.
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Hetobjectscomplement
+(cid:276)(cid:263)(cid:271)(cid:266)(cid:264)(cid:281)(cid:280)(cid:264)(cid:276)(cid:274)(cid:277)(cid:273)(cid:266)(cid:274)(cid:266)(cid:275)(cid:281)
+code 30+
+constituent AP,PP,NP,als-NP
+valentie nietinvalentie
+introduceertzelfvalentie
+niet-weglaatbaar
+vervangbaarheid meestalnietproportioneel,
+maarsomswelmetTypeIII(wijze)
+verplaatsbaarheid ??AL,VV,*MV1,*MV2,MV3,*AV,??UL
+extra staatineenpredicatieverelatiemethetdirectobject
+(28) a. *Menverklaardehemdat/zo.
+b. *Hoe/Watverklaardemenhem?
+c. Ikvindhem*dat/??zo.
+d. Hoe/*Watvindjehem?
+e. Zenoemenme*dat/zo.
+f. Hoe/*Watnoemenzeje?
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Hetobjectscomplement
+(cid:276)(cid:263)(cid:271)(cid:266)(cid:264)(cid:281)(cid:280)(cid:264)(cid:276)(cid:274)(cid:277)(cid:273)(cid:266)(cid:274)(cid:266)(cid:275)(cid:281)
+code 30+
+constituent AP,PP,NP,als-NP
+valentie nietinvalentie
+introduceertzelfvalentie
+niet-weglaatbaar
+vervangbaarheid meestalnietproportioneel,
+maarsomswelmetTypeIII(wijze)
+verplaatsbaarheid ??AL,VV,*MV1,*MV2,MV3,*AV,??UL
+extra staatineenpredicatieverelatiemethetdirectobject
+(29) a. ??Vervelend,zovindikhem.
+b. Carlosheeftdebezemgisterenaanﬂardengeveegd.
+c. *Carlosheeftdebezemaanﬂardengisterengeveegd.
+d. *Carlosheeftdebezemgisterengeveegdaanﬂarden.
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Hetobjectscomplement
+▶ ookhier:“bepalingvangesteldheid”
+(30) a. Hijeetdevisrauw.
+b. Wevangendieleeuwlevend.
+c. IknoemhemJan.
+d. Hijnoemdemijeenidioot.
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Hetobjectscomplement
+Hijeetdevisrauw. IknoemhemJan.
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .

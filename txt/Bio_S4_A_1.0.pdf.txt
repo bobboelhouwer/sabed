@@ -1,0 +1,250 @@
+LES 1  DNA STRUCTUUR EN DNA REPLICATIEDNA STRUCTUUR4.8 miljard:  ontstaan van de aarde
+3.8-3.5 miljard:  ontstaan van het eerste leven (prokaryoten)
+atmosfeer initieel anaeroob
+2.4-2 miljard:  ontstaan van photosynthese
+toenemende zuurstofconcentratie atmosfeer
+1.5 miljard:  ontstaan van de eukaryoten → multicellulaire organismen
+0.5 miljard: vissen
+420 miljoen: eerste landdieren
+50.000: homo sapiensKleine cel: 1µm
+Geen kernmembraan
+Circulair chromosoom
+DNA: 1-5 x 106 nucleotiden
+Geen cytoskelet
+Geen organellenGrotere cel: 10-100 µm
+Wel kernmembraan
+Lineaire chromosomen
+DNA: 1-5 x 109 nucleotiden
+Wel cytoskelet
+Eukaryote cel
+Wel organellenFungi Planten Dieren
+EUKARYOTEN
+Multicellulair 
+Protozoa
+Unicellulair 
+Archaebacteriae
+Eubacteriae
+PROKARYOTENBouwstenen van de cel
+H 0
+2
+Suikers (sacchariden) → Polysacchariden
+Vetzuren  → Vetten
+Aminozuren → Eiwitten
+Basen → Nucleotiden → Nucleinezuren (DNA / RNA)
+Base + Pentose + Fosfaat
+Pyrimidines Purines
+Cytosine (C) Adenine (A)
+Thymine (T) Guanine (G)
+Uracil (U) ( RNA !! )BASEN
+Pyrimidines Purines
+Cytosine Adenine
+Thymine ( DNA !! ) Guanine
+Uracil ( RNA !! )
+C C
+N
+C N C N
+C
+C C C C
+N
+N NBasen → Nucleotiden → Nucleinezuren (DNA / RNA)
+Base + Pentose + Fosfaat
+O O
+5 5
+HOCH H HOCH H
+2 2
+1 1
+4 4
+H OH H OH
+H H H H
+3 2 3 2
+OH OH OH H
+RIBOSE DEOXYRIBOSE
+DNA
+RNA
+RIBONUCLEINEZUUR DEOXYRIBONUCLEINEZUURC
+C N
+C C
+N
+O
+5
+HOCH
+2
+4 1
+H H
+H H
+3 2
+OH H
+NUCLEOSIDEC
+C N
+C C
+N
+5 O
+P
+CH
+2
+4 1
+H H
+H H
+3 2
+OH H
+NUCLEOSIDE
+NUCLEOTIDEC
+C N
+C C
+N
+5 O
+P P P
+CH
+2
+tri di mono 4 1
+H H
+fosfaat H H
+3 2
+OH HBOUWSTENEN
+RNA
+Adenosine mono/di/tri fosfaat AMP / ADP / ATP
+Guanosine mono/di/tri fosfaat GMP / GDP / GTP
+Cytidine mono/di/tri fosfaat CMP / CDP / CTP
+Uridine mono/di/tri fosfaat UMP / UDP / UTP
+DNA
+Deoxyadenosine mono/di/tri fosfaat dAMP / dADP / dATP
+Deoxyguanosine mono/di/tri fosfaat dGMP / dGDP / dGTP
+Deoxycytidine mono/di/tri fosfaat dCMP / dCDP / dCTP
+Deoxythymidine mono/di/tri fosfaat dTMP / dTDP / dTTPBASE
+5
+O
+P
+CH
+2
+4 1
+H H
+H H
+3 2
+FOSFODIESTER BINDING
+OH H
+P
+BASE
+5
+O
+P
+CH
+2
+4 1
+H H
+H H
+2
+3
+OH H5’ uiteinde
+3’ uiteinde
+P
+BASE
+5 O
+CH
+2
+3
+3 5
+O
+P ESAB
+BASE P
+O
+5 3
+3 5
+O
+P ESAB
+BASE P
+O
+5 3
+3
+2HC
+O
+5
+ESAB
+P
+3’ uiteinde
+5’ uiteinde5’ uiteinde
+3’ uiteinde
+P
+BASE
+5 O
+CH
+2
+3
+3 5
+O
+P ESAB
+BASE P
+O
+5 3
+3 5
+O
+P ESAB
+BASE P
+O
+5 3
+3
+2HC
+O
+5
+ESAB
+P
+3’ uiteinde
+5’ uiteindeComplementaire
+HelixHelix structuur DNAVERSCHIL DNA VERSUS RNA3’
+5’Menselijk genoom: 3 miljard basenparen
+1000 bp = 1 kb
+2%
+Coderende sequenties
+23%
+40%
+Niet-coderende delen van genen
+Verspreid repetitief DNA
+25%
+Enkelvoudig DNA
+10%
+Gegroepeerd repetitief DNA
+Klein stukje extra-nucleair DNA of mitochondriale DNADNA REPLICATIEDNA replicatie: semi-conservatiefCyclus van de cel
+Mitose
+Interfase
+DNA replicatieOrigins of replication
+100 basenparen / seconde
+Ganse replicatie: 8 uur5’ 3’
+Origins of replication
+Helicase
+Okazaki fragmenten
+DNA polymerase
+Ligase
+RNA primer
+3’ 5’ 5’
+3’
+LEADING strand LAGGING strandBASE
+5
+O
+P
+CH
+2
+4 1
+H H
+H H
+2
+3
+FOSFODIESTER BINDING
+OH H
+P
+BASE
+DNA POLYMERASE
+5
+O
+P
+CH
+2
+4 1
+H H
+DNA herstel en fouten corrigeren (G ) H H
+2
+2
+3
+OH HOrigins of replication
+100 basenparen / seconde
+Ganse replicatie: 8 uurDNA replicatie:  verdubbeling
+DNA transcriptie: copie van het DNA naar RNA
+Translatie eiwitsynthese

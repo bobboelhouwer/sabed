@@ -1,0 +1,2997 @@
+Natuurwetenschappen en
+archeologie
+Deel Archeometrie
+Prof. Dr. P. Degryse
+(Dr. ir. Frederik Rademakers)
+
+(B-KUL-F0IC3A)
+
+ Archeologische vraagstelling
+
+Identificatie
+Herkomst → grondstoffen, productiecentra
+
+Productietechniek
+Ouderdom, authenticiteit
+
+ Archeologische vraagstelling
+
+Uit cursus G108: “Archaeometallurgy”, UCL, 2011
+
+    Archeologische vraagstelling
+• Objecten zijn vaak eind-product (studie van consumptie/gebruik)
+• Aan de basis ligt een productie-keten (chaîne opératoire)
+• Technologie
+• Productie-processen en -technieken
+• Uitvinding, verspreiding en aanpassing
+• Technologische keuzes, stijl
+• Organisatie en context van productie
+• Workshops/ateliers en sites
+• Samenlevingen en culturen
+
+• Herkomst
+• Geologische oorsprong van materialen
+• Productie-centra
+• Uitwisseling - handel
+
+Informatie over keten zit
+vervat in zowel objecten als
+productie-resten, en hun
+specifieke vind-context
+
+ Archeologische vraagstelling
+• Archeologie draait om mensen, niet dingen
+• Objecten en productieresten bevatten veel informatie over menselijk
+gedrag, van individu tot productie-centra en samenlevingen
+• Studie van materialen is een stap in het begrijpen van vroegere mens,
+niet een doel op zich
+• In dit deel: technieken om materialen te bestuderen
+• Meer focus op objecten dan productieresten
+• Complexiteit van verschillende materialen en productieprocessen
+→ hier enkel de basis van belangrijkste materialen
+
+ Fysico-chemische analyses – Archeometrie
+• Inleiding: energie, atomen, EM straling
+• Belangrijkste archeologische materialen
+• Analysemethodes
+• Beeldvorming
+• Spectroscopie
+• Scheidingsmethoden
+• Andere analysemethoden
+
+• Anorganische materialen: analyse
+• Organische materialen: analyse
+
+ Inleiding
+• Energie is de capaciteit van een systeem om warmte, licht of
+beweging te produceren. Energie wordt ook aangeduid als de
+mogelijkheid om arbeid te verrichten, of ruimer: de mogelijkheid om
+een verandering te bewerkstelligen. (Wikipedia)
+• Arbeid: overdracht van energie van een systeem naar een ander
+systeem
+
+ Inleiding
+• Bijvoorbeeld
+• Kinetische energie
+• Gravitatie-energie
+(potentiële energie)
+• Elektromagnetische
+energie
+• Warmte
+
+• Steeds behoud van
+energie! Enkel
+omzetting mogelijk
+
+ Bron: abyss.uoregon.edu
+
+Inleiding
+• Elektromagnetische straling: kan
+beschreven worden als golf (typisch
+bij lage frequenties) of als deeltje
+(photon – typisch bij hoge
+frequenties)
+• Golf: beschrijven voortplanting
+straling
+• Photon: beschrijven interactie
+(energie-uitwisseling) met materie
+
+ Inleiding
+
+Hz = 1/seconde (frequentie: f)
+Golflengte (l) in m
+Snelheid (v) van een EM golf
+in vacuum: lichtsnelheid (ca.
+300 000 km/s)
+v = f*l
+Energie van een golf: E = f*h
+(h is constante)
+
+Terminologie ~ beschreven proces
+(voortplanting vs interactie)
+Radio- & microgolven
+Licht- & X-stralen
+Gamma deeltjes
+
+ Inleiding
+• Een atoom is van ieder scheikundig element de kleinste nog als
+zodanig herkenbare bouwsteen. Weliswaar bestaan atomen op hun
+beurt uit nog kleinere elementaire deeltjes, zoals quarks, maar deze
+hebben niet de eigenschappen van het betrokken chemische
+element.
+• Vrijwel alle scheikundige en natuurkundige eigenschappen van de op
+aarde voorkomende materie zijn gekoppeld aan de eigenschappen
+van atomen. Het atoom is daarom een sleutelbegrip in deze beide
+wetenschappen.
+(Wikipedia)
+
+ Inleiding
+• Atomen
+• Neutronen (kern) (0)
+• Protonen (kern) (+)
+• Elektronen (orbitalen) (-)
+
+• Atoomnummer (Z):
+aantal protonen
+• Massagetal:
+som protonen & neutronen
+
+ Inleiding
+• Elementen bestaan uit 1 type atoom → elementen zijn verschillende
+types atomen met een bepaald atoomnummer
+• Orbitalen worden voorgesteld als schil (atoommodel van Bohr, 1913)
+
+ Inleiding
+• Steeds zelfde aantal protonen (kern) als elektronen (schillen):
+elektrisch neutraal
+• Isotopen van eenzelfde element hebben hetzelfde aantal protonen en
+elektronen, maar een verschillend aantal neutronen (kern)
+
+• Zelfde
+atoomnummer
+• Verschillend
+massagetal
+
+ Inleiding
+• Isotopen komen natuurlijk voor
+• Radio-actief verval: half-leven
+b-straling = elektron
+
+(g-straling betreft EM-straling, geen deeltjes!)
+
+ Z = # protonen
+N = # neutronen
+
+Inleiding
+• Isotopen komen natuurlijk voor
+• Radio-actief verval: half-leven
+
+ Inleiding
+• Bohr model
+• Positief geladen kern
+• Schillen met negatief geladen elektronen
+
+• Opvulling van schillen
+• Toenemend # e-:
+opvulling binnen naar buiten
+
+ Inleiding
+• Elke schil heeft een verschillend energieniveau: grotere
+bindingsenergie voor elektronen binnenste schillen
+
+ Inleiding
+
+Elektronen in orbitalen → niet in deze cursus
+
+ Elke kolom
+(groep) komt
+overeen met
+de opvulling
+van de
+valentie-schil:
+gelijkaardig
+chemisch
+gedrag
+
+Elke rij (periode)
+komt overeen
+met bijkomende
+orbitalen
+
+  Inleiding
+• Elementen bestaan uit 1 type atoom
+• Chemische verbindingen
+• Ion-binding
+
+Cation
+
+Anion
+
+ Inleiding
+• Elementen bestaan uit 1 type atoom
+• Chemische verbindingen
+• Ion-binding
+• Covalente binding: gedeeld electronenpaar
+
+ Inleiding
+• Elementen bestaan uit 1 type atoom
+• Chemische verbindingen
+• Ion-binding
+• Covalente binding
+• Metaalbinding
+
+ Inleiding
+• Chemische verbindingen → Molecules
+• Zelfde atoomsoort: O2 – Cl2 – Ne – Ar
+• Verschillende atoomsoorten: H2O – CH4 – SiO2
+
+• Bouwstoffen van de materie
+
+ Inleiding
+
+ Archeologische materialen
+• Meest voorkomende archeologische materialen (anorganisch):
+• Gesteenten
+• Keramiek
+• Glas
+• Metaal
+
+ Archeologische materialen: gesteenten
+
+Kwarts: SiO2
+
+Graniet: kwarts + verschillende veldspaten
+
+ Archeologische materialen: gesteenten
+• Gesteenten zijn opgebouwd uit mineralen
+• Elementen – bv. Sb, Pb, C, Cu, S …
+• Haliden – bevatten Br-, Cl-, F-, I• Sulfiden – bevatten S2• Oxiden, hydroxides – bevatten O2- of OH• Carbonaten, nitraten, boraten – bevatten CO3-, NO3- of BO33• Sulfaten – bevatten SO4• Fosfaten, arsenaten, vanadaten – bevatten PO43-, AsO43- of VO43• Silicaten – bevatten SiO44- → Meest voorkomend op aarde
+
+ Archeologische materialen: gesteenten
+• Silicaten worden ingedeeld volgens kristal-structuur
+
+ Archeologische materialen: gesteenten
+• Magmatische, sedimentaire
+en metamorfe gesteenten
+
+Bron: geology.com
+
+ Archeologische materialen: gesteenten
+→ Mineralogie, chemische samenstelling en (micro)textuur*
+karakteriseren type
+
+Bron: world-archaeology.com
+
+*Textuur: relatie tussen
+verschillende mineralen in gesteente
+→ grootte, vorm, verhouding …
+
+ Archeologische materialen: gesteenten
+• Veel voorkomende magmatische gesteenten
+
+Graniet
+Basalt
+
+Obsidiaan
+
+ Archeologische materialen: gesteenten
+• Veel voorkomende sedimentaire gesteenten
+
+Zandsteen
+
+Kalksteen
+
+ Archeologische materialen: gesteenten
+• Veel voorkomende metamorfe gesteenten
+
+Kwartsiet
+→ metamorfe zandsteen
+
+Marmer
+→ metamorfe kalksteen
+
+ Archeologische materialen: gesteenten
+• Bepaling van herkomst (mineralogie, chemie + isotopen, textuur)
+• Studie van ontginnings- & bewerkingstechnieken, organisatie
+daarvan, gebruik, …
+
+©Dayr al-Barsha Project
+
+ Archeologische materialen: keramiek
+
+ Archeologische materialen: keramiek
+• Keramiek = gebakken klei
+• Klei = sediment met korrelgrootte < 2mm
+• Vaak geen pure klei
+• Natuurlijke inclusies
+• Magering
+
+• Organisch
+• Anorganisch: Sediment, grog (vermalen keramiek)
+
+• Groffere fracties (silt, zand)
+
+• Vormgeving
+• Baktemperatuur
+• Decoratie: pigmenten, glazuur, …
+→ Chemische samenstelling, mineralogie,
+structuur, (micro)textuur
+
+ Archeologische materialen: keramiek
+• Bepaling van herkomst (mineralogie, chemie, textuur)
+• Studie van productietechnieken & -organisatie, gebruik, iconografie …
+
+Organisch residu
+(Amarna project)
+
+ Archeologische materialen: glas
+
+Collection Staatliche Antikensammlung
+
+metmuseum.org
+
+metmuseum.org
+
+ Archeologische materialen: glas
+• Mix van
+• Zand (SiO2)
+• Flux: plant assen – natron
+• Stabilisator: Calcium-bron (CaO) – soms in zand of flux aanwezig
+
+→ Chemische samenstelling
+• Geen kristal-structuur → amorf !
+
+ Archeologische materialen: glas
+• Bepaling van herkomst (chemie + isotopen)
+• Studie van productietechnieken & -organisatie, gebruik, iconografie …
+
+ Archeologische materialen: metaal
+
+Erts
+Brandstof
+Lucht
+
+Metaal
+Slak
+Craddock and Hughes (1985): Furnaces and smelting technology in
+antiquity, British Museum Occasional Paper 48
+
+ Archeologische materialen: metaal
+• Metaal: puur of legering → chemische samenstelling
+
+Messing: Cu + Zn
+Staal: Fe + C + Cr + Ni/Mo/Mn/…
+Brons: Cu + Sn (+ Pb)
+
+ Archeologische materialen: metaal
+• Metaal: gegoten en/of bewerkt → microstructuur
+
+ Archeologische materialen: metaal
+• Bepaling van herkomst (chemie + isotopen)
+• Studie van productietechnieken & -organisatie, gebruik, iconografie …
+
+ Archeologische materialen: organisch
+• DNA (zie eerder)
+• Proteïnen (eiwitten en peptiden) → Collageen
+• Tanden en beenderen
+→ Stabiele isotopenonderzoek: voeding + migratie
+• Lipiden (vetten)
+• Sacchariden (suikers)
+• Residu-analyse
+→ Meestal amorf
+→ Kleur
+→ Moleculaire en chemische analyse
+Canaanite jar, Amarna
+
+ historicengland.org.uk/images-books/publications/organic-residue-analysis-and-archaeology/
+
+ Archeologische materialen: organisch
+• Moleculaire analyse d.m.v. chromatografische methodes
+• Gekoppeld met chemische analyse
+
+ Analyse van archeologische materialen
+• Wat willen we weten?
+• Wat is daarvoor nodig?
+• Wat kan methode leveren?
+
+→ Selectie juiste analysemethode
+→ Indeling verschillende methodes
+
+ Analyse: indeling
+• Staalname of niet?
+• Invasieve vs. niet-invasieve methodes
+
+• Destructieve vs. niet-destructieve methodes
+→ verwijst naar staal, niet object
+
+ Analyse: indeling
+• Non-invasief: rechtstreekse analyse
+→ In labo of in situ
+→ In situ vereist mobiele,
+draagbare of handbediende techniek
+
+ Analyse: indeling
+• Invasief: staalname
+• In functie van vraagstelling
+• Kwaliteit staal → Kwaliteit analyse
+• Ruimtelijke resolutie
+→ Representatief voor object?
+• Willekeurig, systematisch of gerichte staalname
+→ Bias?
+• Contaminatie?
+
+ Analyse: indeling
+• Analysevolume
+• Punt-analyse
+• Mapping, imaging
+
+• Oppervlakte-analyse
+• Bulk-analyse
+• Gemiddelde van diepere lagen van een voorwerp
+• Diepte?
+• Homogeniteit
+→ Afhankelijk van analyse-methode
+en geanalyseerd materiaal
+
+Arbitraire grenzen?
+
+ Analyse: indeling
+• Analysevolume
+• Ruimtelijke resolutie?
+Kleinste deeltjesgrootte die geanalyseerd/onderscheiden kan worden;
+grootte van het meetvolume
+
+ Analyse: indeling
+• Hier: beeldvorming vs. analyse
+• Beeldvorming: gebruik elektromagnetische straling → afbeelding
+• Analyse: gebruik … → tabel/grafiek
+
+• Scheiding = artificieel
+• Analyse:
+• Spectroscopische analysemethoden
+• Scheidingsmethoden
+• Andere methoden
+
+ Analyse: indeling
+• Beeldvormingsmethodes
+• Lichtmicroscopie, SEM, radiografie, CT
+
+• Analysemethodes
+• Spectroscopische methodes
+→ AAS, OES/AES, XRF (+SEM-EDS, microprobe/EPMA), NAA
+• Scheidingstechnieken
+→ Chromatografie
+• Andere
+→ XRD, MS (TIMS, ICP-MS, LC/GC-MS, LA-ICP-MS)
+
+ Analyse
+
+https://youtu.be/G5EXXgQb3J8
+
+  Analyse: indeling
+• Precisie (precision)
+• Herhaalbaarheid, afwijking tussen analyses van eenzelfde staal
+
+• Accuraatheid (accuracy)
+• Nauwkeurigheid, dicht bij de juiste waarde?
+
+• Detectielimiet
+• Kleinste hoeveelheid die accuraat/precies gemeten kan worden
+
+ Analyse: indeling
+
+ Analyse: indeling
+• Beeldvormingsmethodes
+• Lichtmicroscopie, SEM, radiografie, CT
+
+• Analysemethodes
+• Spectroscopische methodes
+→ AAS, OES/AES, XRF (+SEM-EDS, microprobe/EPMA), NAA
+• Scheidingstechnieken
+→ Chromatografie
+• Andere
+→ XRD, MS (TIMS, ICP-MS, LC/GC-MS, LA-ICP-MS)
+
+ Beeldvormingsmethodes
+• Gebruik van zichtbaar licht → Visuele inspectie, fotografie
+• Gebruik van niet-zichtbare EM straling
+
+ Beeldvormingsmethodes
+• Interactie met object:
+• Absorptie
+• Transmissie
+• Verstrooiing
+
+→ Afhankelijk van golflengte
+→ Afhankelijk van materiaal
+→ Samenstelling, structuur
+
+→ Bepaalt waargenomen kleur, helderheid
+
+ Beeldvormingsmethodes
+• Fotografie
+
+ Beeldvormingsmethodes
+• Fotografie
+• Documentatie
+
+ Beeldvormingsmethodes
+• Fotografie
+• Scheerlicht
+
+Zie ook: Portable Light Dome (KU Leuven)
+
+ Beeldvormingsmethodes
+Bron: micropasts.org
+
+• Fotografie
+• Fotogrammetrie
+
+© EACOM project
+
+Bron: vfgarch.uni-bonn.de
+
+ Beeldvormingsmethodes
+• Lichtmicroscopie
+• 2 types:
+• Doorvallend licht
+Transparante, dunne stalen
+• Gereflecteerd licht
+Opake, dikkere stalen
+
+ Lichtmicroscopie
+• 3 lenzen
+• Oculair
+• Tubuslens
+• Objectief
+
+• Revolver
+• Microscoop-tafel
+• Werk-afstand
+
+→ Resolutie: ca. 1mm
+
+ Doorvallend licht
+
+ Gereflecteerd licht
+
+ Analysator
+
+Polarisator
+
+ Lichtmicroscopie
+• Belang van goede lichtbron → homogene belichting staal
+• Polarisatie
+
+ Polarisatie
+
+ Lichtmicroscopie
+west (left)
+
+Unpolarized light
+east (right)
+
+Light and colors
+reach eye!
+
+Light vibrating E-W
+Light vibrating in many
+planes and with many
+wavelengths
+
+ Analysator
+
+Lichtmicroscopie
+• Polarisator, analysator
+• Polarisator staat steeds “aan”
+• Staal bekijken zonder analysator:
+Gewone belichting of
+“Plane polarised light” (PPL)
+• Staal bekijken met analysator:
+“Cross polarised light” (XPL)
+• Staal bewegen en roteren
+Polarisator
+
+ Analysator
+
+Lichtmicroscopie
+• Polarisator, analysator
+
+geo.arizona.edu
+
+Polarisator
+
+ Lichtmicroscopie
+• Stereomicroscoop
+• Typisch voor (directe) studie van oppervlak
+• Lage magnificatie
+
+ Microscopie: voorbeelden
+Kwartsiet
+
+Bron: esc.cam.ac.uk/1acollections
+
+Schaal: 1 mm
+
+ Microscopie: voorbeelden
+Kalksteen
+
+Bron: earth.ox.ac.uk/~oesis/micro/
+
+Beeldbreedte: 3.5 mm
+
+Beeldbreedte:3 mm
+
+ Microscopie: voorbeelden
+Graniet
+
+Bron: earth.ox.ac.uk/~oesis/micro/
+
+Beeldbreedte: 8mm
+
+ Microscopie: voorbeelden
+
+Smirniou, M. & Rehren, Th. (2016):
+The use of technical ceramics in early
+Egyptian glass-making, Journal of
+Archaeological Science, 67, 52-63.
+
+Doorsnede op lage magnificatie,
+Smeltkroes voor glas-productie met kleurverschillen t.g.v. verhitting, glas en tussenlaag
+
+ Microscopie: voorbeelden
+
+Scott (1991),
+Metallography and
+Microstructure of Ancient
+and Historic Metals, The
+J. Paul Getty Trust.
+
+ Microscopie: voorbeelden
+
+Scott (1991),
+Metallography and
+Microstructure of Ancient
+and Historic Metals, The
+J. Paul Getty Trust.
+
+ Metallografie
+a. Cored grains with remnant
+dendritic structure (cast
+dendritic structure)
+b. Cold-worked cored grains.
+c. Fully annealed
+homogeneous hexagonal
+equi-axed grains.
+d. Cold-worked annealed metal
+with flattened grains.
+e. Annealed after cold-working
+showing twinned grains.
+f. Cold-worked after annealing
+showing distorted twin lines
+and strain lines in the grains
+Scott (1991)
+
+ Microscopie: voorbeelden
+
+Slak in smeltkroes voor brons: Qantir, Egypte
+(Rademakers et al. 2018)
+
+ Microscopie: voorbeelden
+Ijzerslak
+
+ Lichtmicroscopie: gebruik?
+TL-OM = transmitted light – doorvallend licht
+
+• Alle vaste materialen
+• Slijpplaatje (thin section) 30µm
+• Silicaten, carbonaten, haliden etc.
+• Gesteenten en mineralen (petrografie); keramiek
+• Palynologie, anthracologie, residu-analyse
+• Micro-morphologie
+
+RL-OM = reflected light – gereflecteerd licht
+• Metallografische analyse
+• Polijstvlak van dik staal
+• Metalen & oxides
+• Ertsen, metallurgische slakken
+
+PPL: plane polarised light vs. XPL: cross polarised light
+
+ Lichtmicroscopie: gebruik?
+• Invasief
+• Relatief (!) goedkoop
+• Grootte staal: enkele cm
+• Kristallografie
+• Identificatie van verschillende fasen (mineralen)
+• Korrelgroottes, vormen en verdelingen
+• Porositeit
+• Aanwezigheid van defecten (bv. splijting)
+• Mechanische deformaties
+• Amorfe componenten
+→ Reconstructie van herkomst en technologie
+
+ Analyse: indeling
+
+ IR fotografie
+• IR-bron
+• NIR → golflengtes 700-800 nm
+• TIR → golflengtes 9000-14000 nm
+
+• Gebruik van IR-gevoelige camera (filters)
+• Zichtbaar licht: selectieve absorptie door interactie met elektronen
+• IR licht: selectieve absorptie/verstrooiing door trilling moleculen*
+• Bv.: grafiet absorbeert meer IR-straling → donker
+
+*Zie ook http://hyperphysics.phy-astr.gsu.edu/hbase/mod3.html
+
+ IR fotografie → Teledetectie: passief
+
+Visible vs. Infrared (900 nm LP) Aerial Photography of Old Hickory Lake, Tennessee.
+
+ IR fotografie
+
+In this infrared reflectogram detail, the woman
+at the bottom left and the man at the upper
+right do not have an underdrawing and
+therefore appear to have been added when
+West reworked the painting
+
+Infrared reflectogram
+detail of West's change
+in the position of the
+soldier's arm in the
+bottom center portion
+of the painting
+
+Benjamin West: Pharoah and
+His Host Lost in the Red Sea
+Bron: worcesterart.org
+
+ IR fotografie
+
+Infrared Reflectography reveals underdrawing (as seen in the first image) that was not seen in the
+visible light (right image).
+[Right Image by Don Hurlbert, CSIP, Smithsonian Museum of Natural History]
+
+ IR fotografie
+• Gebruik verschillende
+schildertechnieken,
+bindmiddel verf
+• Restauratie
+
+Daffara et al. (2012): Thermal
+quasi-reflectography: a new
+imaging tool in art conservation,
+Optics Express, 20, 147-153
+
+ IR fotografie
+
+Pablo Picasso – “The Old Guitarist”,
+1903, Art Institute of Chicago
+
+ Analyse: indeling
+
+ UV-fluorescentie
+• Bestraling object met UV-licht
+• Opname zichtbaar licht
+(normale camera), donkere ruimte
+• Absorptie → vrijzetting als warmte of zichtbare straling (lagere E dan
+UV)
+• Bv. Organische materialen
+• Identificatie van pigmenten
+• Overschilderen, vernis – restauratie (veranderingen in C-C bindingen)
+
+ UV-fluorescentie
+• Voldoende energie om
+elektron naar schil met
+hogere bindingsenergie
+te duwen. Bij terugval
+komt opnieuw straling
+vrij (lagere E)
+
+UV straling
+
+zichtbaar licht
+
+ UV-fluorescentie
+
+https://www.atlasobscura.com/articles/ancient-sculpture-color-polychromy
+
+ UV-fluorescentie
+
+Bron: geology.bas.bg
+
+ UV-fluorescentie
+
+Bron: fineartconservation.ie
+
+ Analyse: indeling
+
+ Radiografie
+• Bestraling van object met X-stralen
+• Absorptie en transmissie
+• Meting op fotografische plaat,
+digitale detector
+• Hogere transmissie: donkerder
+Onbelicht: witter
+• Absorptie is functie van
+• Dikte
+• Densiteit
+• Samenstelling
+
+ Radiografie
+
+Pablo Picasso – “The Old Guitarist”,
+1903, Art Institute of Chicago
+
+Infra-red image
+Art Institute of Chicago
+
+X-ray still image.
+Art Institute Chicago
+
+ Radiografie
+Incl. houten frame!
+
+Amedeo Modigliani’s Portrait of
+a Girl (1917).
+© Tate Modern.
+
+X-radiograph showing earlier figure
+painted beneath the surface.
+© Tate Modern.
+
+ Radiografie
+
+ Radiografie
+
+Antikythera mechanisme, ca. 150 BCE
+
+ Radiografie
+
+Bron: blogs.getty.edu
+
+ Radiografie
+
+Bron: egyptmanchester.wordpress.com
+
+Bron: penn.museum/sites/artifactlab/tag/digital-radiography/
+
+ Radiografie
+• Gelaagde en gesloten objecten
+• Niet-destructief
+→ Probleem: Geen inschatting van diepte
+
+ X-stralen tomografie
+
+ X-stralen tomografie
+• Meerdere opnamen van X-stralen radiografie onder verschillende
+hoeken
+• Mathematische reconstructie tot 3D model → Voxels i.p.v. pixels
+• Resolutie:
+• Geometrie van de opstelling
+• Detector
+• Dimensies van object
+
+• CT: computerized tomography
+• Micro-CT: idem, kleinere objecten, hogere resolutie
+
+ CT-scan
+
+Bron: British Museum
+
+ CT-scan
+
+Bron: British Museum
+
+ CT-scan
+
+Moules voor bronsgieten (keramiek)
+Qubbet el-Hawa (Egypte, Late Periode)
+Bonn Museum
+
+ Analyse: indeling
+• Beeldvormingsmethodes
+• Lichtmicroscopie, SEM, radiografie, CT
+
+• Analysemethodes
+• Spectroscopische methodes
+→ AAS, OES/AES, XRF (+SEM-EDS, microprobe/EPMA), NAA
+• Scheidingstechnieken
+→ Chromatografie
+• Andere
+→ XRD, MS (TIMS, ICP-MS, LC/GC-MS, LA-ICP-MS)
+
+ SEM
+• Scanning Electron Microscope
+• Zoals lichtmicroscoop, maar met
+elektronenstraal i.p.v. licht
+
+ SEM
+• Elektronen van atomen aan het
+oppervlak komen los
+→ Geven informatie over topografie
+→ “Secondary Electrons”
+• Elektronen worden gereflecteerd
+vanuit de atoomkernen
+→ Sterker voor zwaardere atomen
+→ Geeft grijswaarden ~ atoommassa
+→ Dieper interactie-volume
+→ “Back-scattered electrons”
+
+ SEM
+
+Bron: Wikipedia
+
+ SEM
+• Tot ca. 500.000x vergroting
+- typisch 100.000x
+(ca. 250-1000x hoger dan LM)
+• Resoluties tot 1 nm
+(1000X hoger dan LM)
+• Grote scherptediepte
+• Staal (polijstvlak) of (klein) object
+• Niet-destructief
+• Coating: C of Au
+
+ SEM
+
+Hydrothermale worm
+
+Fruitvlieg
+Secondary electrons
+
+ SEM
+
+Secondary electrons
+Pollen
+
+ SEM
+
+Martinón-Torres, M. & Uribe-Villegas, M. A. (2015): Technology and culture in the
+invention of lost-wax casting in South-America: an archaeometric and
+ethnoarchaeological perspective, Cambridge Archaeological Journal 25, 377-390.
+
+ SEM
+
+Gecorrodeerd brons
+BSE
+Nieuwe Rijk, Egypte
+Rademakers et al. (2018)
+
+ SEM
+
+Verschillende metaaloxiden in metallurgische
+slakken
+BSE
+Nieuwe Rijk, Egypte
+Rademakers et al. (2018)
+
+ Analyse: indeling
+• Beeldvormingsmethodes
+• Lichtmicroscopie, SEM, radiografie, CT
+
+• Analysemethodes
+• Spectroscopische methodes
+→ AAS, OES/AES, XRF (+SEM-EDS, microprobe/EPMA), NAA
+• Scheidingstechnieken
+→ Chromatografie
+• Andere
+→ XRD, MS (TIMS, ICP-MS, LC/GC-MS, LA-ICP-MS)
+
+ Brons
+
+Analysemethodes
+
+0.1
+
+0.5
+10
+
+• Bepaling chemische samenstelling
+• Welke elementen?
+• Absolute en relatieve hoeveelheden?
+• Accuraatheid, precisie, detectielimiet?
+
+• Hoofd-, neven- en spoorelementen
+Major, minor, trace elements
+• Hoofd- & neven-elementen: > 99% van totaal
+• Hoofd-elementen: > 1%
+• Neven-elementen: ca. 0.1-1%
+• Spoorelementen: < 0.01%
+
+89.4
+
+Cu
+
+Sn
+
+Pb
+
+Trace
+
+%, ppm, ppb, ppt
+(0.1% = 1.000 ppm)
+(soms ook mg/g = ppm)
+
+ Analysemethodes
+• Detectie-limiet: kleinste concentratie die gemeten kan worden
+• Typisch 3x achtergrond-signaal: meting zonder staal (“blank”)
+
+ Analysemethodes
+• Accuraatheid, precisie & detectielimiet
+→ Belangrijk wanneer resultaten van verschillende analyses worden
+vergeleken
+→ Meten van gecertifieerde standaard-materialen
+
+ Spectroscopie
+• Wanneer identificatie o.b.v. visuele inspectie (zichtbaar licht)
+onvoldoende is, wordt gebruik gemaakt van spectroscopie
+• Resultaat van dergelijke metingen: grafiek → spectrum
+• Horizontale as: golf-energie (of lengte, frequentie)
+• Vertikale as: intensiteit
+• Pieken in spectrum
+• Kwalitatief: op bepaalde golflengte ~ aanwezigheid van bepaald materiaal
+• Kwantitatief: intensiteit van piek ~ concentratie van bepaald materiaal
+
+ Spectroscopie
+
+Intensiteit van
+gemeten signaal
+
+HH-XRF, oppervlak smeltkroes
+Gordion (Achaemenidisch Anatolië)
+Rademakers et al. (2018) AAS
+
+Golf-energie
+
+ Spectroscopie
+
+Uit Pollard et al.
+(2007):
+Analytical
+Chemistry in
+Archaeology
+
+ Spectroscopie: zichtbaar licht/UV
+• Zichtbaar licht/UV: golflengtes 150-1000 nm
+• Colorimetrie (UV/visible colorimetry)
+• Meting van moleculaire absorptie (i.t.t. fluorescentie)
+
+  Spectroscopie: IR
+• IR typisch onderverdeeld in 3 regios:
+• NIR: 750-2500 nm (near IR)
+• MIR: 2.5-50 mm (mid IR)
+• FIR: 50-1000 mm (far IR)
+
+• In het IR spectrum 2.5-15 mm produceren de meeste organische
+verbindingen een uniek absorptie-spectrum → “fingerprint region”
+• IR biedt informatie over type chemische bindingen in een staal
+• Gebruik van referentie-spectra van gekende stoffen
+• Gebruik “wavenumber” i.p.v. golflengte (inverse: 2.5 mm ~ 4000 cm-1)
+
+ Spectroscopie: IR
+• Geen precieze chemische karakterisatie, verschillende verbindingen
+kunnen erg gelijkaardige IR spectra hebben → vaak startpunt voor
+verdere analyse, bv. chromatografie (zie verder)
+
+Uit Pollard et al.
+(2007): Analytical
+Chemistry in
+Archaeology
+
+ Spectroscopie: IR (FTIR)
+
+Beck et al. (1965) The infra-red
+spectrum of amber and the
+identification of Baltic amber,
+Archaeometry, 6, 96-109
+Etruskisch halssnoer
+1e millenium BCE
+
+ Murillo-Barroso et al. (2018):
+Amber in prehistoric Iberia: new
+data and a review, PLOS One 13,
+e0202235.
+
+ Spectroscopie: Raman
+• Analyse van verstrooiing (i.p.v. absorptie) van IR straling, als gevolg
+van interactie met moleculaire vibraties van het materiaal
+• Verschuiving in golflengte tussen invallend en gereflecteerd licht (zeer
+zwak effect: ca. 1 photon per millioen) → “Raman effect”
+• Geeft opnieuw informatie m.b.t.
+type verbindingen in materiaal
+
+ Spectroscopie: Raman
+• Relatief nieuw gebruik in archeometrie
+• Pigmenten, steen, keramiek, plaasters, glas, organische materialen, …
+• In-situ, niet invasief
+
+“Basle Head”
+14e eeuws
+relikwie
+
+Parel
+
+Kwarts
+
+ Spectroscopie
+• UV-vis-, IR- & Raman-spectroscopie → informatie over moleculaire
+bindingen in een staal
+• Volgende technieken: informatie over chemische samenstelling
+
+ AAS
+• Atomaire Absorptie Spectroscopie
+• Staal in vlam/elektrische boog (ca. 2.000-3.000°C)
+→ atomisatie
+• Lamp exciteert atomen (cfr. UV fluorescentie):
+elektronen naar hogere schil → absorptie van straling
+• Absorptie is specifiek voor elk element
+• Meting van normale straling van lamp vs. gemeten straling doorheen
+staal → Kwantificatie van element
+• Meest gebruikte methode in jaren 70-80
+• Voor ieder element: afzonderlijk meten met specifieke lamp
+
+ Uit Pollard & Heron (2008)
+Archaeological Chemistry
+
+ ICP-OES (of ICP-AES)
+• Inductively Coupled Plasma – Optical Emission Spectroscopy
+• Staal in plasma (ca. 8.000-12.000°C): atomisatie + excitatie
+• Ieder atoom ondergaat excitatie:
+sprong van elektronen naar hogere schillen
+• Terugval van elektronen:
+EM straling in zichtbaar spectrum
+• Meten van lichtintensiteit bij
+golflengtes specifiek voor ieder element
+• ICP sinds jaren 90 belangrijkst
+
+ ICP
+
+Uit Pollard & Heron (2008)
+Archaeological Chemistry
+
+ ICP-OES
+
+Morishige & Kimura (2008)
+SEI Technical Review 66
+
+ ICP-OES
+
+ ICP-OES
+
+Krachler et al. (2015)
+Journal of Radioanalytical
+and Nuclear Chemistry
+
+ AAS en ICP-OES
+• Destructief (oplossing)
+• Precisie 2-10%, accuraatheid 2-5%
+• Detectielimiet varieert naargelijk element (ppm-%)
+• Hoofd-, neven- en sporenanalyse (trace elements) met ICP-OES
+• Betere sporenanalyse met AAS, maar tijdsintensief
+
+• Historisch gebruikt voor herkomst-studies van metalen en keramiek
+→ voor lagere concentraties spoor-elementen tegenwoordig vaak
+ICP-MS (zie verder)
+
+ Uit Pollard et al.
+(2007):
+Analytical
+Chemistry in
+Archaeology
+
+AES:
+Atomic
+Emission
+Spectroscopy
+= OES:
+Optical
+Emission
+Spectroscopy
+
+ Spectroscopie
+• Niet-ioniserend:
+• UV-vis-, IR- & Ramanspectroscopie
+→ Absorptie- en transmissiebanden voor moleculaire
+analyse
+• AAS, ICP-OES
+→ Atomaire absorptie en emissie
+voor element-analyse
+
+ Spectroscopie
+• Niet-ioniserend:
+• UV-vis-, IR- & Raman-spectroscopie
+→ Absorptie- en transmissie-banden voor moleculaire analyse (NK)
+• AAS, ICP-OES
+→ Atomaire absorptie en emissie voor element-analyse
+
+• Ioniserend
+• XRF, SEM-EDS/WDS
+→ Spectrale lijnen voor element-analyse
+
+ Spectroscopie
+• Ioniserende straling
+
+ Spectroscopie
+• Ionisatie
+
+ Spectroscopie
+• XRF: X-ray fluorescence of X-stralen fluorescentie
+• Maakt gebruik van X-stralen om atomen te ioniseren, wat leidt tot
+fluorescentie
+
+ Spectroscopie: XRF
+• Ionisatie en fluorescentie
+• X-stralen van de bron raken een elektron
+van dieper gelegen schillen. Als de energie
+van de X-stralen voldoende hoog is, zal dat
+elektron uitgestoten worden.
+• Elektronen van schillen met hogere
+energie vallen terug om de leegte op te
+vullen, waarbij karakteristieke X-stralen
+vrijkomen (fluorescentie).
+
+ Spectroscopie: XRF
+• Niet alle elementen produceren
+makkelijk te detecteren X-stralen
+• Typisch geen fluorescentie voor
+elementen lichter dan Na (Z=11)
+• Hangt dus af van de massa van het
+element
+• 1 ppm Co kan gedetecteerd worden
+• 100 ppm Na kan niet gedetecteerd worden
+
+• Hoofd-, neven- en (sommige) spoorelementen
+
+ Spectroscopie: XRF
+
+ Spectroscopie
+
+ Spectroscopie: XRF
+
+  Spectroscopie: XRF
+• Niet elk element produceert
+uniek type X-straal, sommige
+X-stralen interfereren
+Bv. Pb en As
+• Meerdere spectrale lijnen
+voor elk element
+
+ Spectroscopie: XRF
+• Kwantificatie van spectrum
+
+OK
+
+?
+
+Element
+
+Counts
+
+Concentration
+
+K
+
+…
+
+…%
+
+Ca
+
+…
+
+…%
+
+Ti
+
+…
+
+…%
+
+Cr
+
+…
+
+…%
+
+Mn
+
+…
+
+…%
+
+Fe
+
+…
+
+…%
+
+Co
+
+…
+
+…%
+
+Ni
+
+…
+
+…%
+
+Cu
+
+…
+
+…%
+
+…
+
+…
+
+…
+
+Totaal
+
+…%
+
+ Spectroscopie: XRF
+• Kwantificatie van spectrum → meting van standaarden
+• Zo gelijkaardig mogelijk aan te meten materiaal
+• Samenstelling
+• Matrix
+
+(geen matrix-effect bij ICP-technieken)
+
+→ Verschillende standaarden voor glas, metaal, keramiek, gesteente
+
+ Spectroscopie: XRF
+• X-stralen in
+• X-stralen uit
+• Geen lichte elementen
+• Detectielimiet varieert
+→ ppm tot %
+
+• Accuraatheid en precisie: ca. 5-10%
+• Betere resolutie WD-XRF dan ED-XRF
+• Snel, goedkoop
+• Gebruik van standaarden voor kalibratie
+
+ Spectroscopie: XRF
+• Invasief (poeder of glas pellets)
+
+ Spectroscopie: XRF
+• Invasief → Lab-XRF
+• Energie-dispersief (ED-XRF)
+• Golflengte-dispersief (WD-XRF)
+
+ Spectroscopie: XRF
+• Invasief → Lab-XRF
+• Energie-dispersief (ED-XRF)
+• Continue meting volledig spectrum
+• Snel
+
+• Golflengte-dispersief (WD-XRF)
+• Sequentiële meting elke golflengte
+• Trager
+• Betere resolutie
+
+ Spectroscopie: XRF
+• Niet-invasief
+• Draagbare XRF (steeds ED-XRF)
+• Portable of handheld
+(pXRF, HH-XRF)
+
+Bron: olympus-ims.com
+
+Bron: thermofisher.com
+
+ Spectroscopie: XRF
+• Lab- vs. HH-XRF?
+• Draagbaarheid
+• Export stalen?
+• Invasief of niet?
+• Geanalyseerd volume
+• Lab: gehomogeniseerd staal
+• HH-XRF: Oppervlakte-meting
+→ Corrosie? Geometrie?
+
+• Technologische revolutie?
+• Wat wil men weten?!?
+Zie ook
+Frahm & Doonan (2013) JAS, 40, 1425-1434
+Speakman & Shackley (2013) JAS, 40, 1435-1443
+
+ Draagbare XRF
+→ Snel sorteren van verschillende metaal-legeringen o.b.v.
+chemische samenstelling
+→ Instrument niet ontworpen voor archeologische
+materialen
+→ Problemen met matrix, geometrie, oppervlak/bulk
+(minder bij homogene materialen, zonder corrosie, vlak)
+→ Wel veel toepassingen: interne vergelijking binnen
+assemblages, kwalitatieve of semi-kwantitatieve analyse,
+kwantitatief in specifieke gevallen …
+Bron: olympus-ims.com
+
+→ Glas, metaal, keramiek, steen, bodem, …
+→ Lagere precisie en accuraatheid dan lab-XRF
+
+ Draagbare XRF
+
+Bron: olympus-ims.com
+
+HH-XRF: Hand-Held XRF
+pXRF: Portable XRF
+
+Bron: bruker.com
+
+Bron: olympus-ims.com
+
+ Draagbare XRF
+
+ Draagbare XRF
+
+Great East Window,
+York Minster
+
+Ware et al. (2015)
+Analysis of Medieval
+stained glass by
+handheld XRF
+(Poster)
+
+ Spectroscopie: XRF
+• Obsidiaan: spoor-elementen
+variëren sterk tussen afzettingen
+• Mogelijk om verschillende bronnen
+te onderscheiden
+• Vroege applicatie van XRF: Cann &
+Renfrew (1964)
+• Nog steeds in gebruik
+
+ Spectroscopie: XRF
+
+Shackley (2011),
+X-Ray
+Fluorescence
+Spectrometry
+(XRF) in
+Geoarchaeology,
+Springer.
+
+ Spectroscopie: XRF
+
+Shackley (2011)
+
+PT Pantelleria; PL Palmarola; SA, SB1, SB2 and
+SC Sardegna –M.
+Arci; LP Lipari; ML Melos; YA Gyali
+
+ Spectroscopie: XRF
+
+Shackley (2011)
+
+  Spectroscopie: XRF
+• Voor metalen:
+• Goed voor technologie (legering, puurheid,…), bulk samenstelling
+• Voornamelijk hoofd- en nevenelementen
+• Beperkte sporenanalyse (≤ ICP-OES) → niet ideaal voor herkomstbepaling
+• Te hoge detectielimiet voor bepaalde elementen
+• Herkomstbepaling metalen o.b.v. chemische samenstelling problematisch (zie verder)
+
+• Voor keramiek
+• Gewoonlijk geen bulk-samenstelling (typisch lichte elementen – idem glas)
+• Sommige spoorelementen, maar vaak te hoge detectielimiet voor herkomst
+• Soms toegepast, maar vaker andere methodes (zie verder)
+• Voorbeeld: Fitch Lab (British School Athens) – WD-XRF met Egeïsche referentie-collectie
+
+• Voor glas/obsidiaan:
+• Goed neven- en spoorelementen → Technologie (glas) + herkomstbepaling
+
+ Spectroscopie: XRF
+• Spoorelementen: steeds voorkeur WD-XRF (lab) > ED-XRF (lab>pXRF)
+• Interpretatie van XRF spectra: matrix-effecten
+→ Minimaal bij glas
+→ Groter probleem bij keramiek/gesteenten
+→ Probleem bij corrosie (wanneer niet-invasief)
+→ Matrix-matched standaarden nodig
+• Matrix-effect stelt zich niet bij ICP-OES, aangezien staal volledig wordt
+opgelost → XRF is echter niet destructief (wel invasief voor lab-XRF)
+
+ Spectroscopie
+• X-stralen fluorescentie treedt ook op in de SEM
+• Hierbij verstoten elektronen uit de primaire elektronen-straal
+elektronen uit de atomen
+• Dit leidt opnieuw tot het terugvallen
+van elektronen uit hoger gelegen schillen
+en dus fluorescentie
+
+ Spectroscopie
+• SEM
+• Beeldvorming
+• Chemische analyse
+
+Uit Pollard & Heron (2008)
+Archaeological Chemistry
+
+ Spectroscopie: SEM
+
+ Spectroscopie: SEM
+• Opnieuw onderscheid EDS en WDS
+• EDS
+• Snel
+• Directe meting van energie van karakteristieke X-stralen
+• Hogere detectielimieten dan WDS (10 tot 100x): 0.05-0.25% - vaak 0,5-1%
+→ Voornamelijk hoofd- en nevenelementen
+
+• WDS
+• Meting onder verschillende hoeken: traag
+• Hogere resolutie: beter onderscheid van pieken in spectrum
+• SEM-WDS wordt soms ook microprobe of EPMA genoemd
+
+  https://www.jeol.co.jp/en/science/epma.html
+
+ Spectroscopie: SEM
+• Hoewel (kleine) volledige objecten
+kunnen bekeken worden onder
+SEM (beeldvorming), dient voor
+kwantitatieve analyse een gepolijst
+vlakje te worden geanalyseerd
+• Staal typisch 1-4 cm diameter
+• Interactie-diepte: ca. 5-10 mm
+• Moet worden voorzien van C of Au
+coating (geleiding elektronen)
+• Invasief, niet destructief
+Interactievolume ~ materiaal, configuratie e--beam
+
+ Spectroscopie: SEM
+• Groot voordeel: Punt-analyse → specifieke microscopisch te
+onderscheiden zones/fasen kunnen afzonderlijk chemisch
+geanalyseerd worden
+• Punt-analyse: punt of beperkt volume
+• Geen echte bulk analyse – wel “grotere” zones
+
+  Brons
+met
+ijzer en
+arseen
+
+Pb: 1.33 wt%
+
+ Koper
+sulfide
+
+ Ijzeroxide
+(spinel)
+Fe3O4
+
+ Spectroscopie: SEM
+• Zeer belangrijk voor (ruimtelijke) analyse van meerfasige materialen
+• Keramiek
+• Metalen en metallurgische slakken
+→ Typisch SEM-EDS (hoofd- en meeste neven-elementen)
+→ SEM-WDS voor metalen (hoofd-, neven- en sommige spoor-elementen)
+• Glas
+→ Typisch SEM-WDS (hoofd-, neven- en sommige spoor-elementen)
+→ Amorf, maar soms inclusies (bv. pigmenten, opacifiers)
+
+ Analyse: indeling
+• Beeldvormingsmethodes
+• Lichtmicroscopie, SEM, radiografie, CT
+
+• Analysemethodes
+• Spectroscopische methodes
+→ AAS, OES/AES, XRF (+SEM-EDS, microprobe/EPMA), NAA
+• Scheidingstechnieken
+→ Chromatografie
+• Andere
+→ XRD, MS (TIMS, ICP-MS, LC/GC-MS, LA-ICP-MS)
+
+ Spectroscopie: NAA
+• Neutron Activatie Analyse
+• Maakt gebruik van interactie met atoomkern i.p.v. elektronen
+
+•
+•
+
+Atoomnummer:
+aantal protonen
+Massagetal:
+som protonen
+& neutronen
+
+ Spectroscopie: NAA
+• Natuurlijke radioactiviteit (zie inleiding)
+• Artificiële radioactiviteit
+→ Bestraling met neutronen vormt instabiel isotoop
+• Hierbij komt g straling vrij (wordt meestal niet gemeten (PGNAA))
+
+→ Radio-actief isotoop zal vervallen naar stabiel isotoop
+• Hierbij komt opnieuw g straling vrij (wordt meestal gemeten (DGNAA))
+
+→ Karakteristieke straling : identificatie
+→ Karakteristiek half-leven: identificatie
+→ Intensiteit: quantificatie
+
+ Uit Pollard et al.
+(2007):
+Analytical
+Chemistry in
+Archaeology
+
+ Spectroscopie: NAA
+
+Einstein & Oppenheimer, ca. 1950
+Manhattan Project, Los Alamos Laboratory, 1945
+
+ Spectroscopie: NAA
+• Robert Oppenheimer: erkende als 1e potentieel van NAA als techniek
+om herkomst van archeologische keramiek te onderscheiden
+• 1e analyse van Mediterraanse keramiek in 1954, Brookhaven National
+Laboratory (USA) – Sayre and Dodson (in 1953 al silver/goud)
+• Kort nadien in RLAHA, University of Oxford, voor munten en
+Romeinse keramiek
+• Pas later toepassing van NAA in andere wetenschappen, zoals
+geologie
+(ook W.F. Libby werkte in Manhattan project → 14C methode)
+
+ Spectroscopie: NAA
+• Verschillende elementen in staal vormen
+verschillende isotopen
+• Voor analyse moeten radioactieve
+isotopen gevormd worden in het staal
+• Meetbaar:
+• Half-leven van enkele dagen tot maanden
+• g straling met karakteristieke energie,
+zonder interferentie met g straling
+uitgezonden door andere elementen
+
+• Geïnduceerde radioactiviteit is complex:
+som van alle aanwezige elementen.
+Element identificatie d.m.v. computergestuurde de-convolutie
+
+Uit Glascock (2014) Neutron Activation
+Analysis (NAA): Applications in
+Archaeology, Springer
+
+ Spectroscopie: NAA
+→ Het energie-patroon van de g
+straling wordt gebruikt om te
+bepalen welk isotoop de straling
+produceerde
+→ Intensiteit ~ concentratie
+→ Het half-leven van het
+radioactieve element kan worden
+afgeleid uit de afnemende
+intensiteit van de g straling
+
+Gamma-ray spectrum showing several short-lived
+elements measured in a sample of pottery irradiated
+for 5 seconds, decayed for 25 minutes, and counted for
+12 minutes with an HPGe detector.
+Bron: archaeometry.missouri.edu/naa_overview.html
+
+ Spectroscopie: NAA
+• Instrumentatie voor het meten van g straling is gelijkaardig aan die
+voor de meting van X-stralen (XRF)
+Energie van g straling ca. 100 keer hoger dan X-straling!
+• Echter wel nood aan een nucleaire reactor
+• Timing van de meting moet zorgvuldig gepland worden om zowel
+kort- als lang-levende isotopen te meten
+• Niet destructief, maar levert radio-actieve stalen op! (maanden, jaren)
+(niet meer bruikbaar voor datering: TL, 14C, ESR)
+
+ Spectroscopie: NAA
+• Staal: ca. 10-100 mg – of volledig object (klein) → geen belemmering
+van signaal door matrix (dus geen oplossing nodig)
+• Precisie en accuraatheid van ca. 2%
+• Meting tot 40-50 elementen in 1 keer
+• Detectielimiet typisch ppb (i.e. zeer laag) tot ppm
+→ Spoorelement analyse (herkomst)
+• Niet alle elementen hebben radioactieve isotopen (bv. Pb) !
+
+ Spectroscopie: NAA en keramiek
+• Grote variabiliteit in basismaterialen en
+antropogene invloed op het product →
+uitdaging bij herkomstbepaling
+• NAA interessant omdat groot aantal
+spoorelementen kan worden gemeten
+die in principe niet beïnvloed worden
+door antropogene processen
+• Steeds best gebruikt in combinatie met
+petrografie
+• Enorme databasis, bv. Griekse Bronstijd
+
+• ! Niet steeds compatibel met OES/AAS data!
+• ICP-OES/MS data toont redelijke
+overeenkomst
+Bron: ww2.valdosta.edu/~dmthieme/Mexico/Archaeometry.htm
+
+ Spectroscopie: NAA en metaal/glas
+• Interessant voor kleine objecten: munten, glas/faience kralen
+• Gebruikt voor metalen (bv. Cu, Ag, Au), maar beperking omwille van
+Pb: onvolledige meting voor bepaalde legeringen (bv. brons) → vaak
+keuze voor andere of complementaire methodes
+• Eveneens met succes gebruikt in studies van obsidiaan
+• NAA wordt langzaam vervangen door ICP-OES en ICP-MS (en XRF),
+vooral omwille van de dalende beschikbaarheid van
+onderzoeksreactoren
+
+ Analyse: indeling
+• Beeldvormingsmethodes
+• Lichtmicroscopie, SEM, radiografie, CT
+
+• Analysemethodes
+• Spectroscopische methodes
+→ AAS, OES/AES, XRF (+SEM-EDS, microprobe/EPMA), NAA
+• Scheidingstechnieken
+→ Chromatografie
+• Andere
+→ XRD, MS (TIMS, ICP-MS, LC/GC-MS, LA-ICP-MS)
+
+ Chromatografie
+• Gebruikt om mengsel in moleculaire componenten te scheiden
+→ Organische materialen
+
+• Verschillende technieken
+• Kolom chromatografie (klassiek)
+• Dunne laag chromatografie (TLC)
+• Gas chromatografie (GC)
+• High performance liquid chromatography (HPLC)
+
+ Chromatografie
+• Principe: scheiden van molecules o.b.v. fysisch gedrag
+• De scheiding van verschillende molecules gebeurt o.b.v. hun
+interactie met verschillende fases in het chromatografisch systeem
+• 1 fase is stationair, de andere mobiel
+• Fysische eigenschappen bepalen affiniteit voor stationaire fase
+• De 4 technieken gebruiken verschillende stationaire & mobiele fases
+
+ Chromatografie
+
+Uit Pollard et al.
+(2007): Analytical
+Chemistry in
+Archaeology
+
+ Chromatografie
+• Het staal gaat door het systeem in een solvent (mobiel)
+• De snelheid waarmee dit gebeurt hangt af van hoe sterk het aan de
+stationaire fase “plakt” (i.e. welke affiniteit voor de stationaire fase)
+→ Bij lage affiniteit beweegt het snel door het system
+→ Bij hoge affiniteit beweegt het traag door het system
+• Het mengsel wordt dus gescheiden o.b.v. de affiniteit van de
+verschillende componenten voor deze stationaire fase
+
+ Chromatografie
+• Goede keuze van stationaire fase voor interactie met componenten
+waarin men geïnteresseerd is
+→ Component mag niet volledig worden opgenomen in vaste fase
+→ Component moet voldoende gescheiden worden van andere
+
+• Goede keuze van mobiele fase
+→ Componenten moeten opgelost kunnen worden
+
+• Door grote variatie aan organische molecules moeten verschillende
+chromatografische systemen gekozen en geoptimaliseerd worden
+
+ Chromatografie
+• Kolom chromatografie
+• Stationair: silica gel
+• Mobiel: organisch solvent
+
+Uit Pollard et al.
+(2007): Analytical
+Chemistry in
+Archaeology
+
+ Chromatografie
+
+Bron:
+cbc.arizona.edu/classes/bioc462/462a/NOTES/Protein_Properties/protein_purification
+
+ Chromatografie
+• Kolom chromatografie
+• Stationair: silica gel
+• Mobiel: organisch solvent
+• Scheid staal naargelang
+bepaalde eigenschappen,
+maar niet tot op moleculair
+niveau
+→ vaak voorbereidende stap
+
+ Chromatografie
+• Thin layer chromatography
+(TLC)
+• Stationaire fase: dunne laag
+(vaak silica gel) op
+(glas)plaat
+• Mobiele fase: kleine
+hoeveelheid solvent
+aangebracht onderaan
+→ Stijgt omhoog op plaat
+en neemt staal mee
+
+Uit Pollard et al.
+(2007): Analytical
+Chemistry in
+Archaeology
+
+ Chromatografie
+• Thin layer chromatography (TLC)
+• Betere resolutie
+• Makkelijker gebruik van standaarden
+• Scheiding staal naargelang
+bepaalde eigenschappen,
+maar niet tot op moleculair
+niveau
+
+ Chromatografie
+• Gas chromatografie (GC)
+• Meest gebruikt
+• Scheiding van meest
+voorkomende componenten
+• Meer complexe,
+instrumentele methode
+• Mobiele fase: gas (H of He)
+→ Staal moet volatiliseren
+• Stationaire fase: dunne laag
+op capillaire kolom
+
+Uit Pollard et al.
+(2007): Analytical
+Chemistry in
+Archaeology
+
+ Chromatografie
+• Staal ingebracht met gas
+• Kolom van 15 tot 60 m
+diameter 0.2 tot 2 mm
+• Kolom kan worden aangekocht
+met verschillende coatings
+i.f.v. te meten componenten
+en resolutie
+• Temperatuurvariatie:
+controle mobiele fase
+
+Uit Pollard et al.
+(2007): Analytical
+Chemistry in
+Archaeology
+
+ Chromatografie
+• Detector: typisch FID
+(flame ionization detector)
+→ Verbrand eluent,
+meting conductiviteit vlam
+→ Plot van stroom i.f.v. tijd:
+chromatogram
+→ Identificatie molecules
+o.b.v. standaarden
+(afzonderlijk of met staal)
+
+Uit Pollard et al.
+(2007): Analytical
+Chemistry in
+Archaeology
+
+ Chromatografie
+• GC laat, i.t.t. klassieke & TLC, kwantificatie toe
+→ Respons ~ hoeveelheid component
+• Gebruik van interne standaard (gekend gewicht) + staal (gekend
+gewicht)
+
+ Chromatografie
+• High performance liquid chromatography
+(HPLC)
+• Zowel mobiele als stationaire fase is
+vloeibaar
+• Gelijkaardig aan klassieke chromatografie,
+maar instrumenteel
+• Voordeel t.o.v. GC: staal moet oplosbaar zijn
+maar niet volatiel
+→ Meting van amino-zuren en drugs
+• Nadeel: meer complexe instrumentatie
+
+Uit Pollard et al.
+(2007): Analytical
+Chemistry in
+Archaeology
+
+ Chromatografie
+HPLC
+
+Samenstelling
+mobiele fase kan
+tijdens meting
+gewijzigd worden
+door solventen te
+mengen
+
+Kolom onder
+hoge druk
+10-30 cm
+
+Bron: Wikipedia
+
+ Chromatografie
+• HPLC
+• Gebruik van UV/vis detector (meting van absorptie)
+• Fluorescentie detector ook mogelijk
+• Soms toevoegingen aan staal noodzakelijk (complex)
+• 100 tot 1000 keer gevoeliger (lagere detectielimiet)
+
+• Gebruik van massa spectrometer (MS) na verwijdering van mobiele
+fase (HPLC-MS – ook GC-MS, zie verder)
+
+ Chromatografie
+• Organische stoffen in archeologie
+worden meest frequent gevonden
+in associatie met keramiek
+• Vaak complexe geschiedenis tussen
+gebruik en residu
+• Meestal slechts 1 staalname
+mogelijk → Keuze beste techniek
+belangrijk
+• GC: standaard voor vetten en
+scheiding/identificatie van andere
+archeologische organische residus
+• HPLC: minder frequent
+→ GC is eenvoudiger, HPLC-MS
+slechts recent ontwikkeld
+
+Uit Pollard et al.
+(2007): Analytical
+Chemistry in
+Archaeology
+
+ Chromatografie
+• Gebruik van biomarkers → overeenstemming van componenten met
+hedendaagse planten of dierlijke producten, of stoffen gebruikt in de
+bewerking ervan (harsen, olie, …)
+• Identificatie van wijn (tartaric acid), olijfolie, kleurstoffen, bijenwas,
+sommige soorten amber …
+• Probleem met vele vetten: afbraak en nieuwe vorming → nood om
+stalen uit omgeving te analyseren
+→ Meer voorbeelden: zie Pollard et al. (2007): Analytical Chemistry in Archaeology, hoofdstuk 7
+
+ Analyse: indeling
+• Beeldvormingsmethodes
+• Lichtmicroscopie, SEM, radiografie, CT
+
+• Analysemethodes
+• Spectroscopische methodes
+→ AAS, OES/AES, XRF (+SEM-EDS, microprobe/EPMA), NAA
+• Scheidingstechnieken
+→ Chromatografie
+• Andere
+→ XRD, MS (TIMS, ICP-MS, LC/GC-MS, LA-ICP-MS)
+
+ XRD
+• XRD: X-ray diffraction of X-stralen
+diffractie
+• Te gebruiken voor materialen met
+een kristal-structuur (i.e., niet
+amorf)
+→ Organisatie van atomen die periodiek
+herhaald wordt over lange afstanden
+→ Zelfde inter-atomaire afstanden
+→ Zelfde hoeken tussen atomen
+
+ XRD
+• X-stralen worden gereflecteerd op
+vlakken met atomen in het kristal
+• Deze reflecties worden versterkt
+wanneer de X-stralen deze vlakken
+onder de juist hoek raken
+(constructieve interferentie)
+• Dit geeft aanleiding tot pieken (hoge
+gemeten intensiteit) in het spectrum
+voor deze specifieke hoeken
+
+ XRD
+
+ XRD – “Bragg’s law”
+
+1. Een kristallijn materiaal met interatomaire afstand “d”
+2. Monochromatische X-straling met
+golflengte l
+3. X-straling raakt vlakken onder een
+hoek 𝜃
+4. X-stralen worden versterkt wanneer
+l = 2𝑑 sin 𝜃
+Dit is de wet van Bragg
+
+ XRD
+• Versterking (diffractie) van gereflecteerde X-stralen: l = 2𝑑 sin 𝜃
+• Voor een bepaalde inter-atoom afstand d zullen de X-stralen versterkt
+worden onder een bepaalde hoek 𝜃
+• Kristallen hebben een aantal verschillende atoom-vlakken. Hierdoor
+zullen zich meerdere pieken in het spectrum vormen: diffractogram
+• Afhankelijk van aanwezige atomen en hun onderlinge structuur
+• d-waarden gekend voor alle mineralen (database – software)
+
+ XRD
+• Drie belangrijke onderdelen:
+1. X-stralen bron
+2. Staal
+3. Detector
+
+ XRD
+• Diffractogram – vroeger
+werden reflecties op film
+gevangen
+• Nu digitale detector
+→ grafiek
+
+ XRD
+1. De X-stralen worden gefocust op het
+staal onder een hoek θ
+2. De detector tegenover de bron meet de
+intensiteit van de X-stralen op 2θ van
+het pad van de bron
+3. In de θ-2θ geometrie blijft de X-stralen
+bron terplaatse en beweegt de detector
+over een (in te stellen) hoek. In de θ-θ
+geometrie bewegen zowel X-stralen
+bron als detector.
+
+ Peak Intensity
+
+XRD: voorbeeld
+
+Angle of diffraction
+
+ XRD: voorbeeld
+• Onderscheiden van
+chemisch identieke
+mineralen o.b.v.
+kristalstructuur
+• Calciet en aragoniet:
+CaCO3
+
+Calciet
+
+Aragoniet
+
+ XRD: voorbeeld
+Cuprorivaite is a typical blue mineral found in the ‘Egyptian Blue’ pigment
+
+A pigment from an ancient Egyptian tomb
+was analyzed with XRD. The minerals found
+were wollastonite, quartz, magnesioferrite
+and cuprorivaite.
+
+ XRD: voorbeelden
+
+Sax et al. (1993) The
+availability of raw
+materials for near
+eastern cylinder seals
+during the Akkadian,
+post Akkadian and Ur III
+periods, Iraq, 55, 77-90
+
+ Sax et al. (1993) Iraq
+
+XRD: voorbeelden
+
+ XRD (XRF)
+https://www.vrt.be/vrtnws/nl/2018/03/07/-meisje-met-de-parel--krijgt--full-body-scan--door-antwerps-spec/
+
+ XRD
+• Wet van Bragg
+• Interferentie X-stralen
+• Niveau molecule
+• Identificatie
+• Alle kristallijne structuren
+• Mineralen
+• Gesteenten
+• Keramiek
+• Pigmenten
+• Organische materialen zoals collageen
+• Metalen kan ook, maar minder in archeologie (metallografie)
+
+ XRD
+• Voordelen
+• Goede identificatie van
+kristallijne stoffen
+• Groot aantal verschillende
+materialen
+• Accurate kwalitatieve analyse
+• Mogelijkheid tot
+kwantitatieve analyse
+
+• Nadelen
+• Invasief
+• Relatief hoge detectielimiet (ca.
+3-5%)
+• Moeilijk voor complexe
+materialen (resolutie↘)
+• Referentie-data nodig van
+gekende mineralen
+
+ XRD
+• Typisch met staalname
+• Poeder → invasief, semi-destructief (poeder blijft behouden, cfr. XRF)
+• Intact: enkele kristallen, edelstenen, ...
+
+• Oppervlakte-analyse
+• Bv. Pigmenten
+
+• Ook draagbare XRD
+
+ Analyse: indeling
+• Beeldvormingsmethodes
+• Lichtmicroscopie, SEM, radiografie, CT
+
+• Analysemethodes
+• Spectroscopische methodes
+→ AAS, OES/AES, XRF (+SEM-EDS, microprobe/EPMA), NAA
+• Scheidingstechnieken
+→ Chromatografie
+• Andere
+→ XRD, MS (TIMS, ICP-MS, LC/GC-MS, LA-ICP-MS)
+
+ MS: Massa-spectrometrie
+• Tellen van deeltjes (ionen)
+• Gescheiden door ratio
+lading/massa
+→ isotopen
+• Geeft massa-spectrum,
+niet golf-spectrum
+• Kan zeer gevoelig en
+accuraat
+
+ MS: Massa-spectrometrie
+• Organisch materiaal: typisch geïntroduceerd als gas
+→ vaak vanuit GC of HPLC
+(ionisatie met elektronen of chemisch)
+• Anorganisch materiaal: gas niet mogelijk → staal oplossen
+→ Volatilisatie en ionisatie d.m.v.
+Gloeidraad: TIMS (Thermal Ionisation MS) – tot ca. 2500°C
+Plasma: ICP-MS – ca. 10.000°C
+
+ MS: Massa-spectrometrie
+• Verkregen ionen worden gescheiden o.b.v. massa-lading ratio
+• Geladen deeltjes volgen verschillend pad doorheen elektrostatisch of
+magnetisch veld
+• Enkel deeltjes van bepaalde massa
+bereiken de detector
+• Variëren van EM veld laat toe
+sequentieel deeltjes met
+Uit Pollard
+et al. (2007)
+verschillende massa te meten
+• Typisch: quadrupole: Q-ICP-MS
+
+ MS: Massa-spectrometrie
+
+ Q-ICP-MS
+
+ MS: Massa-spectrometrie
+
+ MS: Massa-spectrometrie
+• GC-MS
+• GC: scheiding van complexe
+mengsels in organische
+componenten
+• MS: precieze meting/identificatie
+van componenten, zonder
+gebruik van meerdere pure
+standaarden (nodig bij gewone
+GC)
+
+• De “gouden standaard” voor
+organische stalen (HPLC-ICP-MS
+pas recenter in gebruik)
+
+ Sarret, M.; Adam, P.; Schaeffer, P.; Ebert, Q.;
+Perthuison, J. & Pierrat-Bonnefois, G. (2017), 'Organic
+substances from Egyptian jars of the Early Dynastic
+period (3100-2700 BCE): mode of preparation,
+alteration processes and botanical (re)assessment of
+"cedrium"', Journal of Archaeological Science: Reports
+14, 420-431.
+
+ Sarret, M.; Adam, P.; Schaeffer, P.; Ebert, Q.;
+Perthuison, J. & Pierrat-Bonnefois, G. (2017), 'Organic
+substances from Egyptian jars of the Early Dynastic
+period (3100-2700 BCE): mode of preparation,
+alteration processes and botanical (re)assessment of
+"cedrium"', Journal of Archaeological Science: Reports
+14, 420-431.
+
+ MS: Massa-spectrometrie
+• Q-ICP-MS: zeer snelle meting van spoor-elementen dankzij
+mogelijkheid om in korte tijd breed spectrum van massa’s te meten
+• Sequentiële meting isotopen met Q-ICP-MS:
+onvoldoende nauwkeurig om isotoop-verhoudingen te bepalen
+• Nog betere scheiding is mogelijk d.m.v. magnetische filters
+(gebruikt in TIMS, MC-ICP-MS)
+
+ MC-ICP-MS
+
+Uit Pollard
+et al. (2007)
+
+ MS: Massa-spectrometrie
+• Detector: relatief eenvoudige meting van opgebouwde spanning door
+ionen
+• “Faraday cup”
+• Voor de meting van isotoop-verhoudingen worden meerdere Faraday
+cups gebruikt om simultaan metingen uit te voeren
+→ Multi-collector (MC) massa spectrometrie: MC-ICP-MS
+
+ MS: Massa-spectrometrie
+• Lichte isotopen: C, O, N, S
+• Natuurlijke verhoudingen in natuur
+• Fractionatie door fysische processen,
+bv.:
+• Evaporatie afhankelijk van T (zuurstof)
+→ zie les paleoklimaat
+• Fotosynthese in planten (koolstof)
+→ zie les datering
+• Variatie stikstof, koolstof en zwavel in
+terrestrische en mariene organismes
+→ dieet-reconstructie, herkomstreconstructies
+
+ Dieetreconstructie
+• Menselijke beenderen: “mineraal” Ca10(PO4)6(OH)2
+
+• Opslag van inorganische stoffen opgenomen met voeding, bv. Sr & Pb
+• Echter problematische post-mortem diagenetische wijzigingen →
+onbetrouwbaar
+
+• Organisch materiaal → collageen (in been)
+• Minder probleem van diagenetische veranderingen
+• C, N, O en S isotoop ratios in collageen reflecteren isotoop ratios in het dieet
+(13C/12C, 15N/14N, 18O/16O & 34S/32S)
+→ Reconstructie van dieet en migratie
+
+ Zie ook:
+Naito et al. (2016):
+Ecological niche of
+Neanderthals from Spy
+Cave revealed by
+Nitrogen isotopes of
+individual amino acids
+in collagen, Journal of
+Human Evolution, 93,
+82-90
+Buck & Stringer (2014):
+Having the stomach
+for it: a contribution to
+Neanderthal diets?,
+Quaternary Science
+Reviews, 96, 161-167
+
+     https://youtu.be/PJ7A6Nw0My4
+
+ Mobiliteitsreconstructie
+• Verschillende aangroei in lichaamsdelen
+• Tanden tot 20 jaar oud → dieet tot adolescentie
+• Andere, bv. ribben → meer recent dieet
+
+• Individu ouder dan ca. 30 biedt mogelijkheid om mobiliteit tussen
+verschillende ecologische omgevingen te reconstrueren
+• Bv.: mobiliteit van Beker-cultuur (einde Neolithicum, ca. 2500 BCE)
+• Verspreiding cultuur (landbouw, metallurgie, … ) als idee en/of mensen?
+• Toont belangrijke mobiliteit in deze periode (vooral vrouwen - patrilokaal)
+• Meer complex verhaal van kolonisatie en verspreiding van ideeën, met
+belangrijke variatie afhankelijk van de context …
+
+ Ötzi
+
+Science (2003)
+
+ MS: Massa-spectrometrie
+• Zware isotopen: Pb, Sr, Nd
+• Vroeger typisch TIMS, tegenwoordig meer MC-ICP-MS
+• Tot 7 Faraday cups
+• Fractionatie in de natuur, bv.:
+• Sr: radioactief verval van Rb
+→ Vervangt Ca in fosfaten van beenderen en tanden → herkomst
+→ Ook in glas (Sr/Nd/Pb) → herkomst
+→ In gesteenten zoals marmer en gips (ook C en O)
+• Pb: radioactief verval van U en Th doorheen de tijd
+→ Aanwezig in meeste metaal ertsen (bv. Cu, Pb) → herkomst
+
+ ICP-MS
+• ICP-MS: meting van 6Li tot 238U
+• In feite steeds meting van
+isotopen (natuurlijke verhouding)
+→ MC-ICP-MS: isotoopverhoudingen
+→ Q-ICP-MS: element-analyse
+• TIMS duurder, langzamer en ca.
+10x minder gevoelig dan MC-ICPMS → toename in isotoopreconstructie in laatste
+decennium (Sr, Nd, Pb)
+
+ ICP-MS
+• Steeds meting van standaarden
+• Q-ICP-MS:
+• Acc/Prec: 2-10% (afhankelijk van
+element)
+• Detectielimiet op ppb-niveau
+
+• TIMS/MC-ICP-MS
+• Acc/Prec: 0.05-1% (afhankelijk van
+element)
+• Detectielimiet op (ppt-)ppb-niveau
+• Isotoop-verhoudingen
+
+ MS: Massa-spectrometrie
+• Gebruik anorganische materialen:
+• Spoor-elementen (Q-ICP-MS)
+→ Vervanging van NAA sinds jaren 90
+(sommige elementen niet meetbaar met NAA of ICP-MS)
+• Isotopen (TIMS, MC-ICP-MS)
+→ Voorbeeld: Pb isotopen in de herkomst-studie van metalen
+
+  MS: Massa-spectrometrie
+
+ LA-ICP-MS
+• Vloeibaar staal vereist
+lange voorbereiding
+• Laser ablatie: rechtstreeks op
+voorwerp, minimale voorbereiding
+• Behoudt overzicht van
+ruimtelijke informatie
+• Oppervlakte-analyse: 5-400 mm
+• Meer problemen in kwantificatie
+• Variabele ablatie, ionisatie
+• Moeilijk geschikte standaarden
+• Detectielimiet ca. 1000x hoger
+dan bij oplossing ICP-MS
+
+• Minimaal destructief
+
+ LA-ICP-MS
+
+ Archeologische vraagstelling
+
+Identificatie
+Herkomst → grondstoffen, productiecentra
+
+Productietechniek
+Ouderdom, authenticiteit
+
+ Herkomst?
+• Waar komt iets vandaan?
+• Grondstoffen?
+• Product?
+
+• Herkomstbepaling laat toe (een deel van) het afgelegde traject van
+een archeologisch artefact te reconstrueren
+• Dit kan inter-connecties (contact, mobiliteit, uitwisseling, …) tussen
+verschillende culturen en regio’s belichten
+• “Sourcing” ~ bronnen ~ meestal grondstoffen
+• “Provenance” ~ herkomst ~ vaak productiecentrum
+
+ Herkomst
+• Herkomst-postulaat:
+Er bestaat een kwalitatieve of kwantitatieve variatie (chemische,
+isotopische, mineralogische samenstelling) tussen verschillende
+natuurlijke bronnen, die groter is dan (en onderscheidbaar van)
+de variatie binnen deze bronnen.
+Weigand et al. (1977)
+in Exchange Systems in Prehistory
+
+ Herkomst
+• De gekozen analytische methode moet
+elementen meten die karakteristiek zijn voor
+de bronnen cfr. herkomst-postulaat
+• De precisie moet voldoende hoog zijn opdat
+de verschillen tussen groepen niet
+gemaskeerd worden door de analytische
+foutenmarge
+• De accuraatheid moet voldoende hoog zijn
+zodat de resultaten vergelijkbaar zijn met
+metingen uitgevoerd door andere laboratoria
+• Beschikbare staal-grootte en budget spelen
+ook een belangrijke rol bij de selectie van de
+analytische methode…
+
+ Herkomst
+• Welke chemische, isotopische en mineralogische variatie bestaat er
+tussen bronnen?
+• Karakterisatie van bronnen:
+• Gesteenten
+• Keramiek: klei + …
+• Glas: zand, flux, stabilisatoren (kalk), kleurstoffen
+• Metaal: ertsen
+→ Geologische afzettingen van bepaalde grondstoffen
+
+ Herkomst
+• Geologische bronnen zijn extreem
+divers
+→ Meestal niet mogelijk alle
+bronnen te karakteriseren
+→ Karakterisatie lokale bronnen
+(site – regionale studies)
+→ Gebruik geologische
+literatuur (niet steeds gericht op
+archeologisch relevante data)
+
+ Herkomst
+• Karakterisatie van productie-centra o.b.v. productieresten
+• Archeologische sites waar productie van verschillende materialen plaatsvond
+
+• Levert rechtstreekse indicatie van waar materiaal geproduceerd werd
+alvorens het (al dan niet elders) gebruikt werd
+• Probleem?
+• Productie-centra worden niet steeds bewaard, gevonden, opgegraven of
+uitgebreid bestudeerd
+• Sommige materialen worden in meerdere stappen geproduceerd, en niet elke
+stap vindt plaats op dezelfde locatie (bv. glas en metaal)
+
+ Herkomst
+• Complexe materialen?
+• Kennis van productie-technologie voor succesvolle herkomst-studies
+
+ Productie-technologie
+• De meeste archeologische materialen kunnen op verschillende manieren
+worden geproduceerd
+• Studie van technologie laat toe de uitvinding/adaptatie/evolutie/… van
+verschillende technieken te traceren binnen eenzelfde cultuur alsook op
+een regionale tot globale schaal
+• Technologische variatie wordt in een breder archeologisch kader
+gerelateerd aan zowel individuele handelingen (workshop context) als
+bredere sociale, economische en culturele organisatie, veranderingen en
+contacten (maatschappelijk niveau)
+• Bv. uitvinding & diffusie van metallurgie (globale schaal)
+• Bv. keuze van klei voor tafelwaar of voedselopslag (lokale schaal)
+• Bv. organisatie van glasraam-productie (workshop schaal)
+
+ Productie-technologie
+• Technische aspecten van materialen en productiemethodes worden
+vaak gerelateerd aan hun functionaliteit
+• Technologische keuzes zijn echter ingebed in de socio-culturele
+regelmaat van samenlevingen en daar dus ook een afspiegeling van
+
+ Productie-technologie
+• Technische aspecten van materialen en productiemethodes worden
+vaak gerelateerd aan hun functionaliteit
+• Technologische keuzes zijn echter ingebed in de socio-culturele
+regelmaat van samenlevingen en daar dus ook een afspiegeling van
+• Functie – stijl – materialiteit – ritueel – sociale aspecten – …
+• Naast productie-technieken kan ook de keuze voor materialen met
+bepaalde herkomst in dit kader worden gezien
+
+ Herkomst – gesteente
+
+ Herkomst – gesteente
+• In Romeinse periode: zeer uitgebreid handels- en transport-netwerk
+van marmer en andere gesteenten
+• Reconstructie hiervan o.b.v. archeometrische analyse
+
+Grafkist in marmer uit Dokimeion (Turkije)
+gebruikt in Rome, 2e eeuw CE
+
+Kolommen van
+Pantheon, Rome, 2e
+eeuw CE: graniet uit
+Mons Claudianus, O.
+Woestijn van Egypte
+
+ Herkomst – gesteente
+
+ Herkomst – gesteente
+
+Zie verder:
+Abu-Jaber et al. (2012)
+Mediterranean Archaeology and
+Archaeometry, 12, 21-29
+
+  Herkomst - Grondstoffen
+• Keramiek
+• Klei
+• Natuurlijke inclusies
+• Organische magering
+• Anorganische magering
+• Grog (vermalen keramiek)
+• Grof sediment, gesteente-fragmenten
+
+• Glazuur
+• Decoratie (slib, pigmenten)
+
+Price & Burton (2012) An Introduction
+to Archaeological Chemistry, Springer
+
+  Technologie – keramiek
+• Bereiding klei-pasta (fabric)
+• Vormingsmethodes
+• Bak-proces
+
+Badari – Egypte, 5e mill. BCE
+
+• Type oven
+• Temperatuur
+• Redox
+• Meerdere stappen
+
+Pi-Ramesse – Egypte, 13e eeuw BCE
+Zelfde workshops; verschillend recept en ontwerp
+van smeltkroezen voor glas en metaal
+Athene – Griekenland, 6e-4e eeuw BCE
+
+ Technologie – keramiek
+• Functionaliteit
+• Kookpot
+• Waterkan
+• Transport-amfoor
+• Pyrotechnologie
+•…
+
+Grape – ME kookpot
+
+Tajine – modern
+
+• Esthetiek, materialiteit, …
+Pelgrim’s fles –
+Vroeg Byzantijns
+
+Transport amfoor – Late Bronstijd
+
+ Herkomst – keramiek
+• Archeologie:
+– Chronologie
+– Typologie
+– Macroscopisch
+=> Fabrics
+
+• Archeometrie:
+– Petrografie → Fabrics
+– Geochemie
+– Mineralogie
+=> Herkomst
+
+ Herkomst – keramiek
+• De chemische samenstelling van een bepaald type keramiek is
+karakteristiek voor een productie-centrum dat gebruik maakt van
+bepaalde grondstoffen en klei-bereiding (clay paste recipe)
+• Meestal is de chemische variatie binnen 1 productie-centrum kleiner
+dan de chemische verschillen met andere productie-centra
+• Chemische “fingerprints” kunnen bepaald worden voor productie in
+bepaalde centra of regio’s
+• Keramiek van ongekende herkomst kan met fingerprints van
+dergelijke centra vergeleken worden
+
+ Herkomst – keramiek
+• Hoofd-elementen zijn gevoelig aan productie-technologie
+• Spoor-elementen zijn meer gerelateerd aan geologie
+→ Samen voorkomen van bepaalde elementen
+→ Verhouding tussen bepaalde elementen
+
+Kreta,
+Griekenland –
+V. Kilikoglou
+
+ Herkomst – keramiek
+• Analyse van pottenbakkers-atelier, met misbaksels, oven etc. …
+• Onrechtstreeks identificatie van productie-centrum o.b.v. hoeveelheid
+lokale keramiek
+
+Kommos,
+Griekenland –
+V. Kilikoglou
+
+Bron:
+deutsches-museum.de/en/exhibitions/materials-energy/ceramics/history/
+
+ Keramiek
+
+ Microphotograph of
+group A (with
+abundant fine-grained
+chert inclusions).
+Photographed under
+crossed-polarized light.
+
+Microphotograph of
+group B (calcareous
+fabric containing
+calcareous sandstone).
+Photographed under
+crossed-polarized light.
+
+Microphotograph of
+Group C (volcanic-rich
+showing abundant
+biotite, K-feldspar,
+quartz and plagioclase
+grains).
+Photographed under
+crossed-polarized light.
+
+Microphotograph of
+group D (semi-fine
+calcareous fabric with
+few K-feldspars).
+Photographed under
+crossed-polarized light.
+
+ Keramiek
+
+ Keramiek
+
+ Keramiek
+
+ Keramiek
+
+Zie verder:
+Braekmans et al. (2011)
+Journal of Archaeological
+Science, 38, 2101-2115
+
+ Keramiek
+Geochemistry
+
+Mineralogy
+Petrography
+
+ANCIENT
+POTSHERDS
+
+Comparison
+
+Comparison
+
+POSSIBLE
+CLAY SOURCES
+
+Selection
+
+FIRED CLAY
+PRODUCTS
+
+ Technologie – metalen
+• Vroegste gebruik: gedegen metaal
+
+ Technologie – metalen
+Çatalhöyük
+(Anatolia)
+- 7e mill. BCE
+Gedegen koper
+
+Birch et al., 2013,
+In Hodder (vol. 9:
+Substantive Technologies at Çatalhöyük)
+
+ Technologie – metalen
+Tel Tsaf (Israel)
+- 6e Mill. BCE
+
+Garfinkel et al.,
+2014, PLOS one
+
+ Technologie – metalen
+Belovode, Pločnik,
+Vinča, Gornja Tuzla
+(Serbia, Bosnia
+
+Herzegovina)
+- 5e Mill. BCE
+1e extractieve
+metallurgie
+(dusver ontdekt)
+Radivojević & Rehren,
+2015, JAMT
+
+ Technologie – metalen
+• Ontwikkeling metallurgie → smelten – primaire metallurgie
+
++ slak
+
+ Technologie – metalen
+
+Koper-smeltovens, Ayn Soukhna, Egypte (Middenrijk)
+
+Ijzer-smelten, C-Afrika (20e eeuw)
+
+ Technologie – metalen
+• Secundaire metallurgie → legeringen, gieten, bewerken
+Smelten
+
+Erts
+
+Legeren/
+gieten
+
+Onbewerkt
+metaal
+
+Artefacten
+
+ Technologie – metalen
+Legeringen
+→ Koper + andere elementen, zoals
+As, Sb, Sn, Pb
+→ Groeiende variatie in mechanische
+eigenschappen, maar ook sensorische
+zoals kleur, geur, smaak, ...
+
+Nahal Mishmar Hoard, ca. 3500 BC
+(Judean Desert, Israel)
+
+Moorey, 1988, World Archaeology
+
+ Technologie – metalen
+
+Berger, 2014,
+Under the Volcano
+
+Iron-inlaid bronze, lance head, Germany
+Iron Age
+
+Graeco-Romeinse periode
+
+Tumbaga –
+PreColumbiaans
+MesoAmerika
+El Morr & Pernot, 2011, JAS
+MBA – 2000-1800 BCE
+Byblos, Levant (Lebanon)
+
+ Technologie – metalen
+• Naast de feitelijke metalen worden vooral productie-resten
+bestudeerd
+
+ Technologie – metalen
+• Metalen
+→ Legering betreft hoofd- en neven-elementen
+→ Bewerking van het metaal is zichtbaar in micro-structuur
+• Productie-resten
+→ Micro-structuur geeft inzicht in primaire en secundaire
+metallurgische processen
+→ Micro-analyse van bepaalde fasen + bulk chemische analyse
+van slakken karakteriseren proces
+
+ Herkomst – metalen
+• Metallurgie begint in de mijnen
+
+Timna (Israel) mining gallery
+Gold panning
+
+Mining
+tools
+
+Uit prof. Shaw and MartinónTorres UCL lessen
+
+Roman hydraulic pump (Spain)
+
+ Herkomst – metalen
+• Koper mineralisatie slechts op beperkt aantal plaatsen in de wereld
+• Variatie in type mineralisaties
+→ Verschillende elementen aanwezig in ertsen (naast Cu)
+→ Verschillende geologische leeftijden van mineralisatie
+
+ Herkomst – metalen
+• Verband chemische samenstelling erts-metaal vaak moeilijk
+• Spoor-elementen kunnen uitsluiten, maar niet steeds bevestigen
+
+ By preparing distribution maps of
+copper types that were identified
+based on their chemical
+composition, it was hoped that
+one would obtain insight into the
+production and distribution of
+metals in Europe.
+For this purpose, more than
+22,000 objects from all over
+Europe (Junghans et al. 1960,
+1968, 1974) were sampled and
+analysed with practically the
+same method as in Halle.
+Pernicka (2014) Provenance
+determination of archaeological
+metal objects, In Roberts &
+Thornton (eds),
+Archaeometallurgy in Global
+Perspective
+
+ Herkomst – metalen
+
+“Primordiaal Pb”
+als baseline
+
+ Herkomst – metalen
+
+Pb gevormd als
+dochter isotoop van
+radioactief verval
+van uranium en
+thorium
+
+ Herkomst – metalen
+
+Stacey & Kramers, 1975
+
+ Herkomst – metalen
+Genese van Pbbevattende ertsen
+kan gedateerd
+worden via meting
+van Pb isotoop ratios
+
+Pb isotoop ratios
+worden bij het
+smelten
+doorgegeven naar
+het metaal
+
+Uit: Pernicka (2014)
+Provenance
+determination of
+archaeological metal
+objects, In Roberts &
+Thornton (eds),
+Archaeometallurgy in
+Global Perspective
+
+ Herkomst – metalen
+• Pb isotopen
+
+Gale &
+StosGale,
+1982
+
+ Late Bronstijd koper-handel
+
+Kassianidou,
+2009
+
+“Oxhide” ingots
+
+ Late Bronstijd koper-handel
+
+c
+
+   Uluburun shipwreck
+
+Lo Schiavo et al., 2013
+
+ Herkomst – metalen
+• Mogelijke problemen met Pb isotopen (herkomst-postulaat!)
+• Meerdere ertsen kunnen dezelfde Pb isotopen hebben
+• Variatie aan isotopen in een erts-lichaam
+• Invloed van smelt-proces? Verwaarloosbaar
+• Recyclage en mengen van verschillende soorten koper
+• Bijmengen van Pb door legering: brons (Sn), Pb brons
+
+→ Zeer scherpe debatten tijdens de jaren ‘90
+
+ Herkomst – metalen
+~
+
+ Herkomst – metalen
+• Meeste primaire productie vlakbij mijnen
+
+ Herkomst – metalen
+• Herkomst van metalen → typisch in relatie tot mijnen, maar ook
+andere metalen objecten
+• Studie van secundaire workshops biedt mogelijkheid om herkomst en
+passage van metalen op sites te reconstrueren en meer detail te
+bieden van het traject erts tot finaal gebruik object
+Ge-recycleerde dolk
+
+Ingot fragment
+
+Pi-Ramesse, Egypte (13e eeuw BCE)
+
+Rademakers et al. (2017), 'Copper for the Pharaoh: identifying
+multiple metal sources for Ramesses' workshops from bronze and
+crucible remains', Journal of Archaeological Science, 80, 50-73.
+
+ Rademakers et al.
+(2017) Journal of
+Archaeological Science
+
+ Egyptische collectie KMKG (Brussel)
+Rademakers et al. (2018)
+Journal of Archaeological Science 96, 175-190
+
+ Ayn Soukhna
+
+ Technologie – glas
+• Zand + flux + stabilisator
+• Basis-samenstelling SiO2–Na2O–CaO: relatief weinig variatie
+• Keuze van flux:
+• Plant-as
+• Natron
+→ Gelijkaardige Na2O, verschillende hoeveelheden MgO en P2O5
+
+• Bepaling van samenstelling hoofd- en neven-elementen
+→ indeling in grote glas-types
+
+  Wadi el-Natrun (Egypte)
+Uit Degryse, ed. (2014) Glass Making in the Greco-Roman World, Leuven University Press
+
+ Technologie – glas
+
+Primaire productie in Apollonia (Israel)
+
+ Technologie – glas
+
+Late Bronstijd
+Five of the c. 175 glass ingots excavated from the Uluburun
+shipwreck, at an exhibition at the Deutsches BergbauMuseum in Bochum in 2005/2006.
+
+Glass chunks ready for re-melting and blowing into vessels, stored in a pottery
+vessel in the 6th-7th century workshop at Beth Shean, Israel. (Reconstruction
+displayed in the Israel Museum, Jerusalem.)
+
+ Technologie – glas
+• Kleur, doorzichtigheid
+→ Toevoeging specifieke elementen
+
+• Bepaling van neven-(spoor)-elementen
+
+Glas-productie in de Late
+Bronstijd
+Rehren & Freestone (2015)
+Journal of Archaeological Science
+
+Glas-productie in de Laat-Antieke periode
+Rehren & Freestone (2015)
+Journal of Archaeological Science
+
+ Technologie – glas
+
+18e Dynastie, Amarna, Egypte
+(British Museum: EA55193)
+
+“Cage cup”, Keulen, mid-4e eeuw CE
+(Collection Staatliche Antikensammlung, Munchen)
+
+https://youtu.be/iBZb2bkn4KU
+
+https://youtu.be/JlrI6TFO-DI
+
+ Herkomst – glas
+• Componenten (zand + flux + stabilisator) zijn steeds gelijkaardig in
+hoofd-element samenstelling (voldoet niet aan herkomst-postulaat)
+• Geologische bronnen kunnen echter verschillen
+→ Spoor-elementen en isotopen analyse
+(isotopen van lood, neodymium, strontium)
+
+ Herkomst/technologie – glas
+Major primary glass groups from the first
+millennium CE, in terms of the oxides of
+titanium, aluminium and silicon. The glasses
+analysed in the present study are also
+shown. Based upon Freestone (in press).
+Uit Freestone, Degryse, Lankton, Gratuze &
+Schneider (2018): HIMT, glass composition
+and commodity branding in the primary
+glass industry, in Rosenow, Phelps, Meek &
+Freestone, eds., Things that Travelled:
+Mediterranean Glass in the First Millennium
+AD, London: UCL Press, pp. 159-190.
+
+ Herkomst – glas
+
+Glas uit Pergamon (Hellenistische tot Islamitische periode)
+Rehren et al. (JAS) 2015
+
+  Herkomst – glas
+
+Brems et al. (2013), 'Isotopes on the beach, part 1: strontium
+isotope ratios as a provenance indicator for lime raw materials
+used in Roman glass-making', Archaeometry, 55, 214-234.
+
+ Examen
+• Selectie goede strategie om bepaalde vraagstelling te behandelen
+• Herkomst
+• Productie-technologie
+
+• Analysetechniek
+• Invasief, destructief?
+• Welke materiaal-gegevens nodig?
+• Structuur/textuur
+• Mineralogie
+• Chemische samenstelling: hoofd/neven/spoor-elementen
+• Isotopen van bepaalde elementen
+
+ 

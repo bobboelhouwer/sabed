@@ -1,0 +1,370 @@
+Overeenkomsten
+
+RECHTSSUBJECT
+Rechten
+
+ Buiten-patrimoniële rechten
+ Zakelijke rechten
+ Persoonlijke rechten (schuldeiser: “heeft schuldvordering”)
+ Intellectuele rechten
+
+
+vermogen als (vlottend) onderpand
+
+
+activa
+passiva
+
+
+
+
+
+Verbintenissen
+(schuldenaar: “heeft schuld”, “is aansprakelijk”)
+
+ < rechtsfeit (bv. buitencontractuele aansprakelijkheid)
+ < rechtshandeling  (bv.  contractuele aansprakelijkheid)
+
+
+2
+Overeenkomst
+Meerzijdige rechtshandeling
+Gebaseerd op wilsovereenstemming
+Waarbij partijen juridisch verbindende verbintenissen aangaan 
+[eenzijdige overeenkomst / wederkerige overeenkomst]
+Om niet / onder bezwarende titel
+Partij / rechtsopvolger (cf. art. 1122 oud BW) / derde
+Al dan niet verbonden aan de persoon (“intuitu personae”)
+
+
+
+3
+Geldigheidsvoorwaarden
+
+Wilsovereenstemming
+Vrij van wilsgebreken (dwaling, bedrog, geweld, [gekwalificeerde benadeling])
+Rechts- en handelingsbekwaamheid (zie hoger)
+Voorwerp
+Oorzaak
+
+
+4
+Wilsovereenstemming (1/2)
+Wilsovereenstemming: tot elkaar uitgedrukte toestemming van de partijen
+in principe: geen voorwaarden
+wel: bewijsregels
+uitzonderingen: “plechtige contracten”
+bv. ondertekend geschreven document
+bv. aanbod en aanvaarding
+bv. wilsovereenstemming kan impliciet blijken, bv. uit gedragingen
+wat met “algemene voorwaarden”?
+
+
+‘overeenkomst’ = ‘contract’
+
+
+
+
+
+meerzijdige rechts-handeling waarbij etc,
+[negotium]
+
+Onderteken-de akte als bewijs
+[instrumentum]
+
+5
+Wilsovereenstemming (2/2)
+Wat als uitgedrukte wil ≠ werkelijk wil?
+Verschil in hoofde van alle partijen
+werkelijke wilsovereenstemming primeert op uitgedrukte wil (zie art. 1156 oud BW))
+partij die beweert dat uitgedrukte wil ≠ wilsovereenstemming zal wel bewijslast dragen
+Verschil in hoofde van één partij 
+uitgedrukte wil primeert in beginsel
+tenzij de tegenpartij er redelijkerwijze niet redelijkerwijze op kon vertrouwen dat de uitgedrukte wil met de werkelijke wil overeenstemt
+Veinzing (simulatie): bewust verschil in hoofde van alle partijen tussen uitgedrukte wil en werkelijk wil
+Tussen partijen geldt de werkelijke wil (“tegenbrief”)
+Let wel: geen strijdigheid met dwingend recht of openbare orde?
+Derden hebben de keuze (zie art. 1321 oud BW)
+zich beroepen op de tegenbrief
+zich beroepen op de geveinsde afspraak 
+6
+Wilsgebreken (1/2)
+Wilsgebrek:  - werkelijke wil = uitgedrukte wil
+	          - probleem hoe werkelijke wil gevormd werd
+	          - bij de totstandkoming van de overeenkomst
+	          - sanctie: nietigheid en/of art. 1382 oud BW
+
+Dwaling (art. 1110 oud BW):
+essentieel (over de zelfstandigheid van de zaak) + kenbaar
+Waarde: in de regel niet
+Persoon: in de regel niet, tenzij “intuitu personae”
+verschoonbaar
+
+= precontractuele aansprakelijkheid
+7
+Wilsgebreken (2/2)
+Bedrog (art. 1116 oud BW) 
+Dwaling, maar ten gevolge van “kunstgrepen” (= kwade trouw)
+! Niet vereist dat verschoonbaar in hoofde van slachtoffer
+Geweld (art. 1111 oud BW)
+T.a.v. betrokkene of naaste verwante [...]
+Doorslaggevend
+Indruk maken op redelijk mens / onmiddellijke vrees voor aanzienlijk kwaad
+Onrechtmatig
+
+[Benadeling]
+
+8
+Voorwerp en oorzaak 
+Voorwerp
+Het concrete rechtsgevolg dat partijen beogen
+Het voorwerp moet bestaan, geoorloofd zijn en in de handel zijn
+Het moet voldoende bepaald of bepaalbaar zijn (art. 1129 oud BW)
+Bindendende derdenbeslissing
+“Partijbeslissing” (uitz.: bv. art. 1591 oud BW; art. 25 WAO)
+
+Oorzaak (art. 1131 oud BW)
+Juridische beweegreden 
+[Afwezigheid van oorzaak]
+Ongeoorloofde oorzaak 
+9
+       
+10
+Nietigheid van rechtshandelingen 
+Sanctie overtreding regel bij de totstandkoming van een rechtshandeling (bv. overeenkomst)
+
+Gevolgen: 
+Vernietigbaarheid: uitspraak van rechter
+Gedeeltelijke nietigheid van een beding, tenzij essentieel beding
+Principe: terugwerkende kracht
+Uitzondering: zekere rechtsgevolgen blijven bestaan
+
+Absolute en relatieve
+
+
+ alsof nooit overeenkomst
+11
+Absolute en relatieve nietigheid
+Absolute nietigheid
+Schending regels van openbare orde of goede zeden
+Door elkeen inroepbaar
+Geen bekrachtiging
+ 
+
+
+
+Relatieve nietigheid
+Schending regels die private belangen dienen
+Enkel inroepbaar door beschermde personen
+Bekrachtiging mogelijk
+
+
+
+12
+Vroeger ook: al dan niet ambtshalve door rechter
+ principe dat rechter het recht moet toepassen
+Gevolgen tussen partijen
+
+
+Principe: overeenkomst “strekt de partijen tot wet” = bindt de partijen (art. 1134, eerste lid oud BW)
+
+Overeenkomst wordt te goeder trouw geïnterpreteerd (naar “redelijkheid en billijkheidheid”)
+
+
+
+
+13
+Gevolgen tussen partijen
+
+Soms meer dan uitdrukkelijk bepaald: aangevuld door aanvullend recht
+Aanvullend recht: regels die van toepassing zijn als partijen geen andere afspraak hebben gemaakt
+Algemene contractuele norm van aanvullend recht om te goeder trouw te handelen:  art. 1135 oud BW:  “Overeenkomsten verbinden niet alleen tot hetgeen daarin uitdrukkelijk bepaald is, maar ook tot alle gevolgen die door de billijkheid, het gebruik of de wet aan de verbintenis, volgens de aard ervan, worden toegekend.”
+
+Soms minder dan uitdrukkelijk bepaald: afspraken in strijd met dwingend recht worden niet toegepast
+Zie art. 1134 oud BW “tenzij strijdigheid met wet” (begrijp: “indien strijdig met dwingend recht”)
+bv. “exoneratie” voor eigen bedrog of exoneratiebeding dat overeenkomst iedere zin ontneemt, omdat het betrekking heeft op een wezenlijke prestatie
+bv. “onrechtmatige bedingen” (zie bv. art. VI.84 WER in ‘B2C’ contracten)
+Verplichting om contractuele rechten te goeder trouw uit te oefenen als algemene contractuele norm van aanvullend recht  verbod op rechtmisbruik
+
+14
+Niet-nakoming
+Nakoming = uitvoering = “betaling”
+Niet-nakoming
+Afwezigheid van overmacht / geen exoneratie
+Contractuele wanprestatie (“contractbreuk”)
+Ingebrekestelling  sanctie
+Gedwongen uitvoering / + ev. bijkomende schadevergoeding
+Wederkerige overeenkomsten: recht op keuze voor ontbinding
+Gerechtelijke ontbinding: controle door rechter vooraf
+Uitdrukkelijk ontbindend beding: controle door rechter achteraf
+Buitengerechtelijke ontbinding: controle door rechter achteraf
+Ondergeschikt: vervangende schadevergoeding
+
+dwangsom
+ alsof overeenkomst correct uitgevoerd
+15
+Gevolgen tussen partijen
+
+
+
+Tussen partijen in principe géén mogelijkheid om art. 1382 oud BW in te roepen voor contractuele tekortkoming
+wel: pre-contractuele aansprakelijkheid (bij totstandkoming contract, bv bedrog)
+wel: als tekortkoming ook een misdrijf is
+16
+Quasi-immuniteit uitvoeringsagent
+Contractspartij is contractueel aansprakelijk voor doen of nalaten van haar uitvoeringsagent
+Uitvoeringsagent is jegens tegenpartij:
+nooit contractueel aansprakelijk
+in beginsel nooit buitencontractueel aansprakelijk (“immuniteit uitvoeringsagent”)
+tenzij: precontractuele aansprakelijkheid en misdrijf (daarom: “quasi-immuniteit”)
+Tussen contractspartij en uitvoeringsagent: contractuele aansprakelijkheid 
+
+17
+ contractuele verbintenissen van rechtspersonen worden altijd uitgevoerd door uitvoeringsagenten 
+Gevolgen t.a.v. derden
+
+Art. 1165 oud BW: “relativiteit van overeenkomst”
+Actief: 
+Derden hebben zijn niet gehouden tot de verplichtingen onder een overeenkomst 
+Alternatief: “sterkmaking” (lees art. 1120 oud BW)
+Passief:
+Derden hebben geen contractuele rechten
+Uitzondering: “beding ten behoeve van een derde” (lees art. 1121 oud BW)
+
+Overeenkomst heeft wel gevolgen voor derden
+Derden kunnen aansprakelijk zijn op grond van art. 1382 oud BW voor “derde-medeplichtigheid aan andermans contractbreuk” als ze bewust meewerken aan een contractbreuk
+Derden moeten in principe volgen van een overeenkomst (bv. dat goed uit vermogen van hun schuldenaar verdwijnt) laten tegenwerpen
+Soms : voorwaarden voor tegenwerpelijkheid aan derden (lees: art. 1 Hyp. W. voor overdracht onroerende goederen)
+Soms: derden kunnen handeling niet tegenwerpelijk laten verklaren bij bedrieglijke miskenning van hun rechten (lees: art. 1167 oud BW “pauliaanse vordering” – zie later)
+18
+De overeenkomst - beëindiging
+Opzegging 
+! Contract van onbepaalde duur: altijd opzegbaar
+Onbepaald duur: geen zekere toekomstige waardoor overeenkomst ontbonden wordt
+Nietigheid
+Ontbinding
+Ook terugwerkende kracht in beginsel
+Maar vaak uitzonderingen (bv. bij overeenkomsten met periodieke prestaties)
+[Verval]
+19
+Modaliteiten verbintenissen
+Voorwaardelijke verbintenissen: toekomstige en onzekere gebeurtenis (art. 1168 oud BW)
+Opschortende voorwaarde (art. 1181 oud BW)
+Ontbindende voorwaarde (art. 1183 oud BW)
+Potestatieve (zuiver of gemengde) voorwaarde  (art. 1169-1174 oud BW)
+Verbintenissen met tijdsbepaling : toekomstige en zekere gebeurtenis (art. 1185 oud BW)
+Verbintenissen met meerdere schuldenaars
+Regel: deelbaarheid
+Uitzondering
+Hoofdelijkheid / in solidum aansprakelijkheid
+[Ondeelbaarheid]
+[Verbintenissen met meerdere schuldeisers]
+
+
+
+20
+Soorten verbintenissen
+
+
+Inspanningsverbintenissen
+
+Resultaatsverbintenissen
+
+Garantieverbintenissen (=ook bij overmacht aansprakelijk)
+
+
+
+21
+Uitdoving van verbintenissen
+Betaling / nakoming
+Schuldvergelijking / compensatie (art. 1289 -1290 oud BW)
+Bevrijdende verjaring 
+Art. 2219 e.v. oud BW
+Vooral art. 2262bis oud BW (zie hierna)
+≠ Verkrijgende verjaring
+[Schuldvernieuwing / novatie]
+[Schuldvermenging]
+
+22
+Schuldvergelijking
+Wederzijdse schuldvorderingen
+Tussen dezelfde personen
+Beide schulden doven uit ten belope van het laagste bedrag
+Indien:
+geldsom of zekere hoeveelheid vervangbare zaken zelfde soort
+opeisbare schuldvorderingen 
+effen schuldvordering
+
+Functies: 	
+- betalingsgemak
+- zekerheidsfunctie (bij insolvabiliteit van tegenpartij)
+23
+Verjaring 
+Algemene termijnen (art. 2262 – 2262bis oud BW)
+[Zakelijke rechtsvorderingen: 30 jaar]
+Persoonlijke rechtsvorderingen: 10 jaar 
+Uitzondering buitencontractuele aansprakelijkheid:
+5 jaar vanaf kennis schade
+Met maximum 20 jaar vanaf schadeverwekkend feit
+
+Bijzondere (korte) termijnen
+Voorbeelden:
+5 jaar: huurgelden, intresten op leningen (art. 2277 oud BW)
+1 jaar: vorderingen van handelaren tegen niet-handelaren levering koopwaar (art. 2272 oud BW)
+
+
+
+
+
+
+
+24
+ 
+
+
+
+Regels voor alle verbintenissen
+koop
+arbeidsovereenkomst
+franchise
+huur
+°°°
+°°°
+°°°
+°°°
+°°°
+°°°
+Regels voor rechtshandelingen
+Regels voor verbintenissen uit overeenkomst (“gemeen overeenkomstenrecht”)
+Regels voor zgn. “bijzondere overeenkomsten”
+rechtshandelingen die geen verbintenissen veroorzaken
+25
+ 
+
+
+
+koop
+arbeidsovereenkomst
+franchise
+huur
+°°°
+°°°
+°°°
+°°°
+°°°
+°°°
+Regels voor verbintenissen uit overeenkomst (“gemeen overeenkomstenrecht”)
+26
+Omdat haar fietsketting de dag voor een belangrijke selectiewedstrijd brak tijdens een trainingssessie, bestelt Larissa een fietsketting bij Velocity NV, een speciaalzaak in fietsonderdelen. De website garandeert dat de ketting nog dezelfde dag geleverd wordt. Om een snelle levertijd te kunnen verzekeren, doet de fietswinkel al enige tijd een beroep op een bekende koerierdienst uit de streek: Rapido BV. Jasper, een werknemer van de BV, is de chauffeur van dienst. Onderweg besluit Jasper nog even halt te houden bij zijn stamcafé. Verwikkeld in cafédiscussies, vergeet Jasper de ketting te leveren. Daardoor kan Larissa niet deelnemen aan de wedstrijd. Wie kan door Larissa met succes buitencontractueel aansprakelijk worden gesteld?
+Zowel Jasper als Rapido BV, ongeacht of het gedrag van Jasper als een lichte of een zware fout wordt beschouwd. 
+Rapido BV, maar niet Jasper, ongeacht of het gedrag van Jasper als een lichte of een zware fout wordt beschouwd. 
+Jasper, maar niet Rapido BV, op voorwaarde dat het gedrag van Jasper als een zware fout wordt beschouwd. 
+Noch Jasper, noch Rapido BV, zelfs indien het gedrag van Jasper als een zware fout wordt beschouwd 
+
+27
+Zowel Velocity NV als Rapido BV hebben als gevolg van de laattijdige levering grote schade geleden in de vorm van imagoverlies. Door wie kan Jasper met succes worden aangesproken? 
+
+Zowel buitencontractueel door Velocity NV als contractueel door Rapido BV, ongeacht of het gedrag van Jasper als een lichte of een zware fout wordt beschouwd. 
+Indien het gedrag van Jasper als een zware fout wordt beschouwd, kan hij niet buitencontractueel aansprakelijk worden gesteld door Velocity NV, maar wel contractueel door Rapido BV. 
+Indien het gedrag van Jasper als een zware fout wordt beschouwd, kan hij buitencontractueel aansprakelijk worden gesteld door Velocity NV, maar niet contractueel door Rapido BV. 
+Ongeacht of het gedrag van Jasper als een lichte of een zware fout wordt beschouwd, kan hij niet buitencontractueel aansprakelijk worden gesteld door Velocity NV, maar wel contractueel door Rapido BV. 

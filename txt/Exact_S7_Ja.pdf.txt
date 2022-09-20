@@ -1,0 +1,472 @@
+8/22/2019
+Lay 5.1 -5.5
+Lineaire transformatie
+T(v)=Av=2v
+2 2 2
+v
+2
+x
+T(x)=Ax
+v
+1
+T(v)=Av=3.5v
+1 1 1
+18/22/2019
+Definitie
+• Eeneigenvector van nxnmatrix Ais eenvector x0zodat Ax= x
+vooreenscalair
+xis eeneigenvector horendebijeigenwaarde
+• Maw, eeneigenvector wordtop 
+eenveelvoudvan zichzelf
+afgebeelddoor T: xAx
+• Lineariteit: idem x= v
+1
+A(v )= (v )
+1 1 1
+=> is v eeneigenvector, 
+1
+danis v datook
+1
+• Lineariteit: zijnv … v l.o. 
+1 k
+eigenvectorenmet e.w., 
+danzijnallel.c. ookeigenvectoren
+met e.w. => eigenruimte
+Eigenvectoren vinden
+• Gegevende eigenwaarde
+• Ax = x  Ax = Ix  (A- I)x = 0
+• Oplossingenvan homogeenstelselvormen een
+deelruimtevan  n
+
+• Aangezien eeneigenwaardeis bestaater eenx0die 
+eenoplossingis van dit homogeenstelsel.
+• Oplossingenruimte= eigenruimtehorendebij (alle
+oplossingen, incl. 0)
+In de eigenruimtevan  wordtelke vector op een
+veelvoudvan zichzelfafgebeelddoor T: x  Ax
+• Eigenruimtekan1 … ndimensionaalzijn
+28/22/2019
+Voorbeeld 1: twee ééndimensionale
+eigenruimten
+3 −1
+• 𝐀=
+−0.5 2.5
+•  = 2  
+1
+Homogeen stelsel: (A-2I)x=0
+1 −1 1 −1
+
+−0.5 0.5 0 0
+1
+𝐯 =
+(cid:2869) 1
+•  = 3.5 
+2
+Homogeen stelsel: (A-3.5I)x=0
+−0.5 −1 −0.5 −1
+
+−0.5 −1 0 0
+2
+𝐯 =
+(cid:2870) −1
+Voorbeeld 2: één tweedimensionale
+eigenruimte
+2 0
+• 𝐀 =
+0 2
+•  = 2  
+1
+Homogeen stelsel: (A-2I)x=0
+0 0
+0 0
+1 0
+𝐯 = ; 𝐯 =
+(cid:2869) 0 (cid:2870) 1
+• Eigenruimte is heel  2
+
+38/22/2019
+Voorbeeld 3: één ééndimensionale
+eigenruimten
+3 −1
+• 𝐀=
+1 1
+•  = 2  
+1
+Homogeen stelsel: (A-2I)x=0
+1 −1 1 −1
+
+1 −1 0 0
+1
+𝐯 =
+(cid:2869) 1
+Complexe eigenwaarden
+  3 1
+• 𝐀=
+−1   3
+•  =   3+i  
+1
+Homogeen stelsel: (A-(  3+i)I)x=0
+−𝑖 1 −𝑖 1
+
+−1 −𝑖 0 0
+−𝑖
+𝐯 =
+(cid:2869) 1
+•  =   3−i  
+2
+Homogeen stelsel: (A-(  3−i)I)x=0
+𝑖 1 𝑖 1
+
+−1 𝑖 0 0
+𝑖
+𝐯 =
+(cid:2870) 1
+48/22/2019
+Verschillende eigenwaarden
+• v … v zijn eigenvectoren overeenkomstig
+1 r
+verschillende eigenwaarden  ... 
+1 r
+Dan zijn v … v l.o.
+1 r
+• Bewijs: veronderstel dat ze l.a. waren, dan
+bestaat er een v die l.a. van de voorgaande l.o.:
+p+1
+c v + … + c v = v
+1 1 p p p+1
+c Av + … + c Av = Av
+1 1 p p p+1
+c  v + … + c  v =  v
+1 1  1 p p p p+1  p+1
+c ( -  ) v + … + c ( -  ) v = 0
+1 1 p+1 1 p p p+1 p
+v … v l.o., dus alle gewichten nul, sommige e-
+1 p
+waarden gelijk 
+e.w. vinden: karakteristieke vergelijking
+• We zoekenx zodat(A-I)x=0eenoplossingx0heeft
+A-Iniet-inverteerbaaris, singulieris, 
+geenvollerang heeft, …
+det(A-I)=0
+Ditis de karakteristiekevergelijking.
+• det(A-I)is eenpolynoomin van de n-de graad
+det 𝐀−𝜆𝐈 = (−1)(cid:3041)𝜆(cid:3041)+𝑎 𝜆(cid:3041)(cid:2879)(cid:2869)+⋯+𝑎 𝜆+𝑎
+(cid:3041)(cid:2879)(cid:2869) (cid:2869) (cid:2868)
+Ditis de karakteristiekepolynoom.
+• ErzijndusSTEEDSpreciesnoplossingen(eigenwaarden)
+– Mogelijkcomplex
+– Mogelijksamenvallend
+det 𝐀−𝜆𝐈 = (𝑝 −𝜆)(cid:3040)(cid:3117)…(𝑝 −𝜆)(cid:3040)(cid:3286)
+(cid:2869) (cid:3038)
+met 𝑚 +⋯+𝑚 = 𝑛
+(cid:2869) (cid:3038)
+m is algebraïschemultipliciteitvan p
+i i
+58/22/2019
+Voorbeeld 1
+3 −1
+• 𝐀 =
+−0.5 2.5
+3 − 𝜆 −1
+• det 𝐀 − 𝜆𝐈 = = 7.5 −
+−0.5 2.5 − 𝜆
+5.5𝜆 + 𝜆(cid:2870) − 0.5 = 𝜆(cid:2870) − 5.5𝜆 + 7
+• d=121/4-28=(121-112)/4=9/4
+• p =(11/2-3/2)/2=2; m =1
+1 1
+• p =(11/2+3/2)/2=7/2=3.5; m =1
+2 2
+Voorbeeld 2
+ 
+3 1
+• 𝐀 =
+ 
+−1 3
+ 
+3 − 𝜆 1
+• det 𝐀 − 𝜆𝐈 =
+ 
+−1 3 − 𝜆
+= 𝜆(cid:2870) − 2  3𝜆 + 4
+   
+= ( 3 + 𝑖 − 𝜆)( 3 − 𝑖 − 𝜆)
+68/22/2019
+Voorbeeld 3
+2 2312 −21
+• 𝐀 = 0 −5 −9
+0 0 2
+2 −𝜆 2312 −21
+• det 𝐀−𝜆𝐈 = 0 −5 −𝜆 −9
+0 0 2− 𝜆
+= − 2−𝜆 (cid:2870)(5+λ)
+• p =2, m =2 ; p =-5, m =1
+1 1 2 2
+• De eigenwaardenvan eendriehoeksmatrixstaanop de 
+hoofddiagonaal
+Opmerking eigenwaarde nul
+A heeft een eigenwaarde 0
+det 𝐀 − 𝜆𝐈 = 0 met =0
+det(A) = 0
+A is singulier, niet inverteerbaar
+Inverteerbare matrices hebben nul niet als
+eigenwaarde.
+78/22/2019
+Gelijkvormigheid en 
+diagonaliseerbaarheid
+Gelijkvormigheid: inleiding
+• A kan je zien als een lineaire transformatie
+T: x  y=Ax met x, y  n
+
+• Druk x nu uit in basis B = {𝐛  …𝐛 }, dan is
+(cid:2869) (cid:3041)
+x = [𝐛  …𝐛 ] [x] = P [x]
+(cid:2869) (cid:3041) B B
+[x] = [𝐛  …𝐛 ]-1 x = P-1 x
+B (cid:2869) (cid:3041)
+met P = [𝐛  …𝐛 ] inverteerbaar
+(cid:2869) (cid:3041)
+• Wat wordt de standaardmatrix van T in de basis B ?
+[y] = [Ax] = P-1 Ax = P-1 A P [x] = [A] [x]
+B B B B B
+• In B uitgedrukt wordt de standaardmatrixP-1 A P
+met P = [𝐛  …𝐛 ]
+(cid:2869) (cid:3041)
+88/22/2019
+Voorbeeld
+3 −1
+• 𝐀=
+1 1
+1 1
+• 𝐏= 𝐛 𝐛 =
+𝟏 𝟐 1 0 T(b)
+1
+• Merk op: b is eigenvector
+1
+b T(b)
+0 1 1 2
+• 𝐏(cid:2879)(cid:2869) =
+1 −1
+b
+2
+2 1
+• [A] = P-1A P =
+B  0 2
+• Voorbeeld1: het beeldvan b met 
+1
+coordinaat[1 0]Tin Bis [2 0]Tin B
+(eigenwaardeis 2)
+• Voorbeeld2: het beeldvan b met 
+2
+coordinaat[0 1]Tin Bis [1 2]Tin B
+Gelijkvormigheid
+nxn-matricesAen Czijngelijkvormig (similar)
+ inverteerbarenxn-matrix P zodat: 
+C = P-1A P of A = PC P-1
+• Zijdrukken dezelfdelineairetransformatieuit, maar in 
+eenanderebasis
+• Gelijkvormige matrices hebbendezelfdekarakteristieke
+polynoomen dusdezelfdeeigenwaarden:
+det(C-I) = det(P-1A P -  P-1P) 
+= det(P-1(A-I)P) = det(P-1) det(A-I) det(P) 
+= det(A-I)
+98/22/2019
+Diagonaliseerbaarheid
+• Gegeven A(nxn) met n l.o. eigenvectoren 𝐯  …𝐯 met bijhorende 
+(cid:2869) (cid:3041)
+eigenwaarden  ... 
+1 n
+• Kies bijzondere basis B= {𝐯  …𝐯 } 
+(cid:2869) (cid:3041)
+• P= [𝐯  …𝐯 ]inverteerbaar 
+(cid:2869) (cid:3041)
+• In Bwordtde standaardmatrixvan A:
+[A] = P-1A P= P-1[𝐀𝐯  …𝐀𝐯 ]
+B (cid:2869) (cid:3041)  ⋯ 0
+1
+=P-1[ 𝐯  … 𝐯 ]= P-1[𝐯  …𝐯 ] ⋮ ⋱ ⋮
+1 (cid:2869) n (cid:3041) (cid:2869) (cid:3041)
+ ⋯ 0 0 ⋯ 
+1 n
+= ⋮ ⋱ ⋮ = D
+0 ⋯ 
+• Een dergelijke nmatrix heet diagonaliseerbaarwant gelijkvormig met een 
+diagonale matrix:
+D = P-1A P; A= P D P-1
+• maw basis, nl. de n l.o. eigenvectoren, waarinde lineairetransformatie
+diagonaalwordt: elkebasisvectorwordtafgebeeldop eenveelvoudvan 
+zichzelf
+Voorbeeld
+3 −1
+• 𝐀=
+−0.5 2.5
+•  = 2  
+1 1
+𝐯 =
+(cid:2869) 1
+v
+•  = 3.5  1
+2 2
+𝐯 =
+(cid:2870) −1
+• 𝐏= 𝐯𝟏 𝐯𝟐 = 1 2 v2
+1 −1
+• 𝐏(cid:2879)(cid:2869) =(cid:2869) 1 2
+(cid:2871) 1 −1
+2 7
+• AP= 
+2 −3.5
+(cid:2869) 6 0 2 0
+• [A] = P-1A P = =
+B  (cid:2871) 0 10.5 0 3.5
+108/22/2019
+l.o. eigenvectoren ?
+• Eigenwaarden zijn nulpunten van een veelterm
+     det 𝐀−𝜆𝐈 = (𝜆 −𝜆)(cid:3040)(cid:3117)…(𝜆 −𝜆)(cid:3040)(cid:3286)
+(cid:2869) (cid:3038)
+met 𝑚 +⋯+𝑚 = 𝑛
+(cid:2869) (cid:3038)
+m is algebraïschemultipliciteitvan 𝜆
+i i
+• Voor elk van de kverschillende eigenwaarden kan je het homogene 
+stelsel (A-𝜆I)x= 0oplosseneigenruimte(oplossingenruimte) 
+i
+van dimensied m
+i i
+• d wordtookde geometrischemultipliciteitvan 𝜆 genoemd
+i i
+• Ais diagonaliseerbaard = m voori= 1 … k
+i i
+𝑑 +⋯+𝑑 = 𝑛
+(cid:2869) (cid:3038)
+ AlsB eenbasis is voorde eigenruimtevan 𝜆 danzijnB … B nl.o. 
+i i 1 k
+vectorenin  nenduseen(eigen)basis voor n
+ 
+ Pmaakje door de elementenvan B op tenemenalskolommen
+i
+ Dis de diagonalematrix met eigenwaardend = m maalherhaald
+i i
+Voorbeeld
+3 −1
+• 𝐀=
+1 1
+3−𝜆 −1
+• det 𝐀−𝜆𝐈 =
+1 1−𝜆
+=3−4𝜆+𝜆(cid:2870)+1= 2−𝜆 (cid:2870)
+• 𝜆 = 2, m =2
+1 1
+• Eigenvectoren: los op
+1 −1
+𝐱 = 𝟎
+1 −1
+1
+eigenruimte= Span{ }
+1
+• d = 1 terwijlm =2
+1 1
+• NIET DIAGONALISEERBAAR
+118/22/2019
+Complexe eigenwaarden
+• det 𝐀 − 𝜆𝐈 = (𝜆 − 𝜆)(cid:3040)(cid:3117) … (𝜆 − 𝜆)(cid:3040)(cid:3286)
+(cid:2869) (cid:3038)
+• als A reëel is, komen 𝜆 voor in complex 
+i
+toegevoegde paren.
+• Ax= 𝜆 x  Ax = 𝜆 x  A(cid:3365)x(cid:3364) = 𝜆(cid:3365) x(cid:3364) Ax(cid:3364) = 𝜆(cid:3365) x(cid:3364)
+• is x een e.v. van A met e.w. 𝜆, dan is x(cid:3364) een e.v. 
+(cid:3365)
+van A met e.w. 𝜆 
+Interpretatie complexe e.w.
+• Reële e.w. (en e.v.): in de eigenbasis { x } is het effect van x Axeen schaling van 
+i
+x met 𝜆
+i i
+• Analyse in  2: 
+
+– e.w.a+ibena-ibmet a,b
+
+– e.v. p+iqenp-iqmet p, q  2
+
+– dusA(p+iq)=Ap+iAq=(a+ib)(p+iq)=(ap-bq)+i(bp+aq)
+of Ap= ap-bqenAq=bp+aq
+• Neem basis B={p, q}, danwordtde standaardmatrixvan Ain Buitgedrukt: 
+[A] = P-1A Pmet P= [p q]
+B
+𝑎 𝑏
+• BerekenAP=A[p q]=[ApAq]=[ap-bqbp+aq]=𝐩  𝐪 =PC
+−𝑏 𝑎 r sin𝜑
+𝑎 𝑏 r cos𝜑
+of AP=PCof C= [A]B= P-1A Pmet 𝐂= −𝑏 𝑎 0
+1 sin𝜑
+• Schrijf𝑎=𝑟cos 𝜑 en b=𝑟sin 𝜑 danis  cos𝜑
+𝐂=r 𝑎⁄𝑟 𝑏(cid:3415)𝑟 = 𝑟 0 cos 𝜑 sin 𝜑 1
+−𝑏(cid:3415)𝑟 𝑎⁄𝑟 0 𝑟 −sin𝜑 cos 𝜑  0
+• In de basis {p, q} wordtAeenrotatieover (=argv.d. e.w.) van  cos𝜑
+−sin𝜑
+qnaarp, gevolgddoor eenschalingmet r (=modulus vde.w.) r cos𝜑
+−r sin𝜑
+128/22/2019
+Voorbeeld
+ 
+3 1
+• 𝐀 =
+ 
+−1 3
+−𝑖
+ 
+•  =  3+i ; 𝐯 = p
+1 (cid:2869) 1
+𝑖 q
+ 
+•  =  3 −i ; 𝐯 =
+2 (cid:2870) 1
+0 −1
+ 
+• a= 3, b=1; p= ; q =
+1 0
+• r=2; =/6
+Enkele nuttige resultaten
+• Stel 𝜆=0 in det 𝐀−𝜆𝐈 = (𝜆 −𝜆)(cid:3040)(cid:3117) …(𝜆 −𝜆)(cid:3040)(cid:3286)
+(cid:2869) (cid:3038)
+(cid:3040) (cid:3040)
+det 𝐀 = 𝜆 (cid:3117) … 𝜆 (cid:3286)
+(cid:2869) (cid:3038)
+De determinant van eenmatrix is het product van zijn
+eigenwaarden.
+• Som van de eigenwaarden= som van de 
+diagonaalelementen= spoor(A) = trace(A)
+– Bewijs: n-1-de graadstermuitwerken
+3 −1
+• Voorbeeld𝐀 = met  = 2 en  = 3.5 
+−0.5 2.5 1 2
+• det(A) = 7.5-0.5=7= 
+1 2
+• Spoor(A)=3+2.5=5.5= + 
+1 2
+138/22/2019
+Misvattingen
+• L.o. van eigenvectoren en kolommen van Azijn verschillende 
+eigenschappen
+1 −1 1 1
+o   heeft l.a. kolommen, maar l.o. e-vectoren  en 
+−1 1 −1 1
+1 1 1
+o heeft l.o. kolommen, maar geen 2 l.o. e-vectoren, enkel
+0 1 0
+• Elementaire rij/kolomoperaties veranderen eigenwaarden en 
+eigenvectoren
+• Diagonaliseerbaarheid en inverteerbaarbeid zijn verschillende concepten
+1 1
+o is niet diagonaliseerbaar, wel inverteerbaar
+0 1
+1 1
+o is wel diagonaliseerbaar, niet inverteerbaar
+1 1
+0 1
+o is niet diagonaliseerbaar, niet inverteerbaar
+0 0
+1 1
+o is wel diagonaliseerbaar, wel inverteerbaar
+−1 1
+14

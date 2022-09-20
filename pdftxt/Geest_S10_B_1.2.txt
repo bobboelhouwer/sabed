@@ -1,0 +1,836 @@
+Overzicht
+Inleiding
+Lineariteit vs. hiërarchie
+Hoofdigheid
+Compositionaliteit
+Structurele ambiguïteit
+Valentie & subcategorisatie
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Compositionaliteit
+(22)
+
+a.
+b.
+
+melkchocolade
+chocolademelk
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Compositionaliteit
+(22)
+
+a.
+b.
+
+melkchocolade
+chocolademelk
+
+(23)
+
+Het principe van
+(toegepast op de
+morfologie)
+De betekenis van een morfologisch complex woord komt tot stand
+op basis van:
+(a) de betekenissen van de morfemen van dat woord, en
+(b) de manier waarop die morfemen zijn samengevoegd.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Compositionaliteit
+(22)
+
+a.
+b.
+
+melkchocolade
+chocolademelk
+
+(23)
+
+Het principe van
+(toegepast op de
+morfologie)
+De betekenis van een morfologisch complex woord komt tot stand
+op basis van:
+(a) de betekenissen van de morfemen van dat woord, en
+(b) de manier waarop die morfemen zijn samengevoegd.
+
+(24)
+
+a.
+b.
+
+de man met de ballon
+de ballon met de man
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Compositionaliteit
+(22)
+
+a.
+b.
+
+melkchocolade
+chocolademelk
+
+(23)
+
+Het principe van
+(toegepast op de
+morfologie)
+De betekenis van een morfologisch complex woord komt tot stand
+op basis van:
+(a) de betekenissen van de morfemen van dat woord, en
+(b) de manier waarop die morfemen zijn samengevoegd.
+
+(24)
+
+a.
+b.
+
+(25)
+
+Het principe van
+(toegepast op de syntaxis)
+De betekenis van een woordgroep of zin komt tot stand op basis
+van:
+(a) de betekenissen van de woorden in die woordgroep of zin, en
+(b) de manier waarop die woorden zijn samengevoegd.
+
+de man met de ballon
+de ballon met de man
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Compositionaliteit
+(26)
+
+Het principe van
+(algemeen)
+De betekenis van een complexe uitdrukking komt tot stand op
+basis van:
+(a) de betekenissen van de samenstellende delen van die
+uitdrukking, en
+(b) de manier waarop die delen zijn samengevoegd.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Compositionaliteit
+(26)
+
+Het principe van
+(algemeen)
+De betekenis van een complexe uitdrukking komt tot stand op
+basis van:
+(a) de betekenissen van de samenstellende delen van die
+uitdrukking, en
+(b) de manier waarop die delen zijn samengevoegd.
+
+(27)
+
+syllabe
+aanzet
+k
+
+r
+
+rijm
+nucleus
+A
+
+coda
+n
+
+t
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Compositionaliteit: uitzonderingen
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Compositionaliteit: uitzonderingen
+(28)
+
+De aap komt uit de mouw.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Compositionaliteit: uitzonderingen
+(28)
+
+De aap komt uit de mouw.
+
+(29)
+
+droogstoppel
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Compositionaliteit: uitzonderingen
+(28)
+
+De aap komt uit de mouw.
+
+(29)
+
+droogstoppel
+
+(30)
+
+stadhuis
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Compositionaliteit
+SYNTAXIS −→
+
+←−
+
+MORFOLOGIE
+
+1.
+&
+2.
+2.1 endocentriciteit
+
+2.1 RHHR
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Compositionaliteit
+SYNTAXIS −→
+
+←−
+
+MORFOLOGIE
+
+1.
+&
+2.
+2.1 endocentriciteit
+
+2.1 RHHR
+3.
+(gemotiveerde betekenis)
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Compositionaliteit
+SYNTAXIS −→
+
+←−
+
+MORFOLOGIE
+
+1.
+&
+2.
+2.1 endocentriciteit
+
+2.1 RHHR
+3.
+(gemotiveerde betekenis)
+
+3.1 idiomatische
+uitdrukkingen
+
+3.1 arbitraire betekenis
+3.2 betekenisspecialisatie
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ 

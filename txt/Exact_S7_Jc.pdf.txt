@@ -1,0 +1,96 @@
+30/10/2019
+Aanvullingen
+Signalen
+• Temperatuur, hoogte van een tennisbal, 
+elektrische stroomsterkte, versnelling, ...
+– Continue tijdsignalen: T(t), h(t), i(t), a(t), ...
+• Sommige signalen zijn intrinsiek slechts 
+gedefinieerd op discrete tijdstippen:
+– Middagtemeratuur, aantal uren zonneschijn in een 
+dag, slotkoers van de beurs
+• Wij gaan werken met discrete signalen omdat 
+we ze willen verwerken d.m.v. een computer
+130/10/2019
+Bemonsteren
+Continu signaal Discrete-tijd signaal
+• Enkelzijdig discrete-tijd signaal
+(cid:1) → R: k → x[k]
+• x[k] ∈ S
+Verschuiving in de tijd
+c[k]
+a[k]
+b[k]
+• a[k] = k3-9k2+ 23k-15 = (k-1)(k-3)(k-5) k≥0
+• b[k] = k3-12k2+ 44k-48 = (k-2)(k-4)(k-6) = a[k-1] k≥1
+b[k] is a[k], maar 1 stap naar rechts verschoven
+b[k] is a[k], maar 1 stap vertraagd
+• c[k] = k3-3k2-k+ 3 = (k+ 1)(k-1)(k-3) = a[k+2] k≥-2
+c[k] is a[k], maar 2 stappen naar links verschoven
+a[k] is c[k], maar 2 stappen vertraagd
+230/10/2019
+Systemen
+• Systeem = wiskundige beschrijving van een fysisch proces 
+dat ingangssignalen u[k] ∈Smomzet in uitgangssignalen 
+y[k] ∈Sl.
+• y[k] = T(u[k])
+u[k]
+y[k] = T[k] –t
+0
+• SISO: m=l=1
+• Lineair systeem:  k
+T(au[k] + b v[k]) = a T(u[k]) + b T(v[k]) 
+• Tijdsinvariant systeem y[k-j] = T(u[k-j]) ∀j∈(cid:2)
+• DTLTI = discrete tijd lineair tijdsinvariant
+Bouwblokken
+• Schaalelement: y[k] = a u[k]  ; a ∈ R u[k] y[k]
+a
+• Sommator: y[k] = u [k] + u [k] 
+u [k] y[k]
+1 2 1 +
+u [k] y[k]=u [k]-u [k]
+1 + 1 2 u [k]
+2
+-
+u [k]
+2
+• Geheugenelement y[k] = u[k-1] of y[k+1] = u[k]
+u[k] y[k] y[k] is u[k] maar 1 stap vertraagd
+D
+330/10/2019
+Voorbeeld
+x [k]
+2 x[k+1]
+2
+x [k]
+1 x[k+1]
+1
+x [k]
+3
+x[k+1]
+3
+Voorbeeld (2)
+(cid:4) [(cid:2)]
+(cid:5)
+(cid:1) (cid:2) = (cid:4) [(cid:2)]
+(cid:8)
+(cid:4) [(cid:2)]
+(cid:9)
+• x[k+1] = Ax[k] + B u[k]
+y[k] = C x[k] + Du[k]
+430/10/2019
+Definities
+• x[k+1] = Ax[k] + Bu[k]
+y[k] = Cx[k] + Du[k]
+= eentoestandsbeschrijving
+(cid:4) [(cid:2)] (cid:12) [(cid:2)] (cid:14) [(cid:2)]
+(cid:5) (cid:5) (cid:5)
+• x[k]= ⋮ ∈∈∈∈Rn, u[k]= ⋮ ∈∈∈∈Rm, y[k]= ⋮ ∈∈∈∈Rl
+(cid:4) [(cid:2)] (cid:12) [(cid:2)] (cid:14) [(cid:2)]
+(cid:11) (cid:13) (cid:15)
+• Aantaltoestandsveranderlijken= aantal
+geheugenelementen= n= ordevan het systeem
+Ais eennxnreëlematrix
+• Single-input-single-output (SISO):
+x[k+1] = Ax[k] + bu[k]
+y[k] = cx[k] + du[k]
+5

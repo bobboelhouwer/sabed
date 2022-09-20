@@ -1,0 +1,1225 @@
+Nederlandse Taalkunde I
+Hoofdstuk 1
+Handboek pp.21–38
+
+Jeroen van Craenenbroeck
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Overzicht
+Inleiding
+Lineariteit vs. hiërarchie
+Hoofdigheid
+Compositionaliteit
+Structurele ambiguïteit
+Valentie & subcategorisatie
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Inleiding
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Inleiding
+
+SYNTAXIS
+
+MORFOLOGIE
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Inleiding
+
+SYNTAXIS
+
+MORFOLOGIE
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Inleiding
+
+SYNTAXIS
+
+MORFOLOGIE
+
+(FONOLOGIE)
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Overzicht
+Inleiding
+Lineariteit vs. hiërarchie
+Hoofdigheid
+Compositionaliteit
+Structurele ambiguïteit
+Valentie & subcategorisatie
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Lineariteit vs. hiërarchie
+(1)
+
+De man ziet een kat
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Lineariteit vs. hiërarchie
+(1)
+
+De man ziet een kat
+
+De
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Lineariteit vs. hiërarchie
+(2)
+
+De man ziet een kat
+
+De
+
+man
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Lineariteit vs. hiërarchie
+(3)
+
+De man ziet een kat
+
+De
+
+man
+
+ziet
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Lineariteit vs. hiërarchie
+(4)
+
+De man ziet een kat
+
+De
+
+een
+man
+
+ziet
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Lineariteit vs. hiërarchie
+(5)
+
+De man ziet een kat
+
+De
+
+kat
+man
+
+ziet
+
+een
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Lineariteit vs. hiërarchie
+
+De man ziet een kat
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Lineariteit vs. hiërarchie
+
+(6)
+
+De mannen zien een kat en de vrouwen doen dat ook.
+
+(7)
+
+*De mannen zien een kat en dat doen ook een hond.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Recursiviteit
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Recursiviteit
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Recursiviteit
+(8)
+
+Een recursief proces is een proces waarvan de output opnieuw als
+input kan worden gebruikt.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Recursiviteit
+(8)
+
+Een recursief proces is een proces waarvan de output opnieuw als
+input kan worden gebruikt.
+
+(9)
+De
+
+man
+
+ziet
+een
+
+kat
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Lineariteit vs. hiërarchie
+(10)
+
+badhanddoek
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Lineariteit vs. hiërarchie
+(10)
+
+badhanddoek
+
+(11)
+
+krant
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Lineariteit vs. hiërarchie
+SYNTAXIS
+
+MORFOLOGIE
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Lineariteit vs. hiërarchie
+SYNTAXIS −→
+
+←− MORFOLOGIE
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Lineariteit vs. hiërarchie
+SYNTAXIS −→
+
+←− MORFOLOGIE
+1.
+&
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ 

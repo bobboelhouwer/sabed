@@ -1,0 +1,305 @@
+4. Alkenen
+• Onverzadigde koolwaterstoffen: 
+bevatten één (C H ) of meer C=C
+n 2n
+kunnen dus nog extra waterstof opnemen
+• Alkynen: drievoudige binding
+• Belangrijke rol in planten- en dierenrijk:
+• Industriële toepassingen: grondstof van vele polymeren 
+Alkenen 14.1 Bouw van alkenen – Geometrische isomerie
+• sp2-gehybridiseerd (3 -bindingen), p-orbitaal (-binding)
+• vlakke dubbele binding (1,34 Å)
+sterkte -binding 275 kJ/mol
+geen vrije rotatie !
+• geometrische isomerie
+cis-trans-isomerie
+Alkenen 2E
+cis
+ ruimtelijke vorm
+Gevolgen voor fysische en
+biologische eigenschappen
+hoek
+Rotatie rond -binding
+niet zomaar mogelijk,
+vereist veel energie 
+trans
+Tegenover-
+Zelfde kant
+gestelde kant
+Alkenen 34.2 De chemie van het zien
+• cis-trans-omzetting via bestraling met licht of toevoeren warmte
+• netvlies bevat lichtgevoelige verbinding 11-cis-retinal
+Gebonden aan eiwit opsine
+Wat gebeurt bij lichtabsorptie ?
+Alkenen 4Verplaatsing over 7Å
+Retinal komt los !
+Vorm opsine wijzigt
+Signaal naar hersenen
+Foton
+Shiff base
+Alkenen 5Retinal gevormd door oxidatie van vitamine A
+Vitamine A via carotenen (provitamine) uit voeding (groenten en fruit)
+Bij gebrek aan vitamine A: (nacht)blindheid
+Alkenen 64.3 Nomenclatuur
+• de uitgang –aan vervangen door –een (alkenen) of –yn (alkynen)
+• positie onverzadigde binding aangeven met een zo laag mogelijk
+nummer vóór de naam in de langste keten
+• positie langste keten ten opzichte van dubbele binding aangeven
+via cis-trans-nomenclatuur (of E,Z-nomenclatuur, zie later) 
+Alkenen 7• meerdere dubbele bindingen: di-, tri-, tetra-, … tussen
+stamnaam en uitgang 
+• enkele triviale namen:
+vinylgroep allylgroep
+Alkenen 8• dubbelbindingsequivalenten (DBE): aantal dubbele bindingen of
+ringsluitingen op basis van de brutoformule 
+C H X N O (X=halogeen)
+n m x y z
+2n+2 – m – x + y 
+DBE = 
+2 
+Voorbeelden:
+C H F NO geeft DBE = (16 – 13 – 2 + 1)/2 = 1
+7 13 2 3
+C H geeft DBE = (14 – 6)/2 = 4
+6 6
+Alkenen 94.4 Fysische eigenschappen van alkenen
+• apolair, relatief laag smelt- en kookpunt, lichter dan water
+Geometrische isomeren
+cis lager T dan trans
+m
+cis iets hoger B dan trans
+p
+cis iets hoger  dan trans
+f
+o
+t
+s
+i
+e
+o
+l
+v
+Alkenen 10Reacties van alkenen
+• -binding ongeveer 100 kJ zwakker dan -binding
+• gevolg: -binding gemakkelijker verbroken dan -binding 
+en het is thermodynamisch gunstig een -binding om 
+te zetten in -binding
+• kenmerkende reactie voor alkenen: additiereactie
+• verhoogde reactiviteit allylplaats door mesomerie
+radicaal
+carbokation
+carbanion
+Alkenen 114.5 Additie waterstof - Hydrogenering alkenen
+• alkeen omzetten tot alkaan, = verzadiging dubbele binding
+• belangrijke industriële reactie !
+voorbeeld: ‘harden’ meervoudig onverzadigde plantaardige olieën
+(leidt tot verhoging smeltpunt, smeerbare margarine)
+• meestal katalysator nodig
+voorbeeld: fijn verdeeld edelmetaal (Pt, Ni of Pd) op 
+inerte drager (koolstofpoeder)
+Reden ?
+Alkenen 12Energiediagram
+Additie is exotherme reactie,
+toch hoge activeringsenergie !
+*
+Alkenen 13Heterogene katalyse
+Waterstofatomen 
+adderen aan zelfde kant,
+Syn-additie
+Alkenen 144.6 Additie van zuren aan alkenen
+• Elektrofiele additie (A ): elektronendeficiënt deeltje (E+)
+E
+reageert met elektronenrijke en goed polariseerbare -binding
+• Gevormde carbokation reageert met nucleofiel deeltje (Nu-)
+Voorbeeld: zuur HA (proton = elektrofiel, geconjugeerde base = nucleofiel)
+Alkenen 15Voorbeeld HA: HCl, HBr, HI of H SO en niet symmetrische dubbele binding
+2 4  
+b a a
+a a
+b
+• Regel van Markovnikov (1869)
+✓ proton gebonden aan het minst 
+gesubstitueerde koolstofatoom
+(bevat meeste waterstofatomen)
+✓ anion addeert aan het meest
+gesubstitueerde koolstofatoom Verklaring ?
+Alkenen 16Vorming van het energetisch meest gunstige carbokation
+Volgorde relatieve stabiliteit ~ # alkylsubstituenten (e--gevend, +I, +M) 
+Alkenen
+17Energiediagram
+Transitietoestand
+Intermediair
+Neem route van laagste 
+activeringsenergie of 
+kinetisch gecontroleerde 
+reactie
+Alkenen 18Bij zwavelzuur is reactie afhankelijk van concentratie !
+Geconcentreerd
+HSO - als Nu-
+4
+Verdund: H O als Nu-
+2
+Zuurgekatalyseerde additie van H O
+2
+Alkenen 194.7 Additie van halogenen en vorming epoxiden
+• Broom en chloor vlot, jood traag, fluor te heftig (mengsel) 
+• Testreactie C=C 
+(broom in CCl )
+4
+Cyclohexaan Cyclohexeen
+Alkenen 20Aanval -elektronen
+geeft bromoniumion
+dat openbreekt langs 
+tegenovergestelde kant
+Anti-additie
+Alkenen 21Analoog mechanisme bij vorming epoxide met perzuur
+Zwakke –O-O-binding 
+vergelijkbaar met Br-
+Br binding
+Syn–additie
+Gespannen systeem: 
+oxidatie
+gemakkelijke ringopening !
+Alkenen 224.8 Reacties aan koolstofatoom naast C=C
+• Allylplaats extra reactief door mesomerie  S
+R
+T
+• Auto-oxidatie van alkenen met luchtzuurstof
+Abstractie H-atoom
+Kettingreactie
+Ook ketendoorbraak (ranzigheid) mogelijk of 
+vernetting (lijnolie), zie hoofdstuk 14 lipiden
+Alkenen 234.9 Alkynen
+• Lineair, sp-hybridisatie, twee -bindingen
+• Uitgang –aan vervangen door –yn, nummer
+Alkenen 24• Fysische eigenschappen analoog 
+aan alkanen, alkenen
+• Ethyn veelal acetyleen genoemd 
+(bereiding, gebruik)
+• Zuurheid: pK ethyn 25 (etheen 44, ethaan 50) 
+a
+• Reactiviteit: 
+✓ additie zuren en water
+✓ katalytische hydrogenering
+Gedeeltelijk bij ‘verontreiniging’ 
+Pd-oppervlak met BaSO
+4
+Alkenen 254.10 Diënen
+geïsoleerd, geconjugeerd
+• Meerdere geïsoleerde dubbele bindingen reageren als
+afzonderlijke -bindingen
+• Geconjugeerde systemen: afwisselend enkel en dubbel
+1.33 1.48 1.33
+• Invloed op bindingsafstanden, fysische en chemische
+eigenschappen
+Alkenen 26• Hydrogeneringswarmte: extra stabiliteit diënen
+dubbel
+• Gehinderde rotatie rond enkele binding, energiebarrière
+ongeveer 20 kJ/mol
+Eng. single
+Alkenen 274.11 Terpenen en steroïden
+• Belangrijke geurstoffen (ceder, roos, eucalyptus…)
+• Belangrijk bij regulatie metabolisme bij plant en dier
+• Samentrekking terpentijn en alkeen (vroeger…)
+• Basis is isopreeneenheid (5 C, 2-methyl-1,3-butadieen)
+2 
+4 6
+Alkenen 28Isopreeneenheden op regelmatige wijze aan elkaar koppelen
+1 1 4
+2 3 2 3
+Monoterpenen C-10-verbindingen 2 eenheden
+Sesquiterpenen C-15-verbindingen 3 eenheden
+Diterpenen C-20-verbindingen 4 eenheden
+Triterpenen C-30-verbindingen 6 eenheden 
+Carotenen C-40-verbindingen 8 eenheden
+Rubber n x C-5-verbindingen n eenheden
+Gibberellinezuur, retinol
+Squaleen → lanosterol → cholesterol → progesteron
+Gedeeltelijke terpeenstructuur: vitamine K2 en Q
+Alkenen 294.12 Geurstoffen
+• Meeste geuren zijn complexe mengsels van meer dan 50
+verbindingen (gaschromatografie, massaspectrometrie)
+• essentiële olie (monoterpenen, sesquiterpenen en andere
+natuurproducten)
+• Rozenolie (grondstof parfumindustrie):
+✓ via extractie bloemen met 
+alkanen en indampen (rose 
+concrete) en nadien ethanol
+(rose absolute) geeft gele olie
+✓ via stoomdestillatie (rose otto)
+(andere voorbeelden in tekst 
+illustratief)
+Alkenen 304.13 De biosynthese van monoterpenen
+• isopreeneenheden aanwezig als isopentenylpyrofosfaten
+• 3 en 2 staan met elkaar in evenwicht via (de)protonering
+4 Markovnikov
+2
+Alkenen 31• Opbouw grotere moleculen via carbokationen 1
+E+ reageert met 
+C5 tweede dubbele 
+Protonafsplitsing 
+binding
+m.b.v. enzyme
+2
+3
+Afsplitsing
+pyrofosfaatanion
+Gebeurt 
+waarschijnlijk in  C10
+enzyme-omgeving
+• En verder ? carbokationchemie
+Alkenen 32Acyclische monoterpenen
+trans
+cis
+Vorming twee 
+geometrische 
+isomeren mogelijk
+Alkenen 33Geranylpyrofosfaat
+roos roos
+Nerylpyrofosfaat
+Lavendel - roos citroen
+zeep
+Essentiële 
+oliën
+Alkenen 34Intramoleculaire ringsluiting
+seringen
+Nerylpyrofosfaat
+1
+munt 
+H1 H2 of 
+citroen
+karwij
+2
+Asymmetrische centra !
+Zie volgend hoofdstuk…
+Invloed op 
+organoleptische  pepermunt
+eigenschappen !
+ook verkoelend
+Alkenen 35(4.14 Illustratie)
+4.15 Steroïden
+Basisskelet (1932):
+3 C6 + 1 C5
+cholesterol: 
+sleutelintermediair in 
+biosynthese galzuren 
+en steroïdhormonen
+Alkenen 36Functie steroïden: diverse hormonen
+zwangerschap estrogenen androgenen
+(E)-diethylstilbesterolD (DEESS)
+Alkenen 37galzuren: onder de vorm van 
+galzouten via de gal 
+uitgescheiden in de dunne darm
+b
+Galzouten 
+a
+✓ nodig voor het emulgeren   
+van vetten (a), cholesterol en 
+vetoplosbare vitaminen in 
+het dunne darmsap om
+hydrolyse door lipase (b) te
+vergemakkelijken
+hydrofiel ✓ spelen rol detergent, vormen 
+micel
+Alkenen 38
+Stereochemie

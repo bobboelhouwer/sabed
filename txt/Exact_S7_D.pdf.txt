@@ -1,0 +1,82 @@
+8/22/2019
+1
+Waarom algebra ?
+• Basis in ingenieurswetenschappen
+• Veel toepassingen
+– Oplossenvan elektrische netwerken, krachtenin een
+bouwwerk, trillingsfrequentiesen–modes van een
+robotarm, scheikundigebalans, data mining, big data, 
+deep learning, …
+– Enkele toepassingenaangehaaldin dezecursus
+– Toepassingin systeemtheorieuitvoerigbehandeldin 
+dezelessen
+https://www.youtube.com/watch?v=j-zczJXSxnw&gl=BE
+2
+18/22/2019
+Enkele leerdoelen ...
+• Wiskundige instrumenten zoals matrices, hun 
+eigenwaarden, singuliere waarden ontbindig, 
+kleinste-kwadraten-problemen, ...
+• Wiskundige bewijsvoering: hoe toon je aan 
+dat een bewering juist of fout is ?
+• Abstractie: denken in meer dan 3 dimensies, 
+vectorruimten, lineaire afbeeldingen, ...
+• Correcte formuleringen, “wiskundig 
+taalgebuik”
+3
+Werkvormen en studiemateriaal
+• Hoorcollege–je mag vragenstellen
+• MyMathLab-huiswerkjes
+• Oefenzittingen–VOORBEREIDEN: herhaalbetreffendetheorie
+– 8 pen-en-papier+ 3 sessiesMatlab+ evaluatie
+• BoekLay
+• Aanvullingen(VTK)
+• Oefeningenbundel(VTK)
+• Slides (VTK)
+• TOLEDO
+– Dezeslides 
+– Filmpjes
+– “InstructiesXX-YY” met o.a. “Wat moetikwelennietkennen” ?
+– Voorbeeldenexamenvragen
+• Vragentrommel
+• Monitoraat
+• Leerruimte-plus
+4
+28/22/2019
+Slides
+• Hoofddoel: geen tijd & brainpower verliezen 
+met overschrijven
+– Maar noteer gerust iets
+• Boek bevat meer detail, voorbeelden en 
+oefeningen
+• Filmpjes bijna 1-op-1 met slides
+5
+Filmpjes
+• Herhalingsfilmpjes: bondige versie van de les
+– Compact geformuleerd (gebruik pause-toets)
+– Geen/weinig voorbeelden
+• Inleidende filmpjes
+– Korter
+– Makkelijk, andere invalshoek, inleiding ...
+– Voorafgaand aan de les bekijken – trek toch 
+voldoende tijd uit
+• Toepassingsfilmpjes
+– (Een) antwoord op de vraag “waarom moet ik dit 
+leren ?”
+6
+38/22/2019
+Examen en tussentijdse toets
+• Tussentijdse toets:
+– In lesluwe week
+– Wordtin rekeninggebrachtindiengeslaagdenscore(TTT) > 
+score(ex)
+• Gesloten boek
+• Wat je mag gebruiken: zie TOLEDO
+– formularium 
+– Rekenmachine toegestaan door de faculteit
+• Theorievragen, inzichtsvragen
+• Oefeningen –tijd winnen door theorie te kennen
+• Matlab-evaluatie telt mee voor 2 punten –niet 
+herkansbaar
+7
+4

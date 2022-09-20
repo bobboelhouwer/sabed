@@ -1,0 +1,50 @@
+8/22/2019
+Lay 5.1
+Lineaire transformatie
+• b = Ax kan je zien als een transformatie die
+x  n afbeeldt op b  n
+ 
+• A vierkant !
+• We noteren b = T(x) 
+• Voorbeeld  2 2
+
+ 
+2x
+• T(x) is lineair : x T(2x)=2Ax
+T(x)=Ax
+1) T(u + v) = T(u) + T(v)
+T(0)=A0=0
+2) T(cu) = c T(u) 
+18/22/2019
+Lineaire transformatie
+T(v)=Av=2v
+2 2 2
+v
+2
+x
+T(x)=Ax
+v
+1
+T(v)=Av=3.5v
+1 1 1
+Eigenvectoren
+• Sommigevectorenwordenop eenveelvoudvan zichzelf
+afgebeeld: Ax= x
+• In ditvoorbeeld:
+x= v en =3.5
+1 1
+x= v en =2
+2 2
+• v , v eigenvectoren
+1 2
+ ,  eigenwaarden
+1 2
+• Lineariteit: idem x= v
+1
+A(v )= (v )
+1 1 1
+Eigenruimtehorendbijv
+1
+• Erzullenmaximaal n 
+zulkerichtingenzijn
+2

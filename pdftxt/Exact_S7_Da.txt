@@ -1,0 +1,626 @@
+8/22/2019
+
+Lay 1.1 & 1.2
+
+1 −1
+2𝑖
+2
+𝜋
+9
+0
+𝑖
+2
+/
+−4 −5 𝑒
+
+Inleidende begrippen
+
+1
+
+ 8/22/2019
+
+Lineaire vergelijking
+• Een lineaire vergelijking is een uitdrukking van
+de vorm
+𝑎 𝑥 + …+ 𝑎 𝑥 = 𝑏
+• b, a1 … an zijn de coëfficiënten
+• x1 … xn zijn de variabelen of onbekenden
+• x1 … xn, b, a1 … an   of 
+
+Stelsel lineaire vergelijkingen
+• Een stelsel van m lineaire vergelijkingen
+𝑎 𝑥 + …+𝑎 𝑥 = 𝑏
+⋮
+𝑎 𝑥 + …+ 𝑎 𝑥 = 𝑏
+• x1 … xn moeten nu aan ALLE m vergelijkingen voldoen
+• Een oplossing (s1 … sn) zijn n getallen voor (x1 … xn) die
+van alle vergelijkingen een ware uitdrukking maken
+• Oplossingenverzameling
+– Als niet leeg dan is het stelsel consistent
+– Als leeg dan is het stelsel strijdig
+
+• Twee stelsels zijn equivalent als ze dezelfde
+oplossingenverzameling hebben
+
+2
+
+ 8/22/2019
+
+Coëfficiëntenmatrix
+• Stelsel vergelijkingen
+𝑎 𝑥 + …+ 𝑎 𝑥 = 𝑏
+⋮
+𝑎 𝑥 + …+𝑎 𝑥 = 𝑏
+• Coëfficiëntenmatrix
+𝑎
+⋯ 𝑎
+⋮
+⋱
+⋮
+𝑎
+⋯ 𝑎
+• Uitgebreide coëfficientenmatrix
+𝑎
+⋯ 𝑎 𝑏
+⋮
+⋱
+⋮ ⋮
+𝑎
+⋯ 𝑎 𝑏
+
+Algemene aanpak om stelsels lineaire
+vergelijkingen op te lossen
+
+3
+
+ 8/22/2019
+
+Stelsel lineaire vergelijkingen oplossen
+• Strategie: pas elementaire rijoperaties toe om
+eenvoudiger maar equivalent stelsel te bekomen
+• Elementaire rijoperaties (ER)
+1. Rij vervangen: (rij i) ← (rij i) + c. (rij j)
+2. Twee rijen omwisselen
+3. Rij schalen (rij i) ← c.(rij i) met c ≠ 0
+
+• Elementaire rijoperaties
+
+1. veranderen de oplossingenverzameling niet
+2. zijn omkeerbaar
+
+• Def: A en B zijn rij-equivalente matrices  er een
+sequentie ER bestaat die A in B omvormt
+Notatie: A  B
+
+Echelonvorm (EV)
+• Een m n matrix is in echelonvorm als
+
+1. Elk leidend element v/e rij staat in een kolom rechts
+van het leidend element v/d rij erboven
+2. Alle nulle rijen onderaan staan
+3. Alle elementen onder een leidend element nul zijn
+0  ∗ ∗ ∗ ∗ ∗ ∗ ∗ ∗ ∗ ∗
+0 0 0  ∗ ∗ ∗ ∗ ∗ ∗ ∗ ∗
+0 0 0 0  ∗ ∗ ∗ ∗ ∗ ∗ ∗
+0 0 0 0 0 0 0 0  ∗ ∗ ∗
+0 0 0 0 0 0 0 0 0 0 0 0
+
+•
+
+EV is niet uniek
+
+4
+
+ 8/22/2019
+
+Gereduceerde echelonvorm (GEV)
+• Een m n echelon matrix is in gereduceerde
+echelon vorm als bovendien
+1. Elk leidend element 1 is
+2. Elk leidend element het enige niet-nulle element v/d
+kolom is
+0 1 ∗ 0 0 ∗ ∗ ∗ 0 ∗ ∗ ∗
+0 0 0 1 0 ∗ ∗ ∗ 0 ∗ ∗ ∗
+0 0 0 0 1 ∗ ∗ ∗ 0 ∗ ∗ ∗
+0 0 0 0 0 0 0 0 1 ∗ ∗ ∗
+0 0 0 0 0 0 0 0 0 0 0 0
+
+•
+
+GEV is uniek
+
+Een willekeurige matrix omvormen
+naar echelonvorm
+In:
+
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 
+0 0 0 0 0  0 0 
+0 0 0 0 0  0 0 0
+
+Uit:
+
+0 0 0 0 0 0 0 
+0 0 0 0 0  0 0 
+0 0 0 0 0 0 ∗
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 ∗ ∗ 0 ∗
+
+5
+
+ 8/22/2019
+
+Naar echelonvorm – stap 1
+0  0 0 0  0 0  0 0 
+0 0 0 0 0    0 0 0 0
+0  0 0  0 0  0  0 
+0 0  0 0   0  0 0 
+0  0 0  0 0  0  0 0
+
+• Neem meest linkse niet-nulle kolom =
+pivotkolom
+• Selecteer je favoriete niet-nulle element uit
+die kolom = pivot
+
+Naar echelonvorm – stap 2
+0  0 0 0  0 0  0 0 
+0 0 0 0 0    0 0 0 0
+0  0 0  0 0  0  0 
+0 0  0 0   0  0 0 
+0  0 0  0 0  0  0 0
+
+• Plaats die rij bovenaan door rij-omwisseling
+
+6
+
+ 8/22/2019
+
+Naar echelonvorm – stap 3
+0  0 0  0 0  0  0 
+0 0 0 0 0    0 0 0 0
+0  0 0 0  0 0  0 0 
+0 0  0 0   0  0 0 
+0  0 0  0 0  0  0 0
+
+• Herleid alle (niet-nulle) elementen onder de
+pivot tot nul door rijvervanging
+
+Naar echelonvorm – stap 3
+0  0 0  0 0  0  0 
+0 0 0 0 0    0 0 0 0
+0 0 0 0   0    0 ∗
+0 0  0 0   0  0 0 
+0  0 0  0 0  0  0 0
+
+• Herleid alle (niet-nulle) elementen onder de
+pivot tot nul door rijvervanging
+– 3de rij
+
+7
+
+ 8/22/2019
+
+Naar echelonvorm – stap 3
+0  0 0  0 0  0  0 
+0 0 0 0 0    0 0 0 0
+0 0 0 0   0    0 ∗
+0 0  0 0   0  0 0 
+0 0 0 0 ∗ 0 0 ∗ 0 ∗ 0 
+
+• Herleid alle (niet-nulle) elementen onder de
+pivot tot nul door rijvervanging
+– 5de rij
+
+Naar echelonvorm – stap 4
+0  0 0  0 0  0  0 
+0 0 0 0 0    0 0 0 0
+0 0 0 0   0    0 ∗
+0 0  0 0   0  0 0 
+0 0 0 0 ∗ 0 0 ∗ 0 ∗ 0 
+
+• Herhaal stap 1-3 op submatrix rechtsonder
+pivot
+
+8
+
+ 8/22/2019
+
+Naar echelonvorm – stap 1
+0  0 0  0 0  0  0 
+0 0 0 0 0    0 0 0 0
+0 0 0 0   0    0 ∗
+0 0  0 0   0  0 0 
+0 0 0 0 ∗ 0 0 ∗ 0 ∗ 0 
+
+• Herhaal stap 1-3 op submatrix rechtsonder
+pivot: selecteer pivot
+
+Naar echelonvorm – stap 2
+0  0 0  0 0  0  0 
+0 0  0 0   0  0 0 
+0 0 0 0   0    0 ∗
+0 0 0 0 0    0 0 0 0
+0 0 0 0 ∗ 0 0 ∗ 0 ∗ 0 
+
+• Herhaal stap 1-3 op submatrix rechtsonder
+pivot: plaats pivot in bovenste rij door
+omwisseling
+– Hier rij 2 en 4 omwisselen
+
+9
+
+ 8/22/2019
+
+Naar echelonvorm – stap 3
+0  0 0  0 0  0  0 
+0 0  0 0   0  0 0 
+0 0 0 0   0    0 ∗
+0 0 0 0 0    0 0 0 0
+0 0 0 0 ∗ 0 0 ∗ 0 ∗ 0 
+
+• Herhaal stap 1-3 op submatrix rechtsonder
+pivot: maak alle elementen onder de pivot nul
+door rijvervanging
+– Hier niets te doen
+
+Naar echelonvorm – stap 4
+0  0 0  0 0  0  0 
+0 0  0 0   0  0 0 
+0 0 0 0   0    0 ∗
+0 0 0 0 0    0 0 0 0
+0 0 0 0 ∗ 0 0 ∗ 0 ∗ 0 
+
+• Herhaal stap 1-3 op submatrix rechtsonder
+pivot
+
+10
+
+ 8/22/2019
+
+Naar echelonvorm – stap 1
+0  0 0  0 0  0  0 
+0 0  0 0   0  0 0 
+0 0 0 0   0    0 ∗
+0 0 0 0 0    0 0 0 0
+0 0 0 0 ∗ 0 0 ∗ 0 ∗ 0 
+
+• Herhaal stap 1-3 op submatrix rechtsonder
+pivot: selecteer pivot
+
+Naar echelonvorm – stap 2
+0  0 0  0 0  0  0 
+0 0  0 0   0  0 0 
+0 0 0 0   0    0 ∗
+0 0 0 0 0    0 0 0 0
+0 0 0 0 ∗ 0 0 ∗ 0 ∗ 0 
+
+• Herhaal stap 1-3 op submatrix rechtsonder
+pivot: plaats pivot in bovenste rij door
+omwisseling
+– Hier niets te doen
+
+11
+
+ 8/22/2019
+
+Naar echelonvorm – stap 3
+0  0 0  0 0  0  0 
+0 0  0 0   0  0 0 
+0 0 0 0   0    0 ∗
+0 0 0 0 0    0 0 0 0
+0 0 0 0 0  0 ∗  ∗ 0 ∗
+
+• Herhaal stap 1-3 op submatrix rechtsonder
+pivot: maak alle elementen onder de pivot nul
+door rijvervanging
+– Rij 5
+
+Naar echelonvorm
+0  0 0  0 0  0  0 
+0 0  0 0   0  0 0 
+0 0 0 0   0    0 ∗
+0 0 0 0 0    0 0 0 0
+0 0 0 0 0  0 ∗  ∗ 0 ∗
+
+12
+
+ 8/22/2019
+
+Naar echelonvorm
+0  0 0  0 0  0  0 
+0 0  0 0   0  0 0 
+0 0 0 0   0    0 ∗
+0 0 0 0 0    0 0 0 0
+0 0 0 0 0  0 ∗  ∗ 0 ∗
+
+Naar echelonvorm
+0  0 0  0 0  0  0 
+0 0  0 0   0  0 0 
+0 0 0 0   0    0 ∗
+0 0 0 0 0    0 0 0 0
+0 0 0 0 0 0  ∗  ∗ 0 ∗
+
+13
+
+ 8/22/2019
+
+Naar echelonvorm
+0  0 0  0 0  0  0 
+0 0  0 0   0  0 0 
+0 0 0 0   0    0 ∗
+0 0 0 0 0    0 0 0 0
+0 0 0 0 0 0  ∗  ∗ 0 ∗
+
+Een willekeurige matrix omvormen
+naar gereduceerde echelonvorm
+In:
+
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 
+0 0 0 0 0  0 0 
+0 0 0 0 0  0 0 0
+
+Uit:
+
+0 1 0 0 0 0 0 ∗ ∗ ∗ 0 ∗
+0 0 1 0 0 0 0 ∗ ∗ ∗ 0 ∗
+0 0 0 0 1 0 0 ∗ ∗ ∗ 0 ∗
+0 0 0 0 0 1 0 ∗ ∗ 0 ∗
+0 0 0 0 0 0 1 ∗ ∗ 0 ∗
+
+14
+
+ 8/22/2019
+
+Naar gereduceerde echelonvorm – stap 5
+0  0 0  0 0  0  0 
+0 0  0 0   0  0 0 
+0 0 0 0   0    0 ∗
+0 0 0 0 0    0 0 0 0
+0 0 0 0 0 0  ∗  ∗ 0 ∗
+
+• Verder werken vanuit de echelonvorm
+
+Naar gereduceerde echelonvorm – stap 5
+0  0 0  0 0  0  0 
+0 0  0 0   0  0 0 
+0 0 0 0   0    0 ∗
+0 0 0 0 0    0 0 0 0
+0 0 0 0 0 0 1 ∗  ∗ 0 ∗
+
+• Schaal pivot tot 1
+
+15
+
+ 8/22/2019
+
+Naar gereduceerde echelonvorm – stap 5
+0  0 0  0 0  0  0 
+0 0  0 0   0  0 0 
+0 0 0 0   0    0 ∗
+0 0 0 0 0    0 0 0 0
+0 0 0 0 0 0 1 ∗  ∗ 0 ∗
+
+• Schaal pivot tot 1
+
+Naar gereduceerde echelonvorm – stap 6
+0  0 0  0 0  0  0 
+0 0  0 0   0  0 0 
+0 0 0 0   0    0 ∗
+0 0 0 0 0  0 ∗  ∗ 0 ∗
+0 0 0 0 0 0 1 ∗  ∗ 0 ∗
+
+• Maak alle elementen boven de pivot nul door
+rijvervanging: rij 4
+
+16
+
+ 8/22/2019
+
+Naar gereduceerde echelonvorm – stap 6
+0  0 0  0 0  0  0 
+0 0  0 0  0 ∗ ∗ ∗ 0 ∗
+0 0 0 0   0    0 ∗
+0 0 0 0 0  0 ∗  ∗ 0 ∗
+0 0 0 0 0 0 1 ∗  ∗ 0 ∗
+
+• Maak alle elementen boven de pivot nul door
+rijvervanging: rij 2
+
+Naar gereduceerde echelonvorm – stap 5
+0  0 0  0 0  0  0 
+0 0  0 0  0 ∗ ∗ ∗ 0 ∗
+0 0 0 0   0    0 ∗
+0 0 0 0 0 1 0 ∗  ∗ 0 ∗
+0 0 0 0 0 0 1 ∗  ∗ 0 ∗
+
+• Schaal pivot tot 1
+
+17
+
+ 8/22/2019
+
+Naar gereduceerde echelonvorm – stap 6
+0  0 0  0 0  0  0 
+0 0  0 0  0 ∗ ∗ ∗ 0 ∗
+0 0 0 0  0 0 ∗ ∗ ∗ 0 ∗
+0 0 0 0 0 1 0 ∗  ∗ 0 ∗
+0 0 0 0 0 0 1 ∗  ∗ 0 ∗
+
+• Maak alle elementen boven de pivot nul door
+rijvervanging: rij 3
+
+Naar gereduceerde echelonvorm – stap 6
+0  0 0  0 0  0  0 
+0 0  0 0 0 0 ∗ ∗ ∗ 0 ∗
+0 0 0 0  0 0 ∗ ∗ ∗ 0 ∗
+0 0 0 0 0 1 0 ∗  ∗ 0 ∗
+0 0 0 0 0 0 1 ∗  ∗ 0 ∗
+
+• Maak alle elementen boven de pivot nul door
+rijvervanging: rij 2
+
+18
+
+ 8/22/2019
+
+Naar gereduceerde echelonvorm
+0 1 0 0 0 0 0 ∗ ∗ ∗ 0 ∗
+0 0 1 0 0 0 0 ∗ ∗ ∗ 0 ∗
+0 0 0 0 1 0 0 ∗ ∗ ∗ 0 ∗
+0 0 0 0 0 1 0 ∗  ∗ 0 ∗
+0 0 0 0 0 0 1 ∗  ∗ 0 ∗
+
+• Voor de andere pivots
+
+Stelsels oplossen d.m.v. de
+(gereduceerde) echelonvorm
+• Enkel elementaire rijoperaties =>
+oplossingenverzameling dezelfde voor
+– Oorspronkelijk stelsel
+– Echelonvorm van uitgebreide coëfficiëntenmatrix
+𝑎
+⋮
+𝑎
+
+⋯ 𝑎 𝑏
+⋱
+⋮ ⋮
+⋯ 𝑎 𝑏
+
+– GEV van uitgebreide coëfficiëntenmatrix
+
+• Bespreking gebaseerd op enkele
+definities/eigenschappen
+
+19
+
+ 8/22/2019
+
+Pivot-posities
+0 1 0 0 0 0 0 ∗ ∗ ∗ 0 ∗
+0 0 1 0 0 0 0 ∗ ∗ ∗ 0 ∗
+0 0 0 0 1 0 0 ∗ ∗ ∗ 0 ∗
+0 0 0 0 0 1 0 ∗ ∗ ∗ 0 ∗
+0 0 0 0 0 0 1 ∗ ∗ ∗ 0 ∗
+
+• Gereduceerde echelonvorm is uniek
+• Pivot-posities (in GEV en EV) zijn uniek
+
+Pivot-kolom van A
+A=
+
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 
+0 0 0 0 0  0 0 
+0 0 0 0 0  0 0 0
+
+
+
+0 1 0 0 0 0 0 ∗ ∗ ∗ 0 ∗
+0 0 1 00 0 0 ∗ ∗ ∗ 0 ∗
+0 0 0 0 1 0 0 ∗ ∗ ∗ 0 ∗
+0 0 0 0 0 1 0 ∗ ∗ ∗ 0 ∗
+0 0 0 00 0 1∗ ∗ ∗ 0 ∗
+
+• Gereduceerde echelonvorm is uniek
+• Pivot-kolommen zijn uniek
+
+20
+
+ 8/22/2019
+
+Oplossen van stelsels met GEV
+• Breng de uitgebreide coëficiëntenmatrix in
+gereduceerde echelonvorm
+𝑎
+⋮
+𝑎
+
+⋯ 𝑎 𝑏
+⋱
+⋮ ⋮
+⋯ 𝑎 𝑏
+
+
+
+• Verander van lid
+– Basisvariabelen x2, x4, x5. x9, in pivotkolommen geschreven
+als functie van:
+– Vrije variabelen: de rest
+
+• Geeft je een parametrische vorm van de oplossing
+
+Oplossen van stelsel door EV
+• Breng de uitgebreide coëficiëntenmatrix in
+echelonvorm
+𝑎
+⋮
+𝑎
+
+⋯ 𝑎 𝑏
+⋱
+⋮ ⋮
+⋯ 𝑎 𝑏
+
+
+
+• Uit de laatste niet-nulle rij, vind de laatste
+basisvariabele als functie van de vrije variabelen
+• Substitueer deze oplossing in de hogere rijen
+• Herhaal voor voorlaatste basisvariabele, enz.
+• Noemt men achterwaartse substitutie
+
+21
+
+ 8/22/2019
+
+Het bestaan van een oplossing
+• Het lineaire stelsel is consistent  de rechter kolom
+van de (G)EV van de uitgebreide coëfficiëntenmatrix
+geen pivotkolom is
+• Een consistent lineair stelsel heeft een unieke
+oplossing als er geen vrije variabelen zijn en anders
+een oneindig aantal oplossingen
+0  ∗ ∗ ∗ ∗ ∗ ∗ ∗
+
+ ∗ ∗ ∗ ∗ ∗
+
+0  ∗ ∗ ∗ ∗ ∗ ∗ ∗
+
+0 0 0  ∗ ∗ ∗ ∗ ∗
+
+0  ∗ ∗ ∗ ∗
+
+0 0 0  ∗ ∗ ∗ ∗ ∗
+
+0 0 0 0  ∗ ∗ ∗ ∗
+
+0 0  ∗ ∗ ∗
+
+0 0 0 0  ∗ ∗ ∗ ∗
+
+0 0 0 0  ∗
+
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0
+
+0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0
+
+inconsistent
+
+0 0 0  ∗ ∗
+
+consistent
+uniek
+
+consistent
+ # opl.
+
+22
+
+ 

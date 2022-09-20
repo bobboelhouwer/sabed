@@ -1,0 +1,263 @@
+8/22/2019
+
+Lay 3.1
+
++ - + - + - + - + - +
++ - + - + - + - + - +
++ - + - + - + - + - +
+
+Definitie
+• n×n matrix A
+• n=1: det A = a11
+∗ ∗
+• n=2: det A = a11 a22 – a21 a12
+∗ ∗
+• n=3: det A = a11 a22 a33 + a21 a32 a13 + a12 a23 a31
+– a31 a22 a13 – a21 a12 a33 – a32 a23 a11
+∗
+∗
+∗
+
+∗ ∗
+∗ ∗
+∗ ∗
+
+1
+
+ 8/22/2019
+
+n = 3, ontwikkeling langs 1ste kolom
+• det A = a11 a22 a33 + a21 a32 a13 + a12 a23 a31
+– a31 a22 a13 – a21 a12 a33 – a32 a23 a11
+= a11(a22 a33 – a32 a23) – a21(a12 a33 –a32 a13)
++ a31(a11 a23 – a22 a13)
+
++
+
+𝑎
+𝑎
+𝑎
+
+𝑎
+𝑎
+𝑎
+
+𝑎
+𝑎
+𝑎
+
+-
+
+𝑎
+𝑎
+𝑎
+
+𝑎
+𝑎
+𝑎
+
+𝑎
+𝑎
+𝑎
+
++
+
+𝑎
+𝑎
+𝑎
+
+𝑎
+𝑎
+𝑎
+
+𝑎
+𝑎
+𝑎
+
+n = 3, ontwikkeling langs 2de kolom
+• det A = a11 a22 a33 + a21 a32 a13 + a12 a23 a31
+– a31 a22 a13 – a21 a12 a33 – a32 a23 a11
+= - a12(a21 a33 – a31 a23) + a22(a11 a33 –a31 a13)
+- a32(a11 a23 – a21 a13)
+
+-
+
+𝑎
+𝑎
+𝑎
+
+𝑎
+𝑎
+𝑎
+
+𝑎
+𝑎
+𝑎
+
++
+
+𝑎
+𝑎
+𝑎
+
+𝑎
+𝑎
+𝑎
+
+𝑎
+𝑎
+𝑎
+
+-
+
+𝑎
+𝑎
+𝑎
+
+𝑎
+𝑎
+𝑎
+
+𝑎
+𝑎
+𝑎
+
+2
+
+ 8/22/2019
+
+n = 3, ontwikkeling langs 3de kolom
+• det A = a11 a22 a33 + a21 a32 a13 + a12 a23 a31
+– a31 a22 a13 – a21 a12 a33 – a32 a23 a11
+= a13(a21 a32 – a31 a22) – a23(a11 a32 -a12 a31)
++ a33(a11 a22 – a21 a12)
+
++
+
+𝑎
+𝑎
+𝑎
+
+𝑎
+𝑎
+𝑎
+
+𝑎
+𝑎
+𝑎
+
+-
+
+𝑎
+𝑎
+𝑎
+
+𝑎
+𝑎
+𝑎
+
+𝑎
+𝑎
+𝑎
+
++
+
+𝑎
+𝑎
+𝑎
+
+𝑎
+𝑎
+𝑎
+
+𝑎
+𝑎
+𝑎
+
+n = 3, ontwikkeling langs 1ste rij
+• det A = a11 a22 a33 + a21 a32 a13 + a12 a23 a31
+– a31 a22 a13 – a21 a12 a33 – a32 a23 a11
+= a11(a22 a33 – a32 a23) – a12(a21 a33 –a31 a23)
++ a13(a21 a32 – a31 a22)
+
++
+
+𝑎
+𝑎
+𝑎
+
+𝑎
+𝑎
+𝑎
+
+𝑎
+𝑎
+𝑎
+
+-
+
+𝑎
+𝑎
+𝑎
+
+𝑎
+𝑎
+𝑎
+
+𝑎
+𝑎
+𝑎
+
++
+
+𝑎
+𝑎
+𝑎
+
+𝑎
+𝑎
+𝑎
+
+𝑎
+𝑎
+𝑎
+
+3
+
+ 8/22/2019
+
+n=3, algemeen patroon
+• Kies een rij of kolom en loop alle elementen af
+• det A = som van termen, elk het product:
+ volgens schema = (-1)(i+j)
+het element aij
+
++
+−
++
+
+− +
++ −
+− +
+
+de determinant van de kleinere matrix Aij bekomen
+door de rij en kolom waar het element in staat te
+schrappen
+• det A = (-1)i+1 ai1 det Ai1 + (-1)i+2 ai2 det Ai2 + (-1)i+3 ai3 det Ai3
+= (-1)1+j a1j det A1j + (-1)2+j a2j det A2j + (-1)3+j a3j det A3j
+
+Willekeurige n
+det A = (-1)i+1 ai1 det Ai1 + (-1)i+2 ai2 det Ai2 + … + (-1)i+n ain det Ain
+= (-1)1+j a1j det A1j + (-1)2+j a2j det A2j + … + (-1)n+j anj det Anj
+
+Tekenpatroon
+
++ - + - + - + - + - +
++ - + - + - + - + - +
++ - + - + - + - + - +
+
+(-1)i+j det Aij = Cij de cofactor van aij
+
+4
+
+ 

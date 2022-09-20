@@ -1,0 +1,133 @@
+Overzicht
+Inleiding
+Lineariteitvs.hiërarchie
+Hoofdigheid
+Compositionaliteit
+Structureleambiguïteit
+Valentie&subcategorisatie
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .(31) Ikganaardebank.
+(32) Ikziedemanmetdeverrekijker.
+Structureleambiguïteit
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .(32) Ikziedemanmetdeverrekijker.
+Structureleambiguïteit
+(31) Ikganaardebank.
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Structureleambiguïteit
+(31) Ikganaardebank.
+(32) Ikziedemanmetdeverrekijker.
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Structureleambiguïteit
+Ikziedemanmetdeverrekijker
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Structureleambiguïteit
+Ikziedemanmetdeverrekijker
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Structureleambiguïteit
+badhanddoek
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Structureleambiguïteit
+badhanddoek
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .4.(cid:280)(cid:281)(cid:279)(cid:282)(cid:264)(cid:281)(cid:282)(cid:279)(cid:266)(cid:273)(cid:266)(cid:262)(cid:274)(cid:263)(cid:270)(cid:268)(cid:282)(cid:326)(cid:281)(cid:266)(cid:270)(cid:281)
+Structureleambiguïteit
+SYNTAXIS (cid:0)! (cid:268)(cid:266)(cid:274)(cid:266)(cid:266)(cid:275)(cid:280)(cid:264)(cid:269)(cid:262)(cid:277)(cid:277)(cid:266)(cid:273)(cid:270)(cid:271)(cid:272)  (cid:0) MORFOLOGIE
+1.(cid:269)(cid:270)(cid:311)(cid:279)(cid:262)(cid:279)(cid:264)(cid:269)(cid:270)(cid:280)(cid:264)(cid:269)(cid:266)
+(cid:280)(cid:281)(cid:279)(cid:282)(cid:264)(cid:281)(cid:282)(cid:282)(cid:279)
+&(cid:279)(cid:266)(cid:264)(cid:282)(cid:279)(cid:280)(cid:270)(cid:283)(cid:270)(cid:281)(cid:266)(cid:270)(cid:281)
+2.(cid:269)(cid:276)(cid:276)(cid:267)(cid:265)(cid:270)(cid:268)(cid:269)(cid:266)(cid:270)(cid:265)
+2.1endocentriciteit 2.1RHHR
+3.(cid:264)(cid:276)(cid:274)(cid:277)(cid:276)(cid:280)(cid:270)(cid:281)(cid:270)(cid:276)(cid:275)(cid:262)(cid:273)(cid:270)(cid:281)(cid:266)(cid:270)(cid:281)
+(gemotiveerdebetekenis)
+3.1idiomatische 3.1arbitrairebetekenis
+uitdrukkingen 3.2betekenisspecialisatie
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Structureleambiguïteit
+SYNTAXIS (cid:0)! (cid:268)(cid:266)(cid:274)(cid:266)(cid:266)(cid:275)(cid:280)(cid:264)(cid:269)(cid:262)(cid:277)(cid:277)(cid:266)(cid:273)(cid:270)(cid:271)(cid:272)  (cid:0) MORFOLOGIE
+1.(cid:269)(cid:270)(cid:311)(cid:279)(cid:262)(cid:279)(cid:264)(cid:269)(cid:270)(cid:280)(cid:264)(cid:269)(cid:266)
+(cid:280)(cid:281)(cid:279)(cid:282)(cid:264)(cid:281)(cid:282)(cid:282)(cid:279)
+&(cid:279)(cid:266)(cid:264)(cid:282)(cid:279)(cid:280)(cid:270)(cid:283)(cid:270)(cid:281)(cid:266)(cid:270)(cid:281)
+2.(cid:269)(cid:276)(cid:276)(cid:267)(cid:265)(cid:270)(cid:268)(cid:269)(cid:266)(cid:270)(cid:265)
+2.1endocentriciteit 2.1RHHR
+3.(cid:264)(cid:276)(cid:274)(cid:277)(cid:276)(cid:280)(cid:270)(cid:281)(cid:270)(cid:276)(cid:275)(cid:262)(cid:273)(cid:270)(cid:281)(cid:266)(cid:270)(cid:281)
+(gemotiveerdebetekenis)
+3.1idiomatische 3.1arbitrairebetekenis
+uitdrukkingen 3.2betekenisspecialisatie
+4.(cid:280)(cid:281)(cid:279)(cid:282)(cid:264)(cid:281)(cid:282)(cid:279)(cid:266)(cid:273)(cid:266)(cid:262)(cid:274)(cid:263)(cid:270)(cid:268)(cid:282)(cid:326)(cid:281)(cid:266)(cid:270)(cid:281)
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Overzicht
+Inleiding
+Lineariteitvs.hiërarchie
+Hoofdigheid
+Compositionaliteit
+Structureleambiguïteit
+Valentie&subcategorisatie
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .(34) ziekvs.trotsvs.verschuldigd
+(35) horenvs.luisteren
+Valentie&subcategorisatie
+(33) slapenvs.begrijpenvs.geven
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .(35) horenvs.luisteren
+Valentie&subcategorisatie
+(33) slapenvs.begrijpenvs.geven
+(34) ziekvs.trotsvs.verschuldigd
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Valentie&subcategorisatie
+(33) slapenvs.begrijpenvs.geven
+(34) ziekvs.trotsvs.verschuldigd
+(35) horenvs.luisteren
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .(37) vriendelijkvoorhetmilieuvs.milieuvriendelijk
+(38) a. grootte,breedte,dikte,etc.
+b. schaamte,sterfte,behoefte,etc.
+c. *menste,*dierte,*boomte,etc.
+Valentie&subcategorisatie
+(36) haaruitval
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .(38) a. grootte,breedte,dikte,etc.
+b. schaamte,sterfte,behoefte,etc.
+c. *menste,*dierte,*boomte,etc.
+Valentie&subcategorisatie
+(36) haaruitval
+(37) vriendelijkvoorhetmilieuvs.milieuvriendelijk
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Valentie&subcategorisatie
+(36) haaruitval
+(37) vriendelijkvoorhetmilieuvs.milieuvriendelijk
+(38) a. grootte,breedte,dikte,etc.
+b. schaamte,sterfte,behoefte,etc.
+c. *menste,*dierte,*boomte,etc.
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .5.(cid:283)(cid:262)(cid:273)(cid:266)(cid:275)(cid:281)(cid:270)(cid:266)
+(cid:429)(cid:280)(cid:282)(cid:263)(cid:264)(cid:262)(cid:281)(cid:266)(cid:268)(cid:276)(cid:279)(cid:270)(cid:280)(cid:262)(cid:281)(cid:270)(cid:266)
+Valentie&subcategorisatie
+SYNTAXIS (cid:0)! (cid:268)(cid:266)(cid:274)(cid:266)(cid:266)(cid:275)(cid:280)(cid:264)(cid:269)(cid:262)(cid:277)(cid:277)(cid:266)(cid:273)(cid:270)(cid:271)(cid:272)  (cid:0) MORFOLOGIE
+1.(cid:269)(cid:270)(cid:311)(cid:279)(cid:262)(cid:279)(cid:264)(cid:269)(cid:270)(cid:280)(cid:264)(cid:269)(cid:266)
+(cid:280)(cid:281)(cid:279)(cid:282)(cid:264)(cid:281)(cid:282)(cid:282)(cid:279)
+&(cid:279)(cid:266)(cid:264)(cid:282)(cid:279)(cid:280)(cid:270)(cid:283)(cid:270)(cid:281)(cid:266)(cid:270)(cid:281)
+2.(cid:269)(cid:276)(cid:276)(cid:267)(cid:265)(cid:270)(cid:268)(cid:269)(cid:266)(cid:270)(cid:265)
+2.1endocentriciteit 2.1RHHR
+3.(cid:264)(cid:276)(cid:274)(cid:277)(cid:276)(cid:280)(cid:270)(cid:281)(cid:270)(cid:276)(cid:275)(cid:262)(cid:273)(cid:270)(cid:281)(cid:266)(cid:270)(cid:281)
+(gemotiveerdebetekenis)
+3.1idiomatische 3.1arbitrairebetekenis
+uitdrukkingen 3.2betekenisspecialisatie
+4.(cid:280)(cid:281)(cid:279)(cid:282)(cid:264)(cid:281)(cid:282)(cid:279)(cid:266)(cid:273)(cid:266)(cid:262)(cid:274)(cid:263)(cid:270)(cid:268)(cid:282)(cid:326)(cid:281)(cid:266)(cid:270)(cid:281)
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Valentie&subcategorisatie
+SYNTAXIS (cid:0)! (cid:268)(cid:266)(cid:274)(cid:266)(cid:266)(cid:275)(cid:280)(cid:264)(cid:269)(cid:262)(cid:277)(cid:277)(cid:266)(cid:273)(cid:270)(cid:271)(cid:272)  (cid:0) MORFOLOGIE
+1.(cid:269)(cid:270)(cid:311)(cid:279)(cid:262)(cid:279)(cid:264)(cid:269)(cid:270)(cid:280)(cid:264)(cid:269)(cid:266)
+(cid:280)(cid:281)(cid:279)(cid:282)(cid:264)(cid:281)(cid:282)(cid:282)(cid:279)
+&(cid:279)(cid:266)(cid:264)(cid:282)(cid:279)(cid:280)(cid:270)(cid:283)(cid:270)(cid:281)(cid:266)(cid:270)(cid:281)
+2.(cid:269)(cid:276)(cid:276)(cid:267)(cid:265)(cid:270)(cid:268)(cid:269)(cid:266)(cid:270)(cid:265)
+2.1endocentriciteit 2.1RHHR
+3.(cid:264)(cid:276)(cid:274)(cid:277)(cid:276)(cid:280)(cid:270)(cid:281)(cid:270)(cid:276)(cid:275)(cid:262)(cid:273)(cid:270)(cid:281)(cid:266)(cid:270)(cid:281)
+(gemotiveerdebetekenis)
+3.1idiomatische 3.1arbitrairebetekenis
+uitdrukkingen 3.2betekenisspecialisatie
+4.(cid:280)(cid:281)(cid:279)(cid:282)(cid:264)(cid:281)(cid:282)(cid:279)(cid:266)(cid:273)(cid:266)(cid:262)(cid:274)(cid:263)(cid:270)(cid:268)(cid:282)(cid:326)(cid:281)(cid:266)(cid:270)(cid:281)
+5.(cid:283)(cid:262)(cid:273)(cid:266)(cid:275)(cid:281)(cid:270)(cid:266)
+(cid:429)(cid:280)(cid:282)(cid:263)(cid:264)(cid:262)(cid:281)(cid:266)(cid:268)(cid:276)(cid:279)(cid:270)(cid:280)(cid:262)(cid:281)(cid:270)(cid:266)
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .

@@ -1,0 +1,122 @@
+Hfdst 6 Nucleofiele substitutie en eliminatie: extra toelichting bij slide 27
+
+E2-mechanisme: STEREOSPECIFIEK: een reactie is stereospecifiek als welbepaalde
+stereo-isomere eindproducten worden gevormd uit welbepaalde
+(sets van) stereo-isomere beginproducten
+
+Wat indien ander stereo-isomeer?
+
+Welk product wordt gevormd bij een
+E2-eliminatie van HCl uit
+(2R,3R)-2-chloor-2,3-difenylbutaan?
+H
+
+Cl
+
+C
+
+C
+
+Ph
+
+Ph
+
+22
+
+3
+H 3C
+
+2S,3R-stereo-isomeer
+
+Maximaal 2n=2²=4 stereo-isomeren
+
+CH3
+
+Draaien rond C-C-as niet nodig,
+want H en Cl staan reeds antiperiplanair
+
+1
+2
+H
+
+H 3C
+
+4
+Cl
+
+2
+
+C
+
+4
+
+C
+
+Ph
+
+CH3
+
+3
+
+Hier: 2R,3R-stereo-isomeer
+
+1
+
+Ph
+
+3
+
+antiperiplanair
+
+Draaien rond C-C-as zodat
+H en Cl antiperiplanair staan
+
+Vertrekkende van het 2S,3R-stereo-isomeer
+kan het E-isomeer wel gevormd worden
+
+CH3
+
+Ph
+
+Cl
+
+C
+
+CH3
+
+CH3
+C
+
+C
+
+H
+
+Antiperiplanair: betrokken atomen moeten in één vlak liggen
+
+C
+
+CH3
+
+B:
+
+Ph
+
+antiperiplanair
+
+E-2,3-difenyl-2-buteen
+
+Ph
+
+Ph
+
+Z-2,3-difenyl-2-buteen
+E-isomeer hier niet mogelijk
+
+Je kan makkelijk verifiëren dat
+-het R,R en S,S-enantiomerenpaar
+aanleiding geeft tot het Z-alkeen, terwijl
+-het S,R en R,S-enantiomerenpaar
+aanleiding geeft tot het E-isomeer.
+De E2-eliminatie is dus STEREOSPECIFIEK
+
+ 

@@ -1,0 +1,135 @@
+12. Carbonzuren
+• bevatten carboxylgroep (< carbonyl + hydroxyl)
+• mesomerie!
+• hebben uitgesproken zure eigenschappen (pK ~5)
+A
+• belangrijke rol in natuur:
+O
+H
+✓ citroenzuurcyclus
+C O
+✓ vetzuurmetabolisme
+123 pm
+✓ aminozuren
+H
+136 pm
+Carbonzuren 112.1 Nomenclatuur
+• corresponderend alkaan + uitgang -zuur
+• koolstofatoom carbonylgroep steeds 1-C
+• alternatief: stamnaam alkaan + uitgang –carbonzuur
+(koolstofatoom van -COOH wordt niet meegeteld)
+• benaming –COOH als substituent/voorvoegsel: carboxy
+Carbonzuren 2• veel triviaalnamen, verwijzen meestal naar bron
+• positie substituent soms aangeven met Griekse letter
+• aromatische carbonzuren
+• zouten carbonzuren: naam kation + naam carboxylaatanion
+-zuur -oaat
+Carbonzuren 3Carbonzuren 412.2 Voorkomen en fysische eigenschappen
+• scherpe, onaangename geur (vooral C4 → C8)
+• mierenzuur (methaanzuur): mieren, brandnetels
+• azijnzuur (ethaanzuur): verzuren wijn, ijsazijn (T = 17°C)
+m
+• als esters in talrijke plantaardige of dierlijke producten:
+✓ boterzuur (butaanzuur) - boter
+✓ capronzuur (hexaanzuur) - geitenmelk
+✓ hogere carbonzuren in oliën en vetten
+• in vruchten en voedingsmiddelen:
+trans
+Carbonzuren 5• hoger kookpunt dan alcoholen, aldehyden en ketonen!
+• goede oplosbaarheid in water indien R-groep niet te groot
+• gebruikt als voedingsadditieven:
+propaanzuur, propionaten, benzoëzuur, benzoaten…
+Carbonzuren 612.3 De zuurtegraad zuursterkte van carbonzuren
+• zwakke zuren in vergelijking met klassieke anorganische zuren
+• onder de organische verbindingen relatief sterke zuren:
+sterke zuren: hoge K , kleine pK
+a a
+vergelijking met alcoholen
+Carbonzuren 7• verklaring grotere zuursterkte carbonzuren:
+niet gestabiliseerd
+gestabiliseerd door mesomerie
+1,27 Å
+Carbonzuren 8• sterk zuur verdrijft zwak zuur uit zijn zouten:
+goed oplosbaar in water
+voor korte R
+Scheidingsmethode carbonzuren – andere
+(niet-zure) organische verbindingen:
+mengsel oplossen in ether, extraheren met 
+NaHCO , waterlaag opnieuw aanzuren
+3
+12-18 C-atomen: vorming micellen
+anionisch detergent
+Carbonzuren 9• zuursterkte van carbonzuren:
+-I
++I
+Carbonzuren 1012.4 Vorming van carbonzuurderivaten
+• geen rechtstreekse substitutie van -OH groep
+• deprotonering in plaats van nucleofiele substitutie:
+• -OH eerst omzetten tot betere vertrekkende groep
+vorming van zuurchloriden (met SOCl , PCl …)
+2 3
++
+Cl
+Cl Cl
+S
+S
+O
+-
+O O O O
++ Cl- + SO + Cl-
+2
+R OH - H+ R O R Cl
+3 RCOOH + PCl → 3 RCOCl + H PO
+3 3 3
+Carbonzuren 11Intramoleculaire vorming van anhydriden bij dicarbonzuren
+(intermoleculair ligt dit evenwicht naar links)
+DT
+vorming van esters
+zuur-base reactie verhindert estervorming!!
+Carbonzuren 12• zuurgekatalyseerde reactie tussen
+carbonzuur en alcohol
+Fischer verestering
+(anders te traag):
+water afvoeren
+Carbonzuren 13Dean-Stark opstelling
+azeotroop: Kp 85°C
+damp heeft constante samen-
+stelling: 80% tol, 20% H 0
+2
+tolueen (Kp 110°C) 
+(d = 0,87 g.cm-3)
+water (Kp 100°C)
+(d = 1 g.cm-3)
+mengsel alcohol, carbonzuur, 
+katalysator (sterk zuur), 
+tolueen (solvent)
+Carbonzuren 14vorming van amiden
+12.5 Decarboxylering van carbonzuren
+• splitsing van C-C binding:
+• bij gewone alkaancarbonzuren zeer moeilijk!
+Carbonzuren 15Decarboxylering van b-ketocarbonzuren en b-dicarbonzuren
+• verlies van CO uit cyclische conformatie gevolgd door tautomerisatie
+2
+• vrij gemakkelijk bij verwarmen
+Carbonzuren 16Decarboxylering van carboxylaationen
+• enkel als elektronen van anion een goed toevluchtsoord hebben
+• bijvoorbeeld b-carbonylgroep
+oxalasuccinaat
+isocitraat-
+dehydrogenase
+a-ketoglutaraat
+a
+citroenzuurcyclus
+Carbonzuren 17• b-carbonylgroep positieve lading geven om reactie te versnellen?
+?
+✓ carbonylzuurstof is onvoldoende basisch!
+✓ ketofunctie omzetten tot Schiff-base
+enamine
+Carbonzuren 18Decarboxylering van a-ketocarbonzuren
+• verwijderen carboxylaatgroep naast carbonylgroep
+• voorbeelden: pyrodruivenzuur → acetylcoënzym A
+a-ketoglutaraat → succinaat
+• via coënzym thiaminepyrofosfaat
+NH
+2
+Carbonzuren Derivaten van carbonzuren 19

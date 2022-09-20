@@ -1,0 +1,59 @@
+Overzicht
+Inleiding
+Linkshoofdigestructuren
+Copulatievesamenstellingen
+Exocentrischestructuren
+Aﬂeidingdoorcircumﬁgering
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Exocentrischestructuren
+Z [ NN] [ AN] [ PP] [ PP]
+N V P Adv
+[ AN] [ NN] [ PNum]
+N V Adv
+[ VN] [ PA]
+X Y N Adv
+[ NV] [ PA] [ AP]
+N V Adv
+[ XY] [ NumN] [ PN] [ NP]
+Z N V Adv
+[ VP] [ PP]
+N V
+[ VAdv]
+N
+[ PN]
+V
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Exocentrischestructuren
+ﬂapuit zoetekauw snotneus domoor
+(cid:263)(cid:266)(cid:281)(cid:266)(cid:272)(cid:266)(cid:275)(cid:270)(cid:280)
+(cid:284)(cid:276)(cid:276)(cid:279)(cid:265)(cid:280)(cid:276)(cid:276)(cid:279)(cid:281)
+(cid:274)(cid:276)(cid:279)(cid:267)(cid:276)(cid:280)(cid:286)(cid:275)(cid:281)(cid:262)(cid:264)(cid:281)(cid:270)(cid:280)(cid:264)(cid:269)(cid:266)
+(cid:272)(cid:266)(cid:275)(cid:274)(cid:266)(cid:279)(cid:272)(cid:266)(cid:275)
+tegenover achteruit
+(cid:263)(cid:266)(cid:281)(cid:266)(cid:272)(cid:266)(cid:275)(cid:270)(cid:280)
+(cid:284)(cid:276)(cid:276)(cid:279)(cid:265)(cid:280)(cid:276)(cid:276)(cid:279)(cid:281)
+(cid:274)(cid:276)(cid:279)(cid:267)(cid:276)(cid:280)(cid:286)(cid:275)(cid:281)(cid:262)(cid:264)(cid:281)(cid:270)(cid:280)(cid:264)(cid:269)(cid:266)
+(cid:272)(cid:266)(cid:275)(cid:274)(cid:266)(cid:279)(cid:272)(cid:266)(cid:275)
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Exocentrischestructuren
+ﬂapuit
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Exocentrischestructuren
+rechtsachter
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Exocentrischestructuren
+blabla
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Exocentrischestructuren
+watertanden
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Exocentrischestructuren
+afzwakken
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Exocentrischestructuren
+overwinteren
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Exocentrischestructuren
+omver
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .

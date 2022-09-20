@@ -1,0 +1,193 @@
+8/22/2019
+Lay 4.2, 4.3, 4.6
+Rank A + dim(Nul A) = #kolommen
+Nulruimte
+• mxnmatrix A
+• NulA= { x n: Ax= 0}
+
+• De oplossingenverzameling van homogeenstelsel Ax= 0
+• Is deelruimtevan  n
+
+– 0NulA: A0 = 0
+– u, v NulA  Au= 0; Av= 0 A(u+v) =0 u+v NulA 
+– uNulA  A(cu)=c(Au)=0cu NulA 
+18/22/2019
+Basis voor Nul A
+• Parametrische oplossing van homogeen stelsel
+– Uitgebreide coëfficiëntenmatrix in gereduceerde 
+echelonvorm (GEV)
+11 00 ** ** 00 ** 00 00
+00 11 ** ** 00 ** 00 00
+00 00 00 00 11 ** 00 00
+00 00 00 00 00 00 11 00
+00 00 00 00 00 00 00 00
+xx xx xx xx xx xx xx
+11 22 33 44 55 66 77
+1 0 * * 0 * 0 0
+0 1 * * 0 * 0 0
+x1 0 +x2 0 +x3 0 +x4 0 +x5 1 +x6 * +x7 0 = 0
+0 0 0 0 0 0 1 0
+0 0 0 0 0 0 0 0
+Parametrische oplossing
+1 0 0 0 -* -* -*
+0 1 0 0 -* -* -*
+x1 0 +x2 0 +x5 1 +x7 0 = +x3 0 +x4 0 +x6 -*
+0 0 0 1 0 0 0
+0 0 0 0 0 0 0
+x -* -* -*
+1
+x -* -* -*
+2
+x5 = +x3 0 +x4 0 +x6 -*
+x 0 0 0
+7
+x 1 0 0
+3
+x 0 1 0
+4
+x 0 0 1
+6
+28/22/2019
+Parametrische oplossing
+u v w
+x1 -* -* -* 1 0 * * 0 * 0 0
+x2 -* -* -* 0 1 * * 0 * 0 0
+x= x3 = +x3 1 +x4 0 +x6 0 0 0 0 0 1 * 0 0
+x4 0 1 0 0 0 0 0 0 0 1 0
+x5 0 0 -* 0 0 0 0 0 0 0 0
+x 0 0 1
+6 x x x x x x x
+x 0 0 0 1 2 3 4 5 6 7
+7
+• xNulA: x= au+ bv+ cw
+• u, venwzijnvoortbrengendvoorNulA
+Span{u, v, w} = NulA
+• u, venwzijnl.o. : 0= au+ bv+ cw
+vergelijking 3, 4 en6 a = b = c = 0
+• Aantal vrije variabelen x x x is aantal niet-pivotkolommen
+3 4 6
+• Dim (Nul A) = aantal niet-pivotkolommen
+Kolomruimte
+• mnmatrix A
+• Col A = Span{a , a , … , a }
+1 2 n
+• Is deelruimtevan  m
+
+• Col A = { b  m:  x  nzodat [a a … a ]x= Ax = b}
+  1 2 n
+x
+3
+x
+2 a
+2
+x1 x1
+m
+x  a
+2 1
+n
+
+38/22/2019
+Kolomruimte
+Col A is heel  m
+ x3 a
+3
+x
+3
+a
+2
+x
+n 1
+
+x2 x1 x2 m a1
+Col A  m
+ x3
+x
+3
+a
+2 x
+n a3 1
+x x1 x m a1
+2 2
+Basis voor Col A
+• B is gereduceerde echelonvorm van A: A B
+
+• Bewering 1: pivotkolommen (KP) in Bzijn l.o. 
+11 00 ** ** 00 ** 00 PK = {e : i=1...pn}
+i
+00 11 ** ** 00 ** 00
+00 00 00 00 11 ** 00
+00 00 00 00 00 00 11
+00 00 00 00 00 00 00
+xx xx xx xx xx xx xx
+11 22 33 44 55 66 77
+• Bewering 2: niet-pivotkolommen (NPK) van Bzijn l.c. 
+van PK van B
+Elke NPK = l.c. van PK links ervan.
+Col B= Span{b , b , … , b } = Span{PK}
+1 2 n
+• PK zijn dus voortbrengend en l.o. basis voor Col B
+48/22/2019
+Basis voor Col A, rang
+• A B Ax = 0en Bx= 0hebben zelfde oplossingen
+
+• Bx= 0drukt een l.a./l.o. uit tussen b , b , … , b
+1 2 n
+• Elke l.a./l.o. tussen kolommen van Bgeldt ook tussen 
+de overeenstemmende kolommen van A
+• Dus PK van A zijn l.o., NPK van A zijn l.c. van PK van A
+• Col A = Span{a , a , … , a } = Span{PK}
+1 2 n
+• PK van Azijnl.o. + voortbrengendvoorCol A PK van 
+A vormen een basisvoor Col A
+• dim(Col A) = #PK = rank A
+Dimensiestelling
+• m  n matrix A
+• #PK + #NPK = #kolommen = n
+• dim(Col A) + dim(Nul A) = n
+• Rank A + dim(Nul A) = n
+58/22/2019
+Row A
+• Row A= Span{rijen van A} = Col AT
+• AB, dan Row A= Row B
+ER op Auitvoeren is l.c. van rijen maken 
+rijen Bzijn l.c. rijen A 
+elke l.c. rijen Bis l.c. rijen van A
+Row BRow A
+ER omkeerbaar Row ARow B
+• Bin gereduceerde echelonvorm: niet-nulle rijen zijn l.o.
+1 0 * * 0 * 0
+0 1 * * 0 * 0
+0 0 0 0 1 * 0
+0 0 0 0 0 0 1
+0 0 0 0 0 0 0
+• Row B= Span{rijen B} = Span{niet-nulle rijen B}
+• Niet-nulle rijen van B vormen basis voor Row B= Row A
+Dimensiestelling (2)
+• dim(Row A) = #niet-nulle rijen gered. echelonvorm = #PK
+1 0 * * 0 * 0
+0 1 * * 0 * 0
+0 0 0 0 1 * 0
+0 0 0 0 0 0 1
+0 0 0 0 0 0 0
+• dim(Col A) = dim(Row A) = Rank A
+• Row A= Col ATdim(Col AT) = dim(Col A) rank A= rank AT
+• Rank A+ dim(Nul A) = n
+• dim(Col AT) + dim(Nul AT) = m
+• dim(Row A) + dim(Nul AT) = m
+• Rank A+ dim(Nul AT) = m
+68/22/2019
+Matrixinversiestelling
+Inverteerbare matrices
+• A nxn matrix
+• A inverteerbaar 
+h.  Span {a , a , … , a } = n
+1 2 n 
+m. {a , a , … , a } vormen een basis voor n
+1 2 n 
+n.  Col A =  n
+
+o. dim(Col A) = n
+p. Rank A = n
+r.  dim(Nul A) = n – Rank A = 0
+q.  Nul A = {0}
+7

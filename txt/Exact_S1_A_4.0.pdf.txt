@@ -1,0 +1,1195 @@
+Algemene Scheikunde : Hfst. VI  Mechanisme en kinetica van reacties  1
+Hoofdstuk VI  Mechanisme en kinetica van reacties
+ 
+ 
+ 
+1.  Inleiding 
+ 
+De chemische kinetica bestudeert de snelheid waarmee chemische reacties verlopen 
+of anders uitgedrukt: de snelheid waarmee reagerende stoffen verdwijnen uit het re-
+actiemengsel en worden omgezet tot reactieproducten. 
+Een blik op de fenomenen die zich afspelen in onze omgeving leert ons dat bepaalde 
+chemische omzettingen onmeetbaar snel verlopen (b.v. een gasontploffing), andere 
+trager (b.v. het branden van steenkool) en nog andere zeer traag (b.v. het roesten 
+van ijzer). De antwoorden die we in dit hoofdstuk zullen geven, omvatten enkele pa-
+rameters die bepalend zijn voor de snelheid waarmee reagerende bestanddelen zich 
+omzetten tot reactieproducten. Een aantal factoren speelt hierbij een belangrijke rol 
+en de waarnemingen kunnen meestal vanuit eenvoudige ervaringen worden begre-
+pen en verklaard. 
+ 
+Nemen we als voorbeeld de verbranding van fossiele brandstoffen. De chemische 
+verbindingen ervan zijn hoofdzakelijk opgebouwd uit koolstof en waterstof en kunnen 
+verschillende  aggregatietoestanden  aannemen.  Aardgas  bevat  een  mengsel  van 
+kleine moleculen zoals ethaan, propaan, butaan e.a. die bij normale omstandigheden 
+van druk en temperatuur gasvormig zijn. Hierdoor kunnen deze moleculen zich ho-
+mogeen mengen met zuurstofmoleculen uit de lucht (zie homogene mengbaarheid 
+van gassen in hoofdstuk IV). Het gevolg is dat de reagerende bestanddelen optimaal 
+verdeeld zijn en dat elke brandstofmolecule de nodige zuurstofmoleculen vindt in 
+haar onmiddellijke omgeving. Benzine daarentegen, bestaande uit vergelijkbare doch 
+grotere moleculen met een geringere vluchtigheid, is bij normale omstandigheden 
+vloeibaar waardoor een homogene menging met de luchtzuurstof niet spontaan op-
+treedt. De reactie kan enkel doorgaan aan het vloeistofoppervlak tussen de verdam-
+pende benzine en de omringende lucht. Nochtans leert onze ervaring dat ook deze 
+reactie spectaculair kan zijn. De verbranding van diesel, met nog grotere en minder 
+vluchtige componenten, verloopt nog trager en meer beheerst. Onze ervaring leert 
+ook dat het aanmaken van onze barbecue met hout of houtskool (nog grotere chemi-
+sche bestanddelen in minder vluchtige vaste stoffen) soms heel wat tijd en moeite in 
+beslag kan nemen. Samengevat kunnen we stellen dat de aard van de reagerende 
+stoffen (grootte van de moleculen, aggregatietoestand en vluchtigheid, fysische vorm 
+en mengbaarheid) een essentiële rol speelt voor de snelheid van reacties. Bovendien 
+zullen voor andere dan verbrandingsreacties ook de chemische eigenschappen van 
+de reagerende stoffen (sterkte van bindingen en nog andere parameters) in belang-
+rijke mate de snelheid mee bepalen.  
+Een belangrijke parameter is de concentratie van de reagerende componenten. Uit 
+het voorgaande is duidelijk dat moleculen slechts kunnen reageren op het ogenblik 
+dat ze voldoende dicht tot elkaar zijn genaderd. De kans dat willekeurig bewegende 
+moleculen elkaar ontmoeten, neemt toe met het aantal aanwezige deeltjes waardoor 
+de mogelijkheid tot interactie een functie wordt van de concentratie van de reageren-
+de bestanddelen. 
+Op het einde van dit hoofdstuk zullen we aantonen dat de temperatuur eveneens een 
+heel bijzondere impact heeft op de reactiesnelheid en proberen we een eenvoudige 
+beschrijving te geven van het begrip ‘katalysator’. Algemene Scheikunde : Hfst. VI  Mechanisme en kinetica van reacties  2
+2.  Definitie van reactiesnelheid 
+2.1.  Algemene uitdrukking voor de reactiesnelheid 
+ 
+Beschouwen we de volgende reactie: 
+ 
+ 
+A   +  B         2 AB 
+2 2            
+ 
+ 
+We starten met een mengsel dat enkel de moleculen A  en B  bevat. Naarmate de 
+2 2  
+reactie vordert, nemen de concentraties van A  en B  af maar verhoogt de concentra-
+2 2
+tie aan AB. De reactiesnelheid (RS) beschrijft in welke mate de concentratieveran-
+deringen optreden. We kunnen de reactiesnelheid beschrijven als een afname van 
+de concentraties A  en B binnen een bepaald tijdsinterval (tussen t  en t ) maar ook 
+2 2  2 1
+als een toename van de concentratie AB binnen datzelfde tijdsinterval.  
+ 
+ 
+D(A ) (A ) - (A )
+RS = - 2 = - 2 2 2 1  
+A2 Dt t - t
+2 1
+ 
+D(B ) (B ) - (B )
+RS = - 2 = - 2 2 2 1  
+B2 Dt t - t
+2 1
+ 
+D(AB) (AB) - (AB)
+RS = + = + 2 1  
+AB Dt t - t
+2 1
+ 
+ 
+Gezien de concentraties aan A  en B  verminderen, zijn (cid:1)(A ) en (cid:1)(B ) negatieve 
+2 2 2 2
+waarden. Om de RS vooralsnog positief te maken, wordt een bijkomend minteken 
+geplaatst in de desbetreffende vergelijkingen. 
+ 
+De stoechiometrie van de reactievergelijking laat zien dat 1 mol A  reageert met 1 
+2
+mol B  tot vorming van 2 mol AB waardoor AB dubbel zo snel wordt gevormd als A  
+2 2
+of B  verdwijnen. Op die manier kunnen we schrijven 
+2
+ 
+ 
+-2 RS = -2 RS = RS  
+A B AB
+2 2
+ 
+ 
+Stel dat de concentraties van A  en B  afnemen met 0,02 mol.l-1 gedurende een tijds-
+2 2
+interval van 1 s. De concentratie van AB neemt dan toe met 0,04 mol.l-1 binnen dat-
+zelfde interval. De snelheid waarmee A  en B  verdwijnen (0,02 mol.l-1s-1) en de 
+2 2
+snelheid waarmee AB gevormd wordt (0,04 mol.l-1s-1), beschrijven evenwel de snel-
+heid van dezelfde reactie op hetzelfde ogenblik. Het is dus nodig om steeds te ver-
+melden op welke component uit de reactievergelijking de waarde van de gemeten 
+reactiesnelheid betrekking heeft. Een reactiesnelheid kan immers experimenteel be-
+paald worden door het systematisch meten van de concentratie van een bepaalde 
+component in een reagerend mengsel.  Algemene Scheikunde : Hfst. VI  Mechanisme en kinetica van reacties  3
+Het is evenwel handiger de reactiesnelheid te definiëren voor de reactie als dusdanig 
+en niet voor een of andere component uit de reactievergelijking. Daarom delen we de 
+reactiesnelheid voor elke afzonderlijke component door het voorgetal van deze com-
+ponent uit de reactievergelijking en bekomen de RS voor de globale reactie. 
+ 
+RS
+  RS = RS = RS = AB  
+reactie A2 B2 2
+ 
+ 
+2.2  De reactiesnelheid op ieder ogenblik 
+ 
+Een reactie kan slechts optreden wanneer de reagerende componenten elkaar ont-
+moeten en met elkaar in botsing komen. Nemen we opnieuw het voorbeeld uit vorige 
+paragraaf. Bij het begin zijn er veel moleculen A  en B  en is nog geen AB gevormd. 
+2 2
+Er zijn op dit ogenblik veel botsingen tussen A  en B  waardoor de snelheid van om-
+2 2
+zetting (de reactiesnelheid) groot is. Naarmate A  en B  uit het reactiemengsel ver-
+2 2
+dwijnen, verkleint de kans op een ontmoeting en een botsing waardoor de mate van 
+omzetting sterk afneemt. Na voldoende tijd zijn nagenoeg alle moleculen A  en B  uit 
+2 2
+het mengsel verdwenen waardoor er zich slechts nog sporadisch een botsing kan 
+voordoen tussen A  en B . 
+2 2
+Starten we met een mengsel met gelijke concentraties A  en B  (b.v. 0,1 mol.l-1) en 
+2 2
+nemen we aan dat de concentraties ervan afnemen zoals weergegeven in volgende 
+figuur. Tegelijkertijd neemt de concentratie aan AB dubbel zo snel toe.  
+We zullen in wat volgt de concentraties van de verschillende componenten voorstel-
+len door (A ), (B ) en (AB).  
+2 2
+ 
+ 
+concentratie (mol.l-1) 
+0,2
+(AB) 
+(cid:1)t 
+0,15
+(cid:1)(AB) 
+0,1
+0,05
+(cid:1)(A ) en (cid:1)(B ) 
+2 2
+(A ) en (B ) 
+2 2
+0
+t t
+1  2  tijd in s   
+ 
+Tussen de tijdstippen t  en t  zijn de concentraties van alle componenten veranderd 
+2 1
+en kunnen we de gemiddelde reactiesnelheid over dit tijdsinterval (cid:1)t berekenen met 
+de formules uit vorige paragraaf.  
+ Algemene Scheikunde : Hfst. VI  Mechanisme en kinetica van reacties  4
+Rekenvoorbeeld: We brengen 0,16 mol N O -gas in een vat van 1 l bij een tempera-
+2 5
+tuur van 67°C waarna het gas ontbindt volgens onderstaande reactie. 
+ 
+2 N O       (cid:2)     4 NO     +    O
+2 5(g) 2(g) 2(g) 
+ 
+Op verschillende tijdstippen wordt de resterende concentratie aan N O  gemeten en 
+2 5
+de resultaten zijn weergegeven in volgende tabel. De gevormde reactieproducten 
+laten we buiten beschouwing omdat ze (voorlopig) van geen belang zijn. 
+ 
+ 
+tijd (s)  0  60  120  180  240 
+(N O ) (mol.l-1)  0,160  0,113  0,080  0,056  0,040 
+2 5
+ 
+ 
+(N O ) 
+2 5
+  
+0,16  
+ 
+ 
+ 
+0,12
+ 
+ 
+ 
+ 
+0,08
+ 
+ 
+ 
+0,04  
+ 
+ 
+ 
+0
+tijd  (s) 
+0 60 120 180 240
+ 
+   
+Tussen het tijdstip t = 120 s en t = 60 s is de concentratie veranderd met een bedrag 
+van - 0,033 mol.l-1. De gemiddelde reactiesnelheid over deze periode is dus 
+ 
+1 D(N O ) 1 -0,033
+RS = - 2 5 = - = 2,75 10-4 mol.l-1s-1  
+gemiddeld 2 Dt 2 60
+ 
+De factor ½ in dit voorbeeld heeft te maken met het voorgetal uit de reactievergelij-
+king en de berekende reactiesnelheid is die voor de globale reactie. 
+ 
+Keren we terug naar ons algemeen reactievoorbeeld uit vorige paragraaf. Wanneer 
+we het tijdsinterval (cid:1)t infinitesimaal laten naderen tot 0, dan kunnen we de reactie-
+snelheid op ieder ogenblik bepalen uit de helling van de curve op dat tijdsstip en 
+kunnen we schrijven  
+ 
+d(A ) d(B ) 1 d(AB)
+  RS = - 2 = - 2 =  
+dt dt 2 dtAlgemene Scheikunde : Hfst. VI  Mechanisme en kinetica van reacties  5
+3.  Invloed van de concentratie op de reactiesnelheid 
+3.1  Initiële reactiesnelheid 
+ 
+Uit de vorige paragraaf weten we dat de reactiesnelheid op ieder moment kan wor-
+den bepaald uit de helling van de curve die de variatie van een concentratie beschrijft 
+in functie van de tijd. Dergelijke curve kan worden uitgezet aan de hand van experi-
+mentele gegevens. Vervolgens kan hieruit de richtingscoëfficient van de raaklijn en 
+de reactiesnelheid worden berekend op ieder tijdstip. 
+We weten ook dat de reactiesnelheid afneemt met de reactietijd. Voor nauwkeurige 
+experimentele bepalingen is het dan raadzaam de reactiesnelheid te meten op het 
+moment dat die het grootst is. Dit betekent bij het begin van de reactie. We spreken 
+in dit verband over de beginsnelheid of de initiële reactiesnelheid (RS ). 
+0
+ 
+Dergelijke experimenten laten toe de invloed van de beginconcentratie op de reactie-
+snelheid na te gaan. Nemen we opnieuw de reactie uit vorig rekenvoorbeeld en her-
+halen we de proef voor verschillende beginconcentraties. Uit de hellingen van de 
+verschillende curven bij een tijdsstip t = 0 bekomen we de waarden voor de initiële 
+snelheid waarmee N O  verdwijnt. Voor de initiële snelheid van de globale reactie 
+2 5
+dienen we dan nog te delen door 2 (het voorgetal van N O ). 
+2 5
+ 
+2 N O       (cid:2)      4 NO     +    O
+2 5(g) 2(g) 2(g) 
+ 
+De experimentele gegevens zijn verzameld in volgende tabel. 
+ 
+(N O )  (mol.l-1)  RS  (mol.l-1s-1) 
+2 5 0 0
+0,010  0,00031 
+0,020  0,00062 
+0,040  0,00125 
+ 
+Voor deze reactie blijkt dat wanneer (N O )  verdubbelt, dit ook het geval is voor de 
+2 5 0
+initiële reactiesnelheid. 
+ 
+RS » (N O )  
+0 2 5 0
+ 
+RS = k (N O )                      
+0 2 5 0
+ 
+ 
+3.2  Verband tussen concentratie en reactiesnelheid 
+ 
+Analoge experimenten kunnen worden uitgevoerd op ieder willekeurig tijdsstip van 
+een reactie doch door te meten bij het begin worden de meest nauwkeurige resulta-
+ten bekomen. In elk geval kan een analoge uitdrukking als in vorige paragraaf wor-
+den geschreven voor de reactiesnelheid op ieder willekeurig ogenblik. 
+ 
+RS = k (N O ) 
+2 5
+ 
+Dit verband tussen de reactiesnelheid en de concentratie van de reagentia noemen 
+we de snelheidsvergelijking en de evenredigheidsfactor k de reactiesnelheids-
+constante. In dit voorbeeld is de RS evenredig met de concentratie tot de 1ste macht. Algemene Scheikunde : Hfst. VI  Mechanisme en kinetica van reacties  6
+De numerieke waarde van k hangt uiteraard af van eenheid waarin de tijd uitgedrukt 
+wordt bij meting van de reactiesnelheid (niet noodzakelijk in s maar soms ook in mi-
+nuten of uren voor tragere reacties), maar ook van de component die voor de meting 
+ervan opgevolgd wordt (in analogie met wat werd uitgelegd onderaan pagina 2).  
+ 
+We hadden in dit voorbeeld te maken met de ontbindingsreactie van N O  (slechts 1 
+2 5
+reagens). Voor de meeste reacties zijn er meerdere reagentia. In het meest algeme-
+ne geval kunnen we een reactie tussen twee reagerende producten voorstellen door 
+ 
+a A     +     b B                   reactieproducten             
+ 
+De snelheidsvergelijking wordt dan gegeven door 
+ 
+ 
+RS = k (A)x (B)y 
+ 
+ 
+Hieruit blijkt dat de reactiesnelheid niet noodzakelijk recht evenredig is met de con-
+centraties van de reagentia maar kan variëren met de concentratie tot een macht 
+hoger dan 1. Voor sommige reacties zijn de exponenten x en y gelijk aan de voorge-
+tallen a en b uit de reactievergelijking doch dit is niet altijd het geval. 
+ 
+De orde van een reactie is de som van de exponenten van de concentraties in de 
+snelheidsvergelijking. Voor deze algemene reactie is de orde de som van x en y. We 
+noemen de reactie x-de orde in A en y-de orde in B en de reactie is (x + y)-de orde. 
+Het feit dat de reactiesnelheid sterker dan lineair kan toenemen met de concentratie 
+blijkt uit volgend eenvoudig rekenmodel voor een fictieve reactie. 
+ 
+  A  +  2 B                AB  
+2
+ 
+ 
+Stel dat slechts 2 moleculen A en 2 moleculen B aanwezig 
+zijn in een reactievat. Gezien elke molecule A zich met 2 
+moleculen B dient om te zetten tot 1 molecule AB , zijn er 
+2
+voor dit geval 2 mogelijke combinaties. Er bestaan dus 2 
+mogelijkheden om de molecule AB  te vormen. 
+2
+ 
+Wanneer we de concentratie van A verdubbelen maar die van B constant houden, 
+zijn er 4 (dubbel zoveel) kansen voor de vorming van de molecule AB . Dit betekent 
+2
+ook dat de reactiesnelheid met een factor 2 zal toenemen of recht evenredig met de 
+concentratie van A. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Algemene Scheikunde : Hfst. VI  Mechanisme en kinetica van reacties  7
+Wanneer we echter zoeken naar het aantal combinatiemogelijkheden tussen 2 mole-
+culen A (zelfde aantal als in de 1ste situatie) met 4 moleculen B (verdubbelde concen-
+tratie), dan zien we dat het aantal combinaties meer dan verdubbelt en de reactie-
+snelheid dus sterker dan lineair zal toenemen met de concentratie aan B. 
+ 
+3.3.  Bepalen van de reactie-orde 
+ 
+De exponenten x en y uit de snelheidsvergelijking kunnen experimenteel bepaald 
+worden uit een reeks proeven waarbij de beginconcentratie van het eerste reagens 
+constant gehouden wordt maar dat van het tweede reagens verandert en vervolgens 
+omgekeerd. Voor de diverse experimenten wordt telkens RS gemeten. 
+0 
+ 
+We nemen het voorbeeld van de onderstaande reactie: 
+. 
+2 NO     +    Br       (cid:2)     2 NOBr                   bij 273°C 
+(g) 2(g) (g)
+ 
+experiment  (NO)   (mol.l-1)  (Br ) (mol.l-1)  RS  vorming NOBr  (mol.l-1s-1) 
+0 2 0     0
+1  0,1  0,1  12  10-3 
+2  0,1  0,2  24  10-3 
+3  0,1  0,3  36  10-3 
+4  0,2  0,1  48  10-3 
+5  0,3  0,1  108 10-3  
+ 
+De algemene snelheidsvergelijking wordt gegeven door 
+ 
+RS = k (NO)x (Br )Y  
+NOBr NOBr 2
+ 
+We brengen de gegevens van experimenten 1 en 4 uit de gegevenstabel in de snel-
+heidsvergelijking en delen vervolgens de 2 bekomen vergelijkingen door elkaar 
+ 
+RS 48 k (0,2)x (0,1)y (cid:6)0,2(cid:3)x
+4 = =             4 = (cid:4) (cid:1)                  4 = 2x                 x = 2 
+RS 12 k (0,1)x (0,1)y (cid:5)0,1(cid:2)
+1
+ 
+Op analoge manier bepalen we y met de gegevens van experimenten 1 en 2 
+ 
+RS 24 k (0,1)x (0,2)y (cid:6)0,2(cid:3)y
+2 = =            2 = (cid:4)(cid:4) (cid:1)(cid:1)                  2 = 2y                 y =1 
+RS 12 k (0,1)x (0,1)y (cid:5)0,1(cid:2)
+1Algemene Scheikunde : Hfst. VI  Mechanisme en kinetica van reacties  8
+We kunnen nu de snelheidsvergelijking herschrijven als 
+ 
+RS = k (NO)2 (Br )1 
+NOBr NOBr 2
+ 
+De reactie is 2de orde in NO en 1ste orde in Br  of 3de orde in totaal. 
+2
+Op het ogenblik dat de orde van de reactie bekend is, kan de waarde van k even-
+eens bepaald worden a.d.h.v. de experimentele gegevens van slechts één willekeu-
+rig te kiezen proef. We nemen hiervoor de gegevens van proef 5 
+ 
+RS = k (NO)2 (Br )1      
+NOBr NOBr 2
+ 
+108 10-3 = k (0,3)2 (0,1)1               k = 12 l2.mol-2s-1   
+NOBr NOBr
+ 
+ 
+3.4.  Reacties in meerdere stappen 
+ 
+In bovenstaand voorbeeld is de orde van de reactie gelijk aan de som van de voorge-
+tallen van de reagentia in de reactievergelijking (3=2+1). Dit is niet steeds noodzake-
+lijk zoals blijkt uit de volgende voorbeelden. 
+ 
+•  2 N O    (cid:2)   4 NO  + O RS = k (N O )           1ste orde  
+2 5(g) 2(g) 2(g)    2 5
+•  2 NO  + 2 H   (cid:2)   N  + 2 H O   RS = k (NO)2 (H )1       3de orde  
+(g) 2(g) 2(g) 2 (g) 2
+ 
+Een reactievergelijking geeft enkel de reactieproducten weer vertrekkende van de 
+beginproducten zonder vermelding te maken van eventuele tussenstappen. 
+Een botsing tussen twee moleculen is een heel waarschijnlijk gebeuren. Drie molecu-
+len die op hetzelfde moment op dezelfde plaats met elkaar in botsing komen, is al 
+minder waarschijnlijk. Vier moleculen (zoals in de reactie hierboven tussen NO en 
+H ) op hetzelfde moment op dezelfde plaats wordt heel onwaarschijnlijk. Dergelijke 
+2
+complexere reacties verlopen vaak in opeenvolgende stappen. In dit voorbeeld rea-
+geren 2 moleculen NO vooraf met 1 molecule H  
+2
+ 
+2 NO  +  H    (cid:2)   H O   +  N O  
+(g)  2(g) 2 (g) 2 (g)
+ 
+Het reactieve tussenproduct N O reageert in een tweede fase verder tot vorming van 
+2
+de definitieve reactieproducten 
+ 
+N O  +  H    (cid:2)   N   +  H O  
+2 (g)  2(g) 2(g) 2 (g)
+ 
+Optellen van de beide deelreacties levert de totaalreactie 
+ 
+2 NO   +   2 H    (cid:2)   N   +  2 H O
+(g) 2(g) 2(g) 2 (g) 
+ 
+De 1ste stap verloopt eerder traag terwijl de 2de stap veel vlugger doorgaat. De traag-
+ste van de twee of de snelheidsbepalende stap zal uiteindelijk de totale reactie-
+snelheid beperken en bijgevolg onrechtstreeks de orde van de reactie bepalen. Bij 
+nog complexere reactiemechanismen kunnen zelfs negatieve of niet gehele expo-
+nenten voorkomen in de snelheidsvergelijking. Algemene Scheikunde : Hfst. VI  Mechanisme en kinetica van reacties  9
+3.5.  Verloop van de concentratie met de reactietijd 
+ 
+Zoals besproken in de vorige paragraaf is de snelheidsvergelijking van een chemi-
+sche reactie een mathematische uitdrukking die het verband weergeeft tussen de 
+reactiesnelheid en de concentratie. Deze vergelijking laat niet toe de actuele concen-
+traties te berekenen van de uitgangsproducten en reactieproducten na een bepaalde 
+reactietijd. Een eenvoudige omrekening levert een relatie tussen concentratie en re-
+actietijd waarbij rekening wordt gehouden met de reactieorde. We zullen ons beper-
+ken tot de eenvoudige gevallen van ontbindingsreacties (met slechts een reagens) in 
+respectievelijk nulde, eerste en tweede orde. 
+ 
+ 
+0de orde reactie 
+ 
+a A              producten 
+ 
+ 
+d(A)
+RS = - = k (A)0 = k 
+dt
+ 
+d(A) = -k dt 
+ 
+ 
+(cid:7)(A)t d(A) = -k(cid:7)t dt  
+(A) 0
+0
+ 
+(A) - (A) = -k t 
+t 0
+ 
+(A) = (A) - k t 
+t 0
+ 
+We bekomen een dalend lineair verband tussen de concentratie van A en de tijd. De 
+helling van de rechte wordt weergegeven door de reactiesnelheidsconstante. In on-
+derstaande figuur is dit voorgesteld voor (A)  = 1 mol.l-1  en  k = 0,1 mol.l-1s-1. 
+0
+ 
+1,2 (A) 
+(A)0  1
+0,8
+0,6 -k 
+0,4
+0,2
+0
+0 2 4 6 8 10 reactietijd (s) 
+ Algemene Scheikunde : Hfst. VI  Mechanisme en kinetica van reacties  10
+Een andere belangrijke parameter is de halveringstijd (t ) van een reactie. Dit is de 
+1/2
+tijd nodig om de helft van de uitgangsstoffen om te zetten tot reactieproducten. 
+Na een tijd t  wordt (A) gelijk aan ½ (A) .  
+1/2 0
+ 
+(A) = (A) - k t  
+t1 0 1
+2 2
+1
+(A) = (A) - k t  
+2 0 0 12
+ 
+(A)
+waaruit volgt dat:   t = 0  
+12 2 k
+ 
+In het geval van een nulde orde reactie is de halveringstijd recht evenredig met de 
+beginconcentratie van A. Eveneens typisch voor een nulde orde reactie zijn de een-
+heden van de snelheidsconstante (mol.l-1s-1). 
+ 
+ 
+1ste orde reactie 
+ 
+a A              producten 
+ 
+ 
+d(A)
+RS = - = k (A)1 = k (A) 
+dt
+ 
+d(A)
+= -k dt  
+(A)
+ 
+(cid:7)(A)td(A) = -k(cid:7)t dt 
+(A) (A) 0
+0
+ 
+ln(A) - ln(A) = -k t                
+t 0
+ 
+ln(A) = ln(A) -k t 
+t 0
+ 
+ 
+Dit levert een lineair dalend verband tussen ln(A) en de reactietijd. Wanneer we het 
+verloop van de concentratie zelf wensen uit te zetten i.f.v. de tijd, bekomen we een 
+exponentieel dalend verloop. 
+ 
+(A)
+ln t = -k t 
+(A)
+0
+ 
+(A)
+t = e-kt       
+(A)
+0
+ 
+(A) = (A) e-kt 
+t 0Algemene Scheikunde : Hfst. VI  Mechanisme en kinetica van reacties  11
+In onderstaande figuren is het verloop van ln(A) en (A) i.f.v. de tijd opnieuw voorge-
+steld voor (A)  = 1 mol.l-1  en  k = 0,1 mol.l-1s-1. 
+0
+ 
+ln(A) 
+0
+ln(A)  
+0 -0,2
+-0,4
+-k 
+-0,6
+-0,8
+-1
+-1,2 reactietijd (s) 
+0 2 4 6 8 10
+ 
+   
+(A) 
+1,2
+(A)0  1
+0,8 t
+1/2 
+0,6
+0,4
+0,2
+0 reactietijd (s) 
+0 10 20 30
+ 
+ 
+De halveringstijd voor een 1ste orde reactie wordt als volgt berekend 
+ 
+-kt 1 -kt
+(A) = (A) e 12   (A) = (A) e 12  
+t1 0 2 0 0
+2
+ 
+1 -kt kt
+= e 12  2 = e 12   ln2 = k t  
+2 12
+ 
+ln2 0,693
+t = =  
+12 k k
+ 
+ 
+De halveringstijd voor een 1ste orde reactie is onafhankelijk van de beginconcentratie 
+van A. De eenheid van de snelheidsconstante is s-1. Algemene Scheikunde : Hfst. VI  Mechanisme en kinetica van reacties  12
+2de orde reactie 
+ 
+a A              produkten 
+ 
+d(A)
+RS = - = k (A)2  
+dt
+ 
+d(A)
+= -k dt  
+(A)2
+ 
+(cid:7)(A)td(A) = -k(cid:7)t dt 
+(A) (A)2 0
+0
+ 
+1 1
+- = k t                  
+(A) (A)
+t 0
+ 
+1 1
+= + k t  
+(A) (A)
+t 0
+ 
+ 
+We bekomen een lineair stijgend verband tussen de inverse van de concentratie van 
+A en de reactietijd. Tussen de concentratie zelf en de reactietijd is het verloop hyper-
+bolisch dalend. 
+ 
+1 1 (A)
+= + 0 k t 
+(A) (A) (A)
+t 0 0
+ 
+1 1 + (A) k t
+= 0  
+(A) (A)
+t 0
+ 
+(A)
+(A) = 0  
+t
+1 + (A) k t
+0
+ 
+ 
+De halveringstijd is omgekeerd evenredig met de beginconcentratie van A. 
+ 
+ 
+(A) 1 (A)
+(A) = 0    (A) = 0  
+t1 1 + (A) k t 2 0 1 + (A) k t
+2 0 1 0 1
+2 2
+ 
+1 1
+=     2 = 1 + (A) k t     1 = (A) k t  
+2 1 + (A) k t 0 12 0 12
+0 1
+2
+ 
+1
+t =  
+12 k (A)
+0Algemene Scheikunde : Hfst. VI  Mechanisme en kinetica van reacties  13
+In onderstaande figuren is het verloop van 1/(A) en (A) i.f.v. de tijd opnieuw voorge-
+steld voor (A)  = 1 mol.l-1  en  k = 0,1 l.mol-1s-1. 
+0
+ 
+ 
+1/(A) 
+7
+6
+5
+4
+k 
+3
+2
+1/(A)
+0  1
+0 reactietijd (s) 
+0 10 20 30 40 50
+ 
+(A) 
+1,2
+(A)
+0  1
+0,8
+0,6
+0,4
+0,2
+reactietijd (s) 
+0
+0 10 20 30 40 50
+ 
+In de volgende tabel worden de bijzonderste gegevens voor een ontbindingsreactie 
+in 0de, 1ste en 2de orde samengevat. 
+ 
+orde  snelheidsvgl.  lineair verband conc. / tijd  halveringstijd  eenheid van k 
+   
+0  RS = k  (A) = (A) - k t  (A) mol  
+t 0 t = 0   l s
+12 2 k
+1  RS = k (A)  ln(A)t = ln(A)0 -k t  t = 0,693  1s  
+12 k
+2  RS = k (A)2 1 1 1 l  
+= + k t  t =   mol s
+  (A) (A) 12 k (A)
+t 0 0
+ 
+Uit experimentele gegevens over de concentratie in functie van de reactietijd kan de 
+orde van de reactie worden afgeleid evenals de numerieke waarde voor k en kunnen 
+verdere berekeningen worden gemaakt. Algemene Scheikunde : Hfst. VI  Mechanisme en kinetica van reacties  14
+Rekenvoorbeeld: Door het opvolgen van de ontbindingsreactie van NOCl  bij 200°C 
+(g)
+werden volgende resultaten bekomen met  2 NOCl      (cid:2)    2 NO  +   Cl   
+(g) (g)   2(g)
+ 
+NOCl (mol/l)  tijd (s-1)  Om na te gaan of het gaat om een 0 de, 1ste of 2 de orde 
+0,0250  0  reactie, berekenen we de volgende waarden (zie onder-
+0,0202  200  staande tabel) en zetten die uit in een grafiek. Hieruit blijkt 
+0,0169  400  dat enkel tussen ln(NOCl) en de tijd een perfect lineair ver-
+0,0136  700  band wordt bereikt. We hebben dus te maken met een 1ste 
+orde reactie. 
+0,0120  900 
+ 
+ 
+tijd (s)  NOCl (mol/l)  ln(NOCl)  1/(NOCl)   (l/mol) 
+ 
+0  0,0250  -3,69  40,0 
+200  0,0202  -3,90  49,5 
+400  0,0169  -4,08  59,2 
+700  0,0136  -4,30  73,5 
+900  0,0120  -4,42  83,3 
+ 
+ 
+10
+1/(NOCl) * 1/10 
+8
+6
+4
+2
+(NOCl) * 200 
+0
+-2
+-4
+ln(NOCl) 
+-6
+0 100 200 300 400 500 600 700 800 900
+ Algemene Scheikunde : Hfst. VI  Mechanisme en kinetica van reacties  15
+4.  Invloed van de temperatuur op de reactiesnelheid 
+4.1.  Botsingstheorie en reactiemechanisme 
+ 
+De meest eenvoudige theorie om de snelheid van reacties te verklaren is de bot-
+singstheorie. In wat voorafging, hebben we uitgelegd dat moleculen slechts kunnen 
+reageren wanneer ze in elkaars nabijheid komen en met elkaar botsen. 
+Het aantal botsingen per tijdseenheid hangt samen met de concentraties van de rea-
+gerende bestanddelen. In vorige paragrafen hebben we de reactieorde besproken 
+met de bijhorende concentratieafhankelijkheid van de reactiesnelheid. Het totale aan-
+tal botsingen tussen reagerende bestanddelen is afhankelijk van de concentratie en 
+stellen we voor door het botsingsgetal Z. 
+Voor het volgende reactievoorbeeld kunnen we dit botsingsgetal schrijven als 
+ 
+Z = Z (HI)x 
+0
+ 
+Niet alle botsingen geven weliswaar aanleiding tot een reactie. Een eerste voorwaar-
+de is een goede oriëntatie van de botsende moleculen. Nemen we als voorbeeld de 
+volgende reactie 
+ 
+2 HI   (cid:2)    H    +   I  
+(g)    2(g) 2(g)
+ 
+De twee moleculen HI kunnen vanuit verschillende richtingen tot elkaar naderen. 
+Nemen we twee extreme gevallen die we hieronder voorstellen als situaties 1 en 2 
+ 
+ 
+ 
+situatie 1 
+  situatie 2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Bij situatie 1 zal bij botsing van de twee HI-moleculen wel een reactie plaatsvinden 
+maar er treedt hierdoor geen verandering op in de concentraties van HI. Er is enkel 
+een uitwisseling opgetreden tussen de H-atomen en de I-atomen. In situatie B daar-
+entegen botsen de 2 HI moleculen in een gunstige oriëntatie waardoor twee nieuwe 
+moleculen worden gevormd met een concentratieverandering tot gevolg. 
+We definiëren de factor p als de fractie van alle botsingen met een passende oriënta-
+tie van de moleculen om te kunnen aanleiding geven tot omzetting. Uiteraard is deze 
+probabiliteitsfactor  een  ingewikkelde  functie  van  de  geometrische  eigenschappen 
+van de reagerende bestanddelen. We zullen hierop niet verder ingaan. 
+ 
+Een andere voorwaarde voor een botsing om tot reactie aanleiding te geven, is de 
+kinetische energie van de botsende moleculen. Voor traag bewegende moleculen is 
+de botsing te ‘zacht’ om de bestaande bindingen te breken en nieuwe bindingen te Algemene Scheikunde : Hfst. VI  Mechanisme en kinetica van reacties  16
+vormen. Pas wanneer de botsende deeltjes over voldoende kinetische energie be-
+schikken, kan een effectieve botsing (waarbij de botsende moleculen breken) aanlei-
+ding geven tot reactie. In de volgende paragraaf wordt dit uitvoeriger besproken. 
+Voorlopig stellen we de fractie van de botsingen met voldoende kinetische energie 
+voor door de factor f. 
+ 
+Met behulp van de besproken factoren, kunnen we voor de reactiesnelheid een uit-
+drukking schrijven als 
+ 
+RS = p f Z           
+ 
+RS = p f Z (HI)x 
+0
+ 
+RS = k (HI)x 
+ 
+Door deze vergelijkingen krijgt de reactiesnelheidsconstante al meer betekenis. 
+ 
+  k = p f Z  
+0
+ 
+ 
+4.2.  Het geactiveerd complex 
+ 
+Uit hoofdstuk III herinneren we ons dat we een molecule niet kunnen opvatten als 
+een hard en onvervormbaar deeltje maar eerder als een relatief soepele en vervorm-
+bare samenclustering van atomen. Bij een chemische reactie is het de bedoeling om 
+bestaande bindingen in de reagentia te breken om op die manier nieuwe bindingen 
+te kunnen vormen voor de reactieproducten.  
+Bindende elektronenparen bevinden zich hoofdzakelijk aan de binnenkant van de 
+molecule en zijn aldus moeilijk bereikbaar. Aan de buitenzijde van moleculen bevin-
+den zich ook elektronen (vooral anti-bindende). Om te kunnen doordringen tot de 
+centraal gelegen bindende elektronen, moeten de reagerende bestanddelen dus vol-
+doende dicht tot elkaar kunnen naderen. Dit naderen wordt hen bemoeilijkt door de 
+afstotende werking van de elektronenmantels aan de buitenzijde van de molecule. 
+Moleculen die elkaar te dicht naderen worden afgestoten. Om toch voldoende dicht 
+te geraken voor een reactie hebben ze voldoende kinetische energie nodig. 
+We maken hiervoor een vrij simpele vergelijking met het botsen van twee tennisbal-
+len. Op het ogenblik dat ze elkaar raken, worden ze beide ingedrukt. Ze verliezen 
+hierdoor hun kinetische energie (snelheid) die wordt omgezet in potentiële energie 
+(een veerkracht wordt opgebouwd). Indien de oorspronkelijke kinetische energie te 
+klein was, komen de tennisballen gedurende een infinitesimaal klein tijdsinterval tot 
+stilstand waarna ze zich opnieuw van elkaar verwijderen. De opgebouwde potentiële 
+energie levert de nodige arbeid om de tennisballen opnieuw uit elkaar te drijven 
+waarbij deze potentiële energie weer wordt omgezet in kinetische energie. Indien er 
+bij deze botsing geen warmteverschijnselen of andere energetische verliezen zouden 
+optreden, hebben we te maken met een elastische botsing. 
+Bij zeer grote kinetische energie, vervormen de tennisballen in die mate dat ze kun-
+nen scheuren. Dat is ongeveer wat zich voordoet bij een chemische reactie. Wan-
+neer de moleculen onvoldoende ‘hard’ botsen, herstellen ze zich in hun oorspronke-
+lijke toestand waarna ze hun translatiebeweging verder zetten. Voor deze elastische Algemene Scheikunde : Hfst. VI  Mechanisme en kinetica van reacties  17
+botsing gelden de fysische wetten van behoud van energie en impuls. Bij een vol-
+doende ‘harde’ botsing breken de moleculen waarna de brokstukken zich hercombi-
+neren tot nieuwe verbindingen. 
+In deze paragraaf zullen we de omzetting van kinetische energie in potentiële ener-
+gie bij botsing vervatten in het principe van het geactiveerd complex. Zoals de ter-
+men ‘geactiveerd’ en ‘complex’ laten vermoeden, gaat het over een tijdelijke energie-
+rijke tussentoestand van in elkaar gestrengelde moleculen na een ‘harde’ botsing. 
+ 
+Nemen we hiervoor de volgende algemene reactie 
+ 
+A     +    B         2 AB 
+2 2             
+  
+Wanneer de moleculen A  en B  met onvoldoende kinetische energie botsen, dan 
+2 2
+overweegt de afstoting van hun elektronenmantels zodat de A-A en de B-B bindingen 
+onmogelijk kunnen gebroken worden. Wanneer daarentegen 2 snelbewegende mo-
+leculen A  en B  botsen, dan wordt een deel van de kinetische energie omgezet in 
+2 2
+voldoende potentiële energie waardoor een kortlevend geactiveerd complex of een 
+transitiecomplex AABB ontstaat. In dit complex zijn de oorspronkelijke bindingen A-A 
+en B-B gedeeltelijk gebroken en de nieuwe A-B bindingen gedeeltelijk gevormd. 
+ 
+ 
+  A             B                          A         B                        A       B 
+                   +                                                              + 
+           A             B                          A         B                        A       B    
+ 
+ 
+Ofwel valt dit complex uiteen in A  en B  en bekomen we opnieuw de uitgangstoe-
+2 2
+stand, ofwel worden er twee moleculen AB gevormd. Het verloop van de potentiële 
+energie tijdens dit traject wordt weergegeven in onderstaand energiediagram: 
+ 
+ 
+E geactiveerd complex AABB 
+pot 
+E
+a(naar R) 
+E
+a(naar L) 
+A2  +  B2  (cid:1)H  < 0 
+reactie
+2 AB 
+ Algemene Scheikunde : Hfst. VI  Mechanisme en kinetica van reacties  18
+Het geactiveerde complex AABB is onstabiel en bezit een hoge potentiële energie. 
+De nodige energie om uitgaande van de beginproducten het geactiveerde complex te 
+bereiken wordt geput uit kinetische energie en noemen we de activeringsenergie E  
+a
+voor de reactie gaande van links naar rechts (E ). Alleen effectieve botsingen 
+a(naar R
+leveren de noodzakelijke energie voor de vorming van het transitiecomplex.  
+ 
+We kunnen dit fenomeen eenvoudig vergelijken met het beklimmen van een helling. 
+Een fietser weet dat het nuttig is voor de voet van een beklimming een ‘aanloop’ te 
+nemen. Een karretje zonder motor kunnen we over een helling jagen met een vol-
+doende ‘aanloopsnelheid’. Is de kinetische energie te gering, dan komt het karretje 
+ergens tussen de voet en de top tot stilstand en rolt achteruit opnieuw de helling af. 
+Terug beneden, is de snelheid dezelfde als bij de start (indien er geen wrijving en 
+luchtweerstand zou zijn). 
+ 
+Met dezelfde vergelijking kan heel eenvoudig het verschijnsel van uitwisseling van 
+warmte bij chemische reacties begrepen worden (zie einde hoofdstuk I en verder 
+hoofdstuk VII). Indien het karretje bij de start over voldoende kinetische energie be-
+schikte om over de top te geraken, dan rolt het de andere kant van de helling naar 
+beneden waarbij de kinetische energie weer systematisch toeneemt. In voorgaande 
+figuur is te merken dat het rechtse dal lager gelegen is dan het linkse dal waardoor 
+het karretje met een grotere snelheid in het rechtse dal aankomt dan waarmee het in 
+het linkse dal is vertrokken. Voor een chemische reactie betekent dit dat de reactie-
+producten een hogere kinetische energie verkrijgen dan waarover de beginproducten 
+oorspronkelijk beschikten. Voor bewegende moleculen betekent een hogere kineti-
+sche energie een hogere temperatuur. We hebben in dit geval te maken met een 
+exotherme reactie. In hoofdstuk I hebben we de vrijgemaakte warmte de reactie-
+enthalpie (cid:1)H genoemd. Analoog kunnen we een endotherme reactie voorstellen zo-
+als in volgende figuur. 
+ 
+E geactiveerd complex CCDD 
+pot 
+E
+a(naar R)  E
+a(naar L) 
+C2  +  D2  (cid:1)Hreactie > 0 
+2 CD 
+ 
+Dit principe laat ons ook toe om in te zien dat reacties omkeerbaar zijn en zowel van 
+links naar rechts als van rechts naar links kunnen verlopen (zie verder paragraaf 6). Algemene Scheikunde : Hfst. VI  Mechanisme en kinetica van reacties  19
+4.3.  De vergelijking Arrhenius 
+ 
+In een reactiemengsel zijn er zeer veel moleculen. Niet alle moleculen beschikken op 
+eenzelfde ogenblik over dezelfde kinetische energie. Sommige hebben door opeen-
+volgende elastische botsingen een grote snelheid verkregen, andere zijn door toeval-
+lige botsingen bijna tot stilstand gekomen. De gemiddelde kinetische energie van alle 
+moleculen in een reactiemengsel wordt bepaald door de temperatuur. Zonder een 
+mathematische verklaring te geven voor de vorm van de curve, wordt de verdeling 
+van de kinetische energie over de moleculen weergegeven in volgende figuur. Deze 
+curve beschrijft het aantal deeltjes met een bepaalde kinetische energie. Bij stijgende 
+temperatuur schuift deze curve op naar rechts. 
+ 
+aantal deeltjes met 
+bepaalde E  
+kin.
+T
+1 
+T  < T
+1 2  supplementair aantal 
+deeltjes met voldoende 
+E  bij T
+kin. 2 
+T
+2 
+aantal deeltjes met 
+voldoende E  bij T
+kin. 1 
+E
+a  kinetische energie 
+ 
+ 
+Bij een temperatuur T  beschikt slechts een beperkt aantal moleculen over de nodige 
+1
+kinetische energie om de activeringsenergie te overbruggen. Dit klein aantal kan bij 
+een eerste botsing effectief aanleiding geven tot reactie. De andere moleculen berei-
+ken het geactiveerd complex (de top van de berg) niet. Wanneer ze na verloop van 
+tijd door toevallige elastische botsingen wel de nodige energie verkrijgen, geraken ze 
+in tweede instantie toch over de top. Het kan dus lang duren vooraleer alle moleculen 
+op hun beurt de nodige kinetische energie verzameld hebben om tot reactie te ko-
+men en de reactie verloopt traag. 
+We maken opnieuw de vergelijking met ons karretje. In dit geval dienen een groot 
+aantal karretjes over de berg te worden gejaagd. Voor sommige is de ‘aanloop’ bij de 
+eerste poging al voldoende. De andere rollen achteruit terug de berg af en dienen 
+een tweede, een derde, enz. keer een duw te krijgen totdat ze uiteindelijk allemaal 
+zijn overgebracht. Dat kan veel tijd in beslag nemen. 
+ 
+Bij hogere temperatuur beschikken meer moleculen over de noodzakelijke kinetische 
+energie (zie bovenstaande figuur) waardoor het minder lang duurt om alle moleculen 
+te laten reageren. In paragraaf 4.1 hebben we f gedefinieerd als de fractie van de 
+moleculen met voldoende energie om een effectieve botsing te veroorzaken Algemene Scheikunde : Hfst. VI  Mechanisme en kinetica van reacties  20
+k = p f Z  
+0
+ 
+Intussen weten we dat deze factor f een temperatuursafhankelijkheid bevat en deze 
+afhankelijkheid ook aanwezig is in de snelheidsconstante k. De temperatuursafhan-
+kelijkheid van de snelheidsconstante wordt vervat in de vergelijking van Arrhenius 
+ 
+E
+  lnk = lnA - a     
+RT
+ 
+E
+- a RT
+of  k = Ae  
+ 
+E
+- a RT
+met  f = e      en     A = p.Z   (A is karakteristiek voor het type reactie) 
+0
+ 
+ 
+We gaan niet in op de mathematische verklaring voor deze temperatuursafhankelijk-
+heid maar willen toch opnieuw de aandacht vestigen op een subjectieve verklaring 
+op pagina 9 van hoofdstuk IV. Ook in de huidige situatie zijn er bij stijgende tempera-
+tuur weer meer moleculen met tegelijkertijd een grotere kinetische energie (impact). 
+ 
+ 
+ 
+ln k   
+De activeringsenergie van een reac-
+ln A  tie  kan  bepaald  worden  uit  een 
+reeks experimenten bij verschillende 
+temperaturen. 
+ 
+- E /R 
+a We kunnen E  berekenen wanneer 
+a
+we  de  waarde  van  k  bepalen  bij 
+twee verschillende temperaturen  
+ 
+            
+1/T 
+ 
+         
+               
+E
+- a
+-Ea RT -Ea RT k e RT2
+k = Ae 1      k = Ae 2       2 =
+1 2 k -Ea
+1 e RT1
+     
+ 
+k E (cid:6)T -T (cid:3)
+                 ln 2 = a (cid:4)(cid:4) 2 1(cid:1)(cid:1) 
+k R (cid:5) T T (cid:2)
+1 1 2
+ 
+ 
+Eveneens kan ook de waarde van k bij een willekeurige temperatuur T  berekend 
+2
+worden uit de k-waarde bij een temperatuur T  en de activeringsenergie. 
+1
+ Algemene Scheikunde : Hfst. VI  Mechanisme en kinetica van reacties  21
+5.  Werkingsprincipe van een katalysator 
+ 
+Sommige reacties verlopen bij normale temperatuur in die mate traag dat geen meet-
+bare omzetting kan worden vastgesteld. Dat is het geval voor de reactie tussen zuur-
+stofgas en waterstofgas. 
+ 
+  2 H     +    O      2 H O 
+2 2 2
+ 
+Nochtans is dit een sterk exotherme reactie en uit wat voorafging, weten we dat om-
+zettingen waarbij warmte wordt vrijgemaakt en waarbij stabielere verbindingen wor-
+den gevormd, gunstig processen zijn. In het volgende hoofdstuk zullen we nog een 
+andere parameter bespreken die mee bepalend is voor het al dan niet gunstig verlo-
+pen van chemische reacties. 
+De reden waarom bovenstaande reactie bij kamertemperatuur niet merkbaar door-
+gaat, is te wijten aan de zeer hoge activeringsenergie van de reactie. Nagenoeg alle 
+moleculen beschikken niet over de nodige energie om de activeringsenergie te over-
+bruggen. Zelfs na een zeer lange tijd is in het reactiemengsel geen noemenswaardi-
+ge verandering opgetreden.  
+Een plaatselijke temperatuursverhoging (een vonk) is voldoende om het mengsel te 
+laten exploderen. In de onmiddellijke omgeving van de vonk verkrijgen de moleculen 
+plots wel de noodzakelijke kinetische energie om over de energieberg te klimmen. De 
+omzetting van een zeer beperkt aantal moleculen stelt voldoende warmte vrij om de 
+omgevende deeltjes binnen een zeer korte tijd op te warmen en ook de nodige kine-
+tische energie te leveren. Deze kettingreactie is niet beheersbaar en bovendien kan 
+de warmte onvoldoende snel worden afgevoerd en zal een gedeelte van de reactie-
+energie zich vrijmaken onder de vorm van druk-volume-arbeid (zie hoofdstuk II). 
+We mogen ons gelukkig wanen dat de natuur voorzien heeft in het principe van de 
+activeringsberg want anders zou binnen de kortste keren al onze omringende zuur-
+stof zijn weg gereageerd met allerhande materialen. Nochtans bestaat er een moge-
+lijkheid om reacties die bij normale temperatuur kinetisch niet kunnen doorgaan, toch 
+voldoende te versnellen waardoor er vooralsnog omzetting optreedt. Dit verschijnsel 
+noemen we katalyse en de chemische stof ervoor verantwoordelijk een katalysator. 
+ 
+Het werkingsprincipe van een katalysator bestaat erin de activeringsenergie te verla-
+gen. De mensen die het te lastig vonden om de Mont Blanc te beklimmen om van 
+Frankrijk naar Italië te reizen, hebben hun probleem opgelost door een tunnel te bo-
+ren doorheen de berg. Een katalysator werkt analoog. In plaats dat de reagerende 
+moleculen een grote kinetische energie dienen te verzamelen voor een effectieve 
+botsing (niet bereikbaar bij lage temperatuur) grijpt een katalysator de moleculen 
+kortstondig vast in een relatief stabiele complexe verbinding. Hierdoor komen de mo-
+leculen in een meer comfortabele toestand voldoende dicht bij elkaar zodat ze kun-
+nen reageren waarna de katalysator de reactieproducten opnieuw loslaat. Vervol-
+gens kan een nieuwe generatie beginproducten worden gegrepen, omgezet en op-
+nieuw losgelaten worden. Als dusdanig neemt een katalysator effectief deel aan de 
+reactie maar wordt nadien onveranderd terug gevonden. 
+Hoewel bij biochemische reacties enzymen een belangrijke katalytische rol vervullen, 
+is een katalysator veelal een metaal of een verbinding ervan uit de reeksen van de 
+overgangselementen en bezit hij aldus d-orbitalen en voor zwaardere elementen ook 
+f-orbitalen. In hoofdstuk IV zijn we niet ingegaan op de bindingsmogelijkheden van 
+deze elementen maar heel eenvoudig kunnen we de werking als volgt voorstellen. Algemene Scheikunde : Hfst. VI  Mechanisme en kinetica van reacties  22
+A  B 
+A  B  A  B  A  B 
+K  K 
+K 
+A  B  A  B  A  B  A  B 
+K   
+geactiveerd complex AABB 
+E E
+a(naar R)  a(naar L) 
+E’ AAKBB  E’
+a(naar R)  a(naar L) 
+A2  +  B2  (cid:1)H  < 0 
+reactie
+2 AB 
+ 
+ 
+Gezien  een  kleinere activeringsenergie  E’   dient  te  worden  overwonnen,  kunnen 
+a
+meer moleculen tot reactie komen en neemt hierdoor de reactiesnelheid toe. 
+ 
+ 
+aantal deeltjes met 
+bepaalde E  
+kin.
+bijkomend aantal deeltjes 
+met voldoende E  bij T  
+kin. 1
+met katalysator 
+T
+1 
+aantal deeltjes met 
+voldoende E  bij T  
+kin. 1
+zonder katalysator 
+E’a  Ea  kinetische energie 
+ Algemene Scheikunde : Hfst. VI  Mechanisme en kinetica van reacties  23
+6.  Omkeerbaarheid van reacties 
+ 
+Het principe van het geactiveerde complex doet inzien dat reacties niet enkel van 
+links naar rechts kunnen doorgaan (zoals tot hiertoe werd aangenomen) maar ook in 
+de andere richting. Veel hangt echter af van de grootte van de activeringsenergieën 
+voor beide richtingen. In onderstaande figuur zijn drie situaties voorgesteld voor drie 
+verschillende reacties. 
+ 
+E E
+a(R)  a(L) 
+Ea(R)  Ea(L) 
+E
+E a(R) 
+a(L) 
+situatie 1 
+situatie 2  situatie 3 
+(cid:1)H <<< 0  (cid:1)H >>> 0 
+sterk exotherm  sterk endotherm 
+ 
+ 
+In situatie 1 is E  relatief klein t.o.v. E . De moleculen links in de reactie-
+a(naar R) a(naar L)
+vergelijking (beginproducten tot hiertoe genoemd) hoeven geen hoge berg te bestij-
+gen en geraken vrij gemakkelijk over de top. Bij een bepaalde temperatuur zal een 
+relatief grote fractie van deze moleculen over de nodige kinetische energie beschik-
+ken en de reactie van L naar R zal snel doorgaan. In de andere richting kan de om-
+zetting maar moeizaam verlopen gezien bij dezelfde temperatuur slechts een heel 
+kleine fractie van de reactieproducten (tot hiertoe zo genoemd maar vanaf nu beter 
+te benoemen als de producten rechts in de reactievergelijking) haar activeringsener-
+gie kan overwinnen. Hierdoor zal de reactie van R naar L slechts traag doorgaan. Het 
+resultaat hiervan is dat er zich in het reactiemengsel hoofdzakelijk ‘producten R’ be-
+vinden en slechts weinig ‘producten L’ 
+In situatie 3 doet zich precies het tegengestelde voor. In situatie 2 kunnen de ‘mole-
+culen L’ en de ‘moleculen R’ met vergelijkbare moeite (of gemak) over de berg. De 
+activeringsenergieën voor beide richtingen zijn ongeveer dezelfde en de reactiesnel-
+heid in beide richtingen is ongeveer even groot. Het resultaat ervan is dat er nage-
+noeg gelijke hoeveelheden ‘producten L’ en ‘producten R’ aanwezig zijn in het reac-
+tiemengsel. Anders uitgedrukt, betekent dit dat de reactie niet meer aflopend zal 
+doorgaan in een of andere richting en dat we zoals in situatie 1 de beginproducten 
+(L) niet meer volledig kunnen omzetten in reactieproducten (R).  
+Dit geeft aanleiding tot het zeer belangrijk principe van chemisch evenwicht dat we 
+in volgend hoofdstuk uitvoerig zullen toelichten.
+ 

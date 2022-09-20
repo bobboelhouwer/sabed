@@ -1,0 +1,161 @@
+30/10/2019
+
+Aanvullingen
+
+Signalen
+• Temperatuur, hoogte van een tennisbal,
+elektrische stroomsterkte, versnelling, ...
+– Continue tijdsignalen: T(t), h(t), i(t), a(t), ...
+
+• Sommige signalen zijn intrinsiek slechts
+gedefinieerd op discrete tijdstippen:
+– Middagtemeratuur, aantal uren zonneschijn in een
+dag, slotkoers van de beurs
+
+• Wij gaan werken met discrete signalen omdat
+we ze willen verwerken d.m.v. een computer
+
+1
+
+ 30/10/2019
+
+Bemonsteren
+
+Continu signaal
+Discrete-tijd signaal
+• Enkelzijdig discrete-tijd signaal
+» → R: k → x[k]
+• x[k] ∈ S
+
+Verschuiving in de tijd
+c[k]
+a[k]
+
+b[k]
+
+• a[k] = k3 - 9k2 + 23k - 15 = (k - 1)(k - 3)(k - 5)
+k≥0
+• b[k] = k3 - 12k2 + 44k - 48 = (k - 2)(k - 4)(k - 6) = a[k-1] k ≥ 1
+b[k] is a[k], maar 1 stap naar rechts verschoven
+b[k] is a[k], maar 1 stap vertraagd
+
+• c[k] = k3 - 3k2 - k + 3 = (k + 1)(k - 1)(k - 3) = a[k+2]
+
+k ≥ -2
+
+c[k] is a[k], maar 2 stappen naar links verschoven
+a[k] is c[k], maar 2 stappen vertraagd
+
+2
+
+ 30/10/2019
+
+Systemen
+• Systeem = wiskundige beschrijving van een fysisch proces
+dat ingangssignalen u[k] ∈ Sm omzet in uitgangssignalen
+y[k] ∈ Sl.
+• y[k] = T(u[k])
+u[k]
+
+y[k] = T[k] – t0
+
+• SISO: m=l=1
+• Lineair systeem:
+T(a u[k] + b v[k]) = a T(u[k]) + b T(v[k])
+• Tijdsinvariant systeem y[k-j] = T(u[k-j]) ∀ j ∈»
+• DTLTI = discrete tijd lineair tijdsinvariant
+
+k
+
+Bouwblokken
+• Schaalelement: y[k] = a u[k] ; a ∈ R
+
+u[k]
+
+• Sommator: y[k] = u1[k] + u2[k]
+
+u1[k]
+
+u1[k]
+u2[k]
+
+y[k]=u1[k]-u2[k]
+
++
+
+a
++
+
+y[k]
+
+y[k]
+
+u2[k]
+
+-
+
+• Geheugenelement y[k] = u[k-1] of y[k+1] = u[k]
+u[k]
+
+D
+
+y[k]
+
+y[k] is u[k] maar 1 stap vertraagd
+
+3
+
+ 30/10/2019
+
+Voorbeeld
+x2[k]
+
+x2[k+1]
+
+x1[k]
+
+x1[k+1]
+
+x3[k]
+x3[k+1]
+
+Voorbeeld (2)
+‫ݔ‬ଵ [݇]
+‫ݔ = ݇ ܠ‬ଶ [݇]
+‫ݔ‬ଷ [݇]
+
+• x[k+1] = A x[k] + B u[k]
+y[k] = C x[k] + D u[k]
+
+4
+
+ 30/10/2019
+
+Definities
+• x[k+1] = A x[k] + B u[k]
+y[k] = C x[k] + D u[k]
+= een toestandsbeschrijving
+‫ݔ‬ଵ [݇]
+‫ݑ‬ଵ [݇]
+‫ݕ‬ଵ [݇]
+n
+m
+⋮
+• x[k]= ⋮
+∈ R , u[k]=
+∈ R , y[k]= ⋮
+∈ Rl
+‫ݔ‬௡ [݇]
+‫ݑ‬௠ [݇]
+‫ݕ‬௟ [݇]
+• Aantal toestandsveranderlijken = aantal
+geheugenelementen = n = orde van het systeem
+A is een nxn reële matrix
+
+• Single-input-single-output (SISO):
+x[k+1] = A x[k] + b u[k]
+y[k] = c x[k] + d u[k]
+
+5
+
+ 

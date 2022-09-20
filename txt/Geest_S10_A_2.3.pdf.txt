@@ -1,0 +1,162 @@
+Overzicht
+Inleiding
+Hetwerkwoordelijkgezegde
+Hetsubjectofonderwerp
+Hetdirectobjectoflijdendvoorwerp
+Hetindirectobjectofmeewerkendvoorwerp
+Hetprepositioneelobjectofvoorzetselvoorwerp
+Hetvoorwerpvanplaats/richting/maat/wijze/duur
+Debijwoordelijkebepaling
+Debijvoeglijkebepaling
+Deinternebijwoordelijkebepaling
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Debijwoordelijkebepaling
+▶ (cid:275)(cid:270)(cid:266)(cid:281)-(cid:266)(cid:280)(cid:280)(cid:266)(cid:275)(cid:281)(cid:270)(cid:311)(cid:273)(cid:266)(cid:287)(cid:270)(cid:275)(cid:280)(cid:265)(cid:266)(cid:273)(cid:266)(cid:275)
+(cid:263)(cid:270)(cid:271)(cid:284)(cid:276)(cid:276)(cid:279)(cid:265)(cid:266)(cid:273)(cid:270)(cid:271)(cid:272)(cid:266)(cid:263)(cid:266)(cid:277)(cid:262)(cid:273)(cid:270)(cid:275)(cid:268)
+(cid:277)(cid:273)(cid:262)(cid:262)(cid:281)(cid:280) 71
+(cid:279)(cid:270)(cid:264)(cid:269)(cid:281)(cid:270)(cid:275)(cid:268) 72
+(cid:274)(cid:262)(cid:262)(cid:281) 73
+(cid:284)(cid:270)(cid:271)(cid:287)(cid:266) 74
+(cid:265)(cid:282)(cid:282)(cid:279) 75
+(cid:279)(cid:266)(cid:280)(cid:281)(cid:264)(cid:262)(cid:281)(cid:266)(cid:268)(cid:276)(cid:279)(cid:270)(cid:266) 70
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .(70) a. Noraheeftdesomsnel/foutloos/keurigopgelost.
+b. *Noraheeftdesomopgelostsnel/foutloos/keurig.
+(71) a. Hijheeftmegisteren/waarschijnlijkuitgenodigd.
+b. Hijheeftmeuitgenodigdgisteren/waarschijnlijk.
+(72) Morgen,dangaathijhetuitleggen.
+75 75+
+Debijwoordelijkebepaling
+(cid:263)(cid:270)(cid:271)(cid:284)(cid:276)(cid:276)(cid:279)(cid:265)(cid:266)(cid:273)(cid:270)(cid:271)(cid:272)(cid:266)(cid:263)(cid:266)(cid:277)(cid:262)(cid:273)(cid:270)(cid:275)(cid:268)
+code 70,71,72,73,74,75
+constituent AdvP,PP,AP,NP
+valentie nietinvalentie(omstandigheid)
+vervangbaarheid TypeII-,TypeIII-enTypeIV-paradigmata
+verplaatsbaarheid AL,VV,*MV1,MV2,MV3,(*)AV,UL
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .(72) Morgen,dangaathijhetuitleggen.
+75 75+
+Debijwoordelijkebepaling
+(cid:263)(cid:270)(cid:271)(cid:284)(cid:276)(cid:276)(cid:279)(cid:265)(cid:266)(cid:273)(cid:270)(cid:271)(cid:272)(cid:266)(cid:263)(cid:266)(cid:277)(cid:262)(cid:273)(cid:270)(cid:275)(cid:268)
+code 70,71,72,73,74,75
+constituent AdvP,PP,AP,NP
+valentie nietinvalentie(omstandigheid)
+vervangbaarheid TypeII-,TypeIII-enTypeIV-paradigmata
+verplaatsbaarheid AL,VV,*MV1,MV2,MV3,(*)AV,UL
+(70) a. Noraheeftdesomsnel/foutloos/keurigopgelost.
+b. *Noraheeftdesomopgelostsnel/foutloos/keurig.
+(71) a. Hijheeftmegisteren/waarschijnlijkuitgenodigd.
+b. Hijheeftmeuitgenodigdgisteren/waarschijnlijk.
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Debijwoordelijkebepaling
+(cid:263)(cid:270)(cid:271)(cid:284)(cid:276)(cid:276)(cid:279)(cid:265)(cid:266)(cid:273)(cid:270)(cid:271)(cid:272)(cid:266)(cid:263)(cid:266)(cid:277)(cid:262)(cid:273)(cid:270)(cid:275)(cid:268)
+code 70,71,72,73,74,75
+constituent AdvP,PP,AP,NP
+valentie nietinvalentie(omstandigheid)
+vervangbaarheid TypeII-,TypeIII-enTypeIV-paradigmata
+verplaatsbaarheid AL,VV,*MV1,MV2,MV3,(*)AV,UL
+(70) a. Noraheeftdesomsnel/foutloos/keurigopgelost.
+b. *Noraheeftdesomopgelostsnel/foutloos/keurig.
+(71) a. Hijheeftmegisteren/waarschijnlijkuitgenodigd.
+b. Hijheeftmeuitgenodigdgisteren/waarschijnlijk.
+(72) Morgen,dangaathijhetuitleggen.
+75 75+
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Debijwoordelijkebepaling
+(cid:281)(cid:270)(cid:271)(cid:265) [Morgenvroeg]70wordthetmistig.
+(cid:267)(cid:279)(cid:266)(cid:278)(cid:282)(cid:266)(cid:275)(cid:281)(cid:270)(cid:266) Ikhebhem[alvierkeer]70uitgelegdhoehetmoet.
+(cid:268)(cid:279)(cid:262)(cid:262)(cid:265) Datheeftons[inhogemate]70verbaasd.
+(cid:269)(cid:276)(cid:266)(cid:283)(cid:266)(cid:266)(cid:273)(cid:269)(cid:266)(cid:270)(cid:265) Hetregentdelaatstetijd[veelteweinig]70
+(cid:277)(cid:262)(cid:265) Zeishemgevolgd[naarAmerika]70
+(cid:276)(cid:276)(cid:279)(cid:287)(cid:262)(cid:262)(cid:272)/(cid:279)(cid:266)(cid:265)(cid:266)(cid:275) [Wegensdezwarestorm]70kondeferrynietuitvaren.
+(cid:265)(cid:276)(cid:266)(cid:273) Zijlaseenverklaringvoor[terverantwoordingvanhaarbeslissing]70.
+(cid:283)(cid:266)(cid:279)(cid:268)(cid:266)(cid:273)(cid:270)(cid:271)(cid:272)(cid:270)(cid:275)(cid:268) Zijheefthaarzaak[alseenechtexpert]70verdedigd.
+(cid:274)(cid:270)(cid:265)(cid:265)(cid:266)(cid:273) Hijheeftdekluis[met(behulpvan)eenkoevoet]70geopend.
+(cid:274)(cid:276)(cid:265)(cid:262)(cid:273)(cid:270)(cid:281)(cid:266)(cid:270)(cid:281) Zehebben[waarschijnlijk/gelukkig/wel/niet/geenszins]70gelachen.
+(cid:266)(cid:283)(cid:270)(cid:265)(cid:266)(cid:275)(cid:281)(cid:270)(cid:262)(cid:273)(cid:270)(cid:281)(cid:266)(cid:270)(cid:281) [Volgensdeoppositie/Naarverluidt]70isdepresidentgevlucht.
+(cid:268)(cid:266)(cid:283)(cid:276)(cid:273)(cid:268) Hetgingsneeuwen[metellenlangeﬁlesals/totgevolg]70
+(cid:263)(cid:266)(cid:277)(cid:266)(cid:279)(cid:272)(cid:270)(cid:275)(cid:268) [Wathettaalgebruikbetreft]70valtdetekstwattegen.
+(cid:283)(cid:266)(cid:279)(cid:269)(cid:276)(cid:282)(cid:265)(cid:270)(cid:275)(cid:268) Iedereendroegbij[naargodsvruchtenvermogen]70
+(cid:283)(cid:276)(cid:276)(cid:279)(cid:284)(cid:262)(cid:262)(cid:279)(cid:265)(cid:266) [Mitsdenodigeinspanningen]70zuljejedoelwelbereiken.
+(cid:281)(cid:276)(cid:266)(cid:268)(cid:266)(cid:283)(cid:270)(cid:275)(cid:268) [Ondanks/niettegenstaandedepech]70bereiktenweonsdoel.
+(cid:269)(cid:262)(cid:275)(cid:265)(cid:266)(cid:273)(cid:266)(cid:275)(cid:265)(cid:266)(cid:277)(cid:266)(cid:279)(cid:280)(cid:276)(cid:276)(cid:275) Hetboekwerd[doorallekinderen]70gelezen.
+(cid:266)(cid:281)(cid:269)(cid:270)(cid:280)(cid:264)(cid:269)(cid:266)(cid:265)(cid:262)(cid:281)(cid:270)(cid:266)(cid:267) Datwas[je/me]70daareendrukte!
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Overzicht
+Inleiding
+Hetwerkwoordelijkgezegde
+Hetsubjectofonderwerp
+Hetdirectobjectoflijdendvoorwerp
+Hetindirectobjectofmeewerkendvoorwerp
+Hetprepositioneelobjectofvoorzetselvoorwerp
+Hetvoorwerpvanplaats/richting/maat/wijze/duur
+Debijwoordelijkebepaling
+Debijvoeglijkebepaling
+Deinternebijwoordelijkebepaling
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Debijvoeglijkebepaling
+▶ (cid:287)(cid:270)(cid:275)(cid:280)(cid:265)(cid:266)(cid:266)(cid:273)(cid:280)(cid:281)(cid:282)(cid:272)(cid:272)(cid:266)(cid:275)
+(73) bijvoeglijkebepaling 90
+internebijwoordelijkebepaling 91
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .(74) IkzagdemooietekeningvanHelena.
+Debijvoeglijkebepaling
+(cid:263)(cid:270)(cid:271)(cid:283)(cid:276)(cid:266)(cid:268)(cid:273)(cid:270)(cid:271)(cid:272)(cid:266)(cid:263)(cid:266)(cid:277)(cid:262)(cid:273)(cid:270)(cid:275)(cid:268)
+code 90
+constituent AP,PP
+valentie nietinvalentie(zinsdeelstuk)
+vervangbaarheid AP:niet-vervangbaar
+PP:TypeIV-paradigmata
+verplaatsbaarheid AP:niet-verplaatsbaar
+PP:AL,VV,*MV1,MV2,MV3,AV,UL
+extra nooitopN1
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Debijvoeglijkebepaling
+(cid:263)(cid:270)(cid:271)(cid:283)(cid:276)(cid:266)(cid:268)(cid:273)(cid:270)(cid:271)(cid:272)(cid:266)(cid:263)(cid:266)(cid:277)(cid:262)(cid:273)(cid:270)(cid:275)(cid:268)
+code 90
+constituent AP,PP
+valentie nietinvalentie(zinsdeelstuk)
+vervangbaarheid AP:niet-vervangbaar
+PP:TypeIV-paradigmata
+verplaatsbaarheid AP:niet-verplaatsbaar
+PP:AL,VV,*MV1,MV2,MV3,AV,UL
+extra nooitopN1
+(74) IkzagdemooietekeningvanHelena.
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Overzicht
+Inleiding
+Hetwerkwoordelijkgezegde
+Hetsubjectofonderwerp
+Hetdirectobjectoflijdendvoorwerp
+Hetindirectobjectofmeewerkendvoorwerp
+Hetprepositioneelobjectofvoorzetselvoorwerp
+Hetvoorwerpvanplaats/richting/maat/wijze/duur
+Debijwoordelijkebepaling
+Debijvoeglijkebepaling
+Deinternebijwoordelijkebepaling
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .(75) JuliawerktveelharderdanHugo.
+Deinternebijwoordelijkebepaling
+(cid:270)(cid:275)(cid:281)(cid:266)(cid:279)(cid:275)(cid:266)(cid:263)(cid:270)(cid:271)(cid:284)(cid:276)(cid:276)(cid:279)(cid:265)(cid:266)(cid:273)(cid:270)(cid:271)(cid:272)(cid:266)
+(cid:263)(cid:266)(cid:277)(cid:262)(cid:273)(cid:270)(cid:275)(cid:268)
+code 91
+constituent AP,AdvP,PP
+valentie nietinvalentie(zinsdeelstuk)
+vervangbaarheid TypeIII-paradigmata
+verplaatsbaarheid AP/AdvP:niet-verplaatsbaar
+PP:*AL,*VV,*MV1,*MV2,*MV3,AV,*UL
+extra nooitopN1
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Deinternebijwoordelijkebepaling
+(cid:270)(cid:275)(cid:281)(cid:266)(cid:279)(cid:275)(cid:266)(cid:263)(cid:270)(cid:271)(cid:284)(cid:276)(cid:276)(cid:279)(cid:265)(cid:266)(cid:273)(cid:270)(cid:271)(cid:272)(cid:266)
+(cid:263)(cid:266)(cid:277)(cid:262)(cid:273)(cid:270)(cid:275)(cid:268)
+code 91
+constituent AP,AdvP,PP
+valentie nietinvalentie(zinsdeelstuk)
+vervangbaarheid TypeIII-paradigmata
+verplaatsbaarheid AP/AdvP:niet-verplaatsbaar
+PP:*AL,*VV,*MV1,*MV2,*MV3,AV,*UL
+extra nooitopN1
+(75) JuliawerktveelharderdanHugo.
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .

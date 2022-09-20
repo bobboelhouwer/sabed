@@ -1,0 +1,233 @@
+30/10/2019
+
+Lay 6.7 + aanvullingen H3
+
+Inleiding
+• u, v ∈ Rn : u.v = uTv = u1v1 + u2v2 + ... + unvn
+• Veralgemening naar vectorruimte V
+– Vb. P4
+
+• Als we een inwendig product hebben, kunnen
+we “orthogonaliteit” veralgemenen
+– Projecties veralgemenen
+– Gram-Schmidt veralgemenen
+– ...
+
+1
+
+ 30/10/2019
+
+Inwendig product
+• Een inwendig product, gedefiniëerd op een
+vectorruimte V, is een functie die een paar vectoren u
+en v afbeeldt op reëel getal u.v zodat:
+o u.v = v.u
+o (u + v).w = u.w + v.w
+o (cu).v = c (u.v) met c ∈ R
+o u.u ≥ 0 en u.u = 0 ⇔ u=0
+
+• Oefening: check dat u.v in Rn deze 4 eigenschappen
+heeft
+• Oefening: toon aan dat in P4
+u.v = u(t0)v(t0) + ... +u(t4)v(t4) een inwendig product is
+(ti verschillend)
+
+Lengte en orthogonaliteit
+• Length van v ∈ V:   =  .  
+– Eenheidslengte   = 1
+– Afstand tussen u en v :   −  
+
+• u, v ∈ V zijn orthogonaal ⇔ u.v = 0
+
+2
+
+ 30/10/2019
+
+Orthogonale projectie op een
+deelruimte W
+∀ y ∈ V: y =   +z (uniek) met    ∈ W, z ∈ W⊥
+Als {u1, ... , up} een orthogonale basis van W is:
+y.u
+y .u
+   = u .u  u  + ⋯ + u .u u =ProjW(y)
+   
+Bewijs
+   ∈ W is triviaal
+y .u
+i = 1 ... p: z.ui = (y-  ).ui = y.ui -   .ui = y.ui (u .u )= 0
+u
+.u    
+⊥
+⇒z∈W
+Uniek ?
+y =   +z =   1+z1 met   1 ∈ W, z1 ∈ W⊥
+v =   -  1= z1–z ligt in W en W⊥ ⇒v.v=0 ⇒ v=0 ⇒ uniek
+
+Gram-Schmidt
+• Zelfde aanpak als in Rn
+• Voorbeeld: V = P4 met
+u . v = u(t0)v(t0) + ... +u(t4)v(t4)
+t0=-2, t1=-1, t2=0, t3=1, t4=2
+• u1 = 1, u2 = t, u3 = t2 spannen P2 op, maar zijn niet
+orthogonaal
+• GS:
+o p1 = u1 = 1
+o p2 = u2 = t, want u1.u2 =0
+  . 
+  . 
+o p3 =    −    .    p1 −    .      
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+=     −  1 −      =     − 2
+⇒ 1, t en t2-2 zijn wel orthogonaal voor dit inwendig product
+
+3
+
+ 30/10/2019
+
+Pythagoras
+• u, v ∈ V zijn orthogonaal :
+ u + v 2 = (u+v).(u+v) = u.u + 2 u.v + v.v
+=  u 2 +  v 2
+• Gevolg 1: ∀ y ∈ V: y =   +z met    ∈ W, z ∈ W⊥
+y.u
+y.u
+met    = ProjW(y) (= u u  u  + ⋯ + u . u u )
+  .  
+
+Dus  y 2 =  ProjW(y) + z  2 ≥   ProjW(y)  2
+•
+
+Gevolg 2:    is het punt in W dat het dichtst bij y ligt
+
+Orthogonale projectie: voorbeeld
+• Voorbeeld: V = P4 met
+u . v = u(t0)v(t0) + ... +u(t4)v(t4)
+t0=-2, t1=-1, t2=0, t3=1, t4=2
+ 
+ 
+
+• Welke polynoom in P2 ligt dichtst bij v = 5 −   ?
+o Orthogonale basis voor W = P2 : p1 = 1, p2 = t, p3 = t2-2
+v . p 
+v.p
+v.p
+o    =
+p  + p . p" p" + p . p  p 
+p  . p 
+ 
+ 
+#
+#
+8
+0
+−31  
+−31   99
+= 1+
+ +
+  −2 =
+  −
+5
+10
+14
+14
+35
+
+4
+
+ 30/10/2019
+
+Cauchy – Schwarz - ongelijkheid
+• |u.v| ≤ u  v  ∀ u, v ∈ V
+• Bewijs:
+o u = 0 triviaal
+o u ≠ 0. Projecteer v op W = Span{u}
+proj, ( ) =
+
+  . 
+ 
+  . 
+
+-./0, ( ) =
+
+|  .  |
+|  .  |
+  =
+  "
+ 
+
+Aangezien -./0, ( ) ≤   is |u . v| ≤  u  v 
+
+Driehoeksongelijkheid
+•  u + v  ≤  u  +  v  ∀ u, v ∈ V
+• Bewijs:
+ u + v 2 = (u+v) . (u+v) = (u.u)+ 2 (u.v) + (v.v)
+≤  u 2 + 2|u.v| +  v 2
+≤  u 2 + 2  u   v  +  v 2
+= ( u  +  v  )2
+
+5
+
+ 30/10/2019
+
+Toepassing: discretecosinustransformatie
+
+Discrete signalen over een beperkt
+tijdsinterval
+• f[k] geëvalueerd op m punten (vb. k = 0 ... m-1)
+• Vectorruimte van dergelijke signalen = Sm
+• Inwendig product
+f[k] •g[k] = ∑45 
+67  f[k]g[k]
+• Volgende 6 signalen vormen een orthonormale
+basis in S6 :
+ 
+voor k = 0 ... 5
+:
+ 
+;π( 6? )
+= < cos
+voor n = 1 ... 5 ; k = 0 ... 5
+  
+
+o 8  9 =
+o 8; 9
+
+6
+
+ 30/10/2019
+
+Discrete-cosinustransformatie
+• Elk signaal g kan exact geschreven worden als
+@ 9 = A  8  9 + … + A 8 9
+met c0 ... c5 de coördinaten van g in de
+gekozen basis,
+c0 ... c5 = de discrete-cosinustransformatie van g
+• Aangezien 8  9 ... 8 9 (p < 5) een orthonormale basis
+vormen is het makkelijk om de dichtste benadering van
+g[k] te zoeken in de deelruimte opgespannen door 8  9 ...
+8 9 :
+@ 9 ≈ A  8  9 + … + A 8 9
+m.a.w. som afbreken of cp+1 ... c5 niet bereken/opslaan
+
+Voorbeeld in S200
+Projecteren = som afbreken
+Gebruikt in:
+• Audiocompressie: MP3
+• Beeldcompressie: JPEG
+10 termen
+20 termen
+
+7
+
+ 

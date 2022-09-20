@@ -1,0 +1,131 @@
+Mendeliaanse genetica
+
+Het begrip erfelijkheid
+Kinderen lijken op ouders:
+	‘blending theorie’
+Huwelijken tussen verwanten leiden tot afwijkingen bij kinderen
+
+Mendels modelorganisme
+Pisum sativum, de erwt
+talrijke rassen met verschillende kenmerken
+eenvoudig te kweken en groeien snel
+zelfbevruchting en kruisbevruchting
+Mendel’s experimentele opzet
+Starten vanuit ‘zuivere lijnen’ 
+Kruisingen tussen zuivere lijnen
+Nakomelingen van kruisingen worden aan zelfbevruchting onderworpen
+Verhoudingen bij nakomelingen worden bestudeerd
+
+Monohybride kruisingen
+kruisingen waarin één enkel kenmerk bekeken wordt
+P of parentale generatie
+F1 of eerste filiale generatie
+slechts één van de twee kenmerken van de ouders komt tot uiting
+dominant kenmerk versus recessief kenmerk
+Monohybride kruisingen
+F2 generatie
+twee kenmerken komen tot uiting
+3/4 heeft het dominante kenmerk, 1/4 heeft het recessieve kenmerk
+
+Monohybride kruisingen
+F3 generatie
+F2 nakomelingen met recessieve kenmerk zijn zuivere lijn
+van de F2 nakomelingen met dominante kenmerk zijn 1/3 zuivere lijn terwijl 2/3
+geven verhouding 3/4 dominant versus 1/4 recessief
+
+Monohybride kruisingen
+Monohybride kruisingen: conclusies
+eigenschappen worden overgeërfd als discrete kenmerken (er vindt geen ‘menging’ van kenmerken plaats)
+kenmerken kunnen verdwijnen in een generatie en in de volgende generatie terug tevoorschijn komen (ze blijven latent of verborgen aanwezig)
+deze twee kenmerken duiken in de F2 generatie steeds op in een vaste verhouding van 1/4 – 3/4
+
+Monohybride kruisingen: model
+Genen = informatie om een kenmerk te produceren, 
+Genen bestaan in verschillende allelen (P dominant of p recessief)
+Elk individu heeft van elk gen twee allelen
+PP	genotype ‘homozygoot voor dominante allel’, fenotype dominant
+Pp	genotype ‘heterozygoot’, fenotype dominant
+pp	genotype ‘homozygoot voor recessieve allel’, fenotype recessief
+De allelen worden willekeurig verdeeld over de gameten
+Elke nakomeling ontvangt willekeurig één van beide allelen van elke ouders
+Monohybride kruisingen: model
+Punnet vierkant
+Monohybride kruisingen: meiose/syngamie
+Meiose: twee allelen worden gescheiden en willekeurig verdeeld over gameten
+Syngamie: twee allelen van twee gameten worden samengebracht in de zygote
+Testkruising
+genotype versus fenotype
+dominant fenotype: genotype PP of Pp ?
+een testkruising bepaalt verhouding genotypes bij gameten
+Recessieve versus dominante mutaties
+Recessieve mutaties 
+haplosufficiëntie
+één functionerende kopie van gen volstaat om normaal fentype te geven
+fenotype AA = fenotype Aa
+Dominante mutaties 
+haploinsufficiëntie
+twee functionerende kopieën van het gen zijn nodig om normaal fenotype te geven
+fenotype AA = fenotype Aa
+Recessieve mutaties
+Albinisme
+Mucovisidose of taaislijmziekte
+Sikkelcelanemie
+Recessieve mutaties
+Albinisme
+Mucovisidose of taaislijmziekte
+Sikkelcelanemie
+Recessieve mutaties
+Wanneer ouders drager zijn van recessieve mutatie is er ¼ kans dat mutatie bij kinderen tot uiting komt
+Recessieve mutaties
+Kenmerk duikt op bij kinderen waarvan ouders kenmerk niet hebben
+Ongeveer één op vier kinderen heeft afwijking
+Recessieve mutaties
+Afwijking komt vaak voor bij huwelijk tussen verwanten
+Heterosis of ‘hybrid vigour’: kruisingen zijn vaak sterker dan zuivere rassen (vb. straathond leeft langer dan rashond, maïsteelt wordt gewerkt met hybriden)
+Dominante mutaties
+Polydactylie
+Campylodactylie
+Ziekte van Huntington
+
+Dominante mutaties
+Wanneer een ouder het kenmerk heeft is er ½ kans dat ook kind het kenmerk zal bezitten
+Dominante mutaties
+Kenmerk keert in elke generatie terug
+Polymorfismen
+Zowel dominante/recessieve allel komen veel voor in populatie
+Oogkleur
+Haarkleur
+Smaken (vb. fenylthiocarbamide)
+Polymorfismen
+Genetica van ‘smaak’
+Proteïnen die ‘smaak’-moleculen kunnen detecteren
+Dominant overgeërfd
+17% vind smaak van koriander ‘zeepachtig’
+Hebben OR6A2 gen voor specifieke receptor voor poly-onverzadigde aldehyden
+Dihybride kruisingen
+kruisingen waarin twee kenmerken bekeken worden
+F1 generatie
+Voor beide kenmerken dominante fenotype
+Dihybride kruisingen
+F2 generatie:  verhouding 9:3:3:1
+9: parentale combinatie
+3: recombinant
+3: recombinant
+1: parentale combinatie
+
+parentale combinatie: combinatie van kenmerken uit P generatie
+recombinant: combinatie van kenmerken die bij P generatie niet voorkwam
+Dihybride kruisingen
+In een dihybride kruising worden de allelen van elk gen onafhankelijk doorgegeven aan de nakomelingen
+
+Kan verklaard worden doordat genen gelegen zijn op verschillende chromosomen en chromosomen wordt onafhankelijk van elkaar verdeeld over de gameten tijdens de meiose.
+Toepassing van genetica in landbouw
+Recombinatie van kenmerken speelde een essentiële rol in de ‘groene revolutie’. 
+Norman Borlaugh kruiste een productieve graanvariëteiten met lange stengel (nadeel: valt om) met een variëteit met een korte stengel (voordeel: blijft staan ook al draagt hij veel zaden). Vervolgens kruiste hij verder met graanrassen die resistent waren tegen roestschimmels. Daardoor slaagde hij erin de productiviteit van de landbouw in derde wereldlanden op een decennium te verdubbelen.
+Kansberekening
+De productregel
+De kans dat twee onafhankelijke gebeurtenissen samen optreden is gelijk aan het product van de afzonderlijke kansen
+kans op R- Y- = 3/4 x 3/4 = 9/16
+kans op R- yy = 3/4 x 1/4 = 3/16
+kans op rr Y- = 1/4 x 3/4 = 3/16
+kans rr yy = 1/4 x 1/4 = 1/16

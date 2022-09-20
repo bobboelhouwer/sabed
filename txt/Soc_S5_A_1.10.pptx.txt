@@ -1,0 +1,679 @@
+Prof. Dr. Eva Van den Bussche
+Methoden van het wetenschappelijk onderzoek: Deel 1
+Vragencollege
+Hét moment om al je vragen te stellen
+Eénmalig via mail (eva.vandenbussche@kuleuven.be) TEN LAATSTE op 16/12
+Bespreking vragen studenten + enkele oefenvragen
+Info examen
+Evaluatie vak
+Géén lesopname!
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+2
+Volgende week (22/12)
+Prof. Dr. Eva Van den Bussche
+Les 10: Case study & Single-case designs en Kwantitatieve en kwalitatieve methoden
+Terugkoppeling oefeningen
+Case study & single case designs
+Voorbeelden kwantitatieve + kwalitatieve methoden
+Empirische cyclus
+Case 1: kwantitatief  kwalitatief
+Case 2: kwalitatief  kwantitatief
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+4
+Overzicht
+Op Toledo zal je de methode-sectie vinden van een wetenschappelijk artikel
+Lees deze methode en bespreek de methode rekening houdend met alle aspecten die we het afgelopen semester hebben behandeld
+Faculteit Psychologie en Pedagogische Wetenschappen
+5
+Terugkoppeling oefening 1 (Les 8)
+Faculteit Psychologie en Pedagogische Wetenschappen
+6
+Terugkoppeling oefening 1 (Les 8)
+Background:
+Faculteit Psychologie en Pedagogische Wetenschappen
+7
+Terugkoppeling oefening 1 (Les 8)
+STAP 1: onderzoeksvraag: is het onbewuste priming effect beperkt tot kleine categorieën, of vinden we het ook voor brede categorieën van stimuli?
+STAP 2: hypothese: het onbewuste priming effect treedt op bij kleine en grote categorieën
+STAP 3: variabelen: 
+Afhankelijke variabelen: reactietijd en accuraatheid (zie background), beiden ratio meetniveau
+Onafhankelijke variabelen: stimulus categorie (3 niveaus: getallen, lichaamsdelen, dieren) en congruentie (2 niveaus: congruent en incongruent), beiden nominaal meetniveau
+Meetmodaliteit: gedragsmaten
+Faculteit Psychologie en Pedagogische Wetenschappen
+8
+Terugkoppeling oefening 1 (Les 8)
+STAP 4: participanten: n = 15, studenten die deelnamen in het kader van een vak 
+Random proces? NEE  convenience sampling  opletten met representativiteit!
+Selectiebias: studenten + vrijwilligers  andere karakteristieken  generaliseerbaar? Potentiële bedreiging van de externe validiteit
+STAP 5: onderzoeksstrategie: Experimentele onderzoeksstrategie
+Manipulatie: onderzoeker manipuleert de onafh variabelen en creëert zo condities
+Controle: potentiële confounder uitsluiten door contrabalancering van “response assignment” ( + random aanbieden congruente en incongruente trials, staat niet duidelijk vermeld)
+Doel = oorzaak-gevolg relaties: veroorzaken de verschillende condities verschillen in RT en ACC?
+Faculteit Psychologie en Pedagogische Wetenschappen
+9
+Terugkoppeling oefening 1 (Les 8)
+STAP 6: onderzoeksdesign: 3 x 2 factorieel binnen-subject experimenteel design met stimulus categorie (3 niv: getallen, lichaamsdelen, dieren) en congruentie (2 niv: congr en incongr) als factoren  2 factoren, 6 condities
+Binnen-subject design: dezelfde participanten doorlopen alle condities  bedreigingen van de interne validiteit:
+Omgevingsvariabelen: weinig over gekend (waar werd experiment afgenomen, door wie, etc.)
+Tijdsgerelateerde variabelen: geldt enkel voor stimulus categorie (congruentie werd intermixed aangeboden), 3 condities worden kort na elkaar aangeboden (weinig kans op maturiteit, history, etc.), wel kans op orde-effecten (vooral progressive error)  orde van de 3 delen werd NIET gecontrabalanceerd!
+Factorieel design: hoofdeffecten (stimulus categorie, congruentie) en interactie (stimulus categorie × congruentie) nagaan
+Faculteit Psychologie en Pedagogische Wetenschappen
+10
+Terugkoppeling oefening 1 (Les 8)
+Faculteit Psychologie en Pedagogische Wetenschappen
+11
+Terugkoppeling oefening 2 (Les 9)
+
+Lees onderstaande artikel
+Is that Me or My Twin? Lack of Self-Face Recognition Advantage in Identical Twins (terug te vinden op Toledo)
+Opdracht: 
+Bepaal voor dit artikel hoe het “Open Science” proces eruit zou moeten zien. Stel dat jij de auteur was van dit artikel. Welke stappen had je dan moeten doorlopen? Welke onderdelen zou je wanneer hebben moeten registreren en waarom juist op dat moment?
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+12
+Terugkoppeling oefening 2 (Les 9)
+
+VOOR aanvang van de studie
+Stap 1: Onderzoeksdesign en idee
+Eigen gezichtsherkenning belangrijk voor identiteit, zelfbewustzijn,…. 
+Eigen gezichtsherkenning beter dan gezichtsherkenning andere
+Is dit ook zo voor identieke tweelingen?
+Stap 2: Opstellen Data Management Plan
+Soort data: accuraatheid, reactietijd, vragenlijsten
+Hoe FAIR data maken = Findable, Accessible, Interoperable en Reusable
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+13
+Terugkoppeling oefening 2 (Les 9)
+
+VOOR aanvang van de studie
+Stap 3: Stap 3 Ethische goedkeuring
+Ethische goedkeuring door Fondazione Santa Lucia
+Stap 4: Pre-registratie in Open Science Framework:
+Specifieke onderzoeksvraag en hypotheses:
+Hebben identieke tweelingen hetzelfde voordeel in het herkennen van het eigen gezicht als niet-tweelingen? 
+Wat is de impact van persoonlijkheid hierop?
+N.B.: deze hypotheses hadden nog concreter gemogen. Bv: welk patroon in accuraatheid of RTs wordt precies verwacht?
+Faculteit Psychologie en Pedagogische Wetenschappen
+14
+Terugkoppeling oefening 2 (Les 9)
+
+VOOR aanvang van de studie
+Stap 4: Pre-registratie in Open Science Framework (vervolg):
+Methode en materiaal 
+6 condities 
+56 foto’s per conditie
+beoordelen van foto’s: zelf, tweelingbroer of -zus en gekende vriend of familie, enz.
+Data behandeling: inverse efficiency score 
+Analyses: repeated measures ANOVA en standard regression model
+Doel: preventie van researchers’ degree of freedom (“p-hacking”, “HARKing”)
+Faculteit Psychologie en Pedagogische Wetenschappen
+15
+Terugkoppeling oefening 2 (Les 9)
+
+VOOR aanvang van de studie
+Stap 5: Studie uitvoeren en paper schrijven
+
+NA uitvoeren van de studie
+Stap 6: Journal zoeken waarin je wilt publiceren
+Plos ONE opzoeken via SHERPA/ROMEO  positie t.o.v. Open Access
+Stap 7: Pre-print of post-print in online archief plaatsen (bijv. Lirias)
+Embargo?
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+16
+Terugkoppeling oefening 2 (Les 9)
+
+NA uitvoeren van de studie
+Stap 8: Afgenomen data in Open Science Framework (OSF) project plaatsen
+Ruwe data = Accuraatheid, RT, vragenlijsten (geanonimiseerd!), enz.
+Codeboek en analyses (scripts)
+Doel: laat andere onderzoekers gebruik maken van jouw data (plus: opsporen fraude en onbedoelde fouten)
+“As open as possible, as closed as necessary”
+Stap 9: Publicatie in Open Access journal (Plos One)
+Maak de gehele studie (i.e., het OSF framework) openbaar toegankelijk
+Prof. Dr. Eva Van den Bussche
+Case study & Single case designsHandboek Hoofdstuk 14 (pp. 341-372)
+Case study designs
+Single-case experimental designs
+Elementen
+Effecten nagaan
+Fases en veranderingen in fases
+Reversal designs
+Multiple-Baseline designs
+Voor- en nadelen
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+18
+Overzicht
+Beschrijvende onderzoeksstrategie (zie Les 8)
+DOEL = fenomeen beschrijven
+Beschrijft de huidige toestand van een specifieke variabele of gedrag
+Geen verbanden/relaties tussen variabelen, geen gedrag verklaren, geen oorzakelijke uitspraken
+(set van) Variabele(n) METEN zoals ze natuurlijk optreden: elke aparte variabele wordt beschreven (geen verbanden)
+3 beschrijvende onderzoeksdesigns:
+Observationeel design, Survey design (zie Les 8)
+Case study design
+
+
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+19
+Case study design
+Psychologie: vaak bestuderen we groepen, maar soms zijn we meer geïnteresseerd in individueel gedrag dan “gemiddeld” gedrag van een groep
+Voorbeeld: in klinische psychologie zijn resultaten omtrent één individuele cliënt soms relevanter dan resultaten gemiddeld over een groep diverse individuen
+Case study design: gedetailleerde studie en beschrijving van een enkel individu (of heel kleine groep). 
+Kan experiment (cf. Hoofdstuk 14), interviews, observaties, surveys, etc. zijn
+Groepsstudies negeren het belang van het individu
+
+
+
+
+
+
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+20
+Case study design
+Toepassingen:
+Zeldzame fenomenen en klinische gevalsstudies  voorbeeld: dissociatieve identiteitsstoornis (DSM V; the three faces of Eve), hersenbeschadiging (H.M.)
+
+
+
+
+
+
+
+Succesvolle applicatie van nieuwe therapieën 
+
+
+
+
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+21
+Case study design
+Voordelen:
+Zeer gedetailleerd  kan nieuwe relevante variabelen detecteren die bijdragen aan een outcome en zo hypotheses genereren, theorieën beïnvloeden
+Kan aantonen waarom gangbare behandelingen in specifieke gevallen niet/extreem werkzaam zijn
+Nadelen:
+Beschrijvend, geen poging om onderliggende mechanismen te identificeren
+Beperkte interne validiteit (steeds alternatieve verklaringen mogelijk)
+Beperkte externe validiteit (moeilijk te generaliseren)
+Onderzoekersbias (interpretatie), selectiebias (welke cases worden gerapporteerd?)
+
+
+
+
+
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+22
+Case study design
+
+
+
+
+
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+23
+Single case experimental design
+Gebaseerd op McHugh et al., 2016
+Single case: slechts 1 (of enkele) participant(en)
+Experimenteel: 
+DOEL = niet-ambigue oorzaak-gevolg relaties tussen variabelen identificeren
+Manipulatie én controle!
+Voordeel: mogelijk voor situaties waar 1 enkel individu behandeld/geobserveerd/gemeten wordt (bijv.: klinisch psycholoog, schoolpsycholoog) 
+Link met quasi-exp time series design (Les 6): herhaalde metingen over tijd
+MAAR: technieken die oorzaak-gevolg uitspraken mogelijk maken!  écht experiment
+
+
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+24
+Single case experimental design
+Manipulatie: onderzoeker bepaalt welke condities vergeleken worden en wanneer de “behandeling” wijzigt van de ene naar de andere conditie
+Controle
+Baseline
+Herhaalde observaties tijdens baseline én elke conditie: serie observaties tijdens baseline en elke conditie is relatief stabiel
+Replicatie: verandering in gedrag obv wijziging condities (= manipulatie) nogmaals vaststellen voor besluit dat de wijziging in condities de verandering in gedrag veroorzaakt!  reduceert kans op toevallige invloeden van andere variabele
+
+
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+25
+Elementen
+Geen set van scores van een groep participanten  geen standaard statistische testen
+Visuele inspectie:
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+26
+Effecten nagaan
+Nog niet overtuigend gedemonstreerd dat de behandeling een verandering veroorzaakte in het gedrag 
+Geen representatie van een echt experiment!  géén controle!
+Verandering in gedrag kan gewoon toeval zijn
+“Normale” variabiliteit in gedrag
+Verschil groepsdesigns (e.g., tussen- of binnen-subject design): set van scores die toelaat om na te gaan hoe waarschijnlijk het is dat het patroon toevallig is
+Hier: enkel visuele voorstelling van de data
+Grafische voorstelling moet overtuigend aantonen dat de behandeling de verandering in gedrag veroorzaakt heeft (zie later)!
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+27
+Effecten nagaan
+Fase = serie observaties van hetzelfde individu onder dezelfde condities
+	 = basis bouwblok van de meeste single-case designs
+
+
+
+
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+28
+Fases en veranderingen in fases
+
+
+Fase 1: baseline fase= A
+Fase 2: behandelingsfase (“treatment phase”) = B
+
+
+Baseline observatie
+Behandelingsobservatie 
+(“treatment observation”)
+Modificaties aan behandeling: subscript (e.g., B1, B2, etc.)
+Andere behandeling: nieuwe letter (e.g., C, D, etc.)
+Twee behandelingen tegelijk: letterpaar (e.g., BC)
+
+Voorbeeld: A-B-B1-A-BC-C design
+Faculteit Psychologie en Pedagogische Wetenschappen
+29
+Fases en veranderingen in fases
+Doel van een fase = een duidelijk beeld schetsen van het gedrag van het individu onder de specifieke condities die de fase definiëren
+Onderzoeker wijzigt de fases door behandeling(en) te implementeren of weg te nemen (“withdrawal”)
+Doel design = aantonen dat het gedragspatroon verandert van de ene naar de andere fase!
+Voor we dat kunnen bekijken: patroon BINNEN elke fase duidelijk schetsen
+Consistente level/niveau: vertonen de data (i.e., het gedrag) binnen een fase een consistent, stabiel niveau (i.e., hoeveelheid)
+Consistente trend: vertonen de data (i.e., het gedrag) binnen een fase een consistente, stabiele trend (i.e., toename/afname)
+Faculteit Psychologie en Pedagogische Wetenschappen
+30
+Fases en veranderingen in fases
+Faculteit Psychologie en Pedagogische Wetenschappen
+31
+Fases en veranderingen in fases
+
+Hoe omgaan met onstabiele data?
+Wachten (cf. participant reactiviteit, Les 2)
+Gemiddelde nemen over 2/meer observaties (averaging)
+
+
+
+
+
+
+Zitten er patronen in de inconsistente data? (rol van bijkomende variabelen, bijv. storend gedrag enkel op ma/wo/vr)
+
+
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+32
+Fases en veranderingen in fases
+Lengte van een fase: MINSTENS 3 observaties, vaak 5 à 6
+
+
+
+
+
+
+
+Geen vaste regel: aantal observaties binnen een fase wordt bepaald door hoeveel er nodig zijn om een duidelijk, consistent patroon in de data bloot te leggen
+Faculteit Psychologie en Pedagogische Wetenschappen
+33
+Fases en veranderingen in fases
+
+
+
+Fase verandering = manipulatie van de onfh var: introduceren, wijzigen of wegnemen (withdrawal) van een behandeling
+Start nieuwe fase, nieuwe reeks observaties onder de nieuwe set van condities
+DOEL = aantonen dat het introduceren, wijzigen of wegnemen van een behandeling een duidelijke verandering in het gedrag produceert (patroon voor verandering VS patroon na behandeling)
+
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+34
+Fases en veranderingen in fases
+Fase verandering: Wanneer?
+Mogelijk van zodra er voldoende observaties zijn binnen een fase om een duidelijk en stabiel patroon aan te tonen, MAAR: 
+Niet veranderen van baseline naar behandeling indien gedrag reeds verbetert tijdens baseline (“no-action strategy”)
+Snellere verandering indien er hoge levels van gevaarlijk/bedreigend gedrag aanwezig zijn in baseline fase (ethiek!)
+Snellere verandering indien behandeling een snel, ernstig negatief effect heeft op gedrag
+Op basis van de responsen (gedrag) van het individu
+Geen vooraf bepaald plan
+Design is zeer flexibel en adaptief, zeer geschikt voor klinische toepassingen
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+35
+Fases en veranderingen in fases
+Visuele inspectie technieken
+Visuele inspectie = subjectief
+Aantonen dat het gedragspatroon tijdens de baseline fase verandert in een ander patroon wanneer de onderzoeker overstapt op een behandelingsfase
+Om dit visueel te kunnen nagaan: onmiddellijke en grote veranderingen in patroon nodig!
+Hoe groot? Geen vaste standaarden! 
+Wel enkele richtlijnen (Kazdin, 2016)
+
+
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+36
+Fases en veranderingen in fases
+Richtlijnen (Kazdin, 2016): is een verandering tussen fases betekenisvol?
+Verandering in gemiddeld niveau
+Onmiddellijke verandering
+Verandering in trend
+Latency (wachttijd) van de verandering
+
+
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+37
+Fases en veranderingen in fases
+Verandering in gemiddeld niveau
+
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+38
+Fases en veranderingen in fases
+Onmiddellijke verandering
+
+
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+39
+Fases en veranderingen in fases
+
+
+Verandering in trend
+
+
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+40
+Fases en veranderingen in fases
+Latency (vertraging) van de verandering
+
+
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+41
+Fases en veranderingen in fases
+Faculteit Psychologie en Pedagogische Wetenschappen
+42
+Faculteit Psychologie en Pedagogische Wetenschappen
+43
+Fase veranderingen alterneren tussen baseline (A) en behandeling (B), met minstens 1 replicatie van een AB opvolging
+Meest voorkomend = ABAB design (1 replicatie)
+
+
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+44
+Reversal designs
+DOEL ABAB design = aantonen dat behandeling gedragsverandering veroorzaakt door aan te tonen dat:
+het patroon van gedrag in elke behandelingsfase duidelijk verschillend is van het patroon in elke baseline fase (toont verband aan tussen behandeling en gedrag)
+de veranderingen in gedrag van baseline naar behandeling en van behandeling naar baseline gelijk zijn voor elk punt waarop er een fase verandering is (toont causaal verband aan tussen behandeling en gedrag)
+
+
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+45
+Reversal designs
+
+
+
+
+Eerste fase verandering (AB) toont duidelijke verandering in gedragspatroon (hier: level, maar kan ook trend zijn)
+ Toeval? Nog geen causale uitspraken mogelijk!
+Tweede fase verandering (BA) toont reversal 
+Derde fase verandering toont (AB) replicatie
+
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+46
+Reversal designs
+
+
+
+AB
+BA
+AB
+Beperkingen ABAB design: wegnemen (withdrawal) behandeling
+Wegnemen van behandeling zal niet altijd resulteren in gedragsverandering  niet geschikt voor evaluatie van behandelingen met lang/blijvend effect
+Reversal is ook vaak niet perfect  geen probleem zolang duidelijk merkbaar + succesvolle replicatie
+Ethiek: succesvolle behandeling wegnemen  geruststelling dat dit tijdelijk is en behandeling zal terugkeren + trial periode voor leven zonder behandeling
+
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+47
+Reversal designs
+Variaties ABAB design: meer complexe designs met fase veranderingen
+Behandelingen wijzigen (e.g., B1), nieuwe behandelingen (e.g., C)
+Sequentie van fases evolueert vaak TIJDENS de studie  oneindig aantal mogelijke designs
+MAAR: niet elke sequentie kwalificeert als een experimenteel design (cf. duidelijke verandering wanneer behandeling geïmplementeerd wordt + min. 1 replicatie van die verandering) 
+
+
+
+
+
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+48
+Reversal designs
+Voorbeeld:
+
+
+
+
+ABB1C design
+Was behandeling C effectief?
+
+
+
+
+
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+49
+Reversal designs
+Voorbeeld:
+
+
+
+
+
+
+
+Single-case design kan dus snel een erg complexe sequentie van fases worden vooraleer je een duidelijk oorzaak-gevolg verband kan aantonen 
+Zie ook voorbeeld in handboek p.359-360
+
+
+
+
+
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+50
+Reversal designs
+
+Reversal probleem oplossen
+Ook geschikt voor behandelingen met langdurig/blijvend effect
+Slechts 1 fase verandering nodig (baseline  behandeling)
+Replicatie van deze fase verandering over een 2e participant, 2e gedrag, 2e situatie  multiple-baseline over subjecten, over gedragingen, over situaties
+Begint met 2 simultane baseline fases, behandeling wordt dan geïnitieerd voor één van de baselines, terwijl de andere baseline doorloopt. Op een later tijdstip wordt de behandeling geïnitieerd voor de 2e baseline
+
+
+
+
+
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+51
+Multiple-Baseline designs
+
+
+
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+52
+Multiple-Baseline designs
+
+
+
+Indien verandering in gedrag voor elke participant/gedrag/situatie plaatsgrijpt op (verschillend) moment van start behandeling = evidentie causale relatie tussen behandeling en gedrag! 
+Over participanten: 2 studenten met zelfde gedragsprobleem
+Over gedragingen: cliënt met 2 verschillende fobieën
+Over situaties: gedragsproblemen thuis en op school
+Voorbeelden: zie handboek p.362-364
+
+Component analyse designs: zie handboek p.364-365
+
+
+
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+53
+Multiple-Baseline designs
+Voor- en nadelen:
++ reversal fase is niet nodig
++ daarom geschikt voor evaluatie langdurige/blijvende effecten van behandeling
+
+Indien over gedragingen/situaties: moeilijk om gelijkaardige, maar onafhankelijke gedragingen/situaties te identificeren  effect van behandeling op gedrag/situatie 1 kan generaliseren naar gedrag/situatie 2 (geen klinisch nadeel, maar ondermijnt geloofwaardigheid effect behandeling)
+Indien over participanten/gedragingen: onderhevig aan individuele verschillen
+
+
+
+
+
+
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+54
+Multiple-Baseline designs
++ Oorzaak-gevolg relaties blootleggen met slechts 1 (enkele) participant(en)
++ Mogelijk om experimenteel onderzoek te integreren in klinische praktijk
++ Zeer flexibele designs: design vrij aanpassen tijdens studie obv responsen participant  zeer nuttig voor klinisch onderzoek + geïndividualiseerde behandelingen
+Oorzaak-gevolg relatie slechts vastgesteld voor 1 participant  generaliseerbaarheid? Beperkte externe validiteit!
+Voortdurende observatie kan effect hebben op participant (cf. Les 2)  bedreiging interne validiteit!
+Vooral visuele inspectie, geen statistische controle of effect een “echt” effect is of berust op toeval, kleine effecten wss moeilijk te detecteren
+
+
+
+
+
+
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+55
+Voor- en nadelen single-case designs
+Prof. Dr. Eva Van den Bussche
+Kwantitatieve en kwalitatieve methoden
+Faculteit Psychologie en Pedagogische Wetenschappen
+57
+Kwantitatieve en kwalitatieve methoden
+Vragenlijsten hebben vaak een onderliggende structuur, subschalen
+Voorb: State-Trait Anxiety Inventory (STAI; Spielberger et al.)  2 subschalen (toestandsangst en angstdispositie)  40 items, 20 items per subschaal
+Factoranalyse kan gebruikt worden om die onderliggende structuur bloot te leggen
+Doel = onderliggende structuur nagaan van een nieuwe vragenlijst (Pain Solutions Questionnaire of PaSol; De Vlieger et al., 2006), ontwikkeld om manieren waarop pijnpatiënten omgaan met hun pijn te meten
+14 items, 7-puntenschaal (0=helemaal niet van toepassing – 6=sterk van toepassing)
+Meet verschillende mogelijke oplossingen voor de pijn (voorb.: “Ik probeer alles om van mijn pijn af te geraken”)
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+58
+Case 1: kwantitatief  kwalitatief
+PaSol werd afgenomen van 476 chronische pijnpatiënten (n= 476)
+
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+59
+Case 1: kwantitatief  kwalitatief
+Factoranalyse werd uitgevoerd  kwantitatieve methode!
+Resultaat = Factor matrix
+Welke items horen bij elkaar? 14 items van de vragenlijst groeperen in een kleiner aantal factoren
+Factor 1: items 1, 4, 5, 14, 22
+Factor 2: items 13, 17, 19, 20
+Factor 3: items 12, 23
+Factor 4: items 7, 9, 16
+
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+60
+Case 1: kwantitatief  kwalitatief
+cv
+cv
+cv
+cv
+cv
+cv
+cv
+cv
+cv
+We hebben nu een kwantitatieve oplossing!
+Maar wat betekent dit???
+Zonder interpretatie is deze kwantitatieve oplossing nutteloos!
+De kwantitatieve oplossing moet kwalitatief geduid worden!
+Voorbeeld: Factor 1 = items 1, 4, 5, 14, 22  check de inhoud van deze items
+1: Even when I have severe pain, I still find my life meaningful
+4: Even when I have severe pain I can see a way out
+5: I try to live with my pain
+14: I try to make the best of my life, despite the pain
+22: I don’t let the pain get in my way
+ DUS: “Meaningfulness of Life Despite Pain”
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+61
+Case 1: kwantitatief  kwalitatief
+
+Theoretische samenhang!
+Idem voor andere factoren:
+Factor 2: Solving Pain
+Factor 3: Belief in a Solution
+Factor 4: Acceptance of the Insolubility of Pain
+14 items ondergebracht in 4 betekenisvolle subschalen via factoranalyse
+Theorie, interpretatie overstijgt statistiek (indien kwantitatieve oplossing niet geduid kan worden, theoretisch niet zinvol is  nutteloos!)
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+62
+Case 1: kwantitatief  kwalitatief
+Stuyck et al. (2021): onderzoeken hoe oplossingen van problemen die worden gevonden met een Aha! moment verschillen van oplossingen gevonden met analyse (stap-voor-stap proces)
+70-tal woordpuzzels oplossen (max. 25 s)
+Faculteit Psychologie en Pedagogische Wetenschappen
+63
+Case 2: kwalitatief  kwantitatief
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+64
+Case 2: kwalitatief  kwantitatief
+Dream
+Break
+Light
+?
+Day
+Participanten geven na elke oplossing aan of ze de puzzel hebben opgelost met Aha of met analyse 	 Verschillen Aha oplossingen van analyse oplossingen in reactietijd, accuraatheid, ervaren vertrouwen, ervaren moeilijkheid, etc.? = kwantitatieve studie
+MAAR: geen info over HOE mensen de puzzels exact oplossen  eerst kwalitatief bevragen!
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+65
+Case 2: kwalitatief  kwantitatief
+Vragenlijst met open vragen
+Voorb:
+Wat is volgens jou het verschil tussen inzicht (Aha! moment) en een analytisch zoekproces? Beschrijf dit in 2 zinnen. 
+Beschrijf in je eigen woorden hoe je precies tot een oplossing bent gekomen via inzicht (Aha! Moment) tijdens het oplossen van de woordpuzzels en welke gedachten tijdens dit proces bij je bovenkwamen (beschrijf dit in 3 zinnen)?
+Op basis van deze kwalitatieve informatie konden we ons experiment verfijnen en vervolgens de kwantitatieve studie uitvoeren
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+66
+Case 2: kwalitatief  kwantitatief
+Kwantitatieve en kwalitatieve methoden gaan vaak hand in hand!
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+67
+Besluit

@@ -1,0 +1,105 @@
+NederlandseTaalkundeI
+Hoofdstuk6&Hoofdstuk7(deels)
+Handboekpp.191–210&pp.229–231
+JeroenvanCraenenbroeckInleiding
+(cid:281)(cid:284)(cid:266)(cid:266)(cid:273)(cid:266)(cid:265)(cid:270)(cid:268)?
+ja nee
+(cid:263)(cid:266)(cid:277)(cid:262)(cid:273)(cid:270)(cid:275)(cid:268)-(cid:269)(cid:276)(cid:276)(cid:267)(cid:265)? (cid:269)(cid:276)(cid:276)(cid:267)(cid:265)(cid:280)(cid:281)(cid:282)(cid:272)7
+ja nee
+(cid:277)(cid:279)(cid:276)(cid:281)(cid:276)(cid:281)(cid:286)(cid:277)(cid:266)? (cid:269)(cid:276)(cid:276)(cid:267)(cid:265)(cid:280)(cid:281)(cid:282)(cid:272)6
+ja nee
+(cid:269)(cid:276)(cid:276)(cid:267)(cid:265)(cid:280)(cid:281)(cid:282)(cid:272)4 (cid:269)(cid:276)(cid:276)(cid:267)(cid:265)(cid:280)(cid:281)(cid:282)(cid:272)5Linkshoofdigestructuren: Samenstellingen
+Y [ NN] [ NA] [ VN]
+N N V
+Y X
+[ YX]
+YLinkshoofdigestructuren: Samenstellingen
+kleinkind secretaris-generaal wet-Lejeune
+(cid:263)(cid:266)(cid:281)(cid:266)(cid:272)(cid:266)(cid:275)(cid:270)(cid:280)
+(cid:284)(cid:276)(cid:276)(cid:279)(cid:265)(cid:280)(cid:276)(cid:276)(cid:279)(cid:281)
+(cid:274)(cid:276)(cid:279)(cid:267)(cid:276)(cid:280)(cid:286)(cid:275)(cid:281)(cid:262)(cid:264)(cid:281)(cid:270)(cid:280)(cid:264)(cid:269)(cid:266)
+(cid:272)(cid:266)(cid:275)(cid:274)(cid:266)(cid:279)(cid:272)(cid:266)(cid:275)
+reikhalz(en)
+(cid:263)(cid:266)(cid:281)(cid:266)(cid:272)(cid:266)(cid:275)(cid:270)(cid:280)
+(cid:284)(cid:276)(cid:276)(cid:279)(cid:265)(cid:280)(cid:276)(cid:276)(cid:279)(cid:281)
+(cid:274)(cid:276)(cid:279)(cid:267)(cid:276)(cid:280)(cid:286)(cid:275)(cid:281)(cid:262)(cid:264)(cid:281)(cid:270)(cid:280)(cid:264)(cid:269)(cid:266)
+(cid:272)(cid:266)(cid:275)(cid:274)(cid:266)(cid:279)(cid:272)(cid:266)(cid:275)Linkshoofdigestructuren: Samenstellingen
+wet-LejeuneLinkshoofdigestructuren: Samenstellingen
+secretaris-generaalLinkshoofdigestructuren: Samenstellingen
+klappertandenLinkshoofdigestructuren: Samenstellingen
+likkebaardenLinkshoofdigestructuren: Aﬂeidingen
+Y [ N/VV] [ V/NN]
+N V
+[ V/AA]
+V
+[ V/VV]
+Y/X X V
+[ V/AdvAdv]
+V
+[ V/PP]
+V
+[ Y/XX] [ V/IntInt]
+Y VLinkshoofdigestructuren: Aﬂeidingen
+gepraatLinkshoofdigestructuren: Aﬂeidingen
+gesprekLinkshoofdigestructuren: Aﬂeidingen
+beademen beademenLinkshoofdigestructuren: Aﬂeidingen
+bewandelenCopulatievesamenstellingen
+Y [ NN] [ AA] [ VV]
+N A V
+Y Y
+[ YY]
+YCopulatievesamenstellingen
+priester-arbeider speler-trainer zuurzoet
+(cid:263)(cid:266)(cid:281)(cid:266)(cid:272)(cid:266)(cid:275)(cid:270)(cid:280)
+(cid:284)(cid:276)(cid:276)(cid:279)(cid:265)(cid:280)(cid:276)(cid:276)(cid:279)(cid:281)
+(cid:274)(cid:276)(cid:279)(cid:267)(cid:276)(cid:280)(cid:286)(cid:275)(cid:281)(cid:262)(cid:264)(cid:281)(cid:270)(cid:280)(cid:264)(cid:269)(cid:266)
+(cid:272)(cid:266)(cid:275)(cid:274)(cid:266)(cid:279)(cid:272)(cid:266)(cid:275)
+slaapwandel(en)
+(cid:263)(cid:266)(cid:281)(cid:266)(cid:272)(cid:266)(cid:275)(cid:270)(cid:280)
+(cid:284)(cid:276)(cid:276)(cid:279)(cid:265)(cid:280)(cid:276)(cid:276)(cid:279)(cid:281)
+(cid:274)(cid:276)(cid:279)(cid:267)(cid:276)(cid:280)(cid:286)(cid:275)(cid:281)(cid:262)(cid:264)(cid:281)(cid:270)(cid:280)(cid:264)(cid:269)(cid:266)
+(cid:272)(cid:266)(cid:275)(cid:274)(cid:266)(cid:279)(cid:272)(cid:266)(cid:275)Exocentrischestructuren
+Z [ NN] [ AN] [ PP] [ PP]
+N V P Adv
+[ AN] [ NN] [ PNum]
+N V Adv
+[ VN] [ PA]
+X Y N Adv
+[ NV] [ PA] [ AP]
+N V Adv
+[ XY] [ NumN] [ PN] [ NP]
+Z N V Adv
+[ VP] [ PP]
+N V
+[ VAdv]
+N
+[ PN]
+VExocentrischestructuren
+ﬂapuit zoetekauw snotneus domoor
+(cid:263)(cid:266)(cid:281)(cid:266)(cid:272)(cid:266)(cid:275)(cid:270)(cid:280)
+(cid:284)(cid:276)(cid:276)(cid:279)(cid:265)(cid:280)(cid:276)(cid:276)(cid:279)(cid:281)
+(cid:274)(cid:276)(cid:279)(cid:267)(cid:276)(cid:280)(cid:286)(cid:275)(cid:281)(cid:262)(cid:264)(cid:281)(cid:270)(cid:280)(cid:264)(cid:269)(cid:266)
+(cid:272)(cid:266)(cid:275)(cid:274)(cid:266)(cid:279)(cid:272)(cid:266)(cid:275)
+tegenover achteruit
+(cid:263)(cid:266)(cid:281)(cid:266)(cid:272)(cid:266)(cid:275)(cid:270)(cid:280)
+(cid:284)(cid:276)(cid:276)(cid:279)(cid:265)(cid:280)(cid:276)(cid:276)(cid:279)(cid:281)
+(cid:274)(cid:276)(cid:279)(cid:267)(cid:276)(cid:280)(cid:286)(cid:275)(cid:281)(cid:262)(cid:264)(cid:281)(cid:270)(cid:280)(cid:264)(cid:269)(cid:266)
+(cid:272)(cid:266)(cid:275)(cid:274)(cid:266)(cid:279)(cid:272)(cid:266)(cid:275)Exocentrischestructuren
+ﬂapuitExocentrischestructuren
+rechtsachterExocentrischestructuren
+blablaExocentrischestructuren
+watertandenExocentrischestructuren
+afzwakkenExocentrischestructuren
+overwinterenExocentrischestructuren
+omverAﬂeidingdoorcircumﬁgering
+gebergteAﬂeidingdoorcircumﬁgering
+Y [ NN\N] [ NN\V]
+N V
+[ NN\A] [ NN\Adv]
+X X\Y A Adv
+[ NumNum\Adv]
+Adv
+a…bAﬂeidingdoorcircumﬁgering
+gespierdAﬂeidingdoorcircumﬁgering
+beschadigen bevochtigenAﬂeidingdoorcircumﬁgering
+gewerkt

@@ -1,0 +1,677 @@
+Bepaling-hoofdsamenstelling
+
+zoutarm
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Bepaling-hoofdsamenstelling
+
+stikheet
+
+knalgroen
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Bepaling-hoofdsamenstelling
+
+mastklimmen
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Bepaling-hoofdsamenstelling
+
+raadplegen
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Bepaling-hoofdsamenstelling
+
+hoogspringen
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Bepaling-hoofdsamenstelling
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Bepaling-hoofdsamenstelling
+
+V
+
+̸= verbale samenstelling
+
+P V
+V
+
+̸= verbale samenstelling
+
+Adv V
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Overzicht
+Inleiding
+
+Bepaling-hoofdsamenstelling
+
+Aﬂeiding door categoriebepalende suﬃgering
+
+Aﬂeiding door categorieneutrale preﬁgering
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Aﬂeiding door categoriebepalende suﬃgering
+
+Y
+
+[N X X\N ]
+
+[N N N\N ]
+[N A A\N ]
+[N V V\N ]
+[N P P\N ]
+[N Adv Adv\N ]
+[N Num Num\N ]
+[N Pron Pron\N ]
+
+[V X X\V ]
+
+[V N N\V ]
+[V A A\V ]
+[V V V\V ]
+
+[A X X\A ]
+
+[A N N\A ]
+[A A A\A ]
+[A V V\A ]
+[A P P\A ]
+[A Adv Adv\A ]
+[A Num Num\A ]
+
+[Adv X X\Adv ]
+
+[Adv N N\Adv ]
+[Adv V V\Adv ]
+[Adv A A\Adv ]
+[Adv Adv Adv\Adv ]
+[Adv Pron Pron\Adv ]
+
+X X\Y
+[Y X X\Y ]
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Aﬂeiding door categoriebepalende suﬃgering
+
+bloemist
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Aﬂeiding door categoriebepalende suﬃgering
+
+Amerikaan Chinees
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Aﬂeiding door categoriebepalende suﬃgering
+(3)
+
+ĉĊČĊĒĎēĆęĎĊ is een fonologische regel die twee opeenvolgende
+identieke consonanten of vocalen reduceert tot één.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Aﬂeiding door categoriebepalende suﬃgering
+(3)
+
+ĉĊČĊĒĎēĆęĎĊ is een fonologische regel die twee opeenvolgende
+identieke consonanten of vocalen reduceert tot één.
+
+(4)
+
+ęėĚēĈĆęĎĊ of ĎēĐĔėęĎēČ is het fonologisch proces waarbij de
+eindklank van een morfeem weggelaten wordt.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ 

@@ -1,0 +1,125 @@
+9/09/2017
+
+Definitie
+• Optimalisatie:
+zoek de waarde van x in een gegeven domein
+waarvoor Q(x): »n → » een max of min bereikt
+• Hier:
+Q(x) is kwadratische vorm: Q(x) = xTAx
+domein is   = 1
+• m= min xTAx
+    
+
+• M= max xTAx
+    
+
+1
+
+ 9/09/2017
+
+Voorbeeld: positief definiet
+•
+
+  = 1 is cirkel
+met straal 1
+
+Voorbeeld 2: indefiniet
+•
+
+  = 1 is cirkel
+met straal 1
+
+2
+
+ 9/09/2017
+
+Oplossing: veranderen van basis
+• Q(x) = xTAx = xTPDPTx = yTDy
+waarbij y = P-1x = PTx of x = Py
+• Beperking:   = 1⇔   = 1⇔xTx = 1
+⇔ (Py)T(Py)=1⇔ yTPTPy=1 ⇔ yTy=1
+=1⇔
+=1
+⇔
+• m= min xTAx = min yTDy
+    
+
+  
+
+• M= max xTAx = max yTDy
+    
+
+  
+
+Oplossing: maximum
+• Q(x
+x)= yTDy = λ    + … + λ 
+• e.w./e.v. geordend zodat λ  ≥ λ ≥ … ≥ λ
+• Q(x
+x)= λ    + … + λ  met
+=1
+≤ λ    + … + λ   = λ    + … + 
+
+= λ 
+
+bereikt als y1=±1 en yi=0 met i=2...n
+±1
+y= 0 = ±e1 of x = ±P e1 = ± u1 de genormeerde e.v.
+⋮
+0
+horende bij λ 
+T
+T
+• M= max x Ax = max y Dy= λ 
+    
+
+  
+
+3
+
+ 9/09/2017
+
+Gelijkaardig: minimum
+• Q(x
+x)= yTDy = λ    + … + λ 
+• e.w./e.v. geordend zodat λ  ≥ λ ≥ … ≥ λ
+=1
+• Q(x
+x)= λ    + … + λ  met
+≥ λ   + … + λ  = λ   + … + 
+
+= λ
+
+bereikt als yn=±1 en yi=0 met i=1...n-1
+0
+y= ⋮ = ±en of x = ±P en = ± un de genormeerde e.v.
+0
+±1
+horende bij λ
+T
+T
+• m = min x Ax = min y Dy = λ
+    
+
+  
+
+Optimalizatie met beperkingen
+• Beperking:  
+
+= 1 en xTu1=0
+
+u1 
+• Herinner y = PTx = ⋮ x maw y1=0
+un 
+• Grootste waarde van
+Q(xx)= xTAx = λ    + λ  + ⋯ + λ 
+bereikt bij y = ±e2
+• M=
+max
+xTAx = max yTDy= λ
+  ,  
+    , x⊥u1
+
+4
+
+ 

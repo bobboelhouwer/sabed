@@ -1,0 +1,322 @@
+MENDELIAANSE OVERERVINGMendeliaanse erfelijkheid
+- Monogeen 
+- autosomaal dominant
+- autosomaal recessief
+- X-gebonden
+- Polygeen/multifactorieel
+Niet-Mendeliaanse erfelijkheid
+- Mosaicisme
+- Genomische imprinting & epigenetische erfelijkheid
+- Uniparentele disomie
+- Mitochondriële erfelijkheid
+- Onstabiele trinucleotide repeatsDNA mRNA eiwit kenmerk
+kern cytoplasma  weefsels organisme
+*locus  & organellen   & organen
+*gen
+GENOTYPE FENOTYPE
+elk gen : 2 exemplaren  = 2 allelen
+Variatie :  - variant <1%
+  - polymorfisme >1%
+Mutatie :  - ontstaansmechanisme van variatie
+  - variatie met negatief effect
+SAMENSTELLING 2 ALLELEN EFFECT OP FENOTYPE
+•homozygoot  : 2 allelen hetzelfde dominant
+•heterozygoot : 2 allelen verschillend recessief
+continuum
+•hemizygoot : slechts 1 allel  co-dominantDNA mRNA eiwit kenmerk
+kern cytoplasma  weefsels organisme
+*locus  & organellen   & organen
+*gen
+GENOTYPE FENOTYPE
+elk gen : 2 exemplaren  = 2 allelen
+Variatie :  - variant <1%
+  - polymorfisme >1%
+Mutatie :  - ontstaansmechanisme van variatie
+  - variatie met negatief effect
+SAMENSTELLING 2 ALLELEN EFFECT OP FENOTYPE
+•homozygoot  : 2 allelen hetzelfde dominant
+•heterozygoot : 2 allelen verschillend recessief
+•hemizygoot : slechts 1 allel  [co-dominant]FamilieFamilieSymbolen gebruikt in een stamboom
+heterozygoot voor ARecessief
+man
+draagster X-gebonden
+vrouw
+overleden
+koppel
+Abortus of miskraam - geslacht  =?
+Ouders en 2 kinderen
+(zoon en dochter, in 
+Index patient / proband
+volgorde van geboorte)
+Dizygote 2-ling
+Nummering in een stamboom :
+hier is de index patient II;2 
+Monozygote 2-ling
+of het tweede kind in de
+tweede generatie
+Geslacht niet gekend
+Aantal kinderen met  Consanguiniteit 
+bepaald geslacht (bloedverwantschap) 
+Aangetaste personenGraad van bloedverwantschap
+2 2
+2
+1 1 2 2
+1 3
+2 2 1 1 4
+2Voorbeeld: erfelijke doofheid ?
+Autosomaal dominant
+Autosomaal recessief
+X-gebondenMENDELIAANSE OVERERVING
+1.Autosomaal recessief
+2.Autosomaal dominant
+3.X-gebondenAUTOSOMAAL RECESSIEF
+* *
+=
+    25%
+* * * *
+Ouders = heterozygoot = drager of carrier = ziek
+Aangetast kind = homozygoot = ziekRISICOBEREKENING VOOR 
+AUTOSOMAAL RECESSIEVE AANDOENINGEN: Populatie risico mucoviscidose
+Kans Kans
+dragerschap  dragerschap 
+1/22 1/22
+ Risico ?
+A priori = 1/2000  (1/22 x 1/22 x 1/4)
+Na DNA test die +/- 90% van de mutaties opspoort
+* beiden negatief : 1/193.600 (1/220 x 1/220 x 1/4)
+* één drager, één negatief : 1/880 (1/220 x 1x 1/4 )MUCOVISCIDOSE
+2/3
+ Risico ?MUCOVISCIDOSE
+1/1
+2/3
+Kans 
+dragerschap 
+1/22
+ Risico ? 1/132 
+= 
+(2/3 X 1/22 X 1/4)AUTOSOMAAL RECESSIEF
+1/4
+Risico op dragerschap 
+in de familie
+1/2 1/2 1/2
+1/2
+1/2
+1/2 1/1
+2/3
+1/4
+1/4ZELDZAME AUTOSOMAAL RECESSIEVE AANDOENING
+ Risico ?ZELDZAME AUTOSOMAAL RECESSIEVE AANDOENING
+2/3
+Risico 
+dragerschap 
+1/100
+1/600
+ Risico ?
+(2/3 X 1/100 X 1/4 = 1/600)ZELDZAME AUTOSOMAAL RECESSIEVE AANDOENING
+voorbeeldSikkelcelanemie
+voorbeeld
+malaria
+sikkelcelanemienormaal sikkelcelWanneer gelden populatierisico’s niet ?
+bloedverwantschapzeker drager
+1/2
+1/4
+2/3
+ risico?
+San Fillippo syndroom
+(1/40.000)
+2/3 x ¼ x ¼ = 1/24bloedverwantschap
+verwantschap risico
+niet-verwant 2-3%
+broer-zus 30-50%
+ouder-kind (incest)
+neef-nicht 4-6% (x2)
+achterneef-
+achternicht       3-4.5% (x1.5)MENDELIAANSE OVERERVING
+1.Autosomaal recessief
+2.Autosomaal dominant
+3.X-gebondenAUTOSOMAAL DOMINANT
+N/M N/N
+N/N
+N/M N/M N/M
+N/M N/M N/MAutosomaal dominant syndroom*
+Man = vrouw
+50%
+opeenvolgende generaties
+* *Bijzondere aspecten van autosomaal dominante overerving 
+“ Complicerende processen (hfdst 9) ” 
+1. De novo mutaties
+2. Onvolledige penetrantie
+3. Variabele expressie
+4. Gonadaal mosaicisme
+5. Homozygoten voor dominante aandoening
+6. HeterogeniteitBijzondere aspecten van autosomaal dominante overerving 
+“ Complicerende processen (hfdst 9) ” 
+1. De novo mutaties
+2. Onvolledige penetrantie
+3. Variabele expressie
+4. Gonadaal mosaicisme
+5. Homozygoten voor dominante aandoening
+6. HeterogeniteitAUTOSOMAAL DOMINANT
+de novo mutatieBijzondere aspecten van autosomaal dominante overerving 
+“ Complicerende processen (hfdst 9) ” 
+1. De novo mutaties
+2. Onvolledige penetrantie
+3. Variabele expressie
+4. Gonadaal mosaicisme
+5. Homozygoten voor dominante aandoening
+6. HeterogeniteitAUTOSOMAAL DOMINANT
+Onvolledige penetrantie en variabele expressie
+Voorbeeld: hand en voet-spleetAUTOSOMAAL DOMINANT
+Onvolledige penetrantie en variabele expressieN/M
+*
+onvolledige penetrantie 
+variabele expressie
+*
+N/M
+N/M
+N/M N/MAUTOSOMAAL DOMINANT
+Onvolledige penetrantie en variabele expressie
+*
+*
+*AUTOSOMAAL DOMINANT
+Onvolledige penetrantie en variabele expressie
+voorbeeld: holoprosencefalie
+ernstBijzondere aspecten van autosomaal dominante overerving 
+“ Complicerende processen (hfdst 9) ” 
+1. De novo mutaties
+2. Onvolledige penetrantie
+3. Variabele expressie
+4. Gonadaal mosaicisme
+5. Homozygoten voor dominante aandoening
+6. HeterogeniteitKiembaGanOmNozAaiDcisAmeA oLf g oMnaOdaSaAl mIoCzIaSiciMsmEe
+N/N N/N
+voorbeeld : drie kinderen met achondroplasia en normale oudersPaternal age effectNew mutations in the child: about 63. That 
+number, however, varies widely—and the 
+main factor involved in this variation is the 
+age of the father. Mothers transmitted an 
+average of 14 mutations to their children, 
+regardless of age. Fathers showed a much 
+wider range: 20-year-olds passed on an 
+average of 29 mutations; 30-year-olds (the 
+average age of fatherhood in Dr 
+Stefansson’s sample) passed on 49; and 
+Augustus 2012, studie Iceland 40-year-olds passed 69.Bijzondere aspecten van autosomaal dominante overerving 
+“ Complicerende processen (hfdst 9) ” 
+1. De novo mutaties
+2. Onvolledige penetrantie
+3. Variabele expressie
+4. Gonadaal mosaicisme
+5. Homozygoten voor dominante aandoening
+6. HeterogeniteitÉénzelfde autosomaal dominante aandoening bij beide ouders
+* *
+* * * *
+Homozygoot voor dominante mutatie: vaak lethaal of heel ernstigBijzondere aspecten van autosomaal dominante overerving 
+“ Complicerende processen (hfdst 9) ” 
+1. De novo mutaties
+2. Onvolledige penetrantie
+3. Variabele expressie
+4. Gonadaal mosaicisme
+5. Homozygoten voor dominante aandoening
+6. HeterogeniteitAUTOSOMAAL DOMINANT
+Genetische heterogeniteit
+1. Allelische heterogeniteit
+2. Locus heterogeniteitAUTOSOMAAL DOMINANT
+Genetische heterogeniteit
+1. Allelische heterogeniteit (kan ook voor recessieve en X-gebonden)
+2. Locus heterogeniteitAllelische heterogeniteit
+voorbeeld: FBN1 gen verantwoordelijk voor Marfan syndroom AUTOSOMAAL DOMINANT
+Genetische heterogeniteit
+1. Allelische heterogeniteit (kan ook voor recessieve en X-gebonden)
+2. Locus heterogeniteitContractiele eiwitten 
+in de hartspierHypertrofische cardiomyopathie (Autos. Dominant)
+Locus heterogeniteitMENDELIAANSE OVERERVING
+1.Autosomaal recessief
+2.Autosomaal dominant
+3.X-gebondenIk wil graag duizend 
+keer sterker
+zijnMortaliteit bij man is groter dan bij vrouw 
+– op elk ogenblik van het leven
+Ook later in het leven : mortaliteit man > vrouwStructuur van de bevolking op 1 januari 2017
+per leeftijdsgroep van 5 jaar en per 1.000 inwoners In welke van deze drie famillies is de aandoening 
+zeker niet X-gebonden? 
+1                          2                          3X-GEBONDEN RECESSIEVE OVERERVING
+*
+X Y X  X
+* *X-gebonden hemofilievoorbeeld: Duchenne spierziekteX-GEBONDEN DOMINANTE OVERERVING
+*
+X Y X  X
+* *voorbeeld: Rett syndroomX-GEBONDEN recessief dominant
+Man 100% cellen 
+Ziek Lethaal
+(& 45,X) afwijkend
+ 
+Vrouw 50% cellen 
+gezond Mineure Manifestaties Ziek
+(en 47,XXY) afwijkend
+Intermediar fenotype
+- bv. milde spierklachten & Duchenne
+- bv. langere bloedstolling & Hemofilie A
+100% cellen 
+gezond gezond
+normaalX-GEBONDEN OVERERVING
+Belangrijke concepten:
+-  X-inactivatie
+-  Pseudo-autosomale regioX-inactivatie
+Inactivatie van 
+blastocyst Inactivatie van 
+Random
+inactivatieBARR CHROMATINE
+46,XY 46,XX*
+*
+X    X
+X   Y
+50% cellen normaal
+Alle cellen 
+50% cellen abnormaal
+abnormaalOCULAIR ALBINISME
+X-gebonden recessief50/50%
+100 %  100%
+Inactivatie X-chromosoom 1
+Inactivatie X-chromosoom 2Random X-inactivatie Skewing: >90 % van de cellen houdt 
+dezelfde X actief
+- toeval (random)
+- draagster van een mutatie die reeds vroeg 
+  embryonaal een rol speelt 
+- draagster van X-autosoom translokatie
+50/50%
+100 %  100%
+Inactivatie X-chromosoom 1
+Inactivatie X-chromosoom 2voorbeeld: draagster gebalanceerde X;15 translocatie
+X
+(X;15) = aktief
+15 X = inactief
+(X;15)       X
+(X;15) = inaktief
+X = actief
+(X;15)       X
+X
+X;15(X;15) = aktief
+X = inactief
+(X;15)       X
+Selectie na random
+&
+X-inactivatie
+(X;15) = inaktief
+X = actief
+(X;15)       X
+= inactivatie deel 15q
+= partiële monosomie 15qParen van X en Y-chromosoom tijdens de meiose : 
+met de pseudo-autosomale regio’s.PAR = pseudo-autosomale regio
+ op het Y- en X-chromosoom
+Y
+Bv. SHOX: short stature homeobox - gen  
+* gelegen in de PAR
+* mutatie --> kleine gestalte
+XGestalte en aantal SHOX-genen
+Y Y Y
+Y
+X X X X X X
+Klinefelter 47,XYY
+MAN VROUW Turner 
+Kleine Grote
+gestalte gestalte

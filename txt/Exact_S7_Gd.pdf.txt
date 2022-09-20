@@ -1,0 +1,222 @@
+8/22/2019
+Lay 2.7
+y
+x
+z
+Doel
+• Objecten in perspectief afbeelden
+• Objecten laten bewegen door het toepassen 
+van lineaire transformaties
+18/22/2019
+Perspectiefprojectie
+• Kijker op z=20
+• Scherm op z=0
+y
+• Voorwerp op z=10
+x
+z
+Homogene coördinaten
+• Waarom ?
+– Perspectiefprojectiekan uitgedrukt wordenalslineaire
+transformatie.
+– Translatieskunnenuitgedruktwordenals lineaire
+transformatie
+• Neem punt in  3(“de ruimte”): [x y z]T.
+
+• Homogene coördinaten bekomen we door een 1 
+toe te voegen als 4de element: u = [x y z 1]T
+• Indien het 4de element van een gegeven vector U
+= [X Y Z H]T niet 1 is, interpreteren we U als de 
+homogene coördinaat van [x y z]T met x=X/H, 
+y=Y/H, z=Z/H.
+28/22/2019
+Perspectiefprojectie
+• Kijker staat op positie [0 0 d]T.
+• Punten in de ruimte projecteren op een scherm.
+• Scherm is vlak met vergelijking z=0: [x* y* 0]T.
+Perspectief
+• Gelijkvormige driehoeken:
+𝑥∗= 𝑥 of dus 𝑥∗= 𝑥 𝑧 gelijkaardig 𝑦∗= 𝑦 𝑧
+𝑑 𝑑−𝑧 1−𝑑 1−𝑑
+𝑥
+𝑥
+• Gewenste transformatie: 𝑦  perspectief   𝑦
+𝑧 0
+(cid:3053)
+1 1−
+(cid:3031)
+𝑥
+1  0   0 0 𝑥
+𝑦
+0  1   0 0 𝑦
+0 =
+𝑧 0  0   0 0 𝑧
+1− 0    0  −1/𝑑   1 1
+𝑑
+P
+38/22/2019
+Voorbeeld (cfr. Lay sectie 2.7)
+• Object: 
+– Vlakke figuur
+– Beschreven door 8 punten, verbonden door lijnstukken
+– Hoofdletter N
+Perspectief
+• Plaats voorwerp op z=10
+• Kijker op z=20 (d=20); scherm op z=0
+• v= P umet ueen hoekpunt van het 
+y
+object
+x
+z=10
+z=20
+z
+48/22/2019
+Translatie
+• Punten verplaatsen over [a b c]T.
+• Gewenste transformatie:
+𝑥 𝑥 + 𝑎
+  
+𝑦 𝑡𝑟𝑎𝑛𝑠𝑙𝑎𝑡𝑖𝑒   𝑦 + 𝑏
+𝑧 𝑧 + 𝑐
+1 1
+𝑥 + 𝑎 1  0  0  𝑎 𝑥
+𝑦 + 𝑏 0  1  0  𝑏 𝑦
+=
+𝑧 + 𝑐 0  0  1  𝑐 𝑧
+1 0  0  0  1 1
+T
+Translatie
+• Translatie langsheen een cirkel met 
+diameter 10 in het x,z-vlak
+• a=sin(j); b=0; c=-5*(1-cos(j))
+y • v= PT umet 
+– ude homogene coördinaat van een 
+hoekpunt van het object
+– vde homogene coördinaat van de projectie 
+op het scherm
+– Tde translatiematrix
+– Pde perspectiefprojectie
+• Zie “shift.avi” waarbij j: 0  6
+x
+z=10
+z=20
+z
+58/22/2019
+Afschuiving in x,y vlak
+y y
+• In x,y-vlak
+𝑘
+0 T(e )=
+e = 2 1
+2 1
+x x
+1 1
+e = T(e )=
+1 0 1 0
+• Standaardmatrix: 𝑇(𝐞 ) 𝑇(𝐞 ) = 𝟏 𝒌
+𝟏 𝟐 𝟎 𝟏
+• z en “gewicht” ongemoeid laten. Standaardmatrix:   
+1  𝑘  0  0
+0  1  0  0
+S=
+0  0  1  0
+0  0  0  1
+Afschuiving
+• Afschuiving in het xy-vlak
+• k=0.1 sin(4*j)
+– j dezelfde hoek als voor de translatie
+y – 4 maal naar rechts en 4 maal naar links per ronde
+• v= PTS umet 
+– ude homogene coördinaat van een hoekpunt van 
+het object
+– vde homogene coördinaat van de projectie op 
+het scherm
+– Sde afschuiving
+– Tde translatiematrix
+– Pde perspectiefprojectie
+x • Zie “shear.avi” waarbij j: 0  6
+z=10
+z=20
+z
+68/22/2019
+Rotatie om y as
+−sin(𝜑)
+z T(e )= 0 z
+• Beeld van eenheids- 3
+cos(𝜑)
+0
+vectoren:
+e3= 0 cos(𝜑)
+• T(e )=e 1 T(e )= 0
+2 2 1
+sin(𝜑)
+j
+x x
+1
+e = 0
+1
+0
+• Ook “gewicht” ongemoeid laten. Standaardmatrix:
+cos(𝜑)  0  −sin(𝜑)  0
+0   1   0   0
+R=
+y sin(𝜑)  0 cos(𝜑)   0
+0   0   0   1
+Rotatie om y as
+• Vaste afschuiving in het xy-vlak (0.1)
+• v= PRS umet 
+y
+– ude homogene coördinaat van een 
+y hoekpunt van het object
+– vde homogene coördinaat van de projectie 
+op het scherm
+– Sde afschuiving
+– R de rotatiematrix
+y
+– Pde perspectiefprojectie
+• Zie “yrotatie.avi” waarbij j: 0  6
+x
+z=10
+z=20
+z
+78/22/2019
+Rotatie om z dan y as
+cos(𝜑)  −sin(𝜑)0  0
+sin(𝜑) cos(𝜑)   0  0
+R=
+y z 0   0 1  0
+0   0   0  1
+• Translatie over [-3;-4;0] om het object te centreren, 
+m.a.w. de z-as prikt door het midden van de “N” 
+• Vaste afschuiving in het xy-vlak (0.1)
+• v= PRRS T umet 
+y z
+x – ude homogene coördinaat van een hoekpunt van het 
+object
+– vde homogene coördinaat van de projectie op het scherm
+– Tde translatie om te centreren
+– Sde afschuiving
+– Ryde rotatiematrix om y as
+z=10 –– RPzddee p reortsapteiecmtieaftprirxo ojemct zie as
+• Zie “zyrotatie.avi” waarbij j: 0  6
+z=20
+z
+Rotatie om y dan z as
+y
+• Translatie over [-3;-4;0] om het object te centreren, 
+m.a.w. de z-as prikt door het midden van de “N” 
+• Vaste afschuiving in het xy-vlak (0.1)
+• v= PRRS T umet 
+z y
+x – ude homogene coördinaat van een hoekpunt van het 
+object
+– vde homogene coördinaat van de projectie op het scherm
+– Tde translatie om te centreren
+– Sde afschuiving
+– Ryde rotatiematrix om y as
+z=10 –– RPzddee p reortsapteiecmtieaftprirxo ojemct zie as
+• Zie “yzrotatie.avi” waarbij j: 0  6
+• Matrixvermenigvuldiging is niet commutatief
+z=20
+z
+8

@@ -1,0 +1,245 @@
+GeneticaOpbouw cursus: theorie lessen
+• Patronen van erfelijkheid: experimenten van Mendel en 
+aanvullingen hierop
+• Chromosomen
+• Mutaties
+• Genetica van bacteria en virussen
+• Populatiegenetica en evolutie
+• Genregulatie
+• Ontwikkelingsgenetica
+• Evolutie van ontwikkelingOpbouw cursus: oefeningen
+• voorspelling experimenten erfelijkheid
+• analyse van stambomen
+• genkartering
+• bepaling van allelen- en fenotypefrequentie in 
+populaties
+Arne Sinnesael
+oefeningensessiesOpbouw cursus: lesmateriaal
+• Uitgeschreven cursus (Acco)
+• Presentaties (Toledo)
+• Opnames lessen (Toledo)Opbouw cursus: opdrachten
+presentatie populariserend artikel:
+- kies artikel (overzicht op Toledo) – 11.10.2021
+- lees dit artikel grondig en zoek extra informatie op
+- ga indien mogelijk op zoek naar de wetenschappelijke publicatie waarop 
+het artikel gebaseerd is (indien van toepassing)
+- zoek extra informatie om onderwerp goed te begrijpen
+-  maak korte presentatie van 5-tal slides – 20.12.2021
+- inleiding
+- proefopzet
+- resultaten
+- conclusiemRNA vaccines
+Genetically modified rotifers
+Origin of watermelon
+Genetic origin of Basques
+Origin of land animals
+Sweet taste in birds
+Environmental DNA
+Mitochondria 2.0
+African genomes
+Nitrogen fertilisation
+Gay gene
+Genomes and privacy
+Pigs as organ donors
+Recent human evolution
+Gene drives
+Horizontal gene transfer
+Extramarital childrenOpbouw cursus: opdrachten
+discussieforum:
+- drie topics:
+- genoomscreening
+- designerbabies
+- GGO’s
+- geef input in discussieforum – 17.12.2021
+- geen activiteit = 0
+- deelname = +1
+- unieke inbreng van informatie = +2
+- sterke tegenargumenten tegen eerdere argumentatie = +3Puntenverdeling
+- examen: theorie + oefeningen 17/20
+- presentatie 2/20
+- discussieforum 1/20Wat is genetica?
+Studie van de variatie in kenmerken en de erfelijkheid van deze 
+variatie
+• pre-historie: veredelen van landbouwgewassen, besef van 
+doorgeven kenmerken van ouders naar nakomelingen, besef van 
+link inteelt-afwijkingen
+• 19e eeuw: model voor erfelijkheid (Mendeliaanse genetica)
+• 20e eeuw: ontdekking van mechanismen van erfelijkheid 
+(moleculaire genetica)
+• 21e eeuw: razendsnelle ontwikkeling van technologiën om 
+erfelijkheid te bestuderen en te manipuleren (klonen, 
+gentherapie, genetische modificatie, genoomkartering)Maatschappelijke relevantie
+Heb ik risico op bepaalde ziektes? Wie is mijn verre familie? Maatschappelijke relevantie
+Erfelijke afwijkingen 
+corrigeren?
+Landbouwgewassen 
+verbeteren? Maatschappelijke relevantie
+Vermijden van ernstige erfelijke afwijkingen?
+Selectie van embryo’s op basis van esthetische 
+eigenschappen?DNA - deoxyribonucleïnezuur
+• DNA = keten van nucleotiden 
+die verbonden zijn via 
+fosfaatbindingen
+• Nucleotide = fosfaat + suiker 
+(deoxyribose) + 
+stikstofhoudende base 
+(adenine, thymine, guanine, 
+cytosine)DNA - deoxyribonucleïnezuur
+• stikstofhoudende basen binden 
+met elkaar tot basenparen:
+• adenine – thymine
+• guanine – cytosine
+• twee DNA ketens binden met 
+elkaar via complementaire 
+basenparen (de twee ketens zijn 
+elkaars spiegelbeeld)
+• de twee DNA ketens lopen in 
+tegenovergestelde richting (5’ → 
+3’)
+• de twee DNA ketens vormen 
+een helix met een smalle en 
+brede groeve De genetische code
+• de vier basen (A, T, G, C) vormen 
+‘letters’
+• drie basen vormen een codon, 
+een ‘woord’
+• er zijn 24 = 64 codons mogelijk
+• elk codon codeert voor een 
+aminozuur
+• er zijn 20 aminozuren, wat 
+betekent dat sommige codons 
+voor een zelfde aminozuur 
+coderen
+• de vertaling van codons naar 
+aminozuren noemen we de 
+genetische codeGen en proteïne
+• een gen bestaat uit een reeks 
+van basenparen die 
+overeenkomt met een reeks 
+aminozuren
+• de ‘vertaling’ van DNA naar 
+aminozuren gebeurt in twee 
+stappen:
+• de basenparen worden 
+eerst omgezet naar een 
+overeenkomstige reeks RNA 
+basen door RNA 
+polymerase
+• deze RNA basen worden 
+omgezet naar een reeks 
+aminozuren door 
+ribosomenGen en proteïne
+• transcriptie: RNA polymerase 
+kopieert DNA naar RNA
+• codons in DNA komen overeen 
+met codons in RNAGen en proteïne
+• translatie: ribosomen ‘vertalen’ 
+een reeks codons naar een 
+keten van aminozuren RNAGen en proteïne
+• de keten van aminozuren vormt een 
+driedimensionele structuur, het proteïne
+• de vorm en functie van het proteïne wordt 
+bepaalt door de eigenschappen van de 
+aminozuren
+• proteïnen kunnen heel veel verschillende 
+functies hebben:
+• enzymen (voeren chemische reacties 
+uit)
+• signalen geven aan cellen
+• structuur (vb. keratine)
+• transport van moleculen
+• replicatie van DNA, transcriptie van DNA 
+naar RNA, translatie van RNA naar 
+proteïneMutaties
+• wanneer één of enkele basenparen in 
+de DNA keten wijzigen zegt men dat 
+er een mutatie opgetreden is
+• mutatie in gen:
+• codon(s) in DNA gewijzigd
+• codon(s) in RNA gewijzigd
+• aminozuren gewijzigd
+• functie van proteïne gaat 
+verloren of is gewijzigd
+• elk base in een gen kan muteren, 
+waardoor verschillende varianten van 
+genen kunnen ontstaan
+• deze varianten van genen noemen we 
+allelen van een genHet menselijke genoom
+• 3 miljard (3 000 000 000) basenparen 
+• 750 MB aan informatie
+• komt overeen 10 000 boeken Game of 
+Thrones, 95 jaar nodig om alles te lezen
+• geprint in 130 dikke volumesHet menselijke genoom
+• slechts 6.5 % van het genoom 
+bestaat uit de eigenlijke genen
+• het resterende deel is niet-coderend
+• transposons
+• DNA dat een rol speelt in 
+genregulatie (activeren of 
+inactiveren van genen)Het menselijke genoom
+• genen bestaan uit exons die coderen voor 
+aminozuren en introns die niet coderen voor 
+aminozuren 
+• de introns worden weggeknipt uit het RNA 
+vooraleer de translatie plaatsvindt (splicing)
+• dit betekent dat slechts 1.5 % van ons 
+genoom codeert voor aminozuren
+• je kan het genoom bekijken als een heel dik 
+boek dat weinig inhoud heeft, met slechts 
+hier en daar verspreide paragrafen die 
+effectief betekenis hebbenChromosomen
+• het totale menselijke genoom is 2 
+meter lang; dit past niet in een cel 
+die slechts 100 µm groot is
+• het DNA is sterk opgevouwen:
+• nucleosoom: DNA is 2 keer 
+gewikkeld rond 8 histonen 
+(proteïnen)
+• chromatine: een keten van 
+nucleosomen
+• het chromatine vormt een 
+solenoïde
+• een solenoïde wordt 
+opgevouwen tot een 
+chromosoomChromosomen
+• het genoom is opgedeeld in meerdere 
+chromosomen die variëren in grootte
+• elke cel bevat twee kopieën van het 
+genoom; van elk chromosoom zijn er 
+dus twee exemplaren: de homologe 
+chromosomen
+• in totaal bevat de cel 46 chromosomen
+• 2 x 22 autosomen
+• 2 geslachtschromosomen 
+• XY bij mannen
+• XX bij vrouwenChromosomen
+• autosomen komen voor in paren 
+van homologe chromosomen
+• na replicatie van het DNA bestaat 
+elk chromosoom uit twee 
+chromatiden; deze zijn verbonden 
+met elkaar ter hoogte van het 
+centromeer
+• de uiteinden van het chromosoom 
+zijn de telomerenChromosomen
+• de homologe chromosomen 
+bezitten de zelfde genen maar 
+kunnen verschillende allelen van 
+deze genen bezitten (cf. dezelfde 
+boeken maar met verschillende 
+drukfouten)
+• de chromatiden zijn identieke 
+kopieën en bezitten dezelfde genen 
+en dezelfde allelen van elk genWat is genetica?
+genotype      mutant gen
+DNA
+↓
+mRNA
+↓
+proteïne
+↓
+fenotype mutant fenotype
+genen zijn vaak vernoemd 
+naar mutante fenotypeProkayroot versus eukaryoot
+prokaryoot eukaryoot
+mens = 1014 cellenSeksuele voortplanting

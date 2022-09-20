@@ -1,0 +1,310 @@
+CHROMOSOMALE OVERERVINGTECHNIEKEN OM DE CHROMOSOMEN 
+TE BESTUDERENInterfase celkern
+Metafase-
+chromosomenMetafase van een normale humane cel zonder kleuring/banderingTECHNIEKEN OM DE CHROMOSOMEN 
+TE BESTUDEREN:
+1. KLASSIEK KARYOTYPELYMFOCYTEN KULTUURCHROMOSOMEN
+G-bandingCHROMOSOMEN
+T-bandingTriploide celChaotische celTECHNIEKEN OM DE CHROMOSOMEN 
+TE BESTUDEREN:
+1.KLASSIEK KARYOTYPE
+2. FLUORESCENTIE IN SITU HYBRIDISATIESpecifieke kleuring van de chromosomen met 
+behulp van fluorescentie in situ hybridisatie (FISH)FLUORESCENTIE IN SITU HYBRIDISATIE
+denatureren
+DNA
+chromosoom
+(2 chromatiden)DNA SONDE
+* fluorescerende gemerkt (groen, rood …)
+* afkomstig van specifieke chromosomale regio
++
+hybridisatieTOEPASSING van FISH : opsporen van microdeleties
+Del22q11.2
+Velocardiofaciaal syndroom
+Chromosoom 22
+• aangeboren hartafwijking
+• afwezige bijschildklieren Microdeletie in 
+• afwezige thymus  chromosoom 22q11
+• bijzonder gelaatnormal del22q11.247.XX,+ ringFISH met chromosoom 16 probes.INTERFASE FISHCyclus van de cel
+Mitose
+Interfaseinterfase metafase
+* witte bloedcel (lymfocyt) : 72 uur
+* huidcel (fibroblast) : 3 weken
+* amnioscel : 14 dagen
+* chorioncel: 10 à 14 dagenAmbigue genitalia
+JONGEN?? MEISJE ??46,XY
+46,XX
+  = chromosoom 21
+= X chromosoom
+ 
+ = Y chromosoomSYNDROOM VAN DOWN ?FISH OP PERIFEER BLOED; LYMFOCYTEN ZONDER KWEEK
+Probe: LSI-21 (chrom. 21)FISH OP PERIFEER BLOEDLYMFOCYTEN ZONDER KWEEK
+Probe: LSI-21 (chrom. 21)TECHNIEKEN OM DE CHROMOSOMEN 
+TE BESTUDEREN:
+1.KLASSIEK KARYOTYPE
+2. FLUORESCENTIE IN SITU HYBRIDISATIE
+3. MOLECULAIR KARYOTYPE = ARRAY-CGHMoleculaire  karyotypering
+Array comperatieve genoom hybridisatie
+          Array of DNA fragments
+Duplication
+Deletion
+Patient DNA Control DNA
+46,XX Cy5/ 46,XY Cy3A
+FAMF3/ApaMt A3 B MRXM1R7X 1(7A/p0a0t B9)
+)2 1.40 )2 1.40
+g g
+o o
+L 1.00 L 1.00
+o ( o (
+ati 0.60 ati 0.60
+3 r 3 r
+Cy 0.20 Cy 0.20
+5/ 5/
+Cy -0.20 Cy -0.20
+d  d 
+ze -0.60 ze -0.60
+ali ali
+m -1.00 m -1.00
+or or
+N N
+-1.40 -1.40
+0 20 40 60 80 100 120 140 160 0 20 40 60 80 100 120 140 160
+Position on X (Mb) Position on X (Mb)
+C MMRRXXM33RX113  1((/AApa00t 44C99)) D AA00575/p7at D
+)malized Cy5/Cy3 ratio (Log2 ---0011100.......26040620000000 )malized Cy5/Cy3 ratio (Log2 ---0011100.......26040620000000
+Nor -1.40 Nor -1.40
+0 20 40 60 80 100 120 140 160 0 20 40 60 80 100 120 140 160
+Position on X (Mb) Position on X (Mb)GENETISCHE VERSCHILLEN TUSSEN MENSEN
+1/1000 
+baseparen 
+=
+3 Mb verschil
+of  De 0,1% DNA die tussen mensen verschilt, 
+Is niet altijd dezelfde 0,1%: 
+0.1% variatie kan overal in onze genomen voorkomenGrote copy number variatie: ook op niveau van genoom is er variatie
+Nat Genet. 2004 Sep;36(9):949-51. Epub 2004 Aug 
+01.
+Detection of large-scale variation in the human 
+genome.
+Iafrate AJ, Feuk L, Rivera MN, Listewnik ML, Donahoe 
+PK, Qi Y, Scherer SW, Lee C.
+Men schat de aanwezigheid van ~30 CNVs/individu
+=
+30 Mb or 1%CHROMOSOMALE AFWIJKINGEN+
+Preimplantatie verlies : +/- 1/3
+- trisomie 1, trisomie 17, …
+Postimplantatie verlies : +/-1/3
+( < 6 we : 25%, > 6 we : 10%)
+> 80% chromosomale afwijkingen :
+trisomie 16, 21, triploidie, 45,X0, 
+monosomies
+geboorte 1/150 à 1/200 chromosomale afwijkingChromosoomafwijkingen
+1. Numerieke afwijkingen
+      Polyploïdie : triploïdie
+      Aneuploïdie
+- monosomie : niet leefbaar, met uitzondering van 45,X
+- trisomie : niet leefbaar, met uitzondering van 
+* trisomie 13, 18 : overleven niet lang
+* trisomie 21
+* trisomies van geslachtschromosomen : 
+XXX, XXY, XYY : minder ernstig
+2. Structurele afwijkingen
+    Translocatie
+    Inversie
+    Deletie
+    Duplicatie
+    …Chromosoomafwijkingen
+1. Numerieke afwijkingen
+• Polyploïdie : triploïdie (69 chromosomen)
+    tetraploïdie (92 chromosomen)
+• Aneuploïdie:
+- monosomie : niet leefbaar, met uitzondering van 45,X
+- trisomie : niet leefbaar, met uitzondering van 
+* trisomie 13, 18 : overleven niet lang
+* trisomie 21
+* trisomies van geslachtschromosomen : 
+XXX, XXY, XYY : minder ernstigPolyploïdie
+TRIPLOIDIE
+Kleine foetus Grote placentaPolyploïdie
+TRIPLOIDIE, 69,XXYAneuploïdie
+1.  Monosomie: 
+van een bepaald paar chromosomen is er 
+maar één aanwezigAneuploïdie
+Turner syndroom 45,X0
+MonosomieAneuploïdie
+Turner syndroom
+45,X0 syndroom
+• Voorkomen 1/10.000 pasgeboren meisjes
+• Eén X chromosoom aanwezig
+• Klein bij de geboorte
+• Lymfoedeem handen, voeten en nek
+• “Webbed neck”
+• Brede thorax
+• Cubiti valgi
+• Kleine gestalte
+• Primaire amenorroe (gonadale dysgenese)Turner syndroom
+45,X0 syndroom
+Sterk verdikte nekplooi
+Cystisch hygromaTurner syndroom
+45,X0 syndroomTurner syndroom
+45,X0 syndroomTurner syndroom
+45,X0 syndroomAneuploïdie
+1. Monosomie: van een bepaald paar chromosomen is er maar één aanwezig
+2. Trisomie: van een bepaald chromosoom zijn er drie aanwezigAneuploïdie
+TrisomiesAneuploïdie
+SYNDROOM VAN DOWN : 
+Oorzaak = TRISOMIE 21
+94%  = klassieke vrije trisomie 21
+2%  = mozaicisme
+4%  = robertsoniaanse translocatie bij één van de oudersAneuploïdie
+SYNDROOM VAN DOWN : 
+Oorzaak = TRISOMIE 21
+94%  = klassieke vrije trisomie 21
+2%  = mozaicisme
+4%  = robertsoniaanse translocatie bij één van de oudersAneuploïdie
+Jongen met klassieke vrije trisomie 21 : 47,XY,+21Aneuploïdie
+Meiotische deling
+normaal non-disjunctie anafase laggingAneuploïdieAneuploïdieRISICO TRISOMIE 21 ~ MATERNELE LEEFTIJDAneuploïdie
+SYNDROOM VAN DOWN : 
+Oorzaak = TRISOMIE 21
+94%  = klassieke vrije trisomie 21
+2%  = mozaicisme
+4%  = robertsoniaanse translocatie bij één van de ouders+
+Ontstaan van 
+mozaiek trisomie 21
+na de bevruchting !!!
+Fout mitose
+*
+alle dochter cellen monosomie 21 trisomie 21 in 
+normaal karyotype niet leefbaar alle dochtercellenMOZAICISMEAneuploïdie
+SYNDROOM VAN DOWN : 
+Oorzaak = TRISOMIE 21
+94%  = klassieke vrije trisomie 21
+2%  = mozaicisme
+4%  = robertsoniaanse translocatie bij één van de ouders13
+21
+Trisomie 21 op basis van niet-gebalanceerde 
+Robertsionaanse translocatie t(13;21)Robertsoniaanse translocatie = structurele 
+chromosoom afwijking
+• Samenvoegen van de q-armen van 2 acrocentrische chromosomen 
+(13, 14, 15, 21, 22)
+• p-armpjes kunnen probleemloos gemist worden
+• Gebalanceerd => geen problemen voor de drager
+• Drager heeft maar 45 chromosomen
+• Probleem bij de vorming van de geslachtscellenROBERTSONIAANSE TRANSLOCATIE
+Robertsoniaanse translocatie 45,XX,t(13;21)Normaal
+21
+1ste meiotische deling
+14Robertsoniaanse  
+Normaal 
+translocatie (14;21)
+T(14;21)
+21
+21
+14
+14Trivalent vorming
+2
+1 3
+1 2 3bevruchting
+M 21 T 21 drager  normaal M 14 T 14Aneuploïdie
+Trisomie 18
+• Syndroom van Edwards (1/8000 levend geborenen)
+• Groeiretardatie, polyhydramnion
+• Faciale dysmorfie, dysplastische oren
+• Kort sternum
+• Handen: “clenched fists”, overliggende vingers
+• Voeten: rocker bottom feet
+• Beperkte overleving omwille van majeure afwijkingen.Aneuploïdie
+Trisomie 18Trisomie 18Aneuploïdie
+Trisomie 13
+• Syndroom van Patau(1/10.000 levendgeborenen)
+• Gespleten gehemelte/lip; holoprosencephaly, doofheid, 
+microcefalie
+• Postaxiale polydactlie
+• VSD, persistent ductus arteriosus, ASD
+• Beperkte overleving: 18% overleeft 1ste levensjaar: ernstig MR, 
+stuipen en failure to thriveAneuploïdie
+Trisomie 13Aneuploïdie
+Trisomie 13Aneuploïdie
+47, XXXAneuploïdie
+47, XXY
+KlinefelterAneuploïdie
+47, XYYSPONTAAN MISKRAAM
+46,XX 46,XY
+46,XX 46,XY
+meiose meiose
+22,X 24,X 23,X 23,Y 23,X 23,X 22, 24,XY
+45,XX 45,XY 47,XX,+21 47,XY,+21 45,X 47,XXY 45,X 47,XXY
+NIET 20-30% 
+levensvatbaar levend geboren 5% levend geborenChromosoomafwijkingen
+2. Structurele afwijkingen
+• Translocatie
+• Inversie
+• Deletie
+• Duplicatie1. Structurele chromosomale 
+afwijkingen: translocatie• geen verlies aan chromosomaal materiaal
+• 1/600 personen drager
+• probleem bij de vorming van de gameten
+• doorgaans is drager gezond, tenzij er ter hoogte van het breekpunt een 
+      gen betrokken is Vorming van gameten:  1.
+quadrivalent
+&
+1
+2
+&
+(zeldzaam)
+2
+3
+3.
+&1.
+&
+bevruchting
+2.
+&
++
+3.
+&normaal gebalanceerde 
+niet-gebalanceerde 
+translocatie
+translocatie
+Partiele
+Partiele
+trisomie 
+trisomie
+monosomie
+monosomie
+• Miskraam
+• Vruchtbaarheidsproblemen 
+• Aangeboren afwijkingen en verstandelijke beperkingHerhaald miskraam in familie, op basis van een reciproke translocatie
+=miskraamChromosoomafwijkingen
+2. Structurele afwijkingen
+• Translocatie
+• Inversie
+• Deletie
+• Duplicatie2. Structurele chromosomale afwijkingen: deletieVelocardiofaciaal syndroom:
+deletie chromosoomfragment 22q11Williams syndroom:
+deletie chromosoomfragment 7q11.233. Structurele chromosomale afwijkingen: duplicatie
+Duplicatie van dosis-sensitieve genen 
+kan klinische problemen gevenINDICATIES VOOR EEN CHROMOSOMENONDERZOEK
+STANDARD KARYOTYPE
+-Herhaald miskraam
+-Onvruchtbaarheid
+-Vroeg intrauterien overlijden (fetus nagekeken)
+-Familielid met een chromosomale herschikking
+MOLECULAIR KARYOTYPE/ Array-CGH
+-Onverklaarde ontwikkelingsachterstand
+-Onverklaarde aangeboren afwijkingen
+-Abnormale ontwikkeling van geslacht, ambigue geslachtsorganen
+-Onverklaarde abnormale groei
+-Familielid met gekende chromosomale afwijking (deletie/duplicatie)
+FISH
+-Abnormale ontwikkeling van geslacht, ambigue geslachtsorganen
+-Opsporen van gekend microdeletie/duplicatie syndroomMOZAICISME
+= niet alle cellen in het lichaam van een individu hebben dezelfde 
+genetische samenstellingMOSAICISME
+Somatische cellen
++
+somatisch
+Kiemcellijn
+kiembaan
+Placenta
+placentair

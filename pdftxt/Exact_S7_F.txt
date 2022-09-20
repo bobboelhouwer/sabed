@@ -1,0 +1,113 @@
+8/22/2019
+
+Lay 1.8 & 1.9
+
+u1
+[a1 a2 … an] u2 = u1 a1 + u2 a2 + … + un an
+⋮
+un
+
+Matrixproduct: definitie &
+eigenschappen
+• m×n matrix A = [a1 a2 … an]
+• u=
+
+u1
+u2
+⁞
+un
+
+ n
+
+• Matrixproduct Au = u1 a1 + u2 a2 + … + un an  m
+• A(u+v) = (u1+v1) a1 + (u2+v2) a2 + … + (un+vn) an
+= (u1 a1 + u2 a2 + … + un an) + (v1 a1 + v2 a2 + … + vn an)
+= Au + Av
+• A(cu) = (cu1) a1 + (cu2) a2 + … + (cun) an
+= c(u1 a1 + u2 a2 + … + un an) = c(Au)
+
+1
+
+ 8/22/2019
+
+Lineaire transformatie
+• b = Ax kan je zien als een transformatie die
+x  n afbeeldt op b  m
+• We noteren b = T(x)
+• Voorbeeld 2  2
+• T(x) is lineair :
+
+1) T(u + v) = T(u) + T(v)
+2) T(cu) = c T(u)
+
+x
+
+2x
+
+T(2x)=2Ax
+T(x)=Ax
+
+T(0)=A0=0
+
+Lineaire transformatie
+• b = Ax kan je zien als een transformatie die
+x  n afbeeldt op b  m
+• We noteren b = T(x)
+• Voorbeeld 2  2
+• T(x) is lineair :
+
+1) T(u + v) = T(u) + T(v)
+2) T(cu) = c T(u)
+
+x
+
+T(x)=Ax
+
+2
+
+ 8/22/2019
+
+(standaard) Matrix van T(x)
+• x=
+
+x1
+x2
+⁞
+xn
+
+= x1
+
+1
+0
+⁞
+0
+
++ x2
+
+0
+1
+⁞
+0
+
++ ... + xn
+
+0
+0
+⁞
+1
+
+= x1 e1 + x2 e2 + … + xn en
+• T(x)= x1 T(e1) + x2 T(e2) + … + xn T(en)
+= [T(e1) T(e2) … T(en)]
+
+x1
+x2
+⁞
+xn
+
+= [T(e1) T(e2) … T(en)] x
+= Ax
+
+3
+
+ 

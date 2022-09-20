@@ -1,0 +1,280 @@
+Aanvullende oefeningen bij Hoofdstuk IX  36
+Oefening 1 
+Bereken de celpotentiaal van onderstaande galvanische cellen wanneer gebruik wordt ge-
+maakt van volgende halfcellen. 
+•  (Cd2+/Cd) en (Cu2+/Cu) 
+•  (Sn2+/Sn) en (Br /Br-) 
+2
+oplossing: 
+•  0,74 V 
+•  1,21 V 
+ 
+Oefening 2 
+Gaan de volgende reacties spontaan door? Geef de deelreacties, de globale reactie (voorge-
+tallen !) en de algemene voorstelling van de galvanische cel. 
+•  Al  + Cu2+                    Cu  + Al3+  
+(v) (opl) (v) (opl)
+•  Cu  + Fe3+                    Cu2+  + Fe2+  
+(v) (opl) (opl) (opl)
+•  Sn4+  + Cr3+  + H O                    Sn2+  + Cr O 2-  + H+  
+(opl) (opl) 2 (vl) (opl) 2 7 (opl) (opl)
+Oplossing: 
+•  spontaan naar rechts 
+•  spontaan naar rechts 
+•  niet spontaan naar rechts, wel naar links 
+ 
+Oefening 3 
+Schrijf de deelreacties en de globale reactie voor de volgende galvanische cellen. 
+•  Pt, O   (1 bar) / H O  // Ag+  / Ag  
+2(g) 2 2(opl) (opl) (v)
+•  Sn  / Sn2+ (1 M) // Zn2+  (1 M) / Zn  
+(v) (opl )  (opl) (v)
+•  Pt, Cl  (1 bar) / Cl-  (1 M) // Cu2+  (1 M) / Cu  
+2(g) (opl) (opl) (v)
+ 
+Oefening 4 
+Wat is de standaard elektrode potentiaal voor de Cl /Cl- elektrode? 
+2
+Gegeven:   Pt, H  (1 bar) / H+  (1 M) //  Cl-  (1 M) / Cl  (1 bar), Pt          E°  = 1,358 V   
+2(g) (opl) (opl) 2(g) cel
+Oplossing:  E° = 1,358 V 
+ 
+Oefening 5    
+Indien H O  wordt toegevoegd aan een oplossing die Fe2+-ionen bevat, treedt dan oxidatie 
+2 2
+(Fe2+ - e-             Fe3+)  of reductie (Fe2+ + 2e-           Fe) op van het Fe2+-ion?  
+Oplossing: Oxidatie van Fe2+ 
+ 
+Oefening 6              
+Hoe gedraagt H O  zich (oxidans of reductans) t.o.v. volgende oplossingen: 
+2 2
+•  Een oplossing die I  en I- bevat. 
+2
+•  Een oplossing die S O 2- en SO 2- bevat. 
+2 8 4
+Oplossing: 
+•  oxidans 
+•  reductans 
+ 
+Oefening 7 
+Zijn oplossingen van Fe2+-ionen stabiel aan de lucht? Verklaar waarom aan dergelijke oplos-
+singen soms ijzer-metaal wordt toegevoegd. 
+Oplossing: 
+•  spontane oxidatie van Fe2+ tot Fe3+ door O             E° = 0,46 V 
+2
+•  spontane reductie van Fe3+ tot Fe2+ door Fe            E° = 1,22 V 
+ 
+Oefening 8 
+Bereken (cid:1)G° in kJ voor volgende reacties: Aanvullende oefeningen bij Hoofdstuk IX  37
+•  2 Fe3+ + Sn                                       2 Fe2+ + Sn2+ 
+•  Cu + 2 H+                                          Cu2+ + H  
+2
+•  3 Mg2+ + 2 Al                                     3 Mg + 2 Al3+ 
+•  Mn + Zn2+                                          Mn2+ + Zn 
+•  6 Mn2+ + 5 Cr O 2- + 22 H+                6 MnO - + 10 Cr3+ + 11 H O 
+2 7 4 2
+oplossing: 
+•  -175,63 kJ 
+•  65,62 kJ 
+•  411 kJ 
+•  -81 kJ 
+•  810,6 kJ 
+ 
+Oefening 9 
+Wat is de elektrodepotentiaal van een Zn2+ / Zn elektrode, waarbij de concentratie van Zn2+-
+ionen = 0,1 M? 
+Oplossing: E = -0,79 V 
+ 
+Oefening 10 
+Bereken de potentiaal van volgende cellen: 
+•  Ni  / Ni2+  (0,01 M) // Cl-  (0,2 M) / Cl  (1 bar), Pt   
+(v) (opl) (opl) 2(g)
+•  Sn  / Sn2+ (1 M) // Pb2+  (0,001 M) / Pb  
+(v) (opl )  (opl) (v)
+oplossing: 
+•  E = 1,72 V 
+•  E = -0,079 V 
+ 
+Oefening 11 
+( )
+Bereken (H+) in een cel, waarbij:   Mg2+ = 1M      P = 1bar     en    E  = 2,099 V 
+H cel
+2
+Reactie:   Mg  + 2 H+                    Mg2+  + H
+(v) (opl) (opl) 2(g) 
+ 
+[ ]
+oplossing:  H+ = 2,6 10-5 M  
+ 
+Oefening 12 
+Bereken de pH van de oplossing in volgende cel: 
+Pt, H  (1 bar) / H+  (?) // H+  (1 M) / H  (1 bar), Pt       E  = 0,207 V  
+2(g) (opl) (opl) 2(g) cel
+Oplossing:    pH = 3,5   
+ 
+Oefening 13 
+Ga na of volgende redoxreacties spontaan doorgaan en bereken de evenwichtsconstante. 
+•  Sn  + Ni2+                       Sn2+  + Ni  
+(v) (opl) (opl) (v)
+•  Fe2+  + Ag+                     Fe3+  + Ag  
+(opl) (opl) (opl) (v)
+ 
+oplossing:  8,7  10-5  3,22 
+ 
+Oefening 14 
+Bereken de evenwichtsconstante van de reactie:  2 Ce4+ + Sn2+        Sn4+ + 2 Ce3+ 
+Oplossing: K = 1,3  1053 
+ 
+Oefening 15 
+Gegeven: concentratieketen 
+ 
+    CuSO4-oplossing  CuSO4-oplossing   
+  Cu  (Cu2+) = x  (Cu2+) = 10-2  Cu 
+ Aanvullende oefeningen bij Hoofdstuk IX  38
+•  Indien x kleiner is dan 10-2, welke is dan de positieve elektrode? 
+•  Indien het potentiaalverschil 0,8 V bedraagt, wat is de waarde van x? 
+Oplossing: 
+•  Rechter elektrode is positief. 
+•  x = 7,6  10-30 
+ 
+Oefening 16 
+Bereken E  van volgend galvanisch element:  Ni  / Ni(NO )  // AgNO  / Ag
+cel (v) 3 2(opl) 3(opl) (v) 
+waarbij de concentratie van Ni(NO )  = 0,005 mol.l-1 en de dissociatiegraad (cid:2) = 0,55 
+3 2
+            de concentratie van AgNO  = 0,1 mol.l-1   en (cid:2) = 0,75      
+3
+Oplossing:  E = 1,069 V   (de Ag+ / Ag-elektrode is positief) 
+ 
+Oefening 17  
+In welke richting gaat de volgende reactie spontaan door? 
+  NO - + H+ + Ce3+                NO + H O + Ce4+           (reactie vervolledigen) 
+3 2
+( ) ( ) ( )
+Ce3+ = Ce4+ = NO- = standaardconcentraties 
+3
+P  = 0,5 bar bij pH = 1. 
+NO
+Bereken (cid:1)G en (cid:1)G° voor deze reactie. 
+Oplossing: 
+•  naar links 
+•  (cid:1)G = -240,28 kJ 
+•  (cid:1)G° = -220 kJ 
+ 
+Oefening 18 
+De volgende cel is in evenwicht: 
+Links:    PbO  + SO 2-  + H+             PbSO  + H O       (E° = 1,69 V) 
+2(v) 4 (opl) (opl) 4(v) 2 (vl)
+Rechts:         MnO -  + H+                           MnO  + H O         (E° = 1,70 V) 
+4(opl) (opl) 2(v) 2 (vl)
+[ ]
+In de linkse halfcel is  SO2- = 10-2 M . In beide halfcellen is de pH = 2. 
+4
+[ ]
+•  Bereken  MnO- in de rechtse halfcel. 
+4
+•  Wat gebeurt er als we in de linkse halfcel de pH op 1 brengen? 
+Oplossing: 
+[ ]
+•  MnO- =5,9 10-8 M  
+4
+•  reactie naar links 
+ 
+Oefening 19 
+Beschouw een elektrochemische cel bestaande uit de volgende halfcellen: 
+Links:             Ag+                            Ag                                 (E° = 0,8 V) 
+(opl) (v)
+Rechts:         PbO  + H+              Pb2+  + H O               (E° = 1,45 V) 
+2(v) (opl) (opl) 2 (vl)
+ 
+( ) ( )
+•  Ag+ = 10-2 M . Bereken  Pb2+ bij pH = 2 als E  = 0,6 V. 
+cel
+•  Hoe groot moet de pH van de rechtse halfcel worden om, voor dezelfde concentraties 
+aan Ag+ en Pb2+, een E  van 0,66 V te bekomen? 
+cel
+ 
+Oplossing: 
+( )
+•  Pb2+ = 0,0057 M  
+•  pH = 1,5 
+ 
+Oefening 20 
+Een oplossing bevat HCl (0,1 M). Aan 100 ml van deze oplossing wordt een Ce4+-oplossing 
+toegevoegd (0,3 M). Hierdoor wordt Cl  gevormd.    Cl-  +  Ce4+            Cl   +  Ce3+                                
+2 2
+ Aanvullende oefeningen bij Hoofdstuk IX  39
+Hoeveel  Cl-  blijft  over  wanneer  de  potentiaal  1,45  V  geworden  is?  Neem  aan  dat 
+P = 1bar.  Wat is de potentiaal na toevoegen van 50 ml Ce4+-oplossing? 
+Cl
+2
+Oplossing: 
+[ ]
+•  Cl- = 0,03M  
+•  E = 1,7 V 
+ 
+Oefening 21 
+In welke richting gaat de volgende reactie spontaan door: 
+  H O + Fe3+              O  + H+ + Fe2+              
+2 2  2
+Indien (H O ) = (Fe2+) = standaardconcentraties 
+2 2
+( )
+            Fe3+ = 2 10-3 M  
+  pH = 1 en P = 2bar 
+O
+2
+Je wil de reactie omkeren: zou je de concentratie aan Fe3+ vergroten of verkleinen? 
+ 
+Oplossing: 
+[ ]
+Fe3+ = 0,0043M  
+ 
+Oefening 22 
+Beschouw de volgende cel:  Ag  / Ag+ (?) // Hg2+  (0,1 M) / Hg
+(v) (opl )  (opl) (vl) 
+[ ]
+•  Hoe groot moet  Ag+  zijn opdat de cel in evenwicht zou zijn? 
+[ ]
+•  Vervang de rechtse halfcel door Pt2+ / Pt. Hoe groot moet  Pt2+ zijn opdat geen 
+stroom door die cel zou vloeien? 
+Oplossing: 
+[ ]
+•  Ag+ = 2,6 M  
+[ ]
+•  Pt2+ = 1,8 10-13 M  
+ 
+Oefening 23 
+Een oplossing bevat Fe2+ (0,05 M) bij een pH van 1. Aan 100 ml van die oplossing wordt 50 
+ml KMnO  (0,01 M) toegevoegd. 
+4
+•  Bereken de potentiaal van de oplossing. 
+•  Hoeveel ml KMnO  dient te worden toegevoegd aan 100 ml Fe2+-oplossing om de po-
+4
+tentiaal op 0,83 V te brengen? 
+Oplossing: 
+•  E = 0,77 V 
+•  91,2 ml KMnO   0,01 M 
+4
+ 
+Oefening 24 
+Een cel is opgebouwd uit de volgende twee halfcellen: 
+ 
+Links:            NO - + H+                               NO  + H O           (E° = 0,96 V) 
+3(opl) (opl) (g) 2 (vl)
+Rechts:         PbO  + SO 2-  + H+              PbSO  + H O      (E° = 1,69 V) 
+2(v) 4 (opl) (opl) 4(v) 2 (vl)
+ 
+Reacties vervolledigen! 
+( )
+Gegeven: links:      NO- = 0,1M               ;              P  = 1 bar           
+3 NO
+                 rechts:  (H SO ) = 0,1M  
+2 4
+( )
+Gevraagd:  H+ = ? als E  = 0,75  V 
+links cel
+ 
+( )
+Oplossing:   H+ = 4 10-2 M  
+links

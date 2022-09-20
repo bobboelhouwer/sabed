@@ -1,0 +1,296 @@
+8/22/2019
+Lay 1.4, 1.5, 1.6 & 1.7
+Lineaire combinaties en span
+18/22/2019
+Lineaire combinaties
+• v , v , … v in  n
+1 2 p 
+• c , c , … c in 
+1 2 p 
+• dan is y = c v + c v + … + c v in  n een
+1  1 2  2 p p 
+lineaire combinatie van de vectoren v , v , … 
+1 2
+v met gewichten c , c , … c
+p 1 2 p
+• De verzameling van alle mogelijke lineaire
+combinaties van v , v , … v noemen we 
+1 2 p
+Span{v , v , … v } en is  n
+1 2 p 
+Span in  3
+
+28/22/2019
+Stelsels lineaire vergelijkingen als 
+vector- en matrixvergelijkingen
+Vectorvergelijking
+• Gegeven a , a , … a in  m
+1 2 n 
+• Gegeven b in  m
+
+• Kan b als lineaire combinatie van a , a , … a
+1 2 n
+geschreven worden ?
+• Ligt b in Span{a , a , … a } ?
+1 2 n
+• Heeft de vectorvergelijking
+b = x a + x a + … + x a een oplossing ?
+1  1 2  2 n n
+38/22/2019
+Oplossing
+• Gelijkheid asa elk element van de vector van 
+het linker en rechter lid gelijk
+x a + x a + … + x a = b
+1  1 2  2 n n
+• Resulteert in een stelsel van m vergelijkingen 
+met uitgebreide coëfficiëntenmatrix 
+[a a … a b]
+1 2 n
+Matrixvergelijking Ax=b
+• m×n matrix A = [a a … a ]
+1 2 n
+x
+1
+• x =      x 2     n
+
+⁞
+x
+n
+• Def: Matrixproduct Ax = x a + x a + … + x a
+1  1 2  2 n n
+• Equivalentie:
+1. Ax = b
+2. x a + x a + … + x a = b
+1  1 2  2 n n
+3. Stelsellineairevergelijkingenmet uitgebreidematrix
+[a a … a b]
+1 2 n
+48/22/2019
+Matrix-vector-product: eigenschappen
+• A (u + v) = Au + Av
+• A(cu) = c(Au)
+• A  mxn; u,v  n ; c 
+  
+• Bewijs: 
+– via definitie Ax = x a + x a + … + x a herleiden
+1  1 2  2 n n
+tot vectorbewerkingen
+– vb: A(cu) = (cu )a + … + (cu )a
+1 1 n n
+= c(u a + … + c a ) = c(Au)
+1  1 n n
+Relatie met echelonvorm
+• m×n coëfficiëntenmatrix A = [a a … a ] gegeven
+1 2 n
+• Volgende beweringen zijn equivalent:
+a) Ax = b heeft een oplossing voor elke b  m
+
+b) elke b  m is een lineaire combinatie van 
+
+a , a , … a
+1 2 n
+c) Span{a , a , … a } =  m
+1 2 n 
+d) A heeft een pivotpositie in elke rij
+58/22/2019
+Bewering d)
+• U is de echelonvorm van A, dus A U
+
+• Dan is [A b]  [U d]
+
+• Veronderstel d) is waar (U heeft een pivot in elke rij )
+Geen enkele pivot van [U d] ligt in d(maar in U)
+Het stelsel is dus consistent, wat ook bwas
+Bewering a) is waar
+• Veronderstel d) is niet waar (U heeft een nulle rij)
+De nulle rij (m) leidt tot een vergelijking 0=dm
+Kies een dmet dm0 zodat [U d] geen oplossing heeft
+Keer de rijoperaties om, om een bte vinden waarvoor er 
+geen oplossing is van [A b] 
+Bewering a) is niet waar
+Stelsels homogene vergelijkingen
+68/22/2019
+Homogene lineaire vergelijkingen
+• Ax =0
+• Heeft steeds de triviale oplossing x= 0
+– Nooit strijdig
+• Heeft niet-triviale oplossingen 
+er is minstens 1 vrije variabele
+minstens 1 niet-pivotkolom in A
+• Niet-triviale oplossingen in parametrische vorm
+– Rijreductie tot gereduceerde echelonvorm
+– Basisvariabelen als functie van vrije variabelen
+Parametrische oplossing
+1 0 * * 0 * 0 0
+0 1 * * 0 * 0 0
+0 0 0 0 1 * 0 0
+0 0 0 0 0 0 1 0
+0 0 0 0 0 0 0 0
+x x x x x x x
+1 2 3 4 5 6 7
+78/22/2019
+Parametrische oplossing
+1 0 * * 0 * 0 0
+0 1 * * 0 * 0 0
+0 0 0 0 1 * 0 0
+0 0 0 0 0 0 1 0
+0 0 0 0 0 0 0 0
+x x x x x x x
+1 2 3 4 5 6 7
+Parametrische oplossing
+1 0 * * 0 * 0 0
+0 1 * * 0 * 0 0
+x1 0 +x2 0 +x3 0 +x4 0 +x5 1 +x6 * +x7 0 = 0
+0 0 0 0 0 0 1 0
+0 0 0 0 0 0 0 0
+88/22/2019
+Parametrische oplossing
+1 0 0 0 * * *
+0 1 0 0 * * *
+x1 0 +x2 0 +x5 1 +x7 0 = -x3 0 -x4 0 -x6 *
+0 0 0 1 0 0 0
+0 0 0 0 0 0 0
+Parametrische oplossing
+1 0 0 0 -* -* -*
+0 1 0 0 -* -* -*
+x1 0 +x2 0 +x5 1 +x7 0 = +x3 0 +x4 0 +x6 -*
+0 0 0 1 0 0 0
+0 0 0 0 0 0 0
+98/22/2019
+Parametrische oplossing
+x -* -* -*
+1
+x -* -* -*
+2
+x5 = +x3 0 +x4 0 +x6 -*
+x 0 0 0
+7
+0 0 0 0
+Parametrische oplossing
+x -* -* -*
+1
+x -* -* -*
+2
+x5 = +x3 0 +x4 0 +x6 -*
+x 0 0 0
+7
+108/22/2019
+Parametrische oplossing
+x -* -* -*
+1
+x -* -* -*
+2
+x5 = +x3 0 +x4 0 +x6 -*
+x 0 0 0
+7
+x 1 0 0
+3
+x 0 1 0
+4
+x 0 0 1
+6
+Parametrische oplossing
+x -* -* -*
+1
+x -* -* -*
+2
+x3 = +x3 1 +x4 0 +x6 0
+x 0 1 0
+4
+x 0 0 -*
+5
+x 0 0 1
+6
+x 0 0 0
+7
+• Oplossingenverzameling van een homogeen
+stelsel is opgespannen door een aantal 
+vectoren
+118/22/2019
+Voorbeeld: verbranding van propaan
+• 𝑥  C H + 𝑥   O  →  𝑥  CO  +  𝑥   H O
+(cid:2869) (cid:2871) (cid:2876) (cid:2870) (cid:2870) (cid:2871) (cid:2870) (cid:2872) (cid:2870)
+• Wat zijn x , x , x en x ?
+1 2 3 4
+• Lavasier: atomen veranderen niet
+C
+• Elke molecule voorgesteld als vector:  H
+O
+3 0 1 0
+• C H : 8 O : 0   CO : 0   H O: 2
+(cid:2871) (cid:2876) (cid:2870) (cid:2870) (cid:2870)
+0 2 2 1
+3 0 1 0
+• 𝑥 8 +𝑥   0 = 𝑥 0 +𝑥 2
+(cid:2869) (cid:2870) (cid:2871) (cid:2872)
+0 2 2 1
+Voorbeeld: verbranding propaan (2)
+3 0 1 0 0
+• 𝑥 8 +𝑥   0 −𝑥 0 −𝑥 2 = 0
+(cid:2869) (cid:2870) (cid:2871) (cid:2872)
+0 2 2 1 0
+3 0 −1 0 0 1 0 −1/3 0 0
+• 8 0 0     −2 0 ~ 0 0 8/3     −2 0
+0 2 −2 −1 0 0 2 −2 −1 0
+1 0 −1/3 0 0 1 0 0 −1/4 0
+~ 0 1 −1     −1/2 0 ~ 0 1 0    −5/4 0
+0 0 1 −3/4 0 0 0 1 −3/4 0
+x 1/4 x1 x2 x3 x4
+1
+xx23 = +x4 35//44 Kies x4= 4    C(cid:2871)H(cid:2876) +5 O(cid:2870) →  3 CO(cid:2870) +4 H(cid:2870)O
+x 1
+4
+128/22/2019
+Niet-homogene stelsels
+• Laat p een oplossing zijn van het consistent 
+stelsel Ax = b, dus Ap = b
+• Dan is de oplossingenverzameling van Ax = b 
+gegeven door p + v met
+h
+– v een oplossing van Ax = 0
+h
+– A(p + v )=Ap+A v = b + 0
+h h
+Lineair (on)afhankelijke vectoren
+138/22/2019
+Lineaire onafhankelijkheid (l.o.)
+Lineaire afhankelijkheid (l.a.)
+a , a , … a  m zijn lineair onafhankelijk
+1 2 n 
+Ax = [a a … a ]x = x a + x a + … + x a = 0
+
+1 2 n 1  1 2  2 n n
+heeft enkel oplossing x=0
+L.A. vectoren herkennen
+• a , a , … a  m met n> m dan zijn ze l.a.
+1 2 n 
+bewijs
+Veronderstel l.o. Ax= 0heeft unieke oplossing geen vrije 
+variabelen er zijn npivots
+Anderzijds ten hoogste 1 pivot per rij, dus steeds#pivots m
+Dus nm  n> m
+Dus lineair afhankelijk
+• Als de verzameling vectoren de nulvector bevat is de 
+verzameling l.a.
+148/22/2019
+Algemeen (stelling 7)
+a1,…,anml.a.(n2;a10)
+j>1zodataj=c1a1+…+cj-1aj-1
+Bewijs
+c
+1
+ x= c⁞ iseenoplossingvan[a1a2…an]x=0
+j-1
+-1
+0
+⁞
+0
+x1,x2…xnnietallen0zodatx1a1+x2a2+…+xnan=0
+Neemjdehoogsteindexwaarvoorxj0
+a =(-x /x)a +…+(-x /x)a
+j 1 j 1 j-1 j j-1
+Nota1:j1wantdanzoux a =0metx 0a =0
+1 1 1 1
+Nota 2: (sterker) er bestaat zelfs een vector die een l.c. is van
+voorgaandel.o.vectoren.
+15

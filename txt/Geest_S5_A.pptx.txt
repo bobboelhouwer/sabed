@@ -1,0 +1,112 @@
+Tekstwetenschap 1
+Inleiding en situering – deel 1
+Praktische informatie
+
+Doelstellingen en inhouden
+Inleiding tot het domein van de tekstwetenschap (11 colleges – P.Pauwels)
+Kennismaken met verschillende theoretische invalshoeken (denkkaders en wetenschappers)
+Basisbegrippen kennen en kunnen hanteren
+Toepassingen verkennen
+Inleiding informatievaardigheden en heuristiek
+Wetenschappelijke bronnen zoeken via het internet (23/3 – M.Opgenhaffen)
+Wetenschappelijke bronnen zoeken via het bibliotheeksysteem (27/4 – P.Hebb)
+
+Werkvorm inleiding tekstwetenschap
+Handboek: Goddard and Carey – Discourse, The Basics.
+Telkens hoofdstuk vooraf lezen – als inleiding op het thema
+MEEBRENGEN/BIJ DE HAND
+Interactief hoorcollege
+Schema om eigen notities te structureren (OPGELET)
+Vraag en antwoord (Poll Everywhere)
+Powerpoint (NA de les ter beschikking via Toledo)
+Extra materiaal op Toledo
+Kennisclips (leerstof) – concepten en voorbeeldanalyses
+Corpusmateriaal 
+Uitgebreide citaten en papers (geen leerstof)
+Verwerkingstaken (voor én na)
+
+
+
+Leerstof
+Leerstof = onderwerpen cfr powerpointpresentaties
+Ppt aangevuld met eigen notities en met informatie uit handboek (thema’s uit handboek die niet in les aan bod komen NIET); 
+Kennisclips die bepaalde kernconcepten verder uitdiepen; 
+Methoden voor tekstanalyse;
+
+Evaluatie
+Schriftelijk examen tekstwetenschap (gesloten en open vragen)
+Bv definieer, leg het verschil uit tussen, bespreek benadering, pas benadering toe op taalmateriaal 
+voorbeeld volgt later
+Schriftelijk examen online heuristiek (1 vraag)
+Schriftelijk examen bibliotheekheuristiek ( 1 vraag)
+
+
+Basisbegrippen
+Tekst en ‘discourse’
+Wat is ‘tekst’ ?
+Waaruit bestaat tekst ? 
+Natuurlijke taal d.i. “taal die in een menselijke gemeenschap gebruikt wordt voor algemene communicatie en die een kind, opgroeiend in zo’n gemeenschap, als zijn moedertaal leert” (Brône, s.d.)
+Vanaf/tot wanneer noem je iets tekst?
+
+
+Wanneer wordt een stuk taal ‘tekst’
+NIET omdat het neergeschreven wordt
+NIET omdat het een bepaalde omvang heeft
+NIET enkel omdat het samenhangend is
+NIET enkel omdat het gebruikt wordt
+“We can define text, in the simplest way perhaps, by saying that it is language that is functional. By functional, we simply mean that it is doing some job in some context, as opposed to isolated words or sentences that I might put on the blackboard. […] So any instance of living language that is playing some part in a context of situation, we shall call a text.” (Halliday and Hasan, 1989:10)
+Definities van tekst
+“The difference between a text and a clause is that a text is a semantic entity, i.e. a construct of meaning, whereas a clause is a lexicogrammatical entity, i.e. a construct of wording. A text is an intersubjective event in which speaker and listener exchange meaning in a context of situation. Texture is what makes a text into a coherent piece of language […]” (Halliday, 2009: 362)
+“We can continue regarding text as a primarily linguistic cultural artefact, but develop ways of analyzing other semiotic forms which are co-present with language, and especially how different semiotic forms interact in the multisemiotic text.” (Fairclough, 1995:4)
+“Texts are social spaces in which two fundamental social processes simultaneously occur: cognition and representation of the world, and social interaction.” (Fairclough, 1995:6)
+
+
+
+Definities van tekst (vervolg)
+“In the final analysis, therefore, the answer to our opening question, ‘what is a text’, is theory dependent and […] in view of its dependency on a particular context and situation, cannot be entirely unambiguous.” (Titscher et al. 2000:20)
+
+Wat is ‘discours’?
+DutchWeb2014Corpus (Sketchengine): 1,47/miljoen; concordantie:
+volgen zij blindelings het discours van de NVA
+Hij ontmaskert het discours van de multiculturele mandarijnenkaste.
+Hij beheerst het landschap zoals hij zijn discours en zelfs zijn dood lijkt te beheersen.
+Alsof hij net aangekomen is en zijn discours begint te vertellen
+Het is een discours dat, ook in Vlaanderen, aanslaat. 
+met het moment dat mode inderdaad een eigen discours had ontwikkeld. 
+Zijn discours is bondig en to the point.
+In het wetenschappelijke discours wordt gediscussieerd over 
+Collocaties: politieke, dominante, publieke, huidige, wetenschappelijke 
+
+
+Wat is ‘discourse’ ?
+EnglishWeb2013(Sketchengine): 8,46/million; BNCorpus: 24,09/million
+Should I launch into a discourse on why I didn't value male above female children?
+they would be acknowledged within the discourses of medicine as having equal power to argue
+The focus on argumentative discourse
+the designed object is validated as museum display through the discourse of design history
+As a result, spoken discourse comes to be regarded as more honest and truthful
+there is no discussion of the many features of discourse in the text. 
+a verb-phrase occurring earlier in the spoken or written discourse 
+Collocaties: analysis, structure, political, written, spoken, dominant, social
+Definities van ‘discourse’ 
+“Discourse is the sequence of sentences. […] There is another – and partially related – meaning linguists have given to the word ‘discourse’. This meaning is: discourse is language-in-use (language actually used in specific contexts).” (Gee, 2014: 18-19)
+“The discourse of a society, more specifically, of a discourse community consists of the texts which its members have been and are still contributing to it. The structure of a society, to the extent to which it can be interpreted (which means to the extent it is symbolic), manifests itself in the discourse, in the entirety of all the verbal utterances of this discourse community.” (Teubert, 2007:58-59)
+“Discourse is language use relative to social, political and cultural formations – it is language reflecting social order but also language shaping social order, and shaping individuals’ interaction with society.” (Jaworski and Coupland 1999:3)
+
+
+
+Definities van ‘discourse’ (vervolg)
+“Discourse is a difficult concept, largely because there are so many conflicting and overlapping definitions formulated from various theoretical and disciplinary standpoints.” (Fairclough, 1992:3)
+
+Samenvatting
+Tekst
+‘stuk’ taal met een communicatieve functie
+ingebed/functioneel in een context
+met een textuur
+mogelijk multimodaal
+representatie en interactie
+Discourse
+Teksten/taalgebruik van een gemeenschap
+die sociale orde reflecteren
+die sociale orde creëren
+“Text is the material site of emergence of immaterial discourse(s). […] (Kress, G. 2012: 36)

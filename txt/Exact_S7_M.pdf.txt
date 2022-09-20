@@ -1,0 +1,119 @@
+19/11/2019
+A = U  VT
+Voor algemene reële A mxn
+• Singuliere waardenontbinding(SWO):     A= UVTmet 
+Umx morthogonaal, Vnx northogonaal, mx n“diagonaal”
+𝜎 0 0 0 0
+1
+0 ⋱ 0 ⋮ ⋮
+ = 0 0 𝜎𝑟 0 0 met    ...  > 0 en Rank A= r
+0 0 0 0 0 1 r
+⋮ ⋮ ⋮ ⋮ ⋮
+0 0 0 0 0
+• Anders geschreven: A=  u v T+...+  uvT
+1 1 1 𝑟 r r
+• Vergelijkmet spectraleontbindingvan symmetrischematrix :
+ ⋯ 0
+1
+A= P D PT= [u ... u ]  ⋮ ⋱ ⋮ [u ... u ]T
+1 n 1 n
+0 ⋯ 
+𝑛
+=  u u T+...+  u u T=  u u T+...+  uuT
+1 1 1 𝑛 n n 1 1 1 𝑟 r r
+119/11/2019
+Herinner: coördinatentransformatie
+• Gegeven basis V = {v , ... , v } in n
+1 n
+• Dan voldoen de coördinaten van x in basis V, 
+genoteerd als [x] , aan:
+V
+x = [v , ... , v ] [x] = V [x]
+1 n V V
+• Zijn {v , ... , v } orthonormaal, dan is V
+1 n
+orthogonaal zodat
+o[x] = V-1 x = VTx
+V
+oBehoudt de lengte
+oAssen zijn slechts “gedraaid/gespiegeld” t.o.v. 
+elkaar
+SWO als drie lineaire transformaties
+• Beschouw de lineairetransformatiex→y= Ax
+• y =Ax= UVTx= U((VTx)) is de samenstellingvan drie
+transformaties:
+o x→[x] = VTx, 
+V
+xuitdrukken in de basis V
+beeldt naf op heel n
+o [x] →[x] = VTx
+V V 
+i-de coördinaat geschaald met  (i= 1 ... r)
+𝑖
+Alle andere coördinaten worden 0 (i> r)
+Beeldt naf op r-dimensionale deelruimte van  m
+o [y] →y = U[y] = U VTx
+U U
+Een (inverse) coördinatentransformatie in m
+Beeldt de bekomen VTxafop y
+VTx is dus[y]
+U
+Met Uorthogonaal (draaien/spiegelen met behoud van lengte)
+• Elke matrix Akan dus gezien worden als de lineaire transformaties 
+draaien/spiegelen, schalen, draaien/spiegelen
+219/11/2019
+Geometrisch voor A mxn
+• x → Ax
+• De basis {v , ... , v } heeft als 
+1 n
+eigenschap:
+o Als xvolgens een basisvector v
+i
+ligt, is Axeen veelvoud van u
+i
+(niet zichzelf)
+Av
+Ax= ( u v T+...+  uvT)𝐱 1
+1 1 1 𝑟 r r v1
+= 1u1v1Tx+...+𝑟urvrTx u1
+=  (v Tx)u +...+ (vTx)u
+1 1 1 𝑟 r r v2
+o Dan is  𝐀𝐱 = 𝜎𝑖 𝐱 u2 Av
+2
+o Is een orthonormale 
+verzameling
+Speciaal geval: A = AT
+• Spectrale ontbinding van symmetrische matrix :
+ ⋯ 0
+1
+A = P D PT = [u ... u ]  ⋮ ⋱ ⋮ [u ... u ]T
+1 n 1 n
+0 ⋯ 
+𝑛
+=  u u T+...+  u u T
+1 1 1 𝑛 n n
+=  u u T+...+  u u T
+1 1 1 𝑟 r r
+=  u v T+...+  u v T (SWO)
+1 1 1 𝑟 r r
+• M.a.w. kies U = P en V = P op teken na (- als  <0)
+𝑟
+319/11/2019
+Geometrisch voor A=AT
+• x → Ax
+• De basis {u , ... , u } heeft 
+1 n
+als eigenschap:
+oAls x volgens een 
+basisvector u ligt, is Ax een  z
+i 2
+u
+veelvoud van zichzelf 2
+oDan is  𝐀𝐱 = |𝜆 | 𝐱
+𝑖
+u
+1
+oIs een orthonormale 
+z
+verzameling 1
+4

@@ -1,0 +1,510 @@
+8/22/2019
+Lay 1.1 & 1.2
+1 −1 2𝑖
+2 𝜋 9
+  2 𝑖 0
+−4 −5 𝑒(cid:3036)(cid:3095)/(cid:2871)
+Inleidende begrippen
+18/22/2019
+Lineaire vergelijking
+• Een lineaire vergelijking is een uitdrukking van 
+de vorm
+𝑎 𝑥 + …+ 𝑎 𝑥 = 𝑏
+(cid:2869) (cid:2869) (cid:3041) (cid:3041)
+• b, a … a zijn de coëfficiënten
+1 n
+• x … x zijn de variabelen of onbekenden
+1 n
+• x … x , b, a … a  of 
+1 n 1 n  
+Stelsel lineaire vergelijkingen
+• Een stelselvan mlineaire vergelijkingen
+𝑎 𝑥 + …+𝑎 𝑥 = 𝑏
+(cid:2869)(cid:2869) (cid:2869) (cid:2869)(cid:3041) (cid:3041) (cid:2869)
+⋮
+𝑎 𝑥 + …+𝑎 𝑥 = 𝑏
+(cid:3040)(cid:2869) (cid:2869) (cid:3040)(cid:3041) (cid:3041) (cid:3040)
+• x … x moetennu aan ALLE mvergelijkingen voldoen
+1 n
+• Een oplossing(s … s ) zijnngetallenvoor(x … x ) die 
+1 n 1 n
+van alle vergelijkingen een ware uitdrukkingmaken
+• Oplossingenverzameling
+– Alsnietleegdanis het stelselconsistent
+– Alsleegdanis het stelselstrijdig
+• Twee stelselszijnequivalentalsze dezelfde
+oplossingenverzamelinghebben
+28/22/2019
+Coëfficiëntenmatrix
+• Stelsel vergelijkingen
+𝑎 𝑥 + …+𝑎 𝑥 = 𝑏
+(cid:2869)(cid:2869) (cid:2869) (cid:2869)(cid:3041) (cid:3041) (cid:2869)
+⋮
+𝑎 𝑥 + …+𝑎 𝑥 = 𝑏
+(cid:3040)(cid:2869) (cid:2869) (cid:3040)(cid:3041) (cid:3041) (cid:3040)
+• Coëfficiëntenmatrix
+𝑎 ⋯ 𝑎
+(cid:2869)(cid:2869) (cid:2869)(cid:3041)
+⋮ ⋱ ⋮
+𝑎 ⋯ 𝑎
+(cid:3040)(cid:2869) (cid:3040)(cid:3041)
+• Uitgebreidecoëfficientenmatrix
+𝑎 ⋯ 𝑎 𝑏
+(cid:2869)(cid:2869) (cid:2869)(cid:3041) (cid:2869)
+⋮ ⋱ ⋮   ⋮
+𝑎 ⋯ 𝑎 𝑏
+(cid:3040)(cid:2869) (cid:3040)(cid:3041) (cid:3040)
+Algemene aanpak om stelsels lineaire
+vergelijkingen op te lossen
+38/22/2019
+Stelsel lineaire vergelijkingen oplossen
+• Strategie: pas elementairerijoperatiestoe om 
+eenvoudigermaar equivalentstelselte bekomen
+• Elementairerijoperaties(ER)
+1. Rijvervangen: (riji)  ← (riji) + c. (rijj) 
+2. Twee rijenomwisselen
+3. Rijschalen(riji)  ← c.(riji)  met c ≠ 0
+• Elementairerijoperaties
+1. veranderende oplossingenverzamelingniet
+2. zijnomkeerbaar
+• Def:A en Bzijnrij-equivalentematrices  ereen
+sequentieER bestaatdie A in B omvormt
+Notatie: A B
+
+Echelonvorm (EV)
+• Een mn matrix is in echelonvorm als
+1. Elk leidend element v/e rijstaat in eenkolom rechts
+van het leidendelement v/d rijerboven
+2. Alle nullerijenonderaanstaan
+3. Alle elementenondereenleidendelement nulzijn
+0 ∗ ∗ ∗ ∗ ∗ ∗ ∗ ∗ ∗ ∗
+
+0 0 0 ∗ ∗ ∗ ∗ ∗ ∗ ∗ ∗
+
+0 0 0 0 ∗ ∗ ∗ ∗ ∗ ∗ ∗
+
+0 0 0 0 0 0 0 0 ∗ ∗ ∗
+
+0 0 0 0 0 0 0 0 0 0 0 0
+• EV is niet uniek
+48/22/2019
+Gereduceerde echelonvorm (GEV)
+• Een mn echelon matrix is in gereduceerde
+echelon vorm als bovendien
+1. Elk leidend element 1 is
+2. Elk leidendelement het enigeniet-nulleelement v/d 
+kolom is
+0 1 ∗ 0 0 ∗ ∗ ∗ 0 ∗ ∗ ∗
+0 0 0 1 0 ∗ ∗ ∗ 0 ∗ ∗ ∗
+0 0 0 0 1 ∗ ∗ ∗ 0 ∗ ∗ ∗
+0 0 0 0 0 0 0 0 1 ∗ ∗ ∗
+0 0 0 0 0 0 0 0 0 0 0 0
+• GEV is uniek
+Een willekeurige matrix omvormen
+naar echelonvorm
+In: 0  0 0 0  0 0  0 0 
+0 0 0 0 0 0 0 0 0
+  
+0  0 0  0 0  0  0 
+0 0  0 0   0  0 0 
+0 0 0 0 0 0 0 0
+   
+Uit: 0  0 0  0 0  0  0 
+0 0  0 0   0  0 0 
+0 0 0 0 0 0 ∗
+    
+0 0 0 0 0 0 0 0 0
+  
+0 0 0 0 0 0 ∗ ∗ 0 ∗
+ 
+58/22/2019
+Naar echelonvorm – stap 1
+0 0 0 0 0 0 0 0
+   
+0 0 0 0 0 0 0 0 0
+  
+0  0 0  0 0  0  0 
+0 0  0 0   0  0 0 
+0 0 0 0 0 0 0 0
+   
+• Neem meest linkse niet-nulle kolom = 
+pivotkolom
+• Selecteer je favoriete niet-nulle element uit 
+die kolom = pivot
+Naar echelonvorm – stap 2
+0 0 0 0 0 0 0 0
+   
+0 0 0 0 0 0 0 0 0
+  
+0  0 0  0 0  0  0 
+0 0  0 0   0  0 0 
+0 0 0 0 0 0 0 0
+   
+• Plaats die rij bovenaan door rij-omwisseling
+68/22/2019
+Naar echelonvorm – stap 3
+0  0 0  0 0  0  0 
+0 0 0 0 0 0 0 0 0
+  
+0 0 0 0 0 0 0 0
+   
+0 0  0 0   0  0 0 
+0 0 0 0 0 0 0 0
+   
+• Herleid alle (niet-nulle) elementen onder de 
+pivot tot nul door rijvervanging
+Naar echelonvorm – stap 3
+0  0 0  0 0  0  0 
+0 0 0 0 0 0 0 0 0
+  
+0 0 0 0 0 0 ∗
+    
+0 0  0 0   0  0 0 
+0 0 0 0 0 0 0 0
+   
+• Herleid alle (niet-nulle) elementen onder de 
+pivot tot nul door rijvervanging
+– 3de rij
+78/22/2019
+Naar echelonvorm – stap 3
+0  0 0  0 0  0  0 
+0 0 0 0 0 0 0 0 0
+  
+0 0 0 0 0 0 ∗
+    
+0 0  0 0   0  0 0 
+0 0 0 0 ∗ 0 0 ∗ 0 ∗ 0
+
+• Herleid alle (niet-nulle) elementen onder de 
+pivot tot nul door rijvervanging
+– 5de rij
+Naar echelonvorm – stap 4
+0  0 0  0 0  0  0 
+0 0 0 0 0 0 0 0 0
+  
+0 0 0 0 0 0 ∗
+    
+0 0  0 0   0  0 0 
+0 0 0 0 ∗ 0 0 ∗ 0 ∗ 0
+
+• Herhaal stap 1-3 op submatrix rechtsonder 
+pivot
+88/22/2019
+Naar echelonvorm – stap 1
+0  0 0  0 0  0  0 
+0 0 0 0 0 0 0 0 0
+  
+0 0 0 0 0 0 ∗
+    
+0 0  0 0   0  0 0 
+0 0 0 0 ∗ 0 0 ∗ 0 ∗ 0
+
+• Herhaal stap 1-3 op submatrix rechtsonder 
+pivot: selecteer pivot
+Naar echelonvorm – stap 2
+0  0 0  0 0  0  0 
+0 0  0 0   0  0 0 
+0 0 0 0 0 0 ∗
+    
+0 0 0 0 0 0 0 0 0
+  
+0 0 0 0 ∗ 0 0 ∗ 0 ∗ 0
+
+• Herhaal stap 1-3 op submatrix rechtsonder 
+pivot: plaats pivot in bovenste rij door 
+omwisseling
+– Hier rij 2 en 4 omwisselen
+98/22/2019
+Naar echelonvorm – stap 3
+0  0 0  0 0  0  0 
+0 0  0 0   0  0 0 
+0 0 0 0 0 0 ∗
+    
+0 0 0 0 0 0 0 0 0
+  
+0 0 0 0 ∗ 0 0 ∗ 0 ∗ 0
+
+• Herhaal stap 1-3 op submatrix rechtsonder 
+pivot: maak alle elementen onder de pivot nul 
+door rijvervanging 
+– Hier niets te doen
+Naar echelonvorm – stap 4
+0  0 0  0 0  0  0 
+0 0  0 0   0  0 0 
+0 0 0 0 0 0 ∗
+    
+0 0 0 0 0 0 0 0 0
+  
+0 0 0 0 ∗ 0 0 ∗ 0 ∗ 0
+
+• Herhaal stap 1-3 op submatrix rechtsonder 
+pivot
+108/22/2019
+Naar echelonvorm – stap 1
+0  0 0  0 0  0  0 
+0 0  0 0   0  0 0 
+0 0 0 0 0 0 ∗
+    
+0 0 0 0 0 0 0 0 0
+  
+0 0 0 0 ∗ 0 0 ∗ 0 ∗ 0
+
+• Herhaal stap 1-3 op submatrix rechtsonder 
+pivot: selecteer pivot
+Naar echelonvorm – stap 2
+0  0 0  0 0  0  0 
+0 0  0 0   0  0 0 
+0 0 0 0 0 0 ∗
+    
+0 0 0 0 0 0 0 0 0
+  
+0 0 0 0 ∗ 0 0 ∗ 0 ∗ 0
+
+• Herhaal stap 1-3 op submatrix rechtsonder 
+pivot: plaats pivot in bovenste rij door 
+omwisseling
+– Hier niets te doen
+118/22/2019
+Naar echelonvorm – stap 3
+0  0 0  0 0  0  0 
+0 0  0 0   0  0 0 
+0 0 0 0 0 0 ∗
+    
+0 0 0 0 0 0 0 0 0
+  
+0 0 0 0 0 0 ∗ ∗ 0 ∗
+ 
+• Herhaal stap 1-3 op submatrix rechtsonder 
+pivot: maak alle elementen onder de pivot nul 
+door rijvervanging 
+– Rij 5
+Naar echelonvorm
+0  0 0  0 0  0  0 
+0 0  0 0   0  0 0 
+0 0 0 0 0 0 ∗
+    
+0 0 0 0 0 0 0 0 0
+  
+0 0 0 0 0 0 ∗ ∗ 0 ∗
+ 
+128/22/2019
+Naar echelonvorm
+0  0 0  0 0  0  0 
+0 0  0 0   0  0 0 
+0 0 0 0 0 0 ∗
+    
+0 0 0 0 0 0 0 0 0
+  
+0 0 0 0 0 0 ∗ ∗ 0 ∗
+ 
+Naar echelonvorm
+0  0 0  0 0  0  0 
+0 0  0 0   0  0 0 
+0 0 0 0 0 0 ∗
+    
+0 0 0 0 0 0 0 0 0
+  
+0 0 0 0 0 0 ∗ ∗ 0 ∗
+ 
+138/22/2019
+Naar echelonvorm
+0  0 0  0 0  0  0 
+0 0  0 0   0  0 0 
+0 0 0 0 0 0 ∗
+    
+0 0 0 0 0 0 0 0 0
+  
+0 0 0 0 0 0 ∗ ∗ 0 ∗
+ 
+Een willekeurige matrix omvormen
+naar gereduceerde echelonvorm
+In: 0  0 0 0  0 0  0 0 
+0 0 0 0 0 0 0 0 0
+  
+0  0 0  0 0  0  0 
+0 0  0 0   0  0 0 
+0 0 0 0 0 0 0 0
+   
+Uit: 0 1 0 0 0 0 0 ∗ ∗ ∗ 0 ∗
+0 0 1 0 0 0 0 ∗ ∗ ∗ 0 ∗
+0 0 0 0 1 0 0 ∗ ∗ ∗ 0 ∗
+0 0 0 0 0 1 0 ∗ ∗ 0 ∗
+
+0 0 0 0 0 0 1 ∗ ∗ 0 ∗
+
+148/22/2019
+Naar gereduceerde echelonvorm – stap 5
+0  0 0  0 0  0  0 
+0 0  0 0   0  0 0 
+0 0 0 0 0 0 ∗
+    
+0 0 0 0 0 0 0 0 0
+  
+0 0 0 0 0 0 ∗ ∗ 0 ∗
+ 
+• Verder werken vanuit de echelonvorm
+Naar gereduceerde echelonvorm – stap 5
+0  0 0  0 0  0  0 
+0 0  0 0   0  0 0 
+0 0 0 0 0 0 ∗
+    
+0 0 0 0 0 0 0 0 0
+  
+0 0 0 0 0 0 1 ∗ ∗ 0 ∗
+
+• Schaal pivot tot 1
+158/22/2019
+Naar gereduceerde echelonvorm – stap 5
+0  0 0  0 0  0  0 
+0 0  0 0   0  0 0 
+0 0 0 0 0 0 ∗
+    
+0 0 0 0 0 0 0 0 0
+  
+0 0 0 0 0 0 1 ∗ ∗ 0 ∗
+
+• Schaal pivot tot 1
+Naar gereduceerde echelonvorm – stap 6
+0  0 0  0 0  0  0 
+0 0  0 0   0  0 0 
+0 0 0 0 0 0 ∗
+    
+0 0 0 0 0 0 ∗ ∗ 0 ∗
+ 
+0 0 0 0 0 0 1 ∗ ∗ 0 ∗
+
+• Maak alle elementen boven de pivot nul door 
+rijvervanging: rij 4
+168/22/2019
+Naar gereduceerde echelonvorm – stap 6
+0  0 0  0 0  0  0 
+0 0  0 0  0 ∗ ∗ ∗ 0 ∗
+0 0 0 0 0 0 ∗
+    
+0 0 0 0 0 0 ∗ ∗ 0 ∗
+ 
+0 0 0 0 0 0 1 ∗ ∗ 0 ∗
+
+• Maak alle elementen boven de pivot nul door 
+rijvervanging: rij 2
+Naar gereduceerde echelonvorm – stap 5
+0  0 0  0 0  0  0 
+0 0  0 0  0 ∗ ∗ ∗ 0 ∗
+0 0 0 0 0 0 ∗
+    
+0 0 0 0 0 1 0 ∗ ∗ 0 ∗
+
+0 0 0 0 0 0 1 ∗ ∗ 0 ∗
+
+• Schaal pivot tot 1
+178/22/2019
+Naar gereduceerde echelonvorm – stap 6
+0  0 0  0 0  0  0 
+0 0  0 0  0 ∗ ∗ ∗ 0 ∗
+0 0 0 0 0 0 ∗ ∗ ∗ 0 ∗
+
+0 0 0 0 0 1 0 ∗ ∗ 0 ∗
+
+0 0 0 0 0 0 1 ∗ ∗ 0 ∗
+
+• Maak alle elementen boven de pivot nul door 
+rijvervanging: rij 3
+Naar gereduceerde echelonvorm – stap 6
+0  0 0  0 0  0  0 
+0 0  0 0 0 0 ∗ ∗ ∗ 0 ∗
+0 0 0 0 0 0 ∗ ∗ ∗ 0 ∗
+
+0 0 0 0 0 1 0 ∗ ∗ 0 ∗
+
+0 0 0 0 0 0 1 ∗ ∗ 0 ∗
+
+• Maak alle elementen boven de pivot nul door 
+rijvervanging: rij 2
+188/22/2019
+Naar gereduceerde echelonvorm
+0 1 0 0 0 0 0 ∗ ∗ ∗ 0 ∗
+0 0 1 0 0 0 0 ∗ ∗ ∗ 0 ∗
+0 0 0 0 1 0 0 ∗ ∗ ∗ 0 ∗
+0 0 0 0 0 1 0 ∗ ∗ 0 ∗
+
+0 0 0 0 0 0 1 ∗ ∗ 0 ∗
+
+• Voor de andere pivots
+Stelsels oplossen d.m.v. de 
+(gereduceerde) echelonvorm
+• Enkel elementaire rijoperaties => 
+oplossingenverzameling dezelfde voor
+– Oorspronkelijkstelsel
+– Echelonvormvan uitgebreide coëfficiëntenmatrix
+𝑎(cid:2869)(cid:2869) ⋯ 𝑎(cid:2869)(cid:3041) 𝑏(cid:2869)
+⋮ ⋱ ⋮   ⋮
+𝑎(cid:3040)(cid:2869) ⋯ 𝑎(cid:3040)(cid:3041)𝑏(cid:3040)
+– GEV van uitgebreide coëfficiëntenmatrix
+• Bespreking gebaseerd op enkele
+definities/eigenschappen
+198/22/2019
+Pivot-posities
+0 1 0 0 0 0 0 ∗ ∗ ∗ 0 ∗
+0 0 1 0 0 0 0 ∗ ∗ ∗ 0 ∗
+0 0 0 0 1 0 0 ∗ ∗ ∗ 0 ∗
+0 0 0 0 0 1 0 ∗ ∗ ∗ 0 ∗
+0 0 0 0 0 0 1 ∗ ∗ ∗ 0 ∗
+• Gereduceerde echelonvorm is uniek
+• Pivot-posities (in GEV en EV) zijn uniek
+Pivot-kolom van A
+0 0 0 0 0 0 0 0
+   
+0 0 0 0 0 0 0 0 0
+
+A = 0 0 0 0 0 0 0 
+0 0 0 0 0  0 0 
+0 0 0 0 0 0 0 0
+   
+0 1 0 0 0 0 0 ∗ ∗ ∗ 0 ∗
+0 0 1 0 0 0 0 ∗ ∗ ∗ 0 ∗
+ 0 0 0 0 1 0 0 ∗ ∗ ∗ 0 ∗
+0 0 0 0 0 1 0 ∗ ∗ ∗ 0 ∗
+0 0 0 0 0 0 1 ∗ ∗ ∗ 0 ∗
+• Gereduceerde echelonvorm is uniek
+• Pivot-kolommen zijn uniek
+208/22/2019
+Oplossen van stelsels met GEV
+• Brengde uitgebreidecoëficiëntenmatrixin 
+gereduceerdeechelonvorm
+𝑎(cid:2869)(cid:2869) ⋯ 𝑎(cid:2869)(cid:3041) 𝑏(cid:2869)
+⋮ ⋱ ⋮   ⋮
+
+𝑎(cid:3040)(cid:2869) ⋯ 𝑎(cid:3040)(cid:3041)𝑏(cid:3040)
+• Verander van lid
+– Basisvariabelenx x x x in pivotkolommengeschreven
+2,  4,  5.  9, 
+alsfunctievan:
+– Vrijevariabelen: de rest
+• Geeft je eenparametrischevorm van de oplossing
+Oplossen van stelsel door EV
+• Breng de uitgebreide coëficiëntenmatrix in 
+echelonvorm
+𝑎(cid:2869)(cid:2869) ⋯ 𝑎(cid:2869)(cid:3041) 𝑏(cid:2869) 
+⋮ ⋱ ⋮   ⋮
+𝑎(cid:3040)(cid:2869) ⋯ 𝑎(cid:3040)(cid:3041)𝑏(cid:3040)
+• Uit de laatste niet-nulle rij, vind de laatste
+basisvariabele als functie van de vrije variabelen
+• Substitueer deze oplossing in de hogere rijen
+• Herhaal voor voorlaatste basisvariabele, enz.
+• Noemt men achterwaartse substitutie
+218/22/2019
+Het bestaan van een oplossing
+• Het lineairestelselis consistent de rechterkolom
+van de (G)EV van de uitgebreidecoëfficiëntenmatrix
+geenpivotkolomis
+• Een consistentlineairstelselheeft eenunieke
+oplossingals ergeenvrije variabelenzijnen anders
+eenoneindigaantaloplossingen
+0  ∗ ∗ ∗ ∗ ∗ ∗ ∗  ∗ ∗ ∗ ∗ ∗ 0  ∗ ∗ ∗ ∗ ∗ ∗ ∗
+0 0 0  ∗ ∗ ∗ ∗ ∗ 0  ∗ ∗ ∗ ∗ 0 0 0  ∗ ∗ ∗ ∗ ∗
+0 0 0 0  ∗ ∗ ∗ ∗ 0 0  ∗ ∗ ∗ 0 0 0 0  ∗ ∗ ∗ ∗
+0 0 0 0 0 0 0 0  0 0 0  ∗ ∗ 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0  ∗ 0 0 0 0 0 0 0 0 0
+inconsistent consistent consistent
+uniek  # opl.
+22

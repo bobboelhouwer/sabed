@@ -1,0 +1,311 @@
+Overzicht
+Inleiding
+Lineariteitvs.hiërarchie
+Hoofdigheid
+Compositionaliteit
+Structureleambiguïteit
+Valentie&subcategorisatie
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .(13) Hetprincipevande(cid:266)(cid:275)(cid:265)(cid:276)(cid:264)(cid:266)(cid:275)(cid:281)(cid:279)(cid:270)(cid:264)(cid:270)(cid:281)(cid:266)(cid:270)(cid:281)
+a. Elkewoordgroepheefteenhoofddatdeeigenschappenvan
+diewoordgroepbepaalt.
+b. Elkwoordishethoofdvaneenwoordgroepwaarvanhetde
+eigenschappenbepaalt.
+Hoofdigheid
+(12) [Ergoudemannenmetbaarden]zingeneenlied.
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Hoofdigheid
+(12) [Ergoudemannenmetbaarden]zingeneenlied.
+(13) Hetprincipevande(cid:266)(cid:275)(cid:265)(cid:276)(cid:264)(cid:266)(cid:275)(cid:281)(cid:279)(cid:270)(cid:264)(cid:270)(cid:281)(cid:266)(cid:270)(cid:281)
+a. Elkewoordgroepheefteenhoofddatdeeigenschappenvan
+diewoordgroepbepaalt.
+b. Elkwoordishethoofdvaneenwoordgroepwaarvanhetde
+eigenschappenbepaalt.
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Hoofdigheid
+erg oude mannen met baarden
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .▶ badhanddoek
+▶ gastenbadhanddoek
+▶ handdoek
+▶ handdoekenverkoper
+▶ handdoekenverkoperspet
+▶ handdoekenverkoperspettenwinkel
+(14) Rechterhandhoofdregel(RHHR)
+Ingeledewoordenishetrechterlidtypischhethoofd.
+(15) [ [ (cid:11)][ (cid:12)]]
+Y X Y
+(16) Y
+X Y
+(cid:11) (cid:12)
+Hoofdigheid
+▶ handdoek
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .▶ gastenbadhanddoek
+▶ handdoek
+▶ handdoekenverkoper
+▶ handdoekenverkoperspet
+▶ handdoekenverkoperspettenwinkel
+(14) Rechterhandhoofdregel(RHHR)
+Ingeledewoordenishetrechterlidtypischhethoofd.
+(15) [ [ (cid:11)][ (cid:12)]]
+Y X Y
+(16) Y
+X Y
+(cid:11) (cid:12)
+Hoofdigheid
+▶ handdoek
+▶ badhanddoek
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .▶ handdoek
+▶ handdoekenverkoper
+▶ handdoekenverkoperspet
+▶ handdoekenverkoperspettenwinkel
+(14) Rechterhandhoofdregel(RHHR)
+Ingeledewoordenishetrechterlidtypischhethoofd.
+(15) [ [ (cid:11)][ (cid:12)]]
+Y X Y
+(16) Y
+X Y
+(cid:11) (cid:12)
+Hoofdigheid
+▶ handdoek
+▶ badhanddoek
+▶ gastenbadhanddoek
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .▶ handdoekenverkoper
+▶ handdoekenverkoperspet
+▶ handdoekenverkoperspettenwinkel
+(14) Rechterhandhoofdregel(RHHR)
+Ingeledewoordenishetrechterlidtypischhethoofd.
+(15) [ [ (cid:11)][ (cid:12)]]
+Y X Y
+(16) Y
+X Y
+(cid:11) (cid:12)
+Hoofdigheid
+▶ handdoek
+▶ badhanddoek
+▶ gastenbadhanddoek
+▶ handdoek
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .▶ handdoekenverkoperspet
+▶ handdoekenverkoperspettenwinkel
+(14) Rechterhandhoofdregel(RHHR)
+Ingeledewoordenishetrechterlidtypischhethoofd.
+(15) [ [ (cid:11)][ (cid:12)]]
+Y X Y
+(16) Y
+X Y
+(cid:11) (cid:12)
+Hoofdigheid
+▶ handdoek
+▶ badhanddoek
+▶ gastenbadhanddoek
+▶ handdoek
+▶ handdoekenverkoper
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .▶ handdoekenverkoperspettenwinkel
+(14) Rechterhandhoofdregel(RHHR)
+Ingeledewoordenishetrechterlidtypischhethoofd.
+(15) [ [ (cid:11)][ (cid:12)]]
+Y X Y
+(16) Y
+X Y
+(cid:11) (cid:12)
+Hoofdigheid
+▶ handdoek
+▶ badhanddoek
+▶ gastenbadhanddoek
+▶ handdoek
+▶ handdoekenverkoper
+▶ handdoekenverkoperspet
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .(14) Rechterhandhoofdregel(RHHR)
+Ingeledewoordenishetrechterlidtypischhethoofd.
+(15) [ [ (cid:11)][ (cid:12)]]
+Y X Y
+(16) Y
+X Y
+(cid:11) (cid:12)
+Hoofdigheid
+▶ handdoek
+▶ badhanddoek
+▶ gastenbadhanddoek
+▶ handdoek
+▶ handdoekenverkoper
+▶ handdoekenverkoperspet
+▶ handdoekenverkoperspettenwinkel
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .(14) Rechterhandhoofdregel(RHHR)
+Ingeledewoordenishetrechterlidtypischhethoofd.
+(15) [ [ (cid:11)][ (cid:12)]]
+Y X Y
+(16) Y
+X Y
+(cid:11) (cid:12)
+Hoofdigheid
+▶ handdoek
+▶ badhanddoek
+▶ gastenbadhanddoek
+▶ handdoek
+▶ handdoekenverkoper
+▶ handdoekenverkoperspet
+▶ handdoekenverkoperspettenwinkel
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .(15) [ [ (cid:11)][ (cid:12)]]
+Y X Y
+(16) Y
+X Y
+(cid:11) (cid:12)
+Hoofdigheid
+▶ handdoek
+▶ badhanddoek
+▶ gastenbadhanddoek
+▶ handdoek
+▶ handdoekenverkoper
+▶ handdoekenverkoperspet
+▶ handdoekenverkoperspettenwinkel
+(14) Rechterhandhoofdregel(RHHR)
+Ingeledewoordenishetrechterlidtypischhethoofd.
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Hoofdigheid
+▶ handdoek
+▶ badhanddoek
+▶ gastenbadhanddoek
+▶ handdoek
+▶ handdoekenverkoper
+▶ handdoekenverkoperspet
+▶ handdoekenverkoperspettenwinkel
+(14) Rechterhandhoofdregel(RHHR)
+Ingeledewoordenishetrechterlidtypischhethoofd.
+(15) [ [ (cid:11)][ (cid:12)]]
+Y X Y
+(16) Y
+X Y
+(cid:11) (cid:12)
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .(17) chocolademelkvs.melkchocolade
+(18) kookpot
+(19) grootvader
+(20) zakgeldvs.geldzak
+(21) kinderenvs.straatkinderen
+1. (cid:263)(cid:266)(cid:281)(cid:266)(cid:272)(cid:266)(cid:275)(cid:270)(cid:280)
+2. (cid:284)(cid:276)(cid:276)(cid:279)(cid:265)(cid:280)(cid:276)(cid:276)(cid:279)(cid:281)
+3. (cid:274)(cid:276)(cid:279)(cid:267)(cid:276)(cid:280)(cid:286)(cid:275)(cid:281)(cid:262)(cid:264)(cid:281)(cid:270)(cid:280)(cid:264)(cid:269)(cid:266)(cid:272)(cid:266)(cid:275)(cid:274)(cid:266)(cid:279)(cid:272)(cid:266)(cid:275)
+Hoofdigheid
+▶ Manierenomhethoofdvaneengeleedwoordtedetecteren:
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .(18) kookpot
+(19) grootvader
+(20) zakgeldvs.geldzak
+(21) kinderenvs.straatkinderen
+(17) chocolademelkvs.melkchocolade
+2. (cid:284)(cid:276)(cid:276)(cid:279)(cid:265)(cid:280)(cid:276)(cid:276)(cid:279)(cid:281)
+3. (cid:274)(cid:276)(cid:279)(cid:267)(cid:276)(cid:280)(cid:286)(cid:275)(cid:281)(cid:262)(cid:264)(cid:281)(cid:270)(cid:280)(cid:264)(cid:269)(cid:266)(cid:272)(cid:266)(cid:275)(cid:274)(cid:266)(cid:279)(cid:272)(cid:266)(cid:275)
+Hoofdigheid
+▶ Manierenomhethoofdvaneengeleedwoordtedetecteren:
+1. (cid:263)(cid:266)(cid:281)(cid:266)(cid:272)(cid:266)(cid:275)(cid:270)(cid:280)
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .(18) kookpot
+(19) grootvader
+(20) zakgeldvs.geldzak
+(21) kinderenvs.straatkinderen
+2. (cid:284)(cid:276)(cid:276)(cid:279)(cid:265)(cid:280)(cid:276)(cid:276)(cid:279)(cid:281)
+3. (cid:274)(cid:276)(cid:279)(cid:267)(cid:276)(cid:280)(cid:286)(cid:275)(cid:281)(cid:262)(cid:264)(cid:281)(cid:270)(cid:280)(cid:264)(cid:269)(cid:266)(cid:272)(cid:266)(cid:275)(cid:274)(cid:266)(cid:279)(cid:272)(cid:266)(cid:275)
+Hoofdigheid
+▶ Manierenomhethoofdvaneengeleedwoordtedetecteren:
+1. (cid:263)(cid:266)(cid:281)(cid:266)(cid:272)(cid:266)(cid:275)(cid:270)(cid:280)
+(17) chocolademelkvs.melkchocolade
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .(20) zakgeldvs.geldzak
+(21) kinderenvs.straatkinderen
+(18) kookpot
+(19) grootvader
+3. (cid:274)(cid:276)(cid:279)(cid:267)(cid:276)(cid:280)(cid:286)(cid:275)(cid:281)(cid:262)(cid:264)(cid:281)(cid:270)(cid:280)(cid:264)(cid:269)(cid:266)(cid:272)(cid:266)(cid:275)(cid:274)(cid:266)(cid:279)(cid:272)(cid:266)(cid:275)
+Hoofdigheid
+▶ Manierenomhethoofdvaneengeleedwoordtedetecteren:
+1. (cid:263)(cid:266)(cid:281)(cid:266)(cid:272)(cid:266)(cid:275)(cid:270)(cid:280)
+(17) chocolademelkvs.melkchocolade
+2. (cid:284)(cid:276)(cid:276)(cid:279)(cid:265)(cid:280)(cid:276)(cid:276)(cid:279)(cid:281)
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .(20) zakgeldvs.geldzak
+(21) kinderenvs.straatkinderen
+(19) grootvader
+3. (cid:274)(cid:276)(cid:279)(cid:267)(cid:276)(cid:280)(cid:286)(cid:275)(cid:281)(cid:262)(cid:264)(cid:281)(cid:270)(cid:280)(cid:264)(cid:269)(cid:266)(cid:272)(cid:266)(cid:275)(cid:274)(cid:266)(cid:279)(cid:272)(cid:266)(cid:275)
+Hoofdigheid
+▶ Manierenomhethoofdvaneengeleedwoordtedetecteren:
+1. (cid:263)(cid:266)(cid:281)(cid:266)(cid:272)(cid:266)(cid:275)(cid:270)(cid:280)
+(17) chocolademelkvs.melkchocolade
+2. (cid:284)(cid:276)(cid:276)(cid:279)(cid:265)(cid:280)(cid:276)(cid:276)(cid:279)(cid:281)
+(18) kookpot
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .(20) zakgeldvs.geldzak
+(21) kinderenvs.straatkinderen
+3. (cid:274)(cid:276)(cid:279)(cid:267)(cid:276)(cid:280)(cid:286)(cid:275)(cid:281)(cid:262)(cid:264)(cid:281)(cid:270)(cid:280)(cid:264)(cid:269)(cid:266)(cid:272)(cid:266)(cid:275)(cid:274)(cid:266)(cid:279)(cid:272)(cid:266)(cid:275)
+Hoofdigheid
+▶ Manierenomhethoofdvaneengeleedwoordtedetecteren:
+1. (cid:263)(cid:266)(cid:281)(cid:266)(cid:272)(cid:266)(cid:275)(cid:270)(cid:280)
+(17) chocolademelkvs.melkchocolade
+2. (cid:284)(cid:276)(cid:276)(cid:279)(cid:265)(cid:280)(cid:276)(cid:276)(cid:279)(cid:281)
+(18) kookpot
+(19) grootvader
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .(20) zakgeldvs.geldzak
+(21) kinderenvs.straatkinderen
+Hoofdigheid
+▶ Manierenomhethoofdvaneengeleedwoordtedetecteren:
+1. (cid:263)(cid:266)(cid:281)(cid:266)(cid:272)(cid:266)(cid:275)(cid:270)(cid:280)
+(17) chocolademelkvs.melkchocolade
+2. (cid:284)(cid:276)(cid:276)(cid:279)(cid:265)(cid:280)(cid:276)(cid:276)(cid:279)(cid:281)
+(18) kookpot
+(19) grootvader
+3. (cid:274)(cid:276)(cid:279)(cid:267)(cid:276)(cid:280)(cid:286)(cid:275)(cid:281)(cid:262)(cid:264)(cid:281)(cid:270)(cid:280)(cid:264)(cid:269)(cid:266)(cid:272)(cid:266)(cid:275)(cid:274)(cid:266)(cid:279)(cid:272)(cid:266)(cid:275)
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .(21) kinderenvs.straatkinderen
+Hoofdigheid
+▶ Manierenomhethoofdvaneengeleedwoordtedetecteren:
+1. (cid:263)(cid:266)(cid:281)(cid:266)(cid:272)(cid:266)(cid:275)(cid:270)(cid:280)
+(17) chocolademelkvs.melkchocolade
+2. (cid:284)(cid:276)(cid:276)(cid:279)(cid:265)(cid:280)(cid:276)(cid:276)(cid:279)(cid:281)
+(18) kookpot
+(19) grootvader
+3. (cid:274)(cid:276)(cid:279)(cid:267)(cid:276)(cid:280)(cid:286)(cid:275)(cid:281)(cid:262)(cid:264)(cid:281)(cid:270)(cid:280)(cid:264)(cid:269)(cid:266)(cid:272)(cid:266)(cid:275)(cid:274)(cid:266)(cid:279)(cid:272)(cid:266)(cid:275)
+(20) zakgeldvs.geldzak
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Hoofdigheid
+▶ Manierenomhethoofdvaneengeleedwoordtedetecteren:
+1. (cid:263)(cid:266)(cid:281)(cid:266)(cid:272)(cid:266)(cid:275)(cid:270)(cid:280)
+(17) chocolademelkvs.melkchocolade
+2. (cid:284)(cid:276)(cid:276)(cid:279)(cid:265)(cid:280)(cid:276)(cid:276)(cid:279)(cid:281)
+(18) kookpot
+(19) grootvader
+3. (cid:274)(cid:276)(cid:279)(cid:267)(cid:276)(cid:280)(cid:286)(cid:275)(cid:281)(cid:262)(cid:264)(cid:281)(cid:270)(cid:280)(cid:264)(cid:269)(cid:266)(cid:272)(cid:266)(cid:275)(cid:274)(cid:266)(cid:279)(cid:272)(cid:266)(cid:275)
+(20) zakgeldvs.geldzak
+(21) kinderenvs.straatkinderen
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .2.(cid:269)(cid:276)(cid:276)(cid:267)(cid:265)(cid:270)(cid:268)(cid:269)(cid:266)(cid:270)(cid:265)
+2.1endocentriciteit 2.1RHHR
+Hoofdigheid
+SYNTAXIS (cid:0)! (cid:268)(cid:266)(cid:274)(cid:266)(cid:266)(cid:275)(cid:280)(cid:264)(cid:269)(cid:262)(cid:277)(cid:277)(cid:266)(cid:273)(cid:270)(cid:271)(cid:272)  (cid:0)MORFOLOGIE
+1.(cid:269)(cid:270)(cid:311)(cid:279)(cid:262)(cid:279)(cid:264)(cid:269)(cid:270)(cid:280)(cid:264)(cid:269)(cid:266)
+(cid:280)(cid:281)(cid:279)(cid:282)(cid:264)(cid:281)(cid:282)(cid:282)(cid:279)
+&(cid:279)(cid:266)(cid:264)(cid:282)(cid:279)(cid:280)(cid:270)(cid:283)(cid:270)(cid:281)(cid:266)(cid:270)(cid:281)
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .2.1endocentriciteit 2.1RHHR
+Hoofdigheid
+SYNTAXIS (cid:0)! (cid:268)(cid:266)(cid:274)(cid:266)(cid:266)(cid:275)(cid:280)(cid:264)(cid:269)(cid:262)(cid:277)(cid:277)(cid:266)(cid:273)(cid:270)(cid:271)(cid:272)  (cid:0)MORFOLOGIE
+1.(cid:269)(cid:270)(cid:311)(cid:279)(cid:262)(cid:279)(cid:264)(cid:269)(cid:270)(cid:280)(cid:264)(cid:269)(cid:266)
+(cid:280)(cid:281)(cid:279)(cid:282)(cid:264)(cid:281)(cid:282)(cid:282)(cid:279)
+&(cid:279)(cid:266)(cid:264)(cid:282)(cid:279)(cid:280)(cid:270)(cid:283)(cid:270)(cid:281)(cid:266)(cid:270)(cid:281)
+2.(cid:269)(cid:276)(cid:276)(cid:267)(cid:265)(cid:270)(cid:268)(cid:269)(cid:266)(cid:270)(cid:265)
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Hoofdigheid
+SYNTAXIS (cid:0)! (cid:268)(cid:266)(cid:274)(cid:266)(cid:266)(cid:275)(cid:280)(cid:264)(cid:269)(cid:262)(cid:277)(cid:277)(cid:266)(cid:273)(cid:270)(cid:271)(cid:272)  (cid:0)MORFOLOGIE
+1.(cid:269)(cid:270)(cid:311)(cid:279)(cid:262)(cid:279)(cid:264)(cid:269)(cid:270)(cid:280)(cid:264)(cid:269)(cid:266)
+(cid:280)(cid:281)(cid:279)(cid:282)(cid:264)(cid:281)(cid:282)(cid:282)(cid:279)
+&(cid:279)(cid:266)(cid:264)(cid:282)(cid:279)(cid:280)(cid:270)(cid:283)(cid:270)(cid:281)(cid:266)(cid:270)(cid:281)
+2.(cid:269)(cid:276)(cid:276)(cid:267)(cid:265)(cid:270)(cid:268)(cid:269)(cid:266)(cid:270)(cid:265)
+2.1endocentriciteit 2.1RHHR
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .

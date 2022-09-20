@@ -1,0 +1,261 @@
+5. Stereochemie
+• Chirale molecule: molecule niet tot
+dekking te brengen met haar spiegelbeeld «cheir»
+• Chirale moleculen zijn optisch actief
+Cl
+Cl
+Br
+Br
+H
+H
+F 180° draaien
+F
+Stereochemie 1• Ruimtelijke structuur van een (bio)molecule belangrijk voor 
+eigenschappen en activiteit 
+Interactie glyceraldehyde met enzym
+Stereochemie 25.1 Stereo-isomeren
+• Isomeren: twee verschillende verbindingen met zelfde
+brutoformule
+Isomeren
+Structuurisomeren Stereo-isomeren
+atomen op verschillende manier  Zelfde skelet, maar ruimtelijk verschillend
+aan elkaar gebonden
+• Ketenisomeren
+• Plaatsisomeren
+• Functie-isomeren Geometrische Optische isomeren
+isomeren
+• Enantiomeren
+• Diastereomeren
+• cis-trans-isomeren
+(Mesovorm)
+• Aantal definities en conventies
+Stereochemie 35.2 Symmetrie en enantiomeren
+• Moleculen met een symmetrievlak en/of symmetriecentrum 
+zijn gelijk aan hun spiegelbeeld (en dus niet-chiraal)
+Twee gelijke 
+substituenten
+Voorbeelden: 2-propanol, cyclohexaan, …
+Stereochemie 4• Asymmetrisch koolstofatoom
+H
+→ chirale molecule
+*
+CH C CH CH
+(van ‘t Hoff, 1874)
+3 2 3
+OH
+• Twee stereo-isomeren die elkaars spiegelbeeld zijn worden 
+enantiomeren of genoemd
+✓ Zelfde fysische eigenschappen (B , T , oplosbaarheid…) en 
+p m
+chemische reactiviteit t.o.v. niet-chirale verbindingen
+✓ Verschillende reactiviteit t.o.v. chirale verbindingen
+✓ Verschillende interactie met gepolariseerd licht
+Stereochemie 5Rechtsdraaiend (+) of d (dextrorotatory)
+Polarimeter
+(Biot, 1815)
+Linksdraaiend (-) of l (levorotatory)
+Polarisator
+Lichtbron
+Rotatie
+Testbuis Analysator
+Specifieke Rotatie
+a
+a rotatie in graden
+20
+[a]  =
+c concentratie in g/ml
+D
+c  l
+l lengte cel in dm
+x
+Stereochemie 6racemic acid (1819)
+meso-wijnsteenzuur
+[a] = 0°
+• Racemisch mengsel of racemaat: 
+✓ gelijke hoeveelheid van beide enantiomeren
+✓ niet optisch actief, [a] = 0°
+✓ notatie: (d,l) of ()
+Br
+Rekenvoorbeeld: 
+(+)-2-broombutaan heeft [a] = +23,1°
+(-)-2-broombutaan heeft dus [a] = -23,1°
+een 50:50 mengsel heeft dus [a] = 0°
+Stereochemie 7• Optische zuiverheid (%): 
+specifieke rotatie staal 
+OZ =
+100
+X
+specifieke rotatie puur enantiomeer
+✓ nul voor racemisch mengsel
+✓ hieruit samenstelling mengsel te bepalen!
+Rekenvoorbeeld: 
+We meten [a] = -9,2° voor mengsel 2-broombutanen.
+OZ = (-9,2°/-23,1°)  100 = 40%
+x
+D.w.z. 40% overmaat van (-) ten opzichte van (+) of 
+60% is mengsel van evenveel (+) en (-).
+In totaal hebben we dus 40% + 30% = 70% (-).
+Stereochemie 8• Een molecuul kan soms chiraal zijn zonder een
+asymmetrisch koolstofatoom te bevatten!!
+alleen
+H H
+H H
+C C C C C C
+Cl Cl
+Cl Cl
+H3C CH3
+NO2 O2N
+CH3 H3C
+O2N NO2
+bifenyl
+Stereochemie 95.3 Configuratie van enantiomeren
+• Configuratie = wijze waarop substituenten aan asymmetrisch
+koolstofatoom gebonden zijn
+• Geen relatie tussen teken [a] en absolute configuratie !
+(Bijvoet, 1951)
+• R,S-nomenclatuursysteem – Cahn, Ingold, Prelog regels (1966)
+Robinson:"You know, Prelog, your and Ingold's 
+configurational notation is all wrong."
+Prelog:"Sir Robert, it can't be wrong. It is just a convention.
+You either accept it or not."
+R. S. C. K. V.
+Robinson:"Well then, if it is not wrong, it is 
+Cahn Ingold Prelog
+absolutely unnecessary."
+Stereochemie 101. Vier atomen rangschikken 
+volgens afnemend atoomnummer
+(hoogste rangnummer = 4, 
+laagste rangnummer = 1) 2
+3
+1
+1
+4
+4 3
+2
+✓
+Twee gelijke atomen: neem volgend atoom
+✓ Dubbele bindingen:
+Stereochemie 112. Asymmetrisch koolstofatoom
+draaien tot laagste rangnummer
+naar achter wijst
+3. Draai van 4 → 3 → 2
+Wijzerzin = R (rectus)
+Tegenwijzerzin = S (sinister)
+Verschillende drie-
+dimensionale 
+structuurformules
+Stereochemie 12Bijvoet (1951) Na,Rb-zout 
+via röntgendiffractie
+• Alkenen: cis-trans- soms vervangen door E,Z-nomenclatuur
+Rangnummer (2 en 1) geven aan substituenten
+Entgegen Zusammen
+Stereochemie 135.4 Eigenschappen van enantiomeren
+• Fysische eigenschappen enantiomeren zijn gelijk
+• Tegengesteld teken [a] !
+• Zelfde eigenschappen in reacties met symmetrische reagentia
+• Verschillend bij reacties met andere chirale verbindingen
+Penicillium glaucum zet 
+enkel D-wijnsteenzuur om
+Enkel D-
+glucose bij 
+dierlijk 
+metabolisme
+Stereochemie 14• Bij geur- en smaakstoffen, farmaca soms sterke verschillen
+door intereactie met chirale bouwstenen van het lichaam !
+CH CH
+3 3
+O O
+H
+H
+H C H C
+3 3
+(R)-carvon (S)-carvon
+hertsmunt karwijzaad
+Stereochemie 15S R
+H 
+1
+   
+H C
+3
+2
+C 3 CH CH(CH )
+2 3 2
+4
+C
+HO
+Anti-inflammatoire pijnstiller 
+O
+Ibuprofen enkel S actief !
+Stereochemie 165.5 Diastereomeren en mesoverbindingen
+• Twee asymmetrische koolstofatomen:
+Zelfde 
+Verschillende 
+substituenten,
+substituenten,
+3 stereo-isomeren
+4 stereo-isomeren
+treose
+diastereomeren
+enantiomeren
+Stereochemie 17Pasteur (1847)
+Mesovorm, 
+Na+NH +tartraat
+4
+bevat 
+wijnsteenzuur
+symmetrievlak
+
+Fysische 
+eigenschappen
+• n asymmetrische koolstofatomen: maximaal 2n stereo-isomeren
+Stereochemie 185.6 D,L-nomenclatuur (Emil Fischer)
+• Enkel nog gebruikt bij suikers en aminozuren
+(Rest: vervangen door R,S-nomenclatuur)
+• Gebaseerd op projectieformule (Fischer projectie):
+1. Hoofdketen vertikaal, C1 bovenaan (C met hoogste OG)
+2. Vertikale bindingen naar achter, horizontale naar voor
+3. Projectie maken
+4. Positie functionele groep aan horizontale binding:
+rechterkant → D, linkerkant → L
+Stereochemie 19CO H
+2
+OH
+H
+H OH
+CH
+3
+Stereochemie 20• Bij suikers met meerdere asymmetrische koolstofatomen: 
+kijk naar configuratie hoogstgenummerde asymmetrisch
+koolstofatoom
+Spiegelbeeld 
+geheel molecuul
+Stereochemie 21• Geen verband tussen D,L- en R,S-nomenclatuur !
+Stereochemie 22R
+5.7 Racemaatsplitsing
+1
+enantiomeren
+R
+2
+R S
+1 1
+gefractioneerde
+kristallisatie R R
+1 2
+2R
+2
+S R
+1 2
+R R S R
+1 2 1 2 R
+2
+diastereomeren
+S
+1
+Stereochemie 23Voorbeeld
+racemaat-
+splitsing of 
+resolutie
+Ook enzymen kunnen helpen bij scheiding !
+Pasteur: () → (-)-wijnsteenzuur door Penicillium glaucum
+Stereochemie 24
+Nucleofiele substitutie en eliminatie

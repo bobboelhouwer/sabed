@@ -1,0 +1,185 @@
+8/22/2019
+
+Lay 4.7
+
+V ; dim(V)=n
+x
+
+𝐱𝑩
+
+n
+
+𝐱𝑪
+
+n
+
+Basis is niet uniek
+•
+•
+
+Voorbeeld in V = 2
+{b1, b2} en {c1, c2} zijn beide l.o. en voortbrengend voor 2
+
+•
+•
+
+x = 3 b 1 + 1 b 2 = 6 c1 + 4 c2
+Twee coördinatentransformaties:
+𝑎
+T1(x) = 𝐱 𝑩 =
+als x = a b1 + b b2
+𝑏
+𝑐
+T2(x) = 𝐱 𝑪 =
+als x = c c1 + d c2
+𝑑
+3
+6
+𝐱𝑩=
+; 𝐱𝑪=
+1
+4
+
+•
+
+1
+
+ 8/22/2019
+
+Basis is niet uniek
+•
+•
+
+Voorbeeld in V = 2
+{b1, b2} en {c1, c2} zijn beide l.o. en voortbrengend voor 2
+
+•
+•
+
+x = 3 b 1 + 1 b 2 = 6 c1 + 4 c2
+Twee coördinatentransformaties:
+𝑎
+T1(x) = 𝐱 𝑩 =
+als x = a b1 + b b2
+𝑏
+𝑐
+T2(x) = 𝐱 𝑪 =
+als x = c c1 + d c2
+𝑑
+3
+6
+𝐱𝑩=
+; 𝐱𝑪=
+1
+4
+
+•
+
+Algemene vectorruimte V
+V ; dim(V)=n
+x
+T1(x)
+
+𝐱𝑩
+
+T2(x)
+
+n
+
+𝐱𝑪
+
+n
+
+• Vb: V = verzameling van veeltermen graad 2 of lager
+• B = {1, t, t2}
+• C = {1-t+ t2, 1+t+ t2, 1-t2}
+• Wat is het verband tussen 𝐱 𝑩 en 𝐱 𝑪 ?
+
+2
+
+ 8/22/2019
+
+Verband tussen
+•
+•
+
+𝑩 en
+
+𝑪
+
+x = a1 b1 + a2 b2 + … + an bn ; [x]B = [a1 a2 ... an]T
+[x]C = a1 [b1]C + a2 [b2]C + … + an [bn]C
+a1
+= [b1]C [b2]C … [bn]C ⋮
+a
+= [b1]C [b2]C … [bn]C [x]B =CB
+P [x]B
+
+•
+
+P
+
+CB
+
+= [b1]C [b2]C … [bn]C inverteerbaar.
+P = [c ] [c ] … [c ]
+
+•
+
+Analoog:
+
+•
+
+[x]C = CB
+P [x]B ; [x]B = BC
+P [x]C
+
+•
+
+(CB
+P )-1 =BC
+P
+
+BC
+
+1 B
+
+2 B
+
+n B
+
+In n
+•
+•
+•
+
+P = [b1]C [b2]C … [bn]C
+
+CB
+
+p
+Hoe [bj]C = ⋮ vinden ?
+p
+Los n (j=1 ... n) stelsels op bj = p 𝐜 + ⋯ + p 𝐜 = 𝐜 … 𝐜
+1 stelsel 𝐜 … 𝐜 | bj  [I | [bj]C]
+n stelsels 𝐜 … 𝐜 |𝐛 … 𝐛  [I | [b1]C ... [bn]C]
+𝐜 … 𝐜 |𝐛 … 𝐛  [I |CB
+𝐏]
+
+[bj]C
+
+3
+
+ 8/22/2019
+
+In n
+• C={c1, … , cn} is standaardbasis E={ e1, … , en}
+• 𝐜 … 𝐜 |𝐛 … 𝐛 = 𝐈 |𝐛 … 𝐛
+• P = [𝐛 … 𝐛 ]
+• x = [x]E = [𝐛 … 𝐛 ] [x]B
+• [x]B = [𝐛 … 𝐛 ]-1 x
+EB
+
+4
+
+ 

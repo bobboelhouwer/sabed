@@ -1,0 +1,127 @@
+NederlandseTaalkundeI
+Hoofdstuk4
+Handboekpp.105–149
+JeroenvanCraenenbroeckInleiding
+(cid:281)(cid:284)(cid:266)(cid:266)(cid:273)(cid:266)(cid:265)(cid:270)(cid:268)?
+ja nee
+(cid:263)(cid:266)(cid:277)(cid:262)(cid:273)(cid:270)(cid:275)(cid:268)-(cid:269)(cid:276)(cid:276)(cid:267)(cid:265)? (cid:269)(cid:276)(cid:276)(cid:267)(cid:265)(cid:280)(cid:281)(cid:282)(cid:272)7
+ja nee
+(cid:277)(cid:279)(cid:276)(cid:281)(cid:276)(cid:281)(cid:286)(cid:277)(cid:266)? (cid:269)(cid:276)(cid:276)(cid:267)(cid:265)(cid:280)(cid:281)(cid:282)(cid:272)6
+ja nee
+(cid:269)(cid:276)(cid:276)(cid:267)(cid:265)(cid:280)(cid:281)(cid:282)(cid:272)4 (cid:269)(cid:276)(cid:276)(cid:267)(cid:265)(cid:280)(cid:281)(cid:282)(cid:272)5Bepaling-hoofdsamenstelling
+Y [ XN] [ NN] [ XV] [ NV]
+N N V V
+[ AN] [ AV]
+N V
+[ VN] [ VV]
+X Y N V
+[ PN]
+N
+[ XY] [ AdvN]
+Y N
+[ NumN]
+N
+[ XA] [ NA] [ XP] [ PP]
+A A P P
+[ AA]
+A
+[ VA]
+A
+[ PA]
+A
+[ AdvA]
+A
+[ NumA]
+A
+[ PronA]
+ABepaling-hoofdsamenstelling
+tuinfeestBepaling-hoofdsamenstelling
+schoenmakerBepaling-hoofdsamenstelling
+koopmanBepaling-hoofdsamenstelling
+aftocht aﬂoopBepaling-hoofdsamenstelling
+terugweg terugkeerBepaling-hoofdsamenstelling
+ijzersterk beregoedBepaling-hoofdsamenstelling
+(1) Een(cid:262)(cid:267)(cid:267)(cid:270)(cid:285)(cid:276)(cid:326)(cid:265)(cid:266)iseenvrijmorfeemdateenverarmde,bijna
+grammaticalebetekeniskrijgtwanneerhetdeeluitmaaktvaneen
+morfologischcomplexwoord.
+(2) *ijzersterker,*glashelderder,*hetijskoudst
+*ergstapelgek,*zeerbloedserieus,*verschrikkelijk/vreselijk
+doodnuchterBepaling-hoofdsamenstelling
+zoutarmBepaling-hoofdsamenstelling
+stikheet knalgroenBepaling-hoofdsamenstelling
+mastklimmenBepaling-hoofdsamenstelling
+raadplegenBepaling-hoofdsamenstelling
+hoogspringenBepaling-hoofdsamenstelling
+̸
+V = verbale samenstelling
+P V
+̸
+V = verbale samenstelling
+Adv VAﬂeidingdoorcategoriebepalendesuﬃgering
+Y [ XX\N] [ NN\N] [ XX\V] [ NN\V]
+N N V V
+[ AA\N] [ AA\V]
+N V
+[ VV\N] [ VV\V]
+X X\Y N V
+[ PP\N]
+N
+[ XX\Y] [ AdvAdv\N]
+Y N
+[ NumNum\N]
+N
+[ PronPron\N]
+N
+[ XX\A] [ NN\A] [ XX\Adv] [ NN\Adv]
+A A Adv Adv
+[ AA\A] [ VV\Adv]
+A Adv
+[ VV\A] [ AA\Adv]
+A Adv
+[ PP\A] [ AdvAdv\Adv]
+A Adv
+[ AdvAdv\A] [ PronPron\Adv]
+A Adv
+[ NumNum\A]
+AAﬂeidingdoorcategoriebepalendesuﬃgering
+bloemistAﬂeidingdoorcategoriebepalendesuﬃgering
+Amerikaan ChineesAﬂeidingdoorcategoriebepalendesuﬃgering
+(3) (cid:265)(cid:266)(cid:268)(cid:266)(cid:274)(cid:270)(cid:275)(cid:262)(cid:281)(cid:270)(cid:266)iseenfonologischeregeldietweeopeenvolgende
+identiekeconsonantenofvocalenreduceerttotéén.
+(4) (cid:281)(cid:279)(cid:282)(cid:275)(cid:264)(cid:262)(cid:281)(cid:270)(cid:266)of(cid:270)(cid:275)(cid:272)(cid:276)(cid:279)(cid:281)(cid:270)(cid:275)(cid:268)ishetfonologischproceswaarbijde
+eindklankvaneenmorfeemweggelatenwordt.Aﬂeidingdoorcategoriebepalendesuﬃgering
+darwinisme hertogdomAﬂeidingdoorcategoriebepalendesuﬃgering
+dramatiekAﬂeidingdoorcategoriebepalendesuﬃgering
+loper metingAﬂeidingdoorcategoriebepalendesuﬃgering
+(5) Een(cid:275)(cid:276)(cid:274)(cid:266)(cid:275)(cid:262)(cid:268)(cid:266)(cid:275)(cid:281)(cid:270)(cid:280)iseendeverbalenominaliseringdieverwijst
+naareenpersoondiedethematischerolvan(cid:262)(cid:268)(cid:266)(cid:275)(cid:280)vervultinde
+handelingaangeduiddoorhetbetrokkenwerkwoord.
+(6) Een(cid:275)(cid:276)(cid:274)(cid:266)(cid:275)(cid:262)(cid:264)(cid:281)(cid:270)(cid:276)(cid:275)(cid:270)(cid:280)iseendeverbalenominaliseringdieverwijst
+naardehandelingoftoestandaangeduiddoorhetbetrokken
+werkwoord.Aﬂeidingdoorcategoriebepalendesuﬃgering
+regelmatig doelmatigAﬂeidingdoorcategoriebepalendesuﬃgering
+stenigenAﬂeidingdoorcategoriebepalendesuﬃgering
+karakteriserenAﬂeidingdoorcategorieneutralepreﬁgering
+Y [ N/NN] [ A/AA] [ V/VV]
+N A V
+Y/Y Y
+[ Y/YY]
+YAﬂeidingdoorcategorieneutralepreﬁgering
+onvredeAﬂeidingdoorcategorieneutralepreﬁgering
+postcommunismeAﬂeidingdoorcategorieneutralepreﬁgering
+onmondigAﬂeidingdoorcategorieneutralepreﬁgering
+(7) a. on-Belgisch
+b. niet-Belgisch
+(8) (cid:277)(cid:276)(cid:280)-A (cid:275)(cid:266)(cid:268)-A (cid:276)(cid:275)-(cid:277)(cid:276)(cid:280)-A (cid:276)(cid:275)-(cid:275)(cid:266)(cid:268)-A
+groot klein *ongroot *onklein
+hoog laag *onhoog *onlaag
+dik dun *ondik *ondun
+lang kort *onlang *onkort
+gelukkig droevig ongelukkig *ondroevig
+verstandig dom onverstandig *ondom
+interessant saai oninteressant *onsaai
+aangenaam vervelend onaangenaam *onvervelend
+duidelijk verward onduidelijk *onverward
+veilig gevaarlijk onveilig ongevaarlijkAﬂeidingdoorcategorieneutralepreﬁgering
+herbouwenAﬂeidingdoorcategorieneutralepreﬁgering
+postdateren

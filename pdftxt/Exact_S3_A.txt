@@ -1,0 +1,5987 @@
+Wiskundig
+Redeneren
+
+Prof. Dr. Karel Dekimpe
+KU Leuven campus Kulak Kortrijk
+Karel.Dekimpe@kuleuven.be
+
+  Inhoudsopgave
+
+1 Wiskundige beweringen en bewijzen
+1.1 De taal van de wiskunde . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1.1.1 Wiskundige beweringen . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1.1.2 Logische connectieven . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1.1.3 Oefeningen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1.2 Implicaties en equivalenties . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1.2.1 Implicaties . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1.2.2 Equivalenties . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1.2.3 Logische equivalenties en tautologieën . . . . . . . . . . . . . . . . . . .
+1.2.4 Oefeningen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1.3 Bewijzen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1.3.1 Directe bewijzen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1.3.2 Bewijs door gevalsonderscheid . . . . . . . . . . . . . . . . . . . . . . . .
+1.3.3 Achterwaarts construeren van bewijzen . . . . . . . . . . . . . . . . . .
+1.3.4 Oefeningen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1.4 Bewijs uit het ongerijmde . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1.4.1 Bewijs van negatieve bewering . . . . . . . . . . . . . . . . . . . . . . .
+1.4.2 Bewijs van implicaties uit het ongerijmde . . . . . . . . . . . . . . . . .
+1.4.3 Contrapositie . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1.4.4 Bewijs van een “of” bewering . . . . . . . . . . . . . . . . . . . . . . . .
+1.4.5 Oefeningen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1.5 Bewijs met volledige inductie . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1.5.1 Het principe van volledige inductie . . . . . . . . . . . . . . . . . . . . .
+1.5.2 Variatie 1: Aanpassing basisstap . . . . . . . . . . . . . . . . . . . . . .
+1.5.3 Variatie 2: Sterke principe van volledige inductie . . . . . . . . . . . . .
+1.5.4 Oefeningen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+1
+1
+1
+2
+3
+4
+4
+5
+5
+6
+8
+8
+10
+10
+11
+12
+12
+12
+13
+13
+14
+15
+15
+16
+17
+17
+
+2 Verzamelingen en kwantoren
+2.1 De taal van verzamelingen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.1.1 Verzamelingen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.1.2 Basisbegrippen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.1.3 Bewerkingen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.1.4 Venndiagrammen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.1.5 Eigenschappen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.1.6 De machtsverzameling . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.1.7 Het cartesiaans product . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.1.8 Oefeningen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.2 Kwantoren . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.2.1 De universele en existentiële kwantor . . . . . . . . . . . . . . . . . . . .
+2.2.2 Bewijzen van beweringen met kwantoren . . . . . . . . . . . . . . . . . .
+
+21
+21
+21
+23
+24
+25
+26
+28
+28
+29
+30
+30
+31
+
+iii
+
+ INHOUDSOPGAVE
+2.2.3
+2.2.4
+2.2.5
+
+Negaties van beweringen met kwantoren . . . . . . . . . . . . . . . . . . 33
+Bewerkingen met verzamelingen - algemener . . . . . . . . . . . . . . . . 34
+Oefeningen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 35
+
+3 Relaties
+39
+3.1 Relaties . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 39
+3.1.1 Definities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 39
+3.1.2 Inverse relatie en samenstelling . . . . . . . . . . . . . . . . . . . . . . . 40
+3.1.3 Grafische voorstelling . . . . . . . . . . . . . . . . . . . . . . . . . . . . 41
+3.1.4 Oefeningen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 43
+3.2 Equivalentierelaties . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 44
+3.2.1 Definities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 44
+3.2.2 Partities en equivalentieklassen . . . . . . . . . . . . . . . . . . . . . . . 45
+3.2.3 Oefeningen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 49
+3.3 Orderelaties . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 51
+3.3.1 Partiële en totale orde . . . . . . . . . . . . . . . . . . . . . . . . . . . . 51
+3.3.2 Begrippen rond orderelaties . . . . . . . . . . . . . . . . . . . . . . . . . 52
+3.3.3 Orde op R . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 54
+3.3.4 Oefeningen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 54
+4 Functies en Afbeeldingen
+4.1 Functies . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+4.1.1 Basisbegrippen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+4.1.2 Samenstellen van functies . . . . . . . . . . . . . . . . . . . . . . . . . .
+4.1.3 Beeld en invers beeld van een verzameling . . . . . . . . . . . . . . . . .
+4.1.4 Oefeningen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+4.2 Injecties, surjecties en bijecties . . . . . . . . . . . . . . . . . . . . . . . . . . .
+4.2.1 Definities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+4.2.2 Inverse functie . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+4.2.3 Oefeningen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+57
+57
+57
+61
+63
+63
+65
+65
+68
+70
+
+5 Tellen, telwijzen en toepassingen
+73
+5.1 Kardinaliteit en aantal elementen . . . . . . . . . . . . . . . . . . . . . . . . . . 73
+5.2 Elementaire telprincipes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 75
+5.3 De elementaire telwijzen. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 80
+5.3.1 Volgorde van belang - geen teruglegging (dus geen herhaling mogelijk) . 80
+5.3.2 Volgorde van belang - met teruglegging (dus herhaling mogelijk) . . . . 81
+5.3.3 Volgorde niet van belang - geen teruglegging (dus geen herhaling mogelijk) 81
+5.3.4 Volgorde niet van belang - met teruglegging (dus herhaling toegelaten) . 82
+5.3.5 Toepassingen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 82
+5.3.6 Enkele bekende identiteiten. . . . . . . . . . . . . . . . . . . . . . . . . . 84
+5.3.7 Oefeningen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 85
+5.4 Het binomium van Newton . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 87
+5.5 Oneindige verzamelingen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 88
+5.5.1 Aftelbaar oneindige verzamelingen . . . . . . . . . . . . . . . . . . . . . 88
+5.6 Overaftelbare verzamelingen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 91
+5.6.1 Over de voorstelling van reële getallen t.o.v. een gekozen grondtal . . . 91
+© K. Dekimpe
+
+Pagina iv
+
+ INHOUDSOPGAVE
+5.6.2
+5.6.3
+
+R is niet aftelbaar oneindig . . . . . . . . . . . . . . . . . . . . . . . . . 92
+Oefeningen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 94
+
+© K. Dekimpe
+
+Pagina v
+
+  Hoofdstuk 1
+Wiskundige beweringen en
+bewijzen
+1.1
+
+De taal van de wiskunde
+
+1.1.1
+
+Wiskundige beweringen
+
+De wiskunde houdt zich bezig met het beschrijven en ontwikkelen van concepten die
+voortgekomen zijn uit de studie van ruimte en getallen. Om wiskundige ideeën te formuleren
+moeten we beweringen kunnen doen over wiskundige objecten. Een groot deel van de activiteit
+van een wiskundige kan gezien worden als het formuleren van wiskundige beweringen en het
+onderzoeken of deze beweringen waar of niet waar zijn.
+We zullen geen preciese formulering geven van wat een wiskundige bewering is. Aan de
+hand van eenvoudige voorbeelden zullen we de lezer met wiskundige beweringen vertrouwd
+maken. We beginnen met het begrip propositie . Een propositie is een zin die ofwel waar is
+of ofwel niet waar is (maar niet allebei).
+Voorbeeld 1.1 – Voorbeelden en tegenvoorbeelden
+(1) 1 + 1 = 2;
+(2) π = 3;
+(3) 14 kan geschreven worden als de som van twee priemgetallen;
+(4) Elk even getal groter dan 2 kan geschreven worden als de som van twee priemgetallen;
+(5) Het kwadraat van een oneven getal is oneven;
+(6) n is een priemgetal;
+(7) n2 > 2n;
+(8) a < b;
+(9) 14 − 11.
+(10) π is een bijzonder getal;
+De eerste vijf zijn proposities. Dit wil nog niet zeggen dat ze alle vijf waar zijn. Het is
+eenvoudig in te zien dat (1) waar is en (2) niet. Ook (3) is waar, want 14 = 11 + 3 en 11 en 3
+zijn priemgetallen. Proposities (4) en (5) zijn algemene beweringen die niet met een eenvoudige
+berekening te bewijzen zijn. In feite is (5) waar en het bewijs ervan is niet moeilijk. Alhoewel
+het duidelijk is dat uitspraak (4) ofwel waar is, ofwel niet waar is (en dus een propositie is), is
+het op vandaag nog steeds niet geweten of dit een ware uitspraak is.
+De propositie (4) staat bekend als het vermoeden van Goldbach1 . Het is een van de oudste
+onopgeloste problemen uit de getaltheorie.
+1
+
+Christian Goldbach formuleerde zijn vermoeden in 1742 in een brief aan Leonhard Euler, die het
+herformuleerde in deze zin.
+
+1
+
+ WISKUNDIGE BEWERINGEN EN BEWIJZEN
+De andere vijf uit de lijst zijn evenwel geen proposities. Nummers (6) en (7) worden
+proposities als we een waarde aan n toekennen. Als bijvoorbeeld n = 2 dan is (6) waar en (7)
+niet waar. Nummer (8) wordt een propositie als we een waarde aan a en b toekennen. Zinnen
+zoals deze worden predicaten genoemd. De symbolen die een waarde moeten krijgen om tot
+een propositie te komen heten vrije veranderlijken.
+Een bewering is ofwel een propositie ofwel een predicaat. Dus de eerste 8 zinnen uit de
+bovenstaande lijst zijn beweringen. We gebruiken letters als p en q om proposities aan te
+geven, of P (m, n) om een predicaat aan te geven met m en n als vrije veranderlijken.
+De zinnen (9) en (10) zijn geen beweringen. (9) is zelfs geen zin en (10) heeft geen betekenis
+zolang we niet weten wat ‘bijzonder’ is. Het komt vaak voor dat een alledaags woord gebruikt
+wordt om een bepaalde eigenschap van een wiskundig object aan te duiden. Als ‘bijzonder’
+ingevoerd is als een mogelijke eigenschap van een getal, dan is (10) een propositie en dus een
+bewering.
+
+1.1.2
+
+Logische connectieven
+
+In de wiskunde moeten we vaak bepalen of een gegeven propositie waar is of niet. Beweringen
+kunnen soms ingewikkeld zijn en opgebouwd zijn uit een aantal componenten die verbonden
+worden door ‘logische connectieven’. Het waar of niet-waar zijn van een samengestelde bewering
+hangt af van het waar of niet-waar zijn van de componenten.
+De connectief ‘of’
+
+Beschouw de volgende bewering over reële getallen x en y:
+xy = 0 als x = 0 of y = 0.
+
+De bewering ‘x = 0 of y = 0’ is waar als x = 0 (ongeacht de waarde van y) en is ook waar
+als y = 0 (ongeacht de waarde van x). Merk op dat de bewering ook waar is als x = 0 en
+y = 0 allebei waar zijn. Dit gebruik van ‘of’ heet ook wel de ‘inclusieve of’ en dit gebruik is
+standaard in de wiskunde.
+Als p en q beweringen zijn dan noteren we de bewering ‘p of q’ met p ∨ q. De betekenis van
+p ∨ q kan het best verduidelijkt worden door middel van een waarheidstabel. Een bewering
+is ofwel waar ofwel niet waar. De waarheid van p ∨ q hangt af van de waarheid van p en q
+zoals gegeven door de volgende tabel. Hierbij duidt W (of 1) aan dat de bewering waar is en
+N (of 0) dat de bewering niet waar is.
+p
+W
+W
+N
+N
+
+q
+W
+N
+W
+N
+
+p∨q
+W
+W
+W
+N
+
+of
+
+p
+1
+1
+0
+0
+
+q
+1
+0
+1
+0
+
+p∨q
+1
+1
+1
+0
+
+Links in de tabel staan de vier mogelijke ‘waarheidscombinaties’ van de beweringen p en q.
+Rechts in de tabel staat de daaruit volgende waarheidswaarde van p ∨ q. De derde regel van
+de tabel drukt dan uit dat indien p niet waar en q wel waar is, dat dan p ∨ q waar is.
+De connectief ‘en’ We gebruiken ‘en’ als we willen uitdrukken dat twee beweringen allebei
+waar zijn. Als p en q beweringen zijn dan is ‘p en q’ de bewering die waar is als p en q allebei
+waar zijn en anders niet waar is. We schrijven p ∧ q. De waarheidstabel is
+© K. Dekimpe
+
+Pagina 2
+
+ DE TAAL VAN DE WISKUNDE
+p
+W
+W
+N
+N
+
+q
+W
+N
+W
+N
+
+p∧q
+W
+N
+N
+N
+
+of
+
+p
+1
+1
+0
+0
+
+q
+1
+0
+1
+0
+
+p∧q
+1
+0
+0
+0
+
+De connectief ‘niet’ Als p een bewering is dan is ‘niet p’ de tegengestelde bewering, die
+waar is als p het niet is, en omgekeerd. We noteren dit met ¬p. Dit heet ook wel de negatie
+van p. De waarheidstabel is
+
+p
+W
+N
+
+1.1.3
+
+¬p
+N
+W
+
+of
+
+p
+1
+0
+
+¬p
+0
+1
+
+Oefeningen
+
+Opdracht 1.2
+Stel de waarheidstabellen op voor de volgende beweringen.
+(a) ¬(p ∧ q),
+(b) (¬p) ∨ (¬q),
+(c) p ∧ (¬q).
+Opdracht 1.3
+Beschouw de volgende bewering:
+(i) Alle meisjes zijn goed in wiskunde.
+Welk van de volgende bewering is de ontkenning van deze bewering?
+(ii) Alle meisjes zijn slecht in wiskunde.
+(iii) Alle meisjes zijn niet goed in wiskunde.
+(iv) Er is een meisje dat slecht is in wiskunde.
+(v) Er is een meisje dat niet goed is in wiskunde.
+(vi) Alle kinderen die goed zijn in wiskunde zijn meisjes.
+(vii) Alle kinderen die niet goed zijn in wiskunde zijn jongens.
+Zijn er beweringen in de lijst die dezelfde betekenis hebben als de bewering (i)?
+
+© K. Dekimpe
+
+Pagina 3
+
+ WISKUNDIGE BEWERINGEN EN BEWIJZEN
+
+1.2
+
+Implicaties en equivalenties
+
+1.2.1
+
+Implicaties
+
+Een bewijs is een opvolging van beweringen. We vertrekken hierbij van beweringen waarvan
+we weten dat ze waar zijn en eindigen met de bewering die we willen bewijzen. Elke bewering
+is waar omdat de eerdere beweringen waar zijn én omdat de bewering op logische manier
+volgt uit de eerdere beweringen. Een geldig bewijs overtuigt zowel de auteur ervan zelf, als de
+anderen van een resultaat.
+Dit leidt ons tot het belangrijke begrip implicatie. Een implicatie is de bewering dat als
+een bepaalde bewering waar is dat dan ook een andere bewering waar is.
+We duiden dit aan met de notatie p ⇒ q (ook andere notaties worden wel eens gebruikt,
+zoals p → q, maar we verkiezen duidelijk de “dubbele pijl” notatie). We lezen “p ⇒ q” als: “p
+impliceert q”, of “q volgt uit p”, of “als p, dan q”.
+De waarheidstabel voor p ⇒ q is de volgende.
+p
+W
+W
+N
+N
+
+q
+W
+N
+W
+N
+
+p⇒q
+W
+N
+W
+W
+
+of
+
+p
+1
+1
+0
+0
+
+q
+1
+0
+1
+0
+
+p⇒q
+1
+0
+1
+1
+
+Merk dus op dat de enige manier waarop de implicatie p ⇒ q niet waar is, erin bestaat dat
+bewering p waar is terwijl bewering q dat niet is.
+Met behulp van waarheidstabellen kan eenvoudig nagegaan worden dat p ⇒ q logisch
+equivalent is met ¬p ∨ q (zie Definitie 1.4 hieronder en de oefeningen). Dus p ⇒ q is altijd
+waar als q waar is (onafhankelijk van het al dan niet waar zijn van p), maar ook als p niet
+waar is (onafhankelijk van het al dan niet waar zijn van q). Dit laatste wordt wel uitgedrukt
+door “uit een foute bewering kun je alles concluderen”.
+Het is belangrijk om je goed te realiseren dat we in de wiskunde de implicatie (formeel)
+gebruiken in de preciese betekenis zoals gegeven door de waarheidstabel. Beschouw b.v. de
+volgende implicaties.
+(1) (π < 4) ⇒ (1 + 1 = 2)
+(2) (π < 4) ⇒ (1 + 1 = 3)
+(3) (π < 3) ⇒ (1 + 1 = 2)
+(4) (π < 3) ⇒ (1 + 1 = 3)
+We nemen hierbij aan dat we weten dat 3 < π < 4. Uit de waarheidstabel volgt dan dat
+implicatie (2) niet waar is terwijl de andere drie implicaties wel waar zijn. De uitspraken zien
+wat vreemd uit; immers, het getal π heeft helemaal niets te maken heeft met de berekening
+van 1 + 1.
+Nog andere manieren waarop p ⇒ q uitgedrukt kan worden zijn “q als p”, “p is voldoende
+voor q” en “q is noodzakelijk voor p”. We zeggen dan ook wel dat p een voldoende voorwaarde
+is voor q en dat q een noodzakelijke (of nodige) voorwaarde is voor p.
+© K. Dekimpe
+
+Pagina 4
+
+ IMPLICATIES EN EQUIVALENTIES
+
+1.2.2
+
+Equivalenties
+
+De implicatie q ⇒ p is de omkering van de implicatie p ⇒ q. Als beide implicaties gelden dan
+schrijven we p ⇔ q en we zeggen dat p en q equivalent zijn. Dus
+p⇔q
+
+betekent
+
+(p ⇒ q) ∧ (q ⇒ p)
+
+De waarheidstabel voor p ⇔ q is
+p
+1
+1
+0
+0
+
+q
+1
+0
+1
+0
+
+p⇒q
+1
+0
+1
+1
+
+q⇒p
+1
+1
+0
+1
+
+p⇔q
+1
+0
+0
+1
+
+Uit de waarheidstabel zien we dat p ⇔ q waar is als p en q allebei waar zijn, of allebei niet
+waar zijn (p en q “equivalent”). Als een van de twee waar is en de andere niet dan is p ⇔ q
+niet waar.
+In wiskundige bewijzen wordt p ⇔ q vaak uitgesproken als “p als en slechts als q”, of in
+het kort “p asa q” (in het Engels schrijft men dit in het wiskundig jargon als “p iff q” (waarbij
+iff staat voor “if and only if”)). Als p ⇔ q dan noemen we p ook wel een nodige en voldoende
+voorwaarde voor q.
+(a)
+
+Voorrangsregels
+
+In ingewikkelde beweringen kunnen een aantal conjectieven gecombineerd worden. Hiervoor
+gelden de volgende voorrangsregels
+()
+
+¬
+
+∧
+
+∨
+
+⇒/⇐/⇔
+
+waarbij de haakjes ( ) de eerste voorrang hebben en de implicatie ⇒ (of de gelijkwaardige
+connectieven ⇐ en ⇔) de laatste. Als er verwarring dreigt over de volgorde dan is het altijd
+aan te raden om haakjes te zetten.
+Met
+¬p ⇒ q ∨ r
+bedoelen we dus
+
+(¬p) ⇒ (q ∨ r)
+
+en het kan hier ook geen kwaad om de haakjes te zetten. Als we iets anders zouden bedoelen
+dan moeten we zeker haakjes zetten.
+
+1.2.3
+
+Logische equivalenties en tautologieën
+
+Zonder echt in detail te gaan, hebben we hierboven aangegeven hoe we met behulp van
+propositiesymbolen (p, q, . . . , maar dit kan bv. ook p1 , p2 , p3 , . . . zijn) en een aantal connectieven
+(∧, ∨, ¬, ⇒, ⇔) en eventueel ook haakjes, goed gevormde formules (GGF) binnen de
+propositielogica kunnen opbouwen. Dit zijn formules waarvan we, na toekenning van de
+waarden “waar” of “onwaar” aan elk van de propositiesymbolen, kunnen nagaan of die formule
+zelf al dan niet een ware uitspraak is.
+© K. Dekimpe
+
+Pagina 5
+
+ WISKUNDIGE BEWERINGEN EN BEWIJZEN
+Definitie 1.4
+Een GGF ϕ is een tautologie (of logisch waar), indien zij voor alle
+waarheidswaarden van de proposities waarmee ze gevormd wordt, waar is. Twee
+GGF’s ϕ en ψ noemen we logisch equivalent als (ϕ ⇔ ψ) een tautologie is.
+Twee formules ϕ en ψ zijn bijgevolg logisch equivalent indien geldt dat ϕ waar is als en
+slechts als ψ waar is.
+
+1.2.4
+
+Oefeningen
+
+Opdracht 1.5
+Laat door middel van waarheidstabellen zien dat de beweringen p ⇒ q en ¬p ∨ q
+logisch equivalent zijn.
+Opdracht 1.6
+Controleer bij wijze van oefening, de volgende lijst van tautologieën.
+(p ∨ p) ⇔ p
+idempotentie van ∨
+(p ∧ p) ⇔ p
+idempotentie van ∧
+¬¬p ⇔ p
+dubbele ontkenning
+p ∨ ¬p
+uitgesloten derde
+(p ∨ q) ⇔ (q ∨ p)
+commutativiteit van ∨
+(p ∧ q) ⇔ (q ∧ p)
+commutativiteit van ∧
+((p ∨ q) ∨ r) ⇔ (p ∨ (q ∨ r))
+associativiteit van ∨
+((p ∧ q) ∧ r) ⇔ (p ∧ (q ∧ r))
+associativiteit van ∧
+(p ∧ (q ∨ r)) ⇔ ((p ∧ q) ∨ (p ∧ r))
+distributiviteit van ∧ t.o.v. ∨
+(p ∨ (q ∧ r)) ⇔ ((p ∨ q) ∧ (p ∨ r))
+distributiviteit van ∨ t.o.v. ∧
+¬(p ∨ q) ⇔ (¬p ∧ ¬q)
+wetten van de Morgan
+¬(p ∧ q) ⇔ (¬p ∨ ¬q)
+wetten van de Morgan
+(p ∨ q) ⇔ ¬(¬p ∧ ¬q)
+eliminatie van ∨ door ∧
+(p ∧ q) ⇔ ¬(¬p ∨ ¬q)
+eliminatie van ∧ door ∨
+(p ∧ ¬p) ⇒ r
+gevolg van een contradictie
+(¬p ⇒ (q ∧ ¬q)) ⇒ p)
+bewijs uit het ongerijmde
+(p ⇒ q) ⇔ (¬p ∨ q)
+eliminatie van ⇒
+¬(p ⇒ q) ⇔ (p ∧ ¬q)
+negatie van ⇒
+(p ⇒ q) ⇔ (¬q ⇒ ¬p)
+contrapositie van ⇒
+((p ⇒ q) ∧ (q ⇒ r)) ⇒ (p ⇒ r)
+transitiviteit van ⇒
+(p ⇔ q) ⇔ ((p ⇒ q) ∧ (q ⇒ p))
+eliminatie van ⇔
+¬(p ⇔ q) ⇔ ((p ∧ ¬q) ∨ (¬p ∧ q))
+negatie van ⇔
+(p ⇔ q) ⇔ (¬p ⇔ ¬q)
+contrapositie van ⇔
+(p ⇔ q) ∧ (q ⇔ r)) ⇒ (p ⇔ r)
+transitiviteit van ⇔
+(p ⇒ (q ⇒ r)) ⇔ ((p ∧ q) ⇒ r)
+(p ⇒ (q ⇒ (r ⇒ s))) ⇔ ((p ∧ q ∧ r) ⇒ s)
+
+© K. Dekimpe
+
+Pagina 6
+
+ IMPLICATIES EN EQUIVALENTIES
+Opdracht 1.7
+Stel de waarheidstabel op van de volgende beweringen:
+(a) (p ⇒ q) ∧ (q ⇒ p)
+(b) (p ⇒ q) ∨ (q ⇒ p)
+(c) (p ⇒ q) ⇒ (q ⇒ p)
+
+Opdracht 1.8
+Welke van de volgende beweringen over een geheel getal n zijn waar en welk zijn
+niet waar?
+(a) n = 2 als n2 − n − 2 = 0
+(b) n = 2 alleen als n2 − n − 2 = 0.
+(c) n = 2 als en slechts als n2 − n − 2 = 0.
+(d) n = 2 is noodzakelijk voor n2 − n − 2 = 0.
+(e) n = 2 is voldoende voor n2 − n − 2 = 0.
+(f) n2 − n − 2 = 0 ⇒ (n = 2 en n = −1).
+(g) n2 − n − 2 = 0 ⇒ (n = 2 of n = −1).
+(h) n2 − n − 2 = 0 ⇔ (n = 2 en n = −1).
+(i) n2 − n − 2 = 0 ⇔ (n = 2 of n = −1).
+(j) (n2 − n − 2 = 0 ⇒ n = 2) of (n2 − n − 2 = 0 ⇒ n = −1).
+(k) (n = 2 ⇒ n2 − n − 2 = 0) of (n = −1 ⇒ n2 − n − 2 = 0).
+(l) (n = 2 ⇒ n2 − n − 2 = 0) en (n = −1 ⇒ n2 − n − 2 = 0).
+
+Opdracht 1.9
+Gebruik waarheidstabellen om te laten zien dat de volgende beweringen
+tautologieën zijn.
+(a) p ⇒ (p ∨ q)
+(b) (p ∧ q) ⇒ p
+(c) q ⇒ (p ⇒ q)
+(d) ¬p ⇒ (p ⇒ q)
+
+© K. Dekimpe
+
+Pagina 7
+
+ WISKUNDIGE BEWERINGEN EN BEWIJZEN
+Opdracht 1.10
+Toon door middel van waarheidstabellen aan, dat voor alle p en q,
+(a) de beweringen p ⇒ q en (¬q) ⇒ ¬p logisch equivalent zijn,
+(b) de beweringen p ∨ q en (¬p) ⇒ q logisch equivalent zijn.
+
+1.3
+
+Bewijzen
+
+Een bewijs van een wiskundige bewering is een logisch argument dat aantoont dat de bewering waar is. Een bewijs bevat een aantal stappen die veelal door implicaties met elkaar
+verbonden zijn. Een van de belangrijkste doelstellingen van deze cursus is om een aantal
+bewijstechnieken te beschrijven en in te oefenen. Je moet daarmee bewijzen kunnen volgen
+als je ze tegenkomt en tevens zelf bewijzen kunnen geven. Voor dit laatste is het ook essentieel
+dat je leert hoe je een bewijs moet opschrijven.
+In het verleden ben je wellicht al bewijzen tegengekomen. Op de universiteit wordt van je
+verwacht dat je zelf bewijzen vindt en, net zo belangrijk, dat je bewijzen netjes en volgens
+bepaalde regels opschrijft zodat andere mensen het ook kunnen begrijpen. Een moeilijkheid
+hierbij is dat we bewijzen meestal niet opschrijven op de manier waarop we ze vinden. Je
+zult meestal enige tijd bezig zijn om het bewijs te vinden voordat je kunt overgaan naar het
+opschrijven van het bewijs.
+Zeker indien het over complexere wiskundige beweringen gaat, helpt een bewijs ervan om
+jezelf te overtuigen van de correctheid. Een overtuigd inzicht is zonder meer een sterker inzicht,
+en laat toe van kennis die anders louter op geheugenwerk zou berusten, dieper te grondvesten.
+Bewijzen is - zo gezien - een middel om geheugen te sparen.
+
+1.3.1
+
+Directe bewijzen
+
+Veel wiskundige stellingen zijn van de vorm p ⇒ q. Hierin is p de hypothese of de aanname
+van de stelling. Dat wil zeggen dat we aannemen dat p waar is. Daaruit willen we q afleiden.
+De eenvoudigste manier is door middel van een direct bewijs. Hier is een voorbeeld.
+Stelling 1.11
+Voor strikt positieve reële getallen a en b geldt
+a < b ⇒ a2 < b2
+We kunnen hier samenvatten wat we moeten doen door onderscheid te maken tussen wat
+gegeven is en wat we moeten bewijzen.
+Gegeven: Strikt positieve reële getallen a en b.
+Te bewijzen: a < b ⇒ a2 < b2 .
+Het directe bewijs van een implicatie p ⇒ q is om de hypothese p toe te voegen aan de
+gegevens en om daarmee q te bewijzen. Dit leidt in dit voorbeeld tot.
+Gegeven: Strikt positieve reële getallen a en b met a < b.
+© K. Dekimpe
+
+Pagina 8
+
+ BEWIJZEN
+Te bewijzen: a2 < b2 .
+Nu gaan we nadenken hoe het te bewijzen zou kunnen volgen uit het gegeven. Omdat we
+iets willen weten over a2 en b2 ligt het voor de hand om de gegeven ongelijkheid met a en b te
+vermenigvuldigen. Omdat a en b strikt positief zijn blijven de ongelijkheden behouden zodat
+en
+
+a < b ⇒ a2 < ab
+
+(1.1)
+
+a < b ⇒ ab < b2 .
+
+(1.2)
+
+Omdat we aangenomen hebben dat a < b waar is volgt nu dat a2 < ab en ab < b2 . Deze twee
+ongelijkheden bevatten beide ab en er geldt
+
+(a2 < ab) ∧ (ab < b2 ) ⇒ a2 < b2 .
+
+(1.3)
+
+Omdat a < b weten we al dat a2 < ab en ab < b2 en daarom geldt vanwege (1.3) dat a2 < b2
+waar is.
+De lezer zou zich kunnen afvragen waarom we weten dat (1.1), (1.2) en (1.3) waar zijn. Het
+antwoord is dat deze implicaties volgen uit de fundamentele eigenschappen van reële getallen,
+in het bijzonder de eigenschappen rond ordening. Deze fundamentele eigenschappen zijn.
+(1) Voor elk tweetal reële getallen a en b geldt precies één van de volgende mogelijkheden
+a < b,
+
+a = b,
+
+a > b.
+
+(2) Voor reële getallen a, b en c geldt
+a < b ⇒ (a + c < b + c)
+(3) Voor reële getallen a, b en c geldt
+(a < b ∧ c > 0) ⇒ ac < bc
+(a < b ∧ c < 0) ⇒ ac > bc
+(4) Voor reële getallen a, b en c geldt
+(a < b ∧ b < c) ⇒ a < c.
+Deze eigenschap heet de transitiviteit van de ordening.
+De beweringen (1.1) en (1.2) volgen meteen uit (3) en (1.3) volgt uit (4).
+Het bovenstaande is niet het bewijs zoals je het opschrijft. Een net bewijs van Stelling
+1.11 is.
+Bewijs. Veronderstel dat a < b. Omdat a > 0 en b > 0 volgt hieruit dat a2 < ab en ab < b2 .
+Dus a2 < b2 vanwege de transitiviteit van de ordening.
+Hiermee is bewezen dat a < b ⇒ a2 < b2 .
+ 
+Het uiteindelijke bewijs is een opeenvolging van Nederlandse zinnen met woorden zoals
+‘volgt’, ‘dus’ en ‘omdat’ die aangeven hoe de verschillende zinnen met elkaar samenhangen.
+Enige wiskundige notatie wordt ook gebruikt maar het geheel moet een leesbaar verhaal
+opleveren. Let op dat we geen pijlen gebruiken om gevolgtrekkingen aan te geven. Het
+volgende is geen acceptabel bewijs.
+Bewijs. NIET DOEN! a < b ⇒ (a2 < ab ∧ ab < b2 ) ⇒ a2 < b2 .
+© K. Dekimpe
+
+ 
+Pagina 9
+
+ WISKUNDIGE BEWERINGEN EN BEWIJZEN
+
+1.3.2
+
+Bewijs door gevalsonderscheid
+
+Soms is het moeilijk om bij een implicatie alle mogelijke objecten die aan de hypothese voldoen
+gezamenlijk te beschouwen. Het kan dan helpen om verschillende gevallen te onderscheiden,
+zoals in het volgende eenvoudige voorbeeld.
+Voorbeeld 1.12 – Als x = 1 of x = 3 dan x2 − 4x + 3 = 0.
+Bewijs. Als x = 1 dan x2 − 4x + 3 = 1 − 4 + 3 = 0. Als x = 3 dan x2 − 4x + 3 = 9 − 12 + 3 = 0.
+Dus als x = 1 of x = 3, dan geldt x2 − 4x + 3 = 0.
+ 
+Het bewijs door gevalsonderscheid is gebaseerd op het feit dat de de bewering (p ∨ q) ⇒ r
+logisch equivalent is met (p ⇒ r) ∧ (q ⇒ r).
+
+1.3.3
+
+Achterwaarts construeren van bewijzen
+
+Bij het opstellen van bewijzen gaat men vaak uit van hetgeen te bewijzen is en men probeert
+dat in een vorm te schrijven die volgt uit hetgeen gegeven is.
+Stelling 1.13
+Voor reële getallen x en y geldt
+x < y ⇒ 4xy < (x + y)2 .
+Als we beginnen met de hypothese x < y dan is het moeilijk om te zien hoe we verder
+moeten gaan om tot 4xy < (x + y)2 te komen. In plaats daarvan kunnen we de ingewikkeldere
+uitspraak 4xy < (x + y)2 gaan herschrijven:
+4xy < (x + y)2 ⇐ 4xy < x2 + 2xy + y 2
+⇐ 0 < x2 − 2xy + y 2
+⇐ 0 < (x − y)2
+⇐ x − y 6= 0
+⇐ x < y.
+De eerste vier implicaties zijn in feite equivalenties zoals eenvoudig nagegaan kan worden.
+Maar alleen de gegeven implicaties zijn van belang.
+Je zou het bovenstaande als bewijs kunnen geven, maar dat is geen net bewijs dat als een
+Nederlandse tekst gelezen kan worden. Een net bewijs is bijvoorbeeld
+Bewijs. Neem aan dat x < y. Dan is x − y 6= 0 en dus (x − y)2 > 0. Dit betekent
+x2 − 2xy + y 2 > 0 en hieruit volgt
+4xy < x2 − 2xy + y 2 + 4xy = x2 + 2xy + y 2 = (x + y)2 .
+Dus 4xy < (x + y)2 en hiermee hebben we bewezen dat x < y ⇒ 4xy < (x + y)2 .
+
+ 
+
+Het uiteindelijke bewijs toont niet de manier waarop het bewijs is gevonden. Je zult hier
+aan moeten wennen, maar het is heel gebruikelijk in de wiskunde.
+© K. Dekimpe
+
+Pagina 10
+
+ BEWIJZEN
+
+1.3.4
+
+Oefeningen
+
+Let op dat het er bij deze oefeningen niet om gaat dat je voor jezelf de juistheid van de te
+bewijzen bewering inziet, maar dat het de bedoeling is dat je een net bewijs geeft.
+Opdracht 1.14
+Bewijs dat voor alle reële getallen a, b en c geldt
+(a) (a + b − c)2 = (a + b)2 + (a − c)2 + (b − c)2 − a2 − b2 − c2 ,
+(b) ab + ac + bc ≤ a2 + b2 + c2 .
+
+Opdracht 1.15
+Bewijs dat voor alle gehele getallen a, b en c geldt
+(a is een deler van b) ∧ (b is een deler van c) ⇒ (a is een deler van c).
+
+Opdracht 1.16
+Bewijs dat voor een geheel getal n geldt
+n is even ⇒ n2 is even.
+Opdracht 1.17
+Bewijs vanuit de fundamentele eigenschappen van de ordening op R dat voor reële
+getallen x, y en z met x > 0 geldt dat
+y ≥ z ⇒ xy ≥ xz.
+
+Opdracht 1.18
+Stelling 1.13 zegt dat x < y een voldoende voorwaarde is voor 4xy < (x + y)2 . Is
+deze voorwaarde ook nodig? Als dat zo is, geef dan een bewijs. Als het niet zo,
+geef dan een nodige en voldoende voorwaarde.
+Opdracht 1.19
+Bewijs dat voor reële getallen x en y geldt
+(a) 0 ≤ x < y ⇒ x2 < y 2 ,
+(b) |x| < |y| ⇒ x2 < y 2 ,
+(c) |x| = |y| ⇒ x2 = y 2 .
+
+© K. Dekimpe
+
+Pagina 11
+
+ WISKUNDIGE BEWERINGEN EN BEWIJZEN
+Opdracht 1.20
+Bewijzen met een opeenvolging van implicaties steunen vaak op het volgende feit
+[(p ⇒ q) ∧ (q ⇒ r)] ⇒ (p ⇒ r).
+Laat met een waarheidstabel zien dat dit waar is voor alle beweringen p, q en r.
+Opdracht 1.21
+Een bewijs door gevalsonderscheid is gebaseerd op het feit dat de de bewering
+(p ∨ q) ⇒ r logisch equivalent is met (p ⇒ r) ∧ (q ⇒ r). Toon dit aan door middel
+van een waarheidstabel.
+
+1.4
+
+Bewijs uit het ongerijmde
+
+1.4.1
+
+Bewijs van negatieve bewering
+
+Een negatieve bewering is een bewering dat iets niet bestaat. Zo’n bewering is vaak moeilijk
+op een directe manier te bewijzen. Hier is een voorbeeld.
+Stelling 1.22
+Er bestaan geen gehele getallen n en m met 8n − 6m = 101.
+Bij een bewijs uit het ongerijmde nemen we aan dat hetgene dat we moeten bewijzen
+niet waar is. Daaruit leiden we een bewering af waarvan we weten dat ze niet waar is. Dit is
+een tegenspraak waaruit we concluderen dat onze oorspronkelijke aanname dat de bewering
+niet waar is, onjuist is. Daarom is de bewering wel waar.
+Stelling 1.22 kan nu als volgt uit het ongerijmde bewezen worden.
+Bewijs. Neem aan dat n en m gehele getallen zijn met 8n − 6m = 101. Omdat 8 en 6 even
+getallen zijn is dan 101 = 8n − 6m = 2(4n − 3m) een even getal is. Maar 101 is oneven, zodat
+we een tegenspraak hebben. Uit deze tegenspraak volgt dat er geen gehele getallen n en m
+bestaan met 8n − 6m = 101.
+ 
+Een tegenspraak (of contradictie) is een bewering van de vorm p ∧ ¬p. Deze bewering is
+altijd niet waar. In het bewijs van Stelling 1.22 vinden we de twee tegengestelde beweringen
+‘101 is een even getal’ en ‘101 is een oneven getal’ die allebei waar zouden zijn als de stelling
+waar was.
+Een bewijs uit het ongerijmde is gebaseerd op de het feit dat, als (¬p ⇒ q) waar is en ¬q
+waar is, dit enkel mogelijk is als p waar is.
+Een andere manier van stellen komt er op neer dat de volgende propositie een tautologie is:
+((¬p ⇒ q) ∧ ¬q) ⇒ p.
+
+1.4.2
+
+Bewijs van implicaties uit het ongerijmde
+
+Soms is het directe bewijs van een implicatie p ⇒ q niet eenvoudig te geven, zoals in het
+volgende voorbeeld.
+© K. Dekimpe
+
+Pagina 12
+
+ BEWIJS UIT HET ONGERIJMDE
+Stelling 1.23
+Als x, y en a reële getallen zijn met x > y, dan geldt
+ax ≤ ay ⇒ a ≤ 0.
+Het is moeilijk om vanuit de fundamentele eigenschappen van ongelijkheden een direct
+bewijs te construeren, omdat die eigenschappen afhangen van het teken van a en dat is hetgene
+dat we willen bepalen.
+De eenvoudigste oplossing is een bewijs uit het ongerijmde. Uit de waarheidstabel voor de
+implicatie volgt dat p ⇒ q niet waar is, precies als p waar is en q niet waar. Dus we kunnen
+p ⇒ q bewijzen door te laten zien dat p waar en q niet waar samen leiden tot een tegenspraak.
+Zo vinden we een bewijs van Stelling 1.23.
+Bewijs. Gegeven is dat x > y. Veronderstel dat ax ≤ ay en a > 0. Dan is ax > ay, hetgeen
+in tegenspraak is met ax ≤ ay. Dus ax ≤ ay en a > 0 zijn niet allebei waar en daarom geldt
+ax ≤ ay ⇒ a ≤ 0.
+ 
+
+1.4.3
+
+Contrapositie
+
+De implicatie p ⇒ q is logisch equivalent met haar contrapositie ¬q ⇒ ¬p, zoals uit de
+waarheidstabel kan worden afgeleid. Dus als de ene implicatie waar is, dan is de andere het
+ook.
+De bewering
+ax ≤ ay ⇒ a ≤ 0
+uit de vorige stelling is dus logisch equivalent met
+a > 0 ⇒ ax > ay.
+Als we van contrapositie gebruik maken vinden we een alternatief bewijs van Stelling 1.23.
+Bewijs. Gegeven is dat x > y. Als a > 0 dan volgt uit de eigenschappen voor ongelijkheden
+dat ax > ay. Dus a > 0 ⇒ ax > ay. Vanwege contrapositie is dan ook ax ≤ ay ⇒ a ≤ 0.  
+
+1.4.4
+
+Bewijs van een “of” bewering
+
+Het bewijs van een “of” bewering kan gedaan worden met een constructie die analoog is aan
+een bewijs uit het ongerijmde. Dit is gebaseerd op het feit dat p ∨ q logisch equivalent is met
+¬p ⇒ q.
+Beschouw het volgende voorbeeld.
+Stelling 1.24
+Neem aan dat x en y reële getallen zijn met xy = 0. Dan geldt x = 0 of y = 0.
+Omdat de bewering “x = 0 of y = 0” equivalent is met “x 6= 0 ⇒ y = 0”, kunnen we het
+bewijs als volgt geven.
+© K. Dekimpe
+
+Pagina 13
+
+ WISKUNDIGE BEWERINGEN EN BEWIJZEN
+Bewijs. Neem aan dat x 6= 0. Dan kunnen we de gelijkheid xy = 0 links en rechts
+vermenigvuldigen met 1/x en er volgt y = 0. Dit laat zien dat x 6= 0 ⇒ y = 0 geldt
+en dus x = 0 ∨ y = 0.
+ 
+Stelling 1.24 kan ook bewezen worden met gevalsonderscheid. Voor x geldt namelijk precies
+één van de volgende mogelijkheden: x < 0, x = 0 of x > 0. Net zo voor y. In totaal levert dat
+negen mogelijkheden.
+
+1.4.5
+
+Oefeningen
+
+Opdracht 1.25
+Geef een bewijs uit het ongerijmde voor de bewering dat er geen gehele getallen
+m en n zijn met 14m + 21n = 100.
+Opdracht 1.26
+Bewijs uit het ongerijmde dat voor elk geheel getal n geldt
+n2 is oneven ⇒ n is oneven .
+Opdracht 1.27
+Bewijs de bewering uit de vorige oefening door contrapositie.
+Opdracht 1.28
+Een bewijs uit het ongerijmde is gebaseerd op het feit dat de implicatie
+((¬p ⇒ q) ∧ ¬q) ⇒ p
+een tautologie is. Toon aan dat dit inderdaad geldt met een waarheidstabel.
+Opdracht 1.29
+Een bewijs met contrapositie is gebaseerd op de logische equivalentie van p ⇒ q
+met ¬q ⇒ ¬p. Toon dit aan met een waarheidstabel.
+Opdracht 1.30
+Bewijs Stelling 1.24 door middel van gevalsonderscheid.
+Opdracht 1.31
+Bewijs dat voor een reëel getal x met x2 ≥ 5x geldt dat x ≤ 0 of x ≥ 5.
+Opdracht 1.32
+Geef een bewijs uit het ongerijmde voor de bewering dat voor reële getallen x en
+y geldt
+(x ≤ y ∧ y ≤ x) ⇒ x = y.
+© K. Dekimpe
+
+Pagina 14
+
+ BEWIJS MET VOLLEDIGE INDUCTIE
+
+1.5
+
+Bewijs met volledige inductie
+
+Het principe van volledige inductie is een erg frequent gehanteerd principe voor het bewijzen
+van bepaalde wiskundige beweringen. Hier gaan we er wat dieper op in en geven enkele
+varianten.
+
+1.5.1
+
+Het principe van volledige inductie
+
+Een bewijs met volledige inductie is gebaseerd op de volgende eigenschap van natuurlijke
+getallen. We nemen aan dat P (n) een bewering is die afhangt van een willekeurig natuurlijk
+getal n.
+Stelling 1.33
+De bewering P (n) geldt voor elke n ∈ N als geldt
+(1) P (0) is waar, en
+(2) P (k) ⇒ P (k + 1) geldt voor elke k ∈ N.
+Een bewijs met volledige inductie valt uiteen in drie delen. Als eerste het bewijs dat
+P (0) waar is. Dit is de basisstap. Ten tweede het bewijs dat P (k) ⇒ P (k + 1) waar is voor
+elke k ∈ N. Dit is de inductiestap. In de inductiestap zullen we aannemen dat P (k) waar
+is. Deze aanname heet de inductiehypothese. Gebruik makend van de inductiehypothese
+moeten we dan bewijzen dat P (k + 1) waar is. De derde stap is de conclusie. Deze stap is
+steeds hetzelfde. Het houdt in dat we het principe van volledige inductie aanroepen om te
+concluderen dat P (n) waar is voor elke n ∈ N.
+Hier is een eenvoudig voorbeeld.
+Propositie 1.34
+Voor elk natuurlijk getal n geldt dat n2 + n een even getal is.
+
+Bewijs. We gebruiken volledige inductie.
+• Basisstap: Voor n = 0 is n2 + n = 02 + 0 = 0 en dit is even.
+• Inductiestap: Neem aan dat k een natuurlijk getal is en dat k 2 + k een even getal is. Er
+geldt
+(k + 1)2 + (k + 1) = k 2 + 2k + 1 + k + 1 = (k 2 + k) + 2(k + 1).
+Duidelijk is dat 2(k + 1) even is. Omdat ook k 2 + k even is, is ook hun som even en
+bijgevolg is (k + 1)2 + (k + 1) even. Hiermee is de inductiestap bewezen.
+• Conclusie: Omdat de basisstap en de inductiestap bewezen zijn, volgt met het principe
+van volledige inductie dat n2 + n een even getal is voor elke n ∈ N.
+ 
+Vaak wordt het symbool n ook gebruikt in de inductiestap. Dan is de inductiestap dat
+P (n) ⇒ P (n + 1) geldt voor elke n ∈ N. Dit dubbel gebruik van het symbool n kan tot
+© K. Dekimpe
+
+Pagina 15
+
+ WISKUNDIGE BEWERINGEN EN BEWIJZEN
+verwarring leiden en is pas aan te raden als je volledig vertrouwd bent met het principe van
+volledige inductie.
+
+1.5.2
+
+Variatie 1: Aanpassing basisstap
+
+De primaire vorm van volledige inductie gaat uit van een bewering P (n) die waar is voor elke
+n ∈ N. De basisstap gaat dan over de uitspraak P (0) die hoort bij n = 0.
+In plaats van bij 0 kunnen we ook bij een ander natuurlijk (of zelfs geheel) getal beginnen.
+Stelling 1.35
+Zij n0 een geheel getal. De bewering P (n) geldt voor elk geheel getal n ≥ n0 als
+geldt
+(1) P (n0 ) is waar, en
+(2) P (k) ⇒ P (k + 1) geldt voor elk geheel getal k ≥ n0 .
+Hier is een voorbeeld.
+Propositie 1.36
+Voor elk geheel getal n ≥ 4 geldt n2 ≤ 2n .
+
+Bewijs. We gebruiken volledige inductie.
+• Basisstap: Voor n = 4 is n2 = 16 en 2n = 24 = 16. Dan geldt zeker n2 ≤ 2n .
+• Inductiestap: Neem aan dat k 2 ≤ 2k voor een zekere k ≥ 4. Dan is 2k+1 = 2 · 2k ≥ 2k 2
+vanwege de inductiehypothese.
+Om te bewijzen dat (k + 1)2 ≤ 2k+1 volstaat het dus om te bewijzen dat (k + 1)2 ≤ 2k 2 .
+Nu komt (k + 1)2 ≤ 2k 2 overeen met 2k 2 − (k + 1)2 ≥ 0 en dit wil zeggen k 2 − 2k − 1 ≥ 0.
+Omdat k ≥ 4 is k 2 ≥ 4k. Dan is k 2 − 2k ≥ 2k. Omdat k ≥ 4 geldt 2k ≥ 8. Dus
+k 2 − 2k − 1 ≥ 2k − 1 ≥ 7 ≥ 0.
+Hieruit volgt dat (k + 1)2 ≤ 2k+1 en dit bewijst de inductiestap.
+• Conclusie: Omdat de basisstap en de inductiestap bewezen zijn, volgt met het principe
+van volledige inductie dat n2 ≤ 2n voor elke n ≥ 4.
+ 
+
+© K. Dekimpe
+
+Pagina 16
+
+ BEWIJS MET VOLLEDIGE INDUCTIE
+
+1.5.3
+
+Variatie 2: Sterke principe van volledige inductie
+
+Stelling 1.37
+De bewering P (n) geldt voor elk natuurlijk getal n als geldt
+(1) P (0) is waar, en
+(2) de implicatie
+[P (j) is waar voor elk natuurlijk getal j ≤ k] ⇒ P (k + 1)
+geldt voor elke k ∈ N.
+Het verschil zit in de inductiestap. De inductiehypothese is nu dat P (j) waar is voor elke
+j ≤ k. We nemen dus niet alleen aan dat P (k) waar is, maar ook alle voorgaanden P (k − 1),
+P (k − 2), . . . , P (1), P (0). Hieruit moeten we in de inductiestap afleiden dat P (k + 1) waar is.
+Omdat we in de inductiehypothese meer voor waar aannemen, kunnen we meer informatie
+gebruiken in het bewijs dat P (k + 1) waar is.
+Dit zien we in het volgende voorbeeld.
+Propositie 1.38
+Elk natuurlijk getal n, dat verschilt van 0 en 1, is te schrijven als product van
+priemgetallen.
+(Vooraf: een priemgetal is een natuurlijk getal dat precies 2 delers heeft in N. 1 is dus
+geen priemgetal. Wel priemgetallen zijn dus: 2, 3, 5, 7, 11, . . . .)
+Bewijs.
+Basisstap: voor n = 2 geldt de bewering evident, vermits 2 zelf een priemgetal is.
+Inductiestap: neem aan dat k ≥ 2 en dat de bewering geldt voor elk natuurlijk getal 2 ≤ j ≤ k.
+Beschouw nu het natuurlijk getal k + 1. Ofwel is k + 1 een priemgetal, en geldt de bewering
+op evidente manier. In het andere geval is k + 1 geen priemgetal, en m.a.w. te ontbinden als
+product van twee (noodzakelijkerwijs kleinere) andere natuurlijke getallen, allebei ≥ 2. M.a.w.
+dan is
+k + 1 = m1 .m2 met 2 ≤ m1 ≤ k en 2 ≤ m2 ≤ k
+Door de hypothese weten we dat m1 en m2 te schrijven zijn als product van priemgetallen.
+Bijgevolg is ook k + 1 een product van priemgetallen.
+Conclusie: omdat de basisstap in orde is en de inductiestap in orde is, volgt uit het principe
+van volledige inductie effectief wat er gezocht werd aan te tonen.
+ 
+
+1.5.4
+
+Oefeningen
+
+1. Bewijs met volledige inductie dat n3 − n deelbaar is door 3 voor elk natuurlijk getal n.
+2. Bewijs met volledige inductie dat m3 ≤ 2m voor m ≥ 10.
+© K. Dekimpe
+
+Pagina 17
+
+ WISKUNDIGE BEWERINGEN EN BEWIJZEN
+3. De getallen an worden inductief gedefinieerd door a0 = 0 en
+an+1 = 3an + 3n voor n ≥ 0.
+Bewijs dat an = n3n−1 voor elke n ∈ N.
+4. Bewijs dat voor elk reëel getal x 6= 0, 1, geldt dat, voor alle n ≥ 0,
+n
+X
+
+xi =
+
+i=0
+
+1 − xn+1
+.
+1−x
+
+5. Vul de volgende formules aan en bewijs de gelijkheden:
+(a)
+
+Pn
+
+(b)
+
+Pn
+
+i=0 i = . . .
+2
+i=0 i = . . .
+
+6. Bewijs dat voor elke n ∈ N0 geldt dat
+n
+X
+
+n
+X
+
+i =
+3
+
+!2
+
+i
+
+.
+
+i=1
+
+i=1
+
+Hint: herschrijf eerst het rechterlid als veelterm van n.
+7. Bewijs dat 4n + 15n − 1 deelbaar is door 9 voor alle n ∈ N0 .
+Hint: bewijs eerst (en gebruik dan) dat 4n + 5 deelbaar is door 3 voor alle n ∈ N0 .
+8. De rij van Fibonacci is een rij natuurlijke getallen, (fi )i∈N0 genoteerd. Deze getallen
+worden als volgt gedefinieerd:
+f1 = f2 = 1 en voor i ∈ N met i ≥ 3 geldt dat fi = fi−1 + fi−2 .
+De getallen in deze rij worden ook kortweg de Fibonaccigetallen genoemd. Bewijs
+volgende eigenschappen:
+(a) 1 < (fn+1 /fn ) < 2 voor alle n ≥ 3,
+(b) f4n is deelbaar door 3 voor alle n ≥ 1,
+(c) (fn )2 = fn−1 fn+1 + (−1)n+1 voor alle n ≥ 2.
+n
+
+n
+
+√
+
+√
+
+(d) fn = α √−β
+met α = 1+2 5 en β = 1−2 5 , voor alle n ≥ 1. Hint: bereken eerst α2
+5
+en β 2 .
+9. Iemand beweert: “voor elk natuurlijk getal n groter of gelijk aan 1 geldt dat, als er n
+paarden in een verzameling zijn, die paarden allemaal dezelfde kleur hebben”. Hij zet
+zijn bewering kracht bij door het volgende bewijs (door volledige inductie).
+Veronderstel dat n = 1. Als er slechts 1 paard in een verzameling zit, dan hebben
+inderdaad alle paarden in die verzameling dezelfde kleur.
+Veronderstel dat de bewering geldt voor alle n tot en met n = N met N ≥ 1, en neem
+nu n = N + 1. Neem een willekeurige verzameling met N + 1 paarden. Het is niet
+moeilijk om die paarden te nummeren, b.v. van 1 tot en met N + 1. Door eerst b.v.
+© K. Dekimpe
+
+Pagina 18
+
+ BEWIJS MET VOLLEDIGE INDUCTIE
+het paard met nummer 1 weg te laten, en dan b.v. het paard met nummer N + 1 weg
+te laten, verkrijgen we twee deelverzamelingen met N paarden. Per inductiehypothese
+hebben alle paarden in elk van die beide deelverzamelingen dezelfde kleur. Omdat deze
+deelverzamelingen duidelijk een niet lege doorsnede hebben, betekent dat in feite dat
+alle paarden met nummers 1 tot en met N + 1 dezelfde kleur hebben.
+Is deze redenering juist? Argumenteer.
+10. (Voor wie niet zonder kan - een zoekertje) Hoe kun je met een zandloper van 4 minuten
+en een zandloper van 7 minuten, een tijdspanne van precies 9 minuten afmeten? Binnen
+welke tijdspanne kun je dit organiseren (m.a.w. hoe snel kun je die periode van 9 minuten
+afgeklokt hebben)? Zorg ook hier voor een mooie redenering.
+
+© K. Dekimpe
+
+Pagina 19
+
+  Hoofdstuk 2
+Verzamelingen en kwantoren
+
+2.1
+
+De taal van verzamelingen
+
+De taal van verzamelingen wordt doorheen de hele wiskunde gebruikt. Verzamelingen bieden
+een kader waarbinnen wiskundige ideeën op een exacte manier geformuleerd kunnen worden.
+
+2.1.1
+
+Verzamelingen
+
+Op dit beginnend niveau volstaat het om een verzameling te definiëren als een zekere collectie
+van objecten die de elementen van de verzameling genoemd worden.
+Een verzameling is volledig bepaald door zijn elementen; het moet daarom eenduidig
+mogelijk zijn om, gegeven een verzameling, voor elk object ondubbelzinnig te bepalen of dat
+object tot de verzameling behoort, dan wel niet behoort.
+Sommige verzamelingen die vaak voorkomen hebben een standaardnotatie, zoals
+• N is de verzameling van natuurlijke getallen: 0, 1, 2, . . ..
+• N0 is de verzameling van natuurlijke getallen zonder 0.
+• Z is de verzameling van gehele getallen.
+• Q is de verzameling van rationale getallen (breuken).
+• R is de verzameling van reële getallen.
+• C is de verzameling van complexe getallen.
+Als x een element is van de verzameling A dan schrijven we
+x ∈ A.
+√
+De negatie
+van
+de
+bewering
+x
+∈
+A
+wordt
+genoteerd
+met
+x
+∈
+6
+A.
+Dus
+2 6∈ Q is de bewering
+√
+dat 2 geen rationaal getal is.
+Er zijn drie mogelijkheden om een verzameling weer te geven. We kunnen de elementen
+opsommen, een voorwaarde opgeven waaraan de elementen voldoen, of een formule of algoritme
+geven om de elementen te construeren.
+Elementen opsommen
+Als we een verzameling geven door opsomming dan gebruiken we hiervoor accoladen. Dus
+√
+A = {1, −2, e, π}
+√
+is de verzameling met vier elementen 1, −2, e en π. De volgorde waarin de elementen worden
+vermeld is van geen belang. We mogen een element meer dan eens opsommen. Dezelfde
+verzameling A van hierboven kunnen we dus ook weergeven door
+√
+√
+√
+A = {−2, π, e, 1} = {1, 1, π, e, 1, −2, π}.
+21
+
+ VERZAMELINGEN EN KWANTOREN
+Het opsommen van de elementen is alleen praktisch bij verzamelingen met weinig elementen.
+We kunnen het wel uitbreiden tot bijvoorbeeld
+N0 = {1, 2, 3, . . .}
+waarbij de puntjes betekenen ‘enzovoorts’, en het aan de lezer overgelaten wordt om dit in te
+vullen.
+Het is belangrijk op te merken dat de volgorde van de elementen in de opsomming geen
+enkel belang heeft. M.a.w.
+{1, 2, 3} = {1, 3, 2} = {2, 1, 3} = . . .
+Elementen die aan een voorwaarde voldoen
+Een verzameling kan beschreven worden door een voorwaarde op te geven waaraan de elementen
+moeten voldoen. Bijvoorbeeld
+A = {n ∈ Z | 0 < n < 6}
+Hierin geeft n ∈ Z aan welke objecten we bekijken (in dit geval gehele getallen).
+De bewering 0 < n < 6 is een predicaat. De verzameling A bevat alle n ∈ Z waarvoor
+geldt dat het invullen van n in het predicaat leidt tot een ware propositie. Dus voor een geheel
+getal n geldt
+n ∈ A ⇔ 0 < n < 6.
+In dit geval kunnen we A ook geven door opsomming van de elementen
+A = {1, 2, 3, 4, 5}
+maar in andere gevallen is dit moeilijk of onmogelijk.
+De verticale streep | in de definitie van A wordt uitgesproken als “waarvoor” of “waarvoor
+geldt” of “met de eigenschap dat”. We zeggen dus “A is de verzameling van alle n ∈ Z waarvoor
+geldt dat 0 < n < 6”.
+Het symbool n in de definitie van A is een dummy. Het heeft geen eigen betekenis en het
+kan vervangen worden door een ander symbool. Er geldt bijvoorbeeld
+A = {α ∈ Z | 0 < α < 6}.
+Constructieve definitie
+Een derde manier om verzamelingen weer te geven is door middel van een formule zoals in het
+voorbeeld
+B = {n2 | n ∈ N}.
+Hierin is B de verzameling van alle kwadraten van natuurlijke getallen. Dus een getal behoort
+tot B als en slechts als het kan geschreven worden als n2 voor een zeker natuurlijk getal n.
+Andere voorbeelden zijn
+{2x | x ∈ Z}
+voor de verzameling van even gehele getallen en
+{n/m | n, m ∈ Z,
+
+m 6= 0}
+
+voor de verzameling van rationale getallen. In het laatste voorbeeld zien we ook de afspraak
+dat aan alle voorwaarden achter de verticale streep | voldaan moet zijn, en dat de voorwaarden
+gescheiden worden door een komma.
+© K. Dekimpe
+
+Pagina 22
+
+ DE TAAL VAN VERZAMELINGEN
+
+2.1.2
+
+Basisbegrippen
+
+Een verzameling wordt bepaald door haar elementen, zoals uitgedrukt wordt in de volgende
+definitie.
+Definitie 2.1
+Twee verzamelingen A en B zijn gelijk, en we schrijven A = B, als ze precies
+dezelfde elementen hebben. Dus A = B betekent dat voor alle x geldt
+x ∈ A ⇔ x ∈ B.
+
+(2.1)
+
+In een bewijs dat twee verzamelingen A en B gelijk zijn moeten we in feite twee dingen
+bewijzen: elk element van A is een element van B, en omgekeerd, elk element van B is een
+element van A. Dit komt overeen met het bewijzen van de volgende twee implicaties die samen
+equivalent zijn met (2.1)
+x∈A ⇒ x∈B
+x ∈ B ⇒ x ∈ A.
+Een speciale verzameling is de lege verzameling.
+Definitie 2.2
+De lege verzameling is de unieke verzameling die geen enkel element heeft. We
+noteren de lege verzameling met ∅.
+De uitspraak dat x2 + 1 = 0 geen reële oplossingen heeft, kan in de taal van verzamelingen
+uitgedrukt worden door gelijkheid van twee verzamelingen
+{x ∈ R | x2 + 1 = 0} = ∅.
+Een ander basisbegrip is het begrip deelverzameling.
+Definitie 2.3
+Neem aan dat A en B twee verzamelingen zijn. Dan zeggen we dat A een
+deelverzameling is van B, en we noteren A ⊂ B (of A ⊆ B), als elk element
+van A ook een element van B is. Dus als voor elke x geldt
+x ∈ A ⇒ x ∈ B.
+De relatie A ⊂ B heet de inclusie van A in B.
+Let op dat we in Definitie 2.3 niet eisen dat A verschillend is van B. De inclusie B ⊂ B is
+waar voor elke verzameling B. Een deelverzameling van B die niet gelijk is aan B wordt wel
+een “strikte deelverzameling” of soms “echte deelverzameling” van B genoemd. We noteren
+dit met A ( B. Dus1
+A ( B ⇔ A ⊂ B en A 6= B.
+Uit de definities volgt dat
+A = B ⇔ A ⊂ B en A ⊃ B,
+1
+
+Sommige auteurs gebruiken A ⊆ B voor deelverzameling en A ⊂ B voor strikte deelverzameling.
+
+© K. Dekimpe
+
+Pagina 23
+
+ VERZAMELINGEN EN KWANTOREN
+waarin A ⊃ B een andere notatie is voor B ⊂ A. Dit betekent dat we de gelijkheid van
+twee verzamelingen A en B ook kunnen aantonen door de twee inclusies A ⊂ B en A ⊃ B te
+bewijzen. Deze aanpak komt vrij veel voor en we zullen ze ook nog regelmatig tegenkomen.
+Het is belangrijk om goed onderscheid te maken tussen de symbolen ∈ en ⊂. Ze zijn wel
+nauw verwant omdat
+x ∈ A ⇔ {x} ⊂ A.
+
+2.1.3
+
+Bewerkingen
+
+We beginnen met een aantal definities.
+Definitie 2.4
+De doorsnede van twee verzamelingen A en B is de verzameling van elementen
+die zowel tot A als tot B behoren. We schrijven A ∩ B. Dus
+A ∩ B = {x | x ∈ A en x ∈ B}.
+Definitie 2.5
+Twee verzamelingen A en B zijn disjunct als A ∩ B = ∅.
+Definitie 2.6
+De unie of vereniging van twee verzamelingen A en B is de verzameling van
+elementen die ofwel tot A ofwel tot B (of tot beide) behoren. We schrijven A ∪ B.
+Dus
+A ∪ B = {x | x ∈ A of x ∈ B}.
+Definitie 2.7
+Het verschil van twee verzamelingen A en B is de verzameling van elementen
+van A die niet tot B behoren. We schrijven A \ B. Dus
+A \ B = {x | x ∈ A en x 6∈ B}.
+Hiervoor geldt
+A\B ⊂A
+
+en
+
+(A \ B) ∩ B = ∅
+
+Eenvoudige eigenschappen zijn A ∩ A = A, A ∪ A = A, A \ A = ∅, A ∪ ∅ = A, A ∩ ∅ = ∅
+en A \ ∅ = A.
+Propositie 2.8
+Voor elke twee verzamelingen A en B zijn de verzamelingen A ∩ B, A \ B en B \ A
+onderling disjunct en
+A ∪ B = (A ∩ B) ∪ (A \ B) ∪ (B \ A).
+
+(2.2)
+
+Bewijs. Het eenvoudigste bewijs is waarschijnlijk met behulp van gevalsonderscheid in de
+vorm van een waarheidstabel:
+© K. Dekimpe
+
+Pagina 24
+
+ DE TAAL VAN VERZAMELINGEN
+x∈A
+1
+1
+0
+0
+
+x∈B
+1
+0
+1
+0
+
+x∈A∩B
+1
+0
+0
+0
+
+x∈A\B
+0
+1
+0
+0
+
+x∈B\A
+0
+0
+1
+0
+
+In de derde, vierde en vijfde kolom is er geen rij waar twee (of meer) keer een 1 in voorkomt.
+Dit betekent dat de drie verzamelingen A ∩ B, A \ B en B \ A onderling (dat wil zeggen
+twee-aan-twee) disjunct zijn. Om (2.2) te bewijzen kunnen we de waarheidstabel voortzetten
+tot
+x∈A
+1
+1
+0
+0
+
+x∈B
+1
+0
+1
+0
+
+x ∈ (A ∩ B) ∪ (A \ B) ∪ (B \ A)
+1
+1
+1
+0
+
+x∈A∪B
+1
+1
+1
+0
+
+De twee laatste kolommen zijn gelijk. Dus geldt x ∈ (A ∩ B) ∪ (A \ B) ∪ (B \ A) ⇔ x ∈ A ∪ B,
+hetgeen de gelijkheid van de twee verzamelingen aantoont, zie (2.1) in Definitie 2.1.
+ 
+
+2.1.4
+
+Venndiagrammen
+
+Propositie 2.8 kan inzichtelijk geı̈llustreerd worden door middel van Venndiagrammen2 . In
+een Venndiagram wordt een verzameling weergegeven door het gebied dat omsloten wordt
+door een gesloten kromme (vaak een cirkel of een ellips).
+B
+
+A
+A
+
+B
+
+C
+
+De elementen van de verzameling liggen binnen de kromme. De elementen die niet tot
+de verzameling behoren liggen buiten de kromme. Twee algemene verzamelingen A en B
+(resp. drie algemene verzamelingen A, B en C) worden weergegeven door twee (resp. drie)
+overlappende Venn-diagrammen zoals in de hierboven.
+De volgende figuren tonen de Venndiagrammen voor de doorsnede A ∩ B en de verschillen
+A \ B en B \ A. Uit de Venndiagrammen is het duidelijk dat de drie verzamelingen A ∩ B,
+A \ B en B \ A onderling disjunct zijn. Er is namelijk geen overlap tussen de drie gebieden.
+2
+
+John Venn, 1834-1923, Engels wiskundige
+
+© K. Dekimpe
+
+Pagina 25
+
+ VERZAMELINGEN EN KWANTOREN
+A
+
+B
+
+A
+
+A∩B
+
+A
+
+B
+
+A \B
+
+B
+
+A
+
+B \A
+
+B
+
+A∪B
+
+De figuren illustreren duidelijk ook de geldigheid van (2.2). Redeneren op Venn-diagrammen
+is meermaals een erg nuttige ondersteuning voor meer formele beweringen. De bovenstaande
+Venndiagrammen gaan uit van algemene verzamelingen A en B, waarvan we verder niets
+weten. In sommige situaties weten we b.v. dat A ∩ B = ∅ (A en B disjunct) of dat B een
+deelverzameling is van A. Aarzel dan niet om in die gevallen een bijpassende figuur te tekenen.
+A
+
+B
+
+A
+
+B
+
+2.1.5
+
+Eigenschappen
+
+Het gebeurt vaak dat de verzamelingen die we beschouwen deelverzamelingen zijn van een
+vaste verzameling, zoals bijvoorbeeld de reële getallen. Dit noemen we dan een universele
+verzameling die we meestal noteren met U .
+Definitie 2.9
+Gegeven een universele verzameling U . Het complement van een deelverzameling
+A ⊂ U , notatie Ac , is het verschil van U en A. Dus
+Ac = U \ A = {x ∈ U | x 6∈ A}.
+
+De doorsnede, unie en complement voor verzamelingen, zoals we zien in hun resp. definities,
+komen dus overeen met de logische bewerkingen “en”, “of” en “niet”.
+
+© K. Dekimpe
+
+Pagina 26
+
+ DE TAAL VAN VERZAMELINGEN
+Stelling 2.10
+Neem aan dat A, B en C deelverzamelingen zijn van een universele verzameling
+U . Dan geldt
+(a) (associativiteit van unie en doorsnede) A ∪ (B ∪ C) = (A ∪ B) ∪ C en
+A ∩ (B ∩ C) = (A ∩ B) ∩ C.
+(b) (commutativiteit van unie en doorsnede) A ∪ B = B ∪ A en A ∩ B = B ∩ A.
+(c) (distributiviteit van unie t.o.v. doorsnede, en van doorsnede t.o.v. unie)
+A ∪ (B ∩ C) = (A ∪ B) ∩ (A ∪ C) en A ∩ (B ∪ C) = (A ∩ B) ∪ (A ∩ C).
+(d) (de wetten van De Morgan) (A ∪ B)c = Ac ∩ B c en (A ∩ B)c = Ac ∪ B c .
+(e) (complementering) A ∪ Ac = U en A ∩ Ac = ∅.
+(f) (dubbel complement) (Ac )c = A.
+We kunnen deze eigenschappen bewijzen met waarheidstabellen of Venndiagrammen. Een
+andere mogelijkheid is met logische redenering vanuit de definities. Dit laatste zullen we
+illustreren door het bewijs te geven van de tweede uitspraak van (c).
+Bewijs. De gelijkheid A ∩ (B ∪ C) = (A ∩ B) ∪ (A ∩ C) tonen we aan door twee inclusies te
+bewijzen, namelijk
+A ∩ (B ∪ C) ⊂ (A ∩ B) ∪ (A ∩ C)
+
+(2.3)
+
+A ∩ (B ∪ C) ⊃ (A ∩ B) ∪ (A ∩ C).
+
+(2.4)
+
+en
+
+Bewijs van ‘⊂’:
+Neem aan dat x ∈ A ∩ (B ∪ C). Dan x ∈ A en x ∈ B ∪ C. Omdat x ∈ B ∪ C geldt
+x ∈ B of x ∈ C. Als x ∈ B, dan geldt, omdat ook x ∈ A, dat x ∈ A ∩ B. In het andere
+geval dat x 6∈ B, dan moet x ∈ C, en dan geldt, omdat tevens x ∈ A, dat x ∈ A ∩ C.
+Dus x ∈ A ∩ B of x ∈ A ∩ C, hetgeen betekent dat x ∈ (A ∩ B) ∪ (A ∩ C). Omdat dit
+geldt voor elke x ∈ A ∩ (B ∪ C) is nu bewezen dat A ∩ (B ∪ C) ⊂ (A ∩ B) ∪ (A ∩ C).
+Bewijs van ‘⊃’:
+Neem aan dat x ∈ (A ∩ B) ∪ (A ∩ C). Dan x ∈ A ∩ B of x ∈ A ∩ C. Als x ∈ A ∩ B
+dan x ∈ A en x ∈ B, zodat ook x ∈ A en x ∈ B ∪ C, en dus x ∈ A ∩ (B ∪ C). In het
+andere geval is x ∈ A ∩ C en dan is x ∈ A en x ∈ C, zodat ook x ∈ A en x ∈ B ∪ C en
+dus x ∈ A ∩ (B ∪ C). In beide gevallen volgtdat x ∈ A ∩ (B ∪ C). Dit geldt voor elke
+x ∈ (A ∩ B) ∪ (A ∩ C) en dus is bewezen dat (A ∩ B) ∪ (A ∩ C) ⊂ A ∩ (B ∪ C).
+We hebben nu bewezen dat de beide inclusies (2.3) en (2.4) gelden. Daarmee is de gelijkheid
+van de twee verzamelingen bewezen.
+ 
+© K. Dekimpe
+
+Pagina 27
+
+ VERZAMELINGEN EN KWANTOREN
+
+2.1.6
+
+De machtsverzameling
+
+Definitie 2.11
+De machtsverzameling P(X) (in het Engels: power-set) (in het Nederlands
+ook wel delenverzameling genoemd en dan wel eens D(X) genoteerd) van een
+verzameling X is de verzameling van alle deelverzamelingen van X. Dus
+P(X) = {A | A ⊂ X}.
+Als bijvoorbeeld X = {a, b, c}, dan
+P(X) = {∅, {a}, {b}, {c}, {a, b}, {a, c}, {c, b}, X}.
+De lege verzameling ∅ is een element van de machtsverzameling van elke verzameling X omdat
+∅ ⊂ X voor elke X.
+Een verzameling zoals {a} met precies één element heet een singleton of singleton
+verzameling. Het is belangrijk om het element a goed te onderscheiden van de singleton
+verzameling {a}.
+In het bijzonder is de singleton {∅} verschillend van de lege verzameling ∅.
+Een verzameling met precies 2 elementen wordt een paar genoemd. Precies omwille van
+het feit dat de volgorde van elementen geen rol speelt in een verzameling is het belangrijk op
+te merken dat, als a en b verschillend zijn,
+{a, b} = {b, a} =
+6 (a, b) 6= (b, a).
+
+2.1.7
+
+Het cartesiaans product
+
+Definitie 2.12
+Neem aan dat X en Y twee verzamelingen zijn. Dan is het cartesiaans product
+van X en Y gelijk aan de verzameling van alle koppels (of geordende paren) (x, y)
+met x ∈ X en y ∈ Y . We noteren het cartesiaans product met X × Y . Dus
+X × Y = {(x, y) | x ∈ X en y ∈ Y }.
+Vaak wordt kortweg van “de productverzameling X × Y van X en Y ” gesproken.
+Als Y = X dan schrijven we X × X = X 2 .
+Er geldt dat twee koppels (x1 , y1 ) en (x2 , y2 ) gelijk zijn als en slechts als x1 = x2 en y1 = y2 .
+Let op dat bij een koppel de volgorde van de componenten (of elementen) wel van belang is.
+Voorbeeld 2.13 – Als X = {a, b, c} en Y = {1, 2}, dan is
+X × Y = {(a, 1), (a, 2), (b, 1), (b, 2), (c, 1), (c, 2)}
+en
+Y × X = {(1, a), (1, b), (1, c), (2, a), (2, b), (2, c)}.
+© K. Dekimpe
+
+Pagina 28
+
+ DE TAAL VAN VERZAMELINGEN
+Opmerking 2.14 – Als men drie verzamelingen heeft, zeg X, Y en Z, dan zou er discussie
+kunnen ontstaan over wat men bedoelt met X × Y × Z; is het (X × Y ) × Z of X × (Y × Z)?
+In het eerste geval zijn de elementen van de vorm
+((x, y), z) waarbij x ∈ X, y ∈ Y, z ∈ Z.
+Als er geen formele noodzaak is om onderscheid te maken tussen elementen van de vorm
+((x, y), z) of van de vorm (x, (y, z)), wordt er eenvoudigweg X × Y × Z genoteerd en bedoelt
+men de verzameling
+{(x, y, z) | x ∈ X, y ∈ Y, z ∈ Z}.
+
+2.1.8
+
+Oefeningen
+
+Opdracht 2.15
+Bewijs de eerste uitspraak van onderdeel (c) van Stelling 2.10 met een logische
+redenering.
+Opdracht 2.16
+Bewijs onderdeel (c) van Stelling 2.10 met behulp van Venndiagrammen.
+Opdracht 2.17
+Bewijs onderdeel (d) van Stelling 2.10 met behulp van waarheidstabellen.
+Opdracht 2.18
+Bewijs dat
+(a) A ⊂ B ⇔ A ∪ B = B,
+(b) A ⊂ B ⇔ A ∩ B = A.
+Opdracht 2.19
+Het symmetrisch verschil van twee verzameling A en B is
+A∆B = (A \ B) ∪ (B \ A).
+(a) Bewijs dat A∆B = (A ∪ B) \ (A ∩ B).
+(b) Onderzoek wanneer A∆B = ∅ geldt en bewijs uw bewering.
+(c) Onderzoek wanneer A∆B = A geldt en bewijs uw bewering.
+N.B: Andere notatie die soms voor het symmetrisch verschil gebruikt wordt is
+A∇B, A B en A ÷ B.
+Opdracht 2.20
+Geef de machtsverzameling van ∅, van {∅} en van {∅, {∅}}.
+© K. Dekimpe
+
+Pagina 29
+
+ VERZAMELINGEN EN KWANTOREN
+Opdracht 2.21
+Hoeveel elementen heeft de machtsverzameling van {1, 2, 3, 4, 5}?
+
+Opdracht 2.22
+Neem aan dat A, B en C verzamelingen zijn. Bewijs dat
+(a) A × (B ∪ C) = (A × B) ∪ (A × C),
+(b) A × (B ∩ C) = (A × B) ∩ (A × C).
+
+Opdracht 2.23
+Bewijs dat voor verzamelingen A, B, C en D geldt
+(A × B) ∪ (C × D) ⊂ (A ∪ C) × (B ∪ D).
+Laat door middel van een voorbeeld zien dat gelijkheid niet hoeft te gelden.
+
+2.2
+
+Kwantoren
+
+2.2.1
+
+De universele en existentiële kwantor
+
+Definitie 2.24
+Als P (a) een predicaat is dat afhangt van een veranderlijke a ∈ A dan is
+∀a ∈ A : P (a)
+
+(2.5)
+
+een alternatieve manier om te schrijven
+{a ∈ A | P (a)} = A.
+We spreken (2.5) uit als ‘voor elk element a van A geldt P (a)’
+
+Het symbool ∀ is de universele kwantor. We schrijven de kwantor voor het predicaat.
+De veranderlijke a is een dummy of gebonden veranderlijke. Ze kan veranderd worden zonder
+dat de betekenis van de bewering verandert.
+
+© K. Dekimpe
+
+Pagina 30
+
+ KWANTOREN
+Definitie 2.25
+Als P (a) een predicaat is dan is
+∃a ∈ A : P (a)
+
+(2.6)
+
+een alternatieve manier om te schrijven
+{a ∈ A | P (a)} =
+6 ∅.
+We spreken (2.6) uit als ‘er is een element a van A waarvoor P (a) geldt’
+Het symbool ∃ is de existentiële kwantor. Ook hier is a een dummy veranderlijke.
+Merk op dat (2.5) en (2.6) beweringen zijn die waar of onwaar kunnen zijn.
+Een variant van de existentiële kwantor ∃ is de kwantor ∃! die uitdrukt dat er precies één
+element voldoet. Dus
+∃!a ∈ A : P (a)
+betekent dat de verzameling {a ∈ A | P (a)} uit precies één element bestaat, m.a.w. een
+singleton is.
+We spreken af dat een kwantor betrekking heeft op alles wat er na komt, tenzij het door
+haakjes anders bepaald wordt. Zo bedoelen we met
+∀a ∈ A : P (a) ⇒ Q
+dat de implicatie P (a) ⇒ Q waar is voor elke a ∈ A. Dit kunnen we eventueel verduidelijken
+door te schrijven
+∀a ∈ A : (P (a) ⇒ Q)
+maar dat is vanwege onze afspraak niet nodig.
+Als we bedoelen dat de bewering “∀a ∈ A : P (a)” impliceert dat Q waar is, dan we moeten
+zeker wel haakjes zetten. Dat schrijven we dus
+(∀a ∈ A : P (a)) ⇒ Q.
+
+2.2.2
+
+Bewijzen van beweringen met kwantoren
+
+Enorm veel beweringen in de wiskunde hebben de vorm van een universele bewering of een
+existentiële bewering of een combinatie er van. Het is heel belangrijk om te weten hoe je
+dergelijke beweringen kunt bewijzen.
+De universele kwantor
+Een bewering ∀a ∈ A : P (a) wordt meestal bewezen vanuit de vorm
+a ∈ A ⇒ P (a).
+Dat wil zeggen dat we aannemen dat a ∈ A en daaruit gaan we P (a) bewijzen. Of nog: kies
+een willekeurig element a van A en ga na dat bewering P (a) waar is.
+De aanname dat a ∈ A wordt als volgt geformuleerd: ‘Neem aan dat a ∈ A’, ‘Laat a ∈ A’,
+‘Zij a ∈ A’, of ‘Veronderstel dat a ∈ A’.
+© K. Dekimpe
+
+Pagina 31
+
+ VERZAMELINGEN EN KWANTOREN
+Als P (a) bewezen is, dan wordt het gehele bewijs vaak afgesloten door een zin als ‘Omdat
+a ∈ A willekeurig gekozen was is de bewering ∀a ∈ A : P (a) nu bewezen.’ Dit is zeker
+gebruikelijk als het bewijs van P (a) redelijk lang was.
+Voorbeeld 2.26 – We bewijzen
+
+∀a ∈ R0 : a2 > 0
+
+(2.7)
+
+als volgt:
+Bewijs. Neem aan dat a ∈ R0 . Dan is a ∈ R met a 6= 0. Dan geldt ofwel a < 0 of a > 0. In
+het geval dat a > 0 volgt door beide zijden van de ongelijkheid met het strikt positieve getal a
+te vermenigvuldigen dat a2 > 0. In het geval dat a < 0 krijgen we ook a2 > 0, omdat bij het
+vermenigvuldigen met het strikt negatieve getal a de ongelijkheid omdraait. In beide gevallen
+volgt dat a2 > 0. Omdat a ∈ R0 willekeurig gekozen was is (2.7) bewezen.
+ 
+Merk op dat het bovenstaande bewijs ook gebruik maakt van gevalsonderscheid.
+De existentiële kwantor
+De eenvoudigste manier om een bewering ∃a ∈ A : P (a) te bewijzen is om een zeker element
+a ∈ A aan te geven waarvoor P (a) geldt. Dit noemen we wel een bewijs met een voorbeeld.
+Voorbeeld 2.27 – Te bewijzen
+
+∃n ∈ Z : n2 = 9.
+
+(2.8)
+
+Bewijs. Merk op dat 3 ∈ Z en 32 = 9. Dus n = 3 geeft een voorbeeld waaruit blijkt dat (2.8)
+juist is.
+ 
+Er zijn ook minder directe manieren om een existentiële bewering te bewijzen, bijvoorbeeld
+door een algoritme of door een telargument.
+Combinaties van kwantoren
+Vaak komen combinaties van kwantoren voor. Als P (a, b) een predicaat is dat afhankelijk is
+van twee vrije veranderlijken, dan zijn er in totaal acht manieren om met kwantoren hieruit
+proposities te maken.
+(a) ∀a ∈ A : ∀b ∈ B : P (a, b)
+(b) ∀b ∈ B : ∀a ∈ A : P (a, b)
+(c) ∀a ∈ A : ∃b ∈ B : P (a, b)
+(d) ∃b ∈ B : ∀a ∈ A : P (a, b)
+(e) ∃a ∈ A : ∀b ∈ B : P (a, b)
+(f) ∀b ∈ B : ∃a ∈ A : P (a, b)
+(g) ∃a ∈ A : ∃b ∈ B : P (a, b)
+(h) ∃b ∈ B : ∃a ∈ A : P (a, b)
+© K. Dekimpe
+
+Pagina 32
+
+ KWANTOREN
+Het is eenvoudig in te zien dat (a) en (b) logisch equivalent zijn. In feite zijn ze logisch
+equivalent met de volgende bewering met maar één universele kwantor
+∀(a, b) ∈ A × B : P (a, b).
+Net zo zijn (g) en (h) logisch equivalent en ze zijn logisch equivalent met de volgende bewering
+met één existentiële kwantor
+∃(a, b) ∈ A × B : P (a, b).
+De andere beweringen zijn niet logisch equivalent. Als we een combinatie hebben van een
+universele en een existentiële kwantor dan is de volgorde van belang. De beweringen (c) en (d)
+zijn zeker niet logisch equivalent, zoals ook blijkt uit het volgende voorbeeld.
+Voorbeeld 2.28 – We nemen voor P (m, n) het predicaat n > m en we vergelijken de twee
+beweringen
+∀m ∈ N : ∃n ∈ N : n > m
+(2.9)
+en
+
+∃n ∈ N : ∀m ∈ N : n > m.
+
+(2.10)
+
+De bewering (2.9) zegt dat bij elk natuurlijk getal een groter natuurlijk getal te vinden is.
+Deze bewering is waar. De tweede bewering (2.10) zegt dat er een natuurlijk getal bestaat dat
+groter is dan elk natuurlijk getal. Deze bewering is niet waar.
+
+2.2.3
+
+Negaties van beweringen met kwantoren
+
+Soms willen we bewijzen dat een bewering met kwantoren niet waar is. Of we nemen aan dat
+ze niet waar is, omdat we gebruik maken van een bewijs uit het ongerijmde. Daarom is het
+goed om te weten wat de negatie van een universele en existentiële bewering is.
+Stelling 2.29
+Zij P (a) een predicaat. Dan geldt het volgende.
+(a) De beweringen
+¬ (∀a ∈ A : P (a))
+
+en
+
+∃a ∈ A : ¬P (a)
+
+en
+
+∀a ∈ A : ¬P (a)
+
+zijn logisch equivalent.
+(b) De beweringen
+¬ (∃a ∈ A : P (a))
+zijn logisch equivalent
+
+Bewijs. Het bewijs is niet moeilijk en wordt aan de lezer overgelaten.
+
+ 
+
+Met Stelling 2.29 kunnen we op vrij automatische wijze de negatie vormen van een bewering
+met een combinatie van universele en existentiële kwantoren. We moeten steeds de universele
+en existentiële kwantoren omwisselen en het predicaat vervangen door zijn negatie.
+© K. Dekimpe
+
+Pagina 33
+
+ VERZAMELINGEN EN KWANTOREN
+Zo zien we bijvoorbeeld dat
+¬ (∀a ∈ A : ∃b ∈ B : P (a, b))
+hetzelfde is als
+
+∃a ∈ A : ∀b ∈ B : ¬P (a, b).
+
+Dit soort manipulaties treedt veel op in de wiskunde.
+Voorbeeld 2.30 – Vanuit de analyse weten we dat een functie f continu is op een reëel interval
+[a, b] als geldt
+∀x0 ∈ [a, b] : ∀ε > 0 : ∃δ > 0 : ∀x ∈ [a, b] : |x − x0 | < δ ⇒ |f (x) − f (x0 )| < ε,
+
+(2.11)
+
+zie hiervoor de cursus ‘Analyse en Calculus’. De negatie hiervan is de bewering dat f niet
+continu is op het interval [a, b]. In kwantoren uitgedrukt betekent dit dat we in (2.11) alle
+∀-kwantoren vervangen door ∃-kwantoren, en omgekeerd, en dan de negatie nemen van het
+predicaat
+|x − x0 | < δ ⇒ |f (x) − f (x0 )| < ε.
+Omdat de negatie van een implicatie P ⇒ Q logisch equivalent is met P ∧ ¬Q vinden we dan
+dat de negatie van (2.11) gelijk is aan
+∃x0 ∈ [a, b] : ∃ε > 0 : ∀δ > 0 : ∃x ∈ [a, b] : (|x − x0 | < δ ∧ |f (x) − f (x0 )| ≥ ε) .
+
+2.2.4
+
+(2.12)
+
+Bewerkingen met verzamelingen - algemener
+
+In de definities 2.4 en 2.6 introduceerden we de begrippen doorsnede en unie, telkens van 2
+verzamelingen. Het komt vrij vaak voor in de wiskunde dat we deze begrippen willen uitbreiden
+tot verzamelingen van verzamelingen.
+Definitie 2.31
+Veronderstel dat A = {Xi | i ∈ I} een verzameling is waarvan de elementen Xi
+opnieuw verzamelingen zijn; i dient hier als index en de verzameling I wordt
+kortweg een indexenverzameling genoemd. Dan definieert men de doorsnede,
+T
+S
+i∈I Xi , en de unie, i∈I Xi , van deze elementen als volgt:
+a∈
+
+\
+
+Xi ⇔ (∀i ∈ I : a ∈ Xi )
+
+i∈I
+
+en
+a∈
+
+[
+
+Xi ⇔ (∃i ∈ I : a ∈ Xi ).
+
+i∈I
+
+Deze nieuwe, algemenere, notaties voor doorsnede en unie zijn vaak bijzonder handig.
+De indexenverzameling I kan eindig of oneindig zijn, en bijgevolg kan men op deze manier
+doorsnede en unie van oneindige families van verzamelingen gaan beschouwen.
+Voorbeeld 2.32 – Beschouw de verzameling
+ 
+
+© K. Dekimpe
+
+1
+, 1 | n ∈ N0
+n
+ 
+
+
+
+Pagina 34
+
+ KWANTOREN
+van intervallen (= deelverzamelingen) in R. Overtuig u zelf met een bewijs dat
+[ 1
+n∈N0
+
+2.2.5
+
+n
+
+ 
+
+, 1 =]0, 1[.
+
+Oefeningen
+
+1. Onderzoek of de volgende beweringen waar of niet waar zijn en geef een bewijs.
+(a) ∀m ∈ Z : ∀n ∈ Z : m ≤ n,
+(b) ∃m ∈ Z : ∃n ∈ Z : m ≤ n,
+(c) ∀m ∈ Z : ∃n ∈ Z : m ≤ n,
+(d) ∃m ∈ Z : ∀n ∈ Z : m ≤ n,
+(e) ∀n ∈ Z : ∃m ∈ Z : m ≤ n,
+(f) ∃n ∈ Z : ∀m ∈ Z : m ≤ n.
+2. Onderzoek of de volgende beweringen waar of niet waar zijn en geef een bewijs.
+(a) ∀x ∈ R : ∃y ∈ R : x + y = 0,
+(b) ∃y ∈ R : ∀x ∈ R : x + y = 0,
+(c) ∀x ∈ R : ∃y ∈ R : xy = 0,
+(d) ∃y ∈ R : ∀x ∈ R : xy = 0,
+(e) ∀x ∈ R : ∃y ∈ R : xy = 1,
+(f) ∃y ∈ R : ∀x ∈ R : xy = 1,
+3. Onderzoek of de volgende beweringen waar of niet waar zijn en geef een bewijs.
+(a) ∀n ∈ N : (n is even of n is oneven),
+(b) (∀n ∈ N : n is even) of (∀n ∈ N : n is oneven).
+4. Gebruik de definities om te laten zien dat een bewering
+∀a ∈ ∅ : P (a)
+altijd waar is, en dat de bewering
+∃a ∈ ∅ : P (a)
+altijd niet waar is.
+5. Geldt de volgende implicatie?
+(∀a ∈ A : P (a)) ⇒ (∃a ∈ A : P (a))
+Bewijs uw antwoord.
+6. Geldt de volgende implicatie?
+(∃a ∈ A : ∀b ∈ B : P (a, b)) ⇒ (∀b ∈ B : ∃a ∈ A : P (a, b))
+Bewijs uw antwoord.
+© K. Dekimpe
+
+Pagina 35
+
+ VERZAMELINGEN EN KWANTOREN
+7. De verzameling A ⊂ R is naar boven begrensd als
+∃x ∈ R : ∀a ∈ A : a ≤ x.
+Geef de negatie van deze bewering.
+8. De bewering dat n ∈ N0 een priemgetal is kan in kwantoren worden uitgedrukt door
+∀m ∈ N0 : (∃k ∈ N0 : mk = n) ⇒ (m = 1 ∨ m = n).
+Geef de negatie van deze bewering.
+9. Schrijf de volgende beweringen met behulp van kwantoren.
+(a) Voor alle gehele getallen a en b geldt dat als a en b even zijn, dat dan a + b ook
+even is.
+(b) De getallen n, m ∈ N0 zijn relatief priem.
+Geef ook de negaties van deze beweringen.
+10. Beschouw resp. de functies f1 en f2 , bepaald als volgt:
+f1 : R → R : x 7→ f1 (x) = x2 + 3.
+f2 : R → R : x 7→ f2 (x) =
+
+4
+.
+(x + 2)2
+
+Bewijs met de  -δ definitie dat beide functies continu zijn in het punt x = 0.
+11. Een rij reële getallen (an ) is convergent als
+∃L ∈ R : ∀ε > 0 : ∃n0 ∈ N : ∀n ∈ N : n ≥ n0 ⇒ |an − L| < ε.
+Zie hiervoor de cursus ‘Analyse en Calculus’.
+Als we twee kwantoren omdraaien dan krijgen we een andere bewering. Onderzoek wat
+de volgende beweringen over de rij (an ) inhouden. Wat voor rijen voldoen er aan?
+(a)
+
+∃L ∈ R : ∃n0 ∈ N : ∀ε > 0 : ∀n ∈ N : n ≥ n0 ⇒ |an − L| < ε
+
+(b)
+
+∃L ∈ R : ∀ε > 0 : ∀n ∈ N : ∃n0 ∈ N : n ≥ n0 ⇒ |an − L| < ε
+
+(c)
+
+∀ε > 0 : ∃L ∈ R : ∃n0 ∈ N : ∀n ∈ N : n ≥ n0 ⇒ |an − L| < ε
+
+12. Veronderstel dat f : R → R : x 7→ f (x) een afbeelding is. Beschouw de volgende
+uitspraak over f :
+(∃x ∈ R :)(∃δ > 0 :)(∀y ∈ R :)(f (x) < f (y) ⇒ |x − y| > δ).
+(a) Geef een concreet voorbeeld van een afbeelding f waarvoor deze uitspraak waar is.
+(b) Geef een formulering voor de negatie van die uitspraak.
+© K. Dekimpe
+
+Pagina 36
+
+ KWANTOREN
+(c) Zijn de afbeeldingen die voldoen aan de uitspraak hierboven, dezelfde als die welke
+voldoen aan
+(∗)
+
+(∀y ∈ R :)(∃x ∈ R :)(∃δ > 0 :)(f (x) < f (y) ⇒ |x − y| > δ)?
+
+Zo ja, bewijs je antwoord. Zo nee, geef voorbeelden van afbeeldingen waarvoor de
+ene uitspraak waar is en de andere niet, en, indien mogelijk, ook omgekeerd.
+(d) Beschouw nu de volgende stelling:
+Elke afbeelding f : R → R : x 7→ f (x) voldoet aan uitspraak (∗).
+Bewijs of ontkracht deze stelling.
+13. Onderzoek welke verzameling bepaald wordt door de volgende unies en/of doorsnedes,
+en toon telkens je antwoord aan.
+1
+0, ;
+n
+
+\ 
+
+(a)
+
+n∈N0
+
+ 
+
+\  
+
+0,
+
+(b)
+
+n∈N0
+
+[  1
+
+(c)
+
+n∈N0
+
+1
+;
+n
+
+
+1
+,
+,...,1 ;
+n n−1
+
+
+(d) Schrijf de verzameling R \
+aan.
+
+S
+
+n
+n∈N0
+
+o
+
+1
+1
+n , n−1 , . . . , 1
+
+als een unie, en toon je resultaat
+
+(e) In de veronderstelling dat alle verzamelingen Xi deelverzameling van een zelfde
+oververzameling A zijn, en dat we Xic noteren voor het complement A \ Xi , toon
+dan aan dat
+!c
+[
+i∈I
+
+Xi
+
+=
+
+\
+
+Xic
+
+i∈I
+
+14. (Voor wie niet zonder kan - een zoekertje) In oma’s keuken staan drie blikken snoep.
+Elk blik draagt een etiket met daarop de naam van de inhoud (“chocotoff”, “zuurtjes”
+en “gemengd” (chocotoff en zuurtjes)). Helaas heeft iemand de snoepen omgewisseld,
+en blijkt geen enkel etiket nog correct. Wat is het minimum aantal blikken dat je moet
+openmaken en het minimum aantal snoepjes dat je lukraak moet trekken, opdat je zeker
+zou zijn wat de inhoud van drie blikken is? Bewijs je antwoord met een verzorgde
+redenering.
+
+© K. Dekimpe
+
+Pagina 37
+
+  Hoofdstuk 3
+Relaties
+
+3.1
+
+Relaties
+
+3.1.1
+
+Definities
+
+In het vorige hoofdstuk hebben we kennis gemaakt met het cartesiaans product X × Y van
+twee verzamelingen X en Y . Het is de verzameling van alle koppels (x, y) met x ∈ X en y ∈ Y .
+Dus
+X × Y = {(x, y) | x ∈ X, en y ∈ Y }.
+Een deelverzameling van het cartesiaans product noemen we een relatie.
+Definitie 3.1
+Een relatie R van een verzameling X naar een verzameling Y is een deelverzameling van het cartesiaans product X × Y . Dus
+R ⊂ X × Y.
+We zien een relatie als een eigenschap die kan gelden tussen elementen van X en elementen
+van Y . De eigenschap geldt tussen x ∈ X en y ∈ Y als en slechts als (x, y) ∈ R. Soms noteert
+men ook wel x R y om uit te drukken dat (x, y) ∈ R.
+Hier zijn enkele voorbeelden.
+Voorbeeld 3.2 –
+(a) Zij X = {1, 2, 3} en Y = {a, b, c}. Dan is R = {(1, a), (1, c), (3, c)} een relatie van X
+naar Y .
+(b) Zij
+
+G = {(x, y) ∈ R × R | x > y}.
+
+Dan is G een relatie van R naar R. G is de “strikt-groter-dan-relatie”.
+(c) Zij X een verzameling en Y = P(X) de machtsverzameling van X. Dan is
+E = {(x, A) ∈ X × Y | x ∈ A}
+een relatie van X naar Y . E is de “element-van-relatie”.
+Als P (x, y) een predicaat is met twee vrije veranderlijken x ∈ X en y ∈ Y , dan is
+{(x, y) ∈ X × Y | P (x, y)}
+een relatie. De relaties uit de voorbeelden (b) en (c) zijn van deze vorm.
+We introduceren enkele begrippen rond relaties zonder veel commentaar.
+39
+
+ RELATIES
+Definitie 3.3
+Zij R een relatie van X naar Y . Het domein van R is
+dom R = {x ∈ X | ∃y ∈ Y : (x, y) ∈ R}
+en het beeld (of bereik, of met een meer internationale term “Image”) van R is
+im R = bld R = {y ∈ Y | ∃x ∈ X : (x, y) ∈ R}.
+Een relatie van X naar X wordt ook wel een relatie op X (of in X) genoemd. Een speciale
+relatie op X is de eenheidsrelatie IX die als volgt gedefinieerd is
+Definitie 3.4
+De eenheidsrelatie of identieke relatie op X is
+IX = {(x, x) ∈ X × X | x ∈ X}.
+We merken ook nog op dat een relatie een verzameling is en dat daarom de bekende
+bewerkingen voor verzamelingen gebruikt kunnen worden. Dus als R en S twee relaties zijn
+van X naar Y , dan zijn R ∩ S en R ∪ S ook relaties van X naar Y . Bovendien kunnen we
+spreken van S ⊂ R of R ⊂ S.
+
+3.1.2
+
+Inverse relatie en samenstelling
+
+Definitie 3.5
+Zij R een relatie van X naar Y . Dan is de inverse relatie van R de relatie R−1
+van Y naar X gedefinieerd door
+R−1 = {(y, x) ∈ Y × X | (x, y) ∈ R}.
+
+Voorbeeld 3.6 – De inverse relatie van de relatie G uit onderdeel (b) van Voorbeeld 3.2 is
+G−1 = {(x, y) ∈ R × R | (y, x) ∈ G}
+= {(x, y) ∈ R × R | y > x}
+= {(x, y) ∈ R × R | x < y}
+De inverse relatie van de “strikt-groter-dan-relatie” is dus de “strikt-kleiner-dan-relatie”.
+Het bewijs van de volgende propositie wordt als oefening aan de lezer overgelaten.
+Propositie 3.7
+Zij R een relatie van X naar Y . Dan geldt
+(a) dom R−1 = im R.
+(b) im R−1 = dom R.
+(c) (R−1 )−1 = R.
+© K. Dekimpe
+
+Pagina 40
+
+ RELATIES
+Definitie 3.8
+Zij R een relatie van X naar Y en S een relatie van Y naar Z. Dan is de
+samenstelling S ◦ R de relatie van X naar Z gedefinieerd door
+S ◦ R = {(x, z) ∈ X × Z
+
+|
+
+∃y ∈ Y : (x, y) ∈ R en (y, z) ∈ S}.
+
+Let op de volgorde S◦R. We lezen “S na R” voor deze notatie. Deze volgorde correspondeert
+met de manier waarop we gewoon zijn functies samen te stellen. In het volgende hoofdstuk
+zullen we functies invoeren als relaties met een speciale eigenschap.
+Voorbeeld 3.9 – Zij A de verzameling van studenten aan de KU Leuven, B de verzameling
+van professoren, en C de verzameling van alle vakken die dit semester gegeven worden aan de
+KU Leuven. We beschouwen de relaties
+R = {(s, v) ∈ A × C | student s volgt dit semester vak v},
+S = {(v, p) ∈ C × B | vak v wordt dit semester gegeven door professor p}.
+Dan is S ◦ R de relatie van A naar B die we kunnen uitdrukken als
+S ◦ R = {(s, p) ∈ A × B | student s volgt dit semester een vak gegeven door professor p}.
+De relatie R ◦ S is niet gedefinieerd omdat A 6= B.
+Propositie 3.10
+Zij R een relatie van X naar Y , S een relatie van Y naar Z, en T een relatie van
+Z naar W . Dan geldt T ◦ (S ◦ R) = (T ◦ S) ◦ R.
+Het bewijs van deze propositie wordt als oefening aan de lezer overgelaten.
+Propositie 3.10 drukt uit dat de samenstelling van relaties associatief is.
+Op grond van deze (uitermate belangrijke) eigenschap mogen we de haakjes ook weglaten
+en kunnen we schrijven T ◦ S ◦ R.
+
+3.1.3
+
+Grafische voorstelling
+
+Grafiek
+Als we X horizontaal weergeven en Y verticaal dan kunnen we X × Y zien als een deel van
+het vlak. Een relatie kunnen we dan grafisch weergeven door een aantal punten in het vlak.
+Als (x, y) ∈ R dan zetten we een punt in het vlak met x als horizontale coördinaat en y als
+verticale coördinaat. Deze voorstellingswijze heet ook wel de grafiek van de relatie. Soms
+wordt er ook gesproken van een roostervoorstelling. Als bijvoorbeeld X = {1, 2, 3, 4, 5} en
+Y = {a, b, c} dan wordt de relatie
+R = {(1, a), (2, a), (2, c), (4, a)}
+als volgt weergegeven:
+© K. Dekimpe
+
+Pagina 41
+
+ RELATIES
+
+c
+
+•
+
+b
+
+a
+
+•
+
+•
+
+1
+
+2
+
+•
+3
+
+4
+
+5
+
+Herken je de relatie waarvan je hieronder een grafiek te zien krijgt?
+
+•
+•
+10•
+9•
+8•
+7•
+6•
+5•
+4•
+3•
+2•
+1•
+1
+12
+
+• • •
+
+•
+
+•
+•
+
+11
+
+•
+
+•
+
+•
+
+•
+•
+
+•
+•
+
+•
+•
+
+• •
+
+•
+•
+
+•
+
+•
+•
+
+•
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10 11 12
+
+Pijlenvoorstelling
+We kunnen een relatie ook voorstellen met een pijlenvoorstelling tussen Venndiagrammen. Als
+(x, y) ∈ R dan laten we een pijl vertrekken uit x ∈ X die aankomt in y ∈ Y . Dezelfde relatie
+R als hierboven kan dan als volgt worden weergegeven.
+
+Y
+
+X
+1
+
+a
+2
+
+b
+
+3
+4
+
+c
+5
+
+© K. Dekimpe
+
+Pagina 42
+
+ RELATIES
+Gerichte graaf
+Als R een relatie is op X (dus een relatie van X naar zichzelf) dan kunnen we R ook weergeven
+met een gerichte graaf. De elementen van X stellen we voor met punten. Als (x, y) ∈ R dan
+tekenen we een pijl van x naar y.
+In de volgende figuur wordt zo de relatie
+R = {(1, 3), (2, 2), (3, 2), (4, 3)}
+weergegeven op de verzameling {1, 2, 3, 4}.
+4
+
+3
+
+1
+
+2
+
+Een pijl zoals in het punt 2, hoeft geen pijlpunt te dragen, en noemen we een “lus”.
+
+3.1.4
+
+Oefeningen
+
+1. Zij P de verzameling van alle levende mensen. Geef het domein en het beeld van de
+volgende relaties
+(a) O = {(p, q) ∈ P × P | persoon p is een ouder van persoon q},
+(b) Z = {(p, q) ∈ P × P | persoon p is een zus van persoon q}.
+2. Beschouw de relaties O en Z uit de vorige oefening. Beschrijf in woorden wanneer een
+koppel personen (p, q) tot de volgende relatie behoort:
+(a) O ◦ O,
+(b) O−1 ◦ O,
+(c) O ◦ O−1
+
+ −1
+
+,
+
+ −1
+
+◦ Z.
+
+(d) O ◦ Z,
+(e) Z −1 ◦ O,
+(f) Z ◦ O−1
+
+3. Beschouw de relaties R en S uit Voorbeeld 3.9. Beschrijf de volgende relaties in woorden
+(a) R−1 ◦ R,
+(b) R−1 ◦ S −1 ,
+(c) R−1 ◦ S −1 ◦ S ◦ R.
+4. Bewijs Propositie 3.7.
+© K. Dekimpe
+
+Pagina 43
+
+ RELATIES
+5. Zij R een relatie op X en neem aan dat R−1 ⊂ R. Bewijs dat R−1 = R.
+6. Bewijs Propositie 3.10.
+7. Neem aan dat R een relatie is van X naar Y en dat S een relatie is van Y naar Z.
+Bewijs dat
+(S ◦ R)−1 = R−1 ◦ S −1 .
+8. Interpreteer de samenstelling van twee relaties S◦R aan de hand van de pijlendiagrammen
+van R en S.
+
+3.2
+
+Equivalentierelaties
+
+3.2.1
+
+Definities
+
+Er zijn enkele belangrijke eigenschappen die een relatie op X kan hebben.
+Definitie 3.11
+Zij R een relatie op X.
+(a) We noemen R reflexief als
+∀x ∈ X : (x, x) ∈ R.
+(b) We noemen R symmetrisch als
+∀x, y ∈ X : (x, y) ∈ R ⇒ (y, x) ∈ R.
+(c) We noemen R transitief als
+∀x, y, z ∈ X : ((x, y) ∈ R en (y, z) ∈ R) ⇒ (x, z) ∈ R.
+Als we de relatie voorstellen door middel van een gerichte graaf dan betekent reflexief dat
+in elk punt een lus aanwezig is. Symmetrisch betekent dat als er een pijl is van x naar y er
+ook een pijl is van y naar x. Transitief betekent dat als er een pijl is van x naar y en een pijl
+van y naar z, dat er dan ook een pijl is van x naar z.
+Voorbeeld 3.12 –
+(a) De “strikt-groter-dan-relatie” G = {(x, y) ∈ R × R | x > y} is niet reflexief, niet
+symmetrisch, maar wel transitief.
+(b) De eenheidsrelatie IX = {(x, x) | x ∈ X} is reflexief, symmetrisch en transitief.
+(c) Zij R de relatie op Z gegeven door
+R = {(m, n) ∈ Z | n − m is deelbaar door 6}
+= {(m, n) ∈ Z | m en n hebben dezelfde rest bij deling door 6}
+Dan is R reflexief, symmetrisch en transitief.
+© K. Dekimpe
+
+Pagina 44
+
+ EQUIVALENTIERELATIES
+Definitie 3.13
+Als een relatie R op X reflexief, symmetrisch en transitief is, dan noemen we R
+een equivalentierelatie op X.
+Als R een equivalentierelatie is en (x, y) ∈ R dan zeggen we dat x en y equivalent
+zijn (t.o.v. R) en we schrijven x ∼R y of kortweg (als er geen verwarring mogelijk
+is) x ∼ y.
+
+Voorbeeld 3.14 –
+(a) De eenheidsrelatie IX is een equivalentierelatie op X. Hier geldt
+x ∼ y als en slechts als x = y.
+(b) De relatie R uit onderdeel (c) van Voorbeeld 3.12 is een equivalentierelatie op Z. Hier
+geldt dat m en n equivalent zijn als n − m deelbaar is door 6. We zeggen dan ook wel
+dat m en n gelijk zijn modulo 6. Dus
+m ∼ n als en slechts als m ≡ n mod 6.
+(c) Twee driehoeken zijn congruent als de zijden even lang zijn. Congruentie is een equivalentierelatie op de verzameling van alle driehoeken.
+(d) Zij P de verzameling van alle levende personen en definieer p ∼ q als p en q dezelfde
+verjaardag hebben. Dit is een equivalentierelatie.
+
+3.2.2
+
+Partities en equivalentieklassen
+
+Bij een equivalentierelatie op een verzameling X zijn equivalente elementen van X in zeker
+opzicht hetzelfde. In het onderdeel (d) uit Voorbeeld 3.14 is dat de verjaardag. Als we alleen
+naar de verjaardag kijken dan kunnen we personen met dezelfde verjaardag niet onderscheiden.
+Ze zijn dan hetzelfde volgens het kenmerk ‘verjaardag’. Door alleen naar de verjaardag te
+kijken delen we de verzameling P van alle levende personen op in 366 delen, namelijk één deel
+voor elke mogelijke verjaardag. Een koppel van twee personen behoort tot de relatie als ze
+uit hetzelfde deel komen. Als ze uit verschillende delen komen dan behoort het koppel niet
+tot de relatie. Elk deel geeft ons een deelverzameling van P die we kunnen labelen met de
+bijbehorende verjaardag. Als D = {1 jan, 2 jan, 3 jan, . . . , 30 dec, 31 dec} de verzameling van
+alle dagen van het jaar is (inclusief 29 februari!), dan is voor elke d ∈ D
+Vd = {p ∈ P | persoon p is geboren op dag d}
+een deelverzameling van P . De verzamelingen Vd heten de equivalentieklassen van de relatie.
+Elke persoon behoort tot precies één equivalentieklasse. Een koppel (p, q) is equivalent
+als en slechts als p en q tot dezelfde equivalentieklasse behoren. De verzameling van alle
+equivalentieklassen
+V = {Vd | d ∈ D}
+noemen we een partitie van P , want ze deelt de verzameling P op in disjuncte, niet lege delen,
+die samen de hele verzameling P vormen.
+© K. Dekimpe
+
+Pagina 45
+
+ RELATIES
+Het blijkt dat elke equivalentierelatie aanleiding geeft tot een partitie waarvan de elementen
+de equivalentieklassen van de relatie zijn. We definiëren deze begrippen nu algemeen.
+Definitie 3.15
+Een partitie V van een verzameling X is een deelverzameling van de
+machtsverzameling P(X) met de eigenschappen
+(a) De verzamelingen in V zijn niet leeg. Dus
+∀A ∈ V : A 6= ∅.
+(b) De verzamelingen in V zijn onderling disjunct. Dus
+∀A, B ∈ V : A 6= B ⇒ A ∩ B = ∅.
+(c) De verzamelingen in V overdekken X. Dus
+∀x ∈ X : ∃A ∈ V : x ∈ A.
+De eigenschap (c) is equivalent met
+(c’) X is de unie van de verzamelingen in V:
+X=
+
+[
+
+A.
+
+A∈V
+
+Definitie 3.16
+Zij ∼ een equivalentierelatie op X en zij x ∈ X. Dan is {y ∈ X | x ∼ y} de
+equivalentieklasse van x met betrekking tot ∼. De equivalentieklasse van x
+wordt genoteerd met [x]∼ of met [x] als duidelijk is welke equivalentierelatie
+bedoeld wordt. Dus
+[x] = {y ∈ X | x ∼ y}
+De verzameling van de equivalentieklassen van ∼ wordt genoteerd met X/ ∼. Dus
+X/ ∼ = {[x] | x ∈ X} = {A ⊂ X | ∃x ∈ X : A = [x]}.
+Dit leidt ons tot de belangrijkste stelling over equivalentierelaties.
+Stelling 3.17
+Zij ∼ een equivalentierelatie op X. Dan is X/ ∼ een partitie van X.
+Om deze stelling te bewijzen hebben we enkele eenvoudigere hulpresultaten nodig. Zulke
+hulpresultaten worden vaak lemmas genoemd.
+
+© K. Dekimpe
+
+Pagina 46
+
+ EQUIVALENTIERELATIES
+Lemma 3.18
+Zij ∼ een equivalentierelatie op X. Dan geldt:
+(a) als x ∈ X dan x ∈ [x], en
+(b) als x, y ∈ X dan geldt
+
+y ∈ [x] ⇔ [y] = [x].
+
+Bewijs. (van Lemma 3.18)
+(a) Als x ∈ X dan is x ∼ x vanwege de reflexiviteit van de equivalentierelatie. Dus x ∈ [x].
+(b) Neem eerst aan dat y ∈ [x]. Dan is x ∼ y. We moeten bewijzen dat [y] = [x] en dit
+doen we door twee inclusies te bewijzen.
+Kiez z ∈ [y] willekeurig. Dan is y ∼ z. Omdat x ∼ y en omdat de equivalentierelatie
+transitief is, volgt dat x ∼ z. Dan is z ∈ [x]. Omdat z ∈ [y] willekeurig gekozen is volgt dat
+[y] ⊂ [x].
+Kies nu omgekeerd z ∈ [x] willekeurig. Dan x ∼ z. Omdat de equivalentierelatie
+symmetrisch is weten we ook dat y ∼ x. Uit de transitiviteit volgt dan dat y ∼ z en dus
+z ∈ [y]. Dit laat zien dat [x] ⊂ [y].
+Er volgt nu dat [y] = [x] en de implicatie
+y ∈ [x] ⇒ [y] = [x]
+
+(3.1)
+
+is bewezen.
+Om de andere implicatie te bewijzen nemen we vervolgens aan dat [y] = [x]. Omdat y ∈ [y]
+(vanwege onderdeel (a)) is dan y ∈ [x]. Dit bewijst de implicatie
+[y] = [x] ⇒ y ∈ [x].
+Omdat (3.1) en (3.2) allebei gelden, is onderdeel (b) nu bewezen.
+
+(3.2)
+ 
+
+We kunnen nu Stelling 3.17 bewijzen.
+Bewijs. (van Stelling 3.17) We moeten bewijzen dat X/ ∼ voldoet aan de drie voorwaarden
+uit Definitie 3.15.
+(a) Als A ∈ X/ ∼ dan is er een x ∈ X met A = [x]. Op grond van onderdeel (a) van het
+lemma is dan x ∈ A, zodat A 6= ∅.
+(b) Neem aan dat A, B ∈ X/ ∼ twee elementen van X/ ∼ zijn die niet onderling disjunct
+zijn. Er zijn x en y met A = [x] en B = [y]. Omdat A en B niet disjunct zijn, is er een element
+z ∈ A ∩ B. Dan is z ∈ [x], zodat vanwege onderdeel (b) van het lemma geldt dat [z] = [x].
+Evenzo is z ∈ [y], zodat wederom vanwege onderdeel (b) van het lemma geldt dat [z] = [y].
+Dus [z] = [x] = [y]. Omdat A = [x] en B = [y] volgt nu dat A = B. We hebben bewezen dat
+A ∩ B 6= ∅ ⇒ A = B
+hetgeen via contrapositie leidt tot
+A 6= B ⇒ A ∩ B = ∅.
+(c) Kies x ∈ X. Dan is x ∈ [x] vanwege onderdeel (a) van Lemma 3.18. Omdat [x] ∈ X\ ∼
+is er dus een A ∈ X/ ∼ is met x ∈ A (namelijk A = [x]).
+ 
+© K. Dekimpe
+
+Pagina 47
+
+ RELATIES
+Stelling 3.17 zegt dat elke equivalentierelatie op X aanleiding geeft tot een partitie van X.
+Omgekeerd hoort er ook een equivalentierelatie bij elke partitie.
+Stelling 3.19
+Zij V een partitie van X. Dan definieert
+x ∼ y ⇔ (∃A ∈ V : x ∈ A en y ∈ A)
+een equivalentierelatie op X.
+elementen van V. Dus
+
+De equivalentieklassen van ∼ zijn precies de
+X/ ∼ = V.
+
+Het bewijs van deze stelling wordt als oefening aan de lezer overgelaten.
+Voorbeeld 3.20 – In voorbeeld 3.14 ontmoetten we de equivalentierelatie op Z:
+m ≡ n mod 6.
+Men kan deze relatie eenvoudig veralgemenen door 6 te vervangen door een vast
+gekozen natuurlijk getal k. Voor elke waarde van k wordt de verzameling van de gehele
+getallen gepartitioneerd in overeenkomstige equivalentieklassen. Omdat “equivalent zijn
+modulo k” overeenkomt met “het hebben van dezelfde rest bij deling door k”, worden deze
+equivalentieklassen ook wel “restklassen modulo k” genoemd.
+In sommige concrete voorbeelden (concrete waarden van k) herkennen we “bekende
+patronen”:
+..............................................................
+...........
+.........
+........
+........
+........
+.......
+......
+.
+......
+.
+.
+.
+.
+......
+...
+.
+.
+.
+.
+.
+.....
+....
+.
+.....
+.
+.
+.
+.....
+....
+.
+.
+.
+.....
+...
+.
+....
+.
+.
+...
+..
+.
+.
+...
+..
+.
+...
+.
+...
+...
+.
+...
+..
+.
+...
+..
+.
+...
+..
+...
+.
+...
+....
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+..
+....
+...
+..
+...
+...
+...
+..
+.
+...
+..
+.
+...
+...
+...
+...
+...
+...
+...
+..
+...
+.
+.
+...
+...
+...
+...
+...
+..
+...
+...
+.
+...
+.
+...
+...
+...
+..
+.....
+...
+....
+.....
+.....
+.....
+.
+.
+.
+.
+.....
+.
+......
+.....
+.....
+......
+.....
+......
+......
+.......
+.......
+........
+.
+.
+.
+.
+.
+.
+..
+..........
+..........
+..............
+.................................................
+
+•
+11
+23
+•
+
+•10
+22•
+
+•
+0
+12
+•
+...
+
+•
+1
+13
+•
+
+•14
+
+• 9 21•
+•8
+
+Z
+
+2•
+
+•15 3 •
+
+20•
+
+•16
+
+•
+19
+7
+•
+
+•
+18
+6
+•
+
+•
+17
+5
+•
+
+4•
+
+Het analoog uurwerk suggereert de restklassen modulo 12 in Z. We concluderen met
+Z/ ≡12 = {[0], [1], [2], [3], . . . , [11]}.
+
+© K. Dekimpe
+
+Pagina 48
+
+ EQUIVALENTIERELATIES
+....................................................................................
+..................
+.............
+...
+.............
+...........
+...........
+..........
+...
+.........
+........
+.
+.
+.
+.
+.
+.
+...
+.
+........
+.....
+.
+.
+.
+.
+.
+.......
+.
+.
+.
+.
+....
+.......
+.
+.
+.
+.
+.
+.
+.
+.
+......
+.
+....
+.
+.
+.
+.
+......
+.
+.
+.
+.
+....
+......
+.
+.
+.
+.
+.
+.
+.....
+.
+...
+.
+.
+.
+.
+.....
+.
+.
+.
+...
+.
+.....
+.
+.
+.
+.
+.
+.....
+.
+...
+.
+.
+.
+.
+.
+.
+.....
+....
+..
+.
+...
+.
+.
+.
+..
+...
+.
+.
+.
+.
+...
+..
+...
+.
+.
+...
+..
+..
+...
+.
+.
+..
+..
+...
+.
+.
+...
+..
+..
+.
+.
+...
+..
+..
+.
+.
+...
+....
+....
+...
+...
+...
+...
+.
+...
+...
+......................................................................................................................................................................................................................................................................................................................................
+...
+..
+...
+.
+...
+..
+..
+.
+.
+...
+...
+....
+...
+...
+...
+...
+...
+...
+...
+..
+.
+...
+.
+.
+.
+...
+....
+...
+...
+...
+...
+...
+...
+...
+...
+...
+....
+.
+.
+.
+.
+.
+.....
+....
+....
+.....
+....
+.....
+...
+.....
+.....
+.....
+...
+......
+.....
+.
+.
+.
+.
+......
+.
+.
+.
+......
+......
+....
+.......
+......
+.......
+...
+.......
+........
+.......
+...
+........
+........
+.
+.
+.
+.
+.
+.
+.........
+.
+.
+.
+.
+...........
+.......
+....
+..........
+.............
+.
+.............
+.................
+...........................................................................................
+
+Z
+
+0
+−4 •
+•
+
+8
+•
+
+10
+•
+
+−2
+• 2
+•
+
+5
+•
+
+4
+•
+
+...
+
+...
+
+...
+
+...
+
+6
+•
+
+7
+•
+
+1
+• −3
+•
+
+9
+•
+
+11
+•
+
+−1
+3 •
+•
+
+De partitie d.m.v. de restklassen modulo 4 voor Z. We concluderen met
+Z/ ≡4 = {[0], [1], [2], [3]}.
+Verifieer nu zelf dat we kunnen stellen dat
+Z/ ≡2 = { even , oneven }.
+
+3.2.3
+
+Oefeningen
+
+1. Welke van de onderstaande relaties zijn reflexief? Welke zijn symmetrisch en welke zijn
+transitief? Zijn er equivalentierelaties bij?
+(a) {(x, y) ∈ R × R | |x − y| < r} met r > 0.
+(b) {(A, B) ∈ P(X) × P(X) | A ⊂ B} waarin X een verzameling is en P(X) de
+machtsverzameling van X is.
+(c) {(A, B) ∈ P(X) × P(X) | (A∆B) ⊂ Y }. Hierin is X een verzameling en Y een vast
+gekozen deelverzameling van X. Herinner u dat A∆B het symmetrisch verschil van
+A en B is.
+(d) De volle relatie op X: X × X.
+(e) De lege relatie op X: ∅ ⊂ X × X.
+2. Welke van de volgende relaties op {a, b, c, d} zijn reflexief? Welke symmetrisch en welke
+transitief?
+(a) {(b, d), (a, c), (c, c), (d, b), (d, a)},
+(b) {(a, b), (b, a), (b, d), (a, d)},
+(c) {(a, a), (b, b), (c, c), (d, d), (b, d), (d, b)}.
+3. Zij R een relatie op X.
+(a) Bewijs dat R reflexief is als en slechts als IX ⊂ R met IX de identieke relatie op X.
+(b) Bewijs dat R symmetrisch is als en slechts als R−1 = R.
+(c) Bewijs dat R transitief is als en slechts als R ◦ R ⊂ R.
+© K. Dekimpe
+
+Pagina 49
+
+ RELATIES
+4. Zij R een relatie op X. Bewijs dat
+(a) Als R reflexief is, dan is R−1 het ook.
+(b) Als R symmetrisch is, dan is R−1 het ook.
+(c) Als R transitief is, dan is R−1 het ook.
+5. Geef voorbeelden van relaties Rj die voldoen aan:
+(a) R1 is reflexief, symmetrisch en transitief.
+(b) R2 is reflexief, symmetrisch en niet transitief.
+(c) R3 is reflexief, niet symmetrisch en transitief.
+(d) R4 is reflexief, niet symmetrisch en niet transitief.
+(e) R5 is niet reflexief, symmetrisch en transitief.
+(f) R6 is niet reflexief, symmetrisch en niet transitief.
+(g) R7 is niet reflexief, niet symmetrisch en transitief.
+(h) R8 is niet reflexief, niet symmetrisch en niet transitief.
+6. Zij R en S relaties op X. Gelden de volgende beweringen? Zo ja, geef een bewijs. Zo
+nee, geef een tegenvoorbeeld.
+(a) Als R en S reflexief zijn, dan is S ◦ R het ook.
+(b) Als R en S symmetrisch zijn, dan is S ◦ R het ook.
+(c) Als R en S transitief zijn, dan is S ◦ R het ook.
+7. Geef alle partities van X = {1, 2, 3}. Hoeveel partities zijn er?
+8. Geef alle equivalentierelaties op X = {1, 2, 3}. Hoeveel equivalentierelaties zijn er?
+9. Zij W de verzameling van alle Nederlandse woorden. Welke van de volgende relaties
+is een equivalentierelatie op W ? Bepaal voor de equivalentierelaties ook de bijhorende
+equivalentieklassen.
+(a) {(v, w) ∈ W × W | de woorden v en w beginnen met dezelfde letter}.
+(b) {(v, w) ∈ W ×W | de woorden v en w hebben minstens 1 letter gemeenschappelijk}.
+(c) {(v, w) ∈ W × W | de woorden v en w hebben evenveel letters}.
+10. Welke van de volgende relaties is een equivalentierelatie op R?
+equivalentierelaties ook de bijhorende equivalentieklassen.
+
+Bepaal voor de
+
+(a) {(x, y) ∈ R × R | x − y ∈ N}.
+(b) {(x, y) ∈ R × R | x − y ∈ Q}.
+(c) {(x, y) ∈ R × R | ∃n ∈ Z : y = x · 10n }.
+11. Bewijs Stelling 3.19.
+© K. Dekimpe
+
+Pagina 50
+
+ ORDERELATIES
+
+3.3
+
+Orderelaties
+
+3.3.1
+
+Partiële en totale orde
+
+De relatie (‘kleiner dan of gelijk aan’) op de verzameling van de reële getallen,
+K = {(x, y) ∈ R × R | x ≤ y}
+
+(3.3)
+
+is reflexief en transitief, maar niet symmetrisch. Het is dus geen equivalentierelatie. De relatie
+is ver van symmetrisch. want als (x, y) ∈ K en (y, x) ∈ K, dan moet x ≤ y en y ≤ x, en dit
+kan alleen als x = y. We kunnen dus zeggen dat uit (x, y) ∈ K en x 6= y volgt dat (y, x) 6∈ K.
+Een relatie met deze eigenschap noemen we anti-symmetrisch.
+Definitie 3.21
+Een relatie R op X is anti-symmetrisch als
+∀x, y ∈ X : ((x, y) ∈ R en x 6= y) ⇒ (y, x) 6∈ R.
+Equivalent hiermee is
+∀x, y ∈ X : ((x, y) ∈ R en (y, x) ∈ R) ⇒ x = y.
+Definitie 3.22
+Een relatie R op X is een orderelatie (ook partiële orderelatie of een partiële
+orde genoemd) op X als ze reflexief, anti-symmetrisch en transitief is. Elementen
+x en y van X noemen vergelijkbaar voor R als (xRy) of (yRx). We spreken
+van de geordende verzameling (X, R).
+Een orderelatie R op X is totaal of een totale orde als
+∀x, y ∈ X : ((x, y) ∈ R of (y, x) ∈ R) .
+Een totale geordende verzameling is m.a.w. een geordende verzameling (X, R) waarin elke
+twee elementen vergelijkbaar zijn.
+Voorbeeld 3.23 –
+(a) De relatie K van (3.3) is een orderelatie op R. Deze orde is totaal.
+(b) De relatie
+
+D = {(n, m) ∈ N × N | n is een deler van m }
+
+(3.4)
+
+is een orderelatie op de verzameling van de natuurlijke getallen. Deze relatie wordt vaak
+genoteerd met het symbool |, m.a.w.
+n|m ⇔ (n, m) ∈ D.
+(Ter verduidelijking: als n en m natuurlijke getallen zijn, dan is n een deler van m als er
+een natuurlijk getal q bestaat zodat n.q = m. Bijgevolg is elk natuurlijk getal een deler
+van 0.) Toon aan dat deze orde niet totaal is.
+© K. Dekimpe
+
+Pagina 51
+
+ RELATIES
+(c) Zij X een verzameling. Dan is
+{(A, B) ∈ P(X) × P(X) | A ⊂ B}
+een orderelatie op de machtsverzameling van X. Als X uit meer dan één element bestaat
+dan is deze orde niet totaal.
+Opmerking 3.24 – Het is gebruikelijk in de wiskunde om, van zodra R een orderelatie op een
+verzameling X is, te spreken van “x is kleiner dan of gelijk aan y” als en slechts als (x, y) ∈ R.
+Consequent zegt men dan “x is kleiner dan y” als ((x, y) ∈ R en x 6= y). Let op dat een relatie
+zoals (“is strikt kleiner dan”)
+{(x, y) ∈ R × R | x < y}
+geen orderelatie is omdat ze niet reflexief is.
+
+3.3.2
+
+Begrippen rond orderelaties
+
+Definitie 3.25
+Zij (X, R) een geordende verzameling en neem A ⊂ X. Dan is a een kleinste
+element (of minimum) van A als
+a ∈ A en ∀x ∈ A : (a, x) ∈ R.
+
+(3.5)
+
+Een element a noemen we een minimaal element van A als
+a ∈ A en ¬ (∃x ∈ A : (x, a) ∈ R en x 6= a) .
+
+(3.6)
+
+Analoog kennen we de begrippen grootste element (of maximum) van A en maximaal
+element van A.
+De eigenschap (3.6) is equivalent met
+∀x ∈ A : (x, a) ∈ R ⇒ x = a
+
+(3.7)
+
+hetgeen soms handiger is om mee te werken.
+Let op dat een minimaal element van A niet noodzakelijk een kleinste element (of minimum)
+van A is. Van een minimum van A kunnen we zeggen dat elk ander element van A groter is
+(volgens de ordening gegeven door R), terwijl voor een minimaal element geldt dat er geen
+ander element is in A dat kleiner is.
+Voorbeeld 3.26 – Zij D de delerrelatie op N zoals in (3.4). Dit is een orderelatie, en we kunnen
+derhalve spreken van de geordende verzameling (N, |). Volgens deze orde is 1 een kleinste
+element van N en is het ook een minimaal element. Nog volgens deze orde is 0 een grootste
+element van N en bovendien een maximaal element.
+De deelverzameling A = N \ {1} ⊂ N heeft evenwel geen kleinste element. Toon aan dat,
+volgens deze orde, elk priemgetal een minimaal element van A is.
+
+© K. Dekimpe
+
+Pagina 52
+
+ ORDERELATIES
+Stelling 3.27
+Zij (X, R) een geordende verzameling en veronderstel dat A ⊂ X. Dan geldt
+(a) Als A een kleinste element heeft, dan is dit kleinste element uniek. (Dus we
+kunnen spreken van het kleinste element van A in plaats van een kleinste
+element.)
+(b) Als A een kleinste element heeft, dan is dit element ook een minimaal
+element.
+(c) Als R een totale orde is, dan is een minimaal element van A ook een kleinste
+element.
+
+Bewijs. (a) Neem aan dat A een kleinste element heeft, zeg a. Het bewijs dat dit element
+uniek is voeren we uit het ongerijmde. Stel dat er nog een kleinste element van A is. We
+noemen dit element b en we nemen dus aan dat b 6= a.
+Dan is b ∈ A en omdat a een kleinste element is van A volgt uit (3.5) dat (a, b) ∈ R. Maar
+omgekeerd is ook b is een kleinste element van A en a ∈ A, zodat uit (3.5) ook volgt dat
+(b, a) ∈ R. Uit het anti-symmetrisch zijn van R volgt nu dat a = b, hetgeen in tegenspraak is
+met b 6= a. Deze tegenspraak toont aan dat het kleinste element van A uniek is.
+(b) Neem aan dat a een kleinste element van A is. We weten dus dat (3.5) geldt en we
+moeten (3.7) bewijzen. Kies x ∈ A willekeurig en veronderstel dat (x, a) ∈ R. Vanwege (3.5)
+geldt (a, x) ∈ R en dan volgt uit de anti-symmetrie van R dat x = a. Dit bewijst (3.7).
+(c) Neem aan dat de orde totaal is en dat a een minimaal element van A is. Neem x ∈ A
+willekeurig. We gaan bewijzen dat (a, x) ∈ R.
+Omdat de orde totaal is geldt ofwel (x, a) ∈ R ofwel (a, x) ∈ R. In het laatste geval zijn we
+meteen klaar. In het eerste geval volgt uit (3.7) dat x = a en ook dan geldt (a, x) ∈ R vanwege
+de reflexiviteit van R. In beide gevallen geldt dus (a, x) ∈ R waarmee we (3.5) bewezen hebben.
+Dus is a een kleinste element van a.
+ 
+Enkele begrippen die vertrouwd zijn van de reële getallen hebben een natuurlijke uitbreiding
+naar een willekeurige orderelatie.
+Definitie 3.28
+Zij (X, R) een geordende verzameling en A ⊂ X. Dan is a ∈ X een ondergrens
+van A (ook minorant van A genoemd) als
+∀x ∈ A : (a, x) ∈ R.
+Als A een ondergrens heeft, dan noemen we A naar onder begrensd.
+Verder is a ∈ X is een infimum (of grootste ondergrens) van A als a een
+ondergrens is van A die groter is dan elke andere ondergrens van A (m.a.w. als a
+een maximum is van de ondergrenzen van A).
+Analoog kennen we de begrippen bovengrens (of majorant), naar boven begrensd
+en supremum (=kleinste bovengrens).
+© K. Dekimpe
+
+Pagina 53
+
+ RELATIES
+Omdat een infimum in feite een maximum is (van de ondergrenzen) en een supremum in
+feite een minimum is (van de bovengrenzen), zijn infimum en supremum, indien ze bestaan,
+uniek. We noteren inf(A) (resp. sup(A)).
+Uit de definities volgt dat a een infimum is van A als
+(a) a is een ondergrens van A:
+
+∀x ∈ A : (a, x) ∈ R,
+
+(b) en a is groter dan elke ondergrens b van A:
+∀b ∈ X : (∀x ∈ A : (b, x) ∈ R) ⇒ (b, a) ∈ R.
+
+3.3.3
+
+Orde op R
+
+De gebruikelijke orde op R, welbekend met de notatie ≤, wordt besproken in de cursus ‘Analyse
+en Calculus’ (en in hoofdstuk 6 van de uitgebreide versie van deze cursus). Deze orde is totaal
+en ook volledig. Dit begrip wordt in het algemeen als volgt gedefinieerd.
+Definitie 3.29
+Een orde R op X is volledig als iedere niet-lege naar onder begrensde
+deelverzameling van X een infimum heeft, en iedere niet-lege naar boven begrensde
+deelverzameling een supremum heeft.
+De orde ≤ op R is nauw verwant met de algebraı̈sche bewerkingen op R. Er geldt immers
+x < y ⇔ ∃δ ∈ R : (δ > 0 en x + δ = y).
+
+3.3.4
+
+Oefeningen
+
+1. Welke van de volgende relaties zijn orderelaties op de verzameling W van alle woorden
+uit de Nederlandse taal? Zijn de orderelaties partieel of totaal?
+(a) R1 is de relatie op W waarbij (x, y) ∈ R1 als alle letters van woord x ook voorkomen
+in woord y.
+(b) R2 is de relatie op W waarbij (x, y) ∈ R2 als en slechts als de letters van woord x
+achter elkaar en in dezelfde volgorde voorkomen in woord y.
+(c) R3 is de relatie op W waarbij (x, y) ∈ R3 als y na x komt in alfabetischlexicografische ordening.
+2. Analoog als op de verzameling natuurlijke getallen, kan men op de verzameling van
+de gehele getallen, Z, de relatie “is deler van” (ook | genoteerd) bepalen. Is (Z, |) een
+geordende verzameling? Waarom (niet)?
+3. Welke van de volgende relaties zijn orderelaties op R? Zijn de orderelaties partieel of
+totaal?
+(a) {(x, y) ∈ R × R | x ≥ y}.
+(b) {(x, y) ∈ R × R | |x| ≥ |y|}.
+(c) {(x, y) ∈ R × R | |x| < |y| of x = y}.
+© K. Dekimpe
+
+Pagina 54
+
+ ORDERELATIES
+4. Zij R een orderelatie op X en zij A een deelverzameling van X die een infimum heeft.
+Bewijs dat dit infimum uniek is.
+5. (a) Zij R een orderelatie op X. Bewijs dat R−1 ook een orderelatie op X is.
+(b) Zij R en S twee orderelaties op X. Is de samenstelling S ◦ R ook een orderelatie op
+X? Zo ja, geef een bewijs, zo nee, geef een tegenvoorbeeld.
+6. Voor een deelverzameling A van R en λ ∈ R definiëren we
+λA := {λx | x ∈ A}.
+(a) Neem aan dat A een niet-lege, naar boven begrensde verzameling is en dat λ > 0.
+Bewijs dat λA naar boven begrensd is en dat
+sup(λA) = λ sup A.
+(b) Formuleer en bewijs een analoge bewering voor het geval dat λ < 0.
+7. Voor twee deelverzamelingen A en B van R definiëren we
+A + B := {x + y | x ∈ A en y ∈ B}.
+Neem aan dat A en B niet-lege, naar boven begrensde verzamelingen zijn. Bewijs dat
+A + B naar boven begrensd is en dat
+sup(A + B) = sup A + sup B.
+8. Beschouw de partiële orde ‘⊂’ op de machtsverzameling P(X) van een verzameling X.
+Zie onderdeel (c) van Voorbeeld 3.23.
+(a) Zij A, B ∈ P(X). Bewijs dat
+inf({A, B}) = A ∩ B
+en
+
+sup({A, B}) = A ∪ B
+
+(b) Bewijs dat de orde op P(X) volledig is. Voor F ⊂ P(X) met F 6= ∅, beschrijf het
+infimum en het supremum van F .
+9. Beschouw de geordende verzameling (N, |). Neem a, b ∈ N. We definiëren:
+grootste gemene deler van a en b = inf{a, b}
+en
+
+kleinste gemeen veelvoud van a en b = sup{a, b}.
+
+Schrijf, gebruikmakend van de relatie | en de definities van infimum en supremum, uit
+wat het betekent “grootste gemene deler” of “kleinste gemeen veelvoud” te zijn. Wat is
+de grootste gemene deler van 0 en 0 volgens jou?
+10. Zij R een orderelatie op X. Neem aan dat X zowel een kleinste als een grootste element
+heeft. We zien ∅ als deelverzameling van X.
+© K. Dekimpe
+
+Pagina 55
+
+ RELATIES
+(a) Is inf ∅ het kleinste of het grootste element van X? Bewijs uw antwoord.
+(b) Dezelfde vraag voor sup ∅.
+11. (Voor wie niet zonder kan - een zoekertje) In een kamer zonder ramen hangt een lamp.
+Aan de buitenkant van de kamer zijn er drie schakelaars, zeg A, B en C, die alledrie in
+de “uit” stand staan. Slechts één schakelaar bedient de lamp, de andere twee zijn niet
+aangesloten. Om te weten of de lamp brandt zit er niets anders op dan de kamer binnen
+te gaan. Wat is het minimum aantal keer dat je de kamer moet binnengaan om met
+zekerheid te kunnen bepalen welke schakelaar van deze drie de lamp bedient? Zorg weer
+voor een goede redenering.
+
+© K. Dekimpe
+
+Pagina 56
+
+ Hoofdstuk 4
+Functies en Afbeeldingen
+
+4.1
+
+Functies
+
+4.1.1
+
+Basisbegrippen
+
+Het begrip ‘functie’ is op een informele manier ingevoerd in de cursus “Analyse en Calculus”.
+Daar werd een functie van de verzameling X naar Y gezien als “iets” dat bij elk element
+x ∈ X een element y = f (x) ∈ Y produceert. Een exactere definitie is om een functie te zien
+als een relatie met een speciale eigenschap.
+Definitie 4.1
+Zij f een relatie van een verzameling X naar een verzameling Y . We noemen f
+een functie van X naar Y als voor elke x ∈ X er hoogstens één y ∈ Y bestaat
+met (x, y) ∈ f . In symbolen kan dit uitgedrukt worden als volgt:
+∀x ∈ X : ∀y1 , y2 ∈ Y : ((x, y1 ) ∈ f ∧ (x, y2 ) ∈ f ) ⇒ y1 = y2 .
+
+Als we een relatie weergeven met een pijlenvoorstelling dan herkennen we een functie aan
+de eigenschap dat uit elke x ∈ X hoogstens één pijl vertrekt, zoals in de volgende figuur het
+geval is.
+
+Y
+
+X
+1
+
+a
+2
+
+b
+
+3
+4
+
+c
+5
+
+57
+
+ FUNCTIES EN AFBEELDINGEN
+
+Y
+
+3
+2
+1
+−2
+
+−1
+
+1
+
+2
+
+X
+
+−1
+−2
+−3
+
+Deze grafiek toont een relatie X → Y die geen functie is
+Y
+
+X
+
+Deze grafiek is de grafiek van een functie X → Y
+Voorbeeld 4.2 –
+(a) Zij A = {a, b, c} en B = {1, 2, 3}. Dan is f = {(a, 2), (c, 3), (b, 2)} een functie van A naar
+B.
+(b) Zij S de verzameling van alle steden en L de verzameling van alle landen. Dan is
+f = {(s, l) ∈ S × L | stad s ligt in land l} een functie van S naar L. We maken hier de
+redelijke veronderstelling dat elke stad in precies één land ligt.
+(c) Zij M de verzameling van alle levende mensen. De relatie
+f = {(p, q) ∈ M × M | persoon p is een ouder van persoon q}
+is geen functie.
+(d) De identieke relatie op een verzameling X is gegeven door
+IX = {(x, x) ∈ X × X | x ∈ X}.
+Dit is een functie van X naar X die ook de identieke functie genoemd wordt.
+© K. Dekimpe
+
+Pagina 58
+
+ FUNCTIES
+(e) De relatie {(x, y) ∈ R × R | y = x2 } is een functie van R naar R.
+(f) De relatie {(x, y) ∈ R × R | xy = 1} is een functie.
+Om aan te duiden dat f een functie is van X naar Y schrijven we
+f : X → Y.
+Verzameling X wordt bronverzameling (kortweg: bron) (in andere werken soms ook domein)
+van f genoemd en verzameling Y doelverzameling (kortweg: doel) (in andere werken soms
+codomein) van de functie. Hier spreken we van het domein van de functie f (ook soms
+definitiegebied def(f ) van de functie f ) als we de verzameling
+dom(f ) = {x ∈ X | ∃y ∈ Y : (x, y) ∈ f }
+bedoelen. In plaats van (x, y) ∈ f schrijven we nagenoeg altijd f (x) = y, en we noemen y het
+beeld (of functiewaarde indien het om een getal gaat) van (het element) x. Een uitgebreide
+en fijn verzorgde notatie voor f is dan
+f : X → Y : x 7→ f (x)(= y).
+Het domein van de functie is derhalve de verzameling elementen van X die effectief een beeld
+hebben. Als f : X → Y een functie is van X naar Y en dom(f ) = X, dan spreken we van een
+afbeelding.
+Opmerking 4.3 – Het verdient aanbeveling om in elke afzonderlijke cursus of in elk handboek
+na te gaan wat men precies bedoelt met “functie”, “afbeelding” enz. . . , en hoe de afspraken
+over de bijhorende begrippen gemaakt zijn. Veel auteurs spreken van “functies”, maar bedoelen
+eigenlijk “afbeeldingen”, en noteren toch (uit noodzaak) X → Y zelfs als de functie voor
+sommige elementen van X niet bepaald is.
+
+Voorbeeld 4.4 –
+(g) De aftrekking van natuurlijke getallen kan gezien worden als een functie
+− : N × N → N : (n, m) 7→ n − m.
+Deze functie is geen afbeelding, wat in de cursus “Algebraı̈sche Structuren” verwoord
+wordt als “de aftrekking in N is niet overal bepaald”.
+(h) Het product van gehele getallen daarentegen kan gezien worden als een afbeelding
+. : Z × Z → Z : (n, m) 7→ n.m
+Precies het feit dat we zeggen “een afbeelding”, komt hier dan overeen met zeggen dat
+het product overal bepaald is.
+Vaak specificeren we een functie f van X naar Y door het beeld f (x) te definiëren (b.v.
+aan de hand van een formule). Dan is f (x) het functievoorschrift voor de functie. Het geeft
+aan hoe we bij gegeven x de functiewaarde f (x) kunnen bepalen. In dat geval hanteren we de
+© K. Dekimpe
+
+Pagina 59
+
+ FUNCTIES EN AFBEELDINGEN
+afspraak dat het domein van de functie bestaat uit alle punten x waarvoor het functievoorschrift
+zinvol is.
+Het is belangrijk om een goed onderscheid te maken tussen de “functie” f en het
+“functievoorschrift” f (x). We spreken b.v. over de sinus-functie sin (typisch van R → R)
+met als functievoorschrift sin x. Het is eigenlijk slordig om het te hebben over de functie
+sin x. In plaats daarvan kunnen we zeggen dat we een functie f : R → R beschouwen met
+f (x) = sin x. Hiermee bedoelen we dan dat
+f = {(x, y) ∈ R × R | y = sin x}.
+Een functie van X naar Y is in eerste instantie een relatie van X naar Y , d.w.z. een
+deelverzameling van het cartesiaans product X × Y . Twee functies zijn gelijk aan elkaar als
+en slechts als deze gelijkheid geldt als gelijkheid van (deel)verzamelingen (van X × Y ). We
+drukken dit verzorgd uit in de volgende
+Stelling 4.5
+Zij f : X1 → Y1 en g : X2 → Y2 twee functies. Dan is f = g als en slechts als
+X1 = X2 = X, Y1 = Y2 = Y en
+f = g als deelverzamelingen van X × Y ,
+m.a.w. ∀x ∈ X : (f (x) is bepaald als en slechts als g(x) is bepaald) en (voor die
+x geldt dat f (x) = g(x)).
+
+Voorbeeld 4.6 – Beschouw de volgende vier functies
+(a) f1 : R → R gegeven door f1 (x) = x2 .
+(b) f2 : R+ → R gegeven door f2 (x) = x2 .
+(c) f3 : R → R+ gegeven door f3 (x) = x2 .
+(d) f4 : R+ → R+ gegeven door f4 (x) = x2 .
+Het functievoorschrift fj (x) = x2 is hetzelfde voor elk van de functies. Toch zijn het vier
+verschillende functies omdat hun bron, doel, domein of codomein anders zijn.
+Voorbeeld 4.7 – Het gebeurt meer dan eens dat men, om te winnen aan snelheid, een functie
+opgeeft door enkel het functievoorschrift te geven. In dat geval is het belangrijk de juiste
+verzamelingen in gedachten erbij te nemen. Zo b.v. interpreteren we de functie met voorschrift
+f (x) =
+
+x2 + 1
+x−1
+
+als een functie van R naar R, met als domein de verzameling R \ {1}, omdat f (x) niet
+gedefinieerd is voor x = 1. In feite bedoelen we dus de functie
+f : R → R : x 7→
+
+x2 + 1
+,
+x−1
+
+met dom(f ) = R \ {1}.
+© K. Dekimpe
+
+Pagina 60
+
+ FUNCTIES
+We kunnen een functie uitbreiden naar een groter domein door voor elke nieuw element
+een functiewaarde voor te schrijven. Anderzijds kunnen we een functie ook beperken tot een
+kleiner domein.
+Definitie 4.8
+Neem aan dat f een functie is van X naar Y en dat A ⊂ X. Dan kunnen we een
+functie g : A → Y definiëren door
+g(x) = f (x)
+
+voor elke x ∈ A ∩ dom(f ).
+
+Deze functie is de beperking van f tot A en wordt genoteerd door f |A .
+
+Voorbeeld 4.9 –
+1. Met de functie sin bedoelen we de functie
+sin : R → R : x 7→ sin x
+waarvoor duidelijk is dat dom sin = R. Met de functie sin |[0,π] bedoelen we de functie
+sin |[0,π] : [0, π] → R : x 7→ sin x
+met domein gelijk aan [0, π].
+2. Een eenvoudige manier om “van een functie een afbeelding te maken” is de beperking
+ervan nemen tot haar domein. Inderdaad, als f : X → Y een functie is, dan geldt dat
+f |dom(f ) : dom(f ) → Y : x 7→ f (x)
+een afbeelding is. Soms wordt dit ook genoteerd als
+f : dom(f ) ⊂ X → Y : x 7→ f (x).
+3. In diverse cursussen Analyse bestudeert men eigenschappen en kenmerken van functies
+(b.v. functies R → R). Men kan er een aantal eerder exotische problemen vermijden
+door te veronderstellen dat de functies op zijn minst op een open interval I =]a, b[ van
+hun domein gedefinieerd zijn. Vandaar de ook wel meer voorkomende notatie
+f :]a, b[⊂ R → R : x 7→ f (x).
+
+4.1.2
+
+Samenstellen van functies
+
+Omdat een functie in feite een relatie is, gelden de begrippen die we in het vorige hoofdstuk
+gedefinieerd hebben voor relaties ook voor functies.
+We kennen bijvoorbeeld het samenstellen van relaties uit Definitie 3.8. Daaruit volgt dat
+we ook functies kunnen samenstellen en het resultaat is een relatie.
+Voorbeeld 4.10 – Beschouw de functies
+f : R → R : x 7→ ln x = f (x)
+© K. Dekimpe
+
+Pagina 61
+
+ FUNCTIES EN AFBEELDINGEN
+en
+
+g : R → R : x 7→
+
+√
+
+x = g(x).
+
++
+We weten dat dom(f ) = R+
+0 en dom(g) = R .
+
+Als y = f (x) ∈ R+ , dan is het mogelijk om
+g(y) = g(f (x)) te bepalen. Als we f en g als relaties noteren, dan weten we uit Definitie 3.8
+dat
+x (g ◦ f ) y ⇔ ∃z ∈ R : f (x) = z ∧ g(z) = y.
+Het blijkt nu dat de samenstelling van twee functies ook weer een functie is.
+
+Stelling 4.11
+Neem aan dat f : X → Y en g : Y → Z functies zijn. Dan is g ◦ f een functie
+van X naar Z en er geldt
+(g ◦ f )(x) = g(f (x))
+
+voor elke x ∈ dom(f ) zodat f (x) ∈ dom(g)
+
+(4.1)
+
+Bewijs. In dit bewijs gebruiken we de notatie met behulp van verzamelingen om functies en
+relaties weer te geven. Volgens Definitie 3.8 is
+g ◦ f = {(x, z) ∈ X × Z | ∃y ∈ Y : (x, y) ∈ f en (y, z) ∈ g}.
+
+(4.2)
+
+Neem x ∈ X willekeurig. We moeten laten zien dat er hoogstens één z ∈ Z is met
+(x, z) ∈ g ◦ f .
+Veronderstel dat (x, z1 ) ∈ g ◦ f en dat (x, z2 ) ∈ g ◦ f . Dan volgt uit (4.2) dat er een y1 ∈ Y
+bestaat met (x, y1 ) ∈ f en (y1 , z1 ) ∈ g. Net zo is er een y2 ∈ Y met (x, y2 ) ∈ f en (y2 , z2 ) ∈ g.
+Precies omdat f een functie is en (x, y1 ) ∈ f en (x, y2 ) ∈ f , volgt y1 = y2 . Dan geldt
+(y1 , z2 ) = (y2 , z2 ) ∈ g. Omdat ook (y1 , z1 ) ∈ g en g een functie is, volgt hieruit dat z1 = z2 .
+Het is nu ook duidelijk dat
+dom(g ◦ f ) = {x ∈ dom(f ) | ∃y ∈ dom(g) : f (x) = y}.
+ 
+In het Voorbeeld 4.10 is de samengestelde functie
+g ◦ f : R → R : x 7→
+
+√
+
+ln x
+
+met
+dom(g ◦ f ) = {x ∈ R+
+0
+
+|
+
+ln x ≥ 0}
+
+= [1, +∞[
+Opmerking 4.12 – Omdat het samenstellen van functies niets anders is dan het samenstellen
+van relaties, besluiten we op basis van Propositie 3.10 dat dit associatief is, m.a.w. als
+f : X → Y , g : Y → Z en h : Z → W functies zijn, dan geldt
+(h ◦ g) ◦ f = h ◦ (g ◦ f ).
+Dit is een belangrijke observatie die zich b.v. in de cursus Lineaire Algebra vertaalt naar de
+associativiteit van het matrixproduct in Rn×n .
+© K. Dekimpe
+
+Pagina 62
+
+ FUNCTIES
+Bemerk, bij wijze van oefening, dat
+dom((h ◦ g) ◦ f ) = {x ∈ dom(f ) | ∃y ∈ dom(h ◦ g) : y = f (x)}
+= {x ∈ dom(f ) | ∃y ∈ {t ∈ dom(g) | ∃z ∈ dom(h) : z = g(t)} : y = f (x)}
+= {x ∈ dom(f ) | ∃y ∈ dom(g) : ∃z ∈ dom(h) : z = g(y) ∧ y = f (x)}
+= {x ∈ dom(f ) | (g ◦ f )(x) ∈ dom(h)}
+= dom(h ◦ (g ◦ f ))
+
+4.1.3
+
+Beeld en invers beeld van een verzameling
+
+Definitie 4.13
+Zij f : X → Y een functie.
+(a) Zij A een deelverzameling van X. Dan is f (A) de deelverzameling van Y
+gegeven door
+f (A) = {y ∈ Y | ∃x ∈ A : f (x) = y}.
+We noemen f (A) het beeld van A. In Engelstalige literatuur spreekt men
+meestal van het “Image” van A onder f . In het bijzonder is im f = f (X).
+(b) Zij B een deelverzameling van Y . Dan is f −1 (B) de deelverzameling van X
+gegeven door
+f −1 (B) = {x ∈ X | f (x) ∈ B}.
+We noemen f −1 (B) het invers beeld van B (voor f ).
+De notatie f (A) is een uitbreiding van de notatie f (x) voor het beeld van x. Merk echter
+op dat f (A) een verzameling is (een deelverzameling van B) en dat f (x) een element van B is.
+Als B ⊂ Y uit één element bestaat (m.a.w. een singleton is), zeg B = {y}, dan schrijven
+we vaak f −1 (y) i.p.v. f −1 ({y}) en we noemen f −1 (y) het invers beeld van y. Dus
+f −1 (y) = {x ∈ X | f (x) = y}.
+Dit is een deelverzameling van A.
+Opmerking 4.14 – Merk op dat we, met deze nieuwe notaties, kunnen stellen dat, als f : X → Y
+en g : Y → Z functies zijn, dan
+dom(g ◦ f ) = f −1 (dom(g)).
+
+4.1.4
+
+Oefeningen
+
+1. Zij X = {1, 2, 3}, Y = {4} en f = {(1, 4), (2, 4), (3, 4)}. Is f een functie van X naar Y ?
+2. Zij X = {4}, Y = {1, 2, 3} en f = {(4, 1), (4, 2), (4, 3)}. Is f een functie van X naar Y ?
+3. Zij f = {(x, n) ∈ R × Z | n ≤ x < n + 1}. Laat zien dat f een functie is. Wat is f (π)?
+Wat is f (−π).
+© K. Dekimpe
+
+Pagina 63
+
+ FUNCTIES EN AFBEELDINGEN
+4. Neem aan dat R een relatie is van X naar Y en dat S een relatie is van Y naar Z.
+Veronderstel dat S ◦ R een functie is van X naar Z. Laat door middel van voorbeelden
+zien dat het dan niet noodzakelijk is dat R of S functies zijn.
+5. Zij f : X → Y een afbeelding. Bewijs dat
+R = {(x1 , x2 ) ∈ X × X | f (x1 ) = f (x2 )}
+een equivalentierelatie op X is.
+6. Zij X een niet-lege verzameling en f : X → X een afbeelding.
+(a) Veronderstel dat er een x0 ∈ X is met f (x) = x0 voor alle x ∈ X (in dat geval
+noemen we f een constante functie). Bewijs dat voor alle afbeeldingen g : X → X
+geldt dat f ◦ g = f .
+(b) Veronderstel dat f ◦ g = f geldt voor alle afbeeldingen g : X → X. Bewijs dat f
+constant is.
+7. Welke van de volgende inclusies zijn geldig voor alle functies f : X → Y en alle A ⊂ X
+en B ⊂ Y ? Geef een bewijs van de juiste inclusies en geef een tegenvoorbeeld voor de
+niet-juiste.
+(a) f −1 (f (A)) ⊂ A,
+(b) A ⊂ f −1 (f (A)),
+(c) f (f −1 (B)) ⊂ B,
+(d) B ⊂ f (f −1 (B)).
+8. Zij X een verzameling. Laat zien dat de identieke relatie IX de enige relatie op X is die
+zowel een equivalentierelatie als een afbeelding is.
+9. Zij X = {1, 2, 3} en Y = {a, b}.
+(a) Hoeveel afbeeldingen zijn er van X naar Y ?
+(b) Hoeveel afbeeldingen zijn er van Y naar X?
+10. Zij X = {1, 2, 3}.
+(a) Hoeveel afbeeldingen zijn er van X naar ∅ (de lege verzameling)?
+(b) Hoeveel afbeeldingen zijn er van ∅ naar X?
+11. Zij f : X → Y en A1 , A2 ⊂ X. Ga na welke van de volgende beweringen juist zijn.
+Bewijs uw antwoord.
+(a) f (A1 ∪ A2 ) ⊂ f (A1 ) ∪ f (A2 ),
+(b) f (A1 ) ∪ f (A2 ) ⊂ f (A1 ∪ A2 ),
+(c) f (A1 ∪ A2 ) = f (A1 ) ∪ f (A2 ),
+(d) f (A1 ∩ A2 ) ⊂ f (A1 ) ∩ f (A2 ),
+(e) f (A1 ) ∩ f (A2 ) ⊂ f (A1 ∩ A2 ),
+© K. Dekimpe
+
+Pagina 64
+
+ INJECTIES, SURJECTIES EN BIJECTIES
+(f) f (A1 ∩ A2 ) = f (A1 ) ∩ f (A2 ),
+12. Zij f : X → Y en B1 , B2 ⊂ Y . Ga na welke van de volgende beweringen juist zijn.
+Bewijs uw antwoord.
+(a) f −1 (B1 ∪ B2 ) ⊂ f −1 (B1 ) ∪ f −1 (B2 ),
+(b) f −1 (B1 ) ∪ f (B2 ) ⊂ f −1 (B1 ∪ B2 ),
+(c) f −1 (B1 ∪ B2 ) = f −1 (B1 ) ∪ f −1 (B2 ),
+(d) f −1 (B1 ∩ B2 ) ⊂ f −1 (B1 ) ∩ f −1 (B2 ),
+(e) f −1 (B1 ) ∩ f −1 (B2 ) ⊂ f −1 (B1 ∩ B2 ),
+(f) f −1 (B1 ∩ B2 ) = f −1 (B1 ) ∩ f −1 (B2 ).
+
+4.2
+
+Injecties, surjecties en bijecties
+
+4.2.1
+
+Definities
+
+We behandelen nu de belangrijke begrippen injectiviteit en surjectiviteit van functies.
+Definitie 4.15
+Een functie f : X → Y is injectief (of één op één) (in het Engels: injective,
+one-to-one, 1-1) als ze verschillende waarden aanneemt in verschillende elementen
+van het domein; dus als
+∀x1 , x2 ∈ dom(f ) : x1 6= x2 ⇒ f (x1 ) 6= f (x2 )
+Een afbeelding f die injectief is, noemen we een injectie.
+Met behulp van contrapositie kunnen we de injectiviteit ook uitdrukken door
+∀x1 , x2 ∈ dom(f ) : f (x1 ) = f (x2 ) ⇒ x1 = x2 .
+Een functie f is dus injectief als en slechts als voor elke y ∈ Y het inverse beeld f −1 (y) uit
+hoogstens één element bestaat.
+Definitie 4.16
+Een functie f : X → Y is surjectief (in het Engels: “surjective” of “onto”) als
+elk element van Y effectief als beeld optreedt; dus als
+∀y ∈ Y : ∃x ∈ X : f (x) = y.
+In dat geval noemen we f een surjectieve functie. Een afbeelding die surjectief is,
+noemen we een surjectie.
+Een functie f is surjectief als en slechts voor elke y ∈ Y het inverse beeld f −1 (y) uit
+minstens één element bestaat (dus niet-leeg is).
+
+© K. Dekimpe
+
+Pagina 65
+
+ FUNCTIES EN AFBEELDINGEN
+Definitie 4.17
+Een functie is bijectief als ze zowel injectief als surjectief is. We noemen een
+afbeelding die bijectief is ook een bijectie
+Een functie f is bijectief als en slechts als voor elke y ∈ Y het inverse beeld f −1 (y) uit
+precies één element bestaat.
+(a)
+
+Pijlenvoorstellingen
+
+Als we een functie voorstellen door middel van een pijlenvoorstelling tussen Venndiagrammen
+dan kunnen we injectiviteit, surjectiviteit en bijectiviteit als volgt karakteriseren.
+• De functie f : X → Y is injectief als er in geen element van Y meer dan één pijl aankomt.
+• De functie is surjectief als in elk element van Y minstens één pijl aankomt.
+• De functie is bijectief als in elk element van Y precies één pijl aankomt. Bij een bijectie
+vertrekt daarenboven uit elk element van X precies één pijl.
+Dit wordt geı̈llustreerd in de volgende figuren.
+Figuur 1
+
+Y
+
+X
+1
+
+a
+2
+
+b
+3
+4
+
+c
+
+5
+
+d
+e
+
+6
+
+De eerste figuur toont een pijlenvoorstelling van een injectieve functie. De functie is niet
+surjectief want e ∈ Y treedt niet op als beeld.
+Figuur 2
+
+Y
+
+X
+1
+
+a
+2
+
+b
+3
+4
+
+c
+
+5
+
+d
+
+6
+
+e
+
+In Figuur 2 zien we een pijlenvoorstelling van een surjectieve functie (zelfs een surjectie).
+Het is geen injectie, want d ∈ Y treedt twee keer als beeld op. Het is het beeld van zowel
+3 ∈ X als 6 ∈ X.
+© K. Dekimpe
+
+Pagina 66
+
+ INJECTIES, SURJECTIES EN BIJECTIES
+Figuur 3
+Y
+
+X
+1
+
+a
+2
+
+b
+3
+
+c
+
+4
+
+d
+e
+
+5
+
+De derde figuur bevat een pijlenvoorstelling van een bijectieve functie (zelfs een bijectie).
+Figuur 4
+Y
+
+X
+1
+
+a
+2
+
+b
+3
+4
+
+c
+
+5
+
+d
+e
+
+6
+
+Er zijn ook functies die niet injectief en niet surjectief zijn. De vierde figuur toont een
+pijlenvoorstelling van zo’n functie.
+(b)
+
+Grafieken
+
+Grafiek 1
+
+Y
+
+X
+Deze functie X → Y is niet injectief. Daar de grafiek
+symmetrisch is t.o.v. de Y -as, zijn er telkens twee x-waarden
+die hetzelfde beeld opleveren.
+© K. Dekimpe
+
+Pagina 67
+
+ FUNCTIES EN AFBEELDINGEN
+Grafiek 2
+Y
+
+X
+
+Deze functie X = R → Y = R is injectief. Ze is niet
+surjectief.
+
+4.2.2
+
+Inverse functie
+
+Herinner u dat IX de identieke functie (afbeelding) op de verzameling X is.
+Definitie 4.18
+Een functie f : X → Y is inverteerbaar als er een functie g : Y → X bestaat
+met de eigenschappen dat
+∀x ∈ dom(f ) :
+
+(g ◦ f )(x) = IX (x) = x en
+
+∀y ∈ dom(g) :
+
+(f ◦ g)(y) = IY (y) = y
+
+In dat geval noemen we g een inverse functie van f .
+Uit de symmetrie van de definitie volgt dat een inverse functie g ook inverteerbaar is en
+dat f een inverse functie van g is.
+Als f een afbeelding is (m.a.w. dom(f ) = X) en g eveneens, dan kunnen we de voorwaarde
+voor inverteerbaarheid kort schrijven als
+(g ◦ f ) = IX en (f ◦ g) = IY .
+Stelling 4.19
+Indien f : X → Y een inverteerbare functie is en g is een inverse functie van f
+dan is
+im (f ) = dom(g).
+
+Bewijs. We moeten aantonen dat im (f ) ⊂ dom(g) en dat im (f ) ⊃ dom(g).
+Bewijs van ‘⊂’: Neem aan dat y ∈ im (f ). Dan bestaat er een x ∈ dom(f ) zodat y = f (x).
+Daar g een inverse is van f weten we uit de definite van inverteerbare functie dat
+(g ◦ f )(x) = IX (x) = x. Omdat (g ◦ f )(x) = g(f (x)), betekent dit ook dat f (x) ∈ dom(g).
+Aangezien y = f (x) volgt hieruit dat y ∈ dom(g). We heben dus aangetoond dat
+im (f ) ⊂ dom(g).
+© K. Dekimpe
+
+Pagina 68
+
+ INJECTIES, SURJECTIES EN BIJECTIES
+Bewijs van ‘⊂’: Neem nu aan dat y ∈ dom(g). Uit het feit dat g een inverse functie is van
+f volgt hier nu onmiddelijk uit dat y = IY (y) = f (g(y)), waaruit blijkt dat y ∈ im (f ).
+Bijgevolg is dom(g) ⊂ im (f ).
+We hebben bewezen dat zowel im (f ) ⊂ dom(g) als im (f ) ⊃ dom(g) en daarmee is aangetoond
+dat im (f ) = dom(g)
+ 
+Doordat f ook een inverse functie is van g hebben we dan door de rol van f en g om te
+wisselen dat im (g) = dom(f ).
+Uit voorgaande eigenschap volgt nu ook dat een inverse functie g van f , indien deze bestaat,
+uniek bepaald is. Inderdaad, we weten dat g : Y → X en ook het domein van g ligt vast (want
+dit valt samen met im (f )) en voor elk element uit im (f ), zeg f (x) is het beeld uniek bepaald
+door g(f (x)) = x. Indien f inverteerbaar is kunnen we dus spreken van de inverse functie
+van f . We noteren deze inverse functie met f −1 .
+Stelling 4.20
+Een functie f : X → Y is inverteerbaar als en slechts als f injectief is.
+
+Bewijs. Vermits de bewering een “als en slechts als” bewering is, zijn er twee richtingen na te
+gaan.
+Bewijs van ‘f inverteerbaar ⇒ f is injectief’: veronderstel dat f niet injectief is. Dit wil
+zeggen dat er elementen x1 en x2 in X bestaan, met x1 6= x2 , en f (x1 ) = f (x2 ). Nu hebben
+we verondersteld dat f inverteerbaar is. Er bestaat bijgevolg een functie g : Y → X, zo dat
+g(f (x1 )) = x1 en g(f (x2 )) = x2 . Evenwel, omdat f (x1 ) = f (x2 ), is dit in strijd met het feit
+dat g een functie is. We besluiten dat f injectief is.
+Bewijs van ‘f is injectief ⇒ f inverteerbaar’: We construeren een functie g : Y → X als
+volgt. Neem y ∈ Y . Als y ∈ im (f ), dan bestaat er juist één x ∈ X, zo dat f (x) = y. Dit is zo,
+precies omdat f injectief is. Welnu, we definiëren g(y) = x. Als y 6∈ im (f ), dan wordt g(y)
+niet bepaald.
+Het is nu eenvoudig om na te gaan dat, voor alle x ∈ dom(f ): g(f (x)) = x. Omgekeerd geldt
+ook dat, als y ∈ dom(g) = im (f ), dan f (g(y)) = y.
+ 
+Als f : X → Y meer in het bijzonder een afbeelding is, die inverteerbaar is, dan is f dus
+injectief en bijgevolg is f : X → im (f ) een bijectie. Als daarenboven nu ook im (f ) = Y (m.a.w.
+f is tevens surjectief), dan is de inverse functie g ook een afbeelding (want dom(g) = im (f ) =
+Y ) die injectief is (want g is ook inverteerbaar) en surjectief (want im (g) = dom(f ) = X).
+Een bijectie f is dus steeds inverteerbaar en de inverse functie van een bijectie is opnieuw een
+bijectie.
+Opmerking 4.21 – Een injectieve functie die niet bijectief is kan bijectief gemaakt worden door
+het codomein te beperken. Zij namelijk f : X → Y injectief. Dan is de functie
+fˆ : X → f (X) : x 7→ fˆ(x) = f (x)
+die we uit f verkrijgen door het codomein van Y te beperken tot f (X), zowel injectief als
+surjectief. Er is dus een unieke inverse functie (fˆ)−1 . Deze functie wordt frequent ook gezien
+als de inverse van f .
+© K. Dekimpe
+
+Pagina 69
+
+ FUNCTIES EN AFBEELDINGEN
+Een algemene functie die niet injectief en niet surjectief is kan bijectief gemaakt worden
+door zowel het domein als het codomein te beperken. Zo is bijvoorbeeld de functie sin
+sin : R → R : x 7→ sin x
+niet injectief en ook niet surjectief. De beperking
+sin : [−π/2, π/2] → [−1, 1]
+is wel een bijectie (strikt genomen is dit een andere functie en hadden we ze een andere naam
+moeten geven). De inverse functie is de boogsinusfunctie
+bgsin : [−1, 1] → [−π/2, π/2].
+
+4.2.3
+
+Oefeningen
+
+1. Welke van de functies uit Voorbeeld 4.2 zijn injectief? Welke surjectief en welke bijectief?
+2. Welke van de vier functies f1 , f2 , f3 en f4 uit Voorbeeld 4.6 zijn injectief? Welke
+surjectief? Welke bijectief?
+3. Welke van de volgende functies zijn injectief? Welke surjectief? Welke bijectief?
+(a) De functie uit Voorbeeld 4.7.
+(b) De functie f : R \ {−1} → R gegeven door
+f (x) =
+
+2x
+x+1
+
+voor elke x ∈ R \ {−1}.
+
+(c) De functie f : R \ {1} → R \ {1} gegeven door
+f (x) =
+
+x+1
+x−1
+
+voor elke x ∈ R \ {1}.
+
+4. Neem aan dat f : X → Y en g : Y → Z functies zijn. Bewijs de volgende beweringen.
+(a) Als f en g injectief zijn, dan is g ◦ f injectief.
+(b) Als f en g surjectief zijn, dan is g ◦ f surjectief.
+Geef tegenvoorbeelden waaruit blijkt dat de volgende beweringen (de omkeringen van
+de beweringen uit (a) en (b)) niet juist zijn.
+(c) Als g ◦ f injectief is, dan zijn f en g injectief.
+(d) Als g ◦ f surjectief is, dan zijn f en g surjectief.
+5. Zij X = {1, 2, 3} en Y = {a, b}.
+(a) Hoeveel injectieve functies f : X → Y zijn er?
+(b) Hoeveel surjectieve functies f : X → Y zijn er?
+(c) Hoeveel bijectieve functies f : X → Y zijn er?
+© K. Dekimpe
+
+Pagina 70
+
+ INJECTIES, SURJECTIES EN BIJECTIES
+6. Zij X = {1, 2} en Y = {a, b, c}.
+(a) Hoeveel injectieve functies f : X → Y zijn er?
+(b) Hoeveel surjectieve functies f : X → Y zijn er?
+(c) Hoeveel bijectieve functies f : X → Y zijn er?
+7. Zij X = R \ {2}. Laat zien dat er een verzameling Y ⊂ R bestaat zodanig dat
+f : X → Y : x 7→ f (x) =
+
+3x
+x−2
+
+een bijectie is. Wat is Y ? Geef een functievoorschrift voor f −1 .
+8. Veronderstel dat f : X → Y en g : Y → Z bijecties zijn. Bewijs dat g ◦ f een bijectie is
+en dat
+(g ◦ f )−1 = f −1 ◦ g −1 .
+9. Zij f : X → Y een afbeelding en veronderstel dat er een afbeelding g : Y → X is
+met g ◦ f = IX en tevens een afbeelding h : Y → X met f ◦ h = IY . Bewijs dat f
+inverteerbaar is en dat g = h.
+10. Beschouw de functie f : R → R gegeven door
+(
+
+f (x) =
+
+x2 − 4x + 4
+g(x)
+
+als x < 1
+.
+als x ≥ 1
+
+Geef in elk van de volgende gevallen een voorbeeld van een functie g : R → R zodat de
+uitspraak geldt.
+(a) De functie f is inverteerbaar en surjectief.
+(b) De functie f is injectief maar niet surjectief.
+(c) De functie f is surjectief maar niet injectief.
+11. Beschouw de afbeeldingen f : X → Y en g : Y → Z. Vul aan (met injectief, surjectief
+of bijectief ) en bewijs:
+(a) Als g ◦ f injectief is en f is surjectief, dan is f bijectief en is g ............ .
+(b) Als g ◦ f surjectief is en g is injectief, dan is f ............ en is g bijectief.
+
+© K. Dekimpe
+
+Pagina 71
+
+  Hoofdstuk 5
+Tellen, telwijzen en
+toepassingen
+5.1
+
+Kardinaliteit en aantal elementen
+
+Reeds intuitief is het duidelijk dat het begrip bijectief en bijectie een waardevol instrument is
+om de elementen van twee verzamelingen, resp. A en B, element per element met elkaar in
+verband te brengen.
+Anderzijds is de verzameling
+En = {1, 2, 3, . . . , n}
+met n ∈ N0 , zowat het prototype van een verzameling met n elementen. De volgende definitie
+zal dan ook niet verwonderen.
+Definitie 5.1
+Twee verzamelingen, A en B, hebben dezelfde kardinaliteit als en slechts als er
+een bijectie A → B bestaat. In het bijzonder, als er een bijectie En → A bestaat,
+zeggen we dat de kardinaliteit van A gelijk is aan n. We noterena #A = n. Een
+bijzonder geval vormt de lege verzameling, ∅, waarvoor we vastleggen dat de
+kardinaliteit 0 is (#∅ = 0).
+Een verzameling die kardinaliteit gelijk aan n heeft, voor een zekere n ∈ N,
+noemen we eindig. In het andere geval spreken we van een oneindige verzameling.
+Een verzameling met de kardinaliteit van N noemen we aftelbaar oneindig .
+a
+
+Sommige referenties schrijven |A| = n
+
+Voorbeeld 5.2 –
+1. Vermits de identieke functie I : En → En : x 7→ x een voor de hand liggende bijectie is,
+is het duidelijk (voor zover dat nog nodig was) dat #En = n, m.a.w. dat de kardinaliteit
+van En gelijk is aan n.
+2. De verzamelingen van de natuurlijke getallen en van de gehele getallen hebben dezelfde
+kardinaliteit. Het volstaat om een bijectie N → Z te vinden. Dit kan b.v. als volgt:
+(
+
+f : N → Z : f (n) =
+
+−n/2
+(n + 1)/2
+
+als n even is
+als n oneven is
+
+Merk op dat we hier een voorbeeld hebben van een verzameling, nl. Z waarvoor een
+bijectie bestaat met een echte deelverzameling ervan, nl. met N.
+Opmerking 5.3 – Het lijkt uitnodigend om op te merken dat de relatie “. . . heeft dezelfde
+kardinaliteit als . . . ” een equivalentierelatie is; evenwel op welke verzameling? De verzameling
+van alle verzamelingen? Dit blijkt delicaat te zijn. Immers, als de collectie van alle
+73
+
+ TELLEN, TELWIJZEN EN TOEPASSINGEN
+verzamelingen effectief een verzameling zou zijn - noteer heel even X hiervoor - dan zou
+moeten gelden X ∈ X. We zijn dan niet veraf van een situatie als
+Y = {X | X is een verzameling en X 6∈ X}.
+Indien ook Y verzameling is, dan kunnen we ons afvragen of Y behoort tot Y . Dit leidt tot
+de contradictie
+Y ∈ Y ⇔ Y 6∈ Y.
+Deze situatie staat bekend als de “paradox van Russell”. We concluderen dat het delicaat is
+om een “verzamelingdefiniërende voorwaarde” vast te leggen, en dat alvast de voorwaarde
+“X 6∈ X” of “X ∈ X” geen verstandige keuzes zijn. Het is evenmin wijs om van de verzameling
+van alle verzamelingen te spreken.
+Het lijkt verleidelijk om te stellen dat “kardinaliteit gelijk aan n” neerkomt op “heeft
+aantal elementen gelijk aan n”. Toch zijn we nog even voorzichtig. Het volgende resultaat
+heeft een interessant bewijs.
+Propositie 5.4
+Voor alle m ∈ N en voor alle n ∈ N geldt: als er een injectie bestaat
+Em = {1, 2, . . . , m} → En = {1, 2, . . . , n},
+dan geldt dat m ≤ n.
+
+Bewijs. We geven een bewijs door volledige inductie op n.
+• (Basisstap) Als n = 1, dan is En = E1 = {1} een singleton. Als f : Em → {1} een
+afbeelding is, dan moet noodgedwongen gelden dat
+∀i ∈ Em : f (i) = 1.
+Van zodra m > 1, is dit natuurlijk geen injectie meer. Dus geldt dat m ≤ 1.
+• (Inductiestap) laat ons aannemen dat voor n = k het resultaat geldt. M.a.w., voor alle
+m geldt dat, als er een injectie Em → Ek bestaat, dan m ≤ k is. We proberen nu aan te
+tonen dat de eigenschap nog geldt als n = k + 1.
+Veronderstellen we een p ∈ N, en een injectie f : Ep → Ek+1 .
+1. Ofwel geldt nu: ∀i ∈ Ep : f (i) < k + 1 (m.a.w. f (i) ∈ Ek ). Dan kunnen we het
+codomein van f beperken tot Ek , en hebben we m.a.w. een afbeelding
+g : Ep → Ek met ∀i ∈ Ep : g(i) = f (i).
+Deze afbeelding g is duidelijk ook een injectie, en bijgevolg concluderen we, op
+basis van de inductiehypothese, dat p ≤ k.
+2. Ofwel geldt: ∃j ∈ Ep : f (j) = k + 1. Construeer nu de afbeelding
+(
+
+g : Ep−1 → Ep : i 7→
+© K. Dekimpe
+
+i
+i+1
+
+als i < j
+als i ≥ j
+Pagina 74
+
+ ELEMENTAIRE TELPRINCIPES
+Men ziet vrij eenvoudig in dat g een injectie is. De samenstelling f1 = f ◦ g is nu
+ook een injectie. Bovendien geldt dat k + 1 6∈ im (f ◦ g). M.a.w. we kunnen f ◦ g
+zien als een injectie
+Ep−1 → Ek
+waaruit we, door gebruik te maken van de inductiehypothese, concluderen dat
+p − 1 ≤ k of m.a.w. dat p ≤ k + 1.
+• (Conclusie) omdat basisstap en inductiestap aangetoond werden, volgt door het principe
+van volledige inductie dat ∀n ∈ N0 :
+(∀m ∈ N0 : als er een injectie Em → En bestaat, dan geldt dat m ≤ n).
+ 
+Gevolg 5.5
+Veronderstel even dat Em en En dezelfde kardinaliteit hebben, m.a.w. dat er een
+bijectie bestaat Em → En . Dan is deze bijectie natuurlijk ook een injectie, en
+volgt uit voorgaande propositie dat m ≤ n, maar anderzijds volgt eveneens dat
+de inverse afbeelding een injectie is, en dus ook dat n ≤ m. We concluderen dat
+m = n.
+Dit zorgt ervoor dat “heeft zelfde kardinaliteit als En ” ook terecht en consistent
+vertaald wordt als “heeft n elementen”.
+Gevolg 5.6
+Het resultaat van de stelling kan nu snel veralgemeend worden tot de volgende
+formulering: als X en Y eindige verzamelingen zijn, en er bestaat een injectie
+X → Y , dan geldt dat #X ≤ #Y .
+
+5.2
+
+Elementaire telprincipes
+
+Sommige, nochtans heel cruciale, telprincipes lijken zó eenvoudig en zó sterk op “gezond
+verstand”, dat ze wel eens niet formeel gesteld worden. Omwille van hun grote belang willen
+we dat hier in elk geval vermijden.
+Stelling 5.7 ( Het optelprincipe)
+Als X en Y disjuncte, eindige verzamelingen zijn, dan geldt dat
+#(X ∪ Y ) = #X + #Y.
+
+Bewijs. Als #X = 0, dan geldt dat X = ∅ en dus dat X ∪ Y = Y . Het aan te tonen resultaat
+volgt nu onmiddellijk. Een analoge redenering geldt als #Y = 0.
+Veronderstellen we nu dat #X = n en #Y = m, en dat f : En → X en g : Em → Y
+bijecties zijn. Dan construeren we een afbeelding
+h : En+m → X ∪ Y
+© K. Dekimpe
+
+Pagina 75
+
+ TELLEN, TELWIJZEN EN TOEPASSINGEN
+door te stellen
+
+(
+
+h(i) =
+
+f (i)
+g(i − n)
+
+als 1 ≤ i ≤ n
+als n + 1 ≤ i ≤ n + m
+
+Precies omdat X en Y disjunct zijn, is h injectief. De surjectiviteit van h volgt uit de
+surjectiviteit van f en g. Het te bewijzen volgt nu meteen.
+ 
+Gevolg 5.8
+Het resultaat uit bovenstaande stelling kan veralgemeend worden tot meer
+algemene unies. De formulering wordt dan als volgt: veronderstel eindige
+verzamelingen X1 , X2 , . . . , Xn , die twee aan twee onderling disjunct zijn (m.a.w.
+i 6= j ⇒ Xi ∩ Xj = ∅). Dan volgt dat
+#
+
+n
+[
+
+Xi =
+
+i=1
+
+n
+X
+
+#Xi .
+
+i=1
+
+Zorg zelf voor een bewijs van deze algemenere eigenschap.
+Stelling 5.9 ( Het productprincipe)
+Als X en Y eindige verzamelingen zijn, met resp. #X = n en #Y = m, dan geldt
+dat X × Y eindig is en meer bepaald dat #(X × Y ) = n · m.
+
+Bewijs. Als X of Y gelijk is aan de lege verzameling, dan is ook het cartesiaans product van
+X en Y gelijk aan de lege verzameling. Bijgevolg geldt in deze situatie het productprincipe.
+Veronderstellen we nu dat X noch Y leeg zijn, en dat b.v.#X = n en #Y = m. Er is dus
+een bijectie f : En → X. Laat ons eenvoudigweg f (i) = xi noteren. Dan geldt natuurlijk dat
+X = {x1 , x2 , . . . , xn } = {x1 } ∪ {x2 } ∪ . . . ∪ {xn }.
+Dan geldt dat
+
+X × Y = {x1 } × Y ∪ {x2 } × Y ∪ . . . ∪ {xn } × Y,
+
+een unie van twee aan twee disjuncte, eindige verzamelingen. Bijgevolg, door het optelprincipe,
+verkrijgen we dat
+#(X × Y ) =
+
+n
+X
+
+#({xi } × Y )
+
+i=1
+
+terwijl, evident, #({xi } × Y ) = #Y = m. Hieruit volgt het productprincipe.
+
+ 
+
+In het optelprincipe beschouwden we een unie (of meer algemeen unies) van onderling
+paarsgewijs disjuncte verzamelingen. Wat kunnen we zeggen in het geval van niet noodzakelijk
+disjuncte verzamelingen X en Y ? Hierover vinden we volgend resultaat, dat eveneens de start
+is van een elementair telprincipe.
+Stelling 5.10 ( Inclusie-exclusie principe)
+Als X en Y willekeurige eindige verzamelingen zijn, dan geldt dat
+#(X ∪ Y ) = #X + #Y − #(X ∩ Y ).
+© K. Dekimpe
+
+Pagina 76
+
+ ELEMENTAIRE TELPRINCIPES
+Bewijs. We weten dat
+
+X = (X \ Y ) ∪ (X ∩ Y ),
+
+wat een disjuncte unie is. Door het optelprincipe volgt dat
+#X = #(X \ Y ) + #(X ∩ Y ).
+Analoog geldt dat
+
+#Y = #(Y \ X) + #(X ∩ Y ).
+
+Nu volgt dat, uit de disjuncte unie
+X ∪ Y = (X \ Y ) ∪ (X ∩ Y ) ∪ (Y \ X)
+dat
+
+#(X ∪ Y ) = (#X − #(X ∩ Y )) + #(X ∩ Y ) + (#Y − #(X ∩ Y ))
+
+waaruit het te bewijzen volgt.
+
+ 
+
+De naam inclusie-exclusie principe begrijpt men makkelijker als men realiseert dat men bij
+het tellen van de elementen in X ∪ Y , eerst de elementen van X en van Y optelt, maar op
+die manier natuurlijk de elementen die zowel tot X als tot Y behoren - m.a.w. de elementen
+van X ∩ Y dubbeltelt. Om de telling correct te houden, moet dit aantal m.a.w. afgetrokken
+worden van de som #X + #Y . Er is dus eerst “inclusie” en daarna “exclusie”.
+Gevolg 5.11
+Veronderstel dat X, Y en Z drie eindige verzamelingen zijn. Dan geldt dat
+#(X ∪ Y ∪ Z) = #X + #Y + #Z
+−#(X ∩ Y ) − #(X ∩ Z) − #(Y ∩ Z)
++#(X ∩ Y ∩ Z)
+Toon dit aan. Maak een Venn-diagram voorstelling en kijk hoe dit je kan helpen
+om de achtereenvolgende inclusies-exclusies te zien.
+
+Voorbeeld 5.12 – Hoeveel natuurlijke getallen van 1 tot 1000 zijn niet deelbaar door 3 of 7?
+Noteer V3 en V7 voor de verzamelingen van de drievouden, resp. de zevenvouden kleiner dan
+of gelijk aan 1000. Het antwoord op de vraag wordt gegeven door
+1000 − #(V3 ∪ V7 ).
+Blijft nu het bepalen van #(V3 ∪ V7 ). Evident geldt hier: #V3 = 333 en #V7 = 142. Verder
+geldt eveneens V3 ∩ V7 = V21 en #V21 = 47. Het antwoord op de vraag vinden we dus als
+1000 − (333 + 142 − 47) = 572.
+Opdracht 5.13
+Vind een formule die het aantal elementen van een unie van 4 eindige verzamelingen
+telt. Hoe kun je dit veralgemenen tot een algemeen inclusie-exclusie principe voor
+het aantal elementen in een unie van een eindig aantal eindige verzamelingen?
+© K. Dekimpe
+
+Pagina 77
+
+ TELLEN, TELWIJZEN EN TOEPASSINGEN
+Opdracht 5.14
+Een steekproef onder universiteitsstudenten in de Verenigde Staten verschafte de
+volgende informatie betreffende het leesgedrag m.b.t. de volgende kranten: de
+“Wall Street Journal” (WS), de “New York Times” (NY) en de “Chicago Tribune”
+(CT). Van de in totaal 125 ondervraagde studenten bleek dat
+60
+15
+8
+1
+
+CT lezen
+WS lezen
+NY en WS lezen
+CT, NY en WS leest
+
+40
+25
+3
+
+NY lezen
+CT en NY lezen
+CT en WS lezen
+
+• Hoeveel studenten uit deze steekproef lezen geen enkele van deze drie
+kranten?
+• Hoeveel studenten lezen enkel de Chicago Tribune?
+• Hoeveel lezen noch de Chicago Tribune noch de New York Times?
+Om het algemene inclusie-exclusie principe te kunnen formuleren, is iets wat meer
+inspanning nodig. Veronderstel dat X1 , X2 , . . . , Xn eindige verzamelingen zijn. Voor
+elke deelverzameling D ⊂ En , kunnen we dan de doorsnede beschouwen van de verzamelingen
+Xj , waarvan de index j tot D behoort. We noteren
+XD =
+
+\
+
+Xj
+
+j∈D
+
+voor dergelijke doorsnede.
+B.v. X{j} = Xj , X{i,j,k} = Xi ∩ Xj ∩ Xk , enz. . . .
+Stelling 5.15 ( Algemeen inclusie-exclusie principe)
+Als X1 , X2 , . . . , Xn eindige verzamelingen zijn, dan geldt dat
+#(
+
+n
+[
+
+j=1
+
+Xj ) =
+
+X
+
+(−1)#D−1 #XD .
+
+D⊂En
+
+Deze stelling kun je aantonen met een bewijs door volledige inductie. Controleer vooraf
+even of je de notatie en het resultaat goed begrijpt door op te schrijven in het geval van b.v.
+1, 2, 3 verzamelingen wat hier beweerd wordt.
+Sommige principes zijn zo eenvoudig en onopvallend dat het wel eens even duurt vooraleer
+we het belang en de kracht ervan ontdekken. Het nu volgende principe is daar een mooi
+voorbeeld van.
+Kijken we even naar het gevolg (5.6). Dit kunnen we, door contrapositie, vertalen in de
+volgende equivalente vorm.
+
+© K. Dekimpe
+
+Pagina 78
+
+ ELEMENTAIRE TELPRINCIPES
+Stelling 5.16 ( Ladenprincipe van Dirichleta / Duivenhokprincipe)
+Veronderstel dat X en Y eindige verzamelingen zijn, en dat #X > #Y . Dan
+bestaat er geen injectie X → Y .
+a
+
+Johann Peter Gustav Lejeune Dirichlet, Duits wiskundige, 1805-1859
+
+Als #X > #Y , dan is elke afbeelding f : X → Y dus noodgedwongen niet injectief. M.a.w.
+dan bestaan elementen x1 6= x2 in X, zodat f (x1 ) = f (x2 ).
+Dit resultaat en de naam van het ermee verbonden principe begrijpt men beter als men
+denkt aan de elementen van Y als aan verschillende laden, en aan de elementen van X als
+aan objecten die men in de laden wenst op te bergen. De afbeelding f : X → Y is dan het
+“opbergmechanisme”. Welnu, als het aantal objecten strikt groter is dan het aantal laden, dan
+zal in minstens één lade minstens 2 objecten opgeborgen worden. Met een andere beeldspraak
+worden de laden a.h.w. duivenhokken, en zijn de objecten de duiven. Als er meer duiven dan
+hokken zijn, dan is er minstens 1 hok waarin er minstens 2 duiven samenzitten, zo luidt het
+principe nu.
+Gevolg 5.17
+Het duivenhokprincipe (Engels: pigeonhole-principle) ziet men ook vaak in een
+nog algemenere vorm, nl. als volgt: veronderstel dat #X = n en #Y = m, en
+veronderstel n ≥ k.m + 1. Zij f : X → Y een afbeelding, dan is er minstens één
+element y0 ∈ Y , waarvoor f −1 (y0 ) minstens k + 1 elementen telt.
+
+Voorbeeld 5.18 –
+1. In een groep van 13 mensen, verjaren minstens 2 mensen in dezelfde maand. X is de
+verzameling van de 13 mensen. Y is de verzameling van de maanden van het jaar.
+2. In een groep van b.v. 37 mensen, zijn er minstens 4 personen die in dezelfde maand
+verjaren. Dit is een toepassing van het algemenere ladenprincipe. X telt 37 elementen
+(de personen), Y telt 12 elementen (de maanden van het jaar). 37 = 3.12 + 1. Er moeten
+dus gegarandeerd zeker minstens 4 personen zijn die in dezelfde maand verjaren.
+Opdracht 5.19
+Veronderstel dat X en Y eindige verzamelingen zijn. Bewijs dan de volgende
+beweringen:
+1. Als #X ≤ #Y dan bestaat er een injectie f : X → Y .
+2. Als #X ≥ #Y , dan bestaat er een surjectie f : X → Y .
+3. Als #X = #Y en f : X → Y is een afbeelding, dan geldt:
+• als f injectief is, dan is f ook surjectief;
+• als f surjectief is, dan is f ook injectief.
+
+© K. Dekimpe
+
+Pagina 79
+
+ TELLEN, TELWIJZEN EN TOEPASSINGEN
+
+5.3
+
+De elementaire telwijzen.
+
+In deze paragraaf behandelen we prototype voorbeelden van telproblemen en enkele
+toepassingen hiervan.
+We zullen hierbij gebruik maken van de volgende definitie.
+Definitie 5.20
+Voor elk natuurlijk getal n definieert men
+(
+
+n! =
+
+1
+n(n − 1) . . . 3.2.1
+
+als n = 0
+als n 6= 0
+
+!
+
+We lezen n! als “n faculteit”. B.v. 3! = 3.2.1 = 6.
+Heel wat telproblemen kunnen herleid worden tot een basisvorm van het type:
+“Kies (neem, trek) uit een voorraad van n voorwerpen k keer na elkaar een
+voorwerp.”
+Er wordt dan gevraagd naar het totaal aantal mogelijkheden om dit te doen.
+Bij zo een telprobleem in basisvorm kan men een aantal variantes onderscheiden naargelang
+men teruglegging (van een getrokken voorwerp) toelaat en naargelang men al of niet rekening
+houdt met de volgorde waarin de voorwerpen getrokken worden.
+Laat ons, voor de duidelijkheid, elk van de telwijzen illustreren met een “rode draad”
+voorbeeld.
+Voorbeeld 5.21 – Een doos bevat 4 verschillend gekleurde (overigens identieke) knikkers: een
+rode (R), een groene (G), een blauwe (B) en een witte (W). Kies uit deze doos 3 knikkers.
+Hoeveel mogelijke resultaten zijn er dan?
+We overlopen de mogelijke situaties.
+
+5.3.1
+
+Volgorde van belang - geen teruglegging (dus geen herhaling mogelijk)
+
+Het voorbeeld: We zoeken dus alle geordende drietallen die we kunnen vormen met de 4
+kleuren, zonder ook maar één keer een kleur te herhalen. B.v. het drietal R-G-B wordt als
+verschillend van G-R-B aangerekend. Het is vrij snel duidelijk dat er 4 · 3 · 2 = 24 mogelijkheden
+zijn; nl.
+RGB
+GBR
+BRG
+WRB
+
+RBG
+GRB
+BGR
+WBR
+
+RGW
+GWB
+BWR
+WRG
+
+RWG
+GBW
+BRW
+WGR
+
+RBW
+GRW
+BGW
+WBG
+
+RWB
+GWR
+BWG
+WGB
+
+Algemeen: We spreken in dit geval van k−permutaties zonder herhaling (zonder
+teruglegging). (In het secundair onderwijs in Vlaanderen spreekt men op veel plaatsen van
+k-variaties. “k−permutaties” sluit echter beter aan bij de internationale literatuur.)
+Hoe vinden we het aantal k-permutaties uit n voorwerpen, P (n, k) genoteerd? Omdat
+de volgorde van belang is, onthouden we bij elke keuze van een voorwerp uit de beschikbare
+© K. Dekimpe
+
+Pagina 80
+
+ DE ELEMENTAIRE TELWIJZEN.
+voorraad van n voorwerpen het volgnummer van die keuze. Zo zijn er voor de eerste keuze
+n mogelijkheden, voor de tweede (er is geen herhaling toegelaten) blijven er nog n − 1
+mogelijkheden, voor de derde n − 2, enz. . . . Uiteindelijk kan men voor de laatste keuze
+(volgnummer k) nog kiezen uit n − k + 1 voorwerpen. Het productprincipe indachtig kunnen
+we dus stellen
+P (n, k) = n · (n − 1) · (n − 2) · . . . · (n − k + 1) =
+
+n!
+·
+(n − k)!
+
+Bijzonder geval: Wanneer k = n spreken we niet zozeer van n-permutaties, maar veeleer
+kortweg van permutaties van een verzameling met n elementen. Hun aantal, P (n, n), bedraagt
+dus n!.
+Definitie 5.22
+Een permutatie van een verzameling X is een bijectie X → X.
+
+5.3.2
+
+Volgorde van belang - met teruglegging (dus herhaling mogelijk)
+
+Het voorbeeld: De orde blijft van belang maar na elke trekking wordt de getrokken knikker
+teruggeplaatst en kan hij zo opnieuw genomen worden. Het aantal mogelijkheden loopt dus
+op tot 4 · 4 · 4 = 64.
+Algemeen: Hier spreken we van k-permutaties met herhaling (met teruglegging),
+en we noteren P̄ (n, k) voor hun aantal. P̄ (n, k) is vrij gemakkelijk terug te vinden uit de vorige
+redenering. Na elke keuze wordt het gekozen voorwerp “teruggeplaatst” zodat het voor een
+volgende keuze opnieuw in aanmerking komt. Bij iedere keuze heeft men dus n mogelijkheden.
+Het totaal aantal bedraagt dus
+P̄ (n, k) = nk .
+
+5.3.3
+
+Volgorde niet van belang - geen teruglegging (dus geen herhaling mogelijk)
+
+Het voorbeeld: Hier zoeken we alle drietallen die we kunnen vormen met de 4 kleuren, zonder
+ook maar één keer een kleur te herhalen. De volgorde waarin een drietal tot stand komt is
+niet van belang en dus zal b.v. het drietal R-G-B nu als gelijk aan het drietal G-R-B gerekend
+worden. Het aantal mogelijke drietallen moet dus kleiner zijn dan wanneer men de orde wel in
+rekening brengt. We vinden uiteindelijk de volgende 4 mogelijkheden:
+RGB
+
+RGW
+
+RBW
+
+GWB
+
+Algemeen: Hier spreken we van k-combinaties (zonder herhaling, zonder teruglegging) waarvan we het aantal met C(n, k) noteren. Hoe bepalen we C(n, k)? Redeneer even
+mee: elke k-permutatie kiest k voorwerpen uit de beschikbare n. Hierbij is de volgorde wel van
+belang. Wijzigt men deze volgorde dan zal men m.a.w. spreken van een andere k-permutatie.
+Als combinaties beschouwd zijn dergelijke twee trekkingen echter dezelfde.
+Een cruciale vraag die we ons stellen is bijgevolg de volgende: op hoeveel wijzen kunnen we k
+voorwerpen van volgorde veranderen? Dit kan op k! wijzen. Elke herordening van de gekozen
+k voorwerpen zal als zelfde combinatie beschouwd worden. We hebben m.a.w.
+C(n, k) =
+© K. Dekimpe
+
+ n  
+P (n, k)
+n!
+=
+=
+·
+k
+k!
+(n − k)!k!
+Pagina 81
+
+ TELLEN, TELWIJZEN EN TOEPASSINGEN
+Het aantal k-combinaties uit n voorwerpen komt ook overeen met de coëfficiënt van an−k bk
+uit het binomium van Newton (zie verder). Dit aantal wordt vaak ook gedefinieerd als het
+aantal deelverzamelingen met k elementen in een verzameling met n elementen.
+
+5.3.4
+
+Volgorde niet van belang - met teruglegging (dus herhaling toegelaten)
+
+Het voorbeeld: Het vergt enig puzzelwerk en grote zorgvuldigheid om alle mogelijkheden op
+te schrijven. Als resultaat verkrijg je
+RRR
+RBW
+BBR
+WWB
+
+RRB
+GBW
+BBW
+WWG
+
+RRW
+GGG
+BBG
+
+RRG
+GGB
+BBB
+
+RGB
+GGW
+WWW
+
+RGW
+GGR
+WWR
+
+of in totaal 20 mogelijkheden.
+Algemeen: Hier spreken we van de k-combinaties met herhaling (met teruglegging)
+en we noteren C̄(n, k) voor het aantal.
+Hoe vinden we nu C̄(n, k)? De voorraad voorwerpen waaruit we moeten kiezen telt n
+voorwerpen; laat ons de voorwerpen benoemen: v1 , v2 , . . . , vn . Hieruit moeten we er k kiezen.
+Herhaling is mogelijk maar de volgorde is niet van belang. In het algemeen zal zo’n keuze
+er dus als volgt uitzien: men heeft bijvoorbeeld r1 keer het voorwerp v1 gekozen, r2 keer het
+voorwerp v2 , . . . , rn keer het voorwerp vn . Omdat in totaal k voorwerpen gekozen werden
+geldt uiteraard dat r1 + r2 + r3 + · · · + rn = k. We kunnen dus stellen:
+Het aantal k-combinaties met herhaling is gelijk aan het aantal wijzen waarop we
+k kunnen schrijven als som van n natuurlijke getallen r1 , r2 , . . . , rn .
+We maken ons hiervan nu de volgende voorstelling: verdeel k stippen in n blokjes. Men doet
+dit b.v. door tussen de k stippen (n − 1) strepen te plaatsen. Voor k = 5 en n = 6 is één zo’n
+mogelijkheid b.v. de volgende:
+/ • •// • / • /•
+Dit leest men dan als: (k =)5 = 0 + 2 + 0 + 1 + 1 + 1.
+Met wat nadenken is het duidelijk dat elke plaatsing (combinatie) van k stippen “tussen”
+n − 1 streepjes op deze wijze te interpreteren valt als een k-combinatie met herhaling. Dit
+komt neer op het plaatsen van k stippen op in totaal k + n − 1 mogelijke plaatsen (= het
+totaal aantal beschikbare plaatsen voor de stippen en streepjes). We besluiten dus met
+C̄(n, k) = C(k + n − 1, k) =
+
+5.3.5
+
+ k+n−1  
+
+k
+
+=
+
+(k + n − 1)!
+·
+k!(n − 1)!
+
+Toepassingen
+
+Aantal afbeeldingen A → B Onderstel dat A een verzameling met m elementen (#A = m)
+is en B een verzameling met n elementen (#B = n). Hoeveel verschillende afbeeldingen
+A → B zijn er dan?
+Als f : A → B een afbeelding is, dan moet elk van de m elementen van A een beeld onder f
+toegekend krijgen in B. Hiervoor zijn telkens n mogelijkheden (alle elementen van B). Anders
+gezegd: een afbeelding A → B geven komt overeen met het kiezen, m keer na elkaar, van een
+© K. Dekimpe
+
+Pagina 82
+
+ DE ELEMENTAIRE TELWIJZEN.
+element uit B. Hierbij is volgorde van belang en herhaling mogelijk. Het aantal mogelijkheden
+wordt gegeven door
+P̄ (n, m) = nm = #B #A .
+Opmerking 5.23 – Gezien dit resultaat past het goed om de verzameling van alle afbeeldingen
+A → B te noteren als
+B A = {f : A → B | f is een afbeelding},
+iets wat in verschillende contexten frequent gedaan wordt. Immers, met deze notatie, en voor
+eindige verzamelingen, geldt dus
+#(B A ) = #B #A
+(5.1)
+Aantal injecties A → B
+Een injectie A → B is een afbeelding waarbij verschillende elementen van A ook
+verschillende beelden in B hebben. Het is dus noodzakelijk dat #A = m ≤ n = #B.
+Als we voor een element van A een beeld in B gekozen hebben, dan moeten we voor een ander
+element van A een ander beeld kiezen; dit is juist de essentie van “injectief”. Het gezochte
+aantal komt dus overeen met het kiezen, m keer na elkaar, van een element uit B. De volgorde
+is van belang maar herhaling is niet langer mogelijk. Dit aantal wordt gegeven door
+P (n, m) =
+
+n!
+.
+(n − m)!
+
+Opmerking 5.24 – Een bijzonder geval ontstaat wanneer n = m. Injecties A → B zijn
+dan meteen ook bijecties. We kunnen in feite evengoed het aantal bijecties A → A, m.a.w.
+permutaties van A tellen. We vinden
+P (n, n) = n!.
+Definitie 5.25
+Als A een verzameling is, noteren we S(A) voor de verzameling van alle permutaties
+A → A. In het bijzonder geval dat A = En = {1, . . . , n}, noteren we
+Sn = {σ : En → En | σ is een permutatie}.
+
+Aantal deelverzamelingen van A
+Onderstel dat A een verzameling is met #A = n. Zij D een deelverzameling van A. Men
+kan D identificeren door voor elk element van A te antwoorden op de vraag “Behoort dit
+element tot D?”. Telkens is het antwoord ja of neen. Omgekeerd, door aan elk element van A
+een label “ja” of “neen” toe te kennen, duidt men ook een deelverzameling van A aan. Dit
+is essentieel hetzelfde als aan elke deelverzameling D van A een zogenaamde karakteristieke
+afbeelding
+(
+1 als a ∈ D
+kD : A → {0, 1} : a 7→ kD (a) =
+.
+0 als a 6∈ D
+Het aantal deelverzamelingen D tellen, komt dus neer op het aantal afbeeldingen A → {0, 1}
+tellen, en hiervoor kennen we het resultaat, nl.
+# deelverzamelingen van A = P̄ (2, n) = 2n .
+© K. Dekimpe
+
+Pagina 83
+
+ TELLEN, TELWIJZEN EN TOEPASSINGEN
+Aantal dominostenen in een dominospel
+Een dominospel bestaat uit steentjes waarop telkens twee getallen voorgesteld worden
+tussen 0 en 6. Hierbij is de volgorde niet van belang en herhaling mogelijk. We gebruiken dus
+herhalingscombinaties om het aantal steentjes te tellen:
+C̄(7, 2) = C(7 + 2 − 1, 2) = C(8, 2) =
+
+5.3.6
+
+8!
+= 28.
+6!2!
+
+Enkele bekende identiteiten.
+
+1. C(n, 0) =
+
+ n  
+
+2. C(n, k) =
+
+ n  
+
+0
+k
+
+=
+
+ n  
+
+=
+
+
+
+n
+
+= C(n, n) = 1.
+
+n  
+= C(n, n − k).
+n−k
+
+Vertaald in woorden: het aantal deelverzamelingen met k elementen uit een verzameling
+met n elementen, is gelijk aan het aantal deelverzamelingen met n − k elementen uit
+diezelfde verzameling (met n elementen).
+3. C(n, k) =
+
+ n  
+
+k
+
+=
+
+ n−1  
+
+k−1
+
++
+
+ n−1  
+
+k
+
+= C(n − 1, k − 1) + C(n − 1, k).
+
+Deze zeer bekende identiteit (ook bekend als de formule van Stifel1 -Pascal2 genoemd)
+wordt ook aangewend in het bewijs van het binomium van Newton.
+In deze paragraaf verdient het aanbeveling op een “kwalitatieve” manier deze formule te
+begrijpen. We denken daartoe aan k-combinaties uit n voorwerpen. Kies een willekeurig
+voorwerp uit de gegeven n voorwerpen en fixeer dit even. Een k-combinatie bevat dit
+voorwerp of bevat het niet. Het aantal k-combinaties dat dit gefixeerde voorwerp bevat
+is gelijk aan C(n − 1, k − 1) (nog k − 1 te kiezen uit de overige n − 1 voorwerpen).
+Het aantal k-combinaties dat dit voorwerp niet bevat is gegeven door C(n − 1, k). De
+identiteit volgt nu onmiddellijk.
+De formule van Stifel-Pascal heeft het karakter van een “vormingswet” De volle
+betekenis van deze term wordt duidelijk wanneer we de formule aanwenden om de
+binomiaalcoëfficiënten schematisch weer te geven. We spreken van de “Driehoek van
+Pascal”.
+n\k
+0
+1
+2
+3
+4
+5
+6
+7
+8
+1
+2
+
+0
+1
+1
+1
+1
+1
+1
+1
+1
+1
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+1
+2
+3
+4
+5
+6
+7
+8
+
+1
+3
+6
+10
+15
+21
+28
+
+1
+4
+10
+20
+35
+56
+
+1
+5
+15
+35
+70
+
+1
+6
+21
+56
+
+1
+7
+28
+
+1
+8
+
+1
+
+Michael Stifel, Duits wiskundige, 1487-1567
+Blaise Pascal, Frans wis- en natuurkundige en filosoof, 1623-1662
+
+© K. Dekimpe
+
+Pagina 84
+
+ DE ELEMENTAIRE TELWIJZEN.
+Opdracht 5.26
+Veronderstel A een verzameling met m elementen en B een verzameling met n
+elementen. Toon aan, met een bewijs door volledige inductie op m, dat
+#(B A ) = nm .
+(Aanbevolen voor studenten wiskunde!)
+Opdracht 5.27
+Toon aan met een bewijs door volledige inductie dat:
+• het aantal deelverzamelingen in een verzameling met n elementen gelijk is
+aan 2n ;
+• het aantal deelverzamelingen met k elementen in een verzameling met n
+elementen (n ≥ k), gelijk is aan C(n, k).
+
+5.3.7
+
+Oefeningen
+
+Ga bij elk van de volgende opdrachten zorgvuldig de aard van het telprobleem na!
+1. Toon aan dat
+
+n 
+X
+n  2
+k=0
+
+k
+
+=
+
+ 2n  
+
+n
+
+.
+
+2. Een pizzeria voert een publiciteitscampagne met de slogan dat men bij hen meer dan
+500 soorten pizza’s kan bestellen. Het ministerie van economische zaken vindt de zaak
+verdacht en stuurt een inspecteur op controle. Bij aankomst in de pizzeria stelt de
+inspecteur vast dat de klanten een pizza kunnen bestellen waarop men elke mogelijke
+keuze uit de onderstaande ingrediënten aantreft:
+pepperoni, champignons, pepers, sardientjes, worst, salami, ansjovis, ajuin, ham
+Stelt de inspecteur een overtreding vast?
+3. Vind het aantal wijzen om 6 identieke rode knikkers in 4 dozen te plaatsen (hierbij mag
+een doos leeg blijven).
+4. Een timmerman maakt gedurende 30 opeenvolgende dagen tafels. Elke dag maakt hij
+minstens één tafel; over de gehele periode gezien bedraagt zijn gemiddelde productie ten
+hoogste 1.5 tafels per dag. Bewijs dat er een periode van opeenvolgende dagen bestaat
+(in die totale periode van 1 maand) waarin deze timmerman precies 14 tafels maakt.
+5. Hieronder zie je een deel van het stadsplan van Lelystad (NL). Een taxichauffeur wil
+zijn klant langs de kortste weg van het aangeduide punt linksbeneden naar het punt
+rechtsboven brengen. Hoeveel mogelijke wegen kan hij volgen (aangenomen dat alle
+getekende wegen toegankelijk zijn)?
+© K. Dekimpe
+
+Pagina 85
+
+ TELLEN, TELWIJZEN EN TOEPASSINGEN
+
+•
+
+...............................................................................................................................................................................................................................................................
+..
+..
+..
+..
+..
+..
+..
+....
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+..
+...
+...
+...
+...
+...
+...
+...
+..........................................................................................................................................................................................................................................................................
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+..
+...
+...
+...
+...
+...
+...
+...
+..........................................................................................................................................................................................................................................................................
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+..
+...
+...
+...
+...
+...
+...
+...
+..........................................................................................................................................................................................................................................................................
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+..
+...
+...
+...
+...
+...
+...
+...
+..........................................................................................................................................................................................................................................................................
+
+•
+6. Gegeven:
+
+• uit een doos “Scrabble” nemen we de letters a,b,b,c,d,e en f
+• een opeenvolging van letters noemen we een woord
+Gevraagd: bepaal het aantal verschillende woorden dat men kan vormen met de gegeven
+letters
+(a) bestaande uit 6 verschillende letters
+(b) bestaande uit 6 letters
+(c) bestaande uit 6 verschillende letters, waarbij de klinkers naast elkaar staan
+(d) bestaande uit 3 verschillende letters
+(e) bestaande uit 3 letters
+(f) bestaande uit 3 letters, waaronder juist één klinker
+7. Vijftien personen zitten aan een ronde tafel. Op de tafel staan 15 naamkaartjes, maar
+niemand zit voor zijn eigen naamkaartje. Toon aan dat je de tafel zó kan draaien dat
+minstens twee personen voor hun eigen naamkaartje zitten.
+8. Een “derangement” van n is een permutatie σ : En → En , zodat voldaan is aan
+∀i ∈ En : σ(i) 6= i.
+(Bij gebrek aan eenvoudig Nederlands woord zouden we het makkelijkst van een
+permutatie zonder vaste punten kunnen spreken.) Gebruik het inclusie-exclusie principe
+om aan te tonen dat het aantal derangementen van n gelijk is aan
+n!(
+
+1
+1
+(−1)n
+− + ··· +
+).
+2! 3!
+n!
+
+Opmerking: dit betekent dat de fractie van de derangementen binnen de verzameling Sn
+(van alle permutaties) gelijk is aan
+1
+1
+(−1)n
+1
+1
+1
+(−1)n
+− + ··· +
+= 1 − + − + ··· +
+.
+2! 3!
+n!
+1! 2! 3!
+n!
+
+© K. Dekimpe
+
+Pagina 86
+
+ HET BINOMIUM VAN NEWTON
+
+5.4
+
+Het binomium van Newton
+
+Tenslotte geven we nog een algebraı̈sche identiteit, namelijk het Binomium van Newton3 .
+Deze formule heeft het over machten van tweetermen (“bi-nomen”). In feite veralgemeent
+het binomium elementaire observaties die we kennen van het werken met zgn. merkwaardige
+producten (voor tweetermen in R):
+(a + b)1 = a + b
+(a + b)2 = a2 + 2ab + b2
+(a + b)3 = a3 + 3a2 b + 3ab2 + b3
+Stelling 5.28 ( Binomium van Newton)
+Zij a, b ∈ R en n ∈ N. Dan is
+(a + b)
+
+n
+
+=
+
+n
+X
+
+n
+k
+
+k=0
+
+n
+k
+
+waarin
+
+!
+
+=
+
+!
+
+an−k bk
+
+n!
+(= binomiaalcoëfficiënt)
+k! (n − k)!
+
+Bewijs. We geven een bewijs door volledige inductie.
+• (Basisstap) Voor n = 0 stellen we vast dat
+0 
+X
+0  
+k=0
+
+k
+
+a0−k bk =
+
+ 0  
+
+0
+
+a0 b0 = 1 = (a + b)0 .
+
+• (Inductiestap) Veronderstel nu dat de stelling geldt voor alle waarden n kleiner of gelijk
+aan N ; dit betekent in het bijzonder dat
+(a + b)N =
+
+N 
+X
+N  
+k=0
+
+k
+
+aN −k bk .
+
+Bijgevolg is
+(a + b)N +1 = (a + b)(a + b)N
+= (a + b)
+
+N 
+X
+N  
+k=0
+
+=
+=
+
+N 
+X
+k=0
+N 
+X
+k=0
+
+k
+
+N
+
+X N  
+N   N +1−k k
+a
+b +
+aN −k bk+1
+k
+k
+
+N   N +1−k k
+a
+b +
+k
+
+= aN +1 +
+
+N h
+X
+N  
+k=1
+
+3
+
+aN −k bk
+
+k
+
+k=0
+N
++1
+X
+k=1
+
++
+
+
+
+N   N +1−k k
+a
+b
+k−1
+
+N  i N +1−k k
+a
+b + bN +1
+k−1
+
+Isaac Newton, Engels wis- en natuurkundige (1642 – 1727)
+
+© K. Dekimpe
+
+Pagina 87
+
+ TELLEN, TELWIJZEN EN TOEPASSINGEN
+Nu is voor 1 ≤ k ≤ N :
+N
+k
+
+!
+
+N
+k−1
+
++
+
+!
+
+=
+
+N +1
+k
+
+!
+
+,
+
+precies de formule van Stiefel-Pascal.
+Omdat ook
+
+N +1
+0
+
+!
+
+=
+
+N +1
+N +1
+
+(a + b)
+
+N +1
+
+!
+
+=
+
+= 1, vinden we dus dat
+N
++1
+X
+k=0
+
+N +1
+k
+
+!
+
+aN +1−k bk .
+
+• (Conclusie) omdat de basisstap geldt, en de inductiestap is aangetoond, concluderen we
+dat het binomium van Newton correct is voor alle waarden n ∈ N.
+ 
+
+5.5
+
+Oneindige verzamelingen
+
+5.5.1
+
+Aftelbaar oneindige verzamelingen
+
+Reeds in definitie (5.1) hadden we het over aftelbaar oneindige verzamelingen; dit zijn
+verzamelingen met dezelfde kardinaliteit als N, m.a.w. verzamelingen A waarvoor een bijectie
+N → A bestaat. Er bestaat ook een internationaal erkend symbool voor deze kardinaliteit, nl.
+#N = ℵ0 lees: alef-nul.
+Aftelbaar oneindig of ℵ0 als kardinaliteit voor een verzameling A, komt er eigenlijk op neer
+dat men alle elementen van de verzameling kan aftellen (a.h.w. zonder er ook maar één te
+vergeten). Inderdaad, als f : N → A een bijectie is, dan zijn de elementen van A spontaan
+genummerd; immers A = im f = {f (n) | n ∈ N}. Uiteraard kan men dit ook met de elementen
+van een eindige verzameling. Eindige verzamelingen zijn daarom ook aftelbaar.
+Andere voorbeelden van verzamelingen met kardinaliteit ℵ0 zijn:
+Voorbeeld 5.29 –
+1. de verzameling van de gehele getallen Z;
+2. de verzameling van de negatieve gehele getallen Z− ;
+3. de verzameling van de volkomen kwadraten, nl.
+{n2 | n ∈ N}.
+4. de verzameling van de priemgetallen is aftelbaar oneindig.
+© K. Dekimpe
+
+Pagina 88
+
+ ONEINDIGE VERZAMELINGEN
+Analoog met de manier waarop we reeds aantoonden dat Z aftelbaar oneindig is, kan de
+volgende stelling aangetoond worden.
+Stelling 5.30
+Als A en B aftelbaar oneindige verzamelingen zijn, dan is ook A ∪ B aftelbaar
+oneindig.
+Iets pittiger is het volgende resultaat:
+Stelling 5.31
+Als A en B aftelbaar oneindige verzamelingen zijn, dan is ook het cartesiaans
+product A × B aftelbaar oneindig.
+
+Bewijs. Door het feit dat A aftelbaar oneindig is, kunnen we A opvatten als
+A = {a1 , a2 , a3 , . . . , an , . . .}.
+Analoog vinden we voor B,
+
+B = {b1 , b2 , b3 , . . . , bk , . . .}.
+
+Nu construeren we een opsommingsprocedure (“aftelprocedure”) voor de elementen van
+A × B. Hiervoor stellen we de elementen van het cartesiaans product in de volgende tabel
+voor:
+rij / kolom
+1
+2
+3
+4
+5
+
+1
+(a1 , b1 )
+(a2 , b1 )
+(a3 , b1 )
+(a4 , b1 )
+..
+.
+
+2
+(a1 , b2 )
+(a2 , b2 )
+(a3 , b2 )
+(a4 , b2 )
+..
+.
+
+3
+(a1 , b3 )
+(a2 , b3 )
+(a3 , b3 )
+(a4 , b3 )
+..
+.
+
+4
+(a1 , b4 )
+(a2 , b4 )
+(a3 , b4 )
+(a4 , b4 )
+..
+.
+
+5
+(a1 , b5 ) · · ·
+(a2 , b5 ) · · ·
+(a3 , b5 ) · · ·
+(a4 , b5 )
+
+Door deze tabel nu met het goede algoritme te lezen, vinden we een procedure om de
+elementen van de productverzameling af te tellen. Duid in de tabel de leesvolgorde, die
+resulteert in de volgende rij, met pijltjes aan.
+(a1 , b1 ), (a1 , b2 ), (a2 , b1 ), (a3 , b1 ), (a2 , b2 ), (a1 , b3 ), (a1 , b4 ), (a2 , b3 ), . . .
+ 
+Opdracht 5.32
+Kun je een formule bedenken waarmee duidelijk gemaakt wordt op welke plaats
+het element (am , bn ) in deze aftelprocedure voor de elementen van A × B zal
+staan?
+Opdracht 5.33
+Toon nu zelf aan dat, als A aftelbaar oneindig is, elk cartesiaans product An , met
+n ∈ N0 aftelbaar oneindig is.
+© K. Dekimpe
+
+Pagina 89
+
+ TELLEN, TELWIJZEN EN TOEPASSINGEN
+Ook het volgende resultaat is erg geruststellend.
+Stelling 5.34
+Elke deelverzameling van een aftelbaar oneindige verzameling is eindig of aftelbaar
+oneindig.
+
+Bewijs. We bewijzen dit eerst voor deelverzamelingen van N. Neem aan dat A ⊂ N oneindig
+is. We gaan dan op inductieve manier een bijectie f : N → A maken.
+• Basisstap: We nemen voor f (0) het kleinste element van A4 .
+• Inductiestap: Als f (k) gedefinieerd is voor zekere k ∈ N, dan nemen we voor f (k + 1)
+het kleinste element van {a ∈ A | a > f (k)}. Omdat A oneindig is, is deze verzameling
+niet leeg.
+We vinden zo een functie f : N → A.
+Deze functie is injectief, want f (k) < f (k + 1) voor alle k ∈ N. Het is ook eenvoudig in te
+zien uit de constructie dat f surjectief is. Dus f is bijectief en A is aftelbaar.
+Veronderstel nu, meer algemeen, dat X een aftelbaar oneindige verzameling is, met b.v.
+een bijectie g : N → X. Als A ⊂ X, dan is B = g −1 (A) een deelverzameling van N en dus
+eindig of aftelbaar oneindig. De restrictie van g tot B is een bijectie B → A en dus is A eindig
+of aftelbaar oneindig.
+ 
+Gevolg 5.35
+Als f : N → X een surjectie is, dan is X eindig of aftelbaar oneindig.
+
+Bewijs. Het bewijs hiervan wordt als oefening overgelaten aan de lezer.
+
+ 
+
+Stelling 5.36 ( Cantora , 1874)
+De verzameling van rationale getallen Q is aftelbaar oneindig.
+a
+
+Georg Cantor, Duits wiskundige,1845-1918
+
+Bewijs. Elk rationaal getal q kunnen we op een unieke manier schrijven als
+q=
+
+m
+n
+
+met m ∈ Z en n ∈ N0
+
+waarbij m en n onderling ondeelbaar (ook: relatief priem) zijn. Dit geeft een functie
+f : Q → Z × N0
+en deze functie is injectief. De beeldverzameling f (Q) is een oneindige deelverzameling van de
+aftelbare verzameling Z × N0 . Dus f (Q) is aftelbaar. Als we het codomein van f beperken tot
+f (Q) dan krijgen we een bijectie tussen Q en f (Q). Dus Q is aftelbaar.
+ 
+4
+
+Deze eigenschap van de geordende verzameling (N, ≤) wordt verwoord door te zeggen dat N goed geordend
+is (Engels: well ordered)
+
+© K. Dekimpe
+
+Pagina 90
+
+ OVERAFTELBARE VERZAMELINGEN
+
+5.6
+
+Overaftelbare verzamelingen
+
+In de vorige paragraaf hebben we gezien dat heel wat verzamelingen aftelbaar oneindig zijn.
+Deze verzamelingen hebben allemaal dezelfde kardinaliteit en zijn in dit opzicht ‘even groot’. Er
+zijn oneindige verzamelingen die niet aftelbaar oneindig zijn; we zullen dergelijke verzamelingen
+allemaal overaftelbaar noemen, alhoewel er veel verschillende overaftelbare kardinaliteiten zijn.
+Het belangrijkste voorbeeld hiervan is R, de verzameling van reële getallen.
+
+5.6.1
+
+Over de voorstelling van reële getallen t.o.v. een gekozen grondtal
+
+Het meest vertrouwd zijn wij met de zgn. decimale voorstelling van reële getallen, d.w.z. de
+voorstelling t.o.v. grondtal 10. Wanneer we schrijven
+x = 2301.0125
+dan staat dat eigenlijk voor
+x = 2.103 + 3.102 + 0.10 + 1 + 0.10−1 + 1.10−2 + 2.10−3 + 5.10−4 .
+De cijfers in een decimale voorstelling komen uit de verzameling {0, 1, 2, . . . , 9}.
+Een decimale schrijfwijze van een reëel getal is niet noodzakelijk uniek bepaald. Immers,
+b.v. in de cursus “Analyse en Calculus” leert men dat
+0.999 . . . =
+=
+=
+
++∞
+X
+
+9
+i
+10
+i=1
+X 1
+9 +∞
+10 i=0 10i
+
+1
+9
+1 =1
+10 1 − 10
+
+Analoog verifieert men dat b.v.
+1.5 = 1.4999 . . . .
+In het algemeen kan elke ‘eindigende voorstelling’ (een eindig aantal cijfers na de komma), op
+die manier geschreven worden als een niet eindigende voorstelling (behalve 0), met een “staart
+van 9’s”.
+We spreken af dat we, om te kunnen spreken van unieke decimale voorstellingen, steeds
+eventueel werken met staarten van 9’s. Dan geldt in het algemeen, dat elk getal in het gesloten
+interval [0, 1] uniek decimaal voor te stellen als
+a = 0.a1 a2 a3 . . . , met 0 ≤ ai ≤ 9.
+In andere contexten o.m. in diverse informatica-omgevingen, zijn voorstellingen van
+reële getallen t.o.v. andere grondtallen belangrijk en gebruikelijk. We vermelden de zgn.
+hexadecimale voorstelling (grondtal 16). Getallen worden dan geschreven in de “cijfers”
+0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, E, F
+© K. Dekimpe
+
+Pagina 91
+
+ TELLEN, TELWIJZEN EN TOEPASSINGEN
+waarin A staat voor 10, B voor 11, enz . . . . Het hexadecimaal getal A7B is dan gelijk aan
+10.162 + 7.16 + 11 = 2683( dit laatste dan decimaal).
+In het binair systeem, schrijft men de getallen t.o.v. grondtal 2. Er zijn dan maar 2
+beschikbare cijfers, nl. 0 en 1. Dan vinden we b.v. dat
+101011.01 = 1.25 + 1.23 + 1.2 + 1.20 + 1.2−2 ,
+maar ook dat
+0.111 . . . = 1.
+
+5.6.2
+
+R is niet aftelbaar oneindig
+
+Stelling 5.37 (Cantor, 1874)
+De verzameling van reële getallen R is oneindig, maar niet aftelbaar oneindig.
+
+Bewijs. We geven een bewijs uit het ongerijmde en we nemen daartoe aan dat R aftelbaar
+oneindig is. Dan is de deelverzameling [0, 1] = {x ∈ R | 0 ≤ x < 1} ook aftelbaar oneindig en
+bijgevolg is er een bijectie f : N0 → [0, 1].
+We gaan gebruiken dat we elk reëel getal x ∈ [0, 1] kunnen schrijven door middel van een
+unieke decimale ontwikkeling (gebruik staarten van 9’s i.p.v. eindigende voorstellingen) van
+de vorm
+x = 0, a1 a2 a3 a4 · · ·
+voor zekere getallen ak ∈ {0, 1, 2, . . . , 9}. Dit passen we toe op het getal f (j) ∈ [0, 1] en we
+schrijven de decimale ontwikkeling van het getal f (j) als
+f (j) = 0, aj1 aj2 aj3 aj4 · · ·
+met getallen ajk ∈ {0, 1, 2 . . . , 9}. We zetten al deze decimale ontwikkelingen bijeen in een
+(oneindige) matrix
+f (1) = 0, a11 a12 a13 a14 · · ·
+f (2) = 0, a21 a22 a23 a24 · · ·
+f (3) = 0, a31 a32 a33 a34 · · ·
+f (4) = 0, a41 a42 a43 a44 · · ·
+..
+..
+..
+..
+..
+..
+.
+.
+.
+.
+.
+.
+We gaan nu laten zien dat er een getal x ∈ [0, 1] bestaat met een decimale ontwikkeling
+die verschillend is van al de bovenstaande decimale ontwikkelingen. Dit doen we met een
+zogenaamd diagonaalargument.
+De getallen a11 , a22 , a33 , a44 , . . . zijn de elementen op de diagonaal. We gaan nu een getal
+x ∈ [0, 1] vastleggen door middel van een decimale ontwikkeling
+x = 0, a1 a2 a3 a4 · · ·
+© K. Dekimpe
+
+Pagina 92
+
+ OVERAFTELBARE VERZAMELINGEN
+waarbij we er voor zorgen dat aj =
+6 ajj voor alle j ∈ N0 . We kunnen dit op veel manieren
+doen. Een mogelijke manier is door te definiëren
+aj = 5
+
+als ajj 6= 5
+
+aj = 6
+
+als ajj = 5.
+
+Als we x op deze manier vastleggen dan zal x 6= f (j) voor elke j ∈ N0 . Immers, het jde getal
+na de komma in de decimale ontwikkeling van x is aj en dat verschilt van het jde getal na de
+komma van f (j). Dus x 6= f (j).
+We concluderen nu dat f : N0 → [0, 1] niet surjectief is. Dit is in tegenspraak met de
+aanname dat f een bijectie is. Bijgevolg is [0, 1] en dus zeker R overaftelbaar.
+ 
+Uit deze stelling volgt dat R ‘echt groter’ dan N0 is. Omdat Q aftelbaar oneindig is, is
+R ook ‘echt groter’ dan Q; de verzameling van de irrationale getallen R \ Q is bijgevolg ook
+overaftelbaar.
+We zullen tenslotte bewijzen dat er bij elke verzameling een grotere verzameling gemaakt
+kan worden.
+Definitie 5.38
+Zij X en Y verzamelingen. We zeggen dat de kardinaliteit van X strikt kleiner is
+dan die van Y , en we noteren #X < #Y als er geen surjectie f : X → Y bestaat.
+Stelling 5.39
+Voor elke verzameling X geldt dat #X < #P(X).
+
+Bewijs. Neem een afbeelding f : X → P(X). We bewijzen dat f : X → P(X) niet surjectief
+kan zijn door te laten zien dat de verzameling
+A = {x ∈ X | x 6∈ f (x)} ∈ P(X).
+niet tot het beeld van f behoort.
+Dit bewijzen we uit het ongerijmde. Stel dat f (a) = A voor zekere a ∈ X. Dan zijn er
+twee mogelijkheden namelijk a ∈ A of a 6∈ A.
+Als a ∈ A, dan volgt uit de definitie van A dat a 6∈ f (a), maar dan is a 6∈ A omdat
+A = f (a). Dit is een tegenspraak. Als a 6∈ A, dan volgt uit de definitie van A dat a ∈ f (a), en
+we krijgen weer een tegenspraak.
+In beide gevallen vinden we een tegenspraak en de conclusie is dat A 6∈ f (X). Dit bewijst
+dat f niet surjectief is.
+ 
+In analogie met eindige verzamelingen (zie o.m. vergelijking 5.1) wordt de kardinaliteit
+van P(X) genoteerd met 2#X :
+#P(X) = 2#X .
+Stelling 5.39 zegt dan dat #X < 2#X .
+Als we nu X = N nemen dan zien we in het bijzonder dat P(N0 ) overaftelbaar is. Omdat
+#N = ℵ0 wordt dit uitgedrukt door
+ℵ0 < 2ℵ0 .
+© K. Dekimpe
+
+Pagina 93
+
+ TELLEN, TELWIJZEN EN TOEPASSINGEN
+We weten al dat R overaftelbaar is en een logische vraag is of P(N) en R even groot
+zijn, dat wil zeggen of ze dezelfde kardinaliteit hebben. Dit blijkt inderdaad zo te zijn. Dit
+formuleren we in de volgende stelling die we hier niet gaan bewijzen.
+Stelling 5.40
+De verzameling van de reële getallen, R, en de delenverzameling van N, hebben
+dezelfde kardinaliteit, m.a.w.
+#R = 2ℵ0 .
+
+Opmerking 5.41 – De continuumhypothese stelt dat er geen verzameling X bestaat met
+ℵ0 < |X| < 2ℵ0 . Dat wil dus zeggen dat er geen verzameling is die groter dan N is maar
+kleiner dan R is. De continuumshypothese is jarenlang een open probleem geweest, totdat
+Paul Cohen5 in 1963 aantoonde dat de continuumshypothese niet bewezen kan worden in de
+standaardmodellen van de verzamelingenleer, maar dat ook niet bewezen kan worden dat ze
+niet waar is! Met andere woorden we kunnen aannemen dat de continuumshypothese waar
+is en we zullen niet tot een tegenspraak komen. Maar we kunnen ook aannemen dat ze niet
+waar is en we komen ook niet tot een tegenspraak.
+
+5.6.3
+
+Oefeningen
+
+1. Bewijs Gevolg 5.35.
+2. Voor aftelbare verzamelingen X en Y , bewijs dat X ∪ Y aftelbaar is.
+3. Bewijs dat R \ Q overaftelbaar is.
+4. Toon aan dat de kardinaliteit van elk open interval ]a, b[⊂ R (b > a) gelijk is aan de
+kardinaliteit van R. Toon dit ook aan voor elk gesloten interval [a, b].
+5. Zij X een aftelbaar oneindige verzameling. Is de verzameling X X van alle afbeeldingen
+van X naar X aftelbaar oneindig?
+6. Een reëel getal x is algebraı̈sch als ze voldoet aan een veeltermvergelijking
+xn + a1 xn−1 + a2 xn−2 + · · · + an−1 x + an = 0
+waarin alle coëfficiënten aj rationaal zijn. Als een reëel getal niet algebraı̈sch is dan is
+het transcendent.
+Bewijs dat de verzameling van alle algebraı̈sche getallen aftelbaar oneindig is.
+7. (Voor wie niet zonder kan - een zoekertje) De presidentsverkiezing in een bepaald land is
+een verkiezing tussen 2 kandidaten, resp kandidaat a en kandidaat b. De verkiezing wordt
+gewonnen door kandidaat a, die A stemmen behaalde, tegen kandidaat b, die B stemmen
+behaalde; m.a.w. A > B. Elke stem was een stem ofwel voor a, ofwel voor b. Bepaal
+de kans dat, gedurende het tellen van de stemmen kandidaat a voortdurend en zonder
+onderbreking voorop lag in stemmen t.o.v. kandidaat b. Zorg voor een prima redenering.
+5
+
+Paul Joseph Cohen, Amerikaans wiskundige, 1934 - 2007
+
+© K. Dekimpe
+
+Pagina 94
+
+ 

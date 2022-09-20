@@ -1,0 +1,240 @@
+6. Nucleofiele substitutie en eliminatie
+✓ twee belangrijke reactietypen (ook biologisch)
+✓ geïllustreerd aan de hand van halogeenalkanen
+6.1 Nomenclatuur van halogeenalkanen
+• halogeen = substituent op alkaanketen (voorvoegsel)
+• plaats met nummer aangeven
+• triviaalnamen voor eenvoudige halogeenalkanen
+Nucleofiele substitutie en eliminatie 1✓ primair, secundair, tertiair halogeenalkaan
+✓ halogeenalkanen veel gebruikt als industriële
+oplosmiddelen (zeer goede oplosmiddelen en weinig 
+brandbaar)
+✓ halogeenalkanen komen weinig voor in natuur  
+(algemene giftigheid!)
+Nucleofiele substitutie en eliminatie 26.2 Nucleofiele substitutie (S ) en eliminatie (E)
+N
+• polaire C-X binding, heterolytische doorbraak
+• nucleofiel (kernminnend): :Z-, :Nu-, :B-
+lewisbase, elektronenpaardonor
+Nucleofiele substitutie en eliminatie 36.3 De nucleofiele substitutie
+• vervanging X- door Nu-
+• voorbeelden nucleofiele substitutiereacties:
+Nucleofiele substitutie en eliminatie 4• voorbeelden nucleofiel: Elektronenrijk deeltje
+Goed nucleofiel ?  (Een ‘goed’ nucleofiel reageert sneller.)   
+: - -
+Nu
+ als basiciteit  OH > H O
+2
+- - (*)
+als solvatatie  Cl >   I
+- -
+als polariseerbaarheid  I >  F
+(*)
+Cloride is meer gesolvateerd dan jodide, dus 
+jodide is sterker nucleofiel
+Nucleofiele substitutie en eliminatie 5Relatieve reactiesnelheid van S
+N
+:Nu- + MeI → …
+(* MeOH als referentie)
+Volgorde Nucleofiel Relatieve
+snelheid*
+sterk I-, HS-, RS- >105
+goed  Br-, HO-,  104
+RO-, CN-, N -
+3
+matig NH , Cl-, F-, RCO - 103
+3 2
+zwak H O, ROH 1
+2
+zeer zwak RCO H 10-2
+2
+Nucleofiele substitutie en eliminatie 6• vertrekkende groep:
+slechte
+Goede vertrekkende groep ?    Meestal een zwakke base… 
+BrCH CH CH Cl +   NaCN
+2 2 2
+ethanol aq.
+:N C CH CH CH Cl +   NaBr
+2 2 2
+Nucleofiele substitutie en eliminatie 7Reactiemechanismen voor substituties aan sp3 atomen
+OPGELET!! Substituties aan sp2 atomen volgen later (hfdst 13)
+• het S 1 mechanisme
+N
+carbokation
+1
+2
+✓ Tweestapsreactie
+✓ Snelheid van vorming alcohol wordt bepaald door trage stap:
+S = k [RCl]
+1 1
+✓ Eerste orde reactie, monomoleculair
+Nucleofiele substitutie en eliminatie 8✓ Energieverloop
+Activeringsenergie eerste stap
+veel groter dan tweede stap
+snelheidsbepalend
+Nucleofiele substitutie en eliminatie 9+ -
+✓ Solvatatie < oriëntatie van solventmoleculen
+1
+Stabilisatie
+door ion-
+dipoolinteractie
+X- C+
+Solvent 
+2
+verwijderen
+Nucleofiele substitutie en eliminatie 10• het S 2 mechanisme
+N
+✓ Eénstapsreactie
+✓ Snelheidsbepalende stap = botsing tussen alkylchloride en 
+hydroxide
+✓ Snelheid van vorming alcohol:
+S = k [RCl] [OH-]
+2 2
+✓ Tweede orde reactie, bimoleculair
+✓ Geen intermediair
+Nucleofiele substitutie en eliminatie 11✓ Energieverloop
+Geen intermediair !!
+Enkel overgangstoestand
+Nucleofiele substitutie en eliminatie 126.4 De stereochemie van de S aan sp3 atomen
+N 
+• S 1 met optisch actieve verbinding racemisatie
+N
+50/50 racemisch mengsel
+S R
+Nucleofiele substitutie en eliminatie 13inversie
+• S 2 met optisch actieve verbinding
+N
+jood
+Omklappen paraplu
+6
+Nucleofiele substitutie en eliminatie 146.5 Factoren die het reactiemechanisme bepalen 
+• S 1: structuur van het halogeenalkaan
+N
+✓ betere stabilisatie carbokation, snellere S 1 reactie
+N
+-
+-
+-
+Stabilisatie carbokation door mesomerie
+Nucleofiele substitutie en eliminatie 163° carbokation stabieler dan 2°, 1°
+snelheid S 1 reactie
+N
+• S 1: aard solvent
+N
+✓ polair, protisch solvent 
+Solvent diëlektrische  relatieve 
+stabiliseert carbokation,  constante snelheid
+snellere S 1 reactie Azijnzuur            6 1
+N
+Methanol           33                       4
+(protisch solvent bevat
+Mierezuur          58                    5000 
+H-brugdonoren vb. OH, NH)
+Water 78                  150000
+Nucleofiele substitutie en eliminatie 17• S 2: structuur halogeenalkaan
+N
+✓ weinig sterische hinder nadering Nu-, snellere S 2 reactie
+N
+snelheid S 2 reactie
+N
+Precies omgekeerd aan S 1 reactie !
+N
+Nucleofiele substitutie en eliminatie 18• Verbindingen met halogeenatomen in allyl- of benzylpositie
+✓ naast vlot S 1 mechanisme, ook snelle S 2 reactie !
+N N
+2p--overlap heeft stabiliserende invloed op overgangstoestand
+Nucleofiele substitutie en eliminatie 19✓ gevoeligheid voor substitutie via S 2 mechanisme:
+N
+Indien zowel S 1 als S 2 mogelijk zijn, wordt het mechanisme
+N N
+mede bepaald door reactieomstandigheden:
+✓ Goed nucleofiel geeft S 2
+N
+✓ Matig of slecht nucleofiel en polair solvent geven S 1 
+N
+Nucleofiele substitutie en eliminatie 206.6 Nucleofiele substitutie in biologische systemen 
+• biologische methyleringsreactie
+in labo vaak met methyljodide
+in natuur via AZ
+S 2
+N
+Nucleofiele substitutie en eliminatie 21Vorming adrenaline uit noradrenaline
+S 2
+N
+sulfoniumion
+• halogeenalkanen meestal giftig voor levende organismen
+Gealkyleerde enzymen verliezen 
+biologische acitiviteit
+Nucleofiele substitutie en eliminatie 22• bekend alkylerend reagens: mosterdgas
+(1,1-thiobis(2-chloorethaan) of yperiet)
+intramoleculair
+• alkylerende agentia worden ook gebruikt in de 
+bestrijding van kanker
+Nucleofiele substitutie en eliminatie 236.7 De eliminatiereactie
+Afsplitsen HX o.i.v. base
+-eliminatie
+✓ onttrekken proton van -plaats door nucleofiel
+✓ S en eliminatie kunnen naast elkaar optreden
+N
+(afhankelijk van reactieomstandigheden en structuur
+halogeenalkaan) 
+✓ monomoleculair (E1) of bimoleculair (E2) proces
+Nucleofiele substitutie en eliminatie 24• Het E1-mechanisme  verwant aan S 1 mechanisme
+N
+carbokation
+
+✓ Tweestapsreactie
+✓ Snelheid van vorming alkeen wordt bepaald door trage stap:
+S = k [RCl]
+1 1
+✓ Eerste orde reactie, monomoleculair
+✓ volgorde reactiviteit halogeenalkanen:
+tertiair > secundair > primair
+✓ Polair solvent bevordert E1-reactie
+Nucleofiele substitutie en eliminatie 25✓ Tertiaire halogeenalkanen + polair solvent: E1 + S 1
+N
+>
+Zwakke base
+Twee mogelijkheden 
+voor afsplitsen proton
+Regel van ZAITSEV
+Het meest gesubstitueerde alkeen 
+wordt bij voorkeur gevormd. REDEN?
+Nucleofiele substitutie en eliminatie 26• Het E2-mechanisme  verwant aan S 2 mechanisme
+N
+
+Betrokken atomen moeten in één vlak liggen, anti-periplanair
+✓ Eénstapsreactie
+✓ Snelheid van vorming alkeen:
+S = k [RCl] [OH-]
+2 2
+✓ Tweede orde reactie, bimoleculair
+✓ Ladingsverschuiving tijdens reactie van base naar 
+vertrekkende groep
+✓ Stereospecifiek
+✓ Sterische factoren verschillend voor E2 en S 2 !
+N
+Nucleofiele substitutie en eliminatie 27• Vergelijking S 2- en E2-mechanisme 
+N
+E2
+ 
+–
+••
+•
+CH CH O Br
+•
+3 2
+••
+Nucleofiele substitutie en eliminatie 28• Vergelijking S 2- en E2-mechanisme 
+N
+S 2
+N
+ 
+–
+••
+•
+CH CH O Br
+•
+3 2
+••
+Nucleofiele substitutie en eliminatie Alcoholen en thiolen 29

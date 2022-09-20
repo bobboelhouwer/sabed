@@ -1,0 +1,28 @@
+﻿Les 6 – schema
+1. Inleiding : retorica en overtuigen
+a. Vragen
+b. Concepten en connotaties
+c. Illustraties
+2. Klassieke retorica
+a. Aristoteliaanse retorica
+i. Types: forensisch, epideictisch, deliberatief
+ii. Overtuigingsmiddelen: ethos, pathos, logos
+b. Keuzes op macroniveau - canons
+c. Keuzes op microniveau
+i. Structuur: tricolon, herhaling, parallellisme, antimetabool
+ii. Klanksymboliek: assonantie, alliteratie
+iii. Betekenis: antithese, metafoor, hyperbool, litotes
+iv. Interactie: metadiscours, retorische vraag
+d. Voorbeeldanalyse
+
+3. Hedendaagse retorica en argumentatieleer
+a. Toulmin: soundness criteria, claims, field-invariant vs field-dependent
+b. New Rhetoric
+i. Perelman en Olbrechts-Tyteca: plausibele argumenten, common ground, universal audience vs particular audience, feitelijke vs waardegebaseerde argumenten
+c. Burke: dramatistic pentad
+d. Anscombre et Ducrot: radical argumentalism
+e. Discourse Historical Approach 
+i. Reisigl and Wodak: topoï, fallacies
+f. Pragmadialectiek (Van Eemeren, Grootendorst, Houtlosser, Garssen, Kienpointner): regels, fallacies en actietypes
+
+4. Kerngedachten 

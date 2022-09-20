@@ -1,0 +1,1664 @@
+Algemene Scheikunde : Hfst. I  Stoechiometrie in verbindingen en reacties  1
+Hoofdstuk I  Stoechiometrie in verbindingen en reacties
+ 
+ 
+ 
+1  Inleiding : Evoluties in de Scheikunde 
+1.1  Methodiek in de wetenschappen 
+ 
+Een algemene wetenschappelijke discipline zoals de scheikunde tracht met behulp 
+van een rationeel onderbouwde methodiek een verklaring te vinden voor de gebeur-
+tenissen die zich afspelen in onze leefomgeving. Ze maakt hierbij op de eerste plaats 
+gebruik van waarnemingen. Aan de hand van deze geobserveerde feiten en gege-
+vens kunnen hypothesen worden geformuleerd die een mogelijke verklaring bieden 
+voor  de  waarnemingen.  Vervolgens  worden,  waar  mogelijk,  experimenten uitge-
+voerd om de gestelde hypothese te testen op haar relevantie. Dikwijls leveren deze 
+proefondervindelijke  resultaten  nieuwe  en  meer  nauwkeurige  waarnemingen  op 
+waarmee de gestelde hypothetische beschouwingen kunnen worden aangevuld of 
+verbeterd. 
+ 
+Naarmate de technologische mogelijkheden tot het verkrijgen van steeds meer en 
+betere informatie vorderden, werden algemene beschouwingen over het natuurlijke 
+gedrag van materie verzameld in wetmatigheden. De wiskunde was en blijft een 
+belangrijk instrument bij het vertalen van dit gedrag in een wetenschappelijke wet. 
+Waarnemingen leerden ons b.v. dat “eenzelfde hoeveelheid van een ideaal gas op-
+gesloten in eenzelfde volume en bij eenzelfde temperatuur, steeds eenzelfde druk 
+uitoefent”. Wij herkennen deze beschouwing als de ideale gaswet:     P.V = n.R.T 
+ 
+Verschillende wetten rond eenzelfde natuurlijk fenomeen worden verzameld in een 
+theorie. Waar een wet geformuleerd in een mathematische betrekking beschrijft ‘wat’ 
+gebeurt, is een theorie een poging tot het verklaren ‘waarom’ iets gebeurt. Daarom 
+zijn theorieën dikwijls onvolledig, bevatten ze tekortkomingen of leiden zelfs tot totaal 
+foutieve interpretaties en dienen ze steeds aangepast of verbeterd te worden.  
+ 
+Belangrijker dan het formuleren van de perfecte theorie is dikwijls het hanteren van 
+onvolmaakte theorieën bij het voorspellen van natuurlijke gebeurtenissen. Op die 
+wijze draagt wetenschap bij tot verdere technologische ontwikkelingen. 
+ 
+Al onze waarnemingen zijn gebaseerd op het meten van grootheden. Om alle mo-
+gelijke waarnemingen uit te drukken in getallen beschikken we over 7 basiseenheden 
+uit het S.I. stelsel (internationaal systeem). 
+ 
+soort meting  eenheid  symbool 
+ 
+lengte  meter  m 
+massa  kilogram  kg 
+tijd  seconde  s 
+elektrische stroom  ampère  A 
+temperatuur  kelvin  K 
+hoeveelheid materie  mol  mol 
+lichtintensiteit  candela  Cd 
+ Algemene Scheikunde : Hfst. I  Stoechiometrie in verbindingen en reacties  2
+Alle andere mogelijke grootheden zijn combinaties van deze basisgrootheden. Zo 
+wordt volume uitgedrukt in m3 en dichtheid is massa per volume-eenheid of kg.m-3. 
+Het is soms handiger om af te wijken van deze eenheden in de context van meer 
+praktische hoeveelheden die doorgaans gebruikt worden. Zo zullen we in wat volgt 
+de massa eerder uitdrukken in gram (g), het volume in liter (l) en de dichtheid in g.l-1. 
+ 
+Daar bepaalde metingen soms extreem hoge of lage waarden opleveren en om te 
+vermijden dat heel onhandig grote of kleine getallen opduiken, worden vaak voor-
+voegsels bij de eenheden gebruikt. 
+ 
+voorvoegsel  afkorting  factor 
+tera  T-  exp. 12 
+giga  G-  exp.  9 
+mega  M-  exp.  6 
+kilo  k-  exp.  3 
+hecto  h-  exp.  2 
+deca  da-  exp.  1 
+deci  d-  exp. -1 
+centi  c-  exp. -2 
+milli  m-  exp. -3 
+micro  (cid:1)-  exp. -6 
+nano  n-  exp. -9 
+pico  p-  exp. -12 
+femto  f-  exp. -15 
+atto  a-  exp. -18 
+ 
+ 
+1.2  Scheikunde: een blik doorheen de eeuwen 
+ 
+Scheikunde is die tak van de wetenschap die zich vooral inlaat met de studie van het 
+gedrag, de eigenschappen van en de omzettingen tussen materie. Deze weten-
+schappelijke discipline is dus eveneens gebaseerd op een opeenvolging van het ver-
+richten van waarnemingen, het maken van hypothesen, het uitvoeren van experi-
+menten, het formuleren van wetmatigheden, het theoretisch verklaren en het maken 
+van voorspellingen. 
+ 
+Materie kunnen we fundamenteel eenvoudig omschrijven als iets wat massa bezit en 
+ruimte inneemt. Het beeld van materie dat wij ons momenteel voorhouden is onder-
+werp geweest van een eeuwenlange evolutie. Meer dan 2400 jaar geleden werd 
+scheikunde (of wat er voor kon doorgaan) al bedreven voor de productie van o.a. 
+metalen en balsemstoffen. De Grieken ten tijde van Aristoteles formuleerden als 
+eersten de bewering dat materie was samengesteld uit 4 substanties: vuur, aarde, 
+water en lucht. Sommigen stelden zich toen reeds de vraag of materie wel degelijk-
+continu was (d.i. oneindig deelbaar in kleinere stukken) dan wel opgebouwd uit kleine 
+ondeelbare deeltjes. Democritus gebruikte de term atomos voor deze kleine bouw-
+steentjes. Bij gebrek aan experimentele evidentie bleef de conclusie over de al dan 
+niet oneindige deelbaarheid van materie eerder vaag. 
+ 
+Gedurende de 2000 jaren die volgden op deze eerste poging tot een verklaring van 
+de feitelijke aard van materie, verzonk de scheikunde tot een pseudo-wetenschap Algemene Scheikunde : Hfst. I  Stoechiometrie in verbindingen en reacties  3
+zoals ze werd beoefend in de alchemie. Vele mystieke alchemisten probeerden het 
+geheim te ontdekken om goedkope metalen om te zetten in waardevol goud. Hoewel 
+deze duistere periode weinig waardevolle wetenschappelijke opheldering bood, wer-
+den een aantal nieuwe elementen (waaronder kwik) voor het eerst ontdekt en ont-
+wikkelden zich ambachtelijke methoden (o.a. voor het bereiden van minerale zuren). 
+ 
+De eerste waardevolle ontwikkelingen in het domein van de scheikunde situeren zich 
+in de 16de eeuw door de bereiding van nieuwe metalen uit ertsen (Georg Bauer) en 
+de toepassing van mineralen in de geneeskunde (Paracelsus). Het uitzonderlijke be-
+lang van kwantitatieve metingen en experimenten werd pas duidelijk aangetoond 
+door Robert Boyle door zijn nauwkeurige metingen van de druk en het volume van 
+gassen waardoor hij het verband tussen beide kon aantonen in 1661. Volgens zijn 
+opvattingen was materie opgebouwd uit elementen en was een chemische stof een 
+element zolang ze niet verder kon worden afgebroken in kleinere deeltjes. Zijn mis-
+opvattingen over de aard van metalen deed hem evenwel toch nog geloven in de 
+alchemistendroom. Door het werk van Boyle en door het ontdekken van steeds meer 
+nieuwe elementen werd definitief afgezien van het Griekse systeem met de vier oer-
+elementen en werd het tijdperk van de moderne scheikunde stilaan ingeleid. 
+ 
+In de volgende jaren kwamen verbrandingsprocessen steeds meer onder de aan-
+dacht. Georg Stahl postuleerde dat bij verbranding een ongedefinieerde substantie 
+‘phlogiston’ wordt vrijgesteld en dat het uitdoven van een vlam in een gesloten vat 
+het gevolg was van een verzadiging van de atmosfeer met deze substantie. Hoewel 
+werd vastgesteld dat zuurstofgas (ontdekt door Priestly) in sterke mate de verbran-
+ding onderhield, werd in die periode toch vooral belang gehecht aan het phlogiston-
+principe waarbij zuurstofgas als ‘phlogistonarm’ beschouwd werd. 
+ 
+Pas op het einde van de 18de eeuw na intensief experimenteel werk en door de ont-
+dekking van o.a. koolstofdioxide, waterstof- en stikstofgas en een reeks nieuwe ele-
+menten werd de weg geëffend voor de ontdekking van de ware natuur van het ver-
+brandingsproces. Antoine Lavoisier bepaalde heel nauwkeurig de massa van de 
+begin- en eindproducten van vele chemische reacties en concludeerde dat massa 
+nooit gecreëerd noch vernietigd wordt. Bij een chemische reactie is de som van de 
+massa’s van de eindproducten steeds gelijk aan de som van de massa’s van de be-
+ginproducten. Zijn wet van behoud van massa uit 1789 samen met zijn overzicht 
+van de scheikundige kennis tot dan toe, vormde de basis voor de enorme vooruit-
+gang in het begin van de 19de eeuw.  
+ 
+De ontdekking dat verbranding een proces was waarbij zuurstofgas verbruikt werd, 
+inspireerde vele scheikundigen om met behulp van nauwkeurige wegingen de sa-
+menstelling te bepalen van vele chemische bestanddelen en om het verloop van 
+chemische reacties te bestuderen. Joseph Proust toonde aan dat in elke chemische 
+stof de samenstellende elementen steeds voorkomen in dezelfde massaverhouding. 
+Zo vond hij dat in kopercarbonaat voor 1 massa-eenheid koolstof steeds 4 eenheden 
+zuurstof en 5,3 eenheden koper aanwezig waren. Hij postuleerde zijn bevindingen 
+als de wet van de constante samenstelling (een bepaalde verbinding bevat steeds 
+dezelfde elementen in dezelfde massaverhouding). 
+ 
+Dit principe stimuleerde John Dalton om na te denken over het bestaan van atomen. 
+Wanneer chemische stoffen wat betreft hun samenstellende elementen steeds een-Algemene Scheikunde : Hfst. I  Stoechiometrie in verbindingen en reacties  4
+zelfde massaverhouding vertonen, dan zijn volgens hem deze stoffen opgebouwd uit 
+steeds dezelfde combinatie van kleine deeltjes. Zijn ontdekking dat koolstof en zuur-
+stof twee verschillende verbindingen konden vormen, overtuigde hem nog meer van 
+zijn stelling. De 1ste verbinding was een combinatie van 1 g koolstof met 1,33 g zuur-
+stof, de 2de verbinding van 1 g koolstof met 2,66 g zuurstof. Hij vermoedde daarom 
+het bestaan van respectievelijk CO en CO . Uit meerdere dergelijke vaststellingen bij 
+2
+andere verbindingen concludeerde hij de wet van de veelvuldige samenstelling 
+(wanneer 2 elementen een reeks van 2 of meer verbindingen vormen, dan zijn de 
+verhoudingen van de massa’s van het tweede element die zich verbinden met een-
+zelfde hoeveelheid van het eerste element, steeds eenvoudige getallen). 
+ 
+Hoewel het bestaan van atomen steeds evidenter werd en de relatieve massasa-
+menstelling van vele verbindingen nauwkeurig kon worden bepaald, konden op dat 
+ogenblik uit de beschikbare gegevens nog geen absolute formules voor chemische 
+bestanddelen worden afgeleid. 
+ 
+ 
+1.3  Fundamentele wetten van Dalton 
+ 
+In 1808 publiceerde Dalton zijn “Nieuwe Systeem voor chemische Filosofie”  en luid-
+de hiermee het atoomtijdperk in. 
+ 
+   
+  -  Elk element is opgebouwd uit kleine en ondeelbare deeltjes, de atomen. 
+   
+  -  Atomen van eenzelfde element zijn identiek en verschillend van de atomen 
+  van een ander element. 
+   
+  -  Verbindingen worden gevormd door combinatie van atomen. Een verbin-
+  ding bestaat steeds uit dezelfde soort en hetzelfde aantal atomen. 
+   
+  -  Bij chemische reacties worden atomen gerecombineerd zonder dat hierbij 
+  atomen in elkaar worden omgezet, verdwijnen of bijgevormd worden. 
+   
+   
+ 
+ 
+Om vanuit deze theorie te komen tot absolute formules voor chemische verbindin-
+gen, besefte Dalton dat relatieve massa’s voor de verschillende atoomsoorten dien-
+den ingevoerd te worden. Er was bekend dat een hoeveelheid van 9 g water precies 
+8 g zuurstof bevatte voor 1 g waterstof. Indien de formule voor water HO zou zijn, 
+dan diende een zuurstofatoom 8 keer meer te wegen dan een waterstofatoom. Indien 
+de formule echter H O zou zijn, dan moest een zuurstofatoom 16 keer meer wegen 
+2
+dan een waterstofatoom. Vanuit het besef en de overtuiging dat de natuur intrinsiek 
+eenvoudig is, stelde hij (verkeerdelijk) water voor als HO i.p.v. H O. Hoe dan ook in-
+2
+troduceerde hij een eerste tabel met atoommassa’s die later weliswaar  verkeerd 
+bleek omwille van een slechte keuze van sommige chemische formules, maar toch 
+de basis vormde voor een belangrijke stap in de ontrafeling van de chemische 
+stoechiometrie. 
+ Algemene Scheikunde : Hfst. I  Stoechiometrie in verbindingen en reacties  5
+1.4  Sleutels tot de stoechiometrie 
+ 
+Hoewel oorspronkelijk onvoldoende aandacht werd geschonken aan het werk van 
+Joseph Gay-Lussac, situeert zich rond 1809 het begin van de definitieve ontknoping 
+voor het achterhalen van de chemische formules voor verbindingen. Hij bepaalde 
+experimenteel de volumes van reagerende gassen onder dezelfde omstandigheden 
+van druk en temperatuur. Op die manier vond hij dat 2 volumes waterstofgas rea-
+geerden met 1 volume zuurstofgas tot vorming van 2 volumes gasvormig water en in 
+een ander experiment dat 1 volume waterstofgas reageerde met 1 volume chloorgas 
+tot vorming van 2 volumes gasvormig waterstofchloride. 
+ 
+Met deze bevindingen poneerde Amedeo Avogadro het opvallende Principe van 
+Avogadro dat “gelijke volumes van verschillende (ideale) gassen bij eenzelfde druk 
+en dezelfde temperatuur steeds evenveel deeltjes bevatten”. Deze bewering is zinvol 
+door aan te nemen dat de afstand tussen de gasdeeltjes onderling vele keren groter 
+is dan hun eigen diameter waardoor de omvang van de deeltjes op zich onbelangrijk 
+wordt voor het volume dat ze innemen. 
+Op die manier wordt het evident te veronderstellen dat 
+ 
+ 
+2 volumes waterstofgas   +   1 volume zuurstofgas   (cid:2)   2 volumes water(gas) 
+ 
+ 
+kan worden herschreven als 
+ 
+  2 moleculen waterstofgas   +   1 molecule zuurstofgas   (cid:2)   2 moleculen water 
+ 
+ 
+ 
+ 
+ 
+     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Op die manier werd o.a. ook duidelijk dat zuurstofgas (O ), waterstofgas (H ), chloor-
+2 2
+gas (Cl ), e.a. voorkomen als gasvormige di-atomische gassen.  
+2
+ 
+Toch waren de meeste scheikundigen (Dalton inclusief) op dat moment er nog van 
+overtuigd dat atomen van een bepaald element zich enkel konden verbinden met 
+andere elementen en niet met gelijksoortige atomen. Hierdoor ontstond een grote 
+verwarring rond de ware samenstelling van moleculen. Ongeacht de waardevolle 
+bepalingen van atoommassa’s door Jöns Jacob Berzelius, was er geen eensge-Algemene Scheikunde : Hfst. I  Stoechiometrie in verbindingen en reacties  6
+zindheid over de formules van chemische stoffen omdat er vele tabellen met atoom-
+massa’s tegelijkertijd in omloop waren. Voor de molecule azijnzuur bestonden er op 
+een bepaald ogenblik zelfs 19 verschillende formules zoals werd beschreven door de 
+Belg August Kekulé in 1861. De definitieve ontsluiting van het probleem werd uit-
+eindelijk geboden door Stanislao Cannizzaro. Hij steunde zich op 2 principes. 
+ 
+  Verbindingen bevatten een geheel aantal atomen (volgens Dalton) 
+   
+  Gelijke volumes gas onder gelijke omstandigheden bevatten evenveel mole-
+  culen (volgens Avogadro) 
+ 
+ 
+Hij was ervan overtuigd dat waterstofgas (H ) was opgebouwd uit 2 waterstofatomen 
+2
+en stelde arbitrair dat de relatieve molecuulmassa ervan 2 bedraagt. Vervolgens ver-
+geleek hij de massa’s van 1 liter van verschillende andere gassen met die van 1 liter 
+H  en berekende systematisch hun massaverhoudingen. Zo vond hij dat 1 liter zuur-
+2
+stofgas (O ) 16 keer meer woog dan 1 liter H  waardoor hij aan O  een relatieve mo-
+2 2 2
+lecuulmassa 32 toekende. Gezien beide gassen opgebouwd zijn uit 2 gelijksoortige 
+atomen, worden de relatieve atoommassa’s van zuurstof en waterstof respectievelijk 
+16 en 1. Hij bepaalde vervolgens voor koolstofdioxide (op dat moment nog niet echt 
+duidelijk geweten dat de formule CO  was) een relatieve molecuulmassa van 44 ter-
+2
+wijl een andere chemische analyse 27 % (massapercent) koolstof aantoonde. Ze-
+venentwintig percent van 44 g koolstofdioxide levert 12 g koolstof op een totaal van 
+44 g en 44 g min 12 g geeft 32 g zuurstof.  
+Indien de formule werkelijk CO  zou zijn, dan levert dit een relatieve atoommassa 12 
+2
+voor koolstof. Indien de formule echter C O  zou zijn, dan wordt de relatieve atoom-
+2 2
+massa 6 voor koolstof. Een formule C O  zou een waarde van 4 opleveren. 
+3 2
+Om dit dilemma op te lossen bepaalde Cannizzaro de relatieve molecuulmassa van 
+vele andere koolstofhoudende gassen evenals het massapercent koolstof en bere-
+kende (zoals hierboven gedaan voor koolstofdioxide) de mogelijke relatieve massa 
+aan koolstof in die verbindingen. 
+ 
+verbinding  relatieve molecuul- massapercent kool- relatieve massa aan 
+massa  stof  koolstof 
+koolstofdioxide  44  27  12 
+methaan  16  75  12 
+ethaan  30  80  24 
+propaan  44  82  36 
+butaan  58  83  48 
+ 
+Het bleek dat de relatieve massa aan koolstof in elk van de verbindingen een veel-
+voud van 12 opleverde waaruit hij kon afleiden dat de relatieve atoommassa van 
+koolstof inderdaad 12 bedraagt. Met behulp van massa’s experimenteel werk werden 
+de relatieve atoommassa’s van alle elementen definitief bepaald en de scheikunde 
+beschikte voortaan over een relatieve massastandaard (zie ook pagina 12).  
+ 
+Vooraleer dieper in te gaan op de stoechiometrie van chemische formules en van 
+reacties, zetten we onze verkenningstocht doorheen de geschiedenis van de schei-
+kunde verder. Samen met het concept atoom groeide bij de wetenschappers in het 
+begin van de 20ste eeuw de nieuwsgierigheid naar de ware natuur van het atoom. Algemene Scheikunde : Hfst. I  Stoechiometrie in verbindingen en reacties  7
+2  Karakterisering van het atoom 
+2.1  Voorafgaande ontdekkingen 
+ 
+Het was op zich niet onlogisch om een atoom in eerste instantie voor te stellen als 
+bolvormig in analogie met macroscopisch waarneembare sferische lichamen (een 
+vallende waterdruppel, planeten). Die kleine bolvormige bouwsteentjes zouden zich 
+dan op de een of andere manier kunnen samen clusteren tot moleculen en vele van 
+deze moleculen samen zouden de waarneembare materie opbouwen. Metalen daar-
+entegen zouden zijn opgebouwd uit lagen van eenzelfde element waardoor een heel 
+dichte structuur wordt bekomen. Dit beeld kwam overeen met wat toen van materie 
+met behulp van heel primitieve middelen kon worden waargenomen. 
+ 
+Tussen 1898 en 1903 bestudeerde J. J. Thomson elektrische ontladingen in katho-
+destraalbuizen. Twee metaalelektrodes werden ingesmolten in een glazen vacuüm 
+cilinder en tussen de elektrodes werd een hoge gelijkspanning aangelegd. Uit de ne-
+gatieve elektrode (kathode genoemd) bleek een straling te worden uitgezonden die 
+werd aangetrokken door de anode (positieve elektrode). Thomson veronderstelde 
+daarom dat het moest gaan over een stroom van negatief geladen deeltjes (later 
+elektronen genoemd) temeer deze deeltjes werden afgebogen bij aanleggen van 
+een tweede maar zwakker elektrisch veld loodrecht op het eerste. Uit deze afbuiging 
+kon hij de massa-tot-lading verhouding berekenen. 
+ 
+        q / m  =  - 1,76  108   C.g-1 
+ 
+  - 
+ 
+anode 
+  kathode 
+  + 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+- 
+  + 
+ 
++ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  - 
+ Algemene Scheikunde : Hfst. I  Stoechiometrie in verbindingen en reacties  8
+Thomson  redeneerde  dat  wanneer  elektronen 
+konden worden vrij gemaakt uit metaalelektrodes, 
+deze metalen (en dus ook de atomen ervan) zelf 
+elektronen  dienden  te  bevatten.  Gezien  een 
+atoom  elektrisch  neutraal  is,  moesten  naast  de 
+negatieve deeltjes ook positieve ladingen aanwe-
+zig  zijn. Zo voerde hij (in werkelijkheid was het 
+diens  naamgenoot  William  Thomson)  het  ‘plum 
+pudding’ model in voor atomen waarbij elektronen 
+willekeurig verdeeld zijn binnen een wolk van posi-
+tieve lading. 
+ 
+Robert Millikan bepaalde in 1909 uit experimenten met vallende geladen oliedrup-
+peltjes de lading en de massa van het elektron. 
+ 
+  q  =  - 1,6  10-19  C    m  =  9,11  10-31  kg 
+  
+ 
+Bovenaan een gesloten vat produceerde hij met behulp van een verstuiver een nevel 
+van oliedruppeltjes die gedurende hun val naar de bodem van het vat werden be-
+straald met X-stralen. Door deze bestraling werden de druppels negatief opgeladen. 
+Vervolgens werd een regelbaar elektrisch veld aangelegd tussen de bovenkant en de 
+onderkant van het vat. Door het systematisch aanpassen van de spanning tussen de 
+positieve (bovenaan) en de negatieve plaat (onderaan) werd ervoor gezorgd dat de 
+opwaartse elektrostatische aantrekking precies de zwaartekracht kon compenseren 
+waardoor de oliedruppeltjes bleven zweven. Uit de gegevens van de aangelegde 
+spanning en de massa van de oliedruppeltjes kon de lading van deze druppeltjes 
+worden berekend. Hieruit bleek dat deze lading steeds een veelvoud was van de 
+elektronlading. 
+ 
+In dezelfde periode (1896) werd door Antoine Henry Becquerel de radio-actieve 
+straling ontdekt. Het bleek dat bepaalde elementen zoals uranium, thorium, radium 
+en enkele andere, spontaan straling emitteren. Pas later werd gevonden dat bij dit 
+radioactieve verval 3 verschillende types van straling voorkomen, eenvoudigweg (cid:3)-, 
+(cid:4)- en (cid:5)-stralen genoemd. Verder onderzoek wees uit dat  
+ 
+ 
+  (cid:3)-straling : uitgezonden deeltjes met lading +2 en een massa van 7300 
+  keer de elektronmassa (het zijn kernen van het element He). 
+  (cid:4)-straling : snel bewegende elektronen 
+  (cid:5)-straling : elektromagnetische straling met zeer korte golflengte 
+ 
+ 
+Het principe van de ondeelbaarheid van het atoom werd door deze bevindingen ver-
+laten. Toch willen we opnieuw aanstippen dat een theorie niet noodzakelijk onfeilbaar 
+hoeft te zijn om bruikbare wetenschappelijke vooruitgang te boeken. Het primitieve 
+model van Dalton heeft ontegensprekelijk de basis gelegd voor heel wat belangrijke 
+vorderingen in de scheikunde hoewel in deze beginperiode heel wat verwarring en 
+oneensheid bestond tussen wetenschappers. 
+ Algemene Scheikunde : Hfst. I  Stoechiometrie in verbindingen en reacties  9
+2.2  Het atoommodel van Rutherford 
+ 
+Het ‘plum pudding’ model gaf geen bevredigende uitleg over de ware opbouw van 
+het atoom. Verdere experimenten met kathodestraalbuizen toonden immers aan dat 
+naast de kathodestralen (snel bewegende elektronen) nog een ander type van stra-
+ling  werd waargenomen (kanaalstralen). Het bleek te gaan over positief geladen 
+deeltjes die werden aangetrokken door de negatieve kathode. Wanneer de kathode 
+werd doorboord, konden deze positieve deeltjes achter de kathode worden aange-
+toond op een fotografisch scherm. 
+De positieve deeltjes bleken te ontstaan in het vulgas van de kathodestraalbuis. De 
+resterende gasatomen in de min of meer vacuüm gemaakte buis werden door de 
+kathodestralen gebombardeerd en op die manier geïoniseerd. De gevormde secun-
+daire elektronen werden eveneens naar de anode (+) versneld terwijl het positieve 
+restant door de kathode (-) werd aangetrokken. Het aanleggen van een elektrisch 
+veld achter de kathode toonde aan dat het inderdaad om positieve ladingen ging. Op 
+die manier kon eveneens de lading-tot-massa verhouding worden bepaald. In eerste 
+instantie leek het vreemd dat de gemeten lading-tot-massa verhouding afhankelijk 
+was van het type vulgas. In het geval van waterstofgas werd evenwel de grootste 
+lading-tot-massa verhouding waargenomen. Het bleek dat de lading van deze deel-
+tjes (protonen genoemd) exact gelijk maar tegengesteld was aan die van het elek-
+tron. 
+ 
+ 
+  - 
+ 
+ 
++ 
+ 
+ 
+positieve deeltjes 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Deze bevindingen inspireerden Ernest Rutherford tot zijn nieuwe atoommodel. Hij 
+vatte een atoom op als een heel kleine kern met daarin een aantal protonen. Hoe 
+zwaarder het atoom, hoe meer protonen zich in de kern zouden bevinden. Hoe deze 
+positieve deeltjes, die logischerwijze elkaar elektrostatisch zouden afstoten, in deze 
+kleine kern kunnen worden samengehouden, bleef voorlopig een raadsel. Rond de 
+kern bewegen dan voldoende elektronen zodat het atoom elektrisch neutraal blijft. 
+Rutherford toonde in 1911 de evidentie van zijn model experimenteel aan met behulp 
+van een radioactieve bron van (cid:3)-stralen. Hij liet een bundel (cid:3)-deeltjes invallen op een 
+dunne metaalfolie. Op een cirkelomtrek rond de folie werd een fotogevoelig scherm 
+(een voorganger van een fotografische film) geplaatst waardoor de positie van de 
+invallende (cid:3)-deeltjes kon worden gedetecteerd. 
+ Algemene Scheikunde : Hfst. I  Stoechiometrie in verbindingen en reacties  10
+ 
+ 
+  Bron van (cid:3)-deeltjes 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fotografisch scherm 
+ 
+ 
+ 
+Indien het ‘plum pudding’ model juist was dan zouden alle (cid:3)-deeltjes nagenoeg on-
+gehinderd doorheen de folie kunnen dringen zoals zonlicht doorheen een venster 
+schijnt. De zware (cid:3)-deeltjes zouden door een eventuele botsing met een elektron, 
+gezien hun massaverhouding van ongeveer 7300, slechts nauwelijks van richting 
+worden veranderd en dus allemaal op ongeveer dezelfde plaats als een enkele bun-
+del op het scherm invallen. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+De experimenten toonden echter aan dat de meeste (cid:3)-deeltjes op dezelfde plaats 
+invielen doch dat een kleiner maar niet onbelangrijk gedeelte een grote richtingsver-
+andering had ondergaan. Sommige deeltjes werden zelfs teruggekaatst. Deze grote 
+richtingsveranderingen  kunnen  slechts  het  gevolg  zijn  van  een  botsing  met  een 
+atoomkern van vergelijkbare of grotere massa. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Algemene Scheikunde : Hfst. I  Stoechiometrie in verbindingen en reacties  11
+Door folies van steeds andere metalen te gebruiken, kon Rutherford met zijn experi-
+menten de atoommassa’s van een groot aantal elementen vrij nauwkeurig bepalen. 
+Hij moest hiervoor echter aannemen dat er zich in de kern naast de protonen nog 
+andere niet geïdentificeerde deeltjes bevinden met een lading 0 en een massa ver-
+gelijkbaar met die van een proton. Pas later in 1932 werden deze neutronen door 
+Chadwick experimenteel aangetoond. 
+ 
+De  rangorde  (volgens  stijgende  atoommassa)  waarin  Rutherford  de  elementen 
+plaatste, vertoonde opvallend veel gelijkenis met tabellen die Dmitri Mendeljeev en 
+Julius Lothar Meyer vele jaren voorheen hadden opgesteld uitgaande van een zeer 
+ruime kennis van de chemische eigenschappen van de elementen. Op de relatie tus-
+sen de eigenschappen en de opbouw van de atomen wordt later uitvoerig ingegaan. 
+ 
+ 
+2.3  Eenvoudige beschrijving van het atoom  
+ 
+Een atoom bestaat uit een kleine kern met een straal in de orde van 10-15 m. De kern 
+bevat nagenoeg alle massa van het atoom en is opgebouwd uit een aantal protonen 
+en neutronen. Het aantal protonen wordt aangegeven door het ranggetal Z en de 
+elementen worden in het Periodiek Systeem gerangschikt volgens stijgend rangge-
+tal. De som van het aantal kerndeeltjes (protonen en neutronen samen) wordt gege-
+ven door het massagetal M. Het ranggetal en het massagetal worden respectievelijk 
+linksonder en linksboven het element symbool geschreven. 
+ 
+MElementsymbool      voorbeeld  35Cl 
+Z 17
+ 
+Rond de kern bewegen een aantal elektronen. Er bevinden zich evenveel elektronen 
+buiten de kern als protonen in de kern waardoor het atoom elektrisch neutraal is. De 
+afmetingen van een atoom zijn met inbegrip van deze elektronenmantel in de orde 
+van 10-10 m. Zoals later uitvoeriger zal worden beschreven, worden de chemische 
+eigenschappen van de verschillende elementen uitsluitend bepaald door het aantal 
+elektronen en hun ruimtelijke verdeling in het atoom. Daarom wordt het soort element 
+uitsluitend bepaald door het aantal elektronen en protonen ongeacht het aantal aan-
+wezige neutronen in de kern. 
+ 
+Er bestaan inderdaad atomen van eenzelfde element met een verschillend aantal 
+neutronen. Deze isotopen onderscheiden zich dus wel in massa maar niet in hun 
+chemische eigenschappen. Op die manier vinden we voor het element chloor twee 
+isotopen, één met 18 neutronen en één met 20 neutronen 
+ 
+  35Cl en 37Cl  
+17 17
+ 
+Sommige elementen bestaan uit slechts 1 soort isotoop, andere elementen hebben 
+soms meerdere isotopen. Ze kunnen worden gescheiden op basis van hun massa-
+verschil in een massaspectrometer. Op die manier kan worden bepaald voor welk 
+aandeel elk van de isotopen voorkomt. Deze isotopische samenstelling is (met 
+uitzondering van enkele radioactieve elementen) overal op aarde dezelfde. De be-
+langrijkste gegevens over protonen, neutronen en elektronen zijn in volgende tabel 
+weergegeven. Algemene Scheikunde : Hfst. I  Stoechiometrie in verbindingen en reacties  12
+deeltje  massa in kg  r.a.m.  elementaire lading  lading in Coulomb 
+elektron  9,1094 10-31  0,0005486  -1  - 1,6022 10-19 
+proton  1,6726 10-27  1,007276  +1  + 1,6022 10-19 
+neutron  1,6750 10-27  1,008665  0  0 
+ 
+ 
+3  Stoechiometrie 
+3.1  Relatieve atoommassa 
+ 
+Gezien de massa’s van atomen uitgedrukt in kg bijzonder lage en onhandige getal-
+waarden opleveren, werd een andere eenheid ingevoerd om de massa van atomen 
+uit te drukken (zie ook op pagina 6). De atoommassa-eenheid of a.m.e. wordt gede-
+finieerd als één twaalfde van de exacte massa van een 12C-atoom. 
+ 
+   1 a.m.e.  =  1,6605 10-27 kg  of  1/12 massa van 12C 
+ 
+ 
+De massa van alle andere atomen wordt uitgedrukt als een veelvoud van de atoom-
+massa-eenheid. De relatieve atoommassa of r.a.m. is een onbenoemd getal dat 
+aangeeft hoeveel keer een bepaald atoom meer weegt dan de gekozen a.m.e. Zeer 
+nauwkeurige metingen met behulp van massaspectrometers lieten toe om van alle 
+atoomsoorten de relatieve atoommassa’s exact te bepalen. Zo werd o.a. gemeten 
+ 
+   de r.a.m. van 63Cu bedraagt 62,93 
+ 
+ 
+of anders uitgedrukt 
+ 
+   een 63Cu-atoom weegt 62,93 keer meer dan de a.m.e. 
+ 
+ 
+De aandachtige lezer zal merken dat de r.a.m. van een atoom niet eenvoudig de som 
+is van de r.a.m. van de samenstellende deeltjes. Dit heeft te maken met de sterke 
+bindingen in atoomkernen waarbij massa wordt omgezet in energie en omgekeerd. 
+ 
+Gezien isotopen van elkaar verschillen in massa, hebben verschillende isotopen van 
+eenzelfde element dus ook verschillende relatieve atoommassa’s. Men zou van alle 
+bekende isotopen de r.a.m. afzonderlijk kunnen vermelden, doch dit heeft weinig zin 
+gezien isotopen van eenzelfde element toch steeds samen voorkomen en steeds in 
+hun natuurlijke isotopische samenstelling en bovendien zijn ze chemisch identiek. 
+Daarom wordt voor ieder element een gemiddelde relatieve atoommassa bepaald 
+rekening houdende met de procentuele isotopische samenstelling. 
+ 
+    r.a.m. 63Cu  =  62,93   en   r.a.m. 65Cu  =  64,93  en  
+ 
+    Cu is voor 69,09 %  63Cu  en voor 30,91 %  65Cu 
+ Algemene Scheikunde : Hfst. I  Stoechiometrie in verbindingen en reacties  13
+De gemiddelde r.a.m. voor Cu wordt dus 
+ 
+69,09 30,91
+  ·62,93 + ·64,93 = 63,55 
+100 100
+ 
+ 
+Deze waarde wordt terug gevonden bij het element Cu in het Periodiek Systeem. 
+ 
+Moleculen worden opgebouwd door combinaties van atomen volgens een bepaalde 
+stoechiometrie (zie verder). De relatieve molecuulmassa of r.m.m. is net als de 
+r.a.m. een onbenoemd getal en geeft aan hoeveel keer een bepaalde molecule meer 
+weegt dan de eerder gedefinieerde a.m.e. De relatieve molecuulmassa is in dit geval 
+wel eenvoudig de som van de relatieve atoommassa’s van de samenstellende ato-
+men. Een molecule water (H O) is opgebouwd uit 2 H-atomen en 1 O-atoom. 
+2
+ 
+   r.m.m. van H O  =  2 maal r.a.m. van H  +  1 maal r.a.m van O 
+2
+ 
+   
+r.m.m. van H O  =  2 x 1,0079  +  1 x 15,9996  =  18,0150 
+  2
+ 
+ 
+In de meeste gevallen en indien verantwoord worden de relatieve atoommassa’s uit 
+het Periodiek Systeem afgerond naar de dichtste gehele waarde. Voor een rationeel 
+gebruik van r.a.m.-waarden bij berekeningen verwijzen we naar de oefeningen. 
+ 
+In bepaalde verbindingen die niet voorkomen onder de vorm van moleculen (b.v. 
+NaCl) zijn de atomen (beter ionen) gebonden volgens andere chemische structuren. 
+Het is dan ook in dit verband niet helemaal correct te spreken over de relatieve mole-
+cuulmassa maar eerder over de relatieve formulemassa. Dit getal refereert naar de 
+stoechiometrische formule van de verbinding (zie verder). Om een te groot aantal 
+verschillende begrippen te mijden, zullen we toch in deze situaties de term relatieve 
+molecuulmassa blijven gebruiken. 
+ 
+ 
+3.2  Het begrip mol 
+ 
+Het uitdrukken van de massa van een atoom in kg resulteert in bijzonder onhandig 
+kleine getalwaarden. Dit werd in vorige paragraaf opgevangen door het invoeren van 
+het begrip r.a.m. Het omvatten van een aantal atomen of moleculen voor een in de 
+praktijk realistische hoeveelheid materie, levert in dit geval gigantisch grote getal-
+waarden op. Ook hier zullen we een nieuwe eenheid invoeren. De mol is het aantal 
+koolstofatomen in exact 12,00 g 12C-atomen of algemener uitgedrukt 
+ 
+ 
+Een mol atomen is het aantal atomen waarvan de totale massa uitgedrukt in g 
+precies correspondeert met het getal dat de r.a.m. aangeeft. 
+ 
+ 
+Een mol moleculen is het aantal moleculen waarvan de totale massa uitgedrukt in g 
+precies correspondeert met het getal dat de r.m.m. aangeeft. Algemene Scheikunde : Hfst. I  Stoechiometrie in verbindingen en reacties  14
+Dit  kan  beter  worden  ingezien  met  het 
+volgende  gedachtenexperiment.  Stel  dat 
+we  zouden  beschikken  over  een  balans 
+1 mol O-atomen 
+en een voorraad vrije ongebonden zuur-
+stofatomen (is in realiteit niet mogelijk). De 
+r.a.m. van zuurstof bedraagt 15,9996. We 
+gieten  O-atomen  op  de  balans  tot  wan-
+neer de uitlezing een massa van precies 
+15,9996 g aangeeft. Op dat moment heb-
+ben we exact 1 mol O-atomen afgemeten 
+(zie figuur hiernaast). 
+  15,9996 g 
+Hetzelfde kunnen we doen met watermo-
+leculen (wel in praktijk mogelijk). We we-
+gen  water  af  tot  de  uitlezing  precies 
+18,0150  g  aangeeft.  We  hebben  op  dat 
+moment precies 1 mol watermoleculen. 
+ 
+Het aantal deeltjes (atomen of moleculen) in 1 mol wordt gegeven door het getal van 
+Avogadro en bedraagt 
+ 
+    N   =  6,022 1023 
+A
+ 
+ 
+Op die manier zien we dat de r.a.m. (respectievelijk r.m.m.) de massa in g weergeeft 
+van 1 mol atomen (respectievelijk moleculen). Hoewel de r.a.m. (r.m.m.) per definitie 
+een onbenoemd getal is, kunnen we ze toch de eenheden g.mol-1 meegeven. 
+ 
+ 
+3.3  Stoechiometrie in verbindingen 
+ 
+Volgens Dalton is een verbinding een combinatie van 2 of meerdere atoomsoorten 
+en dit in eenvoudige verhoudingen of anders uitgedrukt: het aantal atomen van elke 
+soort dat bindt met een andere zal zich verhouden in eenvoudige getallen. Hiermee 
+bedoelen we dat we b.v. geen verbinding zullen vinden waarin 29 C-atomen, 71 H-
+atomen en 53 O-atomen voorkomen maar bijvoorbeeld wel waarin 2 C-atomen, 6 H-
+atomen en 1 O-atoom met elkaar gecombineerd zijn. 
+ 
+In een chemische formule schrijven we de symbolen van de samenstellende atomen 
+achter elkaar (volgorde is voorlopig onbelangrijk) en geven we het relatieve molaire 
+aandeel van elk atoom weer door een index te plaatsen bij het elementsymbool. We 
+maken hierbij gebruik van de kleinst mogelijke getallen. 
+ 
+   C H O   of beter  C H O 
+2 6 1 2 6
+ 
+ 
+Deze getallen die de verhoudingen weergegeven tussen de samenstellende atomen 
+dienen experimenteel bepaald te worden. De formule die eruit resulteert, noemen we 
+de empirische formule. 
+ Algemene Scheikunde : Hfst. I  Stoechiometrie in verbindingen en reacties  15
+Rekenvoorbeeld: Een chemische analyse levert dat 1,261 g van de moleculaire verbinding 
+caffeïne 0,624 g C, 0,065 g H, 0,364 g N en 0,208 g O bevat. Bepaal de empirische formule. 
+ 
+Opmerking vooraf: Gezien het onmogelijk is om een hoeveelheid atomen te ‘tellen’, is een 
+‘weging’ de enige manier om een hoeveelheid atomen af te meten. Dit levert ons uiteraard 
+een hoeveelheid uitgedrukt in g. Nochtans wensen we voor het opstellen van een chemische 
+formule geen massaverhoudingen maar wel molverhoudingen. Daarom bestaat de eerste 
+stap in het oplossen van dit en volgende problemen erin om de hoeveelheden van elke 
+atoomsoort om te rekenen van g naar mol. Dit bekomen we door de gemeten massa van 
+elke atoomsoort te delen door zijn eigen r.a.m. 
+ 
+0,624 g 0,065 g
+voor C = 0,052mol voor H = 0,065mol
+g g
+12,0 1,0
+mol mol
+ 
+0,364 g 0,208
+voor N = 0,026mol voor O = 0,013mol
+g g
+14,0 16,0
+mol mol
+ 
+ 
+Deze getallen geven een idee van de molverhoudingen maar zijn niet de meest eenvoudige 
+getallen. Daarom delen we elk van de 4 getallen door het kleinste van de vier. 
+ 
+0,052 mol 0,065mol 0,026 mol 0,013mol
+= 4C = 5 H = 2 N = 1O
+0,013mol 0,013mol 0,013mol 0,013mol
+ 
+Deze getallen geven aan dat in caffeïne per mol O-atomen er 2 mol N-atomen, 5 mol H-
+atomen en 4 mol C-atomen aanwezig zijn. De empirische formule wordt dan C H N O. 
+4 5 2
+ 
+Dit is niet noodzakelijk de werkelijke molecuulformule of m.a.w. 1 molecule caffeïne bevat 
+niet noodzakelijk 4 C-atomen, 5 H-atomen, 2 N-atomen en 1 O-atoom. Om de werkelijke 
+molecuulformule te achterhalen, dienen we de r.m.m. van caffeïne te kennen. Uit andere 
+experimentele metingen (zie verder) blijkt de r.m.m. 194 te bedragen. 
+ 
+We berekenen de som van de atoommassa’s in C H N O en bekomen de relatieve formule-
+4 5 2
+massa (r.f.m.) 
+ 
+(cid:1)
+r.a.m. = 4·12,0 + 5·1,0 + 2·14,0 + 1·16,0 = 97 
+ 
+194 is precies het dubbele van 97 waaruit we de werkelijke molecuulformule bekomen 
+ 
+  C H N O  
+8 10 4 2
+ 
+Rekenvoorbeeld: De moleculaire verbinding ethanol bevat de elementen C, H en O. Ver-
+branding van 5,00 g ethanol stelt 9,55 g CO  en 5,87 g H O vrij. Bereken de empirische for-
+2 2
+mule van ethanol. 
+Opmerking vooraf: Verbranding is de reactie met zuurstofgas (O ) uit de lucht. Volgens het 
+2
+principe van Lavoisier dient de massa van de eindproducten dezelfde te zijn als die van de 
+beginproducten. Hieruit kunnen we reeds afleiden dat bij de verbranding Algemene Scheikunde : Hfst. I  Stoechiometrie in verbindingen en reacties  16
+9,55g CO + 5,87 g H O - 5,00 g ethanol = 10,42 g O  
+2 2 2
+ 
+zal verbruikt worden. 
+ 
+Met behulp van de r.m.m. van CO  en H O berekenen we het aantal mol van elk 
+2 2
+ 
+9,55 g 5,87 g
+Voor CO = 0,22mol Voor H O = 0,33mol  
+2 g 2 g
+44 18
+mol mol
+ 
+In 0,22 mol CO  zitten evenveel d.i. 0,22 mol C-atomen en dubbel zoveel d.i. 0,44 mol O-
+2
+atomen. In 0,33 mol H O zitten 0,66 mol H-atomen en 0,33 mol O-atomen. Dit maakt in totaal 
+2
+ 
+  0,22 mol C-atomen of 0,22 x 12,0 = 2,64 g C-atomen 
+  0,66 mol H-atomen of 0,66 x  1,0 = 0,66 g H-atomen 
+  0,77 mol O-atomen of 0,77 x 16,0 = 12,32 g O-atomen 
+ 
+De C-atomen en de H-atomen vinden we bij de beginproducten uitsluitend in ethanol. De O-
+atomen zitten verdeeld over ethanol en O . 
+2
+In 5,00 g ethanol maken C (2,64 g) en H (0,66 g) samen 3,30 g van de massa uit. De rest 
+(5,00 g – 3,30 g) bestaat dus uit 1,70 g O-atomen of 0,11 mol. 
+ 
+0,11mol 0,66 mol 0,22 mol
+= 1O = 6 H = 2C   C H O 
+2 6
+0,11mol 0,11mol 0,11mol
+ 
+Gezien andere metingen een r.m.m. 46 opleveren, is dit ook de werkelijke molecuulformule. 
+ 
+ 
+3.4  Stoechiometrie in reacties 
+ 
+Beschouwen we de verbranding van methaangas (CH ) met zuurstofgas (O ) tot 
+4 2
+vorming van koolstofdioxide (CO ) en water (H O). We stellen deze omzetting che-
+2 2
+misch voor in een reactievergelijking door de beginproducten links te plaatsen en 
+de eindproducten rechts. De omzetting van de ene soort moleculen in de andere 
+symboliseren we met een reactiepijl. 
+ 
+CH    +   O     ﬁ    CO    +   H O 
+  4 2 2 2
+ 
+Deze vergelijking beschrijft welke moleculen met elkaar reageren en welke nieuwe er 
+worden uit gevormd. De theorie van Dalton leert dat tijdens een reactie geen atomen 
+kunnen verdwijnen en er ook geen worden bijgevormd. Het aantal atomen van elke 
+soort die we links aantreffen moet gelijk zijn aan het aantal van elke soort rechts. 
+Hieraan is in bovenstaande reactievergelijking kennelijk niet voldaan. De enige ver-
+andering bij chemische omzettingen is de wijze waarop de atomen met elkaar ge-
+combineerd zijn in de verschillende moleculen. Laat ons de knutseltoer opgaan en 
+starten met een voorraad van elk van de volgende twee figuren 
+ 
+ 
+ 
+ 
+ Algemene Scheikunde : Hfst. I  Stoechiometrie in verbindingen en reacties  17
+We krijgen de opdracht om de figuren (lees moleculen van de beginproducten) door 
+te knippen (lees bindingen breken) om afzonderlijke vierkanten (lees atomen) te be-
+komen en vervolgens de stukken aan elkaar te lijmen (lees nieuwe bindingen maken) 
+tot vorming van de volgende nieuwe figuren (lees moleculen van de eindproducten). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+We mogen slechts een minimum van elk van de beginvormen gebruiken en moeten 
+er voor zorgen dat alle stukken die we hebben geknipt, opnieuw worden verlijmd. De 
+enige manier om dit correct te doen, is als volgt: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Op analoge wijze kunnen we voor onze reactievergelijking enkel voldoen aan de the-
+orie van Dalton door te schrijven 
+ 
+   CH4   +   2 O2    ﬁ    CO2   +   2 H2O 
+ 
+Door het toevoegen van voorgetallen in de reactievergelijking (met uitzondering van 
+het getal 1 dat niet wordt geschreven) brengen we deze vergelijking stoechiometrisch 
+in orde. We kunnen deze stoechiometrische reactievergelijking interpreteren als 
+ 
+1 molecule CH  reageert met 2 moleculen O  tot vorming van 1 molecule CO  en 2 moleculen H O 
+4 2 2 2
+ 
+Een betere en meer bruikbare formulering luidt 
+ 
+1 mol CH  reageert met 2 mol O  tot vorming van 1 mol CO  en 2 mol H O 
+4 2 2 2
+ 
+ 
+Aldus reageren O  en CH  in een molverhouding 2/1 en worden H O en CO  ge-
+2 4 2 2
+vormd in een molverhouding van 2/1. 
+ 
+Nemen  we  als  tweede  voorbeeld  de  verbranding  van  ethaangas  (C H )  waarbij 
+2 6
+eveneens CO  en H O worden gevormd, dan krijgen we in eerste instantie 
+2 2
+ 
+  C H    +   O    ﬁ   CO    +   H O 
+2 6 2 2 2
+ 
+Na aanpassen van de voorgetallen wordt dit Algemene Scheikunde : Hfst. I  Stoechiometrie in verbindingen en reacties  18
+ 
+   2 C H    +   7 O    ﬁ   4 CO    +   6 H O 
+2 6 2 2 2
+ 
+ 
+We zorgen er dus voor dat we als voorgetallen steeds de kleinst mogelijke gehele 
+getallen gebruiken. De molverhouding waarin O  en C H  reageren, bedraagt 7/2 en 
+2 2 6
+die waarin H O en CO  worden gevormd is 6/4 of 3/2. 
+2 2
+ 
+Op het ogenblik dat we de stoechiometrische reactievergelijking hebben opgesteld, 
+zijn we in staat te berekenen hoeveel mol en hoeveel g van de reactieproducten 
+wordt gevormd door reactie van een gegeven hoeveelheid beginproducten. 
+ 
+ 
+Rekenvoorbeeld: We verbranden 10 g methaangas met een overmaat zuurstofgas. Met 
+overmaat wordt bedoeld: ruim voldoende om al het methaan te laten weg reageren. Hoeveel 
+g CO  en hoeveel g H O wordt hierbij gevormd? 
+2 2
+ 
+ 
+CH4  +  2 O2  ﬁ  CO2  +  2 H2O 
+             
+10 g    overmaat         
+/16             
+0,625 mol        0,625 mol    1,250 mol 
+x 16        x 44    x 18 
+10 g    40 g    27,5 g    22,5 g 
+             
+  50 g        50 g   
+      Wet van  Lav oisier     
+    OPGEBRUIKT          GEVORMD 
+ 
+ 
+ 
+Rekenvoorbeeld: We laten 10 g methaangas reageren met 10 g zuurstofgas. Hoeveel g CO  
+2
+en hoeveel g H O wordt gevormd? 
+2
+Bij de berekening respecteren we opnieuw de molverhoudingen voor de verschillende pro-
+ducten in de reactievergelijking. 
+ 
+ 
+CH +  2 O ﬁ  CO   +  2 H O 
+4  2  2 2
+             
+10 g    10 g         
+/16    /32         
+0,625 mol    0,3125 mol         
+ 
+ 
+Hier stelt zich een probleem: welk van de twee producten is in overmaat ? 
+Om 0,625 mol CH  te laten reageren is dubbel zoveel of 1,250 mol O  nodig en zoveel is niet 
+4 2
+voorhanden. Om 0,3125 mol O  te laten reageren is slechts de helft of 0,15625 mol CH  no-
+2 4
+dig en daarvan is ruim voldoende aanwezig. De reactie zal ophouden op het moment dat alle 
+O  is opgebruikt. Er rest dan nog een overmaat CH  dat bij gebrek aan O  niet meer kan 
+2 4 2
+worden omgezet. O  is stoechiometrisch het minst voorhanden en wordt daarom beperkend 
+2
+reagens genoemd. We kunnen nu verder rekenen vertrekkende van het beperkend reagens. 
+ Algemene Scheikunde : Hfst. I  Stoechiometrie in verbindingen en reacties  19
+ 
+CH +  2 O ﬁ  CO   +  2 H O 
+4  2  2 2
+             
+0,15625 mol    0,3125 mol    0,15625 mol    0,3125 mol 
+x 16    x 32    x 44    x 18 
+2,5 g    10 g    6,875 g    5,625 g 
+             
+7,5 g overschot  12,5 g        12,5 g   
+ 
+ 
+ 
+Rekenvoorbeeld: 20 g ethaan en 50 g chloorgas worden samengebracht in een reactievat 
+waarbij C H Cl  en HCl worden gevormd. Hoeveel g HCl wordt bekomen? 
+2 3 3
+ 
+ 
+C H   +  3 Cl   ﬁ  C H Cl +  3 HCl 
+2 6 2 2 3 3 
+             
+20,0 g    50,0 g         
+/30    /70,9         
+0,667 mol    0,705 mol         
+ 
+Hoewel er in absolute hoeveelheid meer Cl  dan C H  voorhanden is, zal Cl  toch eerst zijn 
+2 2 6 2
+opgebruikt omwille van de molverhouding 3/1 in de reactievergelijking. Cl  verdwijnt 3 keer 
+2
+zo snel als C H  en Cl  is voor de gegeven experimentele hoeveelheden het beperkend rea-
+2 6 2
+gens. 
+ 
+ 
+C H   +  3 Cl   ﬁ  C H Cl +  3 HCl 
+2 6 2 2 3 3 
+             
+0,235 mol    0,705 mol    0,235 mol    0,705 mol 
+x 30    x 70,9    x 133,35    x 36,45 
+7,05 g    50,0 g    31,34 g    25,70 g 
+12,95 g overschot             
+ 
+4  Thermochemische aspecten van reacties 
+4.1  Warmte-uitwisseling bij chemische reacties 
+ 
+Bijna alle chemische reacties gaan gepaard met het uitwisselen van energie. De 
+meest voor de hand liggende en praktisch meetbare vorm van energie uitgewisseld 
+bij reacties, is warmte. Wij ervaren warmte als een zintuiglijk gevoel doch het begrip 
+warmte is in feite het resultaat van een verplaatsing van materiedeeltjes. In een gas 
+bij hoge temperatuur bewegen de aanwezige moleculen met een veel grotere snel-
+heid dan bij lage temperatuur en is de temperatuur een maat voor de gemiddelde 
+kinetische energie van de deeltjes. Bij de meeste chemische reacties in onze leefom-
+geving wordt warmte vrijgesteld (exotherm). Toch bestaan er omzettingen waarbij 
+warmte wordt opgenomen (endotherm). Verder in deze cursus komen hiervan voor-
+beelden aan bod.  
+ 
+Gezien warmte kan worden uitgewisseld bij chemische omzettingen, mogen we ver-
+onderstellen dat die warmte op de een of andere ongedefinieerde vorm op voorhand Algemene Scheikunde : Hfst. I  Stoechiometrie in verbindingen en reacties  20
+in chemische verbindingen aanwezig is. In hoofdstuk III zullen we uitleggen dat deze 
+‘warmte-inhoud’ te maken heeft met de sterkte van chemische bindingen. Voorlopig 
+is het voldoende om heel rudimentair aan te nemen dat elke molecule een voorraad 
+warmte in zich draagt en dat een gedeelte hiervan kan worden losgemaakt en afge-
+geven (bij een exotherme reactie) wanneer de samenstellende atomen zich hercom-
+bineren tot vorming van nieuwe moleculen. Voor een endotherme reactie veronder-
+stellen we dan dat van buiten af extra warmte wordt aangevoerd om de warmtevoor-
+raad in de nieuwgevormde moleculen aan te vullen. Op het precieze mechanisme 
+van chemische reacties wordt dieper ingegaan in hoofdstuk VI. 
+ 
+Om het proces van warmte-uitwisseling bij reac-
+ties beter te structureren, definiëren we vooraf een 
+aantal begrippen. Het systeem is die plaats waar 
+SYSTEEM 
+de  reagerende  bestanddelen  zich  bevinden  en 
+waar (chemische of fysische) omzettingen gebeu-
+ren. In vele gevallen is dit systeem niet meer dan 
+een beker of een vat waarin de reactie plaatsvindt. 
+q > 0  q < 0 
+Alles wat zich buiten het systeem bevindt, noemen 
+we de omgeving. Bij exotherme reacties stroomt 
+warmte (q) uit het systeem naar de omgeving. Het 
+OMGEVING 
+is vanuit het standpunt van het systeem bekeken 
+een verlies aan warmte en dus definiëren we q 
+negatief (q < 0). Voor endotherme reacties definië-
+ren we q > 0. 
+ 
+Nemen we opnieuw de eerder gebruikte reactie voor de verbranding van methaan 
+met zuurstofgas en laten we deze reactie doorgaan bij een temperatuur T = 25° C 
+(neem aan: kamertemperatuur) en een druk van 1 bar of 100 kPa (neem aan: de bij-
+na normale atmosferische druk). In de stoechiometrische reactievergelijking vermel-
+den we de aggregatietoestand van alle producten zoals die zich normaal voordoet bij 
+deze temperatuur en druk. Water is in die omstandigheden vloeibaar (vl), de andere 
+componenten zijn gasvormig (g). 
+ 
+   
+CH    +   2 O    ﬁ   CO    +   2 H O  
+  4 (g) 2 (g) 2 (g) 2  (vl)
+ 
+Wanneer in deze omstandigheden 1 mol gasvormig CH  met 2 mol gasvormig O  
+4 2
+wordt omgezet tot 1 mol gasvormig CO  en 2 mol vloeibaar H O, dan wordt hierbij 
+2 2
+890.500 J of 890,5 kJ aan warmte vrij gesteld. Hoe dit experimenteel kan worden 
+gemeten, wordt verder besproken. De uitgewisselde warmte (exotherm proces) be-
+draagt voor deze reactie dus q = - 890,5 kJ per mol CH  en per 2 mol O  of  
+4 2
+ 
+    q = - 890,5 kJ.mol-1 
+ 
+ 
+waarbij ‘per mol’ of mol-1 hierbij slaat op ‘per mol reactievergelijking’ met de voorge-
+tallen zoals ze er in voorkomen. Dit betekent ‘per 1 mol CH ’ en ‘per 2 mol O ’. 
+4 2
+ 
+ 
+ Algemene Scheikunde : Hfst. I  Stoechiometrie in verbindingen en reacties  21
+4.2  Enthalpie van een chemisch systeem 
+ 
+Wanneer we in bovenstaand voorbeeld er kunnen voor zorgen dat tijdens de reactie 
+druk en temperatuur niet veranderen, dan werken we in omstandigheden van een 
+constante druk en een constante temperatuur. De uitgewisselde warmte q  wordt in 
+P,T
+deze omstandigheden de enthalpieverandering (DDDDH) van de reactie genoemd. Door 
+deze DH toe te voegen aan de stoechiometrische reactievergelijking, bekomen we de 
+thermochemische reactievergelijking. 
+ 
+ CH     +   2 O    ﬁ   CO    +   2 H O      q   =  DH = - 890,5 kJ.mol-1 
+4 (g) 2 (g) 2 (g) 2  (vl) P,T
+ 
+ 
+ 
+Om aan de voorwaarden van constante druk en temperatuur te voldoen, dienen we 
+een aantal voorzorgen te nemen. Enkel gasvormige componenten bouwen een druk 
+op, vloeistoffen en vaste stoffen doen dit niet. Indien bij een chemische reactie een 
+groter aantal mol gasvormige eindproducten zou gevormd worden dan er gasvormige 
+beginproducten verdwijnen, dan zou de druk in een gesloten vat toenemen. In het 
+andere geval (zoals in het aangehaalde voorbeeld), zal de druk dalen. We kunnen 
+dat probleem oplossen door een open vat te nemen waardoor de drukverandering 
+kan worden opgevangen door de bijna oneindig grote omringende omgeving. De 
+luchtdruk verandert immers niet omdat wij ergens een reactie laten doorgaan. Het 
+nadeel hierbij is dat onze beginproducten reeds zouden ontsnappen vooraleer de 
+reactie aanvangt. 
+  P
+atm. 
+Dit kan vermeden worden door een gesloten vat te 
+nemen waarvan het volume zich kan aanpassen aan 
+de drukverandering binnenin (b.v. een vat met een 
+wrijvingsloze  beweegbare  zuiger).  Bij  een  drukver-
+hoging (verlaging) zal het vat dan expanderen (in-
+krimpen) waardoor de inwendige druk gelijk blijft aan 
+P = cte 
+de uitwendige atmosferische druk (neem 100 kPa of 
+1 bar). 
+ 
+Het  constant  houden  van  de  temperatuur  is  een  moeilijker  aangelegenheid.  Be-
+schouwen we als systeem een brandende kachel, dan wordt deze kachel door de 
+optredende reactie zeer heet. Zelfs na uitdoven blijft hij nog geruime tijd warm om 
+pas na verloop van tijd in thermisch evenwicht te komen met de omgeving. De warm-
+te heeft dus veel tijd nodig om uit het systeem naar de omgeving te vloeien en de 
+temperatuur voor en na reactie is niet dezelfde. Bij een installatie van centrale ver-
+warming wordt de geproduceerde warmte sneller afgevoerd door het constant koelen 
+van de stookketel via een watercircuit. Hoe degelijk de installatie ook moge zijn, er 
+bestaat in de praktijk geen enkel toestel dat in staat is de warmte oneindig snel af te 
+voeren waardoor een temperatuursstijging van het systeem niet kan vermeden wor-
+den. In het beste geval is de temperatuursverandering minimaal waardoor we het 
+principe van constante temperatuur als goede benadering van de ideale toestand 
+kunnen aanvaarden. We zullen deze ideale toestand van constante temperatuur ver-
+onderstellen in wat volgt om te complexe wiskundige berekeningen te vermijden. 
+ 
+Wanneer bij een chemische reactie een enthalpieverandering (DH) optreedt, dan 
+hebben eind- en beginproducten een verschillende absolute enthalpie (H). We be-Algemene Scheikunde : Hfst. I  Stoechiometrie in verbindingen en reacties  22
+schouwen de enthalpie van een systeem als de ‘warmte-inhoud’ ervan die enkel en 
+alleen bepaald wordt door de temperatuur, de druk, de aggregatietoestand van de 
+aanwezige componenten en de samenstelling. DH van een chemische reactie wordt 
+hierdoor enkel bepaald door de begin- en eindtoestand. 
+ 
+   DH  =  H  - H
+eind begin 
+ 
+ 
+H 
+Op een enthalpie-as kunnen we deze begin- en 
+1 mol CH   +  2 mol O  
+4 (g) 2 (g)
+eindtoestand uitzetten. De enthalpieverandering 
+? 
+is meetbaar door experimenten uit te voeren die 
+de ideale toestand (zie boven) benaderen. De 
+DH = q  = - 890,5 kJ.mol-1 
+absolute  enthalpie  daarentegen  kan  niet  be-  P,T
+paald  worden.  Dit  lijkt  jammer  gezien  boven-
+staande formule ons zou toelaten DH-waarden  ? 
+voor verschillende reacties te berekenen i.p.v. 
+1 mol CO   +  2 mol H O  
+experimenteel  te  bepalen.  Hoe  dit  probleem  2 (g) 2  (vl)
+kan worden omzeild, volgt later. 
+ 
+ 
+4.3  Bewerkingen met reactievergelijkingen (regels van de thermochemie) 
+ 
+In een stoechiometrische reactievergelijking worden de kleinst mogelijke voorgetallen 
+geschreven. Bij een thermochemische reactievergelijking worden soms veelvouden 
+van deze voorgetallen gebruikt in functie van de bijhorende DH. Op die manier kun-
+nen enkele regels worden geformuleerd als hulpmiddel voor later gebruik. Deze re-
+gels houden niet meer in dan het bewerken van reactievergelijkingen op dezelfde 
+manier als mag gedaan worden met mathematische vergelijkingen. Of een reactie in 
+werkelijkheid al dan niet kan doorgaan, speelt hierbij geen rol. Enkel de regels van 
+de stoechiometrie dienen te worden gerespecteerd. 
+ 
+ 
+DH is recht evenredig met de hoeveelheid gevormde en weggereageerde stoffen 
+ 
+ 
+Dit betekent zoveel als schrijven dat wanneer we alle voorgetallen uit een reactiever-
+gelijking vermenigvuldigen met hetzelfde getal, we dat ook moeten doen voor de 
+numerieke waarde van DH. 
+ 
+ 
+   
+2 CH    +   4 O    ﬁ   2 CO    +   4 H O   q   =  DH = - 1.781 kJ 
+4 (g) 2 (g) 2 (g) 2  (vl) P,T
+ 
+ 
+ 
+ 
+½ CH    +   O    ﬁ    ½ CO    +   H O     q   =  DH = - 445,25 kJ 
+  4 (g) 2 (g) 2 (g) 2  (vl) P,T
+ 
+ 
+ 
+Rekenvoorbeeld: Hoeveel bedraagt DH wanneer een hoeveelheid methaan reageert met 
+15,0 g zuurstofgas volgens bovenstaande reactie bij constante T en P ? 
+   Algemene Scheikunde : Hfst. I  Stoechiometrie in verbindingen en reacties  23
+ 
+Voor 1 mol of 32 g O  bedraagt   DH = - 445,25 kJ 
+2
+ 
+- 445,25
+  Voor 1 g        DH =   kJ 
+32
+ 
+- 445,25
+  Voor 15,0 g        DH =  ·15,0 = - 208,7 kJ 
+32
+ 
+ 
+ 
+Het omgekeerd schrijven van een reactie verandert enkel het teken van DH 
+ 
+ 
+Dit betekent zoveel als het vermenigvuldigen van alle voorgetallen en de numerieke 
+waarde van DH met een factor (–1). Uiteraard kan deze reactie in de praktijk niet 
+worden uitgevoerd. Hierop wordt later verder ingegaan. 
+ 
+   
+CO    +   2 H O    ﬁ   CH    +   2 O     q   =  DH = + 890,5 kJ 
+2 (g) 2  (vl) 4 (g) 2 (g) P,T
+ 
+ 
+ 
+ 
+Wanneer een reactievergelijking kan worden samengesteld door de som van twee 
+andere reactievergelijkingen, dan dienen de individuele DH-waarden eveneens te 
+worden gesommeerd (dit is de wet van Hess) 
+ 
+ 
+Voor de volgende reacties kan experimenteel DH worden bepaald 
+ 
+  C    +   O    ﬁ   CO        DH  = - 393,5 kJ  (1) 
+ (v) 2 (g) 2 (g) 1
+ 
+  2 CO    +   O    ﬁ   2 CO       DH  = -566,0 kJ  (2) 
+ (g) 2 (g) 2 (g) 2
+ 
+ 
+Het is evenwel niet mogelijk om DH experimenteel te meten voor 
+ 
+  2 C    +   O    ﬁ   2 CO             (3) 
+ (v) 2 (g)  (g)
+ 
+ 
+We vermenigvuldigen daarom reactievergelijking (1) met een factor 2 en schrijven 
+reactievergelijking (2) omgekeerd. Vervolgens tellen we de bekomen reactievergelij-
+kingen bij elkaar op en dezelfde bewerkingen voeren we uit met DH  en  DH . 
+1 2
+ 
+    2 C    +   2 O       2 CO    
+ (v) 2 (g) 2 (g)
+            ﬁ 
+            2 CO       2 CO    +   O   
+2 (g)  (g) 2 (g)
+ 
+ 
+Wat overblijft, is reactievergelijking (3) waarvoor DH  = 2 DH  - DH   =  - 221,0 kJ 
+3 1 2
+ Algemene Scheikunde : Hfst. I  Stoechiometrie in verbindingen en reacties  24
+ 
+ 
+H 
+ 
+2 mol C(v)  +  2 mol O  
+  2 (g)
+ 
+? 
+ 
+  DH  = 2.DH  - DH   =  - 221,0 kJ 
+3 1 2
+ 
+? 
+ 
+2 mol CO   +  1 mol O  
+   (g) 2 (g)
+ 
+2.DH  = - 787,0 kJ 
+  1
+  DH  = - 566 kJ 
+2
+ 
+ 
+2 mol CO  
+  2 (g)
+? 
+ 
+ 
+ 
+ 
+ 
+4.4  Standaard molaire vormingsenthalpie 
+ 
+Ondanks de mogelijkheid om met behulp van de bovenstaande regels DH-waarden 
+voor sommige reacties te berekenen en het bepalen ervan via experimenten (zie 
+verder), ware het handiger om te beschikken over tabellen met absolute enthalpie-
+waarden. Zoals reeds vermeld kunnen absolute enthalpieën niet worden bepaald. Er 
+bestaat evenwel een omweg waardoor het mogelijk wordt voor elke willekeurige re-
+actie DH eenvoudig te berekenen. Het enige wat dient te gebeuren is op de enthal-
+pie-as een arbitrair nulpunt in te voeren. 
+ 
+Vergelijken we deze werkwijze met de eerste versie van een thermometer: een capil-
+laire buis met onderaan een kwikreservoir. Wanneer de kwikvloeistof wordt opge-
+warmd, stijgt het kwikniveau in de buis. Bij afkoelen daalt dit niveau. Zolang de ther-
+mometer niet wordt geijkt, kunnen we alleen maar warm (hoge kwikstand) en koud 
+(lage kwikstand) aflezen. Analoog kunnen we van een niet geijkte enthalpie-as alleen 
+maar afleiden of een verbinding stabiel (lage enthalpie en sterke bindingen) of niet 
+stabiel (hoge enthalpie en zwakkere bindingen) is. 
+ 
+Onze thermometer wordt een echte temperatuurschaal op het ogenblik dat we een 
+nulpunt aanbrengen (b.v. een merkstreep plaatsen bij het kwikniveau wanneer de 
+thermometer zich in smeltend ijs bevindt) en dit herhalen wanneer we de thermome-
+ter in kokend water onderdompelen. Op die manier ging Celsius te werk. Hij schreef 
+bij de 2 merkstrepen respectievelijk 0 °C en 100 °C en verdeelde de afstand tussen 
+beide in 100 gelijke delen. Het enige wat hierbij dient onthouden te worden, zijn de 
+omstandigheden waarvoor het nulpunt werd gekozen. 
+ 
+ 
+ 
+ Algemene Scheikunde : Hfst. I  Stoechiometrie in verbindingen en reacties  25
+We zullen nu op de enthalpie-as eveneens een 
+nulpunt  aanbrengen  en  erbij  vermelden  aan 
+welke stoffen wij arbitrair een enthalpie H = 0  H  T 
+toekennen. We doen dit voor  
+  smeltend 
+  ijs 
+H = 0 
+alle enkelvoudige stoffen van alle elementen in 
+hun meest stabiele toestand bij een standaard 
+0° C 
+temperatuur van 25 °C en een standaard druk 
+van 100 kPa (1 bar) 
+ 
+ 
+Als enkelvoudige stoffen nemen we de verschillende elementen onder de vorm zoals 
+ze normaal voorkomen (b.v. metalen in een metaalrooster, niet metalen zoals kool-
+stof, zwavel, fosfor … in amorfe of kristalvorm) maar ook moleculen (O , H  en N ) 
+2 2 2
+die slechts bestaan uit 1 atoomsoort. 
+Soms zijn er voor een enkelvoudige stof meerdere vormen mogelijk (b.v. koolstof als 
+grafiet of diamant). In dit geval wordt de meest stabiele vorm bij 25 °C en 100 kPa 
+gekozen. Indien er meerdere aggregatietoestanden mogelijk zijn (b.v. vaste of vloei-
+bare zwavel) dan is het die aggregatietoestand die normaal voorkomt bij 25 °C en 
+100 kPa. 
+ 
+Laten we nu van een bepaalde molecuul-
+soort 1 mol vormen door reactie uitgaan-
+H 
+de van een gepaste hoeveelheid van de 
+enkelvoudige stoffen (in de meest stabiele  1 mol H2 (g)  +  ½ mol O2 (g) 
+toestand) die de atomen bevatten waaruit  0 
+de molecule is samengesteld en dit bij de 
+standaard temperatuur van 25 °C en de  DH = - 285,8 kJ. 
+standaard druk van 100 kPa en we bepa-
+len experimenteel de reactie-enthalpie DDDDH, 
+DH°  
+dan bekomen we de standaard molaire  v
+vormingsenthalpie (DDDDH°v) van deze ver- 1 mol H2O (vl) 
+binding.  
+ 
+Gezien   
+ 
+  DH  =  H  - H  
+eind begin
+ 
+ 
+en  gezien  bij  definitie  H   gelijk  is  aan  0,  is  in  dit  geval  de  gemeten  reactie-
+begin
+enthalpie gelijk aan DH°  . 
+v
+ 
+ 
+H    +   ½ O    ﬁ   H O    DH  =  (cid:6)H°   =  - 285,8 kJ 
+  2 (g) 2 (g) 2  (vl) v
+ 
+De DH° -waarden voor alle moleculen zijn terug te vinden in tabellen (zie achteraan 
+v
+deze cursus). Uiteraard is de DH° -waarde voor de enkelvoudige stoffen gelijk aan 0. 
+v
+ 
+Voor een willekeurige reactie wordt de DH berekend door Algemene Scheikunde : Hfst. I  Stoechiometrie in verbindingen en reacties  26
+ 
+(cid:1)( ) (cid:1)( )
+DH = DH0 - DH0  
+v eindproducten v beginproducten
+ 
+ 
+Rekenvoorbeeld: Bereken de reactie-enthalpie voor de verbranding van 1 mol methaangas. 
+ 
+CH    +   2 O    ﬁ   CO    +   2 H O  
+4 (g) 2 (g) 2 (g) 2  (vl)
+ 
+[ ] [ ]
+( ) ( ) ( ) ( )
+DH = DH0 + 2· DH0 - DH0 + 2· DH0
+v CO v H O v CH v O
+2(g) 2 (vl) 4(g) 2(g)
+ 
+DH = [-393,5 + 2·(-285,8)]-[-74,6 + 2·0] = -890,5 kJ
+ 
+4.5  Calorimetrie 
+ 
+Voor vele reacties is het mogelijk de reactiewarmte rechtstreeks te meten. Deze me-
+tingen worden uitgevoerd in een calorimeter. Voor reacties in oplossing en waarbij 
+geen gasvormige componenten aan de reactie deelnemen, volstaat een gewone 
+calorimeter die open is aan de lucht waardoor de druk als dusdanig constant blijft. 
+Een beker met een isolerende wand (b.v. polyethyleen) kan hiervoor worden ge-
+bruikt. 
+ 
+De warmte die wordt vrijgesteld door de 
+reactie, wordt opgenomen door het aan-
+wezige water waarvan de temperatuurtoe-
+thermometer 
+name  vervolgens  wordt  gemeten.  Wan-
+neer ervoor wordt gezorgd dat geen al te 
+grote  temperatuursveranderingen  optre-
+den, gaat de reactie door in omstandighe-
+water 
+den  van  quasi  constante  temperatuur 
+waardoor de meting van de reactiewarmte 
+rechtstreeks de reactie-enthalpie oplevert. 
+Beker in polyethyleen 
+ 
+Voor de berekening definiëren we vooraf enkele begrippen 
+ 
+De warmtecapaciteit (C) van een voorwerp is de hoeveelheid warmte nodig om de 
+temperatuur ervan met 1 °C te laten toenemen 
+ 
+Voor een willekeurige temperatuursverandering DT wordt de warmte 
+ 
+   
+q = C x DT  met DT = T  - T  
+eind begin
+ 
+ 
+ 
+De soortelijke warmte (s.w.) van een bestanddeel is de hoeveelheid warmte nodig 
+om 1 g ervan met 1 °C op te warmen 
+ Algemene Scheikunde : Hfst. I  Stoechiometrie in verbindingen en reacties  27
+Om een willekeurige hoeveelheid (met massa m) een willekeurige verandering van 
+temperatuur te laten ondergaan, is de warmte 
+ 
+   
+q = s.w. x m x DT 
+ 
+ 
+De calorimeter wordt gevuld met een gekende hoeveelheid water bij een gekende 
+begintemperatuur.  Wanneer  door  een  reactie  een  bepaalde  hoeveelheid  warmte 
+wordt vrijgesteld en opgenomen door het water (s.w. = 4,18 J.g-1 °C-1) dat hierdoor 
+een temperatuurstoename DT ondergaat, dan bekomen we eenvoudig 
+ 
+  q   =  q   =  - q   =  - s.w.    x  m   x  DT 
+reactie p water water water
+ 
+Gezien gewerkt wordt in omstandigheden van constante druk en +/- constante tem-
+peratuur, bekomen we hierdoor rechtstreeks DH. 
+ 
+ 
+Rekenvoorbeeld: In een gewone calorimeter wordt de reactie uitgevoerd tussen Ni-metaal en 
+Cu-ionen. De calorimeter is gevuld met 125 g water bij een temperatuur van 25 °C. Bij de 
+reactie wordt 1 g Cu-metaal gevormd waarbij de temperatuur van het water toeneemt tot 
+28,87 °C. Bereken DH voor de vorming van 1 mol Cu. 
+ 
+  Ni    +   Cu2+     ﬁ    Ni2+    +   Cu  
+ (v) (opl) (opl)  (v)
+ 
+ 
+  q    =   - q    =   - (s.w.   x  m   x  DT) 
+reactie water  water water
+ 
+  q    =   - (4,18 x 125 x 3,87)   =   - 2.022 J 
+reactie
+ 
+ 
+Er wordt 2.022 J aan warmte vrijgesteld bij de vorming van 1 g Cu. Voor de vorming van 1 
+mol Cu (zoals in de reactievergelijking) zou er dan 63,5 (r.a.m. van Cu) keer meer warmte of 
+128.400 J worden vrijgesteld. Op die manier wordt de reactie-enthalpie 
+ 
+  Ni    +   Cu2+     ﬁ    Ni2+    +   Cu     DH = - 128,4 kJ 
+ (v) (opl) (opl)  (v)
+ 
+ 
+ 
+Bij  reacties  waarbij  gassen  worden  ge-
+vormd,  moet  vermeden  worden  dat  de 
+reagerende bestanddelen uit het reactie-
+thermometer 
+vat ontsnappen. Daarom moet de calori-
+meter worden afgesloten. Dit kan worden 
+bereikt  door  gebruik  te  maken  van  een 
+bomcalorimeter.  We  voegen  er  hierbij 
+wel  onmiddellijk  aan  toe  dat  reacties  in 
+water 
+een bomcalorimeter niet kunnen doorgaan 
+onder  omstandigheden  van  constante 
+druk maar wel bij constant volume gezien  verbrandings-
+oven 
+de gevormde gassen zich ophopen binnen 
+het constante volume. Algemene Scheikunde : Hfst. I  Stoechiometrie in verbindingen en reacties  28
+4.6  Inwendige energie 
+ 
+In wat voorafging hebben we enkel warmte beschouwd als enige energievorm die bij 
+chemische reacties kan worden uitgewisseld. Een reactie kan evenwel ook energie 
+vrijmaken onder andere vormen. Het resultaat van een explosie van een springstof is 
+het gevolg van het leveren van arbeid (A) door het systeem op de omgeving. De bij 
+deze reactie vrijgemaakte gassen worden zodanig snel gevormd dat ze bij hun ex-
+pansie alles in de onmiddellijke omgeving meesleuren. Net zoals we hebben gedaan 
+bij het definiëren van warmte mogen we stellen dat deze vorm van energie, die we 
+volumeveranderingsarbeid noemen, en die bij een reactie wordt vrijgemaakt, voor-
+af onder de een of andere vorm in de bindingen van de reagerende bestanddelen 
+aanwezig was. Op het echte mechanisme van chemische reacties wordt later in deze 
+cursus verder ingegaan. 
+ 
+We stellen daarom dat in ieder reactiemengsel (het systeem) een hoeveelheid ener-
+gie opgesloten is (de Inwendige Energie) die bij chemische reacties gedeeltelijk aan 
+de omgeving kan worden afgestaan onder de vorm van warmte en/of arbeid. Deze 
+inwendige energie omvat de som van alle mogelijke vormen aan potentiële en kineti-
+sche energie die aanwezig zijn in de reagerende moleculen.  
+De verandering in inwendige energie van een 
+systeem  is  dan  de  som  van  de  vrijgestelde 
+SYSTEEM 
+warmte en de geleverde arbeid. Om redenen 
+waarop  we  niet  zullen  ingaan,  definiëren  we 
+warmte en arbeid door een tegengesteld teken. 
+Voor warmte die door het systeem wordt afge-
+geven aan de omgeving hebben we q < 0 ge-
+steld.  Voor  arbeid  daarentegen  die  door  het 
+A > 0  q < 0 
+systeem  wordt  geleverd  (=  afgestaan  aan de 
+omgeving), stellen we A > 0. Om die reden is 
+de  verandering  in  inwendige  energie  niet  de 
+som van warmte en geleverde arbeid maar wel  OMGEVING 
+het verschil tussen beide. 
+ 
+   
+  DE  =  q  -  A 
+ 
+Arbeid wordt geleverd op een voorwerp wanneer tengevolge van het uitoefenen van 
+een kracht (F), een verplaatsing Dx van het voorwerp tot stand komt. De geleverde 
+arbeid wordt dan gegeven door A = F.Dx. Wanneer de uitgeoefende kracht geen ver-
+plaatsing veroorzaakt, wordt er ook geen arbeid geleverd. Een gas dat tengevolge 
+van een druk (P = F/opp.) expandeert, veroorzaakt een volumeverandering DV. Deze 
+volumeverandering is een verplaatsing in 3 dimensies tegelijkertijd. Analoog kan de 
+geleverde arbeid dan worden uitgedrukt als P.DV. Zonder volumeverandering is er 
+ook geen arbeid geleverd. 
+ 
+Volumeverhoging is het gevolg van een toename van het aantal mol gasmoleculen 
+t.g.v. de reactie want volgens de ideale gaswet P.V = n.R.T is het volume van een 
+gas bij een constante druk en een constante temperatuur recht evenredig met het 
+aantal mol gasmoleculen. Aldus kunnen we voor de geleverde arbeid schrijven 
+ Algemene Scheikunde : Hfst. I  Stoechiometrie in verbindingen en reacties  29
+   
+A  =  P.DV  =  Dn  . R.T 
+  g
+ 
+Voor een reactie uitgevoerd bij een constant volume (DV = 0 en bijgevolg ook A = 0) 
+zoals het geval is in een bomcalorimeter, bekomen we voor de verandering in inwen-
+dige energie 
+ 
+   
+DE  =  q    -  A  =  q   -  P.DV  =  q  
+  V,T  V,T  V,T
+ 
+De reactiewarmte gemeten in een bomcalorimeter, levert dus onmiddellijk de waarde 
+voor DE gezien de vrijgemaakte inwendige energie uitsluitend als warmte wordt af-
+gegeven.  
+ 
+Voor een reactie uitgevoerd bij constante druk en waarvoor DV „ 0, wordt de veran-
+dering in inwendige energie gegeven door 
+ 
+   
+DE  =  q   -  A  =  q   -  P.DV  =  q   -  Dn  . R.T 
+   P,T  P,T  P,T g
+ 
+We willen er hier uitdrukkelijk op wijzen dat Dn  de verandering voorstelt in het aantal 
+g
+mol gasmoleculen dat we terugvinden na reactie ten opzichte van het aantal mol 
+gasmoleculen dat aanwezig was voor reactie. We schrijven dus expliciet 
+ 
+    
+Dn   =  n   -  n
+g g(na) g(voor) 
+ 
+ 
+We bekomen hieruit dus het verband tussen DE en DH 
+ 
+   
+DE  =  DH  -  Dn  . R.T 
+g
+ 
+ 
+In tegenstelling tot een bomcalorimeter wordt in een gewone calorimeter de vrijge-
+stelde inwendige energie verdeeld over warmte en arbeid. Uit de gemeten reactie-
+warmte bekomen we rechtstreeks de waarde voor DH. 
+ 
+ 
+Rekenvoorbeeld: Wanneer 3,2 g ethylalcohol (C H O ) met zuurstofgas wordt verbrand in 
+2 6  (vl)
+een bomcalorimeter gevuld met 3,50 kg water, dan stijgt de temperatuur van het water en de 
+bom van 25 °C tot 30,52 °C. De warmtecapaciteit van de bom (het metalen omhulsel) is 
+2.550 J per °C. Bereken DE en DH voor de verbranding van 1 mol ethylalcohol. 
+ 
+q = -[q + q ] = -[C · DT + s.w. · m · DT]
+reactie bom water bom water water
+ 
+q = -[2.550·5,52 + 4,18·3.500·5,52] = - 94.834 J
+reactie
+ 
+ 
+Dit is de vrijgestelde warmte in de experimentele omstandigheden, nl. voor de verbranding 
+van 3,2 g ethanol. Er wordt evenwel gevraagd naar de warmte die zou vrijkomen bij de ver-
+branding van 1 mol. Algemene Scheikunde : Hfst. I  Stoechiometrie in verbindingen en reacties  30
+Voor 3,2 g      ﬁ  - 94.834 J 
+ 
+94.834
+Voor 1 g      ﬁ  -  J 
+3,2
+ 
+94.834· 46
+Voor 1 mol of 46 g    ﬁ  - = -1.362.800 J 
+3,2
+ 
+In een bomcalorimeter meten we uit de reactiewarmte rechtstreeks DE = - 1.362,8 kJ.mol-1. 
+Voor het berekenen van DH hebben we Dn  nodig. Dit halen we uit de reactievergelijking. Let 
+g
+er op dat de stoechiometrische voorgetallen (indien nodig) zodanig worden aangepast zodat 
+een 1 geplaatst wordt bij ethanol (1 mol). Houd eveneens terdege rekening met de aggrega-
+tietoestand van alle componenten. 
+ 
+   
+  C2H6O (vl)   +   3 O2 (g)   ﬁ   2 CO2 (g)   +   3 H2O (vl) 
+ 
+Na reactie vinden we 2 mol gasmoleculen, voor reactie waren er dat 3.  
+ 
+   
+Dn   =  n   -  n    =   2 – 3    =   - 1 
+  g na voor
+ 
+Voor de berekening van DH kunnen we ons afvragen welke temperatuur we dienen te ge-
+bruiken, 25 °C of 30,52 °C. We hebben evenwel DH en DE gedefinieerd bij een constante 
+temperatuur van 25 ° C. De fout die we maken is echter klein en de beste keuze voor de te 
+gebruiken temperatuur is het gemiddelde van de twee waarden (nl. 27,76 °C). Belangrijker is 
+wel er op te letten dat de temperatuur wordt ingevuld in K en niet in °C (dus 27,76 + 273,13). 
+ 
+   
+  DH   =   DE  +  Dng x R x T   =   - 1.362.800  -  1 x 8,314 x 300,89 
+ 
+ 
+We bekomen DH = - 1.365.300 J   of   - 1.365,3 kJ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+De volgende pagina’s bevatten nog enkele uitgewerkte rekenvoorbeelden i.v.m. 
+stoechiometrie en de thermochemische aspecten ervan. We raden aan om deze 
+voorbeelden grondig door te nemen en vervolgens zelf verder te oefenen aan 
+de hand van de bijkomende opgaven. 

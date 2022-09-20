@@ -1,0 +1,381 @@
+Prof. Dr. Eva Van den Bussche
+Methoden van het wetenschappelijk onderzoek: Deel 1
+Prof. Dr. Eva Van den Bussche
+Les 11: Vragencollege
+Evaluatie vak
+Vragencollege
+Vragen van jullie
+Kies je favoriete meme
+Vragen van mij
+Overzicht leerstof en info examen
+
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+3
+Overzicht
+DOEL: OPO verbeteren en verder op punt stellen naar volgend jaar toe
+Via PollEverywhere: https://pollev.com/evavandenbus964
+Anoniem! Constructieve feedback!
+Eerste deel: werden de leerdoelen bereikt? (steeds ja/nee)
+	+ Heb je dankzij dit vak interesse gekregen in onderzoek?
+Tweede deel: Geef op een schaal van "zeer slecht" tot "zeer goed" jouw mening over verschillende aspecten van het vak (HOC, prof, handboek, etc.)
+Derde deel: enkele open vragen om je scores (zowel positief als negatief) toe te lichten + verdere suggesties/opmerkingen  Vergeet niet steeds op SUBMIT te drukken en dan pas op Next!
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+4
+Evaluatie vak
+BEDANKT!
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+5
+Les 1, slide 71: Kan je de wetenschappelijke methode hanteren zonder de empirische cyclus? Zou je bijvoorbeeld de 5 stappen van de wetenschappelijke methode op zich kunnen uitvoeren, zonder daarbij de empirische cyclus te hanteren?
+De empirische cyclus biedt ons het onderzoeksproces
+Het is de manier waarop wij de wetenschappelijke methode toepassen
+De 5 stappen zitten vervat in de empirische cyclus
+Les 2, slide 49: Wat bedoelt u met “Zie ook OPO “Psychometrie en constructie van psychodiagnostische instrumenten”
+Meetschalen worden ook in dit andere vak (i.e., OPO) behandeld
+Faculteit Psychologie en Pedagogische Wetenschappen
+6
+Vragen van jullie
+Les 2, handboek p.63: Is het de bedoeling dat we ook weten wat successive measurements en parallel-forms betrouwbaarheid zijn of valt dat buiten de examen leerstof?
+Ja, dit is deel van de leerstof (zie overzicht op Toledo)
+Les 2, slide 31: IQ testen zouden betrouwbaar zijn en worden in veel studies gebruikt om bijvoorbeeld intelligentie tastbaar te maken. Maar hoe weten we dat deze wel degelijk betrouwbaar zijn en hoe kun je een operationele definitie opstellen? Waarom mogen we gewoon aannemen dat deze bruikbaar zijn?
+Nee, je kan dit nagaan door validiteit en betrouwbaarheid te meten (cf. slide 34-35)
+Faculteit Psychologie en Pedagogische Wetenschappen
+7
+Vragen van jullie
+Les 2, slide 35: Klopt het dat je bij “validiteit en betrouwbaarheid van meetinstrumenten" geen onderscheid maakt tussen interne en externe validiteit? Dat je enkel dit onderscheid maakt op een hoger niveau, het niveau van de onderzoeksstrategieën?
+Klopt! In les 2 zitten we op het niveau van de metingen en diens betrouwbaarheid/ validiteit. In latere lessen zitten we op het niveau van de studie en diens interne/externe validiteit
+Les 2, slide 67 en 69: Andere aspecten van metingen
+Ik begrijp niet goed wat sensitiviteit te maken heeft met range effecten
+Ik begrijp niet goed hoe "participant reactiviteit' en "vraagkarakteristieken" samenhangen
+Faculteit Psychologie en Pedagogische Wetenschappen
+8
+Vragen van jullie
+Metingen moeten sensitief genoeg zijn om het type en de grootte van de verwachte veranderingen op te pikken
+Zeker indien de verwachte veranderingen klein/subtiel zijn
+Range effecten (ceiling/floor effecten): de scores zijn geclusterd aan één uiteinde van de meting
+Voorb: participanten leggen een taak af die zo makkelijk is dat ze gemiddeld slechts 1.2% fouten maken  weinig ruimte voor verbetering, dus we gaan veranderingen in accuraatheid niet kunnen oppikken met deze taak!
+Oplossing: piloteer je studie! Test je studie eerst uit op een kleine steekproef van representatieve individuen (= pilootstudie)
+
+
+
+
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+9
+2. Sensitiviteit
+Vraagkarakteristieken (“Demand characteristics”) en participant reactiviteit
+Participanten die weten dat ze geobserveerd/gemeten worden kunnen onverwacht reageren
+De onderzoeksomgeving geeft vaak cues (vraagkarakteristieken) die suggereren wat het doel/hypothese is van de studie en welk gedrag gepast is of verwacht wordt
+ Invloed op metingen! Deelname aan een studie “verlangt” van de participant dat die meewerkt en instructies volgt, zelfs als dat indruist tegen gebruikelijk gedrag  gevaar voor validiteit en betrouwbaarheid
+
+
+
+
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+10
+3. Artefacten
+Les 2, opdracht: Stress stijgt met toenemende leeftijd: Welke meetschaal zal je gebruiken voor de metingen?
+Stress adhv 5-punts beoordelingsschaal  Interval
+	 Waarom geen ratio (startpunt = helemaal geen stress)? 
+	 Cf. Les 2, slide 56: beoordelingsschalen gaan we typisch beschouwen als 	interval
+	 Nulpunt ≠ absoluut nulpunt!
+Leeftijd adhv leeftijd in jaren  Ratio
+	 Waarom niet interval (leeftijd 0 ≠ afwezigheid persoon)
+	 Klopt, maar eenheid = “leeftijd in jaren”, dus 0 = afwezigheid van een jaar
+Faculteit Psychologie en Pedagogische Wetenschappen
+11
+Vragen van jullie
+Les 4, slide 37-38: Bedreigingen van externe validiteit: Ik begrijp niet goed het verschil tussen “generaliseren over kenmerken van een studie" en “generaliseren over kenmerken van metingen"
+Spelen zich af op een ander niveau: studie in zijn geheel VS metingen
+Problemen die opduiken als we willen generaliseren op het niveau van de gehele studie VS problemen die opduiken als we willen generaliseren op het niveau van de metingen
+Faculteit Psychologie en Pedagogische Wetenschappen
+12
+Vragen van jullie
+Categorie 2: generaliseren over kenmerken van een studie
+Novelty effect: deelname aan wetenschappelijke studie is meestal nieuw, opwindend, beangstigend  leidt tot ander gedrag dan in “gewone” situaties
+Multiple treatment interference: bij participanten die deelnemen aan een serie van condities (“treatments”) kan de ervaring met een vorige conditie een effect hebben op deelname aan de volgende conditie (vermoeidheid, leereffecten) die er niet zouden zijn bij een eerste deelname
+Proefleider karakteristieken: kunnen de resultaten gegeneraliseerd worden naar andere proefleiders? (e.g., kenmerken van vriendelijkheid/vijandigheid)
+
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+13
+Bedreigingen van externe validiteit
+Categorie 3: generaliseren over kenmerken van de metingen
+Sensitisatie: de meting zelf verandert de participant waardoor die zich anders gedraagt  verhoogt bewustzijn
+	Voorb: pre-test, dagboekstudie zelf maakt participant sensitief voor eigen 	gedrag/attitudes  effect op “treatment”  generaliseerbaar?
+Generaliseerbaarheid over verschillende mogelijke metingen van variabelen: variabele kan op verschillende manieren gedefinieerd en gemeten worden (cf. angst)  generaliseren resultaten bekomen met één meting ook naar andere?
+Meetmoment: wanneer worden de scores/resultaten van de participanten verzameld? 
+	Voorb: Stoppen met roken programma: effect meten meteen na programma  	generaliseerbaar indien gemeten na 6 maanden?
+
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+14
+Bedreigingen van externe validiteit
+Les 6, slide 41: Als we mensen niet random aan een conditie gaan toewijzen en dus een reeds bestaand kenmerk gaan gebruiken, is het geen experimenteel onderzoek. Hoe zit dat dan met indelen van participanten op basis van biologisch geslacht of leeftijd?
+Idem, dat zijn bestaande kenmerken, dus geen exp!
+Les 5-6: Is er ook nog sprake van een experimenteel onderzoek, als we bepaalde opofferingen maken, omdat het ander praktisch onmogelijk is
+Dat hangt van de opofferingen af . Er is sprake van een experimentele onderzoeksstrategie zolang er voldaan is aan de basiskenmerken van een experiment (manipulatie & controle)
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+15
+Vragen van jullie
+Les 5-6: Als we er voor proberen te zorgen dat de “random” steekproef, de populatie representeert, is er dan nog sprake van een experimenteel onderzoek?
+Ja, we beogen in principe in elk type onderzoek om zo representatief mogelijke steekproeven te bekomen! Random selectie uit de populatie komt daaraan tegemoet.
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+16
+Vragen van jullie
+Les 6, handboek p. 227-228: bij binnen-subject designs kan je de individuele verschillen verwijderen, wat de kans op het detecteren van effecten waarin je geïnteresseerd bent verhoogt (~power). Maar mag dat zomaar want je past de data aan?
+Dat mag inderdaad niet zomaar! Enkel als die individuele verschillen vrij consistent zijn over de condities heen! (cf. p. 227)
+Zie voorbeeld Tabel 9.3 b)  Kate heeft de hoogste score, over alle condities heen!
+
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+17
+Vragen van jullie
+Les 6, slide 52: Verschil tussen posttest only niet-equivalente controle groep design en differentiële onderzoeksdesign
+Experimentele groep mét behandeling en controle groep zonder behandeling worden vergeleken ( differentiële onderzoeksdesign)
+Bij differentiële onderzoeksdesign heb je toch ook geen behandeling?
+Klopt, maar bij posttest only vergelijk je groep MET met een groep ZONDER, bij diff design vergelijk je groepen met verschillende niveaus van een bepaalde bestaand kenmerk (e.g., leeftijdsgroepen)
+
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+18
+Vragen van jullie
+Les 7, slide 24: Hoe stel je de tabel voor hoofdeffecten en interacties op?
+
+
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+19
+Vragen van jullie
+
+
+
+
+Les 7, slide 43: types factoriële designs
+Kan je ook een puur tussen- of binnen-subject factorieel design hebben? JA, zie voorbeeld op slide 50 (2 factoren, beiden tussen-subject)
+Kan je ook een factorieel design hebben met enkel de experimentele onderzoeksstrategie? JA, zie voorbeeld op slide 44 (2 factoren en beide factoren worden gemanipuleerd)
+Les 7, slide 43: Ik begrijp niet waarom de exp, non-exp en quasi-exp onderzoeksstrategieën onder factorieel design vallen (design VS strategie)
+Het design valt nog steeds onder de strategie
+Dus een studie met leeftijdsgroep (3 niveaus) en random toewijzing aan een medicatie conditie (2 niveaus) is een gecombineerd (= level van de strategie) tussen-subject design (= level van het design)
+
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+20
+Vragen van jullie
+Les 9: Moeten we alle programma's (Sherpa/romeo, lirias, Psyarxiv, ...) die besproken zijn in het tweede deel van de les over open science kennen?
+Geen links, details, etc. kennen, maar wel de principes 
+Les 9, slide 64: Wat is een embargo?
+Opgelegde tijdsperiode waarin een artikel in een bepaalde vorm (bijv. uiteindelijk gepubliceerde vorm) niet open mag gedeeld worden  wordt vaak bepaald door de uitgever (e.g., 6 of 12 maanden)
+Les 9, slide 13: 2 verschillende vormen van de empirische cyclus: welke kennen?
+Beide omvatten zelfde fases, maar je mag op onze “vaste” cyclus focussen
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+21
+Vragen van jullie
+Faculteit Psychologie en Pedagogische Wetenschappen
+22
+Vragen van jullie
+Les 9, slide 14: Wat is de p-value?
+H0: geen effect, HA: wel een effect
+Overschrijdingskans (p-waarde) = De kans, berekend onder de aanname dat H0 waar is, dat de toetsingsgrootheid (t, F, etc.) een waarde zou aannemen die even extreem of nog extremer is dan de feitelijk waargenomen uitkomst
+Voorbeeld: is er een verband tussen globale levenstevredenheid en de som van tevredenheid op verschillende levensdomeinen?
+Toets uitvoeren: F-waarde van 158.50, p-waarde < .001
+Interpretatie: Indien in de populatie de globale levenstevredenheid niet zou samenhangen met de domeinen (= H0), dan is de kans om een steekproef te trekken met een waarde van F die even extreem is als of nog extremer is dan 158.50, kleiner dan .001. 
+ Nulhypothese verwerpen: er is een verband tussen Globale levenstevredenheid en de domeinen (link met publiceren)
+Les 9, slide 35: Wat is p-hacking / verborgen flexibiliteit / researchers degrees of freedom / biased debugging?
+
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+23
+Vragen van jullie
+Researchers degrees of freedom: set van keuzes die je als onderzoeker kan maken
+p-hacking: Combinatie van analyse technieken kiezen die p < .05 oplevert
+Biased debugging: alleen op zoek gaan naar fouten in je analyse als de uitkomst van je analyse niet is wat je verwacht had. Dit is problematisch omdat dit betekent dat fouten in je analyses onopgemerkt blijven, zolang je resultaten voldoen aan je verwachting (Debugging = het opsporen van fouten in je analyse)
+
+= vormen van verborgen flexibiliteit
+
+
+Les 9, slide 24: Feeling the future
+
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+24
+Vragen van jullie
+Het resultaat van dat experiment was dat deelnemers konden voorspellen waar een afbeelding op het scherm kwam indien dit een erotische afbeelding was. Die paper van Bem is door collega's bestudeerd omdat dit zo'n opmerkelijk resultaat was. Eén van die bevindingen was dat Bem zijn manier van data behandeling en analyse er op gericht zijn verhaal en overtuigingen te ondersteunen eerder dan een objectieve analyses om zijn hypothese te toetsen. Deze link legt het mooi uit https://replicationindex.com/2018/01/05/bem-retraction/
+
+
+
+Bij open peer review zegt men dat anonimiteit de kwaliteit van de reviews bevordert. Betekent dit dan dat in open science (en dus geen anonimiteit van reviewers) dit mogelijks kan zorgen voor een lagere kwaliteit?
+Nee, het is net omgekeerd: open peer-review bevordert de kwaliteit doordat reviewers niet anoniem zijn (verspreking?)
+Het idee hier is dat wanneer reviewers niet anoniem zijn, ze waarschijnlijk meer kwaliteitsvol zullen gaan reviewen. Die open peer review verwijst ook naar de transparantie in de communicatie tussen reviewers, editors en auteurs zodat de eind lezer kan nagaan wat er net werd aangepast aan een artikel en waarom. 
+
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+25
+Vragen van jullie
+Opdracht les 8: Op Toledo zal je de methode-sectie vinden van een wetenschappelijk artikel. Lees deze methode en bespreek de methode rekening houdend met alle aspecten die we het afgelopen semester hebben behandeld
+Toch ook lage externe validiteit? Klopt!
+Wanneer hoort iets bij een bedreiging voor de interne validiteit en wanneer bij bedreiging voor de externe validiteit?  zie Les 4
+Interne validiteit: alles wat een alternatieve verklaring kan bieden voor de resultaten van de studie 
+Externe validiteit: alles wat het generaliseren van de studie bemoeilijkt
+Sommige zaken bedreigen beide (cf. artefacten, Les 4 slide 47)!
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+26
+Vragen van jullie
+Opdracht les 8: Op Toledo zal je de methode-sectie vinden van een wetenschappelijk artikel. Lees deze methode en bespreek de methode rekening houdend met alle aspecten die we het afgelopen semester hebben behandeld
+Causaal of correlationeel? Er worden condities/groepen vergeleken en manipulatie creëert de condities  exp
+Is het dan altijd zo dat als je verschillende onderdelen van een taak geeft (zoals hier de 3 verschillende categorieën) dat het dan automatisch om een experiment gaat? Nee, de basiselementen van een exp moeten aanwezig zijn (manip & controle)
+Waarom is het priming effect hier niet de afh var? Dan zou je info verliezen, je gaat na of de RTs/accuracy variëren in termen van zowel grootte van de categorie als de congruentie van de trial  2 binnen-subj factoren die een invloed kunnen hebben op de RTs/accuracy
+
+
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+27
+Vragen van jullie
+Opdracht les 8: Op Toledo zal je de methode-sectie vinden van een wetenschappelijk artikel. Lees deze methode en bespreek de methode rekening houdend met alle aspecten die we het afgelopen semester hebben behandeld
+Covenvience sampling: betekent dit altijd dat een onderzoek dan niet generaliseerbaar naar de hele populatie toe  dat is sterk uitgedrukt, maar er is zeker altijd kans op bias = bedreiging externe validiteit (cf. Les 3)
+Kan de scheve balans in biologisch geslacht in de studie de interne validiteit bedreigen (ja, indien priming effecten voor bepaalde categorieën enkel voor een bepaald geslacht zouden optreden, maar dat is weinig waarschijnlijk)
+
+
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+28
+Vragen van jullie
+Les 10, slide 29: Twee behandelingen tegelijk: letterpaar (e.g., BC), kan dat ook BD zijn? 
+Ja, hangt af van welke letters je toekent aan de behandelingen en hoeveel behandelingen je hebt en combineert
+Les 10, slide 35: Snellere verandering indien behandeling een snel, ernstig negatief effect heeft op gedrag 
+Ik bedoel hiermee een snellere faseverandering (kan terug naar baseline zijn, of naar andere behandeling 
+
+
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+29
+Vragen van jullie
+Les 10, slide 29: Wat als we na C terug naar A gaan en er treedt geen verandering op? Kan dit een blijvend effect zijn van behandeling C? 
+Ja, dat kan zeker! Dat is de reden waarom reversal designs NIET geschikt zijn voor behandelingen met langdurig/blijvend effect
+
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+30
+Vragen van jullie
+
+Les 10, handboek p.359-360: voorbeeld van een reversal design. In fase B wordt DRA (differential reinforcement of alternative behavior) toegediend, in fase C gebruikt men DRA + het gebruik van een facial screen. Er wordt dus een component toegevoegd. Is dit dan ook een component analysis design (cf. p. 364)? 
+Niet helemaal, want in een component analyse moeten verschillende fases aanwezig zijn waarin component toegevoegd/verwijderd worden, en dat is cruciaal om te weten hoe welke component bijdraagt aan het algemene effect van de behandeling
+Maar je zou kunnen stellen dat het hier (stukje BCB) om een mini component analyse gaat met een reversal design (p. 364): baseline – add comp – baseline, behalve dat de baseline hier de DRA is ipv de echte baseline
+
+
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+31
+Vragen van jullie
+Algemeen: Is het voldoende als ik de slides leer?
+Nee! Zowel het handboek als de lessen zijn integraal deel van de leerstof
+Faculteit Psychologie en Pedagogische Wetenschappen
+32
+Vragen van jullie
+Maak je eigen meme op basis van de leerstof van Methoden Deel 1
+12 studenten
+Soms meerdere/student: zelf selectie gemaakt, maar slechts 1 nummer/student
+Onthoud het nummer van jouw favoriete meme!
+
+
+
+
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+33
+Jaaropdracht: Make your own Meme
+Faculteit Psychologie en Pedagogische Wetenschappen
+34
+1
+Faculteit Psychologie en Pedagogische Wetenschappen
+35
+2
+Faculteit Psychologie en Pedagogische Wetenschappen
+36
+3
+Faculteit Psychologie en Pedagogische Wetenschappen
+37
+4
+Faculteit Psychologie en Pedagogische Wetenschappen
+38
+5
+Faculteit Psychologie en Pedagogische Wetenschappen
+39
+6
+Faculteit Psychologie en Pedagogische Wetenschappen
+40
+7
+Faculteit Psychologie en Pedagogische Wetenschappen
+41
+8
+Faculteit Psychologie en Pedagogische Wetenschappen
+42
+9
+Faculteit Psychologie en Pedagogische Wetenschappen
+43
+10
+Faculteit Psychologie en Pedagogische Wetenschappen
+44
+11
+Faculteit Psychologie en Pedagogische Wetenschappen
+45
+12
+Faculteit Psychologie en Pedagogische Wetenschappen
+46
+Wedstrijd: 10 eenvoudige multiple choice vragen die je helpen om de leerstof te herhalen
+Je kan (fictieve) punten verdienen met correcte (en snelle) antwoorden
+Na elke vraag: feedback
+Wie wordt de winnaar?
+https://pollev.com/evavandenbus964
+Geef je voor- en achternaam in
+
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+47
+Vragen van mij
+Faculteit Psychologie en Pedagogische Wetenschappen
+48
+Faculteit Psychologie en Pedagogische Wetenschappen
+49
+Faculteit Psychologie en Pedagogische Wetenschappen
+50
+Faculteit Psychologie en Pedagogische Wetenschappen
+51
+Faculteit Psychologie en Pedagogische Wetenschappen
+52
+Faculteit Psychologie en Pedagogische Wetenschappen
+53
+Faculteit Psychologie en Pedagogische Wetenschappen
+54
+Faculteit Psychologie en Pedagogische Wetenschappen
+55
+Faculteit Psychologie en Pedagogische Wetenschappen
+56
+Faculteit Psychologie en Pedagogische Wetenschappen
+57
+Leerstof:
+Geziene leerstof tijdens de hoorcolleges, slides
+Handboek: hoofdstukken 1, 2 (enkel pp. 45-48), 3, 5, 6, 7, 8 (behalve 8.6), 9 (behalve 9.4), 10 (behalve 10.5), 11 (behalve pp. 283-284 “Statistical analysis of factorial designs”), 12 (behalve 12.2), 13, 14
+Examen:
+Dinsdag 1/2 om 12.00 op 13 verschillende locaties
+40 multiple choice examen, 4 alternatieven waarvan slechts 1 correct
+Mix van kennis-, inzichts- en toepassingsvragen
+Standaard correctie voor raden (correct = +1, foutief = -1/3 punt)
+2.5 uur
+Voorbeeldexamen ± 2 weken voor examen op Toledo
+
+
+
+Faculteit Psychologie en Pedagogische Wetenschappen
+58
+Overzicht leerstof en examen
+Faculteit Psychologie en Pedagogische Wetenschappen
+59
+Good luck!

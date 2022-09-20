@@ -1,0 +1,92 @@
+9/09/2017
+John Rupert Firth
+“You shall know a word by the company it keeps”
+• Hoe kunnen we automatisch gerelateerde woorden opsporen ?
+• Hoe kunnen we automatisch gerelateerde documenten opzoeken ?
+• Neem een verzameling documenten, genummerd d = 1 ... D
+• Die gebruiken een aantal woorden, genummerd w = 1 ... W
+• A: WxD matrix a =  aantal voorkomens van w in d
+wd
+15 maart:  politiek
+30 april:  politiek
+31 aug: sportkatern
+2 sept: sportkatern
+parlement 4 3 0 1
+minister
+5 8 0 0
+bergetappe 0 0 4 9
+Vuelta 0 1 8 7
+19/09/2017
+Gelijkaardigheid
+• Document-vector = kolom uit A
+(cid:1) A= [d ... d ] ; d ∈RW
+1 D i
+(cid:1) In documenten over gelijkaardige onderwerpen hebben 
+dezelfde woorden een hoge frequentie
+(cid:10)
+(cid:1) cos(cid:4) = (cid:8)(cid:9) (cid:8)(cid:11) is dan groot:  dTd = d d + ... + d d
+(cid:5)(cid:6) (cid:8) (cid:8) i j i1 j1  iW jW
+(cid:9) (cid:11)
+• Woord-vector = rij uit A
+(cid:1) A= [w ... w ]T ; w ∈RD
+1 W i
+(cid:1) Gerelateerde woorden zullen vaak voorkomen in 
+documenten met een gelijkaardig onderwerp
+(cid:1) cos(cid:12) = (cid:13)(cid:9)(cid:10)(cid:13)(cid:11) is dan groot
+(cid:5)(cid:6)
+(cid:13) (cid:13)
+(cid:9) (cid:11)
+Beste rang-k benadering
+• Normalisatie: vermenigvuldig elke rij met 
+log(D/N) met N het aantal verschillende
+i i
+documenten waarin een woord voorkomt
+• A ≈ U D V T
+k k
+(cid:1) U is Wxk matrix met orthonormale kolommen
+k
+(cid:1) V is Dxk matrix met orthonormale kolommen
+k
+(cid:1) Dis kxk diagonale matrix met grootste s.w. van A
+(cid:1) wT ≈ uT D V T met u de i-de rij van U
+i i k i k
+uTD V T V D u D u (cid:14) D u
+cos(cid:12) ≈ i k k  j = i j
+(cid:5)(cid:6) V D u V D u D u D u
+k  i k  j i j
+29/09/2017
+Voorbeeld
+• 3 jaargangen van “De Standaard”
+• 90 000 documenten
+• 41.8 miljoenwoorden
+• 95 000 uniekewoorden:
+(cid:1) Enkelwoordendie minstend10 keervoorkomen
+(cid:1) 400 meestfrequentewoordenverwijderd(lidwoorden, 
+hulpwerkwoorden, voorzetsels, …)
+• Maak de 95000x90000 matrix A
+• Bereken k = 100 grootste sing. waarden met sing. vectoren
+• Voor elk testwoord i, neem de 10 woorden j met kleinste ϕ
+ij
+(cid:1) Vereist inwendig product van 100-dim vectoren i.p.v. 90000-dim 
+vectoren 
+'wapen' 'bier' 'fiets' 'professor'
+'wapenarsenaal' 'gerstenat' 'fietsen' 'hoogleraar'
+'afkondigen' 'pils' 'tweewieler' 'doctoraat'
+'munitie' 'brouwen' 'verkeersvrij' 'doctoreren'
+'defense' 'bierdrinker' 'fietsvriendelijke' 'emeritaat'
+'ontwapening' 'abdijbieren' 'bikers' 'vakgroep'
+'ontwapenen' 'abdijbier' 'terreinfiets' 'fakulteit'
+'vredesinspanningen' 'biersoorten' 'mountainbikers' 'ku'
+'wapenstilstand' 'bierverbruik' 'bicycle' 'academisch'
+'bestand' 'bierindustrie' 'autoluw' 'doceren'
+'pater' 'chirurg' 'dna' 'airbus'
+'priester' 'chirurgisch' 'celmachinerie' 'boeing'
+'etenorde' 'radioloog' 'spiercel' 'burgerluchtvaart'
+'noviciaat' 'medicus' 'celdeling' 'vliegbereik'
+'vicaris' 'genezing' 'vetcellen' 'luchtvaartautoriteiten'
+'picpus' 'slagader' 'celwand' 'tweemotorig'
+'mgr' 'cardioloog' 'chromosoom' 'luchtvaart'
+'moloka' 'kransslagader' 'rna' 'passagiersvliegtuig'
+'damiaans' 'anestesie' 'receptor' 'vliegtuig'
+'melaatse' 'hartritmestoornissen' 'liposomen' 'toestel'
+3

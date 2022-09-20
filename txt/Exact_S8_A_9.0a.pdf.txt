@@ -1,0 +1,320 @@
+13. Derivaten van carbonzuren
+• -OH groep vervangen door elektronegatieve substituent Y
+(dit is niet zo eenvoudig, zie hoofstuk 12!)
+• door hydrolyse weer om te zetten in carbonzuren
+• belangrijke rol in natuur:
+✓ acetylcoënzym A is een thioëster
+✓ vetten zijn esters
+✓ eiwitten zijn polyamiden
+Carbonzuurderivaten 113.1 Nomenclatuur
+zuurchloriden (algemeen zuurhalogeniden)
+• uitgang -zuur vervangen door -zuurchloride
+3-methylbutanoylchloride
+• uitgang -zuur vervangen door –oylchloride
+anhydriden
+• toevoeging van -anhydride
+gemengd: azijnzuur-propionzuur-anhydride
+Me- -Et
+Carbonzuurderivaten 2lacton –olide
+(thio)esters butanolide
+= cyclisch ester
+• naam alkylgroep + naam carboxylaatanion
+• -oaat vervangen door -thioaat
+S-
+S-
+versus O-thioazijnzuur S-
+Carbonzuurderivaten 3lactam –lactam
+amiden
+= cyclisch amide
+• uitgang -zuur vervangen door –amide
+• substituenten op N-atoom: N of N,N + naam naam alkylgroepen
+diamide
+structuurfragmenten
+O
+O
+Carbonzuurderivaten 413.2 De nucleofiele acylsubstitutie
+AE
+N
+additie eliminatie
+R
+• substitutiereactie: 
+V vervangen door Nu
+Carbonzuurderivaten 5• relatieve reactiviteit van carbonzuurderivaten ~ V
+-I +M
+vertrekkende groep
+minder reactief tov Nu- wegens minder
+d+ karakter van de carbonylkoolstof
+S: 3p-orbitalen
+Carbonzuurderivaten 6• relatieve reactiviteit van carbonzuurderivaten ~ V
+Bij esters en amiden moeten 2p-orbitalen van O of N overlappen met
+2p-orbitalen van de carbonylgroep. Deze orbitalen zijn van gelijke grootte en
+daardoor is de overlap efficiënt
+2p
+2p
+2p
+2p
+2p
+2p
+2p 2p
+3p
+Bij zuurchloriden en S-thioesters moeten 3p-orbitalen van Cl of S overlappen met
+2p-orbitalen van de carbonylgroep. Deze orbitalen zijn van ongelijke grootte en
+daardoor is de overlap NIET efficiënt en het +M-effect dus klein
+Carbonzuurderivaten 713.3 Zuurchloriden
+• reactiviteit van zuurchloriden
+base toevoegen
+om vrijgekomen
+HCl te binden !!
+zeer reactief!
+(vocht)
+Carbonzuurderivaten 813.4 Anhydriden
+• reactiviteit van anhydriden
+bereiding esters
+Carbonzuurderivaten 9ter illustratie
+• bij acylering wordt dikwijls pyridine gebruikt als katalysator:
+✓ carbonylgroep in acetylpyridiniumion sterker positief
+gepolariseerd door naburig positief N-atoom
+✓ zwak nucleofiel alcohol kan gemakkelijker aanvallen
+✓pyridine speelt hier dus de rol van base én van katalysator
+Carbonzuurderivaten 10• bereiding van anhydriden
+• acetylfosfaat: gemengd anhydride azijn- en fosforzuur
+Sleutelrol bij acetylering CoA
+goede vertrekkende groep
+Carbonzuurderivaten 1113.5 Esters
+• reactiviteit van esters
+Geur- en smaakstoffen
+• vluchtig! (polair, geen H-bruggen tussen estermoleculen)
+O OH
+O
+Kookpunt 28°C 57°C 99°C
+oplosbaarheid
+(g/100 g H O) ~0 33 12,5
+2
+Carbonzuurderivaten 12• esters hebben meestal een fruitige, prettige geur en zijn
+zeer belangrijk voor de ‘smaak’ van voedsel
+Smaak in strikte zin: zoet, zuur, zout, bitter, umami
+(waargenomen door smaakpapillen)
+Smaak in ruimere zin: synthese in
+de hersenen van indrukken van 
+smaakpapillen, neus (rechtstreekse
+geur + retronasaal) en tastzin in de mond
+• voedselbereiding
+• additieven
+OO
+Carbonzuurderivaten 13• componenten in het natuurlijke aroma van ananas
+Esters…                  maar ook andere verbindingen
+azijnzuur
+methanol
+ethanol
+n-propanol
+isobutanol
+n-pentanol
+aceton
+formaldehyde
+aceetaldehyde
+diacetyl
+2-pentanon
+furfural
+5-hydroxy-2-methylfurfural
+Carbonzuurderivaten 14Hydrolyse van esters • in basisch milieu: verzeping
+additie nucleofiel
+O
+O
+R C + O H R C O H
+O R'
+O
+(NaOH)
+R'
+eliminatie R’OH
+OO
+O
+RR CC OO HH R C + R' O
+O H
+OO
+RR''
+O O
+R C + R' O R C + R' O H
++
+(Na )
+O H O
+alcohol
+carbonzuur (zwakste zuur)
+(sterkste zuur) (zout)
+Carbonzuurderivaten 15• in zuur milieu
+protonering
+H
+O
+O
+R C +  H R C
+O R' (H SO ) O
+2 4
+R'
+additie
+H
+H
+H O
+H
+O
+O
+R C R C O
+O H
+H
+O
+R'
+R'
+protonoverdracht en eliminatie R’OH
+H HH
+O H OO
+O
+R C O RR CC OO HH R C + O H + H
+O H
+O H OO HH R'
+carbonzuur alcohol
+R' RR''
+Carbonzuurderivaten 16Omestering reageren met alcohol o.i.v. zuur of base
+basegekatalyseerd
+✓ alcoholaatanion nieuw alcohol als katalysator
+✓ grote overmaat nieuw alcohol
+Carbonzuurderivaten 17zuurgekatalyseerd
+toepassing omestering: analyse van vetten, bereiding biodiesel, zie 14.7
+reactie met ammoniak of aminen
+Aminolyse van esters
+✓ via additie-eliminatie-mechanisme
+✓ ook bij biologische eiwitsynthese
+Carbonzuurderivaten 18Reductie van esters
+LiAlH !!
+4
+O 1) LiAlH
+4 (NaBH te zwak)
+R'OH + RCH OH 4
+2
+R OR' 2) H O+
+3
+R
+R
+d+ d-
+C O + H R' O C O
+R' O
+H
+R R
++ R'O
+1) R' O O O
+H
+H
+R
+R
+d+ d-
+C O + H H C O
+H
+H
+H+
+eindresultaat: R'O R'OH
+2)
+2 alcoholen
+RCH OH
+RCH O
+2
+2
+Carbonzuurderivaten 1913.6 Estercondensatie – Claisen-condensatie
+• a-H hebben zure eigenschappen
+• nucleofiele additie-eliminatie reactie
+Carbonzuurderivaten 20✓ reversibel: minimaal één equivalent base gebruiken
+✓ nadien aanzuren
+✓ sterke base = zelfde alcoholaatanion als alcoholgroep
+in ester (anders complex mengsel door omestering)
+✓ geen NaOH (anders verzeping)
+• meestal uitgevoerd als zelfcondensatie van ester met 
+twee a-H (één niet voldoende!)
+• Claisen-condensatie tussen twee verschillende esters is
+mogelijk (best één ester nemen zonder a-H)
+O O
+-
+1. C H O
+2 5
+C OC H + H C C OC H
+2 5 3 2 5
++
+2. H
+Carbonzuurderivaten 2113.7 Thioësters
+(zie ook vetzuursynthese)
+• reactiviteit van thioësters (groter dan van gewone esters)
+• acetylcoënzym A
+biologisch acetyleringsmiddel
+Carbonzuurderivaten 2213.8 Amiden
+• de typische eigenschappen en reacties van amiden staan model
+voor eigenschappen en reacties van eiwitten
+• sterk polaire verbindingen met hoog smelt- en kookpunt
+(waterstofbruggen!)
+Carbonzuurderivaten 23• veel zwakkere basen dan aminen (pK ~ 15)
+b
+3-4
+~15
+pK
+b
+(vergelijkbaar met alcoholen of water)
+• vlakke structuur
+1,24 Å
+(1,23 Å bij COOH)
+1,34 Å  (1,36 Å bij COOH)
+Carbonzuurderivaten 24• synthese van amiden
+✓ amine + zuurchloride
+✓ amine + anhydride 
+✓ aminolyse van ester: ester + amine geeft amide + alcohol
+schrijf zelf het mechanisme!
+Carbonzuurderivaten 25• hydrolyse van amiden
+✓ geeft bij eiwitten de afzonderlijke aminozuren
+✓ base gekatalyseerd:
+✓ zuur gekatalyseerd:
+H
+Carbonzuurderivaten 2613.9 Derivaten van koolzuur
+• carbaminezuur onstabiel
+• ureum (polair, H-bruggen, wateroplosbaar) zeer stabiel
+2
+• derivaten van carbaminezuur met vrije OH-groep onstabiel
+Carbonzuurderivaten 27• carbonaat- en carbamaatesters
+Wij zijn de semicarbazonen…
+Carbonzuurderivaten 2813.0 Polyesters en polyamiden
+• condensatiereactie tussen dicarbonzuur en dialcohol
+O O
+H O CH CH O H H O C C O H
+2 2
+glycol tereftaalzuur
+H+
+- n H O
+2
+O O
+O CH CH O C C
+2 2
+n
+polyester
+PET - polyetheentereftalaat
+Carbonzuurderivaten 29• condensatiereactie tussen dicarbonzuur en diamine
+H
+1 3 5 O
+H N
+2 4 6
+N H HO C
+2 4 6
+C OH
+H 1 3 5
+O
+6
+hexaan-1,  -diamine
+adipinezuur
+6
+1,  -hexaandizuur
+DT
+- n H O
+2
+H
+O
+N
+C
++ n H O
+N C 2
+H
+O
+n
+66
+nylon 
+Carbonzuurderivaten Aminen 30

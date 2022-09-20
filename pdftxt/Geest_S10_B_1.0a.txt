@@ -1,0 +1,769 @@
+Basisbegrippen Taalkunde
+Morfologie en syntaxis
+Hans Smessaert, Jeroen van Craenenbroeck en Guido Vanden Wyngaerd
+
+ Hoofdstuk 1
+
+De structuur van woorden en
+zinnen
+Het feit dat we morfologie en syntaxis samenbrengen in één handboek suggereert dat ze kenmerken gemeenschappelijk hebben. Dit hoofdstuk behandelt die gemeenschappelijke punten.
+We introduceren begrippen en principes die de tweedeling morfologie/syntaxis overstijgen en
+die dan ook zowel in het deel over woordontleding (deel II) als in het deel over zinsontleding
+(deel III) een rol zullen spelen. De concepten die ter sprake komen zijn hiërarchische structuur
+(§ 1.1), hoofdigheid (§ 1.2), het principe van compositionaliteit (§ 1.3), het nauw verwante begrip
+van structurele ambiguïteit (§ 1.4), en het onderling gerelateerde paar valentie en subcategorisatie (§ 1.5).
+
+1.1
+
+Lineariteit versus hiërarchie
+
+De manier waarop we taal produceren en waarnemen is in hoge mate lineair. Wanneer je bijvoorbeeld een zin op een blad papier schrijft, dan plaats je de woorden van links naar rechts
+op een lijn – of van rechts naar links, als je bijvoorbeeld Arabisch schrijft – en wanneer je die
+zin leest, dan maak je dezelfde lineaire beweging met je ogen. Hetzelfde geldt voor gesproken
+taal, zij het dat het deze keer niet om een ruimtelijke lijn gaat, maar om een chronologische:
+je spreekt eerst het eerste woord uit, vervolgens het tweede, enzovoort, en de toehoorder van
+zijn kant, die luistert naar die woorden in precies dezelfde chronologische volgorde. Zelfs gebarentaal, waar er in principe meer mogelijkheden zijn om gelijktijdig (en dus niet langer lineair)
+verschillende woorden uit te beelden, bevat een hoge mate van lineariteit. Op het eerste gezicht lijkt het hier dus om een fundamentele eigenschap van taal te gaan. Laten we dat wat
+concreter maken aan de hand van een voorbeeld.
+(1)
+
+De man ziet een kat.
+
+Deze zin bestaat uit vijf woorden. Als de syntaxis van het Nederlands lineair zou werken, dan
+ontstaat deze zin door het een-na-een naast elkaar plaatsen van die vijf woorden. Je kan dit
+5
+
+ 6
+
+B
+
+T
+
+:M
+
+proces vergelijken met het maken van een kralenketting: je neemt een touwtje, en je rijgt daar
+kralen (woorden) aan tot je een ketting (zin) hebt. Je voelt echter hopelijk intuïtief aan dat
+deze manier van redeneren niet geheel recht doet aan de zin in (1). De vijf woorden in de zin
+De man ziet een kat staan niet allemaal in dezelfde relatie tot elkaar. Zo is de relatie tussen de
+en man ‘hechter’ dan die tussen man en ziet: de woorden de man vormen een aparte eenheid
+binnen de zin (en hetzelfde geldt voor een kat). Dit lijkt een vrij triviale observatie, maar ze
+heeft verreikende consequenties: het laat namelijk zien dat de manier waarop een zin wordt
+opgebouwd in het Nederlands – de syntaxis – niet lineair, maar
+is. Dat betekent
+dat woorden niet zonder meer van links naar rechts naast elkaar worden geplaatst, maar dat ze
+in kleine groepjes worden samengenomen, die op hun beurt weer deel uitmaken van grotere
+groepjes, enzovoort. Die groepjes noemen we woordgroepen (zie hoofdstuk 10). Een hiërarchische structuur wordt vaak weergegeven door middel van een zogenaamde boomstructuur.
+Een voorbeeld daarvan wordt gegeven in (2).
+(2)
+De man ziet
+een kat
+Deze representatie laat duidelijk zien dat er meer structuur zit in de zin in (1) dan je met het
+blote oog kan zien. De woorden de en man en een en kat worden eerst samengenomen tot
+de woordgroepen de man en een kat. Vervolgens wordt een kat gecombineerd met het werkwoord ziet om de grotere woordgroep ziet een kat te vormen, en als laatste wordt ziet een kat
+samengenomen met de man om zo uit te komen bij de zin De man ziet een kat.
+Je kan je afvragen waarom het werkwoord eerst wordt samengenomen met een kat en pas
+daarna met de man. Dat vormt het onderwerp van een meer gevorderde cursus taalkunde,
+maar er zijn goede redenen om aan te nemen dat de structurele relatie van een werkwoord met
+zijn lijdend voorwerp (in dit geval een kat) hechter is dan die met zijn onderwerp (de man). Om
+je alvast een idee te geven: de voorbeelden in (3) laten zien dat de combinatie van werkwoord
+en lijdend voorwerp vervangen kan worden door een voornaamwoord, maar de combinatie
+werkwoord en onderwerp niet. Dat suggereert dat het werkwoord en het lijdend voorwerp
+samen wel een woordgroep vormen, maar het onderwerp en het werkwoord niet. (Zie ook de
+bespreking van de verbale constituent of VP in §10.2.)
+(3)
+
+a. De man ziet een kat en de vrouw doet dat ook. (dat = ziet+een kat)
+b. *De man ziet een kat en dat doet ook een hond. (dat ̸= de man+ziet)
+
+Bemerk dat we bij het laatste voorbeeld de typisch taalkundige conventie hanteren van de of het sterretje *. Als we zo’n asterisk vóór een woordvorm of een zin plaatsen, dan
+willen we daarmee aangeven dat de betreﬀende vorm
+is, m.a.w. de spelregels van de Nederlandse grammatica niet respecteert.
+De structuur in (2) illustreert ook mooi dat het opbouwen van hiërarchische structuur recursief gebeurt. R
+is een begrip dat in zijn meest algemene vorm verwijst naar de
+
+ D
+
+7
+
+situatie waarbij de uitkomst van een bepaald proces opnieuw als input voor datzelfde proces
+kan worden gebruikt. Toegepast op het voorbeeld in (1)/(2): de syntaxis bevat een regel die
+twee elementen (woorden of woordgroepen) kan samenvoegen tot een woordgroep; de output van die regel (de woordgroep) kan op basis van diezelfde regel gecombineerd worden met
+een woord (of woordgroep) om een nog grotere woordgroep te maken; die grotere woordgroep kan ook weer als input voor de regel worden gebruikt, en zo verder ad inﬁnitum.
+De observatie dat het Nederlands – en bij uitbreiding: alle natuurlijke talen – hiërarchisch
+opgebouwd is, vormt een van de meest fundamentele bevindingen van de taalkunde. Ze overstijgt dan ook de syntaxis, en is eveneens van toepassing op andere subdisciplines van de taalkunde. Zo zijn niet alleen zinnen, maar ook woorden hiërarchisch opgebouwd. Neem bijvoorbeeld een woord als badhanddoek. Daar waar de syntaxis tot doel heeft om zinnen te ontleden
+in kleinere delen (woorden), ontleedt de morfologie die woorden dan weer in kleinere delen
+(die we morfemen noemen, zie hoofdstuk 3 ). In het geval van badhanddoek is het duidelijk dat
+dit woord uit drie onderdelen bestaat: bad, hand, en doek. En net als bij de zin in (2) voel je
+ook hier aan dat deze drie delen niet op een vlakke, lineaire manier met elkaar gecombineerd
+worden. Een badhanddoek is immers een handdoek die je na je bad gebruikt. Met andere
+woorden, de morfemen hand en doek worden eerst samengenomen tot de grotere eenheid
+handdoek, en pas daarna wordt het derde morfeem bad eraan toegevoegd. Ook hier kunnen
+we deze ontleding weergeven aan de hand van een boomstructuur:
+(4)
+bad
+hand doek
+Kortom, zowel zinnen (syntaxis) als woorden (morfologie) zijn hiërarchisch opgebouwd, ook
+al zijn alle vormen van taal die we in het dagelijkse leven tegenkomen bij het schrijven, lezen,
+spreken, en luisteren lineair en dus niet-hiërarchisch van aard.
+Vooraleer we overgaan tot het gerelateerde concept van hoofdigheid, loont het de moeite
+even aan te stippen dat ook de manier waarop we spraakklanken combineren (het terrein van
+de fonologie, meer speciﬁek de fonotaxis) hiërarchisch verloopt. Zo zou je aanvankelijk kunnen denken dat een woord als krant ontstaat door het als kralen aan een ketting naast elkaar
+plaatsen van vijf klanken: de k-klank wordt gevolgd door de r-klank, die op zijn beurt weer gevolgd wordt door de a-klank, enz. Ook hier zit echter meer (abstracte) structuur in. Een k-klank
+kan bijvoorbeeld gevolgd worden door een r-klank aan het begin van een woord (zoals in krant),
+maar nooit aan het einde: een vorm als *takr is niet alleen geen bestaand woord van het Nederlands, het is ook een onmogelijk woord, d.w.z. geen enkel Nederlands woord kan er zo uitzien.
+Dat betekent dat de klanken aan het begin van een woord – of preciezer, aan het begin van
+een syllabe of lettergreep – een apart subgroepje vormen ten opzichte van de klanken aan het
+einde. Een syllabe bestaat met andere woorden uit twee delen, die we de aanzet en het rijm
+noemen.
+
+ 8
+
+B
+
+(5)
+
+T
+
+:M
+
+syllabe
+aanzet
+kr
+
+rijm
+a
+
+nt
+
+Aangezien dit geen handboek fonologie is, gaan we hier nu niet verder op in, maar het illustreert wel mooi waarom we de aanwezigheid van hiërarchische structuur een van de meest
+fundamentele eigenschappen van natuurlijke taal noemen: je vindt die structuur immers op
+alle niveaus terug.
+
+1.2
+
+Hoofdigheid
+
+Zowel woorden als morfemen worden dus in groepjes samengenomen tot grotere groepen om
+zo uiteindelijk een hele hiërarchische structuur op te bouwen. In deze sectie wordt duidelijk
+dat niet alle leden van die groepjes evenwaardig zijn. Dat kunnen we illustreren door naar de
+voorbeelden in (6) te kijken.
+(6)
+
+a.
+b.
+
+[Erg oude mannen met baarden] zingen een lied.
+melkchocolade
+
+Het tussen vierkante haken geplaatste deel van voorbeeld (6a) vormt een woordgroep die bestaat uit vijf woorden. Het is echter duidelijk dat niet al die woorden even belangrijk zijn. De
+kernbetekenis van erg oude mannen met baarden zit immers vervat in het nomen mannen: dat
+is waar het in die woordgroep om gaat. Zowel de woordgroep erg oude als de woordgroep met
+baarden geven optionele, extra informatie over dat nomen. Bovendien kan je de hele woordgroep ook vervangen door het nomen mannen, zonder dat daarbij de betekenis ingrijpend verandert:
+(7)
+
+Mannen zingen een lied.
+
+De status van mannen binnen de woordgroep erg oude mannen met baarden is dus anders dan
+die van de overige woorden. Aangezien dit woord de kernbetekenis van de hele woordgroep
+draagt en die ook kan vervangen, noemen we mannen hier de
+of het
+van de woordgroep. De overige elementen zijn dan
+. Zo vormt erg oude een
+bij
+de kern mannen, en met baarden een
+. Het hoofd bepaalt de eigenschappen van
+de hele woordgroep. Mannen is bijvoorbeeld een nomen (zie hoofdstuk 2), en dus noemen
+we de woordgroep erg oude mannen met baarden een nominale constituent. Merk op dat de
+termen ‘woordgroep’ en ‘constituent’ min of meer hetzelfde betekenen, maar dat we ze in dit
+handboek niet als inwisselbaar beschouwen. We gebruiken ‘woordgroep’ als een neutrale beschrijving voor een groepje woorden dat een eenheid vormt, en reserveren de term ‘constituent’ voor situaties waarbij we een woordgroep beschrijven in termen van zijn vorm, d.w.z. de
+woordsoort van het hoofd van de woordgroep (zie ook § 10.2 voor verdere bespreking).
+
+ D
+
+9
+
+Om naar een nominale constituent te verwijzen, gebruiken we in wat volgt de term NP, als
+a orting voor de internationaal gangbare term Noun Phrase. Merk op dat de NP in (7) meervoudig is (wat je kan aﬂeiden uit de meervoudige congruentie op het werkwoord zingen), en dat
+dit het gevolg is van het feit dat zijn hoofd ook meervoudig is. Deze relatie tussen een woordgroep en zijn hoofd gaat verder dan enkel NP’s. Zo is de voorbepaling erg oude op zijn beurt ook
+een woordgroep – herinner je dat hiërarchische structuur recursief is. Het hoofd is in dit geval
+het adjectief oude, en het bijwoord erg vormt daar een voorbepaling bij. Het gaat hier dus om
+een adjectivale constituent of AP (Adjective Phrase). Meer in het algemeen stellen we het principe van de
+of de
+voor om de relatie tussen een woordgroep en
+zijn hoofd te deﬁniëren.
+(8)
+
+Het principe van de
+a. Elke woordgroep heeft een hoofd dat de eigenschappen van die woordgroep bepaalt.
+b. Elk woord is het hoofd van een woordgroep waarvan het de eigenschappen bepaalt.
+
+Dit principe heeft verstrekkende gevolgen. Het betekent bijvoorbeeld dat de voorbepaling erg
+in de AP erg oude op zijn beurt ook een woordgroep vormt. Het gaat dan om een adverbiale
+constituent (AdvP), met als hoofd het bijwoord erg (zonder verdere voor- of nabepalingen). Eén
+woord kan met andere woorden ook een (triviale) woordgroep vormen.
+(9)
+
+AP
+AdvP
+
+A
+
+Adv
+erg
+
+oude
+
+Zelfs schijnbaar betekenisloze woorden zoals de prepositie met in (6a) of de lidwoorden de en
+een in (1) moeten volgens de tweede clausule van het principe van de endocentriciteit het hoofd
+vormen van hun eigen woordgroep waarvan ze ook de eigenschappen bepalen. In § 10.2.2 zullen we inderdaad zien dat er ook voorzetselconstituenten (PP’s) bestaan.
+(10)
+
+PP
+P
+
+NP
+N
+
+met
+
+baarden
+
+Ook van lidwoorden en aanwijzende voornaamwoorden is beweerd dat ze de hoofden zijn van
+een constituent – de DP of Determiner Phrase – maar die constituent zullen we binnen het be-
+
+ 10
+
+B
+
+T
+
+:M
+
+stek van dit boek niet verder bespreken.
+De interne stuur van de woordgroep erg oude mannen met baarden kunnen we nu als volgt
+weergeven:
+(11)
+
+NP
+AP
+AdvP
+
+N
+A
+
+PP
+P
+
+Adv
+
+NP
+N
+
+erg
+
+oude
+
+mannen
+
+met
+
+baarden
+
+Tot dusver hebben we het concept ‘hoofdigheid’ enkel bekeken vanuit syntactisch oogpunt.
+Het voorbeeld in (6b) maakt echter duidelijk dat hoofdigheid ook van toepassing is op de morfologie. Het woord melkchocolade bestaat uit twee onderdelen: melk en chocolade. Net zoals
+het geval was in de NP erg oude mannen met baarden is de status van die twee onderdelen niet
+gelijk: melkchocolade is immers een soort van chocolade, en niet een soort van melk. Het morfeem chocolade bepaalt met andere woorden de betekenis van het geheel. Het morfeem chocolade vormt het hoofd van het morfologisch complexe woord melkchocolade, en het morfeem
+melk is daar een bepaling bij.
+Zowel op syntactisch als op morfologisch niveau kunnen we dus spreken van hoofden. De
+plaats waar dat hoofd zich bevindt in het grotere geheel kan echter variëren. In een morfologisch complex woord vinden we het hoofd doorgaans aan de rechterkant. Dat kan je gemakkelijk laten zien door het woord steeds langer te maken en na te gaan welke invloed dat heeft
+op de betekenis. Zo is een handdoek een soort van doek, een handdoekenverkoper een soort
+van verkoper, een handdoekenverkopersbijeenkomst een soort van bijeenkomst, enz., maar als
+we het woord uitbreiden aan de linkerkant, blijft de basisbetekenis behouden: een handdoek,
+badhanddoek, gastenbadhanddoek, enz. zijn allemaal soorten van doeken. De generalisatie dat
+een morfologisch hoofd typisch aan de rechterkant zit, noemen we de R
+(RHHR). We kunnen deze regel abstract als volgt weergeven:
+(12)
+
+a.
+b.
+
+[Y [X α][Y β]]
+Y
+X
+
+Y
+
+α
+
+β
+
+Hier zijn α en β twee morfemen, bijvoorbeeld de morfemen melk en chocolade in het morfologisch complexe woord melkchocolade. X en Y zijn eigenschappen van die twee morfemen.
+De RHHR zegt dan het volgende: als een morfeem α met eigenschap X combineert met een
+morfeem β met eigenschap Y, dan heeft de resulterende combinatie αβ dezelfde eigenschap
+
+ D
+
+11
+
+Y als het rechterlid β. Die algemene eigenschappen X en Y kunnen we op drie verschillende
+manieren concreet invullen.
+Een eerste toepassing van de RHHR heeft betrekking op de
+of lexicale categorie (zie hoofdstuk 2). X en Y in (12) staan dan voor de verschillende lexicale categorieën zoals
+nomen (N), adjectief (A) of verbum (V). De RHHR zegt in zo een geval: als een morfeem α van
+categorie X combineert met een morfeem β van categorie Y, dan is de resulterende combinatie αβ van de categorie Y. Met andere woorden, het rechterlid bepaalt de woordsoort van het
+geheel:
+(13)
+
+a.
+b.
+
+[[kook]V [pot]N ]N
+[[groot]A [vader]N ]N
+
+In kookpot heeft het α-morfeem, nl. kook, de categorie V en het β-morfeem, nl. pot, de categorie N. De αβ-combinatie kookpot heeft dus categorie N. In grootvader levert de combinatie
+van A+N een categorie N op voor het geheel.
+Als de morfemen α en β van dezelfde categorie zijn (m.a.w. als X=Y), dan zie je het verschil
+niet direct. Bij huisdeur, bijvoorbeeld, is zowel huis als deur van de categorie N. Het is dan ook
+niet duidelijk of de vorm huisdeur die categorie overneemt van het linker- of van het rechterlid. Semantisch is er echter geen twijfel: een huisdeur is een soort deur en niet een soort huis.
+Ook de keuze van het lidwoord verraadt dat het rechterlid het hoofd is (het huis, de deur, de
+huisdeur).
+Met die laatste vaststelling zijn we beland bij nog een andere eigenschap van X en Y, nl. het
+van de betrokken morfemen, d.i. het onderscheid tussen de-woorden en het-woorden.
+Als een morfeem α met genus X combineert met een morfeem β met genus Y, dan heeft de
+resulterende combinatie αβ genus Y. Anders gezegd: het genus van het rechterlid bepaalt het
+genus van het geheel. Het eﬀect van de RHHR is het duidelijkst wanneer de morfemen α en β
+(met een verschillend genus) zowel in de combinatie αβ als in de combinatie βα kunnen voorkomen:
+(14)
+
+a.
+b.
+
+[[zak]de [geld]het ]het
+[[geld]het [zak]de ]de
+
+Structureel kunnen we dit als volgt weergeven:
+(15)
+
+a.
+
+Nhet
+
+b.
+
+Nde
+
+Nde
+
+Nhet
+
+Nhet
+
+Nde
+
+zak
+
+geld
+
+geld
+
+zak
+
+Als het β-gedeelte twee genera heeft met een verschillende betekenis, dan weerspiegelt de
+combinatie αβ datzelfde onderscheid:
+(16)
+
+a.
+b.
+
+[[strand]het [bal]de ]de
+[[opening]de [bal]het ]het
+
+ 12
+
+B
+
+T
+
+:M
+
+De strandbal is een voorwerp omdat de bal dat ook is, terwijl het openingsbal een gebeurtenis
+is omdat het bal dat ook is.
+Een derde manier om de X- en Y-eigenschappen uit de RHHR-formule concreet in te vullen
+betreft morfologische kenmerken zoals de vorming van het
+. Als het β-morfeem
+zowel een meervoud op -s als op -en heeft met een verschillende betekenis, dan weerspiegelt
+de combinatie αβ datzelfde onderscheid:
+(17)
+
+a.
+b.
+
+[[nacht]en [portier]s ]s
+[[auto]s [portier]en ]en
+
+Nachtportiers zijn personen omdat portiers dat ook zijn, terwijl autoportieren deuren zijn omdat
+portieren dat ook zijn. Als het β-morfeem, ten slotte, een speciale vorm heeft in het meervoud,
+dan erft de combinatie αβ die afwijking (bv. kinderen en straatkinderen).
+Het moge duidelijk zijn dat de RHHR een centrale rol speelt in de morfologie. De generalisatie dat het hoofd aan de rechterkant staat zal dan ook een leidend principe vormen voor de
+hoofdstukken van deel II. In de syntaxis is de positie van het hoofd meer variabel. Dat kan je al
+zien aan de voorbeelden die we hierboven besproken hebben: in de NP erg oude mannen met
+baarden staat het hoofd in het midden, maar in de AP erg oude staat het achteraan. In het algemeen kunnen we stellen dat het Nederlands op syntactisch niveau meer gebruik maakt van
+voorbepalingen dan van nabepalingen, met andere woorden dat het hoofd doorgaans achteraan staat in de woordgroep. Zoals in § 10.2 echter duidelijk zal worden, zijn er ook veel uitzonderingen op die generalisatie.
+
+1.3
+
+Het principe van compositionaliteit
+
+Het hoofd van een woordgroep of complex woord mag dan wel de kernbetekenis bepalen van
+het geheel, het is duidelijk dat de bepalingen ook bijdragen tot de uiteindelijke betekenis. Zo
+verwijst chocolademelk weliswaar naar een soort van melk, maar de bepaling chocolade maakt
+duidelijk om wat voor soort melk het gaat: melk die smaakt naar chocolade of waarin chocolade is opgelost. Je zou dus kunnen zeggen dat de betekenis van chocolademelk een optelsom
+is van de betekenissen van chocolade en melk. Tegelijk is het echter ook meer dan een eenvoudige som. Dat wordt duidelijk wanneer we chocolademelk vergelijken met melkchocolade. In
+beide gevallen krijgen we een complex woord waarin de betekenissen van zowel melk als chocolade doorschemeren (‘melk die naar chocolade smaakt’ vs. ‘chocolade die op basis van melk is
+gemaakt’), maar de manier waarop we de die twee morfemen hebben samengevoegd – meer
+concreet: het eﬀect van de Rechterhandhoofdregel – bepaalt mee de betekenis van het geheel.
+Dit dubbele mechanisme van betekenisbepaling noemen we het principe van
+. Toegepast op de morfologie kunnen we het als volgt formuleren:
+(18)
+
+Het principe van
+(toegepast op de morfologie)
+De betekenis van een morfologisch complex woord komt tot stand op basis van:
+(a) de betekenissen van de morfemen van dat woord, en
+(b) de manier waarop die morfemen zijn samengevoegd.
+
+ D
+
+13
+
+Datzelfde principe is ook van toepassing op de syntaxis. Bekijken we bijvoorbeeld de NP de
+man met de ballon. Het is duidelijk dat het hoofd man de betekenis van de NP bepaalt (een
+man met een ballon is een soort van man), maar tegelijk voegen de voor- en nabepaling nog
+extra informatie toe, en is de volledige betekenis van de NP een optelsom van de betekenissen
+van de woorden die deel uitmaken van de NP: ballon verwijst naar een ballon, met maakt duidelijk wat de relatie is tussen de man en de ballon, en het bepaald lidwoord de drukt uit dat het
+om een speciﬁeke man en een speciﬁeke ballon gaat. Net als in het morfologische voorbeeld
+van hierboven speelt echter ook de hiërarchische structuur een belangrijke rol in het bepalen
+van de betekenis. De NP de ballon met de man bevat precies dezelfde vijf woorden als de man
+met de ballon, maar heeft een duidelijk verschillende betekenis (namelijk een ballon waar een
+man op afgebeeld staat). Ook hier geldt dus dat de manier waarop de onderdelen worden samengevoegd mee de betekenis van het geheel bepaalt. Toegepast op de syntaxis kunnen we
+het principe van compositionaliteit formuleren als in (19).
+(19)
+
+Het principe van
+(toegepast op de syntaxis)
+De betekenis van een woordgroep of zin komt tot stand op basis van:
+(a) de betekenissen van de woorden in die woordgroep of zin, en
+(b) de manier waarop die woorden zijn samengevoegd.
+
+Eens te meer zijn we met het principe van compositionaliteit dus een concept op het spoor dat
+de tweedeling tussen syntaxis en morfologie overstijgt. We kunnen dit principe dan ook meer
+algemeen formuleren als volgt:
+(20)
+
+Het principe van
+(algemeen)
+De betekenis van een complexe uitdrukking komt tot stand op basis van:
+(a) de betekenissen van de samenstellende delen van die uitdrukking, en
+(b) de manier waarop die delen zijn samengevoegd.
+
+Merk op dat in tegenstelling tot de notie van hiërarchische structuur het principe van compositionaliteit niet van toepassing is op de fonologie. Herinner je bijvoorbeeld dat we een
+woord als krant kunnen opvatten als de (hiërarchische en recursieve) combinatie van vijf klanken. In dat opzicht kan je krant dus beschouwen als “een complexe uitdrukking” zoals bedoeld in (20). De betekenis van krant (volgens Van Dale “op geregelde tijden, meestal dagelijks
+verschijnend drukwerk ter verspreiding van nieuws en wetenswaardigheden en tot voorlichting
+van het publiek”) komt echter niet tot stand op basis van de betekenissen van de klanken van
+dat woord en/of de manier waarop die klanken worden samengevoegd. Woorden die met een k
+beginnen delen bv. niet de betekenis dat ze iets met kranten of drukwerk te maken hebben. We
+stoten hier dus op een fundamentele asymmetrie tussen de morfologie en de syntaxis enerzijds
+en de fonologie anderzijds. Die asymmetrie heeft betrekking op wat de Zwitserse taalkundige
+Ferdinand de Saussure de dubbele articulatie van taaluitingen genoemd heeft. Dit betekent
+dat elk taalteken een vormkant en een betekeniskant heeft (zie hierover ook § 3.2). Morfologische en syntactische processen bouwen complexe vormen op, die ook complexe betekenissen
+hebben. Morfemen worden samengevoegd tot woorden, die op hun beurt worden samengevoegd tot woordgroepen en zinnen, dat alles volgens het principe van de compositionaliteit.
+
+ 14
+
+B
+
+T
+
+:M
+
+De fonologie daarentegen heeft enkel betrekking op de vormkant, en is blind voor betekenis
+omdat ze werkt met bouwstenen en eenheden die geen betekenis dragen (zoals fonemen en
+syllabes).
+Van compositioneel bepaalde betekenissen zoals die van chocolademelk en de man met de
+ballon kunnen we ook zeggen dat ze
+zijn: uit de vorm van dergelijke woorden
+en constituenten kunnen we iets concluderen over de betekenis ervan. De betekenis is dus
+gemotiveerd vanuit de vorm. Het feit dat zowel de morfologie als de syntaxis het principe van
+compositionaliteit volgen en dus gemotiveerde betekenissen opleveren, betekent overigens
+niet dat er geen uitzonderingen zijn op dit principe. Bekijken we in dat verband de volgende
+voorbeelden.
+(21)
+
+a.
+b.
+
+De aap komt uit de mouw.
+droogstoppel
+
+De betekenis van de complexe taaluitingen in (21) is niet-compositioneel opgebouwd. Zo vinden we in de betekenis van De aap komt uit de mouw (‘Datgene wat iemand verborgen wil houden, komt voor de dag’) niet de betekenissen van aap (‘vierhandig zoogdier van de onderorde
+Anthropoidea van de orde van de primaten’) of mouw (‘elk van de delen van een kledingstuk
+waarin de arm wordt gestoken’) terug, en een droogstoppel (‘saai, vervelend mens’) heeft niets
+te maken met droog (‘niet of niet meer nat of vochtig’) of met stoppel (‘het boven de grond
+overblijvende gedeelte van halmen na het maaien’). Deze betekenissen zijn niet gemotiveerd,
+maar
+. In het geval van niet-compositionele betekenissen van syntactische constitu.
+enten zoals die in (21a) spreken we dan over
+Bij morfologisch complexe woorden bevinden we ons vaak in een overgangszone tussen
+strikt compositionele en strikt niet-compositionele betekenissen. Zo is een stadhuis wel degelijk een soort van huis dat in de stad staat – en zien we dus een duidelijke mate van compositionaliteit – maar tegelijk gaat het niet om om het even welk huis in de stad, maar heel speciﬁek
+om het huis waarin het bestuur van een stad gevestigd is. Van dergelijke gevallen stellen we
+dat er sprake is van een compositionele betekenis waarin
+of
+optreedt: het onderdeel huis krijgt hier een andere, meer speciﬁeke betekenis dan het normaal gesproken krijgt, maar de betekenis van het hele woord stadhuis is wel
+nog steeds compositioneel opgebouwd en dus gemotiveerd.
+
+1.4
+
+Structurele ambiguïteit
+
+In de vorige sectie hebben we geïllustreerd dat de manier waarop morfemen en woorden worden samengevoegd bijdraagt aan de betekenis van het complexe woord of de woordgroep die
+zo ontstaat. De woorden chocolademelk en melkchocolade bestaan uit dezelfde morfemen,
+maar omdat ze op een verschillende manier zijn samengevoegd, betekenen de twee woorden
+iets anders. Hetzelfde geldt voor de NP’s de man met de ballon en de ballon met de man. Soms
+kan je echter aan het woord of de constituent niet zien dat er sprake is van twee verschillende
+hiërarchische structuren. We spreken dan van
+. Ambiguïteit is het fenomeen waarbij een en dezelfde taaluiting meer dan één betekenis kan hebben. Die meervou-
+
+ D
+
+15
+
+dige betekenis kan op verschillende manieren tot stand komen. De zin in (22) is bijvoorbeeld
+. Het woord bank kan zowel naar een zitmeubel verwijzen als naar een ﬁnanciële instelling, en aangezien dit voorbeeld niet duidelijk maakt welke betekenis hier bedoeld
+wordt, is ook de hele zin ambigu: hij kan zowel ‘Ik kijk naar het zitmeubel’ betekenen als ‘Ik kijk
+naar de ﬁnanciële instelling’.
+(22)
+
+Ik kijk naar de bank.
+
+(23)
+
+Ik zie de man met de verrekijker.
+
+In het voorbeeld in (24) is er echter iets anders aan de hand. Deze zin heeft ook twee betekenissen. In het eerste geval verwijst hij naar een situatie waarbij de spreker gebruikmaakt van
+een verrekijker om naar een man te kijken. In de tweede betekenis ziet de spreker een man die
+een verrekijker bij zich heeft. Deze ambiguïteit is echter niet lexicaal van aard: alle woorden
+van deze zin hebben precies dezelfde betekenis in beide interpretaties.
+De ambiguïteit van (23) is structureel van aard: het is de manier waarop de woorden worden
+samengevoegd (de tweede clausule van het principe van compositionaliteit) die het betekenisverschil veroorzaakt. Laten we dat wat concreter maken. De tweede betekenis van de zin in
+(23) (de spreker ziet een man die een verrekijker bij zich heeft) kunnen we weergeven aan de
+hand van de boomstructuur in (24) (waarbij we de hoogste knoop van de boomstructuur gemakshalve even weergeven als S, wat staat voor ‘Sentence’).
+(24)
+
+S
+NP
+
+VP
+
+ik V
+zie
+
+NP
+D
+
+N
+
+PP
+
+de man P
+
+NP
+
+met D
+
+N
+
+de verrekijker
+
+Let goed op het onderdeel van de structuur dat we omcirkeld hebben. Dit deel van de boomstructuur bevat de woordgroep de man met de verrekijker. Het gaat hier om een NP met als
+hoofd het nomen man en als nabepaling de PP met de verrekijker. Deze NP verwijst dus naar
+een (speciﬁeke) man die een (speciﬁeke) verrekijker bij zich heeft. Wanneer we die NP vervolgens combineren met het werkwoord zie en daarna de hele woordgroep met het onderwerp ik,
+dan ontstaat een van de twee betekenissen die hierboven beschreven werden: de spreker ziet
+een man die een verrekijker bij zich heeft. We kunnen de verschillende onderdelen van de zin
+
+ 16
+
+B
+
+T
+
+:M
+
+in (23) echter ook op een andere manier samenvoegen. Dat wordt weergegeven in de structuur
+in (25).
+(25)
+
+S
+NP
+
+VP
+
+ik V
+
+NP
+
+zie
+
+D
+
+PP
+N
+
+P
+
+de man
+
+NP
+
+met D
+
+N
+
+de verrekijker
+
+In deze structuur is er niet langer een knoop die overeenkomt met de omcirkelde NP uit de
+boom in (24), m.a.w. er is niet langer een woordgroep de man met de verrekijker. Er is wel een NP
+de man en een PP met de verrekijker (allebei omcirkeld). De PP met de verrekijker is nu immers
+geen nabepaling bij man meer, maar wel bij zie. Het gevolg daarvan is dat met de verrekijker nu
+meer informatie geeft over de manier waarop de spreker de zie-handeling verricht, namelijk
+gebruikmakend van een verrekijker. Op die manier ontstaat de andere betekenis van de zin: de
+spreker maakt gebruik van een (speciﬁeke) verrekijker om naar een (speciﬁeke) man te kijken.
+Dit voorbeeld laat nogmaals het belang zien van hiërarchische structuur: de twee betekenissen
+van de zin in (23) bevatten precies dezelfde lineaire aaneenschakeling van woorden. Het is pas
+door naar de (meer abstracte) hiërarchische structuur van de zin te kijken dat we begrijpen op
+welke manier de twee betekenissen tot stand komen.
+Aangezien ook morfologische structuur hiërarchisch is opgebouwd en het principe van compositionaliteit respecteert, hoeft het niet te verbazen dat we ook daar voorbeelden van structurele ambiguïteit aantreﬀen (al moet wel worden aangestipt dat dergelijke voorbeelden in de
+morfologie minder frequent zijn dan in de syntaxis). Zo kan het woord tuinboonkever bijvoorbeeld verwijzen een kever met een voorliefde voor tuinbonen of naar een boonkever die we
+voornamelijk in de tuin aantreﬀen. In het eerste geval kunnen we de structuur van dit woord
+weergeven als in (26), terwijl voor de tweede betekenis de boomstructuur in (27) de correcte
+weergave vormt.
+(26)
+
+N
+N
+N
+
+N
+
+tuin
+
+boon
+
+(27)
+
+N
+
+N
+
+N
+
+kever
+
+tuin
+
+N
+N
+
+N
+
+boon
+
+kever
+
+ D
+
+1.5
+
+17
+
+Valentie en subcategorisatie
+
+Stel dat je de opdracht krijgt een zin te maken die een vorm van het werkwoord begrijpen bevat.
+Hoewel dit een erg open opdracht is die veel ruimte laat voor eigen creativiteit, legt de keuze
+van het woord begrijpen meteen een aantal beperkingen op. Inherent aan de betekenis van dit
+werkwoord is immers dat het gaat om een activiteit die twee participanten heeft: de persoon
+die begrijpt en diegene die (of datgene wat) begrepen wordt. Anders gesteld, het werkwoord
+begrijpen moet gecombineerd worden met zowel een subject als een direct object. Dergelijke
+combinatievereisten die voortvloeien uit de betekenis van een woord noemen we de
+van dat woord. Valentie is een begrip dat een erg belangrijke rol speelt bij zinsontleding
+(zie deel 3). De meest duidelijke voorbeelden van valentie zien we bij werkwoorden. Vergelijk bijvoorbeeld begrijpen enerzijds met slapen of geven anderzijds. Daar waar er bij begrijpen
+twee participanten zijn, is er bij slapen maar één (de slaper), en zijn er bij geven drie (de gever,
+de ontvanger, en datgene wat gegeven wordt). Een synoniem voor valentie is
+:
+een (werk)woord creëert een aantal open plaatsen die moeten worden ingevuld door andere
+zinsdelen. Zo kunnen we zeggen dat slapen
+is, begrijpen
+, en geven
+.
+Valentie is niet de enige beperking die woorden kunnen opleggen aan hun omgeving. Om
+dat te illusteren kunnen we kijken naar het werkwoordenpaar horen/luisteren. Deze twee werkwoorden hebben een sterk verwante betekenis en daardoor dus ook dezelfde valentie. In beide
+gevallen zijn er twee participanten (ze zijn dus allebei tweeplaatsig): een auditief signaal en de
+ontvanger van dat signaal. De zinnen waarin deze werkwoorden kunnen verschijnen verschillen echter grondig van elkaar: terwijl luisteren verplicht gecombineerd wordt met de prepositie
+naar, is dat voorzetsel onwelgevormd en dus afwezig in combinatie met horen.
+(28)
+
+a. Ik luister naar de muziek.
+b. *Ik luister de muziek.
+
+(29)
+
+a. *Ik hoor naar de muziek.
+b. Ik hoor de muziek.
+
+Naast restricties die voortvloeien uit hun betekenis (valentie), kunnen woorden dus ook formele beperkingen opleggen aan de constituenten in hun omgeving, d.w.z. beperkingen met
+betrekking tot de vorm of woordsoort van de woordgroepen waarmee ze gecombineerd worden. Deze formele beperkingen noemen we
+. Zo is het werkwoord horen
+gesubcategoriseerd voor een NP (de muziek) en het werkwoord luisteren voor een PP (naar de
+muziek).
+Ook binnen de morfologie spelen valentie en subcategorisatie een rol, zij het soms op een
+iets andere manier. Valentie zien we voornamelijk opduiken wanneer een morfologisch complex woord een werkwoord bevat als een van zijn onderdelen. Zo bestaat het woord haaruitval
+enerzijds uit het nomen haar en anderzijds uit het werkwoord uitval (dat overigens ook op zijn
+beurt weer uit twee delen bestaat: uit en val). Het werkwoord uitvallen is eenplaatsig: er is
+slechts één participant nodig om de betekenis volledig te maken, namelijk datgene wat (of diegene die) uitvalt. Als we een zin zouden maken met dit werkwoord, dan zou die ene participant
+
+ 18
+
+B
+
+T
+
+:M
+
+uitgedrukt worden door het subject van de zin (bv. Zijn haar valt uit), maar in het geval van het
+morfologisch complexe woord haaruitval vervult het eerste deel van dat woord die functie. We
+zien dus hoe de open plaatsen in de valentie van een woord niet enkel kunnen worden ingevuld
+door zinsdelen (het terrein van de syntaxis), maar ook door morfemen (de morfologie).
+Om de rol van subcategorisatie binnen de morfologie te illusteren, kunnen we ons richten
+tot een woord als drukte. Ook dit bestaat uit twee delen: het adjectief druk en het suﬃx -te (§
+3.3.1). Dat suﬃx legt net als de werkwoorden horen en luisteren in de voorbeelden in (28)–(29)
+formele vereisten op aan de morfemen waarmee het kan worden gecombineerd. Zo kan -te
+enkel gecombineerd worden met adjectieven zoals geïllustreerd in (30a) (en in zeer beperkte
+mate met werkwoorden, zie (30b)), maar nooit met nomina, zoals de voorbeelden in (30c) laten zien. Merk op dat de onwelgevormdheid van de woorden in (30c) niet gerelateerd is aan de
+betekenis van -te. Zo zou *menste in principe perfect kunnen worden gebruikt om te verwijzen naar ‘het mens zijn’ (net zoals leegte ‘het leeg zijn’ betekent). Sterker nog, woorden zoals
+mensheid en mensdom drukken precies die betekenis uit. Het gaat hier dus om een puur formele beperking. We zeggen dan ook dat het suﬃx -te gesubcategoriseerd is voor adjectieven
+(en in zeer beperkte mate ook voor werkwoorden), maar niet voor nomina.
+(30)
+
+a. breedte, diepte, leegte, scherpte, warmte, droogte, …
+b. schaamte, sterfte, behoefte
+c. *menste, *boomte, *dorpte
+
+1.6
+
+Verwijzingen
+
+Voor algemene introducties in de grammatica van het Nederlands die het belang van hiërarchische structuur benadrukken, verwijzen we naar Sybesma (2002) en Bennis (2000). Het principe
+van compositionaliteit wordt uitvoerig besproken in Van Craenenbroeck & Vanden Wyngaerd
+(2015) en Smessaert (2019). De fonologie van het Nederlands wordt behandeld in Smessaert
+& Decoster (2019).
+
+ 

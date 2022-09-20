@@ -1,0 +1,380 @@
+Part 5
+Inefficient market 
+allocations 
+Information and behavioural economicsChapter 12
+Information and 
+behavioural economicsIntroduction 236
+• De traditionele economische theorie gaat uit van rationaliteit en
+eigenbelang. Toch is menselijk gedrag vaak complex en kunnen
+inzichten in de psychologie het menselijk gedrag beter verklaren.
+• Behavioural economics is one such area where economists are
+exploring new boundaries of understanding how humans make
+choices using the insights from psychology.Overzicht
+/
+1. Principal and agent  (p.236-237)
+2. Asymmetric information (p.237-243)
+3. Deviations from the standard economic model (p.243 - 246)
+4.   Conclusion (p. 246)1. Principal and agent 236
+Principaal- agent probleem:
+• Bedrijfseigenaars (aandeelhouders) zijn de principalen.
+• Werknemers (arbeiders en managers) zijn de agenten.
+• Eigenaars willen maximale winst, maar kunnen de acties en
+inspanningen van hun werknemers en managers niet rechtstreeks
+observeren.
+• Werknemers en managers kunnen andere doelstellingen nastreven
+en aldus de winsten voor de eigenaars verminderen.
+• De belangen van de agent zijn niet steeds in overeenstemming
+met de belangen van de principaal en de onzekerheid die hierover
+bestaat komt voort uit het probleem van asymmetrische
+informatie.1. Principal and agent 236
+Voorbeeld principaal- agent probleem:
+• Iemand wil een reis maken en stapt een reisbureau binnen. De
+reiziger/klant is de principaal, het reisbureau is de agent.
+• De reiziger drukt zijn voorkeuren uit aan het reisbureau waarop
+het reisbureau de reiziger een bestemming adviseert en een hotel
+aanprijst. De reiziger weet niet of het aangeprezen hotel volledig
+inspeelt op zijn behoeften of dat het hotel wordt aangeprezen
+omwille van de hoge winstmarges die het reisbureau kan
+opstrijken door leegstaande hotelkamers op te vullen in deze regio.
+• Het probleem van asymmetrische informatie kan verkleind worden
+wanneer de reiziger zelf bijkomende informatie zoekt via
+beoordelingen op het internet maar dit veroorzaakt bijkomende
+kosten voor de reiziger. (o.a. opportuniteitskost van tijd)2.  Asymmetric information 237
+• Imperfecte informatie:
+o komt voor wanneer we iets niet met zekerheid weten, bvb.:
+• over de toekomst: de neerslag volgende zomer?
+• het heden: het exacte aantal mensen op Aarde vandaag?
+• het verleden: de auteur van een oude, niet ondertekende tekst?
+o gaat over één marktpartij die geen volledige informatie heeft.
+• Asymmetrische informatie:
+o gaat over ongelijke informatie tussen meerdere marktpartijen.
+o de minst geïnformeerde marktpartij heeft per definitie altijd te 
+maken met imperfecte informatie.238
+Soorten asymmetrische informatie
+• Bij volmaakte mededinging wordt verondersteld dat vragers & 
+aanbieders “symmetrisch” (= en dus even goed) geïnformeerd zijn. In 
+de realiteit is dat niet zo en is er een marktfalen. We onderscheiden:
+• Postcontractuele asymmetrische informatie:
+o Bvb. een verzekering tegen fietsdiefstal
+o Dit kan (na het afsluiten van het contract) leiden tot ‘moreel’ 
+risico voor de verzekeraar omdat de verzekerde zijn fietsslot 
+minder gebruikt (verborgen acties).
+• Precontractuele asymmetrische informatie:
+o Bvb. op de markt voor tweedehandswagens
+o De koper/principaal is (vóór het afsluiten van het contract) 
+minder geïnformeerd over de kwaliteit van de wagen dan de 
+verkoper/agent (verborgen gebreken).Postcontractuele asymmetrische  238
+informatie
+• ‘verborgen’ acties na het afsluiten van een contract om de eigen 
+situatie te verbeteren.
+• Bvb. verzekeringen:
+o Sommige verzekerden lokken het risico uit om de premie op te 
+strijken (brandstichting).
+o Sommige verzekerden nemen minder voorzorgsmaatregelen om 
+zich tegen het risico te beschermen (stormschade).
+o Soms overconsumptie (gezondheidszorg/uitkeringen).
+• Inefficiëntie:
+o Moreel risico (=immoreel gedrag) leidt tot meer/hogere 
+uitbetalingen waardoor verzekeringspremies van verplichte 
+verzekeringen duur worden voor de maatschappij.Beheersen van moreel risico
+238
+• Toezicht en verificatie:
+o Minimale brandpreventie wordt door verzekeraar geëist in de polis 
+(brandmelders, …).
+o Verborgen acties proberen te detecteren via camera’s.
+• Prikkels:
+o Werknemers een hoger dan gemiddeld loon betalen zodat de kost van 
+ontslag bij detectie van immoreel gedrag voor de werknemer groter 
+wordt.
+o Bonus-malussysteem voor autoverzekeringspremie
+(brokkenmakers betalen hogere premie)
+o Remgeld of franchise
+(Bvb. autoverzekering)
+o Prestatie gebonden loon en flexibele aanstelling
+
+(aandelen-opties voor managers)  extra toepassingExtra toepassing : beloningssysteem
+/
+• Een beloningssysteem ontwerpen dat de werknemers en managers 
+(= agenten) de juiste prikkels geeft om de winst van de werkgever (= 
+principaal) te maximaliseren.
+Voorbeeld: een uurwerkbedrijf
+• De eigenaar wil zijn winst maximaliseren:
+o winst = omzet – loon
+o de omzet (en dus ook de winst) hangt af van:
+1. de inspanningen van de arbeiders;
+2. de nodige portie geluk (defecte machine).Extra toepassing : beloningssysteem
+/
+• Arbeiders moeten machines onderhouden:
+o welzijn arbeider = loon – kost van de inspanning
+o deze kost is afhankelijk van de inspanning:
+
+• lichte inspanning:  a = 0  kost = 0 
+
+• zware inspanning: a = 1  kost = 10.000
+• Omzet bij pech (50% kans) of geluk en bij lichte (a=0) en zware
+inspanning (a=1):
+pech geluk
+kans 0,50 0,50
+a= 0 €10,000 €20,000
+a= 1 €20,000 €40,000Extra toepassing : beloningssysteem
+/
+pech geluk
+kans 0,50 0,50
+a= 0 €10,000 €20,000
+a= 1 €20,000 €40,000
+• Probleem => twee combinaties leiden tot dezelfde omzet :
+o hoge inspanning & pech, en
+o lage inspanning & geluk
+• Indien de omzet = 20.000 kan de eigenaar bijgevolg de 
+inspanningen van de arbeiders niet afleiden uit de gerealiseerde 
+omzet.
+• Hoe de werknemers toch voldoende financieel motiveren?Situatie 1: vast loon w
+/
+• De agent kiest een inspanning die zijn welzijn maximaliseert:
+o Bij a = 0: welzijn = w
+o Bij a = 1: welzijn = w – 10.000
+• Ongeacht de grootte van w zal de agent altijd een inspanning a = 0 
+kiezen.
+• De (verwachte) winst voor de ondernemer bedraagt dan:
+0,5x10.000 + 0,5x20.000 – w = 15.000 – w.
+• De agent deelt niet in de winst van de principaal en heeft bijgevolg 
+geen prikkel om een zware inspanning te leveren …Situatie 2: Bonus
+/
+• Het loon w maakt een sprong bij een hoge omzet:
+o w = 0  als omzet <= 20.000  en
+o w = 24.000    als omzet >  20.000 
+• De agent kiest hoogste (verwachte) welzijn:
+o Bij a = 0:  0,5x(0 - 0) + 0,5x(0 - 0) = 0
+o Bij a = 1:  0,5x (0-10.000) + 0,5x (24.000-10.000) = 2.000
+• De verwachte winst bedraagt: 
+0,5x(20.000 - 0) + 0,5x(40.000 - 24.000) = 18.000
+• De agent deelt in de winst van de principaal en heeft nu steeds een
+prikkel om zware inspanning te leveren.Situatie 3: Participatie
+/
+• Loon w als deel van de omzet wanneer de omzet voldoende groot is:
+o w = 0  als omzet <= 18.000
+o w = omzet– 18.000  als omzet >  18.000 
+• Agent kiest hoogste (verwachte) welzijn:
+o Bij a = 0: 0,5x(0 - 0) + 0,5x(2.000 - 0) = 1.000
+o Bij a = 1: 0,5x(2.000 – 10.000) + 0,5x(22.000 – 10.000) = 
+2.000
+• Hier bedraagt de verwachte winst:
+0,5x(20.000 – 2.000) + 0,5x(40.000 - 22.000) = 18.000
+• Zelfde verwachte winst als onder het bonussysteem.Beheersen van moreel risico
+/
+• Soms is regelgeving nodig:
+o Na de deregulering van de bankensector onstaan nieuwe financiële 
+producten (o.a. CDO’s of herverpakte rommelkredieten) waarvan de 
+klant (principaal) vaak het risico van de belegging niet kan inschatten.
+o De bankiers (agenten) dragen geen enkele kost van immoreel gedrag 
+aangezien het risico door de klant wordt gedragen en in het geval van 
+een bankencrisis de kosten naar de overheid worden overgeheveld.
+o Door het bonussysteem worden bankiers nog meer geprikkeld om 
+zoveel mogelijk financiële producten te verkopen.
+o Bij de verkoop van CDO’s werd het probleem van asymmetrische 
+informatie nog verstrekt door de rol van de ratingbureau’s.
+o Immoreel institutioneel gedrag: wanneer sommige individuen voorkennis 
+hebben, is er risico op machtsmisbruik en kan de welvaart in een vrije 
+markt ernstig aangetast worden. (Stiglitz won met zijn onderzoek over 
+asymmetrische informatie  de Nobelprijs voor economie in 2001).Precontractuele asymmetrische  238
+informatie: gevaar voor averechtse selectie
+Voorbeeld: de markt voor tweedehandsauto’s
+• Er zijn 40% slechte wagens waarvoor:
+o de kopers (maximaal) 3.000€/auto willen betalen
+o de verkopers (minimaal) 2.000€/auto willen krijgen
+• Er zijn 60% goede wagens waarvoor:
+o de kopers (maximaal) 6.000€/auto willen betalen
+o de verkopers (minimaal) 4.000€/auto willen krijgenPrecontractuele asymmetrische  239
+informatie: 
+• SITUATIE 1: Indien de markt voor tweedehandsauto’s perfect 
+competitief zou zijn:
+o is er symmetrische informatie
+o kunnen kopers (principaal) en verkopers (agent) perfect het 
+verschil zien tussen goede en slechte wagens
+o dan zouden er 2 afzonderlijke markten ontstaan: 
+1 voor goede wagens (= “peaches”) en                                        
+1 voor slechte wagens (= “lemons”)Situatie 1: Symmetrische informatie 
+/
+• geen efficiëntieprobleem (de welvaart, enkel als PS, is maximaal),
+• geen verdelingsprobleem (auto’s komen bij “juiste” mensen terecht)
+A
+A
+p S p G
+V (MBB ) E
+G  G G
+6.000
+PS
+4.000
+V (MBB ) E
+S   S S
+3.000
+PS
+2.000
+40 %
+60
+%
+slechte auto’s 
+goede auto’s
+(« lemons »)
+(« peaches »)Precontractuele asymmetrische  239
+informatie: 
+In realiteit is er echter ‘asymmetrische informatie’. De kopers kennen de 
+kwaliteit niet, de verkopers wél. Daardoor is er nog slechts één markt: de 
+markt voor een tweedehandswagen.
+• SITUATIE 2: Als ze de kansen juist inschatten,  zullen de kopers ten 
+hoogste de verwachte waarde =  6.000 x 0,6+ 3.000 x 0,4 = 4.800€ 
+willen betalen voor een  tweedehandswagen.
+• Er is een evenwicht op de tweedehandsmarkt:
+o De bereidheid tot betalen  = 4.800€  is hoger  dan wat de                                              
+verkopers willen krijgen voor een tweedehandswagen 
+(2.000€ voor een ‘slechte’ en 4.000€ voor een ‘goede’).Situatie 2: Asymmetrische informatie: 
+/
+• geen efficiëntieprobleem (het totale PS is hetzelfde gebleven),
+• wel verdelingsprobleem (auto’s komen niet altijd bij “juiste” mensen
+terecht)
+A A
+p S p G
+V (MBB )
+G  G
+6.000
+-
+E
+S
+4.800
+V (MBB )
+?  ?
++
+E
+4.000 G
+3.000
+V (MBB )
+S   S
+2.000
+40 % 60
+%
+slechte auto’s goede auto’s
+(« lemons ») (« peaches »)Asymmetrische informatie:  239
+ontstaan van averechtse selectie
+• SITUATIE 3: Veronderstel “verkeerde” inschatting van de kansen:
+o 20% kans op een goede en 80% kans op een slechte wagen.
+• De kopers zullen nu ten hoogste 6.000 x 0,2 + 3.000 x 0,8 = 3.600€ 
+willen betalen voor een tweedehandswagen.
+• Is er een evenwicht op de tweedehandsmarkt? Nee !
+o De bereidheid tot betalen (3.600€) is nu lager dan wat verkopers 
+willen krijgen voor ‘goede’ wagen (4.000€).
+o Verkopers zullen ‘goede’ wagens van de tweedehandsmarkt 
+weghouden en enkel ‘slechte’ verkopen.
+o Nu is de verwachte waarde (3.600€) > de gemiddelde waarde van 
+de auto’s die op de markt komen = 6.000 x 0 + 3.000 x 1 = 
+3.000€ Situatie 3: Averechtse selectie 
+/
+• wel efficiëntieprobleem (het totale PS is gedaald),
+• geen verdelingsprobleem (auto’s komen bij “juiste” mensen terecht,
+namelijk bij diegenen die een slechte auto willen)
+A A
+S p G
+p
+V (MBB )
+G  G
+6.000
+-
+E
+4.000
+S
+3.600
+V (MBB )
++
+?  ?
+3.000
+E
+G
+V (MBB )
+S   S
+2.000
+40 % 60
+%
+slechte auto’s goede auto’s
+(« lemons ») (« peaches »)Asymmetrische informatie: averechtse 
+240
+selectie 
+ ‘Slechte’ wagens drijven ‘goede’ wagens uit de markt.
+ Kopers corrigeren de inschatting van hun kansen
+zodat de verwachte waarde uiteindelijk daalt tot 3.000€.
+ Soortgelijke situatie: 
+o de arbeidsmarkt: wanneer de ondernemer de lonen van zijn 
+werknemers verlaagt, zullen eerder de beste werknemers hun 
+arbeidscontract opzeggen.
+o de verzekeringsmarkt: mensen met gezondheidsproblemen 
+zullen sneller een ziekteverzekering afsluiten dan gezonde 
+mensen waardoor uiteindelijk de kost van deze verzekering 
+te hoog wordt voor mensen die inschatten dat ze er weinig 
+gebruik van zullen maken.Beheersen van averechtse selectie:
+240
+initiatief door best geïnformeerde
+• ‘Signalling’ is het geven van bijkomende informatie door de best 
+geïnformeerde marktpartij (indirect want via keuze)
+o Voorbeelden: garantie bij een tweedehandswagen of bij antiek, 
+onderwijsdiploma’s, …
+o Is ‘indirect’ ... (verkoper zegt niet dat antiek echt is)
+o Dit werkt enkel als het duurder is voor een verkoper van 
+‘slechte’ producten om dit signaal te geven.
+• ‘Co-payment’ is een vorm van ‘signalling’ via resultaatsgebonden
+betaling
+o Verkoper van een fruitgaard beweert dat de fruitgaard 
+uitzonderlijk veel fruit oplevert. In plaats van een hoger bedrag 
+stelt hij daarom voor hem een deel van de opbrengst te geven.
+o Dit werkt enkel als het duurder is voor een verkoper van 
+‘slechte’ producten om dit signaal te geven.Beheersen van averechtse selectie:
+241
+initiatief door minst geïnformeerde
+• Direct verwerven van bijkomende informatie door minst 
+geïnformeerde:
+o Tweedehandswagen laten doorlichten door een expert 
+(dit werkt alleen maar als de kost van de expert kleiner is dan het 
+verwachte, bijkomende surplus).
+o Examen en sollicitatiegesprek voor sollicitanten.
+• ‘Screening’ is het verwerven van bijkomende informatie door de 
+minste geïnformeerde marktpartij via zelf-selectie (= indirect want 
+via keuze):
+o ‘Salomonsoordeel’.
+o Verplichte medische test bij verzekering.
+o Menu van vluchttickets (boektermijn, weekend).3. Afwijkingen van het standaardmodel 243
+• Mensen zijn niet altijd rationeel:
+o Mental accounting: soms voelen mensen zich beter bij een 
+bepaalde gewoonte, ook als is deze niet rationeel.
+o Herd accounting: iedereen doet het, dus ik ook want het zal wel 
+goed / rationeel zijn.
+o Prospect theory: a theory that suggests people attach different 
+values to gains and losses and do so in relation to some 
+reference point.
+• Mensen willen eerlijke transacties:
+o Mensen weigeren soms een voordeel van een transactie (niet 
+rationeel) wanneer ze vinden dat een andere partij nog meer 
+voordeel geniet: voorkeur dat de transactie helemaal niet 
+doorgaat.3. Afwijkingen van het standaardmodel
+244
+• Mensen zijn inconsistent doorheen de tijd:
+o Voorkeur om zware inspanningen uit te stellen ook al worden 
+deze inspanningen zwaarder hoe langer men ze uitstelt.
+o Goede voornemens zoals stoppen met roken, worden niet 
+volgehouden omdat de verleiding tot het onmiddellijke genot te 
+groot is.
+o Om toch een goed voornemen vol te houden, zoals bvb. sparen 
+voor later/ voor pensioen, gaan sommige spaarproducten de 
+klant financieel straffen wanneer hij vóór de vervaldag geld wil 
+opnemen om de klant te beschermen tegen de verleiding van de 
+onmiddellijke consumptie.246
+4. Conclusie
+• De belangen van de agent zijn niet hetzelfde als de belangen 
+van de principaal wat leidt tot een inefficiënte marktuitkomst 
+veroorzaakt door  asymmetrische informatie.
+• Precontractuele asymmetrische informatie kan leiden tot het 
+ontstaan van averechtse selectie terwijl postcontractuele 
+asymmetrische informatie leidt tot moreel risico.
+• Bij signalling zal de meest geïnformeerde partij informatie 
+verschaffen via een geloofwaardig signaal terwijl bij screening 
+indirect informatie wordt gewonnen door de minst 
+geïnformeerde partij.Recommended excercises 248-249
+Chapter 12:
+- Questions for review p. 248: 1-4-5-6
+- Problems and applications p. 249: 1-3-4-8

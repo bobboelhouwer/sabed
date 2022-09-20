@@ -1,0 +1,1491 @@
+Overzicht
+Inleiding
+Lineariteit vs. hiërarchie
+Hoofdigheid
+Compositionaliteit
+Structurele ambiguïteit
+Valentie & subcategorisatie
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Hoofdigheid
+(12)
+
+[Erg oude mannen met baarden] zingen een lied.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Hoofdigheid
+(12)
+
+[Erg oude mannen met baarden] zingen een lied.
+
+(13)
+
+Het principe van de
+a. Elke woordgroep heeft een hoofd dat de eigenschappen van
+die woordgroep bepaalt.
+b. Elk woord is het hoofd van een woordgroep waarvan het de
+eigenschappen bepaalt.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Hoofdigheid
+
+erg oude mannen met baarden
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Hoofdigheid
+▶
+
+handdoek
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Hoofdigheid
+▶
+▶
+
+handdoek
+badhanddoek
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Hoofdigheid
+▶
+
+handdoek
+badhanddoek
+▶ gastenbadhanddoek
+▶
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Hoofdigheid
+▶
+
+handdoek
+badhanddoek
+▶ gastenbadhanddoek
+▶
+
+▶
+
+handdoek
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Hoofdigheid
+▶
+
+handdoek
+badhanddoek
+▶ gastenbadhanddoek
+▶
+
+▶
+▶
+
+handdoek
+handdoekenverkoper
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Hoofdigheid
+▶
+
+handdoek
+badhanddoek
+▶ gastenbadhanddoek
+▶
+
+▶
+
+handdoek
+handdoekenverkoper
+▶ handdoekenverkoperspet
+▶
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Hoofdigheid
+▶
+
+handdoek
+badhanddoek
+▶ gastenbadhanddoek
+▶
+
+▶
+
+handdoek
+handdoekenverkoper
+▶ handdoekenverkoperspet
+▶ handdoekenverkoperspettenwinkel
+▶
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Hoofdigheid
+▶
+
+handdoek
+badhanddoek
+▶ gastenbadhanddoek
+▶
+
+▶
+
+handdoek
+handdoekenverkoper
+▶ handdoekenverkoperspet
+▶ handdoekenverkoperspettenwinkel
+▶
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Hoofdigheid
+▶
+
+handdoek
+badhanddoek
+▶ gastenbadhanddoek
+▶
+
+▶
+
+handdoek
+handdoekenverkoper
+▶ handdoekenverkoperspet
+▶ handdoekenverkoperspettenwinkel
+▶
+
+(14)
+
+Rechterhandhoofdregel (RHHR)
+In gelede woorden is het rechterlid typisch het hoofd.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Hoofdigheid
+▶
+
+handdoek
+badhanddoek
+▶ gastenbadhanddoek
+▶
+
+▶
+
+handdoek
+handdoekenverkoper
+▶ handdoekenverkoperspet
+▶ handdoekenverkoperspettenwinkel
+▶
+
+(14)
+
+Rechterhandhoofdregel (RHHR)
+In gelede woorden is het rechterlid typisch het hoofd.
+
+(15)
+
+[Y [X α][Y β]]
+
+(16)
+
+Y
+X
+
+Y
+
+α
+
+β
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Hoofdigheid
+▶
+
+Manieren om het hoofd van een geleed woord te detecteren:
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Hoofdigheid
+▶
+
+Manieren om het hoofd van een geleed woord te detecteren:
+1.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Hoofdigheid
+▶
+
+Manieren om het hoofd van een geleed woord te detecteren:
+1.
+(17)
+
+chocolademelk vs. melkchocolade
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Hoofdigheid
+▶
+
+Manieren om het hoofd van een geleed woord te detecteren:
+1.
+(17)
+
+chocolademelk vs. melkchocolade
+
+2.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Hoofdigheid
+▶
+
+Manieren om het hoofd van een geleed woord te detecteren:
+1.
+(17)
+
+chocolademelk vs. melkchocolade
+
+(18)
+
+kookpot
+
+2.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Hoofdigheid
+▶
+
+Manieren om het hoofd van een geleed woord te detecteren:
+1.
+(17)
+
+chocolademelk vs. melkchocolade
+
+(18)
+
+kookpot
+
+(19)
+
+grootvader
+
+2.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Hoofdigheid
+▶
+
+Manieren om het hoofd van een geleed woord te detecteren:
+1.
+(17)
+
+chocolademelk vs. melkchocolade
+
+(18)
+
+kookpot
+
+(19)
+
+grootvader
+
+2.
+
+3.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Hoofdigheid
+▶
+
+Manieren om het hoofd van een geleed woord te detecteren:
+1.
+(17)
+
+chocolademelk vs. melkchocolade
+
+(18)
+
+kookpot
+
+(19)
+
+grootvader
+
+(20)
+
+zakgeld vs. geldzak
+
+2.
+
+3.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Hoofdigheid
+▶
+
+Manieren om het hoofd van een geleed woord te detecteren:
+1.
+(17)
+
+chocolademelk vs. melkchocolade
+
+(18)
+
+kookpot
+
+(19)
+
+grootvader
+
+(20)
+
+zakgeld vs. geldzak
+
+(21)
+
+kinderen vs. straatkinderen
+
+2.
+
+3.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Hoofdigheid
+SYNTAXIS −→
+
+←− MORFOLOGIE
+1.
+&
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Hoofdigheid
+SYNTAXIS −→
+
+←− MORFOLOGIE
+1.
+&
+2.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Hoofdigheid
+SYNTAXIS −→
+
+←− MORFOLOGIE
+1.
+&
+2.
+
+2.1 endocentriciteit
+
+2.1 RHHR
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ 

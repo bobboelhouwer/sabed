@@ -1,0 +1,1554 @@
+Overzicht
+Inleiding
+Het werkwoordelijk gezegde
+Het subject of onderwerp
+Het direct object of lijdend voorwerp
+Het indirect object of meewerkend voorwerp
+Het prepositioneel object of voorzetselvoorwerp
+Het voorwerp van plaats/richting/maat/wijze/duur
+De bijwoordelijke bepaling
+De bijvoeglijke bepaling
+De interne bijwoordelijke bepaling
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Het prepositioneel object of voorzetselvoorwerp
+code
+constituent
+valentie
+vervangbaarheid
+verplaatsbaarheid
+extra
+
+50
+PP
+tweede (of derde participant) in het valentieschema
+geen speciﬁeke thematische rol
+Type IV-paradigmata
+AL, VV, *MV1, ?MV2, MV3, AV, UL
+vaste P
+P verliest spatiale betekenis
+P niet beklemtoonbaar
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Het prepositioneel object of voorzetselvoorwerp
+code
+constituent
+valentie
+
+50
+PP
+tweede (of derde participant) in het valentieschema
+geen speciﬁeke thematische rol
+Type IV-paradigmata
+AL, VV, *MV1, ?MV2, MV3, AV, UL
+vaste P
+P verliest spatiale betekenis
+P niet beklemtoonbaar
+
+vervangbaarheid
+verplaatsbaarheid
+extra
+
+(52)
+
+Ik hoop op wereldvrede.
+50
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Het prepositioneel object of voorzetselvoorwerp
+code
+constituent
+valentie
+
+50
+PP
+tweede (of derde participant) in het valentieschema
+geen speciﬁeke thematische rol
+Type IV-paradigmata
+AL, VV, *MV1, ?MV2, MV3, AV, UL
+vaste P
+P verliest spatiale betekenis
+P niet beklemtoonbaar
+
+vervangbaarheid
+verplaatsbaarheid
+extra
+
+(52)
+
+Ik hoop op wereldvrede.
+
+(53)
+
+Ik beschuldig hem van diefstal.
+
+50
+50
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Het prepositioneel object of voorzetselvoorwerp
+code
+constituent
+valentie
+
+50
+PP
+tweede (of derde participant) in het valentieschema
+geen speciﬁeke thematische rol
+Type IV-paradigmata
+AL, VV, *MV1, ?MV2, MV3, AV, UL
+vaste P
+P verliest spatiale betekenis
+P niet beklemtoonbaar
+
+vervangbaarheid
+verplaatsbaarheid
+extra
+
+(52)
+
+Ik hoop op wereldvrede.
+
+(53)
+
+Ik beschuldig hem van diefstal.
+
+(54)
+
+a. *omdat ik op wereldvrede nog steeds hoop.
+b. *omdat ik hem van diefstal gisteren beschuldigde.
+
+50
+50
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Het prepositioneel object of voorzetselvoorwerp
+code
+constituent
+valentie
+
+50
+PP
+tweede (of derde participant) in het valentieschema
+geen speciﬁeke thematische rol
+Type IV-paradigmata
+AL, VV, *MV1, ?MV2, MV3, AV, UL
+vaste P
+P verliest spatiale betekenis
+P niet beklemtoonbaar
+
+vervangbaarheid
+verplaatsbaarheid
+extra
+
+(52)
+
+Ik hoop op wereldvrede.
+
+(53)
+
+Ik beschuldig hem van diefstal.
+
+(54)
+
+a. *omdat ik op wereldvrede nog steeds hoop.
+b. *omdat ik hem van diefstal gisteren beschuldigde.
+
+(55)
+
+a. *Ik beschuldig hem daar.
+b. *Ik beschuldig hem dat.
+c. *Ik beschuldig hem zo.
+
+50
+50
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Het prepositioneel object of voorzetselvoorwerp
+Type IV
+persoonlijk
+aanwijzend
+vragend
+betrekkelijk
+kwantiﬁcationeel (exis.)
+kwantiﬁcationeel (univ. neg.)
+kwantiﬁcationeel (univ. pos.)
+
+‘
+’
+met hem/ermee
+daarmee
+met wie?
+met wie/waarmee
+met iemand
+met niemand
+met iedereen
+
+.
+
+‘
+’
+ermee
+daarmee
+waarmee?
+waarmee
+met iets/ergens mee
+met niets/nergens mee
+met alles/overal mee
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Het prepositioneel object of voorzetselvoorwerp
+Type IV
+persoonlijk
+aanwijzend
+vragend
+betrekkelijk
+kwantiﬁcationeel (exis.)
+kwantiﬁcationeel (univ. neg.)
+kwantiﬁcationeel (univ. pos.)
+(56)
+
+a.
+b.
+c.
+d.
+e.
+f.
+
+‘
+’
+met hem/ermee
+daarmee
+met wie?
+met wie/waarmee
+met iemand
+met niemand
+met iedereen
+
+‘
+’
+ermee
+daarmee
+waarmee?
+waarmee
+met iets/ergens mee
+met niets/nergens mee
+met alles/overal mee
+
+Ik beschuldig hem ervan/daarvan.
+Waarvan beschuldig je hem?
+de diefstal waarvan ik hem beschuldig
+Ik beschuldig hem van iets/ergens van.
+Ik beschuldig hem van niets/nergens van.
+Ik beschuldig hem van alles/overal van.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Het prepositioneel object of voorzetselvoorwerp
+Type IV
+persoonlijk
+aanwijzend
+vragend
+betrekkelijk
+kwantiﬁcationeel (exis.)
+kwantiﬁcationeel (univ. neg.)
+kwantiﬁcationeel (univ. pos.)
+
+‘
+’
+met hem/ermee
+daarmee
+met wie?
+met wie/waarmee
+met iemand
+met niemand
+met iedereen
+
+(56)
+
+a.
+b.
+c.
+d.
+e.
+f.
+
+Ik beschuldig hem ervan/daarvan.
+Waarvan beschuldig je hem?
+de diefstal waarvan ik hem beschuldig
+Ik beschuldig hem van iets/ergens van.
+Ik beschuldig hem van niets/nergens van.
+Ik beschuldig hem van alles/overal van.
+
+(57)
+
+a.
+b.
+c.
+
+Je kan erop rekenen, op Moniek.
+Op Moniek, daarop kan je altijd rekenen.
+Moniek is iemand waarop je kan rekenen.
+.
+
+‘
+’
+ermee
+daarmee
+waarmee?
+waarmee
+met iets/ergens mee
+met niets/nergens mee
+met alles/overal mee
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Het prepositioneel object of voorzetselvoorwerp
+(58)
+
+(59)
+
+a.
+
+Ik heb eraan gedacht, aan die mogelijkheid.
+
+b.
+
+Ik heb er ook aan gedacht, aan die mogelijkheid.
+
+a.
+
+(Op) dat resultaat, daarop ben ik trots.
+
+b.
+
+(Op) dat resultaat, daar ben ik trots op .
+
+c.
+
+(Aan) die mogelijkheid, daaraan heb ik ook gedacht.
+
+d.
+
+(Aan) die mogelijkheid, daar heb ik ook aan gedacht.
+
+50+
+
+50+
+
+50
+50+
+
+50
+
+50
+50+
+50+
+
+50
+50
+50
+
+50+
+50+
+
+50+
+
+50+
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Overzicht
+Inleiding
+Het werkwoordelijk gezegde
+Het subject of onderwerp
+Het direct object of lijdend voorwerp
+Het indirect object of meewerkend voorwerp
+Het prepositioneel object of voorzetselvoorwerp
+Het voorwerp van plaats/richting/maat/wijze/duur
+De bijwoordelijke bepaling
+De bijvoeglijke bepaling
+De interne bijwoordelijke bepaling
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Het voorwerp van plaats/richting/maat/wijze/duur
+/
+/
+
+/
+
+code
+constituent
+valentie
+vervangbaarheid
+
+verplaatsbaarheid
+
+/
+61, 62, 63, 64, 65
+NP, PP, AP, AdvP
+tweede of derde participant in het
+valentieschema
+plaats: Type II-paradigmata
+richting: Type II- en Type IV-paradigmata
+maat/wijze/duur: Type III-paradigmata
+AL, VV, *MV1, *MV2, MV3, (*)AV, UL
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Het voorwerp van plaats/richting/maat/wijze/duur
+/
+/
+
+/
+
+/
+
+code
+constituent
+valentie
+
+61, 62, 63, 64, 65
+NP, PP, AP, AdvP
+tweede of derde participant in het
+valentieschema
+plaats: Type II-paradigmata
+richting: Type II- en Type IV-paradigmata
+maat/wijze/duur: Type III-paradigmata
+AL, VV, *MV1, *MV2, MV3, (*)AV, UL
+
+vervangbaarheid
+
+verplaatsbaarheid
+(60)
+
+a.
+
+Ze heeft lange tijd in Leuven gewoond.
+
+b.
+
+Hij legt de bal op de kast.
+
+61
+
+61
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Het voorwerp van plaats/richting/maat/wijze/duur
+/
+/
+
+/
+
+/
+
+code
+constituent
+valentie
+
+61, 62, 63, 64, 65
+NP, PP, AP, AdvP
+tweede of derde participant in het
+valentieschema
+plaats: Type II-paradigmata
+richting: Type II- en Type IV-paradigmata
+maat/wijze/duur: Type III-paradigmata
+AL, VV, *MV1, *MV2, MV3, (*)AV, UL
+
+vervangbaarheid
+
+verplaatsbaarheid
+(60)
+
+a.
+
+Ze heeft lange tijd in Leuven gewoond.
+
+b.
+
+Hij legt de bal op de kast.
+
+61
+
+61
+
+(61)
+
+a.
+
+Hij gaat naar huis.
+
+b.
+
+Ik breng hem naar huis.
+
+62
+
+62
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Het voorwerp van plaats/richting/maat/wijze/duur
+/
+/
+
+/
+
+code
+constituent
+valentie
+vervangbaarheid
+
+verplaatsbaarheid
+(62)
+
+a.
+b.
+c.
+
+/
+61, 62, 63, 64, 65
+NP, PP, AP, AdvP
+tweede of derde participant in het
+valentieschema
+plaats: Type II-paradigmata
+richting: Type II- en Type IV-paradigmata
+maat/wijze/duur: Type III-paradigmata
+AL, VV, *MV1, *MV2, MV3, (*)AV, UL
+
+*Hij heeft in New Delhi vorig jaar gewoond.
+Hij heeft vorig jaar in New Delhi gewoond.
+*Hij heeft vorig jaar gewoond in New Delhi.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+MV2
+MV3
+AV
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Het voorwerp van plaats/richting/maat/wijze/duur
+/
+/
+
+/
+
+code
+constituent
+valentie
+vervangbaarheid
+
+verplaatsbaarheid
+(63)
+
+a.
+b.
+
+/
+61, 62, 63, 64, 65
+NP, PP, AP, AdvP
+tweede of derde participant in het
+valentieschema
+plaats: Type II-paradigmata
+richting: Type II- en Type IV-paradigmata
+maat/wijze/duur: Type III-paradigmata
+AL, VV, *MV1, *MV2, MV3, (*)AV, UL
+
+Hij heeft in het water gelopen.
+Hij is in het water gelopen.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Het voorwerp van plaats/richting/maat/wijze/duur
+/
+/
+
+/
+
+/
+
+code
+constituent
+valentie
+vervangbaarheid
+
+verplaatsbaarheid
+(63)
+
+a.
+b.
+
+(64)
+
+a. Hij heeft gelopen.
+b. *Hij is gelopen.
+
+61, 62, 63, 64, 65
+NP, PP, AP, AdvP
+tweede of derde participant in het
+valentieschema
+plaats: Type II-paradigmata
+richting: Type II- en Type IV-paradigmata
+maat/wijze/duur: Type III-paradigmata
+AL, VV, *MV1, *MV2, MV3, (*)AV, UL
+
+Hij heeft in het water gelopen.
+Hij is in het water gelopen.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Het voorwerp van plaats/richting/maat/wijze/duur
+/
+/
+
+/
+
+/
+
+code
+constituent
+valentie
+vervangbaarheid
+
+verplaatsbaarheid
+
+61, 62, 63, 64, 65
+NP, PP, AP, AdvP
+tweede of derde participant in het
+valentieschema
+plaats: Type II-paradigmata
+richting: Type II- en Type IV-paradigmata
+maat/wijze/duur: Type III-paradigmata
+AL, VV, *MV1, *MV2, MV3, (*)AV, UL
+
+(63)
+
+a.
+b.
+
+Hij heeft in het water gelopen.
+Hij is in het water gelopen.
+
+(64)
+
+a. Hij heeft gelopen.
+b. *Hij is gelopen.
+
+(65)
+
+a. Hij heeft gelopen in het water.
+b. *Hij is gelopen in het water.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Het voorwerp van plaats/richting/maat/wijze/duur
+/
+/
+
+/
+
+/
+
+code
+constituent
+valentie
+
+61, 62, 63, 64, 65
+NP, PP, AP, AdvP
+tweede of derde participant in het
+valentieschema
+plaats: Type II-paradigmata
+richting: Type II- en Type IV-paradigmata
+maat/wijze/duur: Type III-paradigmata
+AL, VV, *MV1, *MV2, MV3, (*)AV, UL
+
+vervangbaarheid
+
+verplaatsbaarheid
+(66)
+Het pak weegt 20 kilo.
+63
+
+(67)
+Hij ging voorzichtig te werk.
+64
+
+(68)
+De tocht duurde 10 dagen.
+65
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Het voorwerp van plaats/richting/maat/wijze/duur
+/
+/
+
+/
+
+code
+constituent
+valentie
+vervangbaarheid
+
+verplaatsbaarheid
+(69)
+
+/
+61, 62, 63, 64, 65
+NP, PP, AP, AdvP
+tweede of derde participant in het
+valentieschema
+plaats: Type II-paradigmata
+richting: Type II- en Type IV-paradigmata
+maat/wijze/duur: Type III-paradigmata
+AL, VV, *MV1, *MV2, MV3, (*)AV, UL
+
+a. Het feestje heeft geduurd tot middernacht.
+b. *Het feestje heeft geduurd 3 uur.
+c. ??dat het feestje tot middernacht vaak duurde.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ 

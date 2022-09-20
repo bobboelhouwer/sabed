@@ -1,0 +1,265 @@
+Deel 1Normatieve theorieën
+
+1
+Hoofdstuk 2Consequentialisme en utilitarisme
+
+2
+1. Inleiding2. Bentham en Mill3. Versies van het utilitarisme4. Staat utilitarisme te veel toe?5. Is utilitarisme te veeleisend?
+
+3
+1. Inleiding
+Consequentialisme: of handeling moreel juist/verkeerd is hangt enkel af van gevolgen van de handeling 
+Als alleen gevolgen tellen, is intentie/motivatie irrelevant
+Als alleen gevolgen tellen, doet het er niet toe of iemand situatie actief heeft veroorzaakt of had kunnen voorkomen
+Doing vs. allowing harm
+
+4
+1. Inleiding
+Utilitarisme is versie van consequentialisme
+Utilitarisme: gevolgen zijn beter naarmate handeling een grotere bijdrage levert aan het algemeen nut
+Algemeen nut: vaak ‘grootste geluk voor het grootste aantal mensen’
+Geluk: vaak ‘zo veel mogelijk genot en zo weinig mogelijk pijn’
+
+5
+1. Inleiding
+Niet-utilitaristisch consequentialisme
+Ethisch egoïsme: handeling is juist als gevolgen voor mij optimaal zijn
+Ethisch vs. psychologisch egoïsme
+
+6
+1. Inleiding
+Drie belangrijke grondleggers utilitarisme:
+Jeremy Bentham. (1789) Introduction to the Principles of Morals and Legislation 
+John Stuart Mill. (1861) Utilitarianism 
+Henry Sidgwick. (1874) The Methods of Ethics 
+Utilitarisme en revisionisme
+(1) Moeten misdadigers opgesloten worden? 
+(2) Mogen we dieren eten? 
+(3) Is liegen moreel verkeerd?
+
+
+7
+
+1. Inleiding
+Utilitarisme en dierenethiek
+
+Het zal ooit erkend worden dat het aantal benen, de harigheid van het vel of het hebben van een staart, onvoldoende redenen zijn om een sensitief wezen aan zijn lot over te laten. […] De vraag is niet ‘Kunnen ze logisch redeneren?’, en ook niet ‘Kunnen ze praten?’, maar ‘Kunnen ze lijden?’ (Bentham)
+
+8
+2. Bentham en Mill
+(1) Bentham
+https://nl.wikipedia.org/wiki/Jeremy_Bentham 
+Benthams definitie van utilitarisme:
+Met het nutsprincipe wordt het principe bedoeld dat elke handeling goed- of afkeurt op basis van de tendens die ze lijkt te hebben om het geluk te vergroten of verminderen van de partij over wiens belang het gaat.
+‘Partij over wiens belang het gaat’: iedereen waarop de handeling effect heeft
+Problemen met ‘tendens’
+9
+2. Bentham en Mill
+(A) Verwachte vs. daadwerkelijke gevolgen
+Geen consensus onder utilitaristen
+Reden voor daadwerkelijke gevolgen: welke gevolgen willen we veranderen? 
+Reden voor verwachte gevolgen: we weten nooit zeker wat daadwerkelijke gevolgen zullen zijn
+Morele theorie als leidraad?
+
+10
+2. Bentham en Mill
+(B) Regelutilitarisme vs. handelingsutilitarisme
+Handelingsutilitarisme: handeling is juist als gevolgen van die handeling goed zijn  
+Regelutilitarisme: handeling is juist als ze in overeenstemming is met een set regels die, wanneer ze zouden worden geaccepteerd, zouden leiden tot optimale gevolgen 
+Probleem arbitrariteit
+11
+2. Bentham en Mill
+Was Bentham regel- of handelingsutilitarist? 
+Wat handeling juist maakt is ‘de tendens om het geluk te vergroten of verminderen’
+Reden voor handelingsutilitarisme: handelingen met goede verwachte gevolgen hebben die tendens 
+Reden voor regelutilitarisme: handelingen die overeenstemmen met set van optimale regels hebben die tendens
+12
+
+2. Bentham en Mill
+(2) Mill
+https://nl.wikipedia.org/wiki/John_Stuart_Mill 
+Kernprincipe van Mills utilitarisme:
+Het credo dat nut of het Grootste Geluk Principe als het fundament van moraliteit aanvaardt, houdt in dat handelingen juist zijn in de mate waarin zij ertoe neigen geluk te bevorderen, en fout voor zover ze neigen het omgekeerde van geluk te bewerkstelligen.
+13
+2. Bentham en Mill
+Kernprincipe van Mills utilitarisme:
+Het credo dat nut of het Grootste Geluk Principe als het fundament van moraliteit aanvaardt, houdt in dat handelingen juist zijn in de mate waarin zij ertoe neigen geluk te bevorderen, en fout voor zover ze neigen het omgekeerde van geluk te bewerkstelligen.
+‘Neigen’: zelfde problemen als ‘tendens’ 
+‘De mate’: is ‘juist’ gradueel of binair?
+Meeste utilitaristen: binair. Alleen handelingen die minstens zo veel geluk voortbrengen als elke alternatieve handeling zijn juist.
+
+14
+2. Bentham en Mill
+Mill verdedigt liberalisme in On Liberty (1859)
+Schadebeginsel (harm principle):
+De enige reden waarom men rechtmatig macht kan uitoefenen over enig lid van een beschaafde gemeenschap, tegen zijn zin, is de zorg dat anderen geen schade wordt toegebracht. 
+Lijkt in strijd met utilitarisme
+15
+2. Bentham en Mill
+Hoe kan schadebeginsel in overeenstemming zijn met utilitarisme?
+Regelutilitarisme: schadebeginsel is deel van optimale set regels
+Zo kunnen utilitaristen belang van absolute rechten verdedigen 
+Alleen rechten die deel zijn van optimale set regels
+Of Mill regel- of handelingsutilitarist is, is controversieel
+16
+2. Bentham en Mill
+Mills ‘bewijs’ voor het utilitarisme
+
+Het enige bewijs dat gegeven kan worden dat een voorwerp zichtbaar is, is dat mensen het daadwerkelijk zien. Het enige bewijs dat een geluid hoorbaar is, is dat mensen het horen. […] Net zo, is mijn opvatting, is het enige bewijs dat gegeven kan worden dat iets gewenst/wenselijk is, dat mensen het daadwerkelijk wensen.
+
+Is-ought probleem (Hume). Uit hoe de werkelijkheid is kan je niet afleiden hoe ze zou moeten zijn. 
+
+17
+3. Versies van het utilitarisme
+Drie versies:
+Klassiek-hedonistisch handelingsutilitarisme
+Voorkeursutilitarisme
+Objectieve-lijst-theorieën
+18
+3. Versies van het utilitarisme
+(1) Klassiek hedonistisch handelingsutilitarisme 
+Bekendste versie
+Een handeling is juist dan en slechts dan als geen enkele alternatieve handeling meer teweegbrengt van datgene wat op zichzelf goed is
+Wat is op zichzelf goed? 
+	Algemeen nut = geluk = saldo van genot en pijn
+Handeling enkel juist als geluk gemaximaliseerd wordt
+Handeling niet altijd juist als goede gevolgen, enkel als best mogelijke gevolgen
+
+19
+3. Versies van het utilitarisme
+Wat is geluk (als saldo van genot en pijn)? 
+Bentham: in berekening van hoeveelheid genot en pijn moet men rekening houden met vier variabelen
+Intensiteit
+Duur
+Zekerheid 
+Nabijheid 
+Grootste geluk heeft hoge intensiteit, lange duur, is zeker en nabij. 
+20
+3. Versies van het utilitarisme
+In Benthams theorie is het goede additief (optelbaar)
+Het algemeen nut is de totale hoeveelheid genot die door een handeling wordt voortgebracht, ongeacht hoe dat totaal verdeeld is
+Voorbeeld: Mieke 20, Pjotr 5
+	(1) Mieke + 16 of (2) Pjotr + 15?	
+ Gelijkheid is niet van direct moreel belang
+	(1) Mieke + 16 en Pjotr – 4 of (2) Pjotr + 15? 
+21
+3. Versies van het utilitarisme
+Ook Mill is hedonist. Hij maakt, in tegenstelling tot Bentham, onderscheid tussen hoger en lager genot. 
+Het is beter om een ongelukkig mens te zijn dan een gelukkig varken; beter om een ongelukkige Socrates te zijn dan een gelukkige dwaas. Als de dwaas, of het varken, daar anders over denken, is dat omdat zij alleen hun eigen kant van het verhaal kennen. 
+Geluk als functie vijf variabelen: vier van Bentham + kwaliteit
+
+22
+
+3. Versies van het utilitarisme
+Twee interpretaties van Mill over varkens en Socrates 
+(1) Sommige types geluk zijn oneindig veel beter dan andere
+(2) Types geluk hebben een relatief gewicht 
+Beide interpretaties zijn problematisch
+
+
+
+23
+3. Versies van het utilitarisme
+Wat moeten we precies maximaliseren? 
+Sidgwicks onderscheid tussen totaal en gemiddeld utilitarisme
+Totaal utilitarisme: totale hoeveelheid geluk maximaliseren
+Gemiddeld utilitarisme: gemiddelde hoeveelheid geluk maximaliseren
+Relevant voor debatten over mondiale vraagstukken 
+Problemen voor totaal en gemiddeld utilitarisme
+
+24
+3. Versies van het utilitarisme
+(2) Voorkeursutilitarisme
+Algemeen nut = wat zo veel mogelijk voorkeuren van zo veel mogelijk mensen vervult
+Wat de voorkeuren van mensen vervult loopt niet altijd gelijk met waar mensen gelukkig van worden
+Waarom voorkeuren? Probleem paternalisme
+
+25
+3. Versies van het utilitarisme
+Moeten alle voorkeuren vervuld worden? 
+‘Rationele’ of ‘volledig geïnformeerde voorkeuren’ 
+Probleem: wat als die verschillen van feitelijke voorkeuren?
+Probleem: wat zijn rationele voorkeuren? 
+26
+3. Versies van het utilitarisme
+(3) Objectieve-lijst-theorieën 
+Verschillende zaken van belang. Maximalisatie kennis, gezondheid, etc.
+Niet genot/pijn of voorkeuren tellen, wel dat die zaken objectief goed zijn
+Probleem: hoe bepalen wat objectief goed is? 
+Totale en gemiddelde versies van voorkeursutilitarisme en objectieve-lijst-theorieën
+Mogelijkheid van consequentialistische maar niet-utilitaristische maximalisatie van voorkeuren en het objectief goede
+27
+4. Staat utilitarisme te veel toe? 
+Voorbeeld Philippa Foot
+https://nl.wikipedia.org/wiki/Philippa_Foot 
+Structuur van veel argumenten tegen utilitarisme
+Intuïtief: belang enkeling soms opgeofferd voor groter goed
+Maar intuïtief ook deontische restricties
+Twee soorten antwoorden:
+(1) Intuïties niet belangrijk
+(2) Utilitarisme staat niet zo veel toe
+28
+4. Staat utilitarisme te veel toe?
+(1) Intuïties niet belangrijk
+(1a) Peter Singer: intuïties als product van 
+
+religieuze systemen die we hebben afgedankt, verwrongen ideeën over seksualiteit […], gewoontes die nodig waren om onze gemeenschap te laten overleven in primitieve omstandigheden.
+ 
+https://nl.wikipedia.org/wiki/Peter_Singer 
+29
+4. Staat utilitarisme te veel toe?
+Twee problemen met (1a) Singers antwoord
+Probleem 1: utilitarisme zelf gebaseerd op intuïties
+Probleem 2: geen intuïties, wat wel? 
+Antwoord: geen intuïties, maar argumenten
+Probleem: argumenten voor consequentialistische/utilitaristische basisstellingen? (Zie Mills ‘bewijs’.)
+30
+4. Staat utilitarisme te veel toe?
+(1b) Niet alle intuïties, wel deontische restricties zijn irrelevant, want er is geen goede theoretische verklaring voor 
+Voorbeeld Foot. Redenen om onschuldige persoon niet te doden: ‘onschuldigen mag niet moedwillig schade berokkend worden’, etc.
+Uitbreiding voorbeeld Foot
+Welke reden ook gegeven wordt om in oorspronkelijk voorbeeld gezonde persoon niet te doden, dezelfde reden kan worden ingeroepen om in uitgebreid voorbeeld gezonde persoon wel te doden
+31
+4. Staat utilitarisme te veel toe?
+Al die redenen kunnen aanvaard worden door utilitarist, zonder uit te monden in deontische restricties 
+Twee problemen met (1b):
+Probleem 1: geen goede theoretische verklaring ≠ definitieve weerlegging 
+Probleem 2: theoretische verklaring nodig? 
+
+
+32
+4. Staat utilitarisme te veel toe?
+(2) Utilitarisme staat niet zo veel toe
+Antwoord utilitarist op Foot
+Probleem met antwoord utilitarist op Foot
+Regelutilitarisme
+Probleem regelutilitarisme
+Regelutilitarisme en fundamentele consequentialistische gedachte
+
+33
+5. Is utilitarisme te veeleisend?
+Voorbeeld Bernard Williams
+https://nl.wikipedia.org/wiki/Bernard_Williams_(filosoof) 
+Utilitarist moet bereid zijn handeling met beste uitkomst te verrichten, zelfs als strijdig met gekoesterde overtuigingen of eisen van persoonlijke relatie of project
+Die bereidwilligheid sluit uit dat we echt gecommitteerd zijn
+Kiezen tussen utilitarisme en projecten/relaties/overtuigingen die leven betekenis geven? 
+
+34
+5. Is utilitarisme te veeleisend?
+Utilitaristische antwoorden op Williams
+Twee soorten antwoorden:
+Intuïties niet belangrijk, utilitarisme is veeleisend
+Utilitarisme niet zo veeleisend
+
+(2) Utilitarisme niet zo veeleisend
+Regelutilitarisme en probleem
+Satisficing consequentialisme/utilitarisme
+
+
+35
+5. Is utilitarisme te veeleisend?
+Satisficing (vs. maximizing) consequentialisme: handeling is moreel juist dan en slechts dan als gevolgen ‘goed genoeg’ (satisfactory) zijn 
+Consequentialisme (alleen de gevolgen tellen), maar we moeten niet altijd het best mogelijke doen 
+Probleem voor satisficing consequentialisme
+
+36

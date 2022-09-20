@@ -1,0 +1,1415 @@
+Overzicht
+Inleiding
+Overzicht van het hoofdstuk
+Techniek #1: Constituentstype
+Techniek #2: Valentie en weglaatbaarheid
+Techniek #3: Vervangbaarheid
+Techniek #4: Verplaatsbaarheid
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Techniek #3: Vervangbaarheid: Proportionaliteit &
+lexicalisatie
+(47)
+
+Fatima drinkt vandaag gemberthee.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Techniek #3: Vervangbaarheid: Paradigmata van
+vervangbaarheid
+Type I-paradigmata
+‘
+persoonlijk
+aanwijzend
+vragend
+betrekkelijk
+kwantiﬁcationeel (existentieel)
+kwantiﬁcationeel (universeel negatief)
+kwantiﬁcationeel (universeel positief)
+
+’
+
+‘
+
+hij/zij
+die
+wie?
+die
+iemand
+niemand
+iedereen
+
+’
+
+het
+dat
+wat?
+dat
+iets
+niets
+alles
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Techniek #3: Vervangbaarheid: Paradigmata van
+vervangbaarheid
+Type II-paradigmata
+‘
+persoonlijk
+aanwijzend
+vragend
+betrekkelijk
+kwantiﬁcationeel (existentieel)
+kwantiﬁcationeel (universeel negatief)
+kwantiﬁcationeel (universeel positief)
+
+’
+
+‘
+
+dan
+dan/toen/nu
+wanneer?
+wanneer
+ooit
+nooit
+altijd
+
+’
+
+er
+daar/hier
+waar?
+waar
+ergens
+nergens
+overal
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Techniek #3: Vervangbaarheid: Paradigmata van
+vervangbaarheid
+Type III-paradigmata
+‘
+
+’
+
+‘
+
+aanwijzend
+vragend
+betrekkelijk
+kwantiﬁcationeel (existentieel)
+kwantiﬁcationeel (universeel negatief)
+kwantiﬁcationeel (universeel positief)
+
+zo
+hoe?
+(de manier) waarop
+?op een of andere wijze
+?op geen enkele wijze
+?op alle mogelijke wijzen
+
+aanwijzend
+vragend
+betrekkelijk
+kwantiﬁcationeel (existentieel)
+kwantiﬁcationeel (universeel negatief)
+kwantiﬁcationeel (universeel positief)
+
+zo lang
+hoelang?
+(de periode) waarin
+?enige tijd
+?niet
+?de hele tijd
+
+aanwijzend
+vragend
+betrekkelijk
+kwantiﬁcationeel (existentieel)
+kwantiﬁcationeel (universeel negatief)
+kwantiﬁcationeel (universeel positief)
+
+zoveel
+hoeveel?
+(de hoeveelheid) die
+?een beetje
+?geen enkele
+?alle
+
+‘
+
+’
+
+‘
+
+/
+
+’
+
+zozeer
+hoezeer?
+(de mate) waarin
+?enigszins/een beetje
+?geenszins/helemaal niet
+?alleszins/helemaal
+‘
+
+’
+
+zo vaak
+hoe vaak?
+(elk moment) dat/waarop
+?af en toe
+?geen enkele keer
+?iedere keer
+’
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Techniek #3: Vervangbaarheid: Soorten lexicalisatie
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Techniek #3: Vervangbaarheid: Soorten lexicalisatie
+(48)
+
+Lexicalisatie van Type I paradigma ‘persoon’: wie/die
+NP: [Sylvia] lacht.
+[De vrouw] lacht.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Techniek #3: Vervangbaarheid: Soorten lexicalisatie
+(48)
+
+Lexicalisatie van Type I paradigma ‘persoon’: wie/die
+NP: [Sylvia] lacht.
+[De vrouw] lacht.
+
+(49)
+
+Lexicalisatie van Type I-paradigma ‘zaak’: wat/dat
+NP: Carla ziet [een auto].
+Carla eet [een uitstekend stukje kriekentaart met slagroom
+dat gisteren door haar dochter is bereid].
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Techniek #3: Vervangbaarheid: Soorten lexicalisatie
+(50)
+
+Lexicalisatie van Type II-paradigma ‘plaats’: waar/daar
+AdvP:Octavia werkt [daar].
+PP: De bal ligt [op de tafel].
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Techniek #3: Vervangbaarheid: Soorten lexicalisatie
+(50)
+
+Lexicalisatie van Type II-paradigma ‘plaats’: waar/daar
+AdvP:Octavia werkt [daar].
+PP: De bal ligt [op de tafel].
+
+(51)
+
+Lexicalisatie van Type II-paradigma ‘tijd’: wanneer/dan
+AdvP:Ik zag hem [gisteren].
+PP: Hij viel [tijdens de presentatie] in slaap.
+NP: Ik zag hem [vorige week].
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Techniek #3: Vervangbaarheid: Soorten lexicalisatie
+(52)
+
+Lexicalisatie van Type III-paradigma ‘wijze’: hoe/zo
+AP: Het paard liep [erg snel].
+AdvP:De belastingverhoging werd [domweg] doorgevoerd.
+PP: Ze opende de doos [met veel geduld].
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Techniek #3: Vervangbaarheid: Soorten lexicalisatie
+(52)
+
+Lexicalisatie van Type III-paradigma ‘wijze’: hoe/zo
+AP: Het paard liep [erg snel].
+AdvP:De belastingverhoging werd [domweg] doorgevoerd.
+PP: Ze opende de doos [met veel geduld].
+
+(53)
+
+Lexicalisatie van Type III-paradigma ‘graad/mate’: hoezeer/zozeer
+AP: Het kind amuseert zich [ongelofelijk].
+AdvP:Hij heeft [zeer] genoten van het spektakel.
+PP: Hij heeft [in hoge mate] genoten van het spektakel.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Techniek #3: Vervangbaarheid: Soorten lexicalisatie
+(52)
+
+Lexicalisatie van Type III-paradigma ‘wijze’: hoe/zo
+AP: Het paard liep [erg snel].
+AdvP:De belastingverhoging werd [domweg] doorgevoerd.
+PP: Ze opende de doos [met veel geduld].
+
+(53)
+
+Lexicalisatie van Type III-paradigma ‘graad/mate’: hoezeer/zozeer
+AP: Het kind amuseert zich [ongelofelijk].
+AdvP:Hij heeft [zeer] genoten van het spektakel.
+PP: Hij heeft [in hoge mate] genoten van het spektakel.
+
+(54)
+
+Lexicalisatie van Type III-paradigma ‘duur’: hoelang/zo lang
+AP: De wedstrijd duurde [erg lang].
+AdvP:Ze dacht [eventjes] na voor ze antwoordde.
+PP: De vergadering duurde [tot na middernacht].
+NP: Het heeft [de hele week] geregend.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Techniek #3: Vervangbaarheid: Soorten lexicalisatie
+(55)
+
+Lexicalisatie van Type III-paradigma ‘frequentie’: hoe vaak/zo vaak
+AP: Hij vergist zich [bijna dagelijks].
+AdvP:Zij maakt [opnieuw] diezelfde fout.
+PP: De poetshulp komt [om de twee weken].
+NP: Hij wist haar [iedere keer] om de tuin te leiden.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Techniek #3: Vervangbaarheid: Soorten lexicalisatie
+(55)
+
+Lexicalisatie van Type III-paradigma ‘frequentie’: hoe vaak/zo vaak
+AP: Hij vergist zich [bijna dagelijks].
+AdvP:Zij maakt [opnieuw] diezelfde fout.
+PP: De poetshulp komt [om de twee weken].
+NP: Hij wist haar [iedere keer] om de tuin te leiden.
+
+(56)
+
+Lexicalisatie van Type III-paradigma ‘kwantiteit’: hoeveel/zoveel
+NP: De bokser weegt [75 kilogram].
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Techniek #3: Vervangbaarheid: Soorten lexicalisatie
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Techniek #3: Vervangbaarheid: Soorten lexicalisatie
+(57)
+Type I ‘persoon’
+Type I ‘zaak’
+Type II ‘plaats’
+Type II ‘tijd’
+Type III ‘wijze’
+Type III ‘graad/mate’
+Type III ‘duur’
+Type III ‘frequentie’
+Type III ‘kwantiteit’
+
+NP
+
+AP
+
+✓
+✓
+*
+✓
+*
+*
+✓
+✓
+✓
+
+*
+*
+*
+*
+✓
+✓
+✓
+✓
+*
+
+A
+
+P
+
+PP
+
+*
+*
+✓
+✓
+✓
+✓
+✓
+✓
+*
+
+*
+*
+✓
+✓
+✓
+✓
+✓
+✓
+*
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Techniek #3: Vervangbaarheid:
+Proportionaliteit/weglaatbaarheid/essentieelheid
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Techniek #3: Vervangbaarheid:
+Proportionaliteit/weglaatbaarheid/essentieelheid
+(58)
+
+a.
+b.
+
+niet-essentieel
+niet-weglaatbaar
+
+(59)
+
+a.
+b.
+
+essentieel
+weglaatbaar
+
+̸⇒
+̸⇒
+
+⇒
+⇒
+
+weglaatbaar
+essentieel
+
+niet-weglaatbaar
+niet-essentieel
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Techniek #3: Vervangbaarheid:
+Proportionaliteit/weglaatbaarheid/essentieelheid
+⇒
+⇒
+
+(58)
+
+a.
+b.
+
+niet-essentieel
+niet-weglaatbaar
+
+(59)
+
+a.
+b.
+
+essentieel
+weglaatbaar
+
+(60)
+
+Hij heeft inderdaad gewonnen.
+
+̸⇒
+̸⇒
+
+weglaatbaar
+essentieel
+
+niet-weglaatbaar
+niet-essentieel
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Techniek #3: Vervangbaarheid:
+Proportionaliteit/weglaatbaarheid/essentieelheid
+⇒
+⇒
+
+(58)
+
+a.
+b.
+
+niet-essentieel
+niet-weglaatbaar
+
+(59)
+
+a.
+b.
+
+essentieel
+weglaatbaar
+
+(60)
+
+Hij heeft inderdaad gewonnen.
+
+(61)
+
+Ik breng hem op de hoogte van onze plannen.
+
+̸⇒
+̸⇒
+
+weglaatbaar
+essentieel
+
+niet-weglaatbaar
+niet-essentieel
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Techniek #3: Vervangbaarheid:
+Proportionaliteit/weglaatbaarheid/essentieelheid
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ 

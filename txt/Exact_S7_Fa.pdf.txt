@@ -1,0 +1,163 @@
+8/22/2019
+Lay 1.8, 1.9, 1.10
+Domein, codomein, beeld
+• Ax = b gezien als een lineaire transformatie 
+die x  n afbeeldt op b  m
+ 
+• b = T(x) beeldt het domein n af op het bereik
+
+of beeld in het codomein m
+
+18/22/2019
+Lineaire transformatie
+• Een transformatie T is lineair als:
+1) T(u + v) = T(u) + T(v)
+2) T(cu) = c T(u) 
+voor alle scalars c en alle u en v in het domein van T
+• Gevolg:
+1) T(0)=0
+2) T(c v +...+c v )=c T(v )+...+c T(v )
+1 1 p p 1 1 p p
+(standaard) Matrix van T(x)
+x 1 0 0
+1
+• x =     x      = x 0 + x 1 + ... + x 0
+2 1 2 n
+⁞ ⁞ ⁞ ⁞
+x 0 0 1
+n
+= x e + x e + … + x e
+1  1 2  2 n n
+• T(x)= x T(e ) + x T(e ) + … + x T(e )
+1  1 2  2 n n
+x
+= [T(e ) T(e ) … T(e )]  1
+1 2 n x2
+⁞
+x
+= [T(e ) T(e ) … T(e )] x n
+1 2 n
+= Ax
+• Equivalentie y = T(x) en y = Ax
+28/22/2019
+Voorbeelden: spiegelingen
+Om de x-as Om de y-as Om x = -x Door de oorsprong
+2 1
+Standaardmatrix:
+1 0 −1 0 0 −1 −1 0
+0 −1 0 1 −1 0 0 −1
+Voorbeelden: afschuiving
+38/22/2019
+Voorbeelden: projectie
+Op de x-as Op de y-as Op x = -x
+2 1
+x
+2
+x
+1
+x = -x
+2 1
+Standaardmatrix:
+(cid:3117) −(cid:2869)
+1 0 0 0 (cid:3118) (cid:2870) = (cid:2869) 1 −1
+0 0 0 1 (cid:3117) (cid:2869) (cid:2870) −1 1
+(cid:2879)
+(cid:3118) (cid:2870)
+Surjectie en 1-op-1
+• T:  n m is surjectie (onto) als elke b in  m het 
+
+  
+beeld is van minstens één x in n
+
+• T:  n m is 1-op-1 als elke b in  m het beeld is van 
+
+  
+ten hoogsteéén x in n
+
+48/22/2019
+Stelling 12a
+Lineaire T:  n m is surjectie
+
+ 
+ b  m,  x  n zodat
+
+ 
+Ax = x a + x a + … + x a = b
+1  1 2  2 n n
+Span{a , a , … a } =  m
+
+1 2 n 
+Tegenvoorbeeld b
+Span{a , a }
+1 2
+x2 2 3
+
+a
+1
+x
+1
+a
+2
+0
+Stelling 11 + 12b
+Lineaire T:  n m is 1-op-1
+
+ 
+(Stelling 11)
+T(x)=0heeftenkel trivialeoplossing
+
+Ax=0heeftenkel x=0alsoplossing
+
+x a + x a + … + x a = 0heeftenkel x=0 alsoplossing
+
+1  1 2  2 n n
+a , a , … a zijnl.o. (Stelling12b)
+
+1 2 n
+Bewijs (Stelling11):
+T(x)=0heeft hoogstens 1 oplossing. Maar T(0)=0, dus 
+
+x=0is die enige oplossing
+ b, u  vzodat T(u)=T(v)=b T(u)-T(v)=T(u-v)=0, dus 
+ 
+u-vis een niet-triviale oplossing
+58/22/2019
+Kern van een transformatie
+• T:  n m
+
+ 
+• {x} zodat T(x) = 0 heet de kern van T
+Lineaire transformaties en dynamische 
+systemen (Lay 1.10)
+• Wordt later dieper bestudeerd
+• Van de vorm x = A x met k = 0, 1, 2, ... (= tijd)
+k+1 k
+• Voorbeeld: populatie over de jaren (= k) heen
+o Elk jaar verhuist 5% van de bevolking van de stad, van 
+de stad naar buitenwijken
+o Elk jaar verhuist 3% van de buitenwijken, van de 
+buitenwijken naar de stad
+• Notatie:
+o r = populatie in de stad in jaar k 𝑟(cid:3038)
+k x = 
+k 𝑠
+o s = populatie in de buitenwijk in jaar k (cid:3038)
+k
+68/22/2019
+Lineaire transformatie
+• 𝑟 = 0.95 𝑟 +0.03 𝑠
+(cid:3038)(cid:2878)(cid:2869) (cid:3038) (cid:3038)
+• 𝑠 = 0.05 𝑟 +0.97 𝑠
+(cid:3038)(cid:2878)(cid:2869) (cid:3038) (cid:3038)
+𝑟(cid:3038)(cid:2878)(cid:2869) 0.95 0.03
+• = 𝑟 +𝑠
+𝑠(cid:3038)(cid:2878)(cid:2869) (cid:3038) 0.05 (cid:3038) 0.97
+𝑟(cid:3038)(cid:2878)(cid:2869) 0.95 0.03 𝑟(cid:3038)
+• =
+𝑠(cid:3038)(cid:2878)(cid:2869) 0.05 0.97 𝑠(cid:3038)
+0.95 0.03
+• x = A x met 𝐀 =
+k+1 k 0.05 0.97
+• De populatie voor jaar k+1 is een lineaire transformatie 
+van de populatie op jaar k
+7

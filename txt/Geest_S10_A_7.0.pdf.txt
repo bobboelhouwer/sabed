@@ -1,0 +1,46 @@
+Onderschikking: Bijzinnenmetachter-PVen
+betekenisdragendvoegwoord
+(cid:263)(cid:270)(cid:271)(cid:284)(cid:276)(cid:276)(cid:279)(cid:265)(cid:266)(cid:273)(cid:270)(cid:271)(cid:272)(cid:266)(cid:263)(cid:266)(cid:277)(cid:262)(cid:273)(cid:270)(cid:275)(cid:268)
+(17) HijisboosomdatJanslaapt.
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Onderschikking: Bijzinnenmetachter-PVen
+betekenisdragendvoegwoord
+(cid:265)(cid:270)(cid:279)(cid:266)(cid:264)(cid:281)(cid:276)(cid:263)(cid:271)(cid:266)(cid:264)(cid:281)
+(18) IkhaathetalsJanslaapt.
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Onderschikking: Bijzinnenmetachter-PVen
+betekenisdragendvoegwoord
+(cid:283)(cid:276)(cid:276)(cid:279)(cid:287)(cid:266)(cid:281)(cid:280)(cid:266)(cid:273)(cid:283)(cid:276)(cid:276)(cid:279)(cid:284)(cid:266)(cid:279)(cid:277)
+(19) IkverheugmeeropalsJanslaapt.
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Onderschikking: Bijzinnenmetachter-PVen
+betekenisdragendvoegwoord
+(cid:263)(cid:270)(cid:271)(cid:283)(cid:276)(cid:266)(cid:268)(cid:273)(cid:270)(cid:271)(cid:272)(cid:266)(cid:263)(cid:266)(cid:277)(cid:262)(cid:273)(cid:270)(cid:275)(cid:268)
+(20) Hunvertrekzonderdatzeafscheidnamenverrasteme.
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Onderschikking: Bijzinnenmetachter-PVen
+betekenisdragendvoegwoord
+(cid:270)(cid:275)(cid:281)(cid:266)(cid:279)(cid:275)(cid:266)(cid:263)(cid:270)(cid:271)(cid:284)(cid:276)(cid:276)(cid:279)(cid:265)(cid:266)(cid:273)(cid:270)(cid:271)(cid:272)(cid:266)(cid:263)(cid:266)(cid:277)(cid:262)(cid:273)(cid:270)(cid:275)(cid:268)
+(21) Zekochtmeerboekendanzekonlezen.
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Onderschikking: Bijzinnenmetachter-PVenvragend
+element
+(cid:280)(cid:282)(cid:263)(cid:271)(cid:266)(cid:264)(cid:281)
+(22) WaaromJanslaaptisonduidelijk.
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Onderschikking: Bijzinnenmetachter-PVenvragend
+element
+(cid:265)(cid:270)(cid:279)(cid:266)(cid:264)(cid:281)(cid:276)(cid:263)(cid:271)(cid:266)(cid:264)(cid:281)
+(23) IkweetwaaromJanslaapt.
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Onderschikking: Bijzinnenmetachter-PVenvragend
+element
+(cid:283)(cid:276)(cid:276)(cid:279)(cid:287)(cid:266)(cid:281)(cid:280)(cid:266)(cid:273)(cid:283)(cid:276)(cid:276)(cid:279)(cid:284)(cid:266)(cid:279)(cid:277)
+(24) IkbenernietvanopdehoogtewaaromJanslaapt.
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Onderschikking: Bijzinnenmetachter-PVenvragend
+element
+(cid:263)(cid:270)(cid:271)(cid:283)(cid:276)(cid:266)(cid:268)(cid:273)(cid:270)(cid:271)(cid:272)(cid:266)(cid:263)(cid:266)(cid:277)(cid:262)(cid:273)(cid:270)(cid:275)(cid:268)
+(25) DevraagwaaromJanslaaptwerdnooitopgelost.
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .

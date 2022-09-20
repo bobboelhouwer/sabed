@@ -1,0 +1,154 @@
+𝑒 𝑖𝜃 = cos 𝜃 + 𝑖 sin(𝜃)
+z
+
+Im
+
+1
+
+Re
+
+ Definitie
+• Een complex getal is een koppel reële getallen (a,b) met
+volgende rekenregels (a,b,c,d  )
+c (a,b) = (ac,bc)
+(a,b)+(c,d) = (a+c,b+d)
+(a,b) (c,d) = (ac-bd,ad+bc)
+
+• We kunnen dezelfde rekenregels ook bekomen door “i” in
+te voeren met als rekenregel “i i = i2 = -1”
+c (a + ib)=ac + ibc
+(a+ib) + (c+id) = (a+c) + i(b+d)
+(a+ib) (c+id) = (ac – bd) + i (bc+ad)
+
+• i = imaginaire eenheid
+z=a+ib: a=reëel deel=Re(z) ; b=imaginair deel=Im(z)
+
+• Complex toegevoegde: a + i b = a – i b
+
+ Bewerkingen op een complex getal
+• Optellen: u, v  , dan is u+v  
+Im
+u+v
+v
+
+u
+
+Re
+
+• Vermenigvuldiging van u   met scalair c 
+, dan is cu  
+Im
+2u
+u
+
+Re
+
+ Bewerkingen op een complex getal
+• Complex toegevoegde
+Im
+u
+Re
+
+u
+
+• Vermenigvuldigen met i
+Im
+
+v=iu
+
+i (a + i b) = -b + i a
+
+b
+a
+
+a
+
+u
+b
+
+Re
+
+ Poolcoördimatenvoorstelling
+z
+
+Im
+
+• z = a + ib = r (cos  + i sin )
+
+r = modulus van z = |z| = 𝑎2 + 𝑏 2
+𝑏
+Re
+ = argument van z = z = 𝑏𝑔𝑡𝑎𝑛
++ 𝑘𝜋
+𝑎
+• y = c + id = s (cos  + i sin )
+• yz = rs ( (cos  cos  - sin  sin ) + i (cos  sin  + sin  cos ) )
+= rs ( cos(+ ) + i sin(+ ) )
+yz
+
+• z = r (cos  + i sin ) = r ei
+• y = s (cos  + i sin ) = s ei
+
+Im
+
+z
+
++
+
+
+
+y
+
+• yz = rs ei ei = rs ei(+)
+
+Re
+
+ Deling
+• z = a + ib = r (cos  + i sin )
+y = c + id = s (cos  + i sin )
+𝑧
+𝑟 ei
+𝑟 𝑖(𝜃−𝜑)
+• =
+= 𝑒
+
+𝑦
+s ei
+𝑠
+𝑧
+𝑎+𝑖𝑏
+𝑎+𝑖𝑏 𝑐−𝑖𝑑
+• =
+=
+𝑦
+𝑐+𝑖𝑑
+𝑐+𝑖𝑑 𝑐−𝑖𝑑
+𝑎𝑐+𝑏𝑑
+𝑏𝑐−𝑎𝑑
++𝑖 2 2
+2
+2
+𝑐 +𝑑
+𝑐 +𝑑
+
+=
+
+𝑎𝑐+𝑏𝑑 +𝑖(𝑏𝑐−𝑎𝑑)
+=
+2
+2
+𝑐 +𝑑
+
+ n-de graadspolynoom
+• Neem polynoom/veelterm in    van de nde graad
+𝑝(𝜆) = 𝑎𝑛 𝜆𝑛 + 𝑎𝑛−1 𝜆𝑛−1 + ⋯ + 𝑎1 𝜆 + 𝑎0
+met 𝑎𝑖  , an  0
+• Dan zijn er STEEDS precies n nulpunten pi
+– Mogelijk complex
+– Mogelijk samenvallend
+
+𝑝(𝜆) = 𝑎𝑛 (𝜆 − 𝑝1 )𝑚1 … (𝜆 − 𝑝𝑘 )𝑚𝑘
+met 𝑚1 + ⋯ + 𝑚𝑘 = 𝑛
+mi is algebraïsche multipliciteit van pi
+
+ 

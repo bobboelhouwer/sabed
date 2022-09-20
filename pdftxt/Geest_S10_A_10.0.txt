@@ -1,0 +1,703 @@
+Nederlandse Taalkunde I
+Hoofdstuk 4
+Handboek pp.105–149
+
+Jeroen van Craenenbroeck
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Overzicht
+Inleiding
+
+Bepaling-hoofdsamenstelling
+
+Aﬂeiding door categoriebepalende suﬃgering
+
+Aﬂeiding door categorieneutrale preﬁgering
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Inleiding
+?
+nee
+
+ja
+-
+
+7
+
+?
+nee
+
+ja
+
+6
+
+?
+nee
+
+ja
+4
+
+5
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Overzicht
+Inleiding
+
+Bepaling-hoofdsamenstelling
+
+Aﬂeiding door categoriebepalende suﬃgering
+
+Aﬂeiding door categorieneutrale preﬁgering
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Bepaling-hoofdsamenstelling
+Y
+
+[N X N ]
+
+[N N N ]
+[N A N ]
+[N V N ]
+[N P N ]
+[N Adv N ]
+[N Num N ]
+
+[V X V ]
+
+[V N V ]
+[V A V ]
+[V V V ]
+
+[A X A ]
+
+[A N A ]
+[A A A ]
+[A V A ]
+[A P A ]
+[A Adv A ]
+[A Num A ]
+[A Pron A ]
+
+[P X P ]
+
+[P P P ]
+
+X Y
+[Y X Y ]
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Bepaling-hoofdsamenstelling
+
+tuinfeest
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Bepaling-hoofdsamenstelling
+
+schoenmaker
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Bepaling-hoofdsamenstelling
+
+koopman
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Bepaling-hoofdsamenstelling
+
+aftocht
+
+aﬂoop
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Bepaling-hoofdsamenstelling
+
+terugweg
+
+terugkeer
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Bepaling-hoofdsamenstelling
+
+ijzersterk
+
+beregoed
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Bepaling-hoofdsamenstelling
+(1)
+
+Een
+is een vrij morfeem dat een verarmde, bijna
+grammaticale betekenis krijgt wanneer het deel uitmaakt van een
+morfologisch complex woord.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Bepaling-hoofdsamenstelling
+(1)
+
+Een
+is een vrij morfeem dat een verarmde, bijna
+grammaticale betekenis krijgt wanneer het deel uitmaakt van een
+morfologisch complex woord.
+
+(2)
+
+*ijzersterker, *glashelderder, *het ijskoudst
+*erg stapelgek, *zeer bloedserieus, *verschrikkelijk/vreselijk
+doodnuchter
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ 

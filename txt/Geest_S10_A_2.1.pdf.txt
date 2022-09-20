@@ -1,0 +1,495 @@
+Overzicht
+Inleiding
+Hetwerkwoordelijkgezegde
+Hetsubjectofonderwerp
+Hetdirectobjectoflijdendvoorwerp
+Hetindirectobjectofmeewerkendvoorwerp
+Hetprepositioneelobjectofvoorzetselvoorwerp
+Hetvoorwerpvanplaats/richting/maat/wijze/duur
+Debijwoordelijkebepaling
+Debijvoeglijkebepaling
+Deinternebijwoordelijkebepaling
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Hetsubjectofonderwerp
+▶ (cid:266)(cid:280)(cid:280)(cid:266)(cid:275)(cid:281)(cid:270)(cid:311)(cid:273)(cid:266)(cid:287)(cid:270)(cid:275)(cid:280)(cid:265)(cid:266)(cid:273)(cid:266)(cid:275)
+eigenlijk/ voorlopig/
+loos herhalend
+onderwerp 10 10+
+lijdendvoorwerp 30 30+
+meewerkendvoorwerp 40 40+
+voorzetselvoorwerp 50 50+
+voorwerpvanplaats 61 61+
+voorwerpvanrichting 62 62+
+voorwerpvanmaat 63 63+
+voorwerpvanwijze 64 64+
+voorwerpvanduur 65 65+
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .(26) a. Dieman,diezietjouniet.
+10 10+
+b. Hijzietjouniet,dieman.
+10+ 10
+(27) a. Hetsneeuwt.
+10
+b. Hetisvijfuur.
+10
+(28) Er stondgistereneenpaardindegang
+10+ 10
+(29) Er werdgisterenveelgedanstophetfeest.
+10+
+Hetsubjectofonderwerp
+(cid:280)(cid:282)(cid:263)(cid:271)(cid:266)(cid:264)(cid:281)
+code 10
+constituent NP
+valentie eersteparticipantinhetvalentieschema(agens)
+vervangbaarheid TypeI-paradigmata(persoon/zaak)
+verplaatsbaarheid AL,VV,MV1,?MV2,?MV3,*AV,UL
+extra bepaaltcongruentiekenmerkenvandePV
+kanineendoor-PPverschijneninnominaliseringen
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .(27) a. Hetsneeuwt.
+10
+b. Hetisvijfuur.
+10
+(28) Er stondgistereneenpaardindegang
+10+ 10
+(29) Er werdgisterenveelgedanstophetfeest.
+10+
+Hetsubjectofonderwerp
+(cid:280)(cid:282)(cid:263)(cid:271)(cid:266)(cid:264)(cid:281)
+code 10
+constituent NP
+valentie eersteparticipantinhetvalentieschema(agens)
+vervangbaarheid TypeI-paradigmata(persoon/zaak)
+verplaatsbaarheid AL,VV,MV1,?MV2,?MV3,*AV,UL
+extra bepaaltcongruentiekenmerkenvandePV
+kanineendoor-PPverschijneninnominaliseringen
+(26) a. Dieman,diezietjouniet.
+10 10+
+b. Hijzietjouniet,dieman.
+10+ 10
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .(28) Er stondgistereneenpaardindegang
+10+ 10
+(29) Er werdgisterenveelgedanstophetfeest.
+10+
+Hetsubjectofonderwerp
+(cid:280)(cid:282)(cid:263)(cid:271)(cid:266)(cid:264)(cid:281)
+code 10
+constituent NP
+valentie eersteparticipantinhetvalentieschema(agens)
+vervangbaarheid TypeI-paradigmata(persoon/zaak)
+verplaatsbaarheid AL,VV,MV1,?MV2,?MV3,*AV,UL
+extra bepaaltcongruentiekenmerkenvandePV
+kanineendoor-PPverschijneninnominaliseringen
+(26) a. Dieman,diezietjouniet.
+10 10+
+b. Hijzietjouniet,dieman.
+10+ 10
+(27) a. Hetsneeuwt.
+10
+b. Hetisvijfuur.
+10
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .(29) Er werdgisterenveelgedanstophetfeest.
+10+
+Hetsubjectofonderwerp
+(cid:280)(cid:282)(cid:263)(cid:271)(cid:266)(cid:264)(cid:281)
+code 10
+constituent NP
+valentie eersteparticipantinhetvalentieschema(agens)
+vervangbaarheid TypeI-paradigmata(persoon/zaak)
+verplaatsbaarheid AL,VV,MV1,?MV2,?MV3,*AV,UL
+extra bepaaltcongruentiekenmerkenvandePV
+kanineendoor-PPverschijneninnominaliseringen
+(26) a. Dieman,diezietjouniet.
+10 10+
+b. Hijzietjouniet,dieman.
+10+ 10
+(27) a. Hetsneeuwt.
+10
+b. Hetisvijfuur.
+10
+(28) Er stondgistereneenpaardindegang
+10+ 10
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Hetsubjectofonderwerp
+(cid:280)(cid:282)(cid:263)(cid:271)(cid:266)(cid:264)(cid:281)
+code 10
+constituent NP
+valentie eersteparticipantinhetvalentieschema(agens)
+vervangbaarheid TypeI-paradigmata(persoon/zaak)
+verplaatsbaarheid AL,VV,MV1,?MV2,?MV3,*AV,UL
+extra bepaaltcongruentiekenmerkenvandePV
+kanineendoor-PPverschijneninnominaliseringen
+(26) a. Dieman,diezietjouniet.
+10 10+
+b. Hijzietjouniet,dieman.
+10+ 10
+(27) a. Hetsneeuwt.
+10
+b. Hetisvijfuur.
+10
+(28) Er stondgistereneenpaardindegang
+10+ 10
+(29) Er werdgisterenveelgedanstophetfeest.
+10+
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Overzicht
+Inleiding
+Hetwerkwoordelijkgezegde
+Hetsubjectofonderwerp
+Hetdirectobjectoflijdendvoorwerp
+Hetindirectobjectofmeewerkendvoorwerp
+Hetprepositioneelobjectofvoorzetselvoorwerp
+Hetvoorwerpvanplaats/richting/maat/wijze/duur
+Debijwoordelijkebepaling
+Debijvoeglijkebepaling
+Deinternebijwoordelijkebepaling
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .(30) a. Dietaalkundigeheeftverschillenderomansgeschreven.
+30
+b. Dietaalkundigeheeftdiegeschreven.
+30
+c. Verschillenderomansheeftdietaalkundigegeschreven.
+30
+d. *Dietaalkundigeheeftgeschrevenverschillenderomans
+30
+e. Verschillenderomanswerdendoordietaalkundige
+10
+geschreven.
+Hetdirectobjectoflijdendvoorwerp
+(cid:265)(cid:270)(cid:279)(cid:266)(cid:264)(cid:281)(cid:276)(cid:263)(cid:271)(cid:266)(cid:264)(cid:281)
+code 30
+constituent NP
+valentie tweedeparticipantinhetvalentieschema
+(patiens/thema)
+vervangbaarheid TypeI-paradigmata(persoon/zaak)
+verplaatsbaarheid AL,VV,*MV1,MV2,MV3,*AV,UL
+extra wordtsubjectvanpassievezin
+verschijntineenvan-PPinnominaliseringen
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Hetdirectobjectoflijdendvoorwerp
+(cid:265)(cid:270)(cid:279)(cid:266)(cid:264)(cid:281)(cid:276)(cid:263)(cid:271)(cid:266)(cid:264)(cid:281)
+code 30
+constituent NP
+valentie tweedeparticipantinhetvalentieschema
+(patiens/thema)
+vervangbaarheid TypeI-paradigmata(persoon/zaak)
+verplaatsbaarheid AL,VV,*MV1,MV2,MV3,*AV,UL
+extra wordtsubjectvanpassievezin
+verschijntineenvan-PPinnominaliseringen
+(30) a. Dietaalkundigeheeftverschillenderomansgeschreven.
+30
+b. Dietaalkundigeheeftdiegeschreven.
+30
+c. Verschillenderomansheeftdietaalkundigegeschreven.
+30
+d. *Dietaalkundigeheeftgeschrevenverschillenderomans
+30
+e. Verschillenderomanswerdendoordietaalkundige
+10
+geschreven.
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Hetdirectobjectoflijdendvoorwerp
+(cid:265)(cid:270)(cid:279)(cid:266)(cid:264)(cid:281)(cid:276)(cid:263)(cid:271)(cid:266)(cid:264)(cid:281)
+code 30
+constituent NP
+valentie tweedeparticipantinhetvalentieschema
+(patiens/thema)
+vervangbaarheid TypeI-paradigmata(persoon/zaak)
+verplaatsbaarheid AL,VV,*MV1,MV2,MV3,*AV,UL
+extra wordtsubjectvanpassievezin
+verschijntineenvan-PPinnominaliseringen
+(31) a. Demanheefteenhond.
+b. *Dehondwordtgehaddoordeman.
+c. hethebbenvaneenhond
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Hetdirectobjectoflijdendvoorwerp
+(32) a. Dieman,diekenikniet.
+30 30+
+b. Ikkenhemniet,dieman.
+30+ 30
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Overzicht
+Inleiding
+Hetwerkwoordelijkgezegde
+Hetsubjectofonderwerp
+Hetdirectobjectoflijdendvoorwerp
+Hetindirectobjectofmeewerkendvoorwerp
+Hetprepositioneelobjectofvoorzetselvoorwerp
+Hetvoorwerpvanplaats/richting/maat/wijze/duur
+Debijwoordelijkebepaling
+Debijvoeglijkebepaling
+Deinternebijwoordelijkebepaling
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .(33) a. IkgeefJaneenboek.
+40
+b. IkgeefaanJaneenboek.
+40
+(34) a. MojganverkochteentaalkundeboekaanMansour.
+40
+b. MansourkochteentaalkundeboekvanMojgan.
+40
+Hetindirectobjectofmeewerkendvoorwerp
+(cid:270)(cid:275)(cid:265)(cid:270)(cid:279)(cid:266)(cid:264)(cid:281)(cid:276)(cid:263)(cid:271)(cid:266)(cid:264)(cid:281)
+code 40
+constituent NPofPP(aan/voor/van)
+valentie derdeparticipantinhetvalentieschema
+(ontvanger/bron/belanghebbende)
+vervangbaarheid TypeI-paradigma(persoon)
+verplaatsbaarheid PP:AL,VV,*MV1,MV2,MV3,AV,UL
+NP:AL,VV,*MV1,MV2,*MV3,*AV,UL
+extra verschijntineenaan/voor/van-PPin
+nominaliseringen
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .(34) a. MojganverkochteentaalkundeboekaanMansour.
+40
+b. MansourkochteentaalkundeboekvanMojgan.
+40
+Hetindirectobjectofmeewerkendvoorwerp
+(cid:270)(cid:275)(cid:265)(cid:270)(cid:279)(cid:266)(cid:264)(cid:281)(cid:276)(cid:263)(cid:271)(cid:266)(cid:264)(cid:281)
+code 40
+constituent NPofPP(aan/voor/van)
+valentie derdeparticipantinhetvalentieschema
+(ontvanger/bron/belanghebbende)
+vervangbaarheid TypeI-paradigma(persoon)
+verplaatsbaarheid PP:AL,VV,*MV1,MV2,MV3,AV,UL
+NP:AL,VV,*MV1,MV2,*MV3,*AV,UL
+extra verschijntineenaan/voor/van-PPin
+nominaliseringen
+(33) a. IkgeefJaneenboek.
+40
+b. IkgeefaanJaneenboek.
+40
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Hetindirectobjectofmeewerkendvoorwerp
+(cid:270)(cid:275)(cid:265)(cid:270)(cid:279)(cid:266)(cid:264)(cid:281)(cid:276)(cid:263)(cid:271)(cid:266)(cid:264)(cid:281)
+code 40
+constituent NPofPP(aan/voor/van)
+valentie derdeparticipantinhetvalentieschema
+(ontvanger/bron/belanghebbende)
+vervangbaarheid TypeI-paradigma(persoon)
+verplaatsbaarheid PP:AL,VV,*MV1,MV2,MV3,AV,UL
+NP:AL,VV,*MV1,MV2,*MV3,*AV,UL
+extra verschijntineenaan/voor/van-PPin
+nominaliseringen
+(33) a. IkgeefJaneenboek.
+40
+b. IkgeefaanJaneenboek.
+40
+(34) a. MojganverkochteentaalkundeboekaanMansour.
+40
+b. MansourkochteentaalkundeboekvanMojgan.
+40
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .(36) a. hetverkopenvaneentaalkundeboekdoorMojganaan
+Mansour
+b. hetkopenvaneentaalkundeboekdoorMansourvanMojgane
+c. hetinschenkenvaneenglaswijndoorjouvoorOlivier
+Hetindirectobjectofmeewerkendvoorwerp
+(cid:270)(cid:275)(cid:265)(cid:270)(cid:279)(cid:266)(cid:264)(cid:281)(cid:276)(cid:263)(cid:271)(cid:266)(cid:264)(cid:281)
+code 40
+constituent NPofPP(aan/voor/van)
+valentie derdeparticipantinhetvalentieschema
+(ontvanger/bron/belanghebbende)
+vervangbaarheid TypeI-paradigma(persoon)
+verplaatsbaarheid PP:AL,VV,*MV1,MV2,MV3,AV,UL
+NP:AL,VV,*MV1,MV2,*MV3,*AV,UL
+extra verschijntineenaan/voor/van-PPin
+nominaliseringen
+(35) a. Zalikjeeenglaswijninschenken?
+40
+b. Zalikeenglaswijnvoorjeinschenken?
+40
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Hetindirectobjectofmeewerkendvoorwerp
+(cid:270)(cid:275)(cid:265)(cid:270)(cid:279)(cid:266)(cid:264)(cid:281)(cid:276)(cid:263)(cid:271)(cid:266)(cid:264)(cid:281)
+code 40
+constituent NPofPP(aan/voor/van)
+valentie derdeparticipantinhetvalentieschema
+(ontvanger/bron/belanghebbende)
+vervangbaarheid TypeI-paradigma(persoon)
+verplaatsbaarheid PP:AL,VV,*MV1,MV2,MV3,AV,UL
+NP:AL,VV,*MV1,MV2,*MV3,*AV,UL
+extra verschijntineenaan/voor/van-PPin
+nominaliseringen
+(35) a. Zalikjeeenglaswijninschenken?
+40
+b. Zalikeenglaswijnvoorjeinschenken?
+40
+(36) a. hetverkopenvaneentaalkundeboekdoorMojganaan
+Mansour
+b. hetkopenvaneentaalkundeboekdoorMansourvanMojgane
+c. hetinschenkenvaneenglaswijndoorjouvoorOlivier
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Hetindirectobjectofmeewerkendvoorwerp
+(cid:270)(cid:275)(cid:265)(cid:270)(cid:279)(cid:266)(cid:264)(cid:281)(cid:276)(cid:263)(cid:271)(cid:266)(cid:264)(cid:281)
+code 40
+constituent NPofPP(aan/voor/van)
+valentie derdeparticipantinhetvalentieschema
+(ontvanger/bron/belanghebbende)
+vervangbaarheid TypeI-paradigma(persoon)
+verplaatsbaarheid PP:AL,VV,*MV1,MV2,MV3,AV,UL
+NP:AL,VV,*MV1,MV2,*MV3,*AV,UL
+extra verschijntineenaan/voor/van-PPin
+nominaliseringen
+(37) a. Haarvriendinheeftzijhaarﬁetsgeleend.
+40 30
+b. Aanhaarvriendinheeftzijhaarﬁetsgeleend.
+40 30
+c. Zijheefthaarvriendinhaarﬁetsgeleend.
+40 30
+d. Zijheeftaanhaarvriendinhaarﬁetsgeleend.
+40 30
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Hetindirectobjectofmeewerkendvoorwerp
+(cid:270)(cid:275)(cid:265)(cid:270)(cid:279)(cid:266)(cid:264)(cid:281)(cid:276)(cid:263)(cid:271)(cid:266)(cid:264)(cid:281)
+code 40
+constituent NPofPP(aan/voor/van)
+valentie derdeparticipantinhetvalentieschema
+(ontvanger/bron/belanghebbende)
+vervangbaarheid TypeI-paradigma(persoon)
+verplaatsbaarheid PP:AL,VV,*MV1,MV2,MV3,AV,UL
+NP:AL,VV,*MV1,MV2,*MV3,*AV,UL
+extra verschijntineenaan/voor/van-PPin
+nominaliseringen
+(38) a. *Zijheefthaarﬁetshaarvriendingeleend.
+30 40
+b. Zijheefthaarﬁetsaanhaarvriendingeleend.
+30 40
+c. *Zijheefthaarﬁetsgeleendhaarvriendin
+30 40
+d. Zijheefthaarﬁetsgeleendaanhaarvriendin
+30 40
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .(41) a. Ikhebhethaargegeven.
+b. *Ikhebhaarhetgegeven.
+Hetindirectobjectofmeewerkendvoorwerp
+(cid:270)(cid:275)(cid:265)(cid:270)(cid:279)(cid:266)(cid:264)(cid:281)(cid:276)(cid:263)(cid:271)(cid:266)(cid:264)(cid:281)
+code 40
+constituent NPofPP(aan/voor/van)
+valentie derdeparticipantinhetvalentieschema
+(ontvanger/bron/belanghebbende)
+vervangbaarheid TypeI-paradigma(persoon)
+verplaatsbaarheid PP:AL,VV,*MV1,MV2,MV3,AV,UL
+NP:AL,VV,*MV1,MV2,*MV3,*AV,UL
+extra verschijntineenaan/voor/van-PPin
+nominaliseringen
+(39) a. Ikhebhetmijnzusgegeven.
+b. *Ikhebmijnzushetgegeven.
+(40) a. Ikhebhaardatboekgegeven.
+b. *Ikhebdatboekhaargegeven.
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Hetindirectobjectofmeewerkendvoorwerp
+(cid:270)(cid:275)(cid:265)(cid:270)(cid:279)(cid:266)(cid:264)(cid:281)(cid:276)(cid:263)(cid:271)(cid:266)(cid:264)(cid:281)
+code 40
+constituent NPofPP(aan/voor/van)
+valentie derdeparticipantinhetvalentieschema
+(ontvanger/bron/belanghebbende)
+vervangbaarheid TypeI-paradigma(persoon)
+verplaatsbaarheid PP:AL,VV,*MV1,MV2,MV3,AV,UL
+NP:AL,VV,*MV1,MV2,*MV3,*AV,UL
+extra verschijntineenaan/voor/van-PPin
+nominaliseringen
+(39) a. Ikhebhetmijnzusgegeven.
+b. *Ikhebmijnzushetgegeven.
+(40) a. Ikhebhaardatboekgegeven.
+b. *Ikhebdatboekhaargegeven.
+(41) a. Ikhebhethaargegeven.
+b. *Ikhebhaarhetgegeven.
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Hetindirectobjectofmeewerkendvoorwerp
+(42) a. Ikhebhemookeenboekgegeven,diestudent
+40+ 40
+b. Ikhebdaarookeenboekaangegeven,aandiestudent
+40+ 40+ 40
+(43) a. Diestudentdie/daaraanhebikookeenboekgegeven.
+40 40+
+b. Aandiestudentdaaraanhebikookeenboekgegeven.
+40 40+
+c. Diestudentdaarhebikookeenboekaangegeven.
+40 40+ 40+
+d. Aandiestudentdaarhebikookeenboekaangegeven.
+40 40+ 40+
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .(45) a. Devoorstellenbevallendemeestestudenten.
+b. *hetbevallenvandemeestestudentendoordevoorstellen
+c. hetbevallenvandevoorstellenaandemeestestudenten
+Hetindirectobjectofmeewerkendvoorwerp
+(44) a. Eenongelukkaniedereenoverkomen.
+40
+b. Datvoorstelbevaltmewel.
+40
+c. Datschilderijisonsveelwaard.
+40
+d. Hetspijtmedatiktelaatben.
+40
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Hetindirectobjectofmeewerkendvoorwerp
+(44) a. Eenongelukkaniedereenoverkomen.
+40
+b. Datvoorstelbevaltmewel.
+40
+c. Datschilderijisonsveelwaard.
+40
+d. Hetspijtmedatiktelaatben.
+40
+(45) a. Devoorstellenbevallendemeestestudenten.
+b. *hetbevallenvandemeestestudentendoordevoorstellen
+c. hetbevallenvandevoorstellenaandemeestestudenten
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .(47) a. ietsbevaltiemand
+b. *iemandwordt(dooriets)bevallen
+c. iemandisbevallen
+(48) a. ietsergertiemand
+b. ??iemandwordt(dooriets)geërgerd
+c. iemandisgeërgerd
+(49) a. Sommigestudentenbevallendedocent.
+b. *hetbevallenvandedocentdoorsommigestudenten
+c. hetbevallenaandedocentvansommigestudenten
+(50) a. Sommigestudentenergerendedocent.
+b. ?hetergerenvandedocentdoorsommigestudenten
+c. *hetergerenaandedocentvansommigestudenten
+Hetindirectobjectofmeewerkendvoorwerp
+(46) a. Zijngedragbevaltme.
+b. Zijngedragergertme.
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .(49) a. Sommigestudentenbevallendedocent.
+b. *hetbevallenvandedocentdoorsommigestudenten
+c. hetbevallenaandedocentvansommigestudenten
+(50) a. Sommigestudentenergerendedocent.
+b. ?hetergerenvandedocentdoorsommigestudenten
+c. *hetergerenaandedocentvansommigestudenten
+Hetindirectobjectofmeewerkendvoorwerp
+(46) a. Zijngedragbevaltme.
+b. Zijngedragergertme.
+(47) a. ietsbevaltiemand
+b. *iemandwordt(dooriets)bevallen
+c. iemandisbevallen
+(48) a. ietsergertiemand
+b. ??iemandwordt(dooriets)geërgerd
+c. iemandisgeërgerd
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Hetindirectobjectofmeewerkendvoorwerp
+(46) a. Zijngedragbevaltme.
+b. Zijngedragergertme.
+(47) a. ietsbevaltiemand
+b. *iemandwordt(dooriets)bevallen
+c. iemandisbevallen
+(48) a. ietsergertiemand
+b. ??iemandwordt(dooriets)geërgerd
+c. iemandisgeërgerd
+(49) a. Sommigestudentenbevallendedocent.
+b. *hetbevallenvandedocentdoorsommigestudenten
+c. hetbevallenaandedocentvansommigestudenten
+(50) a. Sommigestudentenergerendedocent.
+b. ?hetergerenvandedocentdoorsommigestudenten
+c. *hetergerenaandedocentvansommigestudenten
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .Hetindirectobjectofmeewerkendvoorwerp
+(51) a. Dewindbliesonsinhetgezicht.
+40
+b. Dieopmerkingschootheminhetverkeerdekeelgat.
+40
+. . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . .

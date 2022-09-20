@@ -1,0 +1,503 @@
+NederlandseTaalkundeI
+Hoofdstuk11(deelI)
+Handboekpp.319–361
+(zonderhetnaamwoordelijkgezegde)
+JeroenvanCraenenbroeckInleiding
+! (cid:277)(cid:279)(cid:276)(cid:281)(cid:276)(cid:281)(cid:286)(cid:277)(cid:270)(cid:264)(cid:270)(cid:281)(cid:266)(cid:270)(cid:281)
+(cid:280)(cid:282)(cid:263)(cid:271)(cid:266)(cid:264)(cid:281)
+constituent NP
+valentie eersteparticipantinhetvalentieschema(agens)
+vervangbaarheid TypeI-paradigmata(persoon/zaak)
+verplaatsbaarheid AL,VV,MV1,?MV2,?MV3,*AV,UL
+extra bepaaltcongruentiekenmerkenvandePV
+kanineendoor-PPverschijneninnominaliseringen
+(1) Diemanvermoordtdegijzelaars.
+a. Dieman,dievermoordtdegijzelaars. (AL)
+b. Diemanvermoordtdegijzelaars. (VV)
+c. Vermoordtdiemandegijzelaars? (MV1)
+d. *Heeftvaakdiemandegijzelaarsvermoord? (*MV2)
+e. *Heeftdegijzelaarsvaakdiemanvermoord? (*MV3)
+f. *datdegijzelaarsvermoordtdieman. (*AV)
+g. Dievermoordtdegijzelaars,dieman. (UL)Inleiding
+! (cid:277)(cid:279)(cid:276)(cid:281)(cid:276)(cid:281)(cid:286)(cid:277)(cid:270)(cid:264)(cid:270)(cid:281)(cid:266)(cid:270)(cid:281)
+(cid:280)(cid:282)(cid:263)(cid:271)(cid:266)(cid:264)(cid:281)
+constituent NP
+valentie eersteparticipantinhetvalentieschema(agens)
+vervangbaarheid TypeI-paradigmata(persoon/zaak)
+verplaatsbaarheid AL,VV,MV1,?MV2,?MV3,*AV,UL
+extra bepaaltcongruentiekenmerkenvandePV
+kanineendoor-PPverschijneninnominaliseringen
+(2) a. Diemanvermoordtdegijzelaars.
+b. Diemannenvermoordendegijzelaars.
+(3) hetvermoordenvandegijzelaarsdoordemannen
+(4) a. Demanlacht.
+b. Hetlachenvan/doordeman.
+(5) a. Desoldatensneuvelen.
+b. Hetsneuvelenvan/*doordesoldaten.Inleiding
+! (cid:277)(cid:279)(cid:276)(cid:281)(cid:276)(cid:281)(cid:286)(cid:277)(cid:270)(cid:264)(cid:270)(cid:281)(cid:266)(cid:270)(cid:281)
+(cid:280)(cid:282)(cid:263)(cid:271)(cid:266)(cid:264)(cid:281)
+constituent NP
+valentie eersteparticipantinhetvalentieschema(agens)
+vervangbaarheid TypeI-paradigmata(persoon/zaak)
+verplaatsbaarheid AL,VV,MV1,?MV2,?MV3,*AV,UL
+extra bepaaltcongruentiekenmerkenvandePV
+kanineendoor-PPverschijneninnominaliseringen
+(6) Degijzelaarswordenvermoorddoordieman.
+(7) Erstaateenmanindetuin.
+▶ (cid:277)(cid:279)(cid:276)(cid:281)(cid:276)(cid:281)(cid:286)(cid:277)(cid:270)(cid:280)(cid:264)(cid:269)!(cid:274)(cid:270)(cid:275)(cid:265)(cid:266)(cid:279)(cid:277)(cid:279)(cid:276)(cid:281)(cid:276)(cid:281)(cid:286)(cid:277)(cid:270)(cid:280)(cid:264)(cid:269)Inleiding
+▶ (cid:265)(cid:282)(cid:263)(cid:263)(cid:266)(cid:273)(cid:266)(cid:274)(cid:262)(cid:279)(cid:272)(cid:266)(cid:279)(cid:270)(cid:275)(cid:268)
+(8) a. Dieman,diezietjouniet.
+b. Hijzietjouniet,dieman.Inleiding
+▶ (cid:265)(cid:282)(cid:263)(cid:263)(cid:266)(cid:273)(cid:266)(cid:274)(cid:262)(cid:279)(cid:272)(cid:266)(cid:279)(cid:270)(cid:275)(cid:268)
+(9) a. Dieman,diezietjouniet.
+10 10+
+b. Hijzietjouniet,dieman.
+10+ 10
+(10) a. Dieman,diekenikniet.
+30 30+
+b. Ikkenhemniet,dieman.
+30+ 30
+(11) a. Aandieman,daaraangeefikeenboek.
+40 40+
+b. Aandieman,daargeefikeenboekdaar.
+40 40+ 40+
+c. Ikkendaareenboekaan,aandieman.
+40+ 40+ 40Inleiding
+eigenlijk/ voorlopig/
+loos herhalend
+PV 20
+niet-ﬁnietwerkwoordelijkdeel 21 21+
+niet-werkwoordelijkdeel 22 22+
+naamwoordelijkgezegde 23
+onderwerp 10 10+
+subjectscomplement 10+ 10+
+lijdendvoorwerp 30 30+
+objectscomplement 30+ 30+
+meewerkendvoorwerp 40 40+
+voorzetselvoorwerp 50 50+
+plaatsvoorwerp 61 61+
+richtingsvoorwerp 62 62+
+maatvoorwerp 63 63+
+voorwerpvanwijze 64 64+
+voorwerpvanduur 65 65+
+bwb.(restcategorie) 70 70+
+bwb.vanplaats 71 71+
+bwb.vanrichting/pad 72 72+
+bwb.vanmaat/graad/hoeveelheid 73 73+
+bwb.vanwijze 74 74+
+bwb.vantijd/duur 75 75+
+bijvoeglijkebepaling 90 90+
+internebijwoordelijkebepaling 91Hetwerkwoordelijkgezegde
+(12) Janlachtluid.
+(13) Janheeftluidgelachen.
+(14) Janvergistzichvaak.
+(15) JanbeltMarieop.
+(16) Janbrachtmijopdehoogtevanhetnieuws.Hetwerkwoordelijkgezegde
+werkwoordelijkgezegde
+werkwoordelijkdeel niet-werkwoordelijk
+deel
+22
+ﬁniet niet-ﬁniet
+werkwoordelijk werkwoordelijk
+deel deel
+(PV) 21 vnw.bij scheidbaar niet-ww.deel
+20 verplicht deelvan vanwerkwoordelijke
+wederkerend samenkoppeling uitdrukking
+ww.
+niet-ww.deelvan niet-ww.deel
+vasteverbinding vanidiomatische
+verbindingHetwerkwoordelijkgezegde
+(17) Janlachtluid.
+(18) Janheeftluidgelachen.
+(19) Janvergistzichvaak.
+(20) JanbeltMarieop.
+(21) Janbrachtmijopdehoogtevanhetnieuws.Hetwerkwoordelijkgezegde
+(22) Zegaatmijhelpen.
+(23) Zewilmijhelpen.Hetwerkwoordelijkgezegde
+(24) HijsteektdedraakmetPiet.
+(25) Hijheeftbelangbijeensnellea(cid:418)andeling.Hetsubjectofonderwerp
+▶ (cid:266)(cid:280)(cid:280)(cid:266)(cid:275)(cid:281)(cid:270)(cid:311)(cid:273)(cid:266)(cid:287)(cid:270)(cid:275)(cid:280)(cid:265)(cid:266)(cid:273)(cid:266)(cid:275)
+eigenlijk/ voorlopig/
+loos herhalend
+onderwerp 10 10+
+lijdendvoorwerp 30 30+
+meewerkendvoorwerp 40 40+
+voorzetselvoorwerp 50 50+
+voorwerpvanplaats 61 61+
+voorwerpvanrichting 62 62+
+voorwerpvanmaat 63 63+
+voorwerpvanwijze 64 64+
+voorwerpvanduur 65 65+Hetsubjectofonderwerp
+(cid:280)(cid:282)(cid:263)(cid:271)(cid:266)(cid:264)(cid:281)
+code 10
+constituent NP
+valentie eersteparticipantinhetvalentieschema(agens)
+vervangbaarheid TypeI-paradigmata(persoon/zaak)
+verplaatsbaarheid AL,VV,MV1,?MV2,?MV3,*AV,UL
+extra bepaaltcongruentiekenmerkenvandePV
+kanineendoor-PPverschijneninnominaliseringen
+(26) a. Dieman,diezietjouniet.
+10 10+
+b. Hijzietjouniet,dieman.
+10+ 10
+(27) a. Hetsneeuwt.
+10
+b. Hetisvijfuur.
+10
+(28) Er stondgistereneenpaardindegang
+10+ 10
+(29) Er werdgisterenveelgedanstophetfeest.
+10+Hetdirectobjectoflijdendvoorwerp
+(cid:265)(cid:270)(cid:279)(cid:266)(cid:264)(cid:281)(cid:276)(cid:263)(cid:271)(cid:266)(cid:264)(cid:281)
+code 30
+constituent NP
+valentie tweedeparticipantinhetvalentieschema
+(patiens/thema)
+vervangbaarheid TypeI-paradigmata(persoon/zaak)
+verplaatsbaarheid AL,VV,*MV1,MV2,MV3,*AV,UL
+extra wordtsubjectvanpassievezin
+verschijntineenvan-PPinnominaliseringen
+(30) a. Dietaalkundigeheeftverschillenderomansgeschreven.
+30
+b. Dietaalkundigeheeftdiegeschreven.
+30
+c. Verschillenderomansheeftdietaalkundigegeschreven.
+30
+d. *Dietaalkundigeheeftgeschrevenverschillenderomans
+30
+e. Verschillenderomanswerdendoordietaalkundige
+10
+geschreven.Hetdirectobjectoflijdendvoorwerp
+(cid:265)(cid:270)(cid:279)(cid:266)(cid:264)(cid:281)(cid:276)(cid:263)(cid:271)(cid:266)(cid:264)(cid:281)
+code 30
+constituent NP
+valentie tweedeparticipantinhetvalentieschema
+(patiens/thema)
+vervangbaarheid TypeI-paradigmata(persoon/zaak)
+verplaatsbaarheid AL,VV,*MV1,MV2,MV3,*AV,UL
+extra wordtsubjectvanpassievezin
+verschijntineenvan-PPinnominaliseringen
+(31) a. Demanheefteenhond.
+b. *Dehondwordtgehaddoordeman.
+c. hethebbenvaneenhondHetdirectobjectoflijdendvoorwerp
+(32) a. Dieman,diekenikniet.
+30 30+
+b. Ikkenhemniet,dieman.
+30+ 30Hetindirectobjectofmeewerkendvoorwerp
+(cid:270)(cid:275)(cid:265)(cid:270)(cid:279)(cid:266)(cid:264)(cid:281)(cid:276)(cid:263)(cid:271)(cid:266)(cid:264)(cid:281)
+code 40
+constituent NPofPP(aan/voor/van)
+valentie derdeparticipantinhetvalentieschema
+(ontvanger/bron/belanghebbende)
+vervangbaarheid TypeI-paradigma(persoon)
+verplaatsbaarheid PP:AL,VV,*MV1,MV2,MV3,AV,UL
+NP:AL,VV,*MV1,MV2,*MV3,*AV,UL
+extra verschijntineenaan/voor/van-PPin
+nominaliseringen
+(33) a. IkgeefJaneenboek.
+40
+b. IkgeefaanJaneenboek.
+40
+(34) a. MojganverkochteentaalkundeboekaanMansour.
+40
+b. MansourkochteentaalkundeboekvanMojgan.
+40Hetindirectobjectofmeewerkendvoorwerp
+(cid:270)(cid:275)(cid:265)(cid:270)(cid:279)(cid:266)(cid:264)(cid:281)(cid:276)(cid:263)(cid:271)(cid:266)(cid:264)(cid:281)
+code 40
+constituent NPofPP(aan/voor/van)
+valentie derdeparticipantinhetvalentieschema
+(ontvanger/bron/belanghebbende)
+vervangbaarheid TypeI-paradigma(persoon)
+verplaatsbaarheid PP:AL,VV,*MV1,MV2,MV3,AV,UL
+NP:AL,VV,*MV1,MV2,*MV3,*AV,UL
+extra verschijntineenaan/voor/van-PPin
+nominaliseringen
+(35) a. Zalikjeeenglaswijninschenken?
+40
+b. Zalikeenglaswijnvoorjeinschenken?
+40
+(36) a. hetverkopenvaneentaalkundeboekdoorMojganaan
+Mansour
+b. hetkopenvaneentaalkundeboekdoorMansourvanMojgane
+c. hetinschenkenvaneenglaswijndoorjouvoorOlivierHetindirectobjectofmeewerkendvoorwerp
+(cid:270)(cid:275)(cid:265)(cid:270)(cid:279)(cid:266)(cid:264)(cid:281)(cid:276)(cid:263)(cid:271)(cid:266)(cid:264)(cid:281)
+code 40
+constituent NPofPP(aan/voor/van)
+valentie derdeparticipantinhetvalentieschema
+(ontvanger/bron/belanghebbende)
+vervangbaarheid TypeI-paradigma(persoon)
+verplaatsbaarheid PP:AL,VV,*MV1,MV2,MV3,AV,UL
+NP:AL,VV,*MV1,MV2,*MV3,*AV,UL
+extra verschijntineenaan/voor/van-PPin
+nominaliseringen
+(37) a. Haarvriendinheeftzijhaarﬁetsgeleend.
+40 30
+b. Aanhaarvriendinheeftzijhaarﬁetsgeleend.
+40 30
+c. Zijheefthaarvriendinhaarﬁetsgeleend.
+40 30
+d. Zijheeftaanhaarvriendinhaarﬁetsgeleend.
+40 30Hetindirectobjectofmeewerkendvoorwerp
+(cid:270)(cid:275)(cid:265)(cid:270)(cid:279)(cid:266)(cid:264)(cid:281)(cid:276)(cid:263)(cid:271)(cid:266)(cid:264)(cid:281)
+code 40
+constituent NPofPP(aan/voor/van)
+valentie derdeparticipantinhetvalentieschema
+(ontvanger/bron/belanghebbende)
+vervangbaarheid TypeI-paradigma(persoon)
+verplaatsbaarheid PP:AL,VV,*MV1,MV2,MV3,AV,UL
+NP:AL,VV,*MV1,MV2,*MV3,*AV,UL
+extra verschijntineenaan/voor/van-PPin
+nominaliseringen
+(38) a. *Zijheefthaarﬁetshaarvriendingeleend.
+30 40
+b. Zijheefthaarﬁetsaanhaarvriendingeleend.
+30 40
+c. *Zijheefthaarﬁetsgeleendhaarvriendin
+30 40
+d. Zijheefthaarﬁetsgeleendaanhaarvriendin
+30 40Hetindirectobjectofmeewerkendvoorwerp
+(cid:270)(cid:275)(cid:265)(cid:270)(cid:279)(cid:266)(cid:264)(cid:281)(cid:276)(cid:263)(cid:271)(cid:266)(cid:264)(cid:281)
+code 40
+constituent NPofPP(aan/voor/van)
+valentie derdeparticipantinhetvalentieschema
+(ontvanger/bron/belanghebbende)
+vervangbaarheid TypeI-paradigma(persoon)
+verplaatsbaarheid PP:AL,VV,*MV1,MV2,MV3,AV,UL
+NP:AL,VV,*MV1,MV2,*MV3,*AV,UL
+extra verschijntineenaan/voor/van-PPin
+nominaliseringen
+(39) a. Ikhebhetmijnzusgegeven.
+b. *Ikhebmijnzushetgegeven.
+(40) a. Ikhebhaardatboekgegeven.
+b. *Ikhebdatboekhaargegeven.
+(41) a. Ikhebhethaargegeven.
+b. *Ikhebhaarhetgegeven.Hetindirectobjectofmeewerkendvoorwerp
+(42) a. Ikhebhemookeenboekgegeven,diestudent
+40+ 40
+b. Ikhebdaarookeenboekaangegeven,aandiestudent
+40+ 40+ 40
+(43) a. Diestudentdie/daaraanhebikookeenboekgegeven.
+40 40+
+b. Aandiestudentdaaraanhebikookeenboekgegeven.
+40 40+
+c. Diestudentdaarhebikookeenboekaangegeven.
+40 40+ 40+
+d. Aandiestudentdaarhebikookeenboekaangegeven.
+40 40+ 40+Hetindirectobjectofmeewerkendvoorwerp
+(44) a. Eenongelukkaniedereenoverkomen.
+40
+b. Datvoorstelbevaltmewel.
+40
+c. Datschilderijisonsveelwaard.
+40
+d. Hetspijtmedatiktelaatben.
+40
+(45) a. Devoorstellenbevallendemeestestudenten.
+b. *hetbevallenvandemeestestudentendoordevoorstellen
+c. hetbevallenvandevoorstellenaandemeestestudentenHetindirectobjectofmeewerkendvoorwerp
+(46) a. Zijngedragbevaltme.
+b. Zijngedragergertme.
+(47) a. ietsbevaltiemand
+b. *iemandwordt(dooriets)bevallen
+c. iemandisbevallen
+(48) a. ietsergertiemand
+b. ??iemandwordt(dooriets)geërgerd
+c. iemandisgeërgerd
+(49) a. Sommigestudentenbevallendedocent.
+b. *hetbevallenvandedocentdoorsommigestudenten
+c. hetbevallenaandedocentvansommigestudenten
+(50) a. Sommigestudentenergerendedocent.
+b. ?hetergerenvandedocentdoorsommigestudenten
+c. *hetergerenaandedocentvansommigestudentenHetindirectobjectofmeewerkendvoorwerp
+(51) a. Dewindbliesonsinhetgezicht.
+40
+b. Dieopmerkingschootheminhetverkeerdekeelgat.
+40Hetprepositioneelobjectofvoorzetselvoorwerp
+(cid:277)(cid:279)(cid:266)(cid:277)(cid:276)(cid:280)(cid:270)(cid:281)(cid:270)(cid:276)(cid:275)(cid:266)(cid:266)(cid:273)(cid:276)(cid:263)(cid:271)(cid:266)(cid:264)(cid:281)
+code 50
+constituent PP
+valentie tweede(ofderdeparticipant)inhetvalentieschema
+geenspeciﬁekethematischerol
+vervangbaarheid TypeIV-paradigmata
+verplaatsbaarheid AL,VV,*MV1,?MV2,MV3,AV,UL
+extra vasteP
+Pverliestspatialebetekenis
+Pnietbeklemtoonbaar
+(52) Ikhoopopwereldvrede.
+50
+(53) Ikbeschuldighemvandiefstal.
+50
+(54) a. *omdatikopwereldvredenogsteedshoop.
+b. *omdatikhemvandiefstalgisterenbeschuldigde.
+(55) a. *Ikbeschuldighemdaar.
+b. *Ikbeschuldighemdat.
+c. *Ikbeschuldighemzo.Hetprepositioneelobjectofvoorzetselvoorwerp
+TypeIV (cid:277)(cid:262)(cid:279)(cid:262)(cid:265)(cid:270)(cid:268)(cid:274)(cid:262)‘(cid:277)(cid:266)(cid:279)(cid:280)(cid:276)(cid:276)(cid:275)’ (cid:277)(cid:262)(cid:279)(cid:262)(cid:265)(cid:270)(cid:268)(cid:274)(cid:262)‘(cid:287)(cid:262)(cid:262)(cid:272)’
+persoonlijk methem/ermee ermee
+aanwijzend daarmee daarmee
+vragend metwie? waarmee?
+betrekkelijk metwie/waarmee waarmee
+kwantiﬁcationeel(exis.) metiemand metiets/ergensmee
+kwantiﬁcationeel(univ.neg.) metniemand metniets/nergensmee
+kwantiﬁcationeel(univ.pos.) metiedereen metalles/overalmee
+(56) a. Ikbeschuldighemervan/daarvan.
+b. Waarvanbeschuldigjehem?
+c. dediefstalwaarvanikhembeschuldig
+d. Ikbeschuldighemvaniets/ergensvan.
+e. Ikbeschuldighemvanniets/nergensvan.
+f. Ikbeschuldighemvanalles/overalvan.
+(57) a. Jekaneroprekenen,opMoniek.
+b. OpMoniek,daaropkanjealtijdrekenen.
+c. Moniekisiemandwaaropjekanrekenen.Hetprepositioneelobjectofvoorzetselvoorwerp
+(58) a. Ikheberaangedacht,aandiemogelijkheid.
+50+ 50
+b. Ikheb er ookaangedacht,aandiemogelijkheid.
+50+ 50+ 50
+(59) a. (Op)datresultaat,daaropbeniktrots.
+50 50+
+b. (Op)datresultaat,daarbeniktrotsop.
+50 50+ 50+
+c. (Aan)diemogelijkheid,daaraanhebikookgedacht.
+50 50+
+d. (Aan)diemogelijkheid,daarhebikookaangedacht.
+50 50+ 50+Hetvoorwerpvanplaats/richting/maat/wijze/duur
+(cid:283)(cid:276)(cid:276)(cid:279)(cid:284)(cid:266)(cid:279)(cid:277)(cid:283)(cid:262)(cid:275)(cid:277)(cid:273)(cid:262)(cid:262)(cid:281)(cid:280)/
+(cid:279)(cid:270)(cid:264)(cid:269)(cid:281)(cid:270)(cid:275)(cid:268)/(cid:274)(cid:262)(cid:262)(cid:281)/(cid:284)(cid:270)(cid:271)(cid:287)(cid:266)/(cid:265)(cid:282)(cid:282)(cid:279)
+code 61,62,63,64,65
+constituent NP,PP,AP,AdvP
+valentie tweedeofderdeparticipantinhet
+valentieschema
+vervangbaarheid plaats:TypeII-paradigmata
+richting:TypeII-enTypeIV-paradigmata
+maat/wijze/duur:TypeIII-paradigmata
+verplaatsbaarheid AL,VV,*MV1,*MV2,MV3,(*)AV,UL
+(60) a. ZeheeftlangetijdinLeuvengewoond.
+61
+b. Hijlegtdebalopdekast.
+61
+(61) a. Hijgaatnaarhuis.
+62
+b. Ikbrenghemnaarhuis.
+62Hetvoorwerpvanplaats/richting/maat/wijze/duur
+(cid:283)(cid:276)(cid:276)(cid:279)(cid:284)(cid:266)(cid:279)(cid:277)(cid:283)(cid:262)(cid:275)(cid:277)(cid:273)(cid:262)(cid:262)(cid:281)(cid:280)/
+(cid:279)(cid:270)(cid:264)(cid:269)(cid:281)(cid:270)(cid:275)(cid:268)/(cid:274)(cid:262)(cid:262)(cid:281)/(cid:284)(cid:270)(cid:271)(cid:287)(cid:266)/(cid:265)(cid:282)(cid:282)(cid:279)
+code 61,62,63,64,65
+constituent NP,PP,AP,AdvP
+valentie tweedeofderdeparticipantinhet
+valentieschema
+vervangbaarheid plaats:TypeII-paradigmata
+richting:TypeII-enTypeIV-paradigmata
+maat/wijze/duur:TypeIII-paradigmata
+verplaatsbaarheid AL,VV,*MV1,*MV2,MV3,(*)AV,UL
+(62) a. *HijheeftinNewDelhivorigjaargewoond. MV2
+b. HijheeftvorigjaarinNewDelhigewoond. MV3
+c. *HijheeftvorigjaargewoondinNewDelhi. AVHetvoorwerpvanplaats/richting/maat/wijze/duur
+(cid:283)(cid:276)(cid:276)(cid:279)(cid:284)(cid:266)(cid:279)(cid:277)(cid:283)(cid:262)(cid:275)(cid:277)(cid:273)(cid:262)(cid:262)(cid:281)(cid:280)/
+(cid:279)(cid:270)(cid:264)(cid:269)(cid:281)(cid:270)(cid:275)(cid:268)/(cid:274)(cid:262)(cid:262)(cid:281)/(cid:284)(cid:270)(cid:271)(cid:287)(cid:266)/(cid:265)(cid:282)(cid:282)(cid:279)
+code 61,62,63,64,65
+constituent NP,PP,AP,AdvP
+valentie tweedeofderdeparticipantinhet
+valentieschema
+vervangbaarheid plaats:TypeII-paradigmata
+richting:TypeII-enTypeIV-paradigmata
+maat/wijze/duur:TypeIII-paradigmata
+verplaatsbaarheid AL,VV,*MV1,*MV2,MV3,(*)AV,UL
+(63) a. Hijheeftinhetwatergelopen.
+b. Hijisinhetwatergelopen.
+(64) a. Hijheeftgelopen.
+b. *Hijisgelopen.
+(65) a. Hijheeftgelopeninhetwater.
+b. *Hijisgelopeninhetwater.Hetvoorwerpvanplaats/richting/maat/wijze/duur
+(cid:283)(cid:276)(cid:276)(cid:279)(cid:284)(cid:266)(cid:279)(cid:277)(cid:283)(cid:262)(cid:275)(cid:277)(cid:273)(cid:262)(cid:262)(cid:281)(cid:280)/
+(cid:279)(cid:270)(cid:264)(cid:269)(cid:281)(cid:270)(cid:275)(cid:268)/(cid:274)(cid:262)(cid:262)(cid:281)/(cid:284)(cid:270)(cid:271)(cid:287)(cid:266)/(cid:265)(cid:282)(cid:282)(cid:279)
+code 61,62,63,64,65
+constituent NP,PP,AP,AdvP
+valentie tweedeofderdeparticipantinhet
+valentieschema
+vervangbaarheid plaats:TypeII-paradigmata
+richting:TypeII-enTypeIV-paradigmata
+maat/wijze/duur:TypeIII-paradigmata
+verplaatsbaarheid AL,VV,*MV1,*MV2,MV3,(*)AV,UL
+(66) (cid:274)(cid:262)(cid:262)(cid:281)
+Hetpakweegt20kilo.
+63
+(67) (cid:284)(cid:270)(cid:271)(cid:287)(cid:266)
+Hijgingvoorzichtigtewerk.
+64
+(68) (cid:265)(cid:282)(cid:282)(cid:279)
+Detochtduurde10dagen.
+65Hetvoorwerpvanplaats/richting/maat/wijze/duur
+(cid:283)(cid:276)(cid:276)(cid:279)(cid:284)(cid:266)(cid:279)(cid:277)(cid:283)(cid:262)(cid:275)(cid:277)(cid:273)(cid:262)(cid:262)(cid:281)(cid:280)/
+(cid:279)(cid:270)(cid:264)(cid:269)(cid:281)(cid:270)(cid:275)(cid:268)/(cid:274)(cid:262)(cid:262)(cid:281)/(cid:284)(cid:270)(cid:271)(cid:287)(cid:266)/(cid:265)(cid:282)(cid:282)(cid:279)
+code 61,62,63,64,65
+constituent NP,PP,AP,AdvP
+valentie tweedeofderdeparticipantinhet
+valentieschema
+vervangbaarheid plaats:TypeII-paradigmata
+richting:TypeII-enTypeIV-paradigmata
+maat/wijze/duur:TypeIII-paradigmata
+verplaatsbaarheid AL,VV,*MV1,*MV2,MV3,(*)AV,UL
+(69) a. Hetfeestjeheeftgeduurdtotmiddernacht.
+b. *Hetfeestjeheeftgeduurd3uur.
+c. ??dathetfeestjetotmiddernachtvaakduurde.Debijwoordelijkebepaling
+▶ (cid:275)(cid:270)(cid:266)(cid:281)-(cid:266)(cid:280)(cid:280)(cid:266)(cid:275)(cid:281)(cid:270)(cid:311)(cid:273)(cid:266)(cid:287)(cid:270)(cid:275)(cid:280)(cid:265)(cid:266)(cid:273)(cid:266)(cid:275)
+(cid:263)(cid:270)(cid:271)(cid:284)(cid:276)(cid:276)(cid:279)(cid:265)(cid:266)(cid:273)(cid:270)(cid:271)(cid:272)(cid:266)(cid:263)(cid:266)(cid:277)(cid:262)(cid:273)(cid:270)(cid:275)(cid:268)
+(cid:277)(cid:273)(cid:262)(cid:262)(cid:281)(cid:280) 71
+(cid:279)(cid:270)(cid:264)(cid:269)(cid:281)(cid:270)(cid:275)(cid:268) 72
+(cid:274)(cid:262)(cid:262)(cid:281) 73
+(cid:284)(cid:270)(cid:271)(cid:287)(cid:266) 74
+(cid:265)(cid:282)(cid:282)(cid:279) 75
+(cid:279)(cid:266)(cid:280)(cid:281)(cid:264)(cid:262)(cid:281)(cid:266)(cid:268)(cid:276)(cid:279)(cid:270)(cid:266) 70Debijwoordelijkebepaling
+(cid:263)(cid:270)(cid:271)(cid:284)(cid:276)(cid:276)(cid:279)(cid:265)(cid:266)(cid:273)(cid:270)(cid:271)(cid:272)(cid:266)(cid:263)(cid:266)(cid:277)(cid:262)(cid:273)(cid:270)(cid:275)(cid:268)
+code 70,71,72,73,74,75
+constituent AdvP,PP,AP,NP
+valentie nietinvalentie(omstandigheid)
+vervangbaarheid TypeII-,TypeIII-enTypeIV-paradigmata
+verplaatsbaarheid AL,VV,*MV1,MV2,MV3,(*)AV,UL
+(70) a. Noraheeftdesomsnel/foutloos/keurigopgelost.
+b. *Noraheeftdesomopgelostsnel/foutloos/keurig.
+(71) a. Hijheeftmegisteren/waarschijnlijkuitgenodigd.
+b. Hijheeftmeuitgenodigdgisteren/waarschijnlijk.
+(72) Morgen,dangaathijhetuitleggen.
+75 75+Debijwoordelijkebepaling
+(cid:281)(cid:270)(cid:271)(cid:265) [Morgenvroeg]70wordthetmistig.
+(cid:267)(cid:279)(cid:266)(cid:278)(cid:282)(cid:266)(cid:275)(cid:281)(cid:270)(cid:266) Ikhebhem[alvierkeer]70uitgelegdhoehetmoet.
+(cid:268)(cid:279)(cid:262)(cid:262)(cid:265) Datheeftons[inhogemate]70verbaasd.
+(cid:269)(cid:276)(cid:266)(cid:283)(cid:266)(cid:266)(cid:273)(cid:269)(cid:266)(cid:270)(cid:265) Hetregentdelaatstetijd[veelteweinig]70
+(cid:277)(cid:262)(cid:265) Zeishemgevolgd[naarAmerika]70
+(cid:276)(cid:276)(cid:279)(cid:287)(cid:262)(cid:262)(cid:272)/(cid:279)(cid:266)(cid:265)(cid:266)(cid:275) [Wegensdezwarestorm]70kondeferrynietuitvaren.
+(cid:265)(cid:276)(cid:266)(cid:273) Zijlaseenverklaringvoor[terverantwoordingvanhaarbeslissing]70.
+(cid:283)(cid:266)(cid:279)(cid:268)(cid:266)(cid:273)(cid:270)(cid:271)(cid:272)(cid:270)(cid:275)(cid:268) Zijheefthaarzaak[alseenechtexpert]70verdedigd.
+(cid:274)(cid:270)(cid:265)(cid:265)(cid:266)(cid:273) Hijheeftdekluis[met(behulpvan)eenkoevoet]70geopend.
+(cid:274)(cid:276)(cid:265)(cid:262)(cid:273)(cid:270)(cid:281)(cid:266)(cid:270)(cid:281) Zehebben[waarschijnlijk/gelukkig/wel/niet/geenszins]70gelachen.
+(cid:266)(cid:283)(cid:270)(cid:265)(cid:266)(cid:275)(cid:281)(cid:270)(cid:262)(cid:273)(cid:270)(cid:281)(cid:266)(cid:270)(cid:281) [Volgensdeoppositie/Naarverluidt]70isdepresidentgevlucht.
+(cid:268)(cid:266)(cid:283)(cid:276)(cid:273)(cid:268) Hetgingsneeuwen[metellenlangeﬁlesals/totgevolg]70
+(cid:263)(cid:266)(cid:277)(cid:266)(cid:279)(cid:272)(cid:270)(cid:275)(cid:268) [Wathettaalgebruikbetreft]70valtdetekstwattegen.
+(cid:283)(cid:266)(cid:279)(cid:269)(cid:276)(cid:282)(cid:265)(cid:270)(cid:275)(cid:268) Iedereendroegbij[naargodsvruchtenvermogen]70
+(cid:283)(cid:276)(cid:276)(cid:279)(cid:284)(cid:262)(cid:262)(cid:279)(cid:265)(cid:266) [Mitsdenodigeinspanningen]70zuljejedoelwelbereiken.
+(cid:281)(cid:276)(cid:266)(cid:268)(cid:266)(cid:283)(cid:270)(cid:275)(cid:268) [Ondanks/niettegenstaandedepech]70bereiktenweonsdoel.
+(cid:269)(cid:262)(cid:275)(cid:265)(cid:266)(cid:273)(cid:266)(cid:275)(cid:265)(cid:266)(cid:277)(cid:266)(cid:279)(cid:280)(cid:276)(cid:276)(cid:275) Hetboekwerd[doorallekinderen]70gelezen.
+(cid:266)(cid:281)(cid:269)(cid:270)(cid:280)(cid:264)(cid:269)(cid:266)(cid:265)(cid:262)(cid:281)(cid:270)(cid:266)(cid:267) Datwas[je/me]70daareendrukte!Debijvoeglijkebepaling
+▶ (cid:287)(cid:270)(cid:275)(cid:280)(cid:265)(cid:266)(cid:266)(cid:273)(cid:280)(cid:281)(cid:282)(cid:272)(cid:272)(cid:266)(cid:275)
+(73) bijvoeglijkebepaling 90
+internebijwoordelijkebepaling 91Debijvoeglijkebepaling
+(cid:263)(cid:270)(cid:271)(cid:283)(cid:276)(cid:266)(cid:268)(cid:273)(cid:270)(cid:271)(cid:272)(cid:266)(cid:263)(cid:266)(cid:277)(cid:262)(cid:273)(cid:270)(cid:275)(cid:268)
+code 90
+constituent AP,PP
+valentie nietinvalentie(zinsdeelstuk)
+vervangbaarheid AP:niet-vervangbaar
+PP:TypeIV-paradigmata
+verplaatsbaarheid AP:niet-verplaatsbaar
+PP:AL,VV,*MV1,MV2,MV3,AV,UL
+extra nooitopN1
+(74) IkzagdemooietekeningvanHelena.Deinternebijwoordelijkebepaling
+(cid:270)(cid:275)(cid:281)(cid:266)(cid:279)(cid:275)(cid:266)(cid:263)(cid:270)(cid:271)(cid:284)(cid:276)(cid:276)(cid:279)(cid:265)(cid:266)(cid:273)(cid:270)(cid:271)(cid:272)(cid:266)
+(cid:263)(cid:266)(cid:277)(cid:262)(cid:273)(cid:270)(cid:275)(cid:268)
+code 91
+constituent AP,AdvP,PP
+valentie nietinvalentie(zinsdeelstuk)
+vervangbaarheid TypeIII-paradigmata
+verplaatsbaarheid AP/AdvP:niet-verplaatsbaar
+PP:*AL,*VV,*MV1,*MV2,*MV3,AV,*UL
+extra nooitopN1
+(75) JuliawerktveelharderdanHugo.

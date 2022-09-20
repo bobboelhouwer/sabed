@@ -1,0 +1,277 @@
+12. Carbonzuren
+• bevatten carboxylgroep (< carbonyl + hydroxyl)
+• mesomerie!
+• hebben uitgesproken zure eigenschappen (pKA ~5)
+
+• belangrijke rol in natuur:
+
+O
+
+H
+
+✓ citroenzuurcyclus
+✓ vetzuurmetabolisme
+✓ aminozuren
+
+C
+
+123 pm
+
+H
+Carbonzuren
+
+O
+136 pm
+
+1
+
+ 12.1 Nomenclatuur
+• corresponderend alkaan + uitgang -zuur
+• koolstofatoom carbonylgroep steeds 1-C
+
+• alternatief: stamnaam alkaan + uitgang –carbonzuur
+(koolstofatoom van -COOH wordt niet meegeteld)
+• benaming –COOH als substituent/voorvoegsel: carboxy
+
+Carbonzuren
+
+2
+
+ • veel triviaalnamen, verwijzen meestal naar bron
+• positie substituent soms aangeven met Griekse letter
+
+• aromatische carbonzuren
+
+• zouten carbonzuren: naam kation + naam carboxylaatanion
+
+-zuur
+
+Carbonzuren
+
+-oaat
+
+3
+
+ Carbonzuren
+
+4
+
+ 12.2 Voorkomen en fysische eigenschappen
+• scherpe, onaangename geur (vooral C4 → C8)
+• mierenzuur (methaanzuur): mieren, brandnetels
+• azijnzuur (ethaanzuur): verzuren wijn, ijsazijn (Tm = 17°C)
+• als esters in talrijke plantaardige of dierlijke producten:
+✓ boterzuur (butaanzuur) - boter
+✓ capronzuur (hexaanzuur) - geitenmelk
+✓ hogere carbonzuren in oliën en vetten
+• in vruchten en voedingsmiddelen:
+
+trans
+
+Carbonzuren
+
+5
+
+ • hoger kookpunt dan alcoholen, aldehyden en ketonen!
+• goede oplosbaarheid in water indien R-groep niet te groot
+
+• gebruikt als voedingsadditieven:
+propaanzuur, propionaten, benzoëzuur, benzoaten…
+
+Carbonzuren
+
+6
+
+ 12.3 De zuurtegraad zuursterkte van carbonzuren
+• zwakke zuren in vergelijking met klassieke anorganische zuren
+• onder de organische verbindingen relatief sterke zuren:
+
+sterke zuren: hoge Ka, kleine pKa
+vergelijking met alcoholen
+
+Carbonzuren
+
+7
+
+ • verklaring grotere zuursterkte carbonzuren:
+
+niet gestabiliseerd
+
+gestabiliseerd door mesomerie
+1,27 Å
+
+Carbonzuren
+
+8
+
+ • sterk zuur verdrijft zwak zuur uit zijn zouten:
+
+goed oplosbaar in water
+voor korte R
+
+Scheidingsmethode carbonzuren – andere
+(niet-zure) organische verbindingen:
+mengsel oplossen in ether, extraheren met
+NaHCO3, waterlaag opnieuw aanzuren
+
+12-18 C-atomen: vorming micellen
+anionisch detergent
+
+Carbonzuren
+
+9
+
+ • zuursterkte van carbonzuren:
+
+-I
+
++I
+
+Carbonzuren
+
+10
+
+ 12.4 Vorming van carbonzuurderivaten
+• geen rechtstreekse substitutie van -OH groep
+• deprotonering in plaats van nucleofiele substitutie:
+
+• -OH eerst omzetten tot betere vertrekkende groep
+
+vorming van zuurchloriden (met SOCl2, PCl3…)
+Cl
+O R
+
+OH
+
++Cl
+
+Cl
+S O
+O
+
+S
+O
+
+- H+
+
+R
+
+O
+
+O
++ Cl-
+
+R
+
+3 RCOOH + PCl3 → 3 RCOCl + H3PO3
+Carbonzuren
+
+Cl
+
++ SO2 + Cl-
+
+11
+
+ Intramoleculaire vorming van anhydriden bij dicarbonzuren
+(intermoleculair ligt dit evenwicht naar links)
+
+DT
+
+vorming van esters
+
+zuur-base reactie verhindert estervorming!!
+
+Carbonzuren
+
+12
+
+ • zuurgekatalyseerde reactie tussen
+carbonzuur en alcohol
+Fischer verestering
+(anders te traag):
+
+water afvoeren
+
+Carbonzuren
+
+13
+
+ Dean-Stark opstelling
+
+azeotroop: Kp 85°C
+damp heeft constante samenstelling: 80% tol, 20% H20
+tolueen (Kp 110°C)
+(d = 0,87 g.cm-3)
+
+water (Kp 100°C)
+(d = 1 g.cm-3)
+mengsel alcohol, carbonzuur,
+katalysator (sterk zuur),
+tolueen (solvent)
+
+Carbonzuren
+
+14
+
+ vorming van amiden
+
+12.5 Decarboxylering van carbonzuren
+• splitsing van C-C binding:
+
+• bij gewone alkaancarbonzuren zeer moeilijk!
+Carbonzuren
+
+15
+
+ Decarboxylering van b-ketocarbonzuren en b-dicarbonzuren
+
+• verlies van CO2 uit cyclische conformatie gevolgd door tautomerisatie
+• vrij gemakkelijk bij verwarmen
+
+Carbonzuren
+
+16
+
+ Decarboxylering van carboxylaationen
+• enkel als elektronen van anion een goed toevluchtsoord hebben
+• bijvoorbeeld b-carbonylgroep
+oxalasuccinaat
+
+isocitraatdehydrogenase
+
+citroenzuurcyclus
+
+Carbonzuren
+
+a
+
+a-ketoglutaraat
+
+17
+
+ • b-carbonylgroep positieve lading geven om reactie te versnellen?
+
+?
+✓ carbonylzuurstof is onvoldoende basisch!
+✓ ketofunctie omzetten tot Schiff-base
+
+enamine
+
+Carbonzuren
+
+18
+
+ Decarboxylering van a-ketocarbonzuren
+• verwijderen carboxylaatgroep naast carbonylgroep
+• voorbeelden: pyrodruivenzuur → acetylcoënzym A
+a-ketoglutaraat → succinaat
+• via coënzym thiaminepyrofosfaat
+NH2
+
+Carbonzuren
+
+Derivaten van carbonzuren
+
+19
+
+ 

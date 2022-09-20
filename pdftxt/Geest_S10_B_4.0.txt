@@ -1,0 +1,1160 @@
+Nederlandse Taalkunde I
+Hoofdstuk 10: Principes en technieken voor zinsontleding
+Handboek pp. 259–318
+
+Jeroen van Craenenbroeck
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Overzicht
+Inleiding
+Overzicht van het hoofdstuk
+Techniek #1: Constituentstype
+Techniek #2: Valentie en weglaatbaarheid
+Techniek #3: Vervangbaarheid
+Techniek #4: Verplaatsbaarheid
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Inleiding
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Inleiding
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Inleiding
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Inleiding
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Inleiding
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Inleiding
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Overzicht
+Inleiding
+Overzicht van het hoofdstuk
+Techniek #1: Constituentstype
+Techniek #2: Valentie en weglaatbaarheid
+Techniek #3: Vervangbaarheid
+Techniek #4: Verplaatsbaarheid
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Overzicht van het hoofdstuk: Constituentstype
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Overzicht van het hoofdstuk: Constituentstype
+(1)
+
+De man hoopte gisteren op een goed gesprek.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Overzicht van het hoofdstuk: Valentie
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Overzicht van het hoofdstuk: Valentie
+(2)
+
+De man hoopte gisteren op een goed gesprek.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Overzicht van het hoofdstuk: Valentie
+(2)
+
+De man hoopte gisteren op een goed gesprek.
+
+(3)
+
+a. *Hoopte gisteren op een goed gesprek.
+b. ??De man hoopte gisteren.
+c. De man hoopte op een goed gesprek.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Overzicht van het hoofdstuk: Vervangbaarheid
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Overzicht van het hoofdstuk: Vervangbaarheid
+(4)
+
+De man hoopte gisteren op een goed gesprek.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Overzicht van het hoofdstuk: Vervangbaarheid
+(4)
+
+De man hoopte gisteren op een goed gesprek.
+
+(5)
+
+a.
+b.
+c.
+
+{Hij/Die/*Met de man/*Toen} hoopte gisteren op een goed
+gesprek.
+De man hoopte gisteren {daarop/*een goed gesprek}.
+De man hoopte {toen/*dat/elke dag} op een goed gesprek.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Overzicht van het hoofdstuk: Verplaatsbaarheid
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Overzicht van het hoofdstuk: Verplaatsbaarheid
+(6)
+
+De man hoopte gisteren op een goed gesprek.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Overzicht van het hoofdstuk: Verplaatsbaarheid
+(6)
+
+De man hoopte gisteren op een goed gesprek.
+
+(7)
+
+a. *Gisteren hoopte op een goed gesprek de man.
+b. *Gisteren op een goed gesprek hoopte de man.
+c. *De een op man hoopte gisteren goed gesprek.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Overzicht van het hoofdstuk: Verplaatsbaarheid
+(6)
+
+De man hoopte gisteren op een goed gesprek.
+
+(7)
+
+a. *Gisteren hoopte op een goed gesprek de man.
+b. *Gisteren op een goed gesprek hoopte de man.
+c. *De een op man hoopte gisteren goed gesprek.
+
+(8)
+
+a.
+b.
+c.
+
+Hoopte de man gisteren op een goed gesprek?
+Op een goed gesprek hoopte de man gisteren.
+Gisteren hoopte de man op een goed gesprek.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Overzicht van het hoofdstuk: Verplaatsbaarheid
+
+Hij
+Die
+*Met hem
+De man
+
+hoopte gisteren op een goed gesprek.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Overzicht van het hoofdstuk: Verplaatsbaarheid
+(9)
+
+a. *Gisteren hoopte op een goed gesprek de man.
+b. *Gisteren op een goed gesprek hoopte de man.
+c. *De een op man hoopte gisteren goed gesprek.
+
+(10)
+
+a.
+b.
+c.
+
+Hoopte de man gisteren op een goed gesprek?
+Op een goed gesprek hoopte de man gisteren.
+Gisteren hoopte de man op een goed gesprek.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ 

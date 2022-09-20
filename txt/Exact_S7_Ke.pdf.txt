@@ -1,0 +1,182 @@
+30/10/2019
+Lay 6.7 + aanvullingen H3
+Inleiding
+• u, v ∈ Rn : u.v = uTv = u v + u v + ... + u v
+1 1 2 2 n n
+• Veralgemening naar vectorruimte V
+– Vb. P
+4
+• Als we een inwendig product hebben, kunnen 
+we “orthogonaliteit” veralgemenen
+– Projecties veralgemenen
+– Gram-Schmidt veralgemenen
+– ...
+130/10/2019
+Inwendig product
+• Een inwendig product, gedefiniëerd op een 
+vectorruimte V, is een functie die een paar vectoren u
+en v afbeeldt op reëel getal u.v zodat:
+o u.v = v.u
+o (u +v).w= u.w+ v.w
+o (cu).v= c (u.v) met c ∈R
+o u.u≥0 en u.u= 0 ⇔u=0
+• Oefening: check dat u.v inRn deze 4 eigenschappen 
+heeft
+• Oefening: toon aan dat in P
+4
+u.v= u(t )v(t ) + ... +u(t )v(t ) een inwendig product is 
+0 0 4 4
+(t verschillend)
+i
+Lengte en orthogonaliteit
+• Length van v ∈ V:  (cid:1) = (cid:1).(cid:1)
+– Eenheidslengte  (cid:1) = 1
+– Afstand tussen u en v :  (cid:4) − (cid:1)
+• u, v ∈ V zijn orthogonaal ⇔ u.v = 0
+230/10/2019
+Orthogonale projectie op een
+deelruimte W
+∀y∈V: y= (cid:6)(cid:7)+z(uniek) met (cid:6)(cid:7) ∈W,z∈W⊥
+Als {u , ... , u } een orthogonalebasis van W is: 
+1 p
+(cid:6)(cid:7) = y.u(cid:8) u +⋯+ y.u(cid:11) u =Proj (y)
+u .u (cid:8) u .u (cid:12) W
+(cid:8) (cid:8) (cid:11) (cid:11)
+Bewijs
+(cid:6)(cid:7) ∈W is triviaal
+yu
+.
+i= 1 ... p:z.u = (y-(cid:6)(cid:7)).u = y.u -(cid:6)(cid:7).u = y.u - (cid:13) (u ....u )= 0
+i  i i  i i u .u (cid:15) (cid:15)
+⇒z∈W⊥ (cid:13) (cid:13)
+Uniek ?
+y= (cid:6)(cid:7)+z=(cid:6)(cid:7) +z met  (cid:6)(cid:7) ∈W,z ∈W⊥
+1 1 1 1
+v= (cid:6)(cid:7)-(cid:6)(cid:7) = z –zligt in W en W⊥⇒v.v=0 ⇒v=0⇒uniek
+1 1
+Gram-Schmidt
+• Zelfde aanpak als in Rn
+• Voorbeeld:V = P met 
+4
+u.v= u(t )v(t ) + ... +u(t )v(t )
+0 0 4 4
+t =-2, t =-1, t =0, t =1, t =2 
+0 1 2 3 4
+• u = 1, u = t, u = t2spannen P op, maar zijn niet 
+1 2 3 2
+orthogonaal
+• GS: 
+o p = u = 1
+1 1
+o p = u = t, wantu .u =0
+2 2 1 2
+o p = (cid:4) −	(cid:4)(cid:17)	.	(cid:19)(cid:20)pppp −(cid:4)(cid:17)	.	(cid:19)(cid:22)	(cid:19)
+3 (cid:17) (cid:19)(cid:20)	.	(cid:19)(cid:20) 1 (cid:19)(cid:22)	.	(cid:19)(cid:22) (cid:23)
+= (cid:24)(cid:23)−(cid:25)(cid:26)	1− (cid:26) (cid:24) = (cid:24)(cid:23)−2
+(cid:27) (cid:25)(cid:26)
+⇒1, t en t2-2 zijn wel orthogonaal voor dit inwendig product
+330/10/2019
+Pythagoras
+• u, v ∈ V zijn orthogonaal :
+(cid:1)u + v(cid:1)2 = (u+v).(u+v) = u.u + 2 u.v + v.v
+= (cid:1)u(cid:1)2+ (cid:1)v(cid:1)2
+• Gevolg1: ∀ y ∈ V: y = (cid:6)(cid:7)+z met (cid:6)(cid:7) ∈ W, z ∈ W⊥
+yyyy				....				u yyyy				....				u
+met(cid:6)(cid:7) = Proj (y) (= (cid:8) u +⋯+ (cid:11) u )
+W u 				....				u (cid:8) u 				....				u (cid:12)
+(cid:20) (cid:20) (cid:11) (cid:11)
+Dus (cid:1)y(cid:1)2 = (cid:1)Proj (y) + z (cid:1)2 ≥ (cid:1) Proj (y)	(cid:1)2
+W W
+• Gevolg2: (cid:6)(cid:7) is het punt in W dat het dichtst bij y ligt
+Orthogonale projectie: voorbeeld
+• Voorbeeld: V = P met 
+4
+u . v = u(t )v(t ) + ... +u(t )v(t ) 
+0 0 4 4
+t =-2, t =-1, t =0, t =1, t =2 
+0 1 2 3 4
+• Welke polynoom in P ligt dichtst bij v = 5 − (cid:25)(cid:24)  ?
+2
+(cid:23)
+o Orthogonale basis voor W = P : p = 1, p = t, p = t2-2
+2 1  2  3 
+vvvv				....				pppp vvvv				....				pppp vvvv				....				pppp
+o (cid:1)(cid:7) = (cid:8) pppp + " pppp + (cid:17) pppp
+pppp 				....				pppp (cid:8) pppp 				....				pppp " pppp 				....				pppp (cid:17)
+(cid:20) (cid:20) (cid:22) (cid:22) # #
+8 0 −31 −31 99
+= 1+ (cid:24) + (cid:24)(cid:23) −2 = (cid:24)(cid:23) −
+5 10 14 14 35
+430/10/2019
+Cauchy – Schwarz - ongelijkheid
+• |u.v| ≤(cid:1)u(cid:1)(cid:1)v(cid:1) ∀u, v∈V
+• Bewijs: 
+o u= 0triviaal
+o u≠0. Projecteer vop W = Span{u}
+(cid:1)	.(cid:4)
+proj ((cid:1))= (cid:4)
+, (cid:4)	.(cid:4)
+|(cid:1)	.(cid:4)| |(cid:1)	.(cid:4)|
+-./0 ((cid:1)) = (cid:4) =
+, (cid:4) " (cid:4)
+Aangezien  -./0 ((cid:1)) 	≤ (cid:1) is |u.v| ≤(cid:1)u(cid:1)(cid:1)v(cid:1)
+,
+Driehoeksongelijkheid
+• (cid:1)u + v(cid:1) ≤ (cid:1)u(cid:1) + (cid:1)v(cid:1) ∀ u, v ∈ V
+• Bewijs: 
+(cid:1)u + v(cid:1)2 = (u+v) . (u+v) = (u.u)+ 2 (u.v) + (v.v)
+≤ (cid:1)u(cid:1)2+ 2|u.v| + (cid:1)v(cid:1)2
+≤ (cid:1)u(cid:1)2+ 2 (cid:1)u(cid:1) (cid:1)v(cid:1) + (cid:1)v(cid:1)2
+= ((cid:1)u(cid:1) + (cid:1)v(cid:1) )2
+530/10/2019
+Toepassing: discrete-
+cosinustransformatie
+Discrete signalen over een beperkt 
+tijdsinterval
+• f[k] geëvalueerd op m punten (vb. k = 0 ... m-1) 
+• Vectorruimte van dergelijke signalen = S
+m
+• Inwendig product 
+f[k]	•g[k]	 = ∑45(cid:25)f[k]g[k]
+67(cid:26)
+• Volgende 6 signalen vormen een orthonormale 
+basis in S :
+6
+o 8 9 = (cid:25) voor k= 0 ... 5
+(cid:26)
+:
+π
+o 8 9 = (cid:25) cos	 ; ((cid:23)6?(cid:25)) voor n= 1 ... 5 ; k= 0 ... 5
+;
+< (cid:25)(cid:23)
+630/10/2019
+Discrete-cosinustransformatie
+• Elk signaal gkan exact geschreven worden als
+@ 9 = A 8 9 +	…+A 8 9
+(cid:26) (cid:26) (cid:27) (cid:27)
+met c ... c de coördinaten van gin de
+0 5
+gekozen basis, 
+c ... c = de discrete-cosinustransformatie van g
+0 5
+• Aangezien 8 9 ... 8 9 (p< 5) een orthonormale basis 
+(cid:26) (cid:12)
+vormen is het makkelijk om de dichtste benadering van 
+g[k] te zoeken in de deelruimte opgespannen door 8 9 ... 
+(cid:26)
+8 9 :
+(cid:12)
+@ 9 	≈	A 8 9 +	…+A 8 9
+(cid:26) (cid:26) (cid:12) (cid:12)
+m.a.w. som afbreken of c ... c niet bereken/opslaan
+p+1 5
+S
+Voorbeeld in 
+200
+Projecteren = som afbreken
+Gebruikt in: 
+• Audiocompressie: MP3
+• Beeldcompressie: JPEG
+10 termen
+20 termen
+7

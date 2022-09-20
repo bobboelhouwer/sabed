@@ -1,0 +1,168 @@
+9/09/2017
+Singuliere waarden: definities
+A m×nreële matrix
+v , ... , v orthonormale eigenvectoren vanATA met 
+1 n
+λ ≥ λ ≥ ... ≥ λ . Dan voor i = 1 ... n:
+1 2 n
+a) λ ≥ 0 want 0 ≤ (cid:1)Av(cid:1)2 = (Av)TAv = vTATAv = vT(λv) 
+i i i i i i i i i
+= λ(cid:1)v(cid:1)2= λ
+i i i
+b) σ = λ heet singuliere waarde. 
+i i
+T: x → Ax beeldt v af op een vector Av met length σ. 
+i i   i
+Av is een vector in Col A
+i  
+Noem r de hoogste index waarvoor σ ≠	0, m.a.w.
+i
+σ ≥ ... ≥ σ > 0  en σ = ... =σ = 0  	
+1 r r+1 n
+19/09/2017
+Col A
+S = {Av , ... , Av } vormen een orthogonale basis voor Col A
+1 r
+en dus rang A = r.
+Bewijs
+i ≠j: (Av).(Av) = (Av)TAv = vT(ATA)v = λ (vTv) = 0
+i j i j i j j i j
+1 ≤ i ≤ r: Av zijn niet-nulle ⊥ vectoren in Col A
+i
+S voortbrengend voor Col A?
+y ∈Col A ⇒∃ x ∈ (cid:2)n: y=Ax
+x = c v + ... + c v ⇒
+1 1 n n
+y = Ax = c Av + ... + c Av + c Av + ... + c Av
+1 1 r r r+1 r+1 n n
+= c Av + ... + c Av want r+1 ≤i : (cid:1)Av(cid:1) = σ = 0 ⇒Av = 0
+1  1 r r i i i
+	
+⇒S is voortbrengend + l.o. ⇒basis voor Col A
+Singuliere waardenontbinding
+1 ≤i ≤r: Av zijn ⊥vectoren met lengte σ > 0
+i i
+Av Av
+Normaliseer: ui= Avi = σi ∈(cid:2)m⇒Avi= σi ui 
+i i
+{u , ... , u} orthonormale basis voor Col A
+1 r
+Construeer orthonormale basis {u , ... , u } voor (Col A)⊥= Nul AT
+r+1 m
+Dimensiestelling: m= dim(Row AT) + dim(Nul AT)
+Vorm U= [u ... u ], V= [v ... v ] orthogonaal
+1 m 1 n
+σ ⋯ 0
+(cid:4) (cid:6) 1
+(cid:4) = (cid:5) m×n, (cid:4) = ⋮ ⋱ ⋮
+(cid:6) (cid:6) (cid:5)
+0 ⋯ σ
+r
+AV= [Av ... Av 0... 0] = [σ u ... σu 0... 0]
+1 r 1 1 r r
+(cid:4) (cid:6)
+UΣΣΣΣ= [u ... u ] (cid:5) = [[u ... u]ΣΣΣΣ 0]= [σ u ... σu 0... 0]
+1 m (cid:6) (cid:6) 1 r r 1 1 r r
+AV= UΣΣΣΣ⇒A= UΣΣΣΣVT is de SWO
+29/09/2017
+Orthonormale bases
+• {u , ... , u } orthonormale basis voor Col A
+1 r
+• {u , ... , u } orthonormale basis voor (Col A)⊥ = Nul AT
+r+1 m
+• r+1 ≤ i ≤ n: (cid:1)Av(cid:1) = σ = 0 ⇒Av = 0en dus zijn v n-r
+i i i i
+	
+orthonormale (l.o.) vectoren in Nul A
+Dimensiestelling: n= dim(Row A) + dim(Nul A)
+{v , ... , v } orthonormale basis voor Nul A
+r+1 n
+• 1 ≤ i ≤ r: 
+v ∈ (Nul A)⊥ = Col AT = Row A en orthonormaal 
+i
+{v , ... , v } orthonormale basis voorRow A
+1 r
+Grafische illustratie
+39/09/2017
+Gereduceerde SWO
+U = [u ... u ], U = [u ... u ], U = [U U ]
+r 1 r m-r r+1 m r m-r
+V = [v ... v ], V = [v ... v ], V= [V V ]
+r 1 r n-r r+1 n r n-r
+(cid:4) (cid:6)
+(cid:4) = (cid:5)
+(cid:6) (cid:6)
+(cid:4) (cid:6) V (cid:10)
+A = UΣΣΣΣVT= [U U ] (cid:5) r = U ΣΣΣΣ V T
+r m-r (cid:6) (cid:6) V (cid:10) r  r r
+n−r
+A = U ΣΣΣΣ V T is de gereduceerde SWO
+r  r r
+v (cid:10)
+1
+A = U ΣΣΣΣ V T= [u ... u ] ΣΣΣΣ V T= [σ u ... σ u ] ⋮
+r r r 1 r r r 1 1 r r
+v (cid:10)
+r
+A = σ u v T + ... + σ u v T 
+1 1 1 r r r
+Pseudo-inverse
+• Ook Moore-Penrose inverse genoemd
+• Gereduceerde SWO: A= U ΣΣΣΣ VT
+r  r r
+• (cid:11)(cid:12) = V ΣΣΣΣ(cid:13)(cid:14)UT is nxm matrix
+r  r r
+Merk op dat ΣΣΣΣ(cid:13)(cid:14) steeds bestaat (r≥1) en dus ook (cid:11)(cid:12)
+r
+• (cid:11)(cid:11)(cid:12) =U ΣΣΣΣ VTV ΣΣΣΣ(cid:13)(cid:14)UT = U ΣΣΣΣ IIII ΣΣΣΣ(cid:13)(cid:14)UT 
+r  r r r  r r r  r r  r r
+=	U UT projectie op Col A
+r  r
+Als r=m is U orthogonaal en (cid:11)(cid:11)(cid:12) =U UT =I
+r r  r m
+• (cid:11)(cid:12)(cid:11) =V ΣΣΣΣ(cid:13)(cid:14)UTU ΣΣΣΣ VT= V ΣΣΣΣ(cid:13)(cid:14)IIII ΣΣΣΣ VVVVT 
+= (cid:17) VVVVT pr rorjectire orp   Rr owr  A r  r r  r  r
+r  r
+Als r=n is V orthogonaal en (cid:11)(cid:12)(cid:11) =V VVVVT =I
+r r  r n
+• Als r=m=n, m.a.w. Ais vierkant en inverteerbaar, dan is 
+(cid:11)(cid:12) = (cid:11)(cid:13)(cid:14)
+49/09/2017
+K.K.O. en pseudo-inverse
+• Voorstel (cid:18)(cid:19) = (cid:11)(cid:12)(cid:20) is een k.k.o. van Ax = b
+• Bereken(ATA)(cid:11)(cid:12)(cid:20) =V ΣΣΣΣ U TU ΣΣΣΣ V TV ΣΣΣΣ -1U Tb
+r r r r r r r r r
+= V ΣΣΣΣ U Tb = ATbdus voldoet (cid:18)(cid:19) aan de normaalverlijking
+r r r
+• Alle k.k.o. vinden: (cid:18)(cid:19) +(cid:22) met v ∈ Nul A
+• Merk op dat (cid:18)(cid:19) = (cid:11)(cid:12)(cid:20) =V (ΣΣΣΣ -1U Tb) ∈Row A
+r  r r
+• (cid:18)(cid:19) = (cid:11)(cid:12)(cid:20) is bijzonder: v ∈ Nul A = (Row A)⊥ en (cid:18)(cid:19) ∈ Row A
+zodat v⊥ (cid:18)(cid:19)
+Dus is  (cid:18)(cid:19) +(cid:22) minimaal als v = 0,  x+v
+m.a.w. (cid:18)(cid:19) is de k.k.o. met de kleinste lengte. v RowA
+x
+0
+NulA
+Beste rang-k benadering
+• Gegeven A mxn matrix van rang r. Wat is de mxn matrix 
+B van rang k ≤ r, zodat ∑" ∑  (	(cid:25) 	−(cid:29) )(cid:31)
+(cid:26)!(cid:14) (cid:27)!(cid:14) (cid:26)(cid:27) (cid:26)(cid:27)
+minimaal is ?
+(cid:4) (cid:6)
+• A = UΣΣΣΣVT (swo) met (cid:4) = (cid:5) m×nen
+σ ⋯ 0 (cid:6) (cid:6)
+1
+(cid:4) = ⋮ ⋱ ⋮
+(cid:5)
+0 ⋯ σ
+r
+(cid:4) (cid:6)
+• Dan is B= U ΣΣΣΣ’ VT met (cid:4)′ = $ m×n en   
+σ ⋯ 0 (cid:6) (cid:6)
+1
+	(cid:4) = ⋮ ⋱ ⋮
+$
+0 ⋯ σ
+k
+5

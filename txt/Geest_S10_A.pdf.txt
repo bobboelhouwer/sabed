@@ -1,0 +1,115 @@
+Nederlandse Taalkunde I
+Terminologielijst morfologische processen
+JeroenvanCraenenbroeck
+Debedoelingvanditdocumentisomjeeenoverzichttegevenvandemanierwaaropwemorfologische
+processenbenoemen,enwelkenotatieweervoorgebruiken.
+(cid:273)(cid:266)(cid:281)(cid:276)(cid:277): hetisnietzodatiedermogelijkmorfologischprocesdatjeditsemesterzaltegenkomeninon-
+derstaandelijstisopgenomen.Metnamededelendiecursief gedruktzijnindeterminologiekanjever-
+vangendooranderewoordsoorten(bijv. inplaatsvandeverbaleaﬂeidingenkunnenweookdenominale
+aﬂeidingenvormen,etc.); nietaldieoptieswordenhiersystematischgeïllustreerd. Ookallomorﬁeis
+nietinditdocumentopgenomen(omdatdatgeenmorfologischprocesis).
+1 Basisbegrippen&prototypischemorfologischeprocessen(H3&4)
+(cid:283)(cid:276)(cid:276)(cid:279)(cid:263)(cid:266)(cid:266)(cid:273)(cid:265) (cid:281)(cid:266)(cid:279)(cid:274)(cid:270)(cid:275)(cid:276)(cid:273)(cid:276)(cid:268)(cid:270)(cid:266) (cid:275)(cid:276)(cid:281)(cid:262)(cid:281)(cid:270)(cid:266)
+zwembad nominalesamenstellingmetverbaallinkerlid N
+V N
+zwem bad
+zender deverbalenominaliseringdoormiddelvansuﬃgering N
+V V\N
+zend er
+onmens denominalenominaliseringdoormiddelvanpreﬁgering N
+N/N N
+on mens
+werkt verbaleﬂexie V
+V V\V
+werk t
+1bruids(jurk) bindmorfeem N
+W
+N N\N
+W
+bruid s
+2 Niet-prototypischemorfologischeprocessen(H5)
+(cid:283)(cid:276)(cid:276)(cid:279)(cid:263)(cid:266)(cid:266)(cid:273)(cid:265) (cid:281)(cid:266)(cid:279)(cid:274)(cid:270)(cid:275)(cid:276)(cid:273)(cid:276)(cid:268)(cid:270)(cid:266) (cid:275)(cid:276)(cid:281)(cid:262)(cid:281)(cid:270)(cid:266)
+opbel(len) samenkoppelingmetprepositioneellinkerlid V
+P V
+op bel
+weerleg(gen) pseudosamenstellingmetadverbiaallinkerlid V
+Adv V
+weer leg
+hamer(en) denominaleverbaliseringdoormiddelvanconversie V
+N N\V
+hamer Ø
+morsdood adjectivalesamenstellingmeteenwortelalslinkerlid A
+W A
+mors dood
+fonoloog nominalesamenstellingmeteenwortelalslinkerliden N
+eencategoriebepalendewortelalsrechterlid
+W W\N
+fono loog
+2loyaal adjectiveringopbasisvaneenworteldoormiddelvan A
+suﬃgering
+W W\A
+loy aal
+begin(nen) verbalisering op basis van een wortel door middel van V
+preﬁgering
+V/W W
+be gin
+react(ie) aﬂeidingdieeen(complexe)worteloplevertopbasisvan W
+eenworteldoormiddelvanpreﬁgering
+W/W W
+re act
+fonolog(ie) samenstelling die een (complexe) wortel oplevert met W
+eenwortelalslinkerlideneencategoriebepalendewor-
+telalsrechterlid
+W W\W
+fono loog
+dagvaard(en) verbale samenstelling met nominaal linkerlid en een V
+wortelalsrechterlid
+N W
+dag vaard
+gadeslaa(n) samenkoppelingmeteenwortelalslinkerlid V
+W V
+gade sla
+naboots(en) samenkoppelingopbasisvaneenwortelmetprepositio- V
+neellinkerlid(of samenkoppelingmetprepositioneellin-
+kerlidenmeteenwortelalsrechterlid)
+P W
+na boots
+3misbruik(en) pseudosamenstellingopbasisvaneenwortelmetadjec- V
+tivaallinkerlid(of pseudosamenstellingmetadjectivaal
+linkerlidenmeteenwortelalsrechterlid)
+A W
+mis bruik
+3 Niet-prototypischehoofdigheid(H6)
+(cid:283)(cid:276)(cid:276)(cid:279)(cid:263)(cid:266)(cid:266)(cid:273)(cid:265) (cid:281)(cid:266)(cid:279)(cid:274)(cid:270)(cid:275)(cid:276)(cid:273)(cid:276)(cid:268)(cid:270)(cid:266) (cid:275)(cid:276)(cid:281)(cid:262)(cid:281)(cid:270)(cid:266)
+stampvoet(en) linkshoofdigeverbalesamenstellingmetnominaalrech- V
+terlid
+V N
+stamp voet
+bevolk(en) denominaleverbaliseringdoormiddelvanpreﬁgering V
+V/N N
+be volk
+zuurzoet adjectivalecopulatievesamenstelling A
+A A
+zuur zoet
+ﬂapuit exocentrische nominale samenstelling met verbaal lin- N
+kerlidenprepositioneelrechterlid
+V P
+ﬂap uit
+afzwak(ken) exocentrische samenkoppeling met prepositioneel lin- V
+kerlidenadjectivaalrechterlid
+P A
+af zwak
+ommur(en) exocentrische pseudosamenstelling met prepositioneel V
+linkerlidennominaalrechterlid
+P N
+om muur
+4blabla nominalereduplicatievesamenstelling N
+W W
+bla bla
+4 Complexestructuren(H7)
+(cid:283)(cid:276)(cid:276)(cid:279)(cid:263)(cid:266)(cid:266)(cid:273)(cid:265) (cid:281)(cid:266)(cid:279)(cid:274)(cid:270)(cid:275)(cid:276)(cid:273)(cid:276)(cid:268)(cid:270)(cid:266) (cid:275)(cid:276)(cid:281)(cid:262)(cid:281)(cid:270)(cid:266)
+gebergte denominalenominaliseringdoormiddelvancircumﬁge- N
+ring
+N N\N
+berg ge…te
+5

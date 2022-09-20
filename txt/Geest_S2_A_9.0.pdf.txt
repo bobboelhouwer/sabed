@@ -1,0 +1,166 @@
+Theorie & praktijk 
+v/h grammaticaal 
+onderzoek 
+I. Bronnen voor de 
+studie van de 
+syntaxis
+1A. Twee belangrijke 
+grammatica’s 
+2Algemene Nederlandse 
+Spraakkunst (ANS)
+  Referentiegrammatica v/h   
+hedendaagse 
+ Standaardnederlands
+ 1984: eerste uitgave (ANS1)
+ 1997: tweede, volledig   
+herziene uitgave (ANS2) 
+ sinds 2002: ANS2 gratis online 
+beschikbaar, via
+https://ans.ruhosting.nl/ 
+3Algemene Nederlandse 
+Spraakkunst (ANS)
+ 20 april 2021: lancering van ANS3
+  volledig vernieuwde digitale omgeving
+  eerste drie inhoudelijk volledig herziene 
+hoofdstukken
+  periode 2021-2026: inhoudelijke herwerking 
+resterende hoofdstukken   
+4Waarom een nieuwe ANS?
+1) Grammatica zelf verandert
+ Voorbeeld: een nieuw zelfstandig gebruik van het 
+adjectief
+ Bekende gebruiken: 
+ Je hebt heel slimme voetballers en ook heel domme.
+ A. Wil je me dat boek eens geven? B. Dat rode? A. Nee, dat 
+blauwe. 
+  
++
+ Dat is nu het dwaze van de hele zaak.
+ Doe altijd het goede.  
+  Zie ANS2, par. 6.3.1.3 & par. 12.3.1.4
+5Waarom een nieuwe ANS?
+ Je bent ook dichter. Schrijf je je poëzie op vaste tijden? Er 
+zijn dichters die er een vaste routine van maken, maar 
+anderen moeten het dan weer hebben van ‘het juiste 
+moment’. Hoe zit dat bij jou?
+Ja, dat is een lastige. Bij mij is het tot nog toe zo dat 
+gedichten komen als ze komen…
+(https://www.gentleest.be/, gepubliceerd op 5/12/2020)
+  Maar dat gebrek aan slaap is wel een moeilijke. 's 
+Morgens denk je toch: weer een paar dagen van mijn leven 
+afgeknabbeld. 
+(www.kw.be, gepubliceerd op 8/4/2020)
+ 
+6Waarom een nieuwe ANS?
+ Maar geestelijk wel: ik had het idee dat ik actief aan mijn 
+blessure werkte.
+Ja, dat is een belangrijke, ja - ik wil ook graag wat dóen 
+ zelf altijd.
+(www.triathlonforum.nl, 16/11/2019)  
+7Waarom een nieuwe ANS?
+2)  Kennis over grammatica neemt toe
+ Bv. 14/04/2021: 
+Web of Science, trefwoorden “Dutch” + “Grammar” 
+OR “Grammatical” OR “Syntax” OR “Syntactic” in 
+periode 1997-2021: 1,008 relevante publicaties 
+(enkel in toonaangevende internationale 
+wetenschappelijke tijdschriften)
+  
+8Waarom een nieuwe ANS?
+3)  Visies op de status van allerlei verschijnselen 
+evolueren
+  bv. een constructie die in 1997 nog als “informeel” werd 
+gelabeld, kan in 2021 als deel van de neutrale 
+standaardtaal worden aangevoeld
+  bv. een typisch Belgisch verschijnsel dat in 1997 nog als 
+“regionaal” werd gelabeld, kan in 2021 als deel van de 
+Belgische variëteit van de standaardtaal worden gezien 
+(meer over pluricentrisme in college 3/5) 
+9Syntax of Dutch (SoD)
+  Engelstalige grammatica in 
+acht delen, 2012-2019
+  Nouns and Noun Phrases, 2 delen
+  Verbs and Verb Phrases, 3 delen
+  Adjectives and Adjective Phrases
+  Adpositions and Adpositional 
+Phrases
+  Coordination and Ellipsis
+ Volledig online beschikbaar via 
+taalportaal.org  
+10Verschillende grammatica’s
+ANS SoD
+Nederlandstalig Engelstalig
+breed doelpubliek: leerders,  academisch doelpubliek 
+leraren, vertalers,  (incl. Nederlands-
+eindredacteurs, enz. onkundigen)
+(zo) theorieneutraal  vanuit het perspectief van 
+(mogelijk) de generatieve grammatica
+weinig of geen  verwijzingen naar relevante 
+literatuurverwijzingen in  wetenschappelijke literatuur
+lopende tekst
+Hedendaags  systematische beschrijving 
+Standaardnederlands,  van (westelijke) 
+inclusief variatie binnen de  Nederlandse Nederlands, 
+ST uitstappen over andere 
+variëteiten 
+ook fonologie en morfologie alleen syntaxis
+11B. Korte demo: 
+werken 
+  met een 
+taalkundig 
+corpus
+12Wat is een corpus?
+  Brede zin: om het even welke selectie van 
+authentieke geschreven of gesproken tekst
+  Specifiekere zin: een grote, elektronisch 
+doorzoekbare verzameling tekst die speciaal met 
+het oog op taalkundig onderzoek is samengesteld
+  “[…] a corpus is a collection of (1) machine-
+readable (2) authentic texts (…) which is (3) 
+sampled to be (4) representative of a particular 
+  language or language variety.” (McEnery et al. 
+  2006:5)
+13Enkele Nederlandse 
+corpora
+ Corpus Gesproken Nederlands (CGN):+/- 10 
+miljoen woorden gesproken 
+Standaardnederlands uit NL en VL van in het 
+begin van de 21ste eeuw
+ SoNaR-corpus: +/- 500 miljoen woorden 
+geschreven Standaardnederlands uit NL en 
+VL (uit allerlei teksttypes) van het eind van 
+de 20ste en begin 21ste eeuw    
+14Taalkundige verrijking 
+(“annotatie”)
+  Corpora zijn vaak voorzien van automatische 
+taalkundige annotatie:
+  lemmatisering: alle (vervoegde, verbogen, enz.) vormen 
+zijn gekoppeld aan een lexeem
+   bv. zoeken naar alle vormen van verkopen of slim
+  POS-tagging: aan alle vormen is een woordsoort 
+toegekend
+   bv. zoeken naar alle voorkomens van zijn als 
+   voornaamwoord
+ (veel minder vaak): syntactische annotatie (“treebanks”)
+bv. zoeken naar zinnen met een nominaal object plus een 
+prepositioneel object   
+15Waarom?
+  Corpora bieden toegang tot informatie over het 
+daadwerkelijke taalgebruik 
+  Bijvoorbeeld: drie taalkundige vragen
+ Boris komt in een hedendaagse roman (Een honger van Jamal 
+Ouariachi) het woord schoftocratie tegen en vraagt zich af of er nog 
+zulke creatieve nieuwvormingen op -cratie voorkomen.
+ Bart is benieuwd of Vlamingen als ze standaardtaal spreken soms de 
+constructie met dubbel deelwoord in “Ik ben geslagen geweest” 
+gebruiken  
+ Brenda wil weten of er na “een aantal N” in het hedendaagse 
+verzorgde taalgebruik nu vaker een meervoudige of vaker een 
+enkelvoudige persoonsvorm wordt gebruikt.
+ 
+16Zelf doen?
+  Toegang (van binnen het Ugentdomein) via 
+opensonar.inl.nl
+  Ghent University aanklikken als instelling
+  Veel plezier!
+17

@@ -1,0 +1,64 @@
+30/10/2019
+Lay 6.5
+Definitie
+• A reële m x n matrix, b ∈ Rm ,  losop Ax = b
+• Als strijdigstelsel, danis b ∉ Col Aenbestaaterdus
+geenx zodatAx = b. Maar erbestaatweleen(cid:1)(cid:2) zodat
+(cid:3)(cid:1)(cid:2) het dichtst bij b komt 
+• (cid:1)(cid:2) ∈Rn is een kleinste kwadraten oplossing (kko) van 
+Ax = b indien  (cid:4)(cid:5)(cid:3)(cid:1)(cid:2) (cid:6) (cid:4)(cid:5)(cid:3)(cid:1) ∀∀∀∀x ∈ Rn .
+{x: Ax=b voorb∈Col A}
+NulA: Ax=0
+(cid:1)n
+(cid:1)m
+130/10/2019
+Opmerkingen
+• Alsb ∈ Col A, danis eenoplossingvan Ax=b ookeenkko
+• Er bestaat steeds een kko (cid:1)(cid:2) ook voor een strijdig stelsel
+• (cid:1)(cid:2) is niet noodzakelijkuniek: v ∈ Nul A, danis A((cid:1)(cid:2) + v) = 
+A(cid:1)(cid:2) en dus is A((cid:1)(cid:2) + v)even dicht bij b als A(cid:1)(cid:2) en dus ook 
+een kko.
+• (cid:4)(cid:7) (cid:8) A(cid:1)(cid:2) ∈Col A is beste benadering van b, wel uniek
+• b − A(cid:1)(cid:2) is foutvector
+• b − A(cid:1)(cid:2) benaderingsfout
+Oplossing
+• Orthogonale decompositie – beste benadering:
+(cid:7)
+(cid:4) (cid:8) Proj ((cid:4))
+(cid:13)(cid:14)(cid:15)(cid:3)
+• (cid:4)(cid:7) (cid:8) A(cid:1)(cid:2) ∈ Col A ; b - (cid:4)(cid:7) ∈ (Col A)⊥
+• (b- A(cid:1)(cid:2)) ⊥ Col A ⇔ a . (b- A(cid:1)(cid:2)) = 0 voor i = 1 … n
+i
+⇔ aT(b- A(cid:1)(cid:2)) = 0 voor i = 1 … n
+i
+⇔ AT(b- A(cid:1)(cid:2)) = 0
+⇔ ATA(cid:1)(cid:2)	= ATb normaalvergelijkingen
+• n x n stelsel met steeds minstens 1 oplossing
+230/10/2019
+kk met unieke oplossing
+A m x n matrix. Dan zijn equivalent:
+Ax = b heeft een unieke kko voor elke b ∈ Rm
+⇔ A heeft l.o. kolommen
+(⇔ ATA heeft l.o. kolommen – §6.5 oef 19-21)
+⇔ ATA is inverteerbaar
+De kko is (cid:1)(cid:2) (cid:8) (ATA)(cid:19)(cid:20)(ATb)
+QR factorisatie en kko
+• A heeft l.o. kolommen:
+A = QR met R inverteerbaar en QTQ = I
+n
+(cid:1)(cid:2) (cid:8) (ATA)(cid:19)(cid:20)(ATb) = (RTQTQR)(cid:19)(cid:20)RTQTb 
+(cid:19)(cid:20)
+(cid:8)	(cid:21)(cid:19)(cid:20)(cid:21)(cid:22) RTQTb =	(cid:21)(cid:19)(cid:20)QTb
+• Los het bovendriehoeksstelsel op:
+(cid:21)(cid:1)(cid:2) (cid:8) (cid:23)(cid:22)(cid:4)
+330/10/2019
+Opmerking: Rang van A en ATA
+• A heeft l.a. kolommen ⇒ ∃ x≠0 : Ax=0
+⇒ ∃ x≠0 : ATAx=0 ⇒ ATA heeft l.a. kolommen 
+• ATA heeft l.a. kolommen ⇒ ∃ x≠0 : ATAx=0 ⇒
+∃ x≠0 : xTATAx=0 ⇒ Ax =0 ⇒ ∃ x≠0: Ax=0
+⇒ A heeft l.a. kolommen
+• De l.a. relaties tussen de kolommen van A en 
+ATA zijn dezelfde ⇒ zelfde aantal l.o. 
+kolommen ⇒ A en ATA hebben zelfde rang
+4

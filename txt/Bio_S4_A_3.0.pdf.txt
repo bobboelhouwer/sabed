@@ -1,0 +1,127 @@
+CEL DELING: MITOSIS EN MEIOSISCHROMOSOOM: OPBOUW EN STRUCTUURhistonen
+nucleosoom
+  +
+DNA
+chromatine
+Verschillende niveaus
+van vouwing en condensatie van 
+het DNA, over chromatine tot 
+chromosoom“beads on a string”
+nucleosoom
+30 nm chromatineCHROMATINE
+Tijdens de interfase van de cel, kunnen we twee types chromatine onderscheiden: 
+•Euchromatine is losser opgerold omdat er meerdere genen liggen die actief tot expressie komen
+•Heterochromatine is sterker gecondenseerd en bestaat uit DNA waar minder genen liggen. We 
+maken verder nog onderscheid tussen
+– Constitutief heterochromatine, dat nooit tot expressie komt. Dit ligt voornamelijk rond het 
+centromeer en bevat veel repetitief DNA. 
+– Facultatief heterochromatine, dat soms tot expressie komt. 1 chromatide : 
+ 1 dubbelstrengige DNA molecule
+2 zusterchromatiden
+DIPLOIDE CEL : van elk chromosoom 2 exemplaren
+HAPLOIDE CEL : van elk chromosoom 1 exemplaar1 chromatide : 
+ 1 dubbelstrengige DNA molecule
+2 zusterchromatiden
+DIPLOIDE CEL : van elk chromosoom 2 exemplaren
+HAPLOIDE CEL : van elk chromosoom 1 exemplaarInterfase celkern
+Metafase-
+chromosomenChromosomen zichtbaar tijdens de celdeling (M) onder de microscoopCHROMOSOMENKAART - KARYOGRAM
+22 paren van autosomen + 1 paar geslachtschromosomen = 46 chromosomenCHROMOSOMENKAART - KARYOGRAM
+Karyotype 46,XX  -  normaal vrouwelijk karyotypeOpbouw chromosoom
+telomeer
+centromeer
+telomeer
+2 chromatiden1. Grootte van het chromosoom2. Positie centromeer
+3. Bandering
+p
+p
+centromeer
+q
+Chromosoom 1
+Chromosoom 13
+metacentrisch
+acrocentrischACROCENTRISCH                      METACENTRISCH                              SUBMETACENTRISCHInternationaal Systeem voor de
+Humaan Cytogenetische NomenclatuurNummering van de banden
+van een chromosoom 
+p
+q
+Chr 1 Chr 11T-banding
+Chr 1 Chr 13CEL DELING: MITOSIS EN MEIOSIS
+46 =
+23
+23 paar
+diploid
+haploidDiploide cel
+Homologe chromosomenHaploide celCEL DELING: MITOSISMITOSE
+46XX
+46XX
+46XXCyclus van de cel
+Mitose
+InterfaseMITOSE
+ S-fase  profase  metafase  anafase
+ telofasemetafase anafase
+microtubuli:  groen
+centrosomen: rood 
+DNA: blauw Belang van cohesines (eiwitcomplex dat oa. zusterchromatiden samenhoudt)
+Kinetochore: eiwitcomplex dat het centromeer verbindt met de mitotische spindleseparase
+= cohesinePROFASE
+Chromosomen condenseren
+ESSENTIAL CELL BIOLOGY Alberts et al.PROMETAFASE
+Kernmembraan verdwijnt
+Delingsspoel wordt gevormdMETAFASE
+Alignatie van chromosomen op equatorANAFASE
+Chromatiden worden gescheiden en 
+verplaatst naar de twee polenTELOFASE
+Kernmembraan wordt gevormdCYTOKINESE
+Moedercel wordt in twee gedeeldWanneer mitose niet correct gebeurt:
+Wanneer 2 chromatiden niet gescheiden worden en samen in één dochter
+cel terecht komen spreekt men van non-disjunctie.
+Bij anafase lagging komen beide chromatiden ook in dezelfde dochtercel 
+terecht door vertraagd transport, ofwel gaat er een chromosoom verlorenCEL DELING: MEIOSIS46 =
+23
+23 paar
+diploid
+haploidMeiose of reductiedeling: diploid     haploidSomatische cellen
+2de week
++
+KiemcellijnINDELING VAN HET PRENATALE LEVEN
+Week 3 Week 8 Dag 266
++
+vrucht embryo foetus
++Eerste meiotische deling
+diploid haploid
+46
+23
+Tweede meiotische deling
+2 chromatiden 1 chromatide
+23 23Eerste meiotische delingTweede meiotische delingS-faseProfase S-faseEerste meiotische deling
+separase
+Cohesines distaal van de crossing-overs worden afgebroken, 
+maar blijven aanwezig rond de centromerenTweede meiotische deling
+separase
+Cohesines thv centromeer worden afgebrokenVORMING VAN DE GAMETENEerste meiotische deling
+EICEL
+LH
+Stop
+Tweede meiotische delingEerste meiotische deling
+ovulatie
+Tweede meiotische deling
+bevruchtingblastocystSPERMATOGENESEX-inactivatie
+XiX-inactivatie
+In normale vrouw wordt één van de twee X-
+chromosomen geinactiveerd in het blastocyst 
+stadium.
+Het Inactive X-chromosoom vormt het Barr body 
+Dit X-inactivatie proces gebeurt random: er zijn 
+evenveel cellen met een materneel of paterneel 
+inactief X-chromosoom
+Nadien blijft deze selectie min of meer behouden moeder vader
+Random X-inactivatieX-inactivatie
+Xm geïnactiveerd
+XmXp
+50/50
+Xp geïnactiveerd
+20/80
+0/100
+Random Preferentieel Non-random
+<80% >95%

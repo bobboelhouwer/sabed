@@ -1,0 +1,409 @@
+Zelfstandige ondernemer vs. Rechtspersoon
+
+“Onderneming”
+als “subject” van rechten
+rechtsobject: geheel van goederen gebruikt voor economische activiteit
+maar dan niet enkel voor wat vroeger handelaars waren
+≈ handelszaak, fonds de commerce
+“Ik ben een onderneming”
+
+“Ik heb een onderneming”
+We gaan vergelijking maken van : 
+eigenaar-natuurlijke persoon van een handelszaak; en
+aandeelhouder van een vennootschap met volkomen rechtspersoonlijkheid
+om inzicht te krijgen in zowel handelszaak als rechtspersoon
+2
+“Onderneming”
+als “subject” van rechten
+rechtsobject: geheel van goederen gebruikt voor economische activiteit
+≈ handelszaak, fonds de commerce
+“Ik ben een onderneming”
+
+“Ik heb een onderneming”
+Opgelet : 
+handelszaak en rechtspersoon zijn geen tegengestelde begrippen: een vennootschap met rechtspersoonlijkheid zal in de regel ook een handelszaak hebben
+realiteit is complexer dan de schoolvoorbeelden:
+onvolkomen rechtspersonen: zie later
+rechtspersonen kunnen aandeelhouder zijn
+vennootschapsgroep: handelszaak ‘versplinterd’ over meerdere rechtspersonen
+maar: problemen zijn in wezen dezelfde 
+3
+Handelszaak vs. vennootschap met volkomen rechtspersoonlijkheid 
+
+
+snoepwinkel Sweet(handelszaak)
+
+snoepwinkel Sour(handelszaak)
+
+Jan(eigenaar)
+
+Miet BV(eigenaar)
+
+
+Miet(vennoot = eigenaar van aandelen)
+4
+Handelszaak (fonds de commerce, business) 
+
+
+snoepwinkel Sweet(handelszaak)
+
+Jan(eigenaar)
+
+5
+Snoepwinkel Sweet (eenmanszaak van Jan) boekhoudkundig ?
+
+
+Activa
+Passiva
+Persoonlijke activa van Jan
+Ondernemings-activa  van Sweet
+Persoonlijke passiva van Jan
+Ondernemings-passiva van Sweet
+6
+Snoepwinkel Sweet (eemanszaak van Jan) boekhoudkundig
+
+
+Activa
+Passiva
+Persoonlijke activa van Jan
+Ondernemings-activa  van Sweet
+Persoonlijke passiva van Jan
+Ondernemings-passiva van Sweet
+“eigen vermogen”
+van Sweet
+7
+Art. III.83, eerste lid WER
+
+ De boekhouding van boekhoudplichtige ondernemingen omvat al hun verrichtingen, bezittingen, en rechten van welke aard ook, en hun vorderingen, schulden en verplichtingen van welke aard ook. De boekhouding van de boekhoudplichtige ondernemingen in de zin van artikel III.82, § 1, eerste lid, 1°, omvat deze gegevens evenwel uitsluitend wat betreft hun zelfstandige beroepsactiviteit; de eigen middelen die voor deze beroepsactiviteit worden aangewend, worden afzonderlijk vermeld.
+“zaaktheorie”
+“entiteitsbeginsel”
+= onderneming die natuurlijke persoon is
+8
+Snoepwinkel Sweet (eenmanszaak van Jan) juridisch
+
+
+Activa
+Passiva
+Persoonlijke activa van Jan
+Ondernemings-activa  van Sweet
+Persoonlijke passiva van Jan
+Ondernemings-passiva van Sweet
+
+
+... Worden uitgewonnen op  ... =
+
+Art. 7 Hyp.W.
+Art. 3.36 BW
+9
+Snoepwinkel Sweet (eenmanszaak van Jan) juridisch: onbeperkte aansprakelijkheid
+
+
+Activa
+Passiva
+Persoonlijke activa van Jan
+Ondernemings-activa  van Sweet
+Persoonlijke passiva van Jan
+Ondernemings-passiva van Sweet
+
+10
+Snoepwinkel Sweet (eenmanszaak van Jan): juridisch: geen afgescheiden vermogen
+11
+
+
+Activa
+Passiva
+Persoonlijke activa van Jan
+Ondernemings-activa  van Sweet
+Persoonlijke passiva van Jan
+Ondernemings-passiva van Sweet
+
+vermogen als (vlottend) onderpand
+in principe 
+ alle patrimoniële rechten van een schuldenaar zijn onderpand voor al zijn verbintenissen  ondernemingsactiva onderpand van persoonlijke passiva
+  alle schuldeisers delen gelijk in opbrengst in verhouding tot omvang van schuldvordering  ondernemingspassiva geen voorrang mbt ondernemingsactiva
+
+Vennootschap met (volkomen) rechtspersoonlijkheid 
+
+
+snoepwinkel Sour(handelszaak)
+
+Miet BV(eigenaar)
+
+
+Miet(vennoot = eigenaar van aandelen)
+12
+Tussendoor: hypothese van meerdere vennoten
+
+
+snoepwinkel Sour(handelszaak)
+
+Miet BV(eigenaar)
+
+
+Miet 60% / Piet 40%
+13
+Vennootschap met (volkomen) rechtspersoonlijkheid 
+
+
+snoepwinkel Sour(handelszaak)
+
+Miet BV(eigenaar)
+
+
+Miet(vennoot = eigenaar van aandelen)
+14
+Snoepwinkel Sour (Miet BV):boekhoudkundig ?
+
+
+Activa
+Passiva
+Persoonlijke activa van Miet
+Ondernemings-activa  van  Sour
+Persoonlijke passiva van  Miet
+Ondernemings-passiva van Sour
+15
+Snoepwinkel Sour (Miet BV):boekhoudkundig
+
+
+Activa
+Passiva
+Ondernemings-activa  van Miet BV
+Ondernemings-passiva van  Miet BV
+eigen vermogen
+van Miet BV
+16
+Snoepwinkel Sour (Miet BV):juridisch
+
+
+Activa
+Passiva
+Ondernemings-activa  van Miet BV
+Ondernemings-passiva van  Miet BV
+Miet BV
+17
+Snoepwinkel Sour (Miet BV) / Miet (vennoot):juridisch
+
+
+Inclusief aandelen van Miet in Miet BV (“uitgegeven door BV”)
+18
+Snoepwinkel Sour (Miet BV) / Miet (vennoot):juridisch: niet- aansprakelijkheid van vennoot voor vennootschapsschulden
+
+
+Activa
+Passiva
+Ondernemings-activa  van Miet BV
+Ondernemings-passiva van  Miet BV
+Activa
+Passiva
+Persoonlijke activa van Miet
+Persoonlijke passiva van Miet
+Miet BV
+Miet 
+
+
+19
+Wel bij onbeperkt aansprakelijke aandeelhouders in vennootschappen zonder (maatschap) of onvolkomen (VOF, CommV) rechtspersoonlijkheid 
+
+Snoepwinkel Sour (Miet BV) / Miet (vennoot):juridisch: persoonlijk schulden niet-verhaalbaar op vennootschapsactiva
+
+
+Activa
+Passiva
+Ondernemings-activa  van Miet BV
+Ondernemings-passiva van  Miet BV
+Activa
+Passiva
+Persoonlijke activa van Miet
+Persoonlijke passiva van Miet
+Miet BV
+Miet 
+Inclusief aandelen van Miet in Miet BV
+
+
+20
+Uitzondering op
+21
+Snoepwinkel Sour (Miet BV) / Miet (vennoot):juridisch: “beperkte aansprakelijkheid” en “voorrang vennootschapsschuldeisers”
+
+
+Vennoot  (Miet) is niet aansprakelijk voor schulden van vennootschap (Miet BV)
+“losprijs”
+
+“Beperkte aansprakelijkheid”
+minimale investering beloven (“inbreng”) 
+Inbreng is achtergesteld aan vennootschapsschuldeisers (“subordinatie”)
+22
+Art. 2:97 WVV: voorrang vennootschapsschuldeisers bij vereffening
+§ 1. Onverminderd de rechten van de bevoorrechte schuldeisers, betaalt de vereffenaar alle schulden naar evenredigheid en zonder onderscheid tussen opeisbare en niet opeisbare schulden, onder aftrek, wat deze betreft, van het disconto.Hij mag echter op eigen risico eerst de opeisbare schulden betalen, ingeval de activa de passiva aanmerkelijk te boven gaan of de schuldvorderingen op termijn voldoende gewaarborgd zijn, onverminderd het recht van de schuldeisers om zich tot de rechtbank te wenden.
+§ 2. Indien uit de rekeningen bedoeld in artikel 2:100, § 1, blijkt dat niet alle schuldeisers integraal kunnen worden terugbetaald, legt de vereffenaar vooraleer de vereffening wordt gesloten, bij eenzijdig verzoekschrift overeenkomstig de artikelen 1025 en volgende van het Gerechtelijk Wetboek het plan voor de verdeling van de activa onder de verschillende categorieën schuldeisers ter goedkeuring voor aan de bevoegde rechtbank. Voormeld verzoekschrift mag worden ondertekend door de vereffenaar, door een advocaat of door een notaris. (…)
+§ 3. Na betaling van de schulden of consignatie van de nodige gelden om die te voldoen, verdeelt de vereffenaar onder de aandeelhouders of vennoten de gelden of waarden die gelijk verdeeld kunnen worden; hij overhandigt hun de goederen die hij voor nadere verdeling heeft moeten overhouden.Hij mag, met de in artikel 2:88 bedoelde machtiging, de aandelen van de vennootschap inkopen, hetzij op de beurs, hetzij door middel van een bod of een prijsaanvraag, gericht aan de aandeelhouders of vennoten, die allen aan de verrichting moeten kunnen deelnemen.
+aandeel geeft een “netto-recht”
+23
+Uitkeringsbeperkingen in belang van vennootschapsschuldeisers
+BV (en CV) 
+Art. 5:142 WVV: Heeft de vennootschap nog een positief eigen vermogen als de uitkering gebeurt? 
+Art. 5:144 WVV: Heeft de vennootschap op korte termijn nog voldoende liquiditeiten om de opeisbare schulden te betalen?
+
+NV
+Art. 7:212 WVV: Heeft de vennootschap nog een positief eigen vermogen met een bijkomende buffer als de uitkering gebeurt? 
+in WVV geen liquiditeitstest in NV (wel daarbuiten, bv. actio pauliana; zie hierna)
+
+
+aandeel geeft een “netto-recht”
+24
+Criteria uitkeringstests
+
+
+ solvabiliteit ↔ liquiditeit ↔ rentabiliteit
+ 
+25
+Netto-recht aandeelhouder
+26
+Achterstelling treft ook persoonlijke schuldeisers van aandeelhouder 
+ → “voorrang” vennootschapsschuldeisers op persoonlijke schuldeisers
+
+
+Nettoactief / netto cash
+
+2
+1
+
+3
+Snoepwinkel Sour (Miet BV) / Miet (vennoot):juridisch: “beperkte aansprakelijkheid” en “voorrang vennootschapsschuldeisers”
+
+
+Vennoot  (Miet) is niet aansprakelijk voor schulden van vennootschap (Miet BV)
+“losprijs”
+
+“Beperkte aansprakelijkheid”
+minimale investering beloven (“inbreng”) 
+Inbreng is achtergesteld aan vennootschapsschuldeisers (“subordinatie”)
+Aansprakelijkheid van bestuur bij fout
+27
+Bestuursaansprakelijkheid
+28
+Rechtspersoon > (zelfs enige) aandeelhouder
+“Ook de enige vennoot 
+heeft altijd gezelschap”
+
+https://lirias.kuleuven.be/bitstream/123456789/459701/1/Ook+de+enige+vennoot+heeft+altijd+gezelfschap.pdf
+Drempel voor aansprakelijkheid is strenger dan voor natuurlijke persoon die zijn eigen vermogen beheert
+Vgl. gemeenrechtelijke schuldeisersbescherming
+29
+Zijdelingse vordering (artikel 1167 oud BW): schuldeiser namens schuldenaar
+Actio pauliana (artikel 1167 oud BW)
+Schuldeisers] kunnen ook in hun eigen naam opkomen tegen de handelingen die hun schuldenaar verricht heeft met bedrieglijke benadeling van hun rechten.
+
+
+
+
+
+
+
+Bewust of intentioneel schuldeisers benadelen: onrechtmatige daad (art. 1382 oud BW)
+Bijzondere toepassingen in faillissement (zie later)
+Veronderstelt altijd vorm van insolventie
+Snoepwinkel Sour (Miet BV) / Miet (vennoot):juridisch: “beperkte aansprakelijkheid” en “voorrang vennootschapsschuldeisers”
+
+
+Vennoot  (Miet) is niet aansprakelijk voor schulden van vennootschap (Miet BV)
+“losprijs”
+
+“Beperkte aansprakelijkheid”
+minimale investering beloven (“inbreng”) 
+Inbreng is achtergesteld aan vennootschapsschuldeisers (“subordinatie”)
+Aansprakelijkheid van bestuur bij fout
+Beperkte aansprakelijkheid is maar “aanvullende regel”: persoonlijke zekerheden
+30
+Verzachting niet-aansprakelijkheid aandeelhouder
+31
+Opnieuw zijn vrijwillige “adjusting” schuldeisers beter af dan onvrijwillige
+Handelszaak van ondernemer-natuurlijke persoon
+32
+Geen afgescheiden vermogen ≠ geen enkele (juridische) betekenis
+Handelszaak (onderneming als “business”)
+33
+   
+Som van het geheel > som van de waarde van de onderdelen
+“feitelijk algemeenheid”
+going concern-waarde, clientèle
+beschouwd als eenheid, maar niet één goed
+1/ gevolgen voor restitutieverhoudingen (bv. vruchtgebruik)
+
+2/ verder goederenrechtelijk niet als één goed beschouwd (bv. overdracht, beslag)
+Going concern-waarde verdwijnt bij beslagen op onderdelen
+
+Faillissement (zie later)
+pand op handelszaak
+Pand
+34
+BURGERLIJK WETBOEK. - Boek III - Titel XVII : Zakelijke zekerheden op roerende goederen
+Art. 7.Voorwerp
+Het pandrecht kan een roerend lichamelijk of onlichamelijk goed, een goed dat roerend is uit zijn aard maar onroerend is geworden door bestemming of een bepaald geheel van dergelijke goederen
+Pand
+35
+Art. 2. Totstandkoming  Onder voorbehoud van artikel 4, tweede lid, komt het pandrecht tot stand door de overeenkomst tussen pandgever en pandhouder.
+Vormvrij; “solo consensu”
+Art. 15.Tegenwerpelijkheid
+  Het pandrecht is tegenwerpelijk aan derden door een overeenkomstig artikel 29, § 1, eerste lid, uitgevoerde registratie in het pandregister.
+  De registratie in het pandregister is uitgesloten voor een verpanding van schuldvorderingen (…)
+  De rang van het pandrecht wordt bepaald volgens de chronologische volgorde van de registratie ervan.
+ Art. 39. Inbezitstelling  Het pandrecht van een lichamelijk goed is eveneens tegenwerpelijk aan derden wanneer het goed in de feitelijke macht van de schuldeiser of van een overeengekomen derde wordt gesteld.
+Rechtsgevolgen pand 
+‘priority’
+‘governance’
+36
+Artikel 1.Doelstelling  Het pandrecht verleent aan de pandhouder het recht om bij voorrang boven de andere schuldeisers te worden betaald uit de bezwaarde goederen.
+ Art. 16. Verplichtingen van de pandgever
+  De pandgever dient als goed pandgever voor de bezwaarde goederen zorg te dragen.
+  De pandhouder is gerechtigd om op ieder ogenblik de bezwaarde goederen te inspecteren.
+
+  Art. 17. Gebruiksrecht
+  De pandgever is gerechtigd tot een redelijk gebruik van de in pand gegeven goederen overeenkomstig hun bestemming.
+ > Beheer louter privévermogen
+< Bestuur rechtspersoon 
+Zie les goederenrecht
+P.M.: zakelijke vs. persoonlijke zekerheid
+37
+Zakelijke zekerheid (bv. pand, hypotheek): voorrang op andere schuldeisers
+Persoonlijke zekerheid (bv. borg): uitbreiding aanspraak tot ander vermogen
+
+
+
+
+
+
+Combinatie (“zakelijke borg”): zakelijke zekerheid voor andermans schuld
+Geen verhaal op rest van vermogen zekerheidssteller
+Wel voorrang op goed waarop zekerheid rust
+
+
+
+
+
+
+
+Pand op handelszaak
+38
+BURGERLIJK WETBOEK. - Boek III - Titel XVII : Zakelijke zekerheden op roerende goederen
+Art. 7.Voorwerp
+Het pandrecht kan een roerend lichamelijk of onlichamelijk goed, een goed dat roerend is uit zijn aard maar onroerend is geworden door bestemming of een bepaald geheel van dergelijke goederen tot voorwerp hebben (…) 
+Behoudens beperkende bepalingen in de pandovereenkomst, omvat het pandrecht dat een handelszaak tot voorwerp heeft het geheel der goederen die de handelszaak uitmaken.
+Geen buitenbezitstelling (zie hoger)
+Vlottend onderpand
+Pandverzilvering met behoud going concern-waarde
+Registratie pand handelszaak
+39
+Zelfstandige ondernemer v. rechtspersoon
+40
+Jan/Miet wil een zeilboot kopen met een lening van de bankWat kan aan de bank in pand gegeven worden?
+snoepwinkel Sweet(handelszaak)
+
+snoepwinkel Sour(handelszaak)
+
+Jan(eigenaar)
+
+Miet BVBA(eigenaar)
+
+
+Miet(vennoot = eigenaar van aandelen)

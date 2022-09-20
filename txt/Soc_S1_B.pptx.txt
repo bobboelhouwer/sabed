@@ -1,0 +1,948 @@
+DEEL II:PSYCHOLOGIE van de PERSOONLIJKHEID2. Trekpsychologie
+http://www.youtube.com/watch?v=zlfKdbWwruY
+1
+2. Trekpsychologie
+Vragen:
+Hoe moeten we trekken opvatten?: Wat zijn trekken?
+
+Hoe kunnen we bepalen welke trekken de belangrijkste zijn uit de vele verschillende manieren waarop mensen van elkaar kunnen verschillen?: Welke zijn de belangrijkste?
+Cfr. Uiterlijke trekken
+
+Hoe kunnen we een omvattende taxonomie van trekken opstellen—een systeem dat alle belangrijke trekken omvat? Hoe ziet een omvattend systeem eruit?
+Cfr. Taxonomie dieren
+
+2
+Overzicht
+
+2.1. Nomothetische trekpsychologie
+2.2. Trektheorieen
+
+2.2.1. Freud (kort)
+2.2.2. Eysenck
+2.2.3. Cattell
+2.2.4. Wiggins
+2.2.5. 5-factorenmodel
+2.2.6. Nuanceringen
+3
+Trekbeschrijvende woorden
+
+Woorden die de trekken, eigenschappen van een persoon beschrijven en die min of meer stabiel zijn over de tijd en situaties
+	
+	Voorbeelden?
+4
+5
+Beschrijf jezelf met tien adjectieven
+1. enthousiast
+2. ruziezoekend
+3. betrouwbaar
+4. angstig
+5. openstaand 
+6. stil
+7. vriendelijk
+8. chaotisch
+9. stabiel
+10. oncreatief
+
+
+
+Niet
+Wel
+Begin met die adjectieven die jou het best wel/niet beschrijven
+6
+2.1.1. Wat is een persoonlijkheidstrek? 
+Klassieke antwoord komt van nomothetische trekpsychologie  (Eysenck, Cattell, Guilford, McCrae & Costa, etc.)
+
+Nomothetische trekconcept
+	 hypothetische constructen die worden geformuleerd door (bepaalde) persoonlijkheidsonderzoekers om op een gemakkelijke en spaarzame manier individuele verschillen in gedrag, gevoelens, gedachten te beschrijven, verklaren, en voorspellen
+	
+	  beschrijven consistent patroon in het gedrag, de gedachten, en gevoelens van mensen
+2.1. Nomothetische trekpsychologie:2.1.1. Wat is een trek?
+7
+Nomothetische trekconcept: 3 cruciale eigenschappen:
+Trekken zijn interne, stabiele eigenschappen van een individu die deze van moment tot moment, situatie tot situatie met zich meedraagt
+		een trek is geen tijdelijke eigenschap maar is iets dat de persoon 	altijd meedraagt
+		geven aanleiding tot consistent patroon
+		bv. haarkleur en haarsnit, extraversie vs. gelaatsexpressie
+
+Trekken zijn causaal: ze verklaren het gedrag van het individu
+		De interne eigenschappen beinvloeden, bepalen gedrag
+		bv. nood aan sociale erkenning
+
+Trekken nemen de vorm aan van (hypothetische) dimensies waarop mensen verschillende plaats kunnen innemen
+2.1. Nomothetische trekpsychologie
+8
+Voorbeeld: agressie
+Interne, stabiele eigenschappen 
+	Er is iets in de persoon die maakt dat deze persoon gekenmerkt is door een bepaalde mate van agressiviteit en die altijd deel is van de persoon
+		bv. Davidson: agressie agv dysfuncties in hersencircuits gelinkt aan emotie-regulatie
+		bv. Freud: te weinig controle op het Id
+Causale eigenschappen
+	Deze interne eigenschappen ligt aan de oorzaak van het stellen van gedrag, m.a.w.  er is een causal pathway van interne eigenschap naar gedrag 
+		bv. hersendysfuncties maken dat mensen zich agressief gedragen
+Dimensionele eigenschap: We kunnen de trek voorstellen als een continuum waarop mensen verschillende posities innemen
+2.1. Nomothetische trekpsychologie
+Niet agressief
+Extreem agressief
+Emily
+Simon
+Pete
+9
+2.1.2.  Gevolgen, implicaties
+
+Gevolg van deze definitie: gedrag  trek: trekken zijn eigenschappen die ook aanwezig zijn als het overeenkomstige gedrag niet aanwezig is. Trek hoeft niet altijd gedragsmatig tot uiting te komen
+Bv. Agressie, innerlijke gevoelens
+
+Wetenschappelijke bruikbaarheid van trekken: beschouwen als interne oorzaken van gedrag:  verklaren van gedrag (adhv andere oorzaken uitsluiten)
+Bv agressie in bar
+
+ Hoofdeffect van de persoon is belangrijkste manier om individuele verschillen op te vatten 
+
+Gevolgen voor opvattingen over consistentie van menselijk gedrag
+2.1. Nomothetische trekpsychologie
+10
+2.1.3. Gevolgen voor opvattingen over consistentie van menselijk gedrag (consistentie van individuele verschillen)
+
+Sarah Hampson: verschillende soorten consistentie: 
+
+	2 belangrijke onderscheidingen:
+		- consistentie over zelfde of over andere situaties
+		- consistentie over zelfde of over ander gedrag
+	 4 soorten consistentie: 
+
+
+2.1. Nomothetische trekpsychologie
+Situatie
+Zelfde		Anders
+Gedrag
+Zelfde
+Ander
+11
+Type A consistentie: consistentie van individuele verschillen inzake zelfde situatie en zelfde gedrag
+	
+	 in welke mate hangen verschillen tussen mensen inzake een bepaald gedrag in een bepaalde situatie samen met de verschillen tussen deze mensen inzake hetzelfde soort gedrag in eenzelfde situatie?
+
+	  uitgedrukt als correlatie over personen tussen (gedrag A in situatie 1, gedrag A in situatie 1 op ander tijdstip)
+
+	= “cross-temporele consistentie van gedrag” 
+		= hoe stabiel is zelfde gedrag van mensen 
+		over de tijd in zelfde soort  situaties
+
+	  Voorbeeld: 
+		- extraversie op café week 1 en week 2
+		
+
+2.1. Nomothetische trekpsychologie
+Situatie
+Zelfde	Anders
+Gedrag
+Zelfde
+Ander
+12
+Type B consistentie: consistentie van individuele verschillen inzake zelfde gedrag in andere situaties
+	
+	 in welke mate hangen verschillen tussen mensen inzake een bepaald gedrag in een bepaalde situatie samen met de verschillen tussen deze mensen inzake hetzelfde soort gedrag in een andere situatie?
+
+	  uitgedrukt als correlatie over personen tussen (gedrag A in situatie 1, gedrag A in situatie 2)
+
+	= “cross-situationele consistentie van gedrag” 
+		= hoe stabiel is zelfde gedrag van mensen 
+		over verschillende situaties
+
+	  Voorbeeld: 
+		- verbale agressie in lab en in echte leven
+		
+
+2.1. Nomothetische trekpsychologie
+Situatie
+Zelfde	Anders
+Gedrag
+Zelfde
+Ander
+13
+Cross-situationele consistentie
+	Bij 1 persoon: 	gedraagt de persoon zich gelijkaardig 				over situaties heen?
+
+Bv. Optimisme van Jeroen
+
+
+
+
+  
+
+       Hoge CSC	       Matige CSC	         Lage CSC
+14
+Cross-situationele consistentie
+Meerdere personen:   Blijft de rangorde tussen de 					      personen gelijk? 
+
+Bv. Optimisme van Jeroen, Steven, Claudia
+
+
+
+
+  
+
+      Hoge CSC	       Matige CSC	         Lage CSC
+15
+Type C consistentie: consistentie van individuele verschillen over verschillende gedragsuitingen (van eenzelfde trek) in eenzelfde situatie
+	
+	 in welke mate hangen verschillen tussen mensen samen inzake het stellen van een bepaald gedrag en het stellen van een ander gedag (dat naar dezelfde trek verwijst)  in eenzelfde situatie?
+
+	  uitgedrukt als correlatie over personen tussen (gedrag A in situatie 1, gedrag B in situatie 1)
+
+	= “cross-uitings consistentie van gedrag” 
+		= hoe stabiel zijn individuele verschillen  
+		inzake uitingen van een trek?
+
+	  Voorbeeld: 
+		- als iemand verbaal agressief is in een bepaalde situatie, is deze dan 	ook fysiek agressief? 
+		- als iemand altijd twee woorden gebruikt op café, zal hij dan ook 	deur openhouden
+
+2.1. Nomothetische trekpsychologie
+Situatie
+Zelfde	Anders
+Gedrag
+Zelfde
+Ander
+16
+Type D consistentie: consistentie van individuele verschillen over verschillende gedragsuitingen (van eenzelfde trek) in verschillende S
+	
+	 in welke mate hangen verschillen tussen mensen samen inzake het stellen van een bepaald gedrag en het stellen van een ander gedag (dat naar dezelfde trek verwijst)  in verschillende situaties?
+
+	  uitgedrukt als correlatie over personen tussen (gedrag A in situatie 1, gedrag B in situatie 2)
+
+	= (specifiek geval) “personality coefficient” 
+		= in welke mate kunnen trekscores concreet
+		gedrag in een concrete situatie voorspellen? 
+
+	  Voorbeeld: 
+		- spraakzaam op café, uitgelaten op uitstap? Teruggetrokken op 	café, weinig spraakzaam bij tandarts? 
+		- personality coefficient: hoge score op agressieVL, agressief gedrag 	op cafe? 
+2.1. Nomothetische trekpsychologie
+Situatie
+Zelfde	Anders
+Gedrag
+Zelfde
+Ander
+17
+De verschillende soorten zijn uiteraard cruciaal voor de VOORSPELLING van menselijk gedrag, en op basis van wat je dit kan doen.
+
+
+Nomothetische trekpsychologie: 
+	Centrale assumptie: Trekken zijn stabiele, interne dimensies met een causaal karakter
+
+	!!  Implicatie: er is relatief hoge
+		
+		- type A consistentie = cross-temporele stabiliteit van gedrag 
+		- type B consistentie = cross-situationele stabiliteit van gedrag
+		- type C-consistentie = cross-uitingsstabiliteit van gedrag
+		- type D-consistentie = predictie van concreet gedrag op basis van 			         trekscores
+
+	
+
+	
+  
+2.1. Nomothetische trekpsychologie
+18
+
+	
+
+	
+  
+2.1. Nomothetische trekpsychologie
+19
+De verschillende soorten zijn uiteraard cruciaal voor de VOORSPELLING van menselijk gedrag, en op basis van wat je dit kan doen.
+
+
+Nomothetische trekpsychologie: 
+	Trekken zijn stabiele, interne dimensies met een causaal karakter
+
+	!!  informatie over bepaald gedrag van persoon in 1 situatie laat toe om (bv. vriendelijk tijdens BBQ) tot op zekere hoogte te voorspellen
+
+		- te voorspellen dat die later tijdens een BBQ ook vriendelijk zal zijn 
+		- te voorspellen dat die in een andere situatie ook vriendelijk zal zijn
+		- dat die op de BBQ ook zal helpen afwassen
+		- dat die niet agressief zal zijn in ander soort situatie
+
+
+	
+
+	
+  
+2.1. Nomothetische trekpsychologie
+20
+Zonder voorop te willen lopen op resultaten:
+
+
+	
+
+	
+  
+2.1. Nomothetische trekpsychologie
+21
+2.1. Nomothetische trekpsychologie
+OK
+Wat zijn dan die belangrijkste nomothetische trekken of dimensies?
+
+
+2.1.4. Identificeren van de belangrijkste trekken
+
+3 benaderingen
+2.1.4.1.	Lexicale benadering
+2.1.4.2.	Statistische benadering
+2.1.4.3.	Theoretische benadering
+22
+2.1.4.1. Lexicale benadering
+
+Vertrekt van assumptie: Trektermen zijn belangrijk voor mensen om met elkaar te communiceren
+    
+      Lexicale hypothese: Alle belangrijke individuele verschillen zijn doorheen de tijd vastgelegd in de taal (i.d. vorm van adjectieven, beschrijvende termen, etc.) 
+		bv. jaloers, naijverig, afgunstig, nijdig, benijdend 
+
+		Vriendelijk: synoniemen?
+		
+Er zijn inderdaad zeer veel woorden in elke taal die gedrag of trekken van mensen beschrijven
+23
+2.1.4.1. Lexicale benadering
+Welke zijn nu de belangrijke trekken? Twee criteria:
+
+Synoniem frequentie: hoe meer woorden er bestaan die eenzelfde trek beschrijven, des te belangrijker de trek
+bv. Dominant, bazig, assertief, authoritair, bevelend… 
+	vs. nihilistisch
+
+Cross-culturele universaliteit: hoe belangrijker een trek, des te meer talen waarin je een woord(en) ervoor terugvindt
+Bv. dominant vs. unokai (indianen venezuela), amae (Japan) shadenfreude/leedvermaak/(engels?)
+24
+2.1.4.1. Lexicale benadering
+
+Problemen en beperkingen
+Vele woorden zijn ambigu (doordravend), metaforisch (“van steen”), obscuur of moeilijk (resiliënt), en de betekenis is niet altijd even duidelijk
+Persoonlijkheid komt ook tot uiting in andere woorden, niet enkel adjectieven, non-verbaal gedrag
+
+Conclusie: Zeker een goed vertekpunt om belangrijke individuele verschillen te achterhalen, maar wordt best niet exclusief gebruikt
+	
+ andere benaderingen
+25
+2.1.4.2. Statistische benadering
+Vertrekt van een grote en diverse verzameling persoonlijkheidsbeschrijvende vragen
+Dikwijls baseert men zich op lexicale analyse om zo’n verzameling aan te leggen
+Doel van statistische benadering : achterhalen van de belangrijke dimensies (trekken) van persoonlijkheid, aan de hand van Factoranalyse:
+
+	= Statistische techniek die groepjes variabelen/items (bv. 	Persoonlijkheidsbeschrijvende woorden) identificeert die samen 	voorkomen, en niet samen voorkomen met andere groepjes 	items/variabelen
+	
+
+Is dus een middel om te weten te komen welke persoonlijkheidsbeschrijvende woorden samen voorkomen, dus hetzelfde beschrijven of een gemeenschappelijke basis hebben en welke niet
+
+26
+
+Voorbeeld: ingrediënten
+27
+Voorbeeld: ingrediënten
+28
+Voorbeeld: factorladingen persoonlijkheidsbeschrijvende woorden 
+
+
+
+E	V	C	N	O
+1. Enthousiast	.80	  .30	  .00	  -.20	  .20
+2. Ruziezoekend	.20	  -.80	  -.20	  .30	  .00
+3. Betrouwbaar	.00	  .20	  .90	  -.30	  .01	 
+4. Angstig		-.15	  -.10	  .05	  .85	  -.03
+5. openstaand 	.20	  .15	  -.05	  -.20	  .86
+6. Stil			-.86	  .04	  .03	  .08	  -.03
+7. Vriendelijk	.16	  .90	  .02	  -.09	  .10
+8. Chaotisch		.01	  .00	  -.90	  .15	  .06
+9. Stabiel		.00	  .03	  .07	  -.95	  .00
+10. Oncreatief	.00	  .04	  .09	  -.04	  -.80	
+
+
+
+29
+2.1.4.2. Statistische benadering
+Zeer bruikbaar om een grote verzameling persoonlijkheidsbeschrijvende termen te reduceren in een kleiner aantal onderliggende kenmerken (factoren)
+
+Nadeel: de onderliggende dimensies die je vindt hangen helemaal af van welke items je er oorspronkelijk hebt meegenomen in je analyse
+	Bv. Dominant, bazig, assertief, machtig, krachtig, invloedrijk, authoritair, …
+
+ Belangrijk dat je goede, ruime selectie maakt van items 
+
+(zie factoranalyse)
+
+30
+2.1.4.3. Theoretische benadering
+Vertrekt van een theorie, die vooropstelt welke variabelen, trekken, belangrijk of centraal zijn voor beschrijven van verschillen tussen mensen
+
+Voorbeeld: Sociosexual orientation (Simpson & Gangestad, 1991)
+Monogaam en trouw, zorgend vs. promiscu en veel partners
+
+De kwaliteit (waarheidsgehalte) van de theorie bepaalt hier natuurlijk de plus- en minpunten 
+
+
+31
+Combinatie
+In de praktijk gebruiken onderzoekers vaak een combinatie van de verschillende benaderingen, zodat de zwakheden van 1 benadering opgevangen kunnen worden met de sterktes van een andere benadering 
+
+Bv. Norman (1963) en Goldberg (1990) startten met de lexicale strategie om een verzameling variabelen te identificeren om op te nemen in hun theorie
+Gebruiken dan FA om het aantal te reduceren tot een meer bruikbaar aantal (five)
+
+Deze strategieën komen tegemoet aan twee belangrijke uitdagingen in onderzoek naar persoonlijkheid:
+Welke zijn de belangrijke domeinen van individuele verschillen?
+Hoe kunnen we orde aanbrengen in de belangrijke trekken die individuele verschillen beschrijven? Naar een omvattend systeem
+
+32
+2.2. Nomothetische trektaxonomieën van persoonlijkheid
+
+Sigmund Freud’s psycho-analytische theorie
+Eysenck’s Hierarchical Model of Personality 
+Cattell’s Taxonomy: The 16 Personality Factor System
+Circumplex Taxonomies of Personality: The Wiggins Circumplex (1979)
+Five-Factor Model 
+
+33
+2.2.1. Sigmund Freud: psycho-analyse
+
+Sigmund Freud: grondlegger van psychoanalyse
+Geboren 1856 in Tsjechië, op 4j naar Wenen
+Briljant student geneeskunde
+Prive praktijk voor zenuwziekten (psychiater)
+Ontwikkelde theorie over menselijke geest doorheen behandelen van patiënten
+Benadrukte rol van “onbewuste” en belang van vroege ontwikkeling in menselijke functioneren 
+1938: vlucht als joods intellectueel naar Londen, sterft in 1939
+
+
+34
+2.2.1. Sigmund Freud: psycho-analyse
+
+2 Krachtlijnen psychoanalyse (uitgebreide inleiding: zie elders; 2de bach)
+
+1.   Structuur van persoonlijkheid:
+	Persoonlijkheid is resultaat van de verhouding tussen 3 instanties:
+		1. Id: onbewuste wensen en verlangens (sex en agressie)
+		2. SuperEgo: de normen en waarden van de maatschappij
+		3. Ego: de manager: tracht beide te verzoenen, oa adhv 	defensiemechanismen, bv. verdringing, projectie
+
+2. 	Psychoseksuele ontwikkeling: Mensen doorlopen verschillende fasen in de ontwikkeling van seksualiteit, met telkens conflict
+		1. Orale fase (behoeftebevrediging – weaning - afhankelijkheid)(0-18mnd)
+		2. Anale fase (controle – zelf-controle – overgecontroleerd) (18m-3j)
+		3. Fallische fase (andere sexe – oedipus conflict - ouderrelaties) (3-5j)
+		5. Genitale fase: volwassen seksualiteit (vanaf puberteit)
+
+
+35
+2.2.1. Sigmund Freud: psycho-analyse
+
+Individuele verschillen tussen mensen treden op als gevolg van
+Verschillen in de sterkte van Id, SuperEgo, en Ego
+Verschillen in gebruik van defensiemechanismen
+Verschillen in doorlopen en oplossen van conflicten tijdens seksuele ontwikkeling
+
+Verschillen tussen mensen zijn als gevolg van intern, stabiele, en causale factoren
+Nomothetische trektheorie
+
+
+36
+2.2.2. Eysenck’s Hierarchical Model of Personality
+
+Hans Eysenck: geboren in Duitsland (1916)
+	Migreerde naar UK bij opkomst nazi regime
+			Werkte in Londen
+			Zeer productief, zeer vaak geciteerd
+			gestorven in 1998
+			
+			Recent echter in opspraak, o.m. omwille van link met 
+			tabaksindustrie en publicatie van twijfelachtig onderzoek
+			rond link persoonlijkheid-kanker 
+			
+
+37
+2.2.2. Eysenck’s Hierarchical Model of Personality
+
+Model van persoonlijkheid is gebaseerd op trekken die 
+hij in hoge mate als erfelijk beschouwde, en 
+die een psychofysiologische basis hebben
+
+Drie grote trekken met deze criteria:  
+Extraversie-Introversie (E), 
+Neuroticisme-Emotionele Stabiliteit (N), 
+Psychoticisme (P)
+Daaronder specifiekere trekken en acts
+38
+2.2.2. Eysenck’s Hierarchical Model of Personality
+Extraversie: Hoge scoorders hebben graag feestjes, hebben veel vrienden, hebben mensen rond zich nodig om tegen te praten, halen graag practical jokes uit, gedragen zich zorgeloos, gemakkelijk, hebben een hoog activiteitsniveau
+vs. Introversie: liever alleen, minder echte vrienden, meer serieus
+
+
+Neuroticisme: Hoge scoorders zijn zorgelijk, angstig, depressief, hebben slaapproblemen, hebben psychosomatische symptomen, zijn over-reactief op stress of negatieve gebeurtenissen, emotioneel labiel
+vs. Emotioneel stabiel: gematigder in emotionele reacties op stress, kalm, kalmeert snel 
+
+39
+2.2.2. Eysenck’s Hierarchical Model of Personality
+
+Psychoticisme: Hoge scoorders zijn solitair, hebben weinig empathie, zijn wreedaardig, zijn ongevoelig of halen plezier uit pijn en lijden van anderen, agressief, voorkeur voor het bizarre, ongewone, impulsief, antisociale trekken (specifieke act: wreedheden tegen dieren in kindertijd, verkiezen gewelddadige films, promiscue, meer kans op gewelddadige en ernstige voorvallen)
+40
+2.2.2. Eysenck’s Hierarchical Model of Personality
+Hierarchische Structuur van Eysenck’s Systeem
+Supertrekken bovenaan (P, E, N) 
+Minder brede trekken op tweede niveau, die voldoende samen voorkomen om gemeenschappelijke, onderliggende basis te hebben (bv. Agressief, avontuurlijk, angstig)
+Daaronder 3de niveau: habituele gedragingen (bv. ruzie, reizen, vermijdingsgedrag)
+Op laagste niveau zijn specifieke acts (gevecht, Irak, niet in lift willen stappen)
+
+ Voordeel: hierarchische structuur laat toe om elk gedrag te plaatsen in ruimer geheel 
+
+I
+III
+II
+IV
+41
+
+
+Welke van deze eigenschappen zijn op jou van toepassing?
+42
+2.2.2. Eysenck’s Hierarchical Model of Personality
+P					E				N
+agressief			avontuurlijk	angstig
+ruzie				reizen		vermijd
+vuistlag			Irak				lift
+
+
+
+
+
+
+
+
+
+43
+2.2.2. Eysenck’s Hierarchical Model of Personality
+Biologische basis = Kenmerken voor “basis” persoonlijkheidsdimensies
+1. Overerfbaarheid: P, E, en N hebben matige overerfbaarheid (maar andere trekken hebben dit ook) (30-50%) (maar zie later)
+2. Identificeerbaar fysiologisch substraat
+Extraversie-Introversie (E) (gebaseerd op Yerkes-Dodson law van optimale arousal):
+Extraverten zijn gekenmerkt door onderarousal van Ascending Reticular Activating System (ARAS): hersensysteem dat cortisolniveaus reguleert (hoewel geen duidelijk verband)
+ Zoeken extra stimulatie om hun arousalniveau te doen toenemen (sociale activiteiten, risico nemen, studeren met radio aan, etc…)
+Introverten zijn gekenmerkt door overarousal in ARAS:
+Vermijden extra stimulatie (vermijden sociale activiteiten, verkiezen rustige omgeving, studeren zonder afleidingen etc)
+N: meer veranderlijk CZS
+P: meer testosteron, minder MAO (inhibitor)
+Causale oorzaken voor persoonlijkheidstrekken
+44
+2.2.2. Eysenck’s Hierarchical Model of Personality
+Beperkingen
+Veel andere trekken tonen ook matige overerfbaarheid
+Eysenck heeft misschien sommige andere belangrijke trekken over het hoofd gezien
+
+Bijdragen
+Zeer grote invloed op persoonlijkheidspsychologie
+Vroege aandacht voor biologische factoren van persoonlijkheid
+
+
+45
+2.2.3. Cattell’s Taxonomy: The 16 Personality Factor System
+
+Raymond Cattell 
+(*geen familie van James Cattell)
+				
+				- geboren in UK 1905
+				- geloofde sterk in FA (werkte samen met Charles 			Spearman)
+				- (veel werk)
+				- later naar VS
+				- gestorven in 1998
+				
+46
+2.2.3. Cattell’s Taxonomy: 16PF
+Cattell’s doel was om de basistrekken van PH te identificeren en te meten (zoals in biochemie, ontdekking van vitamines)
+
+Werkte stelselmatig door telkens nieuwe, fundamentele trekken te benoemen en onderzoeken
+
+Geloofde sterk dat ware PH-trekken terug moeten gevonden worden in verschillende soorten gegevens (self-report – S-data, laboratorium onderzoek – T-date, in verschillende groepen…)
+
+Maakte oa gebruik van FA
+
+
+47
+2.2.3. Cattell’s Taxonomy: 16PF
+16 factoren
+Interpersoonlijke warmte	- achterdochtig
+Intelligentie			- dromerig, verstrooid
+Emotionele stabiliteit		- voorkomend	
+Dominantie			- onzekerheid
+Impulsiviteit			- radicaal, innovatief
+Conformisme			- op zelf gericht
+Recht voor de raap		- zelf-discipline	
+Gevoeligheid			- gespannen, angstig
+OPDRACHT: welke van deze kenmerken beschrijven jezelf?
+48
+2.2.3. Cattell’s Taxonomy: 16PF
+Belangrijkste kritiek
+
+Anderen zijn er niet altijd in geslaagd de 16 factoren te repliceren
+
+Volgens velen zijn een kleiner aantal factoren voldoende om de belangrijkste wijzen te vatten waarop mensen van elkaar kunnen verschillen
+49
+2.2.4. The Wiggins Circumplex
+Wiggins (1979), bouwde voort op werk van Timothy Leary (Harvard Professor en hippie goeroe)
+Startte met lexicale assumptie
+Trektermen specifiëren verschillende wijzen waarop mensen van elkaar kunnen verschillen: Interpersoonlijk, temperament (opvliegend), moraliteit (eerlijk), materieel (gierig), attitude (spiritueel), mentaal (slim), and fysiek (gezond)
+
+Wiggins spitste zich toe op interpersoonlijke trekken
+Definieert “interpersoonlijk” als verwijzende naar de interacties tussen mensen waarbij mensen dingen uitwisselen (gedachten, vragen, objecten, etc…)
+De twee factoren die sociale uitwisseling bepalen zijn liefde en status
+De dimensies van liefde en status definiëren de assen van Wiggins circumplex
+
+50
+
+
+Dominant, zelfverzekerd
+extravert
+vriendelijk
+pretentieloos
+onderdanig
+Introvert, afstandelijk
+Koud, ruziezoekend
+arrogant
+Opmerking: waarom ‘circumplex’?
+DUS: interpersoonlijke trekken geven aan hoe iemand is in relaties met anderen, en dit kan worden samengevat aan de hand van twee dimensies of trekken: 
+51
+Interpersoonlijke trekken: Waar in de circumplex?
+
+
+Dominant, zelfverzekerd
+extravert
+vriendelijk
+pretentieloos
+onderdanig
+Introvert, afstandelijk
+Koud, ruziezoekend
+arrogant
+52
+
+
+Dominant, zelfverzekerd
+extravert
+vriendelijk
+pretentieloos
+onderdanig
+Introvert, afstandelijk
+Koud, ruziezoekend
+arrogant
+Circumplex definieert verschillende soorten relaties tussen trekken: 
+	- Adjacency (naburig): pos r, bv. arrogant en dominant
+	- Bipolarity (bipolair): 180°; neg r, bv. dominant en onderdanig
+	- Independence (onafhankelijk): 90°; 0 r, bv. vriendelijk en dominant
+53
+2.2.4. The Wiggins Circumplex
+Wiggins circumplex heeft 3 belangrijke voordelen
+Geeft een expliciete definitie van wat “interpersoonlijk gedrag” inhoudt
+Specifieert de relaties tussen verschillende trekken  (adjacency, bipolarity, orthogonality)
+Geeft “gaten” aan in onderzoek over interpersoonlijk gedrag 
+
+Belangrijkste beperking: de interpersoonlijke trekken zijn gedefinieerd aan de hand van twee dimensies, andere trekken die hier niet onder vallen kunnen ook belangrijke interpersoonlijke elementen, gevolgen hebben
+	bv. betrouwbaar, flirterig
+
+54
+2.2.5. Five-Factor Model (Costa & McCrae, Goldberg)
+Postuleert 5 brede, orthogonale factoren die het domein van individuele verschillen in PH beschrijven en onderliggen: 
+
+N : Neuroticisme/Emotional Stabiliteit 
+E : Extraversie/introversie
+O : Openheid/Intellect 
+V : Vriendelijkheid/vijandigheid
+C : Gewetensvolheid (conscientieusheid) 
+
+Gebaseerd op combinatie van lexicale en statistische methode
+
+55
+Verschillende vragenlijsten peilen naar “Big five”. Zie bv. Begin dit college
+1. Enthousiast		E+
+2. Ruziezoekend		V-
+3. Betrouwbaar		C+
+4. Angstig			N+
+5. openstaand 		O+
+6. Stil				E-
+7. Vriendelijk		V+
+8. Chaotisch			C-
+9. Stabiel			N-
+10. Oncreatief		O-
+56
+Elke van de 5 dimensies wordt nog verder onderverdeeld in ‘facetten’, die deelaspecten van de trek weerspiegelen (facetten werden redelijk ad hoc bepaald)
+
+Voorbeeld: Neuroticisme
+zes facetten:
+- angst: ongerust, gauw bang, zorgelijk, gespannen
+- ergernis: neiging tot het ervaren van frustratie
+- depressie: ontvankelijk voor schuld, verdriet, hopeloosheid en haatgevoelens
+- schaamte: niet op gemak in gezelschap, verlegen, snel bekeken en beoordeeld, gevoelig voor spot
+- impulsiviteit: onvermogen om verlangens, impulsen en gevoelens te beheersen (geen goed N-facet want ook gelinkt aan E)
+- kwetsbaarheid: stressgevoelig,  kunnen moeilijk om met stress en spanning
+
+2.2.5. Five-Factor Model
+57
+Betekenis Neuroticisme
+ANGST: geneigdheid om negatieve ervaringen ter verwachten (anticipatief)
+ERGERNIS: geneigdheid om gebeurtenissen te interpreteren als negatief, niet zoals gewenst  (reactief)
+DEPRESSIE: geneigdheid tot langdurige negatieve gevoelens (duratief)
+SCHAAMTE: geneigdheid om negatieve appreciatie van  anderen te verwachten en te ervaren (anticipatief & reactief)
+KWETSBAARHEID: geneigdheid om met negatieve gevoelens te reageren op spanning en problemen (reactief)
+2.2.5. Five-Factor Model
+58
+Empirische evidentie voor Five-Factor Model
+Veelvuldig gerepliceerd:
+met adjectieven, trekwoorden
+
+met verschillende formats van items, vragenlijsten etc
+
+In verschillende doelgroepen (zelfs deels bij dieren, honden, oerang oetangs! Gosling et al. 2003, JPSP)
+
+Voorspelt verschillende belangrijke outcomes 
+
+In verschillende talen en culturen
+
+
+2.2.5. Five-Factor Model
+59
+HOEWEL: recente studie Gurven, von Rueden, et al.(2012)
+
+Typische proefgroepen: urbane, opgeleidde populaties
+Poging tot replicatie Big five in Tsimani stam Bolivia (n=600!): 
+Verzamelaar-landbouwer bevolkingsgroep, grotendeels analfabetisch
+Geen interne consistentie, geen externe validiteit met geobserveerd gedrag, geen similariteit met klassieke structuur!
+	 structuur persoonlijkheid toch niet invariant over culturen!? 
+
+ voornamelijk structuur in WEIRD people? (western, educated, industrialized, rich, democratic)
+
+2.2.5. Five-Factor Model
+60
+Empirische evidentie en validatie (voor belangrijke individuele verschillen in gedrag als gevolg van de B5 dimensies…)
+
+Extraversie
+Omvat sociale levendigheid EN sociale dominantie
+hoe extraverter, hoe meer men sociale aandacht ambieert
+Grotere impact op hun omgeving
+Extraverten blijken blijer te zijn (ervaren meer positieve emoties)
+
+Vriendelijkheid
+Hoge score: conflictresolutie
+Vermijden conflictsituaties
+Lage score: agressie
+Vlugger stem verheffen, met deuren slaan…
+2.2.5. Five-Factor Model
+61
+2.2.5. Five-Factor Model
+Gewetensvol
+Hoge score
+hogere punten, punctueler, stevige sociale relaties
+Lage score
+Slechtere prestatie op werk/school, riskant sexueel gedrag
+Emotionele stabiliteit
+Onstabiele mensen zijn vaker moe en wisselvallig, onstabiele relaties met partner, meer angst voor seksuele relaties, stress tijdens zwangerschap, meer negatieve gevoelens
+Stabiele mensen hebben hoger self-esteem; minder kans op depressie
+Openheid
+Hoge score: beter onthouden van dromen, openstaan voor nieuwe ervaringen, meer problemen met het negeren van eerder opgedane herinneringen…
+62
+
+
+Empirische evidentie voor Five-Factor Model
+Relaties met brain structure volumes (zie DeYoung2010), bv
+N: processing van threat, negatief affect ((o.a., amygdala, anterior cingulate cortex)
+E: processing van reward (medial orbitofrontal cortex)
+A: empathie, processen van mental states van anderen (bv. superior temporal sulcus)
+C: planning en controle van gedrag (laterale prefrontale cortex)
+
+Opm: brain volume?
+
+
+2.2.5. Five-Factor Model
+63
+
+
+Empirische evidentie voor Five-Factor Model
+Relaties met resting state brain connectivity (Adelstein et al., 2011)
+http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0027633
+
+
+2.2.5. Five-Factor Model
+64
+CONCLUSIE: 
+Trekbenadering kan dus gebruikt worden om verschillen tussen mensen in kaart te brengen 
+
+	Voorbeeld: 2 random studenten van enkele jaren terug
+2.2.5. Five-Factor Model
+65
+2.2.5. Five-Factor Model
+Trekbenadering kan ook gebruikt worden om groep of populatie te kenmerken 
+
+	Voorbeeld: gehele groep:
+66
+2.2.5. Five-Factor Model: beperkingen
+
+De vijfde factor: openheid: 
+Er blijft onduidelijkheid over de specifieke inhoud hiervan (openheid vs. intelligentie?) 
++ gebrekkige cross-culturele replicatie
+
+Is het five-factor model omvattend, volledig? 
+	Mogelijke “gaten” zijn positieve evaluatie, negatieve evaluatie, mannelijkheid/vrouwelijkheid, religiositeit of spiritualiteit, aantrekkelijkheid, sexualiteit, betrouwbaarheid
+
+	cfr. Big 6 model: voegt honesty/humility toe (HEXACO model)
+
+Cross-culturele replicatie?
+
+67
+2.2.5. Five-Factor Model: beperkingen
+
+Geen procesverklaring:
+Model beschrijft de grote dimensies, maar geeft geen verklaring waarom A bv leidt tot minder aggressie
+N tot meer negatieve gevoelens
+E tot meer sociaal gedrag
+Wat zijn de psychologische processen/mechanismen hierachter?
+
+Exclusieve steun op FA
+
+Uitgebreide evaluatie van assumpties en implicaties: zie later
+68
+2.2.5. Five-Factor Model: uitbreidingen
+
+HEXACO: voegt humility/honesty toe en ziet 6 factoren
+
+2 factoren (Digman, 1998; De Young, 2002):
+
+
+
+
+
+
+
+
+1 factor? (Van der Linden, 2010): 1 factor? Adaptiveness, conformity, social desirability?
+
+69
+OPDRACHT
+Bediscussieer:
+	Welk van de voorgestelde taxonomieën
+Eysenck P, E, N
+Cattell 16PF
+Wiggins’ circumplex
+Big 5
+theoretische kaders spreekt jou het meeste aan? Waarom wel/niet? Waarmee kon je jezelf het best kenmerken? 
+70
+2.2.6 Trekpsychologie: enkele nuanceringen
+Verschillende auteurs nemen meer genuanceerde positie in over trekken
+
+Bv. Allport: geen nomothetische maar “idiografische” trekken
+Trek-relevantie: niet alle trekken zijn even relevant voor iedereen
+DUS: sommige trekken  staan centraal in persoonlijkheid van individu, andere veel minder of spelen zelfs helemaal geen rol
+Bv bescheiden, extravert
+Gevolg: Niet iedereen is even centraal op dezelfde dimensies te plaatsen
+
+
+cfr verschillen tussen mensen in “traitedness”
+Sommigen vertonen sterk cross-situationeel consistent gedrag, anderen zijn meer variabel
+ toepasbaarheid van nomothetische benadering hangt af van individu tot individu
+71
+2.3. Act Frequentie trekvisie
+
+
+Act frequentie visie: trekken zijn beschrijvende samenvattingen van kenmerken van een persoon, geen assumptie van internaliteit of causaliteit
+bv. agressie
+
+	 Trekken beschrijven gedrag (maar verklaren het niet)
+
+	 Geen assumptie over causale, interne  karakter
+
+
+
+72
+2.3. Act Frequentie trekvisie
+Trek = louter samenvattende beschrijving van het gedrag van een persoon
+	 Geen assumptie over causale, interne  karakter
+
+Vertrekt van het standpunt dat trekken verwijzen naar verzamelingen van gedragingen:
+Iemand bezit een trek als deze veel daaronder vallende gedragingen stelt over een voldoende lange tijdsperiode
+
+		Bijvoorbeeld:
+		Iemand bezit de trek Vriendelijkheid als deze 
+			beleefd is, de deur openhoud, weinig ruzie maakt, etc…, 
+			meer als de gemiddelde persoon 
+
+		Extraversie:	vertelt mop tijdens gespannen moment, geeft grappige 	opmerkingen, lacht luidop, begint makkelijk met vreemden te praten
+
+
+73
+2.3. Act Frequentie trekvisie
+In principe geen assumptie of noodzaak voor 
+
+- relatieve cross-uitingsstabiliteit
+	(iemand kan altijd zelfde gedrag stellen bv)
+- relatieve cross-situationele stabiliteit
+	(mensen kunnen zich verschillend gedragen in twee aparte situaties)
+- Personality coefficient: correlatie (trek, gedrag) kan soms hoog, soms laag zijn
+
+Enkel dat, gemiddeld over een lange periode, individuele verschillen in de gemiddelde mate of frequentie van trekrelevant gedrag stellen consistent zijn over langere tijdsperioden
+	bv. week 1 en week 2
+
+	
+74
+Verschil Act frequentie visie en nomothetische trekvisie formeel uitgedrukt:
+
+Nomothetische trekvisie:
+Tpk: trek			p: persoon, k: trek, i: gedrag
+Gpi : gedrag
+
+trek als causale interne eigenschap
+Gpi = ikTpk + pi
+
+	 gedrag wordt verklaard aan de hand van al of niet hebben van bepaalde trek
+
+Act frequentie trekvisie:
+trek als zuiver descriptieve samenvatting
+Tpk = ikGpi
+	  trek wordt uitgelegd als verzameling van het al dan niet vertonen van bepaalde gedragingen
+75
+
+Hoe gaat men te werk in deze benadering om trekken te onderzoeken?: 
+3 stappen
+
+Act nominatie: identificeren welke gedragingen/acts behoren tot welke trekken
+
+Prototypicaliteits beoordelingen: welke gedragingen/acts zijn centraal of prototypisch voor elke trek 
+	bv. Agressiviteit: ruzie maken vs. niet meewerken 
+
+Vaststellen van gedrag/acts bij mensen: welke gedragingen stellen mensen in hun leven
+	= moeilijk
+		Methodes: retrograde zelfbeoordelingen, beoordelingen door 	anderen, experience sampling, observatie, …
+2.3. Act Frequentie trekvisie
+76
+Kritiekpunten
+
+Een act kan, naargelang de context en voorgeschiedenis, wijzen op verschillende trekken
+		bv. Ik sta erop dat jullie opletten: uit vriendelijkheid, uit dominantie, uit extraversie…
+	m.a.w. 1 gedrag kan in principe verschillende trekken verwijzen
+Wat met het niet stellen van gedragingen, en met gedragingen die niet direct observeerbaar (covert) zijn? 
+		bv. gevoelens
+Sommige trekken zijn complexer, niet zomaar te vatten in enkelvoudige gedragingen: 
+		bv. emotionele labiliteit 
+Atheoretisch: geen antwoord op welke trekken zijn nu de belangrijke, waarom verschillen mensen in hun act frequenties
+
+2.3. Act Frequentie trekvisie
+77
+MAAR Verwezenlijkingen en sterktes
+
+Geholpen in het expliciet benoemen van de gedragingen naar dewelke vele trekken verwijzen
+
+Vaststellen van gedragsfenomenen 
+	bv. Mensen die snel beslissingen nemen, zeggen ook sneller wat ze denken (impulsiviteit)
+
+Geholpen in de betekenis te achterhalen van moeilijk te bestuderen trekken zoals impulsiviteit, creativiteit
+
+Neemt aan dat mensen kunnen verschillen in gemiddelde gedragstendenzen, zonder daarvoor ook onderliggende trekken aan te nemen = empirisch gegeven
+2.3. Act Frequentie trekvisie
+78
+Samenvatting en evaluatie
+Trekpsychologie belichaamt een bepaalde manier om een fundamentele vraag met betrekking tot individuele verschillen in persoonlijkheid in te vullen
+
+De aannames vande trekpsychologie heeft belangrijke implicaties wat betreft de consistentie van menselijk gedrag
+
+Er zijn verschillende benaderingen om de belangrijke trekken te identificeren
+
+Onderzoekers maken dikwijls gebruik van verschillende benaderingen 
+
+Verschillende onderzoekers hebben verschillende voorstellen geformuleerd voor een omvattend systeem (theorie) of taxonomie van de belangrijkste persoonlijkheidstrekken
+79
