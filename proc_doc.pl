@@ -1,6 +1,6 @@
 # Author: Bob Boelhouwer, INT
 # Date: 2022-09-20
-#Usage: perl proc_doc.pl ../SABeD-Data/cursusmateriaal/*.DOC
+#Usage: perl proc_doc.pl ../SABeD-Data/cursusmateriaal/*.{DOC,docx}
 
 use strict;
 use warnings;
