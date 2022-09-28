@@ -15,98 +15,919 @@ Academiejaar 2021-2022
 1 Inleiding
 1.1 Wat is genetica? . . . . . . . . . . . . . . . . . . . . . . . . . . .
 1.2 Het genoom . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2 De
+2.1
+2.2
+2.3
+2.4
+
+experimenten van Mendel
+Situering van Mendels werk . . . . .
+Monohybride kruisingen . . . . . . .
+Mendeliaanse overerving bij de mens
+Dihybride kruisingen . . . . . . . . .
 
 7
 7
 7
 
-2 De experimenten van Mendel
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
 11
-2.1 Situering van Mendels werk . . . . . . . . . . . . . . . . . . . . . 11
-2.2 Monohybride kruisingen . . . . . . . . . . . . . . . . . . . . . . . 12
-2.3 Mendeliaanse overerving bij de mens . . . . . . . . . . . . . . . . 17
-2.4 Dihybride kruisingen . . . . . . . . . . . . . . . . . . . . . . . . . 20
+11
+12
+17
+20
+
 3 Aanvullingen op Mendel
+3.1 Interacties tussen allelen . . . . . . . . . . . . . .
+3.2 Interacties tussen genen . . . . . . . . . . . . . .
+3.2.1 Polygene overerving . . . . . . . . . . . .
+3.2.2 De erfelijke basis van gedrag . . . . . . .
+3.2.3 Interactie tussen genen in metabole ketens
+
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+
 25
-3.1 Interacties tussen allelen . . . . . . . . . . . . . . . . . . . . . . . 25
-3.2 Interacties tussen genen . . . . . . . . . . . . . . . . . . . . . . . 28
-3.2.1 Polygene overerving . . . . . . . . . . . . . . . . . . . . . 28
-3.2.2 De erfelijke basis van gedrag . . . . . . . . . . . . . . . . 31
-3.2.3 Interactie tussen genen in metabole ketens . . . . . . . . . 33
+25
+28
+28
+31
+33
+
 4 Chromosomen
+4.1 Geslachtsgekoppelde overerving . . . . . . . .
+4.1.1 Geslachtsgekoppelde afwijkingen . . .
+4.2 Genetische recombinatie door stukuitwisseling
+4.3 Genkartering bij de mens . . . . . . . . . . .
+4.4 Cytoplasmatische overerving . . . . . . . . . .
+4.5 Chromosomale afwijkingen . . . . . . . . . .
+4.5.1 Aneuploı̈die . . . . . . . . . . . . . . .
+4.5.2 Wijzigingen in chromosoomstructuur .
+4.5.3 Detectie van erfelijke afwijkingen . . .
+4.6 Polyploı̈die . . . . . . . . . . . . . . . . . . .
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
 39
-4.1 Geslachtsgekoppelde overerving . . . . . . . . . . . . . . . . . . . 39
-4.1.1 Geslachtsgekoppelde afwijkingen . . . . . . . . . . . . . . 41
-4.2 Genetische recombinatie door stukuitwisseling . . . . . . . . . . . 45
-4.3 Genkartering bij de mens . . . . . . . . . . . . . . . . . . . . . . 50
-4.4 Cytoplasmatische overerving . . . . . . . . . . . . . . . . . . . . . 52
-4.5 Chromosomale afwijkingen . . . . . . . . . . . . . . . . . . . . . 54
-4.5.1 Aneuploı̈die . . . . . . . . . . . . . . . . . . . . . . . . . . 54
-4.5.2 Wijzigingen in chromosoomstructuur . . . . . . . . . . . . 55
-4.5.3 Detectie van erfelijke afwijkingen . . . . . . . . . . . . . . 59
-4.6 Polyploı̈die . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 61
-5 Mutaties en herstel
+39
+41
+45
+50
+52
+54
+54
+55
+59
+61
+
+.
+.
+.
+.
+
 65
-5.1 Verschillende types mutaties . . . . . . . . . . . . . . . . . . . . . 65
-5.2 Mutaties in meercellige organismen en kanker . . . . . . . . . . . 71
-5.3 Oorzaken van mutaties . . . . . . . . . . . . . . . . . . . . . . . . 78
-5.4 Herstel van mutaties . . . . . . . . . . . . . . . . . . . . . . . . . 80
+65
+71
+78
+80
+
+5 Mutaties en herstel
+5.1 Verschillende types mutaties . . . .
+5.2 Mutaties in meercellige organismen
+5.3 Oorzaken van mutaties . . . . . . .
+5.4 Herstel van mutaties . . . . . . . .
 3
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+. . . . . .
+en kanker
+. . . . . .
+. . . . . .
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
+
+.
+.
+.
+.
 
  4
 
 Inhoudsopgave
 
 6 Populatiegenetica
+6.1 Wat is populatiegenetica? . . . . . . . .
+6.2 Evolutie . . . . . . . . . . . . . . . . . .
+6.2.1 Niet-willekeurige paring . . . . .
+6.2.2 Genetische drift . . . . . . . . . .
+6.3 Evolutie door natuurlijke selectie . . . .
+6.4 Het behoud van variatie in een populatie
+6.5 Selectie op continue variatie . . . . . . .
+6.6 Grenzen aan selectie . . . . . . . . . . .
+6.7 Aanwijzingen voor evolutie . . . . . . .
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
 85
-6.1 Wat is populatiegenetica? . . . . . . . . . . . . . . . . . . . . . . 85
-6.2 Evolutie . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 87
-6.2.1 Niet-willekeurige paring . . . . . . . . . . . . . . . . . . . 88
-6.2.2 Genetische drift . . . . . . . . . . . . . . . . . . . . . . . . 88
-6.3 Evolutie door natuurlijke selectie . . . . . . . . . . . . . . . . . . 89
-6.4 Het behoud van variatie in een populatie . . . . . . . . . . . . . . 93
-6.5 Selectie op continue variatie . . . . . . . . . . . . . . . . . . . . . 95
-6.6 Grenzen aan selectie . . . . . . . . . . . . . . . . . . . . . . . . . 96
-6.7 Aanwijzingen voor evolutie . . . . . . . . . . . . . . . . . . . . . 97
+85
+87
+88
+88
+89
+93
+95
+96
+97
+
 7 De genetica van bacteriën en virussen
+7.1 Inleiding . . . . . . . . . . . . . . . . .
+7.2 Conjugatie . . . . . . . . . . . . . . . .
+7.2.1 Het mechanisme van conjugatie
+7.2.2 Conjugatie en genkartering . .
+7.2.3 Gentransfer via plasmiden . . .
+7.3 Transformatie . . . . . . . . . . . . . .
+7.4 Virussen . . . . . . . . . . . . . . . . .
+7.4.1 Bacteriofagen . . . . . . . . . .
+7.4.2 Transductie . . . . . . . . . . .
+7.4.3 Retrovirussen . . . . . . . . . .
+7.5 Transposons . . . . . . . . . . . . . . .
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
 101
-7.1 Inleiding . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 101
-7.2 Conjugatie . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 102
-7.2.1 Het mechanisme van conjugatie . . . . . . . . . . . . . . . 102
-7.2.2 Conjugatie en genkartering . . . . . . . . . . . . . . . . . 104
-7.2.3 Gentransfer via plasmiden . . . . . . . . . . . . . . . . . . 105
-7.3 Transformatie . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 105
-7.4 Virussen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 107
-7.4.1 Bacteriofagen . . . . . . . . . . . . . . . . . . . . . . . . . 107
-7.4.2 Transductie . . . . . . . . . . . . . . . . . . . . . . . . . . 108
-7.4.3 Retrovirussen . . . . . . . . . . . . . . . . . . . . . . . . . 109
-7.5 Transposons . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 109
+101
+102
+102
+104
+105
+105
+107
+107
+108
+109
+109
+
 8 Genregulatie
+8.1 Inleiding . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+8.1.1 Eukaryoten versus prokaryoten . . . . . . . . . . . . .
+8.1.2 Transcriptiefactoren . . . . . . . . . . . . . . . . . . .
+8.2 Genregulatie bij prokaryoten . . . . . . . . . . . . . . . . . .
+8.2.1 Basisprincipes . . . . . . . . . . . . . . . . . . . . . . .
+8.2.2 Het lac operon . . . . . . . . . . . . . . . . . . . . . .
+8.2.3 Ontdekking van het lac operon door Jacob en Monod
+8.2.4 Het trp operon . . . . . . . . . . . . . . . . . . . . . .
+8.3 Genregulatie bij eukaryoten . . . . . . . . . . . . . . . . . . .
+8.3.1 Basisprincipes . . . . . . . . . . . . . . . . . . . . . . .
+8.3.2 Activatie van transcriptie door RNA polymerase . . .
+8.3.3 Regulatie op niveau van chromatine . . . . . . . . . .
+8.3.4 Post-transcriptionele regulatie . . . . . . . . . . . . . .
+8.3.5 Regulatie van proteı̈ne afbraak . . . . . . . . . . . . .
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
 117
-8.1 Inleiding . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 117
-8.1.1 Eukaryoten versus prokaryoten . . . . . . . . . . . . . . . 117
-8.1.2 Transcriptiefactoren . . . . . . . . . . . . . . . . . . . . . 117
-8.2 Genregulatie bij prokaryoten . . . . . . . . . . . . . . . . . . . . 118
-8.2.1 Basisprincipes . . . . . . . . . . . . . . . . . . . . . . . . . 118
-8.2.2 Het lac operon . . . . . . . . . . . . . . . . . . . . . . . . 120
-8.2.3 Ontdekking van het lac operon door Jacob en Monod . . 121
-8.2.4 Het trp operon . . . . . . . . . . . . . . . . . . . . . . . . 123
-8.3 Genregulatie bij eukaryoten . . . . . . . . . . . . . . . . . . . . . 124
-8.3.1 Basisprincipes . . . . . . . . . . . . . . . . . . . . . . . . . 124
-8.3.2 Activatie van transcriptie door RNA polymerase . . . . . 124
-8.3.3 Regulatie op niveau van chromatine . . . . . . . . . . . . 125
-8.3.4 Post-transcriptionele regulatie . . . . . . . . . . . . . . . . 127
-8.3.5 Regulatie van proteı̈ne afbraak . . . . . . . . . . . . . . . 131
+117
+117
+117
+118
+118
+120
+121
+123
+124
+124
+124
+125
+127
+131
+
 9 Ontwikkelingsgenetica
+9.1 Inleiding . . . . . . . . . . . . . . . . . . . . . . . .
+9.2 Celdeling . . . . . . . . . . . . . . . . . . . . . . .
+9.2.1 Van zygote naar embryo . . . . . . . . . . .
+9.2.2 Embryonale ontwikkeling in ongewervelden
+9.2.3 Embryonale ontwikkeling in gewervelden . .
+9.2.4 Ontwikkeling bij planten . . . . . . . . . . .
+9.3 Celdifferentiatie . . . . . . . . . . . . . . . . . . . .
+9.3.1 Celbestemming en celdifferentiatie . . . . .
+
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+
 133
-9.1 Inleiding . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 133
-9.2 Celdeling . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 133
-9.2.1 Van zygote naar embryo . . . . . . . . . . . . . . . . . . . 133
-9.2.2 Embryonale ontwikkeling in ongewervelden . . . . . . . . 134
-9.2.3 Embryonale ontwikkeling in gewervelden . . . . . . . . . . 134
-9.2.4 Ontwikkeling bij planten . . . . . . . . . . . . . . . . . . . 134
-9.3 Celdifferentiatie . . . . . . . . . . . . . . . . . . . . . . . . . . . . 134
-9.3.1 Celbestemming en celdifferentiatie . . . . . . . . . . . . . 134
+133
+133
+133
+134
+134
+134
+134
+134
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
 
  Inhoudsopgave
 
@@ -119,27 +940,71 @@ Inhoudsopgave
 9.5
 9.6
 
-Moleculaire mechanismen van celbestemming en celdifferentiatie . . . . . . . . . . . . . . . . . . . . . . . . . . . . 136
-9.3.3 Klonen . . . . . . . . . . . . . . . . . . . . . . . . . . . . 137
-Patroonvorming . . . . . . . . . . . . . . . . . . . . . . . . . . . . 139
-9.4.1 Ontwikkeling van een zygote tot larve in Drosophila . . . 139
-9.4.2 Voor/achter as in Drosophila . . . . . . . . . . . . . . . . 139
-9.4.3 Boven/onder as in Drosophila . . . . . . . . . . . . . . . . 140
-9.4.4 Segmentatie in Drosophila . . . . . . . . . . . . . . . . . . 141
-9.4.5 Differentiatie van segmenten in Drosophila . . . . . . . . 141
-Morfogenese . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 142
-Invloed van omgeving op de ontwikkeling . . . . . . . . . . . . . 143
+Moleculaire mechanismen van celbestemming en celdifferentiatie . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+9.3.3 Klonen . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Patroonvorming . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+9.4.1 Ontwikkeling van een zygote tot larve in Drosophila . . .
+9.4.2 Voor/achter as in Drosophila . . . . . . . . . . . . . . . .
+9.4.3 Boven/onder as in Drosophila . . . . . . . . . . . . . . . .
+9.4.4 Segmentatie in Drosophila . . . . . . . . . . . . . . . . . .
+9.4.5 Differentiatie van segmenten in Drosophila . . . . . . . .
+Morfogenese . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Invloed van omgeving op de ontwikkeling . . . . . . . . . . . . .
 
 10 Evolutie van ontwikkeling
-145
-10.1 Basisconcepten in evolutie van ontwikkeling . . . . . . . . . . . . 145
-10.2 Hoe mutaties tot een nieuw fenotype kunnen leiden . . . . . . . . 146
-10.3 Hoe bestaande genen een nieuwe functie kunnen krijgen . . . . . 150
-10.4 Convergente evolutie: mutaties in zelfde genen? . . . . . . . . . . 150
-10.5 Duplicatie van genen en divergentie . . . . . . . . . . . . . . . . . 151
-10.6 Case-studie: verscheidenheid aan ogen in de dierenwereld . . . . 152
+10.1 Basisconcepten in evolutie van ontwikkeling . . . . . . . .
+10.2 Hoe mutaties tot een nieuw fenotype kunnen leiden . . . .
+10.3 Hoe bestaande genen een nieuwe functie kunnen krijgen .
+10.4 Convergente evolutie: mutaties in zelfde genen? . . . . . .
+10.5 Duplicatie van genen en divergentie . . . . . . . . . . . . .
+10.6 Case-studie: verscheidenheid aan ogen in de dierenwereld
 11 Oefeningen
 
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+
+136
+137
+139
+139
+139
+140
+141
+141
+142
+143
+145
+145
+146
+150
+150
+151
+152
 155
 
  6
@@ -934,11 +1799,9 @@ Dit toont aan dat er een interactie is tussen het effect van de omgeving en het
 genotype.
 
 3.2
-
-Interacties tussen genen
-
 3.2.1
 
+Interacties tussen genen
 Polygene overerving
 
 Mendeliaanse kenmerken zijn kenmerken die worden beı̈nvloed door één enkel
@@ -1803,16 +2666,13 @@ Hoofdstuk 4. Chromosomen
 
 Figuur 4.9: Cytohets en het ontstaan van cytoplasmatische mutaties
 
+4.5
+4.5.1
 aneuploı̈die
 trisomie
 monosomie
 
-4.5
-
 Chromosomale afwijkingen
-
-4.5.1
-
 Aneuploı̈die
 
 Wanneer een individu één chromosoom te veel of te weinig heeft spreekt men
@@ -3462,11 +4322,9 @@ Toch zijn er een aantal mechanismen waarmee bacteriën in zeldzame gevallen
 toch genetisch materiaal kunnen uitwisselen.
 
 7.2
-
-Conjugatie
-
 7.2.1
 
+Conjugatie
 Het mechanisme van conjugatie
 
 De ontdekking van conjugatie
@@ -3673,11 +4531,9 @@ teweeggebracht werd door DNA. Daarmee toonden ze aan dat DNA de drager
 van het erfelijke materiaal is.
 
 7.4
-
-Virussen
-
 7.4.1
 
+Virussen
 Bacteriofagen
 
 Lytische cyclus
@@ -3989,11 +4845,9 @@ Hoofdstuk 7. De genetica van bacteriën en virussen
 
 Genregulatie
 8.1
-
-Inleiding
-
 8.1.1
 
+Inleiding
 Eukaryoten versus prokaryoten
 
 Het genoom bestaat uit talrijke genen die niet allemaal tegelijk actief zijn.
@@ -4053,6 +4907,8 @@ genen door te interageren met andere transcriptiefactoren. Ongeveer 10 % van
 de genen in ons genoom coderen voor transcriptiefactoren die de transcriptie
 van andere genen reguleren.
 
+8.2
+8.2.1
 operon
 
 promotor
@@ -4060,12 +4916,7 @@ promotor
 repressor
 negatieve controle
 
-8.2
-
 Genregulatie bij prokaryoten
-
-8.2.1
-
 Basisprincipes
 
 Bij prokaryoten zijn genen die betrokken zijn bij een bepaalde metabole keten
@@ -4303,11 +5154,9 @@ Hoofdstuk 8. Genregulatie
 Figuur 8.5: Regulatie van het trp-operon bij E. coli.
 
 8.3
-
-Genregulatie bij eukaryoten
-
 8.3.1
 
+Genregulatie bij eukaryoten
 Basisprincipes
 
 Genregulatie bij eukaryoten is veel complexer dan bij prokaryoten. In tegenstelling tot prokaryoten zijn genen bij eukaryoten standaard inactief. Er zijn
@@ -4583,11 +5432,14 @@ een voor- en achterkant, een boven- en onderzijde en een reeks segmenten
 het lichaam op een eigen manier ontwikkelen en vorm krijgen (morfogenese).
 
 9.2
-
-Celdeling
-
 9.2.1
 
+celdifferentiatie
+
+patroonvorming
+morfogenese
+
+Celdeling
 Van zygote naar embryo
 
 De zygote is een bijzonder grote cel. Kort na de bevruchting zal de zygote talrijke celdelingen ondergaan zonder dat de cel in grootte toeneemt. De talrijke
@@ -4600,11 +5452,6 @@ te nemen. De sturing van de eerste delingen van de zygote is dus maternaal
 bepaald omdat ze gestuurd wordt door mRNA dat gevormd werd door de eicel
 voordat de eicel bevrucht was door de zaadcel.
 133
-
-celdifferentiatie
-
-patroonvorming
-morfogenese
 
 blastomeren
 
@@ -4659,11 +5506,9 @@ Bij verwonding kan een parenchymcel daardoor differentiëren tot een schorscel
 of tot vaatweefsel.
 
 9.3
-
-Celdifferentiatie
-
 9.3.1
 
+Celdifferentiatie
 Celbestemming en celdifferentiatie
 
 Tijdens de ontwikkeling van het embryo zullen identieke cellen zich differentiëren
@@ -4816,11 +5661,9 @@ Figuur 9.5: Reproductief klonen door somatische cel transfer
 embryonale stamcellen in de toekomst misschien vermeden worden.
 
 9.4
-
-Patroonvorming
-
 9.4.1
 
+Patroonvorming
 Ontwikkeling van een zygote tot larve in Drosophila
 
 Een eicel is in essentie een radiaal symmetrische cel en heeft dus geen voor- of

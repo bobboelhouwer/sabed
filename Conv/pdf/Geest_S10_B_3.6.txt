@@ -276,8 +276,9 @@ door
 .
 
  Dwarsverbanden
-▶ X’
+▶
 
+X’
 :
 een groep woorden die sterk samenhoren (omdat ze samen een
 betekeniseenheid vormen) en als geheel een functie vervullen
@@ -329,8 +330,9 @@ wordt opgenomen
 .
 
  Dwarsverbanden
-▶ X’
+▶
 
+X’
 :
 een groep woorden die sterk samenhoren (omdat ze samen een
 betekeniseenheid vormen) en als geheel een functie vervullen
@@ -386,17 +388,21 @@ hebben
 .
 
  Dwarsverbanden
-▶ X’
+▶
 
+X’
 :
 een groep woorden die sterk samenhoren (omdat ze samen een
 betekeniseenheid vormen) en als geheel een functie vervullen
 die doorgaans door een enkel woord van de woordsoort X
 wordt opgenomen
+▶
+
+▶
+
 werkwoordelijke uitdrukking: de draak steken (met), de indruk
 hebben
-▶ voornaamwoordelijke uitdrukking: wat voor een
-▶
+voornaamwoordelijke uitdrukking: wat voor een
 
 .
 
@@ -443,18 +449,23 @@ hebben
 .
 
  Dwarsverbanden
-▶ X’
+▶
 
+X’
 :
 een groep woorden die sterk samenhoren (omdat ze samen een
 betekeniseenheid vormen) en als geheel een functie vervullen
 die doorgaans door een enkel woord van de woordsoort X
 wordt opgenomen
+▶
+
+▶
+▶
+
 werkwoordelijke uitdrukking: de draak steken (met), de indruk
 hebben
-▶ voornaamwoordelijke uitdrukking: wat voor een
-▶ prepositionele uitdrukking: aan de hand van
-▶
+voornaamwoordelijke uitdrukking: wat voor een
+prepositionele uitdrukking: aan de hand van
 
 .
 
@@ -501,19 +512,25 @@ hebben
 .
 
  Dwarsverbanden
-▶ X’
+▶
 
+X’
 :
 een groep woorden die sterk samenhoren (omdat ze samen een
 betekeniseenheid vormen) en als geheel een functie vervullen
 die doorgaans door een enkel woord van de woordsoort X
 wordt opgenomen
+▶
+
+▶
+▶
+▶
+
 werkwoordelijke uitdrukking: de draak steken (met), de indruk
 hebben
-▶ voornaamwoordelijke uitdrukking: wat voor een
-▶ prepositionele uitdrukking: aan de hand van
-▶ voegwoordelijke uitdrukking: op voorwaarde dat
-▶
+voornaamwoordelijke uitdrukking: wat voor een
+prepositionele uitdrukking: aan de hand van
+voegwoordelijke uitdrukking: op voorwaarde dat
 
 .
 
@@ -560,20 +577,27 @@ hebben
 .
 
  Dwarsverbanden
-▶ X’
+▶
 
+X’
 :
 een groep woorden die sterk samenhoren (omdat ze samen een
 betekeniseenheid vormen) en als geheel een functie vervullen
 die doorgaans door een enkel woord van de woordsoort X
 wordt opgenomen
+▶
+
+▶
+▶
+▶
+▶
+
 werkwoordelijke uitdrukking: de draak steken (met), de indruk
 hebben
-▶ voornaamwoordelijke uitdrukking: wat voor een
-▶ prepositionele uitdrukking: aan de hand van
-▶ voegwoordelijke uitdrukking: op voorwaarde dat
-▶ bijwoordelijke uitdrukking: af en toe
-▶
+voornaamwoordelijke uitdrukking: wat voor een
+prepositionele uitdrukking: aan de hand van
+voegwoordelijke uitdrukking: op voorwaarde dat
+bijwoordelijke uitdrukking: af en toe
 
 .
 

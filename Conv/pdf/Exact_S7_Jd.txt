@@ -144,13 +144,12 @@ x1[k]
 1/4
 
 [ + 1]
-
- [ + 1]
-
-=
-
 0
+=
 1/4
++ 1]
+
+ [
 
   = 1 0
  =
@@ -188,42 +187,56 @@ x1[k]
  30/10/2019
 
 Voorbeeld (2)
+=
+ 
+
+
+
+= 
+ 
+  = 
+u[k]
+
 1 −1
+⇔
 1 1
-⇔  =
+1 5
+3
+  =
+8 −3 −5
+1 1
+ =
+2 1
+= 1 −1
+=
+
+Kies
+
+1/2
+
+
+
+=
+
++
+
+
+
+1
+−1
+
+1
 zodat x[k] = P w[k]
- −1 1
-1 1
 1
 [ + 1]
 5/8
 3/8
-5
-3
-=    =
- 
 =
 −3/8 −5/8
-8 −3 −5
  [ + 1]
-1 1
-=   =
 []
- 
    = 1 −1
-2 1
  []
-  =  = 1 −1
-
-Kies
-
-u[k]
-
-=
-
-1/2
-
-+
 
 w1[k+1]
 
@@ -429,22 +442,25 @@ basis {v1 , … , vn}
 λ1k w1[0]
 ⋮
 •
+=
 = P-1 x[k] is de coördinatenvector van x[k] in de
 k
 λn wn[0]
 basis {v1 , … , vn}
 • y[k] = c x[k] = (c v1) w1[0] λ1k + … + (c vn) wn[0] λnk
 is een gewogen som van exponentiële functies in k
-Λk w[0] =
+Λk w[0]
 
 Nulingangsresponsie
 w2[0]v2
 v2
 λ2 w2[0] v2
+λ22
 
 x[0]
 
-λ22 w2[0] v2
+w2[0] v2
+
 λ23 w2[0] v2
 λ24 w2[0] v2
 
@@ -508,25 +524,29 @@ y[k] = (c v1) w1[0] λ1k + … + (c vn) wn[0] λnk
 (cc is een reële rijvector; !E* = 1 E 2 *E34 )
 ' !E*
 
-* 0 ,G
+*
 
-+ !E*
+0 ,G + !E*
+
+*
+
+0 ,G
 
 = 2 ' Re !E*
-
-* 0 ,G
 
 = 21 E ' Re 2 *E34 * 0 ,G
 = 21 E Re 2 *E34 * 0 ',G
 
-* 0 ,G
+*
+
+0 ,G
 
 Complexe eigenwaarden (2)
 • Noem
 
-* 0 ' ,G = I 2
+*
 
-*J
+0 ' ,G = I 2 *J
 
 • Bijdrage door complexe eigenwaarde in y[k] is
 product van:
@@ -582,32 +602,27 @@ M en A hebben dezelfde K.P. want gelijkvormig
 
  30/10/2019
 
-[ + 1]
-
- [ + 1]
-
-⋮
-
-% [ + 1]
-
 O?
 Waarom die Ã en &
-[]
 
+[ + 1]
+[]
 0
++ 1]
+ []
 0
 ⋮
+⋮
+=
 + ⋮  []
 0
+% [ + 1]
 % []
 1
-% []
- []
-
-=
-
 % [ + 1]
+% []
 y[k] = 0̃ w1[k] + 0̃ w2[k] + ... + 0̃% wn[k] + +O u[k]
+ [
 
 Constructie van Q
 •
@@ -618,9 +633,9 @@ M en N&
 
 •
 
-2de vergelijking:
+2de
 
-T
+vergelijking: T
 
 ⋯ T%
 
@@ -635,32 +650,35 @@ T
  30/10/2019
 
 Constructie van Q
-• T% = & ⇒   T ⋯ T% & =
-U T ⋯ T% − PQR & PQ & ⋯ PQ% &
-• Kolom n: T% =  & + PQ% &
-• Kolom n-1: T%V =  T% + PQ% &
+• T% = & ⇒   T ⋯ T% &
+U T ⋯ T% − PQR &
+• Kolom n: T% =  & + PQ%
+• Kolom n-1: T%V =  T% +
+
+=
+PQ & ⋯ PQ% &
+&
+PQ% &
+
 • Kolom 2: TW =  TV + PQ &
-
-[ + 1]
-
- [ + 1]
-
-⋮
-
-% [ + 1]
 
 O?
 Waarom die Ã en &
-[]
 
+[ + 1]
++ 1]
+⋮
 =
-
+% [ + 1]
 % [ + 1]
+ [
 
 w1[k+1] = w2[k]
 w2[k+1] = w3[k]
  
 wn-1[k+1] = wn[k]
+
+[]
 
 0
 0
@@ -758,14 +776,15 @@ K.P.: −
 •
 
 X
-−!
+−
 Y
+
+!
 
 X
-+!
 Y
 
-+
++! +
 
 PQ = 0 ; PQR = −
 1
@@ -776,12 +795,19 @@ TW =  TV + PQ & =
 [
 
 Z
-[
-= ! − = ! −
-[[-
+[-
 
 5
 −3
+
+= ! −
+
+[
+[-
+
+= ! −
+
+-
 
 1
 3 1
@@ -811,6 +837,15 @@ M= 0
 M = =0
 +O =  
 
+Met Q =
+u[k]
+
+
+
++
+
+1
+
 −1
 
 1
@@ -821,14 +856,7 @@ M = =0
 
 1 1
 , canonieke vorm:
- −1 1
-
-Met Q =
-u[k]
-
-1
-
-+
+−1 1
 
 y[k+2]
 
@@ -1021,12 +1049,14 @@ a   b c[ − b]
 
 efd
 d
-= ∑efd   b ` c[ − b]
-= ∑d
-efd   b ℎ[ − b]
+∑efd  
+∑d
+efd  
 
- 
- 
+b ` c[ − b]
+  =
+  =
+b ℎ[ − b]
    =    ∗ ℎ[]
 
 Lineair
@@ -1073,12 +1103,17 @@ k>0
 
 Nulingangsresponsie
 
+•
+•
+•
+•
+
 Nultoestandsresponsie
 
-• k= 0 : y[k] = d δ[0] = d
-• u[k] = δ[k] ⇒ in 2de term blijft enkel index j=0 staan
-• k > 0: enkel 2de term: y[k] = cAk-1b
-• k = 0:
+k= 0 : y[k] = d δ[0] = d
+u[k] = δ[k] ⇒ in 2de term blijft enkel index j=0 staan
+k > 0: enkel 2de term: y[k] = cAk-1b
+k = 0:
 y[k] = d
 
 24
@@ -1100,50 +1135,43 @@ h[0] = d = 0
 ℎ  = '̅ 
   E
 (= '
+= 2
+= 2
 
 
-
-= 2
-
-−2
-
-= 2
-
-−2
 
 =
 
 
 
-E
-
- & = ' E &)
-
+& = ' E &)
+1n
 1/2
 0 E
+2
+−2
+1n
 0
 −1/2
+2
+1n
 ()E
 0
+2
+−2
+0
+( )E 1n
+2
+
+E
 
 − −
 
+
+
 
 
-0
-
 E
-
-( )E
-
-1n
-2
-1n
-2
-1n
-2
-1n
-2
 
 voor k>0 ; h[0]=0
 
@@ -1151,11 +1179,13 @@ voor k>0 ; h[0]=0
 
 Impulsresponsie van 1ste orde systeem
 u[k]
-b
 
 x[k+1]
 
 +
+
+b
+
 +
 
 D
@@ -1174,13 +1204,11 @@ k=0: u[0] = 1; x[1]=b ; y[k]=0
 k=1: u[1] = 0 ; x[2] = λ x[1] = b λ ; y[1] = cb
 k=2: u[2] = 0 ; x[3] = λ x[2] = b λ2 ; y[2] = cbλ
 u[k] = 0 ; x[k+1] = bλk ; y[k] = cbλk-1 voor k>0 ; y[0]=0
-op
+y[k] = cbλk-1 ℎ  = 2
 
-ℎ  = 2 
+
 
 E
-
-y[k] = cbλk-1 - q c  voor k≥0
 
 − 2 −
 
@@ -1188,10 +1216,13 @@ E
 
 =
 
+op
+c
+q
+E
 
 
-E
-
+voor k≥0
 − −
 
 E

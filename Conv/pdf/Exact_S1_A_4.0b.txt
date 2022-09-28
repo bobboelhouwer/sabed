@@ -9,27 +9,36 @@ Voor de reactie
 2 NO2(g)
 
 beschikken we over volgende gegevens:
-
-•
-•
-
 initiële NO conc. (mol.l-1)
+1
+1
+1
+2
+3
+•
+•
 
 initiële O2 conc. (mol.l-1)
 
+10-3
+10-3
+10-3
+10-3
+10-3
+
+1
+2
+3
+3
+3
+
 initiële RS (mol.l-1s -1)
 
-1 10-3
-1 10-3
-1 10-3
-2 10-3
-3 10-3
-
-1 10-3
-2 10-3
-3 10-3
-3 10-3
-3 10-3
+10-3
+10-3
+10-3
+10-3
+10-3
 
 7 10-6
 14 10-6
@@ -166,22 +175,26 @@ minuut.
 
 (C2O42-)0 (mol.l-1)
 
+0,105
+0,105
+0,052
+0,052
+
+0,15
+0,30
+0,30
+0,15
+
 Initiële RS (mol.l-1min-1)
+1,8
+7,1
+3,5
+8,9
 
-0,105
-0,105
-0,052
-0,052
-
-0,15
-0,30
-0,30
-0,15
-
-1,8 10-5
-7,1 10-5
-3,5 10-5
-8,9 10-6
+10-5
+10-5
+10-5
+10-6
 
 Bepaal de orde van de reactie in HgCl2, in C2O42-.
 Wat is de waarde van de snelheidsconstante k?

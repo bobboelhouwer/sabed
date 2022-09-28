@@ -38,8 +38,6 @@ C6H5OH
 
 C6H5F
 
-Molecuulmassa
-
 92
 
 94
@@ -70,6 +68,8 @@ H2O (g/100 mL, 25°C)
 8.2
 
 0.2
+
+Molecuulmassa
 
 Fenolen en anilinen
 

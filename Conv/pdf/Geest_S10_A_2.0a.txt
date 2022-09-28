@@ -12,18 +12,7 @@ valentie
 vervangbaarheid
 verplaatsbaarheid
 extra
-
-NP
-eerste participant in het valentieschema (agens)
-Type I-paradigmata (persoon/zaak)
-AL, VV, MV1, ?MV2, ?MV3, *AV, UL
-bepaalt congruentiekenmerken van de PV
-kan in een door-PP verschijnen in nominaliseringen
-
 (1)
-
-Die man vermoordt de gijzelaars.
-
 a.
 b.
 c.
@@ -32,17 +21,28 @@ e.
 f.
 g.
 
-Die man, die vermoordt de gijzelaars.
-(AL)
+NP
+eerste participant in het valentieschema (agens)
+Type I-paradigmata (persoon/zaak)
+AL, VV, MV1, ?MV2, ?MV3, *AV, UL
+bepaalt congruentiekenmerken van de PV
+kan in een door-PP verschijnen in nominaliseringen
+
 Die man vermoordt de gijzelaars.
-(VV)
+Die man, die vermoordt de gijzelaars.
+Die man vermoordt de gijzelaars.
 Vermoordt die man de gijzelaars?
-(MV1)
-*Heeft vaak die man de gijzelaars vermoord? (*MV2)
-*Heeft de gijzelaars vaak die man vermoord? (*MV3)
+*Heeft vaak die man de gijzelaars vermoord?
+*Heeft de gijzelaars vaak die man vermoord?
 *dat de gijzelaars vermoordt die man.
-(*AV)
 Die vermoordt de gijzelaars, die man.
+
+(AL)
+(VV)
+(MV1)
+(*MV2)
+(*MV3)
+(*AV)
 (UL)
 
  Inleiding

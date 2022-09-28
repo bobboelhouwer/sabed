@@ -305,10 +305,69 @@ badhanddoek
 
  Hoofdigheid
 ▶
+▶
+▶
 
 handdoek
 badhanddoek
-▶ gastenbadhanddoek
+gastenbadhanddoek
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Hoofdigheid
+▶
+▶
+
+handdoek
+badhanddoek
+gastenbadhanddoek
+
+▶
+
+handdoek
+
 ▶
 
 .
@@ -357,71 +416,14 @@ badhanddoek
 
  Hoofdigheid
 ▶
-
-handdoek
-badhanddoek
-▶ gastenbadhanddoek
 ▶
-
 ▶
-
-handdoek
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
- Hoofdigheid
+▶
 ▶
 
 handdoek
 badhanddoek
-▶ gastenbadhanddoek
-▶
-
-▶
-▶
-
+gastenbadhanddoek
 handdoek
 handdoekenverkoper
 
@@ -471,18 +473,18 @@ handdoekenverkoper
 
  Hoofdigheid
 ▶
+▶
+▶
+▶
+▶
+▶
 
 handdoek
 badhanddoek
-▶ gastenbadhanddoek
-▶
-
-▶
-
+gastenbadhanddoek
 handdoek
 handdoekenverkoper
-▶ handdoekenverkoperspet
-▶
+handdoekenverkoperspet
 
 .
 
@@ -530,19 +532,20 @@ handdoekenverkoper
 
  Hoofdigheid
 ▶
+▶
+▶
+▶
+▶
+▶
+▶
 
 handdoek
 badhanddoek
-▶ gastenbadhanddoek
-▶
-
-▶
-
+gastenbadhanddoek
 handdoek
 handdoekenverkoper
-▶ handdoekenverkoperspet
-▶ handdoekenverkoperspettenwinkel
-▶
+handdoekenverkoperspet
+handdoekenverkoperspettenwinkel
 
 .
 
@@ -590,19 +593,20 @@ handdoekenverkoper
 
  Hoofdigheid
 ▶
+▶
+▶
+▶
+▶
+▶
+▶
 
 handdoek
 badhanddoek
-▶ gastenbadhanddoek
-▶
-
-▶
-
+gastenbadhanddoek
 handdoek
 handdoekenverkoper
-▶ handdoekenverkoperspet
-▶ handdoekenverkoperspettenwinkel
-▶
+handdoekenverkoperspet
+handdoekenverkoperspettenwinkel
 
 .
 
@@ -650,22 +654,22 @@ handdoekenverkoper
 
  Hoofdigheid
 ▶
-
-handdoek
-badhanddoek
-▶ gastenbadhanddoek
 ▶
-
 ▶
-
-handdoek
-handdoekenverkoper
-▶ handdoekenverkoperspet
-▶ handdoekenverkoperspettenwinkel
+▶
+▶
+▶
 ▶
 
 (14)
 
+handdoek
+badhanddoek
+gastenbadhanddoek
+handdoek
+handdoekenverkoper
+handdoekenverkoperspet
+handdoekenverkoperspettenwinkel
 Rechterhandhoofdregel (RHHR)
 In gelede woorden is het rechterlid typisch het hoofd.
 
@@ -715,19 +719,20 @@ In gelede woorden is het rechterlid typisch het hoofd.
 
  Hoofdigheid
 ▶
+▶
+▶
+▶
+▶
+▶
+▶
 
 handdoek
 badhanddoek
-▶ gastenbadhanddoek
-▶
-
-▶
-
+gastenbadhanddoek
 handdoek
 handdoekenverkoper
-▶ handdoekenverkoperspet
-▶ handdoekenverkoperspettenwinkel
-▶
+handdoekenverkoperspet
+handdoekenverkoperspettenwinkel
 
 (14)
 

@@ -2,17 +2,30 @@
 
 Lay 3.1
 
-+ - + - + - + - + - +
-+ - + - + - + - + - +
-+ - + - + - + - + - +
++ - +
++ - +
++ - +
+
++ - +
++ - +
++ - +
+
++ - +
++ - +
++ - +
 
 Definitie
-• n×n matrix A
-• n=1: det A = a11
+•
+•
+•
+•
+
+n×n matrix A
+n=1: det A = a11
 ∗ ∗
-• n=2: det A = a11 a22 – a21 a12
+n=2: det A = a11 a22 – a21 a12
 ∗ ∗
-• n=3: det A = a11 a22 a33 + a21 a32 a13 + a12 a23 a31
+n=3: det A = a11 a22 a33 + a21 a32 a13 + a12 a23 a31
 – a31 a22 a13 – a21 a12 a33 – a32 a23 a11
 ∗
 ∗
@@ -252,9 +265,17 @@ det A = (-1)i+1 ai1 det Ai1 + (-1)i+2 ai2 det Ai2 + … + (-1)i+n ain det Ain
 
 Tekenpatroon
 
-+ - + - + - + - + - +
-+ - + - + - + - + - +
-+ - + - + - + - + - +
++ - +
++ - +
++ - +
+
++ - +
++ - +
++ - +
+
++ - +
++ - +
++ - +
 
 (-1)i+j det Aij = Cij de cofactor van aij
 

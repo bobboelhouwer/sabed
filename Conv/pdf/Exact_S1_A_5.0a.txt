@@ -117,10 +117,11 @@ Kp = 2,57 1033
 
 We bekomen inderdaad een zeer grote Kp-waarde.
 
-= K c (R T ) g
-∆n
+= K c (R T )
 
 Kp
+
+∆n g
 
 Vermits ng = 0
 (d)
@@ -256,24 +257,24 @@ V
 = 743,3 kPa
 
 evenwicht: Ptotaal = 1000 kPa
-
+2 NOCl(g)
 start
 evenwicht
-
-2 NOCl(g)
-
-2 NO(g)
 
 743,3
 -2 x
 743,3 – 2 x
 
-+2 x
-2x
-
 = PNOCl
 
 Ptotaal
+
+2 NO(g)
+
++
+
++2 x
+2x
 
 +
 
@@ -282,16 +283,7 @@ Ptotaal
 x = 256,7 kPa
 
 PNO +
-
-PCl2
-
 2x
-
-x
-
-+
-
-+
 
 Kp
 (b)
@@ -302,6 +294,12 @@ Kp
 PNOCl
 
 =
+
+PCl2
+
++
+
+x
 
 (513,4)2 (256,7 )
 (229,9)2
@@ -355,20 +353,19 @@ Kp = 1280 kPa
 
 H° - T S°
 
-H°= G° + T S°
-
-met
-
 G° = - 6316,4 J.mol-1
 S° = (S°) R (S°) L
 o
 o
 = 2 S ( NO , g ) + S (Cl2 , g ) − 2 S (oNOCl , g )
-
 S° = 2(210,8) J.K-1.mol-1 + 223,1 J.K-1.mol-1 – 2(261,7) J.K-1.mol-1 = 121,3 J.K-1.mol-1
 H° = -6.316,4 + 298 . 121,3
 = 29.831 J.mol-1
 = 29,8 kJ.mol-1
+
+H°= G° + T S°
+
+met
 
  Aanvullende voorbeelden bij Hoofdstuk VII
 NO(g)
@@ -388,11 +385,17 @@ Bij een temperatuur van 25 °C brengen we 200 kPa ozon en 2 mol stikstofmonoxide
 Bijkomende gegevens: Hov (NO, g) = 91,3 kJ mol-1
 Hov (O3, g) = 142,7 kJ mol-1
 Hov (NO2, g) = 33,2kJ mol-1
-(a) Bereken Kp.
-(b) Bij welke temperatuur krijgen we een Kp-waarde van 0,9?
-(c) Wat wordt de Kc-waarde bij 50 °C?
-(d) Wanneer de temperatuur wordt opgedreven tot 50 °C, wat wordt na instellen
+(a)
+(b)
+(c)
+(d)
+
+Bereken Kp.
+Bij welke temperatuur krijgen we een Kp-waarde van 0,9?
+Wat wordt de Kc-waarde bij 50 °C?
+Wanneer de temperatuur wordt opgedreven tot 50 °C, wat wordt na instellen
 van het nieuwe evenwicht de druk van stikstofdioxide?
+
 oplossing
 
 n RT
@@ -411,25 +414,13 @@ evenwicht: PO2
 NO(g)
 start
 
-2 mol × 8,314 J K −1 mol −1 × 298 K
-10 l
-
-+
+en
 
 NO2(g)
 
 200
 -x
 200 - x
-
-+x
-x
-
-evenwicht
-
-PO2
-
-=
 
 30,4 kPa
 
@@ -443,6 +434,8 @@ x
 
 = 30,4 kPa
 
+x
+
 PNO
 
 = 495,5 − x
@@ -455,29 +448,17 @@ PO3
 
 = 169,6 kPa
 
-en
-
 PNO2 PO2
-
-=
-
-Kp
-
 PNO PO3
 
 =
 
-(1atm = 101,3 kPa)
-
-O3(g)
-
-495,5
--x
-495,5 – x
-
 +
 
++x
 x
+
+=
 
 (30,4) (30,4 )
 (465,1) (169,6)
@@ -509,6 +490,27 @@ H° =
 H°v(O2 (g)) -
 
 = 495,5 kPa
+
+(1atm = 101,3 kPa)
+
+O3(g)
+
+PO2
+
+=
+
+Kp
+
++
+
+495,5
+-x
+495,5 – x
+
+evenwicht
+
+2 mol × 8,314 J K −1 mol −1 × 298 K
+10 l
 
 H°v(NO(g)) -
 
@@ -616,7 +618,10 @@ T2 = 50 °C = 323 K
 = 0,00189
 = 2,2 10 −5
 
-Kp = Kc (R T) ng
+Kp = Kc (R T)
+
+ng
+
 Vermits ng = 0
 
 wordt
@@ -648,19 +653,18 @@ NO2(g)
 +x
 183,8+ x
 
+P2
+P1
++
+
 32,9
 -x
 32,9 - x
-
-P2
-P1
 
 =
 
 T2
 T1
-
-+
 
 O2(g)
 
@@ -757,9 +761,19 @@ Na uitwerken wordt bekomen:
 x2 + 4,22 * 10-2 x - 0,0168 = 0
 Bij evenwicht worden de volgende concentraties verkregen:
 
-[PCl3 ] = [Cl 2 ] = x = 0,11 M
-[PCl5 ] = 0,4 − x = 0,29 M
+[PCl3 ]
+[PCl5 ]
 (b)
+
+=
+
+[Cl 2 ]
+
+= x = 0,11 M
+
+x = -0,15
+
+= 0,4 − x = 0,29 M
 
 α
 
@@ -776,8 +790,6 @@ x
 × 100 =
 0,4
 
-x = -0,15
-
 0,11
 × 100 = 27,5 %
 0,4
@@ -788,22 +800,16 @@ PCl5(g)
 
 PCl3(g)
 
+start
+
 0,29
 +x
 evenwicht 0,29 + x
-
-0,11 + 0,2
--x
-0,31 - x
-
-start
 
 K c ( 250 °C )
 4,22 10 −2
 
 =
-
-+
 
 Cl2(g)
 0,11 + 0,15
@@ -819,6 +825,16 @@ Cl2(g)
 Na uitwerken krijgen we:
 Bij evenwicht:
 
+[PCl5 ]
+[PCl3 ]
+[Cl 2 ]
+
+0,11 + 0,2
+-x
+0,31 - x
+
++
+
 x2 - 0,6122 x + 0,068362 = 0
 
 (M)
@@ -830,9 +846,10 @@ naar links
 x = 0,15
 x = 0,46
 
-[PCl5 ] = 0,29 + x = 0,44 M
-[PCl3 ] = 0,31 − x = 0,16 M
-[Cl 2 ] = 0,26 − x = 0,11 M
+= 0,29 + x = 0,44 M
+= 0,31 − x = 0,16 M
+= 0,26 − x = 0,11 M
+
 (d) Verdubbelen van het volume van het vat, betekent dat de concentraties halveren.
 
 0,44 M
@@ -897,9 +914,14 @@ x = 0,023
 Hieruit halen we een vierkantsvergelijking: x + 0,1802 x - 0,00462 = 0
 Bij evenwicht wordt dan bekomen:
 
-[PCl5 ] = 0,22 − x = 0,2 M
-[PCl3 ] = 0,08 + x = 0,1 M
-[Cl 2 ] = 0,056 + x = 0,08 M
+[PCl5 ]
+[PCl3 ]
+[Cl 2 ]
+
+= 0,22 − x = 0,2 M
+= 0,08 + x = 0,1 M
+
+= 0,056 + x = 0,08 M
 
 x = -0,2
 

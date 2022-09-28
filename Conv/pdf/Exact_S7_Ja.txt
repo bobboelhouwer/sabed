@@ -184,14 +184,19 @@ Voorbeeld 1
 2.5
 3−𝜆
 −1
-• det 𝐀 − 𝜆𝐈 =
+det 𝐀 − 𝜆𝐈 =
 = 7.5 −
 −0.5 2.5 − 𝜆
 5.5𝜆 + 𝜆 − 0.5 = 𝜆 − 5.5𝜆 + 7
-• d=121/4-28=(121-112)/4=9/4
-• p1=(11/2-3/2)/2=2; m1=1
-• p2=(11/2+3/2)/2=7/2=3.5; m2=1
+d=121/4-28=(121-112)/4=9/4
+p1=(11/2-3/2)/2=2; m1=1
+p2=(11/2+3/2)/2=7/2=3.5; m2=1
+
 • 𝐀=
+•
+•
+•
+•
 
 3
 −0.5
@@ -296,7 +301,8 @@ Merk op: b1 is eigenvector
 𝐛𝟐 =
 
 2 1
-[A]B
+[A]B =
+AP=
 0 2
 Voorbeeld 1: het beeld van b1 met
 coordinaat [1 0]T in B is [2 0]T in B
@@ -311,7 +317,7 @@ T(b2)
 
 b2
 
-= P-1 A P =
+P-1
 
 Gelijkvormigheid
 nxn-matrices A en C zijn gelijkvormig (similar)
@@ -624,18 +630,27 @@ o
 o
 o
 
-1 1
+1
+0
+1
+1
+0
+0
+1
+−1
+
+1
 is niet diagonaliseerbaar, wel inverteerbaar
-0 1
-1 1
+1
+1
 is wel diagonaliseerbaar, niet inverteerbaar
-1 1
-0 1
+1
+1
 is niet diagonaliseerbaar, niet inverteerbaar
-0 0
-1 1
+0
+1
 is wel diagonaliseerbaar, wel inverteerbaar
-−1 1
+1
 
 14
 

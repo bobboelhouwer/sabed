@@ -1,5 +1,7 @@
 De open woordsoorten: Werkwoorden
-▶ syntactische & semantische kenmerken
+▶
+
+syntactische & semantische kenmerken
 ▶
 
 overgankelijk/onovergankelijk/pseudotransitief/ditransitief
@@ -49,7 +51,9 @@ overgankelijk/onovergankelijk/pseudotransitief/ditransitief
 .
 
  De open woordsoorten: Werkwoorden
-▶ syntactische & semantische kenmerken
+▶
+
+syntactische & semantische kenmerken
 ▶
 ▶
 
@@ -101,13 +105,16 @@ toevallig/verplicht wederkerend
 .
 
  De open woordsoorten: Werkwoorden
-▶ syntactische & semantische kenmerken
+▶
+
+syntactische & semantische kenmerken
+▶
+▶
+▶
 
 overgankelijk/onovergankelijk/pseudotransitief/ditransitief
 toevallig/verplicht wederkerend
-▶ persoonlijk/onpersoonlijk
-▶
-▶
+persoonlijk/onpersoonlijk
 
 .
 

@@ -401,12 +401,6 @@ AV
 
 UL
 
-P2
-
-AV
-van het nieuws
-van het nieuws
-
 P1
 breng
 breng
@@ -414,6 +408,12 @@ breng
 MV
 ik hem
 ik hem
+
+P2
+
+AV
+van het nieuws
+van het nieuws
 
 .
 
@@ -551,11 +551,6 @@ ken
 ken
 breng
 
-MV
-hem niet,
-hem niet,
-hem daar/dat
-
 VV
 Ik
 Ik
@@ -563,6 +558,11 @@ Ik
 P1
 heb
 heb
+
+MV
+hem niet,
+hem niet,
+hem daar/dat
 
 MV
 er nog lang over
@@ -1001,11 +1001,9 @@ Ik heb de moeder gezien van Raza.
  Techniek #4: Verplaatsbaarheid: Complicatie: gesplitste
 zinsdelen & verplaatsing
 (97)
-
-Ik heb de moeder gezien van Raza.
-
 VV
 
+Ik heb de moeder gezien van Raza.
 P1
 
 MV
@@ -1013,6 +1011,68 @@ MV
 P2
 
 AV
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ Techniek #4: Verplaatsbaarheid: Complicatie: gesplitste
+zinsdelen & verplaatsing
+(97)
+VV
+
+(98)
+
+Ik heb de moeder gezien van Raza.
+P1
+
+MV
+
+P2
+
+AV
+
+Dat boek denk ik niet dat hij zal lezen.
 
 .
 
@@ -1070,82 +1130,18 @@ P1
 
 (98)
 
-Dat boek denk ik niet dat hij zal lezen.
-
 MV
 
 P2
 
 AV
 
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
- Techniek #4: Verplaatsbaarheid: Complicatie: gesplitste
-zinsdelen & verplaatsing
-(97)
-
-Ik heb de moeder gezien van Raza.
-
-VV
-
-P1
-
-(98)
-
 Dat boek denk ik niet dat hij zal lezen.
 VV
 
-MV
-
 P1
 
-P2
-
 MV
-
-AV
 
 P2
 

@@ -172,7 +172,9 @@ specifieke rotatie staal
 
 OZ =
 
-X 100
+X
+
+100
 
 specifieke rotatie puur enantiomeer
 ✓ nul voor racemisch mengsel

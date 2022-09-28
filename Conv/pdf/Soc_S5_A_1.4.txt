@@ -127,13 +127,19 @@ Faculteit Psychologie en Pedagogische Wetenschappen
 • Hangt af van de onderzoeksvraag die je wil beantwoorden en het antwoord
 dat je hoopt te vinden
 • 5 onderzoeksstrategieën:
-▪ Beschrijvend
-▪ Correlationeel
-▪ Experimenteel
-▪ Quasi-experimenteel
-▪ Non-experimenteel
+▪
+▪
+▪
+▪
+▪
 
 11
+
+Beschrijvend
+Correlationeel
+Experimenteel
+Quasi-experimenteel
+Non-experimenteel
 
 Faculteit Psychologie en Pedagogische Wetenschappen
 
@@ -200,10 +206,15 @@ Faculteit Psychologie en Pedagogische Wetenschappen
 
  2. Correlationeel
 • Correlationele onderzoeksstrategie
-▪ We meten de 2 variabelen voor elk individu
-▪ De 2 variabelen hebben minstens interval meetschaal
-▪ Beschrijft de relatie, heeft niet als doel om de relatie te verklaren
-▪ Voorb: een relatie tussen ontwaak uur en score wil NIET zeggen dat vroeg
+▪
+▪
+▪
+▪
+
+We meten de 2 variabelen voor elk individu
+De 2 variabelen hebben minstens interval meetschaal
+Beschrijft de relatie, heeft niet als doel om de relatie te verklaren
+Voorb: een relatie tussen ontwaak uur en score wil NIET zeggen dat vroeg
 opstaan betere scores VEROORZAAKT!
 
 • Geen causale uitspraken!

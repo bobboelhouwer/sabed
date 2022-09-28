@@ -127,19 +127,33 @@ Vragen en oefeningen ...........................................................
 6.10 Het oplosbaarheidsproduct en de molaire oplosbaarheid ............................................................................... 95
 6.11 Vragen en oefeningen .................................................................................................................................... 96
 7. ZUREN EN BASEN
-7.1 Zuur-base theorie volgens Arrhenius............................................................................................................. 99
-7.2 Zuur-base theorie volgens Bronsted-Lowry .................................................................................................. 99
-7.3 Het ionenproduct van water ......................................................................................................................... 100
-7.4 Het begrip pH .............................................................................................................................................. 100
-7.5 De zuurconstante en basiciteitsconstante ..................................................................................................... 101
-7.6 pH-berekening van een sterk zuur ............................................................................................................... 103
-7.7 pH-berekening van een zwak zuur............................................................................................................... 103
-7.8 pH-berekening van een mengsel van zwakke zuren .................................................................................... 105
-7.9 pH-berekening van een polyprotisch zuur ................................................................................................... 105
-7.10 pH-berekening van een sterke base ............................................................................................................. 106
-7.11 pH-berekening van een zwakke base ........................................................................................................... 107
-7.12 pH-berekening van een waterige oplossing van een zout ............................................................................ 108
-7.13 Het gemeenschappelijk ioneffect ................................................................................................................. 109
+7.1
+7.2
+7.3
+7.4
+7.5
+7.6
+7.7
+7.8
+7.9
+7.10
+7.11
+7.12
+7.13
+
+Zuur-base theorie volgens Arrhenius............................................................................................................. 99
+Zuur-base theorie volgens Bronsted-Lowry .................................................................................................. 99
+Het ionenproduct van water ......................................................................................................................... 100
+Het begrip pH .............................................................................................................................................. 100
+De zuurconstante en basiciteitsconstante ..................................................................................................... 101
+pH-berekening van een sterk zuur ............................................................................................................... 103
+pH-berekening van een zwak zuur............................................................................................................... 103
+pH-berekening van een mengsel van zwakke zuren .................................................................................... 105
+pH-berekening van een polyprotisch zuur ................................................................................................... 105
+pH-berekening van een sterke base ............................................................................................................. 106
+pH-berekening van een zwakke base ........................................................................................................... 107
+pH-berekening van een waterige oplossing van een zout ............................................................................ 108
+Het gemeenschappelijk ioneffect ................................................................................................................. 109
 
 Chemie, 2021
 H. Rijckaert
@@ -150,13 +164,22 @@ pag. ii
 7.15 De bufferwerking ......................................................................................................................................... 111
 7.16 Vragen en oefeningen .................................................................................................................................. 113
 8. ELEKTROCHEMIE
-8.1 De elektrolytische dissociatie ....................................................................................................................... 117
-8.2 Contactspanning metaal-elektrolyt............................................................................................................... 118
-8.3 Standaard reductiepotentialen ...................................................................................................................... 118
-8.4 Verband tussen celpotentiaal en vrije energie .............................................................................................. 120
-8.5 Wet van Nernst............................................................................................................................................. 121
-8.6 Concentratiecellen ........................................................................................................................................ 122
-8.7. Vragen en oefeningen .................................................................................................................................. 123
+8.1
+8.2
+8.3
+8.4
+8.5
+8.6
+8.7.
+
+De elektrolytische dissociatie ....................................................................................................................... 117
+Contactspanning metaal-elektrolyt............................................................................................................... 118
+Standaard reductiepotentialen ...................................................................................................................... 118
+Verband tussen celpotentiaal en vrije energie .............................................................................................. 120
+Wet van Nernst............................................................................................................................................. 121
+Concentratiecellen ........................................................................................................................................ 122
+Vragen en oefeningen .................................................................................................................................. 123
+
 9. DE ORBITAALTHEORIE
 9.1 Elektromagnetische straling ......................................................................................................................... 126
 9.2 Het atoommodel van Bohr ........................................................................................................................... 127
@@ -635,10 +658,14 @@ Het is belangrijk te beseffen dat binnen een element de isotopen steeds met een 
 abundantie voorkomen.
 35
 
-37
-
-Zo bestaat het element chloor steeds uit 75,5% van de isotoop 17 Cl en 24,5% van het 17 Cl . Anders
+Zo bestaat het element chloor steeds uit 75,5% van de isotoop 17 Cl en 24,5% van het
 gezegd, de abundantie van de beide isotopen is respectievelijk 75,5 % en 24,5 %.
+
+37
+17
+
+Cl . Anders
+
 Onderstaande tabel geeft de belangrijkste elementen met hun rangnummer Z, hun symbool en naam.
 Z symbool
 1
@@ -779,9 +806,13 @@ https://www.youtube.com/watch?v=xA4QWwaweWA
 Het is uiteraard ook niet mogelijk hun massa rechtstreeks te meten. Om de absolute atoommassa’s van
 de verschillende atomen onderling te kunnen vergelijken, heeft men de atoommassa eenheid u (atomic
 mass unit, amu) ingevoerd.
-12
+Per definitie is 1 u = 1/12 van massa van een
 
-Per definitie is 1 u = 1/12 van massa van een 6 C isotoop = 1,66.10-27 kg
+12
+6
+
+C isotoop = 1,66.10-27 kg
+
 Om de atoommassa van een element te berekenen moet men rekening houden met de abundanties van
 de isotopen van het element.
 Voorbeeld
@@ -843,18 +874,22 @@ werd intermediair gevormd.
 232
 90
 
-4
-0
-−4
-Th → 232
-90 − 2 X + 2 He + 0 γ of
+Th →
+
+232 − 4
+90 − 2
+
+X + 24 He + 00γ of
 
 232
 90
 
-4
-Th → 228
-88 Ra + 2 α + γ
+Th →
+
+228
+88
+
+Ra + 24α + γ
 
 Bij het tweede verval komt er zowel β- als γ-straling vrij. Door de β-straling ontstaat er een proton uit
 een neutron zodat de gevormde isotoop hetzelfde massagetal (Z+N) = 228 heeft maar het
@@ -862,22 +897,37 @@ atoomnummer (Z) = 88+1 = 89. Uiteindelijk heeft zich het actinium-228 isotoop ge
 228
 88
 
-0
-0
-Ra → 88228
-+1 X + −1 e + 0 γ
+Ra →
+
+228
+88+1
+
+X +
 
 Chemie, 2021
 H. Rijckaert
+
+0
+−1
+
+e + 00γ
 
 of
 
 228
 88
 
+Ra →
+
+228
+89
+
+Ac +
+
 0
-Ra → 228
-89 Ac + −1 β + γ
+−1
+
+β +γ
 
 pag. 8
 
@@ -1774,15 +1824,17 @@ boorzuur
 chroomzuur
 cyaanzuur
 
-ClO3 - chloraat-ion
-SO4 2- sulfaat-ion
-NO3 - nitraat-ion
-PO4 3- fosfaat-ion
-CO3 2- carbonaat-ion
-SiO4 4- silicaat-ion
-BO3 3- boraat-ion
-CrO4 2- chromaat-ion
-OCN - cyanaat-ion
+ClO3 SO4 2NO3 PO4 3CO3 2SiO4 4BO3 3CrO4 2OCN -
+
+chloraat-ion
+sulfaat-ion
+nitraat-ion
+fosfaat-ion
+carbonaat-ion
+silicaat-ion
+boraat-ion
+chromaat-ion
+cyanaat-ion
 
 Een aantal van bovenstaande oxozuren komen ook voor met één atoom zuurstof minder in hun
 zuurrest. Een dergelijk oxozuur wordt benoemd als "igzuur" en de corresponderende zuurrest krijgt de
@@ -2159,13 +2211,6 @@ NH4I
 NH4OH
 NH4CN
 
-2 a
-b
-c
-d
-e
-f
-
 g
 h
 i
@@ -2223,25 +2268,6 @@ ammoniumfosfaat
 q
 r
 
-3 a
-b
-c
-d
-e
-f
-g
-h
-i
-j
-k
-l
-m
-n
-o
-p
-q
-r
-
 magnesiumfluoride
 calciumchloride
 bariumbromide
@@ -2288,8 +2314,34 @@ e
 f
 g
 
+3 a
+b
+c
+d
+e
+f
+g
+h
+i
+j
+k
+l
+m
+n
+o
+p
+q
+r
+
 Chemie, 2021
 H. Rijckaert
+
+2 a
+b
+c
+d
+e
+f
 
 waterstoffluoride
 lithiumchloride
@@ -3891,36 +3943,46 @@ maar H2CO3 is onstabiel en zal spontaan ontbinden: H2CO3 (aq) → H2O + CO2 (g)
 H2SO4 (aq) + Na2CO3 (aq) → Na2SO4 (aq) + H2O + CO2 (g)
 H2SO4 (aq) + Na2CO3 (aq) → 2 Na+ (aq) + SO42- (aq) + H2O + CO2 (g)
 2 H+ (aq) + CO32- (aq) → H2O + CO2 (g)
+Sterke zuren
+HClO4 perchloorzuur
+HI
+waterstofjodide
+HBr
+waterstofbromide
+HCl
+zoutzuur
+H2SO4 zwavelzuur
+HNO3 salpeterzuur
+HClO3 chloorzuur
+
+Zwakke zuren
+HlO3 joodzuur
+HOAc
+H2SO3 zwaveligzuur
+H2CO3
+H3PO3 fosforigzuur
+H2S
+HClO2 chlorigzuur
+HClO
+H3PO4 fosforzuur
+NH4+
+HF
+waterstoffluoride HCN
+HNO2 salpeterigzuur
+HCO3-
 
 stoffenvergelijking
 totale ionaire vgl
 netto ionaire vgl
 
-Sterke zuren
-Zwakke zuren
-HClO4 perchloorzuur
-HlO3 joodzuur
-HOAc azijnzuur
-HI
-waterstofjodide H2SO3 zwaveligzuur
-H2CO3 koolzuur
-HBr
-waterstofbromide H3PO3 fosforigzuur
-H2S
+azijnzuur
+koolzuur
 waterstofsulfide
-HCl
-zoutzuur
-HClO2 chlorigzuur
-HClO hypochlorigzuur
-H2SO4 zwavelzuur
-H3PO4 fosforzuur
-NH4+ ammonium ion
-HNO3 salpeterzuur
-HF
-waterstoffluoride HCN blauwzuur
-HClO3 chloorzuur
-HNO2 salpeterigzuur
-HCO3- bicarbonaat ion
+hypochlorigzuur
+ammonium ion
+blauwzuur
+bicarbonaat ion
+
 Tabel 2.3: zuren gerangschikt van, sterkst naar zwakst
 
 Chemie, 2021
@@ -4275,21 +4337,21 @@ V .CM 1 L . 6,83.10 mol/L
 =
 CM
 
+CM =
+
 π
 10, 0
 =
 =.
 i.R.T 1.0, 08206.293,15
 
-CM =
+0,4157 mol/L
 
 n m/M
 =
 ⇒ m = V .M .CM = 0,100 L . 342 g/mol . 0,4157 mol/L = 14, 2 g
 V
 V
-
-0,4157 mol/L
 
 5.
 HCl + KOAc → KCl + HOAc
@@ -4910,11 +4972,16 @@ R =
 mol . K
 n.T
 3.
+CaCO3
+1 mol
 
 T
-CaCO3 → CaO + CO2
+
+→ CaO + CO2
 1 mol
-1 mol 1 mol
+
+1 mol
+
 molmassa CaCO3 = 40,08 + 12,01 + 3 * 16,00 = 100,09 g/mol
 15,2 g CaCO3 = 15,2 g / (100,09 g/mol) = 0,152 mol
 
@@ -5291,7 +5358,14 @@ enkelvoudige stoffen zoals bijvoorbeeld O2 bedraagt nul.
 Om de reactieënthalpie te berekenen uit vormingsenthalpieën wordt gebruik gemaakt van de volgende
 expressie
 
-ΔH=r ∑ n.ΔH f0 (reactieproducten)-∑ n.ΔH 0f (reagentia)
+ΔH=r
+
+∑ n.ΔH (reactieproducten)-∑ n.ΔH (reagentia)
+0
+f
+
+0
+f
 
 met n de reactiecoëfficiënt van de beschouwde stof.
 
@@ -5375,7 +5449,14 @@ Tabel 4.1: gemiddelde bindingsenergieën
 Op basis van deze waarden is het mogelijk de reactieënthalpie te berekenen gebruik makend van de
 expressie
 
-ΔH=r ∑ n.ΔH 0a (verdwenen bindingen) -∑ n.ΔH 0a (gevormde bindingen)
+ΔH=r
+
+∑ n.ΔH (verdwenen bindingen) -∑ n.ΔH (gevormde bindingen)
+0
+a
+
+0
+a
 
 met n de reactiecoëfficiënt van de beschouwde stof.
 Bemerkingen
@@ -5445,32 +5526,37 @@ pag. 69
 
 De totale arbeid die deze isotherme reversibele expansie op de omgeving uitoefent (W<0), is de som
 van de pV arbeid van al de infinitesimaal kleine expansiestapjes dV waaruit dit proces bestaat.
-V2
 
-∫ p.dV
-n.R.T
+∫
 =−
-∫ V .dV
-dV
-= −n.R.T
-∫ V
+∫
 
 W =−
 
+V2
+
 V1
+
+p.dV
 
 V2
 
 V1
 
-V2
+n.R.T
+.dV
+V
 
+dV
+V1 V
+V
+= −n.R.T . ln 2
 V1
+= −n.R.T
 
-= −n.R.T . ln
+∫
 
 V2
-V1
 
 Omdat het systeem gedurende het ganse proces met zijn omgeving in evenwicht blijft, wijzigt de
 inwendige energie van het systeem niet:
@@ -5568,6 +5654,9 @@ Voorbeeld
 Onderstaande tabel geeft de standaard entropieveranderingen voor het smelten van ijs bij een
 constante druk van 1 atm maar bij verschillende temperaturen.
 temperatuur
+-10°C
+0°C
++10°C
 
 ∆S°systeem
 
@@ -5575,19 +5664,12 @@ temperatuur
 
 ∆S°universum
 
--10°C
-
 22,1 J/mol.K -22,9 J/mol.K -0,8 J/mol.K
-
-0°C
-
 22,1 J/mol.K -22,1 J/mol.K
 
-+10°C
+0,0 J/mol.K
 
 22,1 J/mol.K -21,3 J/mol.K +0,8 J/mol.K
-
-0,0 J/mol.K
 
 Tabel 4.2: standaard entropieveranderingen voor het smelten van ijs
 
@@ -6003,15 +6085,24 @@ opeenvolgende elementaire reacties noemt men het reactiemechanisme. Elke element
 bepaald door het aantal deelnemende partners of moleculariteit.
 Het belang van het uitschrijven van het reactiemechanisme in elementaire deelreacties is dat voor een
 elementaire reactie de orde gelijk aan de moleculariteit van deze reactie !
-elementaire reactiestap moleculariteit reactiesnelheid
-unimoleculair k.[A]
+elementaire reactiestap
 A →
-bimoleculair k.[A]2
 2A →
-bimoleculair k.[A].[B]
 A + B →
-termoleculair k.[A]2.[B]
 2A + B →
+
+moleculariteit
+unimoleculair
+bimoleculair
+bimoleculair
+termoleculair
+
+reactiesnelheid
+k.[A]
+k.[A]2
+k.[A].[B]
+k.[A]2.[B]
+
 Tabel 5.1: moleculariteit van een chemische reactie
 
 In een reactie die uit meerdere deelreacties bestaat, verlopen niet alle elementaire reacties even snel.
@@ -6346,28 +6437,54 @@ BrO3 - (aq) + 5 Br - (aq) + 6 H+ (aq)
 3 Br2 (vl) + 3 H2O
 
 aan de hand van de volgende experimenteel gemeten beginsnelheden.
-experiment [BrO3 - ]0
-[Br - ]0
-[H+]0
-beginsnelheid
+experiment
 1
-0,10 mol/L 0,10 mol/L 0,10 mol/L 0,80.10-4 M/s
 2
-0,20 mol/L 0,10 mol/L 0,10 mol/L 1,6.10-4 M/s
 3
-0,20 mol/L 0,20 mol/L 0,10 mol/L 3,2.10-4 M/s
 4
-0,10 mol/L 0,10 mol/L 0,20 mol/L 3,2.10-4 M/s
+
+[BrO3 - ]0
+0,10 mol/L
+0,20 mol/L
+0,20 mol/L
+0,10 mol/L
+
+[Br - ]0
+0,10 mol/L
+0,10 mol/L
+0,20 mol/L
+0,10 mol/L
+
+[H+]0
+0,10 mol/L
+0,10 mol/L
+0,10 mol/L
+0,20 mol/L
+
+beginsnelheid
+0,80.10-4 M/s
+1,6.10-4 M/s
+3,2.10-4 M/s
+3,2.10-4 M/s
+
 2. Toon aan dat de reactie 2 N2O5 (g) → 4 NO2 (g) + O2 (g) van eerste orde is en bereken k uitgaande
 van de volgende experimentele vaststellingen.
 tijd
+0s
+50 s
+100 s
+200 s
+300 s
+400 s
+
 [N2O5]
-0 s 0,1000 mol/L
-50 s 0,0707 mol/L
-100 s 0,0500 mol/L
-200 s 0,0250 mol/L
-300 s 0,0125 mol/L
-400 s 0,00625 mol/L
+0,1000 mol/L
+0,0707 mol/L
+0,0500 mol/L
+0,0250 mol/L
+0,0125 mol/L
+0,00625 mol/L
+
 3. Voor een eerste-orde reactie is na 65 s, 45% van het beginproduct verdwenen. Wat is de
 reactiesnelheidsconstante en de halveringstijd voor deze reactie?
 4. Bepaal de reactiesnelheidsconstante k voor een tweede-orde reactie waarvan de halveringstijd 143 s
@@ -6467,6 +6584,9 @@ k
 =
 
 1
+t1/2
+
+(
 
 1
 1
@@ -6479,8 +6599,7 @@ k
 − =
 −
 =
-t1/2 C1/2 C0 143 s 0, 0300M 0, 0600M
-(
+C1/2 C0 143 s 0, 0300M 0, 0600M
 
 Chemie, 2021
 H. Rijckaert
@@ -6937,10 +7056,10 @@ Invloed van de temperatuur op K
 Om de invloed van de temperatuur op de ligging van het chemisch evenwicht te bepalen combineerde
 Van ’t Hoff de twee expressies voor de standaard verandering van vrije energie
 
+tot
+
 ∆G ° = − R.T . ln K
 ∆G ° = ∆H ° − T .∆S °
-
-tot
 
 ∆H ° ∆S °
 ln K =
@@ -6978,21 +7097,18 @@ Voor de dimerisatiereactie van stikstofdioxide tot distikstoftetraoxide heeft de
 een waarde van 225 bij 25°C. Hoeveel bedraagt deze bij 100°C?
 2 NO2 (g)  N2O4 (g) + 58,4 kJ
 
-ln K 2 =
-ln K1 −
-
 ∆H °  1 1 
  − 
 R  T2 T1 
-
-ln K 2 =ln(225) −
-
 −58400  1
 1 
 −
 =0, 676
+ln K 2 =ln(225) −
 
 8,314  373,15 298,15 
+ln K 2 =
+ln K1 −
 
 0,676
 =
@@ -7050,11 +7166,11 @@ Ks [=
 Ag + ] [Cl − ]
 =
 
-34.10 ) 1, 79.10
+34.10 )
 (1,=
 −5 2
 
-−10
+1, 79.10−10
 
 Voorbeeld
 Het oplosbaarheidsproduct van koper(II)hydroxide is 1,60.10-19. Bereken de molaire oplosbaarheid
@@ -7196,6 +7312,7 @@ pag. 97
 a. Q p =
 3
 (0,0100) .(1,65)
+b. Q p =
 
 reactie in evenwicht
 
@@ -7205,14 +7322,19 @@ reactie in evenwicht
 
 reactie naar rechts
 
-b. Q p =
 6.
 
 ∆G° = ∆H ° − T .∆S °
 ∆G° =2*(−826000) − 0 − 0 − 298,15*(2*90 − 4* 27 − 3* 205) =−1490kJ / mol
+
+∆G° = − R.T . ln K ⇒ K = e − ∆G ° / R.T = e1, 49.10
+
 6
 
-∆G° = − R.T . ln K ⇒ K = e − ∆G ° / R.T = e1, 49.10 / 8,314.298,15 = e 601 = 10 0, 434*601 = 10 261
+/ 8, 314.298,15
+
+= e 601 = 10 0, 434*601 = 10 261
+
 Deze uitkomst is een zeer groot getal wat betekent dat het roesten van ijzer thermodynamisch gezien
 een zeer gunstig verschijnsel is. Het evenwicht in deze reactie ligt sterk naar rechts.
 7a.
@@ -7478,14 +7600,6 @@ pag. 101
 
 Onderstaande tabel geeft een overzicht van de zuurconstanten Ka en basiciteitsconstanten Kb bij 25°C
 van een aantal belangrijke zuren en hun geconjugeerde base.
-HClO4
-HI
-HBr
-HCl
-H2SO4
-HNO3
-HClO3
-
 brønstedzuur
 perchloorzuur
 waterstofjodide
@@ -7494,6 +7608,14 @@ zoutzuur
 zwavelzuur
 salpeterzuur
 chloorzuur
+
+HClO4
+HI
+HBr
+HCl
+H2SO4
+HNO3
+HClO3
 
 geconjugeerde base
 ClO4
@@ -7505,7 +7627,9 @@ HSO4
 waterstofsulfaat ion
 NO3nitraat ion
 ClO3chloraat ion
+-
 
+Ka
 109
 106
 103
@@ -7521,6 +7645,32 @@ pKa
 -3
 -2
 -1,90
+0,0
+
+109
+
+Kb
+10-23
+10-20
+10-17
+10-17
+10-16
+1,26.10-16
+
+pKb
+23
+23
+20
+17
+17
+16
+15,90
+
+1,0.10-14
+
+14
+
+10-23
 
 H3O+
 
@@ -7531,8 +7681,6 @@ H2O
 water
 
 1,0.100
-
-0,0
 
 HlO3
 H2SO3
@@ -7696,42 +7844,14 @@ amine ion
 10-29
 10-35
 
--15
--21
-
--
-
-Ka
-109
-
 29
 35
 
-Kb
-10-23
-10-20
-10-17
-10-17
-10-16
-1,26.10-16
-
-pKb
-23
-23
-20
-17
-17
-16
-15,90
-
-1,0.10-14
-
-14
-
-10-23
-
 1015
 1021
+
+-15
+-21
 
 Tabel 7.3: Ka en Kb bij 25°C van een aantal belangrijke zuren en hun geconjugeerde base.
 
@@ -8782,10 +8902,9 @@ KNO3
 
 +
 
-H2O
-
 0,007 mol
 
+H2O
 0,007
 
 Bij deze reactie is er een overmaat aan KOH.
@@ -8905,13 +9024,11 @@ Cu2+(aq) + e-  Cu+(aq)
 
 +0.13
 
-K+(aq) + e-  K(s)
++ e  K(s)
 
 -2.93
 
-SO42-(aq) + 4 H+(aq) + 2 e-  SO2(g) + 2 H2O
-
-+0.20
+SO42-(aq)
 
 Ba2+(aq) + 2 e-  Ba(s)
 
@@ -8921,11 +9038,11 @@ AgCl(s) + e-  Ag(s) + Cl-(aq)
 
 +0.22
 
-Sr2+(aq) + 2 e-  Sr(s)
-
 -2.89
 
-Cu2+(aq) + 2 e-  Cu(s)
+Cu2+(aq)
+
++ 2 e  Cu(s)
 
 +0.34
 
@@ -8937,7 +9054,7 @@ O2(g) + 2 H2 + 4 e-  4 OH-(aq)
 
 +0.40
 
-Na+(aq) + e-  Na(s)
+Na+(aq)
 
 -2.71
 
@@ -8945,21 +9062,45 @@ I2(s) + 2 e  2 I (aq)
 
 +0.53
 
-Mg2+(aq) + 2 e-  Mg(s)
-
 -2.37
 
 MnO4-(aq) + 2 H2O + 3 e-  MnO2(s) + 4 OH-(aq)
 
-+0.59
+Li+(aq) + e-  Li(s)
+K+(aq)
 
-Be2+(aq) + 2 e-  Be(s)
+-
+
+Sr2+(aq)
+
++ 2 e  Sr(s)
+-
+
++ e  Na(s)
+-
+
+Mg2+(aq) + 2 e-  Mg(s)
+Be2+(aq)
+
++4
+
+H+(aq)
+
++ 2 e  SO2(g) + 2 H2O
+
++0.20
+
+-
+
+-
+
+-
+
+-
 
 -1.85
 
-O2(g) + 2 H+(aq) + 2 e-  H2O2(aq)
-
-+0.68
+O2(g) + 2
 
 Al3+(aq) + 3 e-  Al(s)
 
@@ -8969,11 +9110,11 @@ Fe3+(aq) + e-  Fe2+(aq)
 
 +0.77
 
-Mn2+(aq) + 2 e-  Mn(s)
++ 2 e  Mn(s)
 
 -1.18
 
-Ag+(aq) + e-  Ag(s)
+Ag+(aq)
 
 +0.80
 
@@ -8983,15 +9124,30 @@ Ag+(aq) + e-  Ag(s)
 
 Hg22+(aq) + 2 e-  2 Hg(l)
 
-+0.85
+Mn2+(aq)
+Zn2+(aq)
 
-Zn2+(aq) + 2 e-  Zn(s)
+-
+
+H+(aq)
+
++0.59
+
++ 2 e  Be(s)
+-
+
++ 2 e  H2O2(aq)
+
++0.68
+
+-
+
++ e  Ag(s)
+-
 
 -0.76
 
-2 Hg2+(aq) + 2 e-  Hg22+(aq)
-
-+0.92
+2
 
 Cr3+(aq) + 3 e-  Cr(s)
 
@@ -9001,7 +9157,7 @@ NO3-(aq) + 4 H+(aq) + 3 e-  NO(g) + 2 H2O
 
 +0.96
 
-Fe2+(aq) + 2 e-  Fe(s)
+Fe2+(aq)
 
 -0.44
 
@@ -9009,21 +9165,15 @@ Br2(l) + 2 e  2 Br (aq)
 
 +1.07
 
-Cd2+(aq) + 2 e-  Cd(s)
-
 -0.40
 
 O2(g) + 4 H+(aq) + 4 e-  2 H2O
 
-+1.23
-
-PbSO4(s) + 2 e  Pb(s) + SO4 (aq)
-
 -0.31
 
-MnO2(s) + 4 H+(aq) + 2 e-  Mn2+(aq) + 2 H2O
+MnO2(s) + 4
 
-+1.23
+H+(aq)
 
 Co2+(aq) + 2 e-  Co(s)
 
@@ -9033,7 +9183,9 @@ Cr2O72-(aq) + 14 H+(aq) + 6 e-  2 Cr3+(aq) + 7 H2O
 
 +1.33
 
-Ni2+(aq) + 2 e-  Ni(s)
+Ni2+(aq)
+
++ 2 e  Ni(s)
 
 -0.25
 
@@ -9047,19 +9199,95 @@ Sn2+(aq) + 2 e-  Sn(s)
 
 Au3+(aq) + 3 e-  Au(s)
 
-+1.50
-
 -0.13
 
-MnO4-(aq) + 8 H+(aq) + 5 e-  Mn2+(aq) + 4 H2O
+MnO4-(aq)
+
++ 2 e  Fe(s)
+-
+
+Cd2+(aq) + 2 e-  Cd(s)
+PbSO4(s) + 2 e  Pb(s) + SO4
+-
+
+Pb2+(aq)
+
+2-
+
+-
+
++ 2 e  Pb(s)
+-
+
+(aq)
+
+Hg2+(aq)
+
++2e 
+
++0.85
+
++ 2 e  Zn(s)
+-
+
+-
+
+-
+
+Hg22+(aq)
+
++0.92
+
+-
+
++2e 
+
+-
+
+-
+
++1.23
+
+Mn2+(aq)
+
++ 2 H2O
+
++1.23
+
+-
+
++8
+
+H+(aq)
+
++1.50
+
++5e 
+-
+
+Mn2+(aq)
+
++ 4 H2O
 
 +1.51
 
 Ce4+(aq) + e-  Ce3+(aq)
+PbO2(s) + 4
+2H
+
++
+
+(aq)
+
++ 2 e  H2(g)
+-
+
+0.00
+
+H+(aq)
 
 +1.61
-
-PbO2(s) + 4 H+(aq) + SO42-(aq) + 2 e-  PbSO4(s) + 2 H2O
+-
 
 +1.70
 
@@ -9067,9 +9295,20 @@ H2O2(aq) + 2 H+(aq) + 2 e-  2 H2O
 
 +1.77
 
-Co3+(aq) + e-  Co2+(aq)
+Co3+(aq)
 
 +1.82
+
++e 
+-
+
++
+
+SO42-(aq)
+
++ 2 e  PbSO4(s) + 2 H2O
+
+Co2+(aq)
 
 O3(g) + 2 H+(aq) + 2 e-  O2(g) + H2O
 
@@ -9078,33 +9317,6 @@ O3(g) + 2 H+(aq) + 2 e-  O2(g) + H2O
 F2(g) + 2 e  2 F (aq)
 
 +2.87
-
-Li+(aq) + e-  Li(s)
-
--
-
-2-
-
-Pb2+(aq) + 2 e-  Pb(s)
-
-2 H (aq) + 2 e  H2(g)
-+
-
--
-
-0.00
-
--
-
--
-
--
-
--
-
--
-
--
 
 -
 
@@ -10103,25 +10315,35 @@ Fe3+
 Ag
 Ag+
 
-(17+1) 1s2 / 2s2 2p6 / 3s2 3p6
+(17+1)
 (14)
-1s2 / 2s2 2p6 / 3s2 3p2
-(8+2) 1s2 / 2s2 2p6
+(8+2)
 (24)
-1s2 / 2s2 2p6 / 3s2 3p6 3d4 / 4s2 ⇒ 1s2 / 2s2 2p6 / 3s2 3p6 3d5 / 4s1
-(24-2) 1s2 / 2s2 2p6 / 3s2 3p6 3d4 / 4s0
-(24-3) 1s2 / 2s2 2p6 / 3s2 3p6 3d3 / 4s0
+(24-2)
+(24-3)
 (29)
-1s2 / 2s2 2p6 / 3s2 3p6 3d9 / 4s2 ⇒ 1s2 / 2s2 2p6 / 3s2 3p6 3d10 / 4s1
-(29-1) 1s2 / 2s2 2p6 / 3s2 3p6 3d10 / 4s0
-(29-2) 1s2 / 2s2 2p6 / 3s2 3p6 3d9 / 4s0
+(29-1)
+(29-2)
 (26)
-1s2 / 2s2 2p6 / 3s2 3p6 3d6 / 4s2
-(26-2) 1s2 / 2s2 2p6 / 3s2 3p6 3d6 / 4s0
-(26-3) 1s2 / 2s2 2p6 / 3s2 3p6 3d5 / 4s0
+(26-2)
+(26-3)
 (47)
+(47-1)
+
+1s2 / 2s2 2p6 / 3s2 3p6
+1s2 / 2s2 2p6 / 3s2 3p2
+1s2 / 2s2 2p6
+1s2 / 2s2 2p6 / 3s2 3p6 3d4 / 4s2 ⇒ 1s2 / 2s2 2p6 / 3s2 3p6 3d5 / 4s1
+1s2 / 2s2 2p6 / 3s2 3p6 3d4 / 4s0
+1s2 / 2s2 2p6 / 3s2 3p6 3d3 / 4s0
+1s2 / 2s2 2p6 / 3s2 3p6 3d9 / 4s2 ⇒ 1s2 / 2s2 2p6 / 3s2 3p6 3d10 / 4s1
+1s2 / 2s2 2p6 / 3s2 3p6 3d10 / 4s0
+1s2 / 2s2 2p6 / 3s2 3p6 3d9 / 4s0
+1s2 / 2s2 2p6 / 3s2 3p6 3d6 / 4s2
+1s2 / 2s2 2p6 / 3s2 3p6 3d6 / 4s0
+1s2 / 2s2 2p6 / 3s2 3p6 3d5 / 4s0
 1s2 / 2s2 2p6 / 3s2 3p6 3d10 / 4s2 4p6 4d9 4f0 / 5s2 ⇒ … / 4s2 4p6 4d10 4f0 / 5s1
-(47-1) 1s2 / 2s2 2p6 / 3s2 3p6 3d10 / 4s2 4p6 4d10 4f0 / 5s0
+1s2 / 2s2 2p6 / 3s2 3p6 3d10 / 4s2 4p6 4d10 4f0 / 5s0
 
 3.
 Ag+ heeft een volledig gevuld d-orbitaal = stabiel.
@@ -10239,9 +10461,21 @@ C5
 
 methethpropbutpent-
 
-C6 hexC7 heptC8 octC9 nonC10 dec-
+C6
+C7
+C8
+C9
+C10
 
-C11 undecC12 dodecC13 tridecC14 tetradecC15 pentadec-
+hexheptoctnondec-
+
+C11
+C12
+C13
+C14
+C15
+
+undecdodectridectetradecpentadec-
 
 C16
 C17
@@ -10853,12 +11087,11 @@ aceton
 3-oxohexanal
 
 HCHO
+CH3 CHO
 
 methanal
 
 formaldehyde
-
-CH3 CHO
 
 ethanal
 
@@ -11907,10 +12140,15 @@ In principe is de D,L-nomenclatuur vervangen door de R,S-nomenclatuur. De eerste
 ingeburgerd in de biochemie dat ze in deze tak van de chemie nog volop gebruikt wordt.
 Cahn, Ingold en Prelog hebben de CIP-regels opgesteld voor de benoeming van de configuratie van
 chirale koolstofatomen. Deze regels zijn
-1. Atomen nummeren van grootste naar kleinste atoomnummer.
-2. De chirale koolstof zo houden dat de laagste atoomnummer (4) naar achter staat.
-3. Doorloop de overige drie groepen van (1) over (2) naar (3).
-4. Is de loop in wijzerzin dan krijgt de chirale koolstof de indicatie R (rectus).
+1.
+2.
+3.
+4.
+
+Atomen nummeren van grootste naar kleinste atoomnummer.
+De chirale koolstof zo houden dat de laagste atoomnummer (4) naar achter staat.
+Doorloop de overige drie groepen van (1) over (2) naar (3).
+Is de loop in wijzerzin dan krijgt de chirale koolstof de indicatie R (rectus).
 Is de loop in tegenwijzerzin dan krijgt de chirale koolstof de indicatie S (sinister).
 
 Figuur 11.12: principe van de R,S-nomenclatuur

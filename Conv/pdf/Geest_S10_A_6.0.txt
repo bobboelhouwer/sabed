@@ -381,17 +381,17 @@ Ze zijn al vertrokken, wij zullen dus ook vertrekken.
  Nevenschikking: Basistypes
 (4)
 
+VV
+
 a.
 b.
 c.
 
+P1
+
 Ze zijn al vertrokken, dus wij zullen ook vertrekken.
 Ze zijn al vertrokken, dus zullen wij ook vertrekken.
 Ze zijn al vertrokken, wij zullen dus ook vertrekken.
-
-VV
-
-P1
 
 MV
 

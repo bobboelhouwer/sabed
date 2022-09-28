@@ -63,7 +63,9 @@ Dwarsverbanden
 .
 
  De open woordsoorten: Nomina
-▶ syntactische & semantische kenmerken
+▶
+
+syntactische & semantische kenmerken
 
 .
 
@@ -110,7 +112,9 @@ Dwarsverbanden
 .
 
  De open woordsoorten: Nomina
-▶ syntactische & semantische kenmerken
+▶
+
+syntactische & semantische kenmerken
 
 .
 
@@ -175,7 +179,9 @@ Fanta
 .
 
  De open woordsoorten: Nomina
-▶ syntactische & semantische kenmerken
+▶
+
+syntactische & semantische kenmerken
 
 ▶
 
@@ -244,8 +250,84 @@ telbaarheid
 .
 
  De open woordsoorten: Nomina
-▶ syntactische & semantische kenmerken
+▶
 
+syntactische & semantische kenmerken
+
+▶
+▶
+
+zus, bakker
+hond
+warenhuis
+groep, kudde
+fruit, vee
+regen, koﬃe
+
+Harry
+Lassie
+Delhaize
+K3
+
+goedheid
+
+januari
+
+Fanta
+
+telbaarheid
+subklasseverschuivingen
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ De open woordsoorten: Nomina
+▶
+
+syntactische & semantische kenmerken
+
+▶
 ▶
 ▶
 
@@ -269,6 +351,7 @@ Fanta
 
 telbaarheid
 subklasseverschuivingen
+genus
 
 .
 
@@ -315,78 +398,9 @@ subklasseverschuivingen
 .
 
  De open woordsoorten: Nomina
-▶ syntactische & semantische kenmerken
-
-zus, bakker
-hond
-warenhuis
-groep, kudde
-fruit, vee
-regen, koﬃe
-
-Harry
-Lassie
-Delhaize
-K3
-
-goedheid
-
-januari
-
-Fanta
-
-telbaarheid
-subklasseverschuivingen
-▶ genus
-▶
 ▶
 
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
- De open woordsoorten: Nomina
-▶ morfologische kenmerken
+morfologische kenmerken
 
 .
 
@@ -433,7 +447,9 @@ subklasseverschuivingen
 .
 
  De open woordsoorten: Nomina
-▶ morfologische kenmerken
+▶
+
+morfologische kenmerken
 ▶
 
 meervoud
@@ -483,7 +499,9 @@ meervoud
 .
 
  De open woordsoorten: Nomina
-▶ morfologische kenmerken
+▶
+
+morfologische kenmerken
 ▶
 ▶
 
@@ -535,13 +553,16 @@ naamval
 .
 
  De open woordsoorten: Nomina
-▶ morfologische kenmerken
+▶
+
+morfologische kenmerken
+▶
+▶
+▶
 
 meervoud
 naamval
-▶ diminutief
-▶
-▶
+diminutief
 
 .
 

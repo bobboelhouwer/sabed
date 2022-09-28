@@ -12,21 +12,56 @@ matrices met een bijzondere eigenschap
 worden zonder rijomwisselingen
 – L is mxm onderdriehoeksmatrix met 1 op de diagonaal
 – U is een mxn echelonvorm van A
-* * 1 0
-* * * 1
+A=
 
- * * * *
-0  * * *
-0 0 0  *
-0 0 0 0 0
+1
+*
+*
+*
+
+0
+1
+*
+*
+
+0
+0
+1
+*
 
 L
 
+0
+0
+0
+1
+
+
+0
+0
+0
+
+*
+
+0
+0
+
+*
+*
+0
+0
+
+*
+*
+
+0
+
+*
+*
+*
+0
+
 U
-
-1 0 0 0
-
-A= * 1 0 0
 
 1
 
@@ -76,30 +111,56 @@ o E1 … Ep reduceren L tot I: Ep … E1 L = Ep … E1 (Ep … E1)-1 = I
 spil, creëren nullen in L op dezelfde plaats
 • Dus kolom van L = kolom van de tussenstap in de
 berekening van de EV, gedeeld door spil
- * * * *
-0 a * * *
-0 b * * *
-0 c * * *
+
+0
+0
+0
 
+*
+a
+b
+c
+
+*
+*
+*
+*
+
+*
+*
+*
+*
+
+*
+*
+*
+*
+
+ Ek+1 Ek =
+
+1 0 0
+0 1 0
+0 -b/a 1
+0 -c/a 0
+
+0
+0
+0
 1
 
-0 0 0
-1 0 0
-0 -b/a 1 0
-0 -c/a 0 1
-
- Ek+1 Ek = 0
-
-1
-
-0 0 0
-1 0 0
-0 b/a 1 0
-0 c/a 0 1
-
- Ek-1 Ek+1-1 = 0
+ Ek-1 Ek+1-1 =
 
 • Product van Ek-1 Ek+1-1 bouwt L, kolom na kolom
+
+1 0 0
+0 1 0
+0 b/a 1
+0 c/a 0
+
+0
+0
+0
+1
 
 Samengevat
 • L is kolom na kolom, de verhouding van de

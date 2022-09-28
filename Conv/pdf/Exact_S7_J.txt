@@ -9,12 +9,12 @@ x  n afbeeldt op b  n
 • We noteren b = T(x)
 • Voorbeeld 2  2
 2x
-T(2x)=2Ax
 • T(x) is lineair :
 x
 1) T(u + v) = T(u) + T(v)
 2) T(cu) = c T(u)
 
+T(2x)=2Ax
 T(x)=Ax
 
 T(0)=A0=0

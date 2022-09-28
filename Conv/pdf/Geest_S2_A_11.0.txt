@@ -10,9 +10,13 @@ III. Constructiegrammatica
 2
 
  Traditionele grammatica
+◼
+
+◼
+
 Aanpak in Taalsysteem I & II: zo theorieneutraal
 mogelijk
-◼ “Traditionele grammatica” of “schoolgrammatica”:
+“Traditionele grammatica” of “schoolgrammatica”:
 ❑
 studie van de woordsoorten en de zinsontleding
 zoals die gegroeid is uit de taalbeschouwing
@@ -22,32 +26,35 @@ geheel van begrippen als lijdend voorwerp,
 onderwerp, bepaling, voorzetsel,
 voornaamwoord, enz. die niet aan één
 specifieke grammaticale theorie gebonden zijn
-◼
-
 3
 
  Theorieën
+◼
+
+◼
+
 Daarnaast vooral in de tweede helft van de 20ste
 eeuw: ontwikkeling van heel diverse grammaticale
 theorieën
-◼ Heel sterk vereenvoudigd:
+Heel sterk vereenvoudigd:
 ❑ formele benaderingen: transformationeelgeneratieve grammatica en allerlei daaruit
 voortgekomen theorieën
 ❑ cognitief/functionele benaderingen: o.a. de
 constructiegrammatica
-◼
 
 4
 
  Constructiegrammatica
+◼
+
+◼
+
+◼
+
 Opgekomen in USA in jaren 1980/1990: Fillmore,
 Kay, Goldberg, Croft, …
-◼ Basisaanname: de grammatica bestaat uit een
+Basisaanname: de grammatica bestaat uit een
 network van “constructies” = vorm/betekenisparen
-◼
-
-◼
-
 Zie bv.
 
 De man geeft het kind een appel.
@@ -96,10 +103,11 @@ Wat is het valentieschema van graven?
 7
 
  Nog zo’n stukje grammatica
-Wat is het valentieschema van graven?
-◼ Maar zie:
+◼
 ◼
 
+Wat is het valentieschema van graven?
+Maar zie:
 ❑
 
 De larve graaft zich al etend een weg door de nerven
@@ -109,10 +117,11 @@ bladeren ontstaat. (SoNaR)
 8
 
  Nog zo’n stukje grammatica
-Wat is het valentieschema van graven?
-◼ Maar zie:
+◼
 ◼
 
+Wat is het valentieschema van graven?
+Maar zie:
 ❑
 
 De larve graaft zich al etend een weg door de nerven
@@ -122,29 +131,35 @@ bladeren ontstaat. (SoNaR)
 Zo ook:
 
 ◼
+❑
+
+❑
 
 Rond 13:00 uur sprongen negen kamerleden over het hek van
 de militaire basis of knipten zich een weg door het hek.
 (NLCOW14-corpus)
-❑ De ene zoon hakt met zijn machete een weg door het woud en
+De ene zoon hakt met zijn machete een weg door het woud en
 brengt om de zoveel kilometer een baken aan. (SoNaR)
-❑
-
 9
 
  Nog zo’n stukje grammatica
+❑
+
+❑
+
+❑
+
 Hij werd overgeplaatst naar een gevangenis voor officieren .
 Daar stal hij een uniform van de Hitler-Jugend en blufte
 zich een weg naar buiten. (SoNaR)
-❑ 'Big Rom' slalomde zich een weg door de defensie van 'The
+'Big Rom' slalomde zich een weg door de defensie van 'The
 Blues' wat uiteindelijk een klungelige owngoal van John Terry
 opleverde.
 (www.hln.be, 16/01/2016)
-❑ 15.56 uur: Renners kreunen, steunen, zuchten en vloeken zich
+15.56 uur: Renners kreunen, steunen, zuchten en vloeken zich
 een weg naar boven. Voor velen is dit een regelrechte
 calvarietocht. (Het Nieuwsblad, 31/06/2011, ‘Zomaar een
 zondag op de Bosberg’)
-❑
 
 10
 
@@ -207,9 +222,13 @@ Dit keer eet ik mezelf niet door de lockdown heen.
 14
 
  Variatie
+◼
+
+◼
+
 Stof in handboek maakt vrijwel helemaal abstractie
 van variatie
-◼ Zelfs binnen het Standaardnederlands is er variatie
+Zelfs binnen het Standaardnederlands is er variatie
 langs verschillende dimensies:
 ❑ stilistische variatie: meeste grammaticale
 elementen en structuren zijn stilistisch neutraal,
@@ -217,8 +236,6 @@ maar er zijn er ook die typisch zijn voor formeel
 of informeel taalgebruik
 ❑ geografische variatie: verschillen tussen BN, NN
 en SN
-◼
-
 15
 
  BN vs. NN
@@ -246,28 +263,34 @@ uh d'r zijn nog zo veel andere dingen gewoon hè.
 
 Absolute verschillen: constructies die (nagenoeg)
 alleen in BN of in NN voorkomen
+❑
+
+❑
+
 Bv. Het schijnt nu werkelijk hard te beginnen vriezen.
 Doorheen de jaren breidde de collectie uit.
 Ik heb hem nog lang haar weten (te) hebben.
 = typisch voor BN
-❑ Bv. We liepen achterlangs een kleine boerderij.
+Bv. We liepen achterlangs een kleine boerderij.
 Doe jij even de aardappels schillen?
 Jan is vissen.
 = typisch voor NN
-❑
 
 17
 
  18
 
  BN vs. NN
+◼
+
+◼
+
 Nog een typisch Nederlandse constructie:
 “banaanzinnen”
-◼ Zie eerst: een uitzondering op de 1ZDP
+Zie eerst: een uitzondering op de 1ZDP
 Op slecht weer hadden we niet gerekend.
 Daarop hadden we niet gerekend.
 Daar hadden we niet op gerekend.
-◼
 
 19
 
@@ -279,24 +302,31 @@ Daar hadden we niet op gerekend.
 Alternatief in informeel NN:
 Slecht weer hadden we niet op gerekend.
 Voorbeelden in het wild:
+❑
+
+❑
+
+❑
+
 Bier hou ik niet zo van, liever een Malibu Cola.
 (leidenamateurvoetbal.nl)
-❑ Gasleidingen en rookgasafvoer ga ik niet mee spelen
+Gasleidingen en rookgasafvoer ga ik niet mee spelen
 of onzekerheden inbouwen.
 (caravan-forum.nl/)
-❑ Vooral de sleehak sneakers ben ik helemaal weg van.
+Vooral de sleehak sneakers ben ik helemaal weg van.
 (t-nederland.nl)
-❑
 
 20
 
  Andere variëteiten
+◼
+
+◼
+
 Ook grammatica van variëteiten “onder” de
 standaardtaal kan worden bestudeerd: dialecten,
 regiolecten, etnolecten, Vlaamse tussentaal, enz.
-◼ Zie bv. uit CGN, sprekers uit OVL & WVL:
-◼
-
+Zie bv. uit CGN, sprekers uit OVL & WVL:
 ❑
 
 taxichauffeur heeft ons daarnaartoe gebracht waar dat
@@ -309,36 +339,42 @@ noemde.
 21
 
  Andere variëteiten
+❑
+
+❑
+❑
+
 maar 'k vond ... allee 't klonk niet slecht . mmm . uhm maar 't
 was de vrijdagavond wel enorm veel regen .
-❑
 't was gisteren nogal wind ook hè. ja . 't was vele wind.
-❑ ja dat is ook juist . gaan ze nu Vinderhoute hebben ze
+ja dat is ook juist . gaan ze nu Vinderhoute hebben ze
 opgezegd en ze moeten d'r alle twee allee ze moeten d'r
 allemaal uit tegen eind eind maart hé . dus is Jan nu ... die
 zijne loft uh allee 't was geen elektriciteit . 't was daar juist een
 badkamer . 'k moest daar mijnen afwas doen in mijn bad jong .
 ja da 's ook allemaal goed voor tijdelijk hé zo'n dingen
-❑
 
 22
 
  Andere variëteiten
+❑
+
+❑
+❑
+
+➢
+
 maar 'k vond ... allee 't klonk niet slecht . mmm . uhm maar 't
 was de vrijdagavond wel enorm veel regen .
-❑
 't was gisteren nogal wind ook hè. ja . 't was vele wind.
-❑ ja dat is ook juist . gaan ze nu Vinderhoute hebben ze
+ja dat is ook juist . gaan ze nu Vinderhoute hebben ze
 opgezegd en ze moeten d'r alle twee allee ze moeten d'r
 allemaal uit tegen eind eind maart hé . dus is Jan nu ... die
 zijne loft uh allee 't was geen elektriciteit . 't was daar juist een
 badkamer . 'k moest daar mijnen afwas doen in mijn bad jong .
 ja da 's ook allemaal goed voor tijdelijk hé zo'n dingen
-❑
 
-➢ In sommige West-Vlaamse en (westelijk) Oost-
-
-Vlaamse dialecten geen presentatief er, maar
+In sommige West-Vlaamse en (westelijk) OostVlaamse dialecten geen presentatief er, maar
 presentatief ‘t
 23
 
@@ -382,19 +418,23 @@ morgen komt enz.
 ◼
 
 Grammatica verandert:
-Dien ouden kluitboogh nam ick hem, en brenge en biede U
-dien. (1647)
 ❑
-Men open ons de poort, of niet, het zal u rouwen. (Asselijn,
-17de eeuw)
+
 ❑
-'k Vond hem treurende, en hy kloeg My zyn honger (J.F.
-Willems, Reinaert, 1846)
+
 ❑
-ik verborg hem myn gevoelen niet (1849)
+
 ❑
 
 ➢
+
+Dien ouden kluitboogh nam ick hem, en brenge en biede U
+dien. (1647)
+Men open ons de poort, of niet, het zal u rouwen. (Asselijn,
+17de eeuw)
+'k Vond hem treurende, en hy kloeg My zyn honger (J.F.
+Willems, Reinaert, 1846)
+ik verborg hem myn gevoelen niet (1849)
 
 constructie van daarnet kon vroeger met een
 bredere set van werkwoorden = verschuivingen die

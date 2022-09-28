@@ -433,10 +433,15 @@ We hebben er drie/veel gelezen.
  R-pronomina
 (23)
 
-a. *We hebben lang aan het gedacht.
-b. *We hebben lang aan dat gedacht.
-c. *Aan wat hebben we lang gedacht?
-d. *Dit is het probleem aan wat we lang hebben gedacht
+a.
+b.
+c.
+d.
+
+*We hebben lang aan het gedacht.
+*We hebben lang aan dat gedacht.
+*Aan wat hebben we lang gedacht?
+*Dit is het probleem aan wat we lang hebben gedacht
 
 .
 
@@ -485,11 +490,17 @@ d. *Dit is het probleem aan wat we lang hebben gedacht
  R-pronomina
 (23)
 
-a. *We hebben lang aan het gedacht.
-b. *We hebben lang aan dat gedacht.
-c. *Aan wat hebben we lang gedacht?
-d. *Dit is het probleem aan wat we lang hebben gedacht
-a′ . We hebben er lang aan gedacht.
+a.
+b.
+c.
+d.
+a′ .
+
+*We hebben lang aan het gedacht.
+*We hebben lang aan dat gedacht.
+*Aan wat hebben we lang gedacht?
+*Dit is het probleem aan wat we lang hebben gedacht
+We hebben er lang aan gedacht.
 
 .
 

@@ -1,0 +1,674 @@
+ LES 1
+
+DNA STRUCTUUR EN DNA REPLICATIE
+
+ DNA STRUCTUUR
+
+ 4.8 miljard:
+
+ontstaan van de aarde
+
+3.8-3.5 miljard:
+
+ontstaan van het eerste leven (prokaryoten)
+atmosfeer initieel anaeroob
+
+2.4-2 miljard:
+
+ontstaan van photosynthese
+toenemende zuurstofconcentratie atmosfeer
+
+1.5 miljard:
+
+ontstaan van de eukaryoten → multicellulaire organismen
+
+0.5 miljard:
+
+vissen
+
+420 miljoen:
+
+eerste landdieren
+
+50.000:
+
+homo sapiens
+
+   Kleine cel: 1µm
+Geen kernmembraan
+Circulair chromosoom
+DNA: 1-5 x 106 nucleotiden
+Geen cytoskelet
+Geen organellen
+
+ Eukaryote cel
+
+Grotere cel: 10-100 µm
+Wel kernmembraan
+Lineaire chromosomen
+DNA: 1-5 x 109 nucleotiden
+Wel cytoskelet
+Wel organellen
+
+ Fungi
+
+Planten
+
+Dieren
+
+EUKARYOTEN
+
+Multicellulair
+Protozoa
+Unicellulair
+
+Archaebacteriae
+Eubacteriae
+PROKARYOTEN
+
+ Bouwstenen van de cel
+H20
+Suikers (sacchariden) → Polysacchariden
+Vetzuren → Vetten
+Aminozuren → Eiwitten
+Basen → Nucleotiden → Nucleinezuren (DNA / RNA)
+Base + Pentose + Fosfaat
+
+Pyrimidines
+Cytosine (C)
+Thymine (T)
+Uracil (U) ( RNA !! )
+
+Purines
+Adenine (A)
+Guanine (G)
+
+ BASEN
+
+Pyrimidines
+
+Purines
+
+Cytosine
+Thymine ( DNA !! )
+Uracil ( RNA !! )
+
+Adenine
+Guanine
+
+C
+C
+
+N
+
+N
+
+C
+C
+
+N
+
+C
+
+C
+
+C
+C
+
+C
+N
+
+N
+
+N
+
+ Basen → Nucleotiden → Nucleinezuren (DNA / RNA)
+
+Base + Pentose + Fosfaat
+O
+
+5
+
+HOCH2
+
+H
+1
+
+4
+
+H
+
+H
+
+H
+
+3
+
+OH
+
+2
+
+OH
+
+O
+
+5
+
+OH
+
+HOCH2
+
+H
+1
+
+4
+
+H
+
+H
+
+H
+
+3
+
+OH
+
+2
+
+OH
+
+H
+
+RIBOSE
+
+DEOXYRIBOSE
+
+RNA
+
+DNA
+
+RIBONUCLEINEZUUR
+
+DEOXYRIBONUCLEINEZUUR
+
+ C
+C
+
+N
+
+C
+
+C
+N
+
+O
+
+5
+
+HOCH2
+1
+
+4
+
+H
+
+H
+3
+
+H
+
+H
+
+2
+
+OH
+
+H
+
+NUCLEOSIDE
+
+ C
+C
+
+N
+
+C
+
+C
+N
+
+5
+
+P
+
+O
+
+CH2
+
+1
+
+4
+
+H
+
+H
+
+H
+
+3
+
+H
+
+2
+
+OH
+
+H
+
+NUCLEOSIDE
+
+NUCLEOTIDE
+
+ C
+C
+
+N
+
+C
+
+C
+N
+
+5
+
+P
+
+P
+tri
+
+P
+di
+fosfaat
+
+O
+
+CH2
+mono
+
+1
+
+4
+
+H
+
+H
+3
+
+H
+2
+
+OH
+
+H
+
+H
+
+ BOUWSTENEN
+RNA
+Adenosine mono/di/tri fosfaat
+Guanosine mono/di/tri fosfaat
+Cytidine mono/di/tri fosfaat
+Uridine mono/di/tri fosfaat
+
+AMP / ADP / ATP
+GMP / GDP / GTP
+CMP / CDP / CTP
+UMP / UDP / UTP
+
+DNA
+Deoxyadenosine mono/di/tri fosfaat
+Deoxyguanosine mono/di/tri fosfaat
+Deoxycytidine mono/di/tri fosfaat
+Deoxythymidine mono/di/tri fosfaat
+
+dAMP / dADP / dATP
+dGMP / dGDP / dGTP
+dCMP / dCDP / dCTP
+dTMP / dTDP / dTTP
+
+ BASE
+
+P
+
+5
+CH2
+
+O
+1
+
+4
+
+H
+
+H
+3
+
+FOSFODIESTER BINDING
+
+H
+
+H
+2
+
+OH
+
+H
+
+P
+BASE
+
+P
+
+5
+CH2
+
+O
+1
+
+4
+
+H
+
+H
+3
+
+H
+2
+
+OH
+
+H
+
+H
+
+ 5’ uiteinde
+P
+O
+
+3
+
+3
+
+BASE
+
+O
+
+BASE
+
+P
+
+5
+
+P
+3
+
+5
+
+3
+
+BASE
+3’ uiteinde
+
+O
+
+3
+
+5
+
+P
+
+5
+
+CH2
+
+O
+
+BASE
+
+BASE
+
+P
+
+5
+
+O
+
+3
+
+P
+
+CH2
+
+O
+
+5
+
+3’ uiteinde
+
+BASE
+
+5’ uiteinde
+
+ 5’ uiteinde
+P
+O
+
+3
+
+3
+
+BASE
+
+O
+
+BASE
+
+P
+
+5
+
+P
+3
+
+5
+
+3
+
+BASE
+3’ uiteinde
+
+O
+
+3
+
+5
+
+P
+
+5
+
+CH2
+
+O
+
+BASE
+
+BASE
+
+P
+
+5
+
+O
+
+3
+
+P
+
+CH2
+
+O
+
+5
+
+3’ uiteinde
+
+BASE
+
+5’ uiteinde
+
+ Complementaire
+Helix
+
+ Helix structuur DNA
+
+ VERSCHIL DNA VERSUS RNA
+
+           3’
+
+5’
+
+ Menselijk genoom: 3 miljard basenparen
+1000 bp = 1 kb
+
+2%
+Coderende sequenties
+40%
+Verspreid repetitief DNA
+
+10%
+Gegroepeerd repetitief DNA
+
+23%
+Niet-coderende delen van genen
+
+25%
+Enkelvoudig DNA
+
+Klein stukje extra-nucleair DNA of mitochondriale DNA
+
+  DNA REPLICATIE
+
+ DNA replicatie: semi-conservatief
+
+ Cyclus van de cel
+Mitose
+
+Interfase
+
+DNA replicatie
+
+ Origins of replication
+100 basenparen / seconde
+Ganse replicatie: 8 uur
+
+ 5’
+
+3’
+
+Origins of replication
+Helicase
+Okazaki fragmenten
+DNA polymerase
+
+Ligase
+RNA primer
+3’
+
+5’
+
+LEADING strand
+
+3’
+
+5’
+
+LAGGING strand
+
+ BASE
+5
+
+P
+
+O
+
+CH2
+
+1
+
+4
+
+H
+
+H
+3
+
+FOSFODIESTER BINDING
+
+H
+
+H
+2
+
+OH
+
+H
+
+P
+BASE
+DNA POLYMERASE
+5
+
+P
+
+O
+
+CH2
+
+1
+
+4
+
+DNA herstel en fouten corrigeren (G2)
+
+H
+
+H
+3
+
+H
+2
+
+OH
+
+H
+
+H
+
+  Origins of replication
+100 basenparen / seconde
+Ganse replicatie: 8 uur
+
+ DNA replicatie:
+
+verdubbeling
+
+DNA transcriptie:
+
+copie van het DNA naar RNA
+
+Translatie
+
+eiwitsynthese
+
+ 

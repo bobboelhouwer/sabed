@@ -60,9 +60,11 @@ D=
 0 4
 0 4
 0 16
-D" =
+D"
 
-5"
+"
+5
+=
 0
 
 0
@@ -74,11 +76,11 @@ D" =
 1 2 0 4 −1 1
 
 A! = PDP#$ PDP#$ = PDDP#$ = PD!P#$
-A" =
+A"
 
 1 1 5"
+=
 1 2 0
-
 "
 5
 = "
@@ -144,11 +146,12 @@ det A − 𝜆I =
 2−𝜆
 0
 
-= 1−𝜆 2−𝜆 !
+= 1−𝜆 2−𝜆
 Eigenwaarden: 1, 2, 2
 
 1
 1−𝜆
+!
 
  Stap 2: eigenvectoren zoeken
 Bij 𝛌 = 1: Los op (A – 1.I)x = 0
@@ -305,28 +308,29 @@ bn
 [T(x)]𝛄
 cm
 
- r$
-x&= ⋮
+ x
+
+&
+
+r$
+= ⋮
 r%
+
 x = r$b$ + r!b! + ⋯ + r'b'
 T x = T r$b$ + r!b! + ⋯ + r'b'
 = r$T b$ + r!T b! + ⋯ + r' T b'
 T x
 
-( = r$ T b$
+(
 
+= r$ T b$
 = T b$
 
-( + r! T b!
+(
 (
 
-T b!
-
-(
-
-( + ⋯ + r' T b' (
-⋯ T b' ( x )
-
++ r! T b! ( + ⋯ + r' T b' (
+T b! ( ⋯ T b' ( x )
 M$%
 Matrix voor T tov basis 𝛃 en basis 𝛄
 
@@ -335,31 +339,47 @@ Stel T(x) = Ax en stel A = PDP-1 met P = [v1 v2 … vn] (= eigenvectoren van A).
 Kies 𝛃 = 𝛄 = {v1, v2, …, vn}
 Dan geldt M𝛃𝛃 = D
 Bewijs:
+Stel x
+
+)
 
 r$
-Stel x ) = ⋮
+= ⋮
 r'
+
 Dan x = r$v$ + r!v! + ⋯ + r'v' = v$
-Dus x ) = P#$x
+Dus x
+
+)
+
+= P#$x
 
 ⋯ v'
 
 r$
-⋮ =Px)
+⋮ =Px
 r'
 
+)
+
  Vervolg bewijs:
-M)) = T v$ )
+M)) = T v$
+= Av$
+
+)
+
+⋯
+
+)
 
 ⋯
 
 T v'
+Av'
 
 )
 
-= Av$ )
-
-⋯
+)
 
 = P#$Av$
 
@@ -369,9 +389,9 @@ T v'
 
 ⋯ v' = P#$AP = D
 
-Notatie: M)) = T )
+Notatie: M)) = T
 
-Av' )
+)
 
  5.5 Complexe eigenwaarden
 1

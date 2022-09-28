@@ -1,5 +1,7 @@
 De open woordsoorten: Adjectieven
-▶ syntactische & semantische kenmerken
+▶
+
+syntactische & semantische kenmerken
 
 .
 
@@ -46,7 +48,9 @@ De open woordsoorten: Adjectieven
 .
 
  De open woordsoorten: Adjectieven
-▶ syntactische & semantische kenmerken
+▶
+
+syntactische & semantische kenmerken
 ▶
 
 gradeerbaarheid
@@ -96,7 +100,9 @@ gradeerbaarheid
 .
 
  De open woordsoorten: Adjectieven
-▶ syntactische & semantische kenmerken
+▶
+
+syntactische & semantische kenmerken
 ▶
 ▶
 
@@ -148,7 +154,9 @@ gebruiksmogelijkheden:
 .
 
  De open woordsoorten: Adjectieven
-▶ syntactische & semantische kenmerken
+▶
+
+syntactische & semantische kenmerken
 ▶
 ▶
 
@@ -203,7 +211,9 @@ attributief: de grote hond
 .
 
  De open woordsoorten: Adjectieven
-▶ syntactische & semantische kenmerken
+▶
+
+syntactische & semantische kenmerken
 ▶
 ▶
 
@@ -262,7 +272,9 @@ predicatief: De hond is groot.
 .
 
  De open woordsoorten: Adjectieven
-▶ syntactische & semantische kenmerken
+▶
+
+syntactische & semantische kenmerken
 ▶
 ▶
 
@@ -325,7 +337,9 @@ zelfstandig: De grote hond en de kleine.
 .
 
  De open woordsoorten: Adjectieven
-▶ syntactische & semantische kenmerken
+▶
+
+syntactische & semantische kenmerken
 ▶
 ▶
 
@@ -392,10 +406,10 @@ adverbiaal: Het paard loopt snel.
 .
 
  De open woordsoorten: Adjectieven
-▶ syntactische & semantische kenmerken
-▶
 ▶
 
+syntactische & semantische kenmerken
+▶
 ▶
 
 gradeerbaarheid
@@ -413,6 +427,7 @@ predicatief: De hond is groot.
 zelfstandig: De grote hond en de kleine.
 
 (10)
+▶
 
 adverbiaal: Het paard loopt snel.
 
@@ -463,7 +478,9 @@ subklasseverschuivingen
 .
 
  De open woordsoorten: Adjectieven
-▶ morfologische kenmerken
+▶
+
+morfologische kenmerken
 
 .
 
@@ -510,7 +527,9 @@ subklasseverschuivingen
 .
 
  De open woordsoorten: Adjectieven
-▶ morfologische kenmerken
+▶
+
+morfologische kenmerken
 ▶
 
 congruentie
@@ -597,7 +616,9 @@ vrouwtjes
 .
 
  De open woordsoorten: Adjectieven
-▶ morfologische kenmerken
+▶
+
+morfologische kenmerken
 ▶
 
 congruentie
@@ -688,7 +709,9 @@ trappen van vergelijking
 .
 
  De open woordsoorten: Adjectieven
-▶ morfologische kenmerken
+▶
+
+morfologische kenmerken
 ▶
 
 congruentie

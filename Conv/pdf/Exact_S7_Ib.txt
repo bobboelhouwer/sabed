@@ -5,11 +5,15 @@ Lay 4.7
 V ; dim(V)=n
 x
 
-𝐱𝑩
+𝐱
+
+𝑩
 
 n
 
-𝐱𝑪
+𝐱
+
+𝑪
 
 n
 
@@ -80,20 +84,29 @@ V ; dim(V)=n
 x
 T1(x)
 
-𝐱𝑩
+𝐱
+
+•
+•
+•
+•
+
+𝑩
 
 T2(x)
 
 n
 
-𝐱𝑪
+𝐱
+
+𝑪
 
 n
 
-• Vb: V = verzameling van veeltermen graad 2 of lager
-• B = {1, t, t2}
-• C = {1-t+ t2, 1+t+ t2, 1-t2}
-• Wat is het verband tussen 𝐱 𝑩 en 𝐱 𝑪 ?
+Vb: V = verzameling van veeltermen graad 2 of lager
+B = {1, t, t2}
+C = {1-t+ t2, 1+t+ t2, 1-t2}
+Wat is het verband tussen 𝐱 𝑩 en 𝐱 𝑪 ?
 
 2
 
@@ -103,7 +116,9 @@ Verband tussen
 •
 •
 
-𝑩 en
+𝑩
+
+en
 
 𝑪
 
@@ -123,6 +138,8 @@ CB
 
 = [b1]C [b2]C … [bn]C inverteerbaar.
 P = [c ] [c ] … [c ]
+1 B 2 B
+n B
 
 •
 
@@ -141,12 +158,6 @@ P )-1 =BC
 P
 
 BC
-
-1 B
-
-2 B
-
-n B
 
 In n
 •
@@ -173,11 +184,18 @@ n stelsels 𝐜 … 𝐜 |𝐛 … 𝐛  [I | [b1]C ... [bn]C]
  8/22/2019
 
 In n
-• C={c1, … , cn} is standaardbasis E={ e1, … , en}
-• 𝐜 … 𝐜 |𝐛 … 𝐛 = 𝐈 |𝐛 … 𝐛
-• P = [𝐛 … 𝐛 ]
-• x = [x]E = [𝐛 … 𝐛 ] [x]B
-• [x]B = [𝐛 … 𝐛 ]-1 x
+•
+•
+•
+•
+•
+
+C={c1, … , cn} is standaardbasis E={ e1, … , en}
+𝐜 … 𝐜 |𝐛 … 𝐛 = 𝐈 |𝐛 … 𝐛
+P = [𝐛 … 𝐛 ]
+x = [x]E = [𝐛 … 𝐛 ] [x]B
+[x]B = [𝐛 … 𝐛 ]-1 x
+
 EB
 
 4

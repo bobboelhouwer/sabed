@@ -325,26 +325,24 @@ Stoechiometrische berekening (in mol) :
 4 FeCr2O4 (v) + 8 K2CO3 (v) + 7 O2 (g)
 voor
 
+0,77
+-0,77
+
 na
 
-0,77
+0
 
 2,19
+
+8
+-0,77 x
+4
+0,65
 
 2,50
 
 8 K2CrO4 (v) + 2 Fe2O3 (v) + 8 CO2 (g)
 -
-
--
-
--
-
--0,77
-
-8
--0,77 x
-4
 
 7
 -0,77 x
@@ -354,27 +352,23 @@ na
 +0,77 x
 4
 
-2
-+0,77 x
-4
-
-+0,77 x
-
-0
-
-0,65
-
 1,15
-
-1,54
-
-0,38
 
 1,54
 
 Er wordt dus 1,54 mol K2CrO4 (v) gevormd
 
+-
+
+2
++0,77 x
+4
+0,38
+
 299,07 g K2CrO4 (v)
+
++0,77 x
+1,54
 
 8
 4
@@ -469,31 +463,30 @@ voor
 
 na
 
-PbCrO4 (v) + 2 NaNO3 (opl)
-
 0,072
 
 0,025
 
--
-
--
-
 -0,025
 
 -0,025
+
+0,047
+
+PbCrO4 (v) + 2 NaNO3 (opl)
+-
+
+-
 
 +0,025
 
 +0,025 x
 
-0,047
-
-0
-
 0,025
 
 0,050
+
+0
 
 2
 1
@@ -520,9 +513,15 @@ Stap 6 :
 
 38
 
-Hoeveel gram SF4 (g) ontstaat er wanneer 5,00 g SCl2 (g) reageert met 4,50 g NaF (v)
+Hoeveel gram SF4 (g) ontstaat er wanneer 5,00 g SCl2
 volgens onderstaande reactievergelijking?
 3 SCl2 (g) + 4 NaF(v)
+
+(g)
+
+reageert met 4,50 g NaF
+
+(v)
 
 SF4 (g) + S2Cl2 (g) + 4 NaCl (v)
 
@@ -567,16 +566,14 @@ NaF :
 stap 3 :
 stoechiometrische berekening (in mol) :
 3 SCl2 (g)
-
-4 NaF(v)
-
-SF4 (g)
-
 voor 0,0485
 
-0,1071
+na
 
--
++
+
+4 NaF(v)
+0,1071
 
 -0,0485
 
@@ -586,20 +583,20 @@ voor 0,0485
 
 0,0424
 
-na
+we bekomen 0,0162 mol SF4
+stap 4 :
+
+SF4 (g)
 
 +
 
-we bekomen 0,0162 mol SF4
-stap 4 :
+-
 
 4
 3
 
 +0,0485 x
 0,0162
-
-+
 
 S2Cl2 (g)
 
@@ -648,10 +645,15 @@ V is het volume die het gas inneemt (in l)
 n is het aantal mol gas (in mol)
 R is de universele gasconstante ( = 8,314 J.mol-1 K-1)
 T is de temperatuur (in K)
-In dit geval is P = ?
-V = 10 l
-n = 0,0162 mol
-T = 298 K
+In dit geval is P
+V
+n
+T
+
+= ?
+= 10 l
+= 0,0162 mol
+= 298 K
 
 n x R xT
 V
@@ -724,10 +726,15 @@ De partieeldruk van O2 is de totale gasdruk – de dampdruk van het H2O
 = 96,7 kPa
 stap 2 :
 We berekenen het aantal mol O2 uit de ideale gaswet
-P = partieeldruk O2 = 96,7 kPa
-V = 0,8 l
-n =?
-T = 298 K
+P
+V
+n
+T
+
+= partieeldruk O2 = 96,7 kPa
+= 0,8 l
+=?
+= 298 K
 
 P xV
 R xT
@@ -931,11 +938,11 @@ g CaCO3
 
 mol CaCO3
 
-energie
-
 922 g
 100 g
 mol
+
+energie
 
 = 9,22 mol CaCO3
 

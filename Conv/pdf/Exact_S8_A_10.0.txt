@@ -329,10 +329,9 @@ glycine
 
 (9,3)
 histidine
+pI = 7,65
 
 pI = 6,0
-
-pI = 7,65
 pH 6,0
 
 CH2
@@ -480,9 +479,9 @@ Aminozuren en eiwitten
 • voorstelling polypeptideketen
 begin
 
-einde
-
 basische eind
+
+einde
 
 zure eind
 
@@ -594,14 +593,15 @@ Aminozuren en eiwitten
 31
 
  • voorbeeld schutgroep X:
-voorwaarden ✓ nucleofiel karakter –NH2 uitschakelen
-
+✓ nucleofiel karakter –NH2 uitschakelen
 ✓ na synthese gemakkelijk en selectief te verwijderen
 zuurchloride? amine → amide
 niet selectief te verwijderen
+
+voorwaarden
+
 tert-butyloxycarbonylchloride (BOC)
 CH3
-
 H 3C
 
 C

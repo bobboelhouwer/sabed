@@ -59,11 +59,9 @@ Q(x) = xT
 x
  4  5
  
-
  
 
  
-
  
 
 3
@@ -78,9 +76,9 @@ x
 
  
 
- 
-
 x
+
+ 
 
 = yTDy = 3 y12 - 7 y22
 Hoofdassen volgens e.v.

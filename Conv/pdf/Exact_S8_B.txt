@@ -21,13 +21,9 @@ Naam
 
 Tk (°C)
 
-1 CH4
-
 Methaan
 
 -162
-
-2 CH3CH3
 
 Ethaan
 
@@ -63,11 +59,14 @@ Heptaan
 
 98
 
-8 CH3CH2CH2CH2CH2CH2CH2CH3
-
 Octaan
 
 126
+
+1 CH4
+2 CH3CH3
+
+8 CH3CH2CH2CH2CH2CH2CH2CH3
 
 Alkanen en cycloalkanen
 

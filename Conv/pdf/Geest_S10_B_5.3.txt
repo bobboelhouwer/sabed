@@ -661,11 +661,11 @@ AV
 VV
 Stef
 
+VV
+
 P1
 heeft
 dat
-
-VV
 
 P1
 
@@ -821,31 +821,23 @@ heeft
 heeft
 heeft
 
+MV1
+(er)
+(er)
+
 MV
 Najib de brief aan Paulien
 de brief Najib aan Paulien
 de brief aan Paulien Najib
-
-P2
-gegeven.
-gegeven.
-gegeven.
-
-AV
-
-MV1
-(er)
-(er)
 
 MV2
 altijd
 iemand gisteren
 
 P2
-gelegen.
-gesproken
-
-AV
+gegeven.
+gegeven.
+gegeven.
 
 MV3
 zand
@@ -853,6 +845,12 @@ met Hans
 
 .
 
+AV
+
+P2
+gelegen.
+gesproken
+
 .
 
 .
@@ -870,6 +868,8 @@ met Hans
 . . . .
 
 . . . .
+
+AV
 
 . . . .
 
@@ -1129,14 +1129,6 @@ MV
 vaak
 de resultaten
 
-P2
-gedacht
-bekeken
-
-AV
-aan Jamila.
-van dat onderzoek.
-
 VV
 
 P1
@@ -1146,6 +1138,14 @@ dat
 MV
 Jamila Ilse
 Dirk vroeger
+
+P2
+gedacht
+bekeken
+
+AV
+aan Jamila.
+van dat onderzoek.
 
 P2
 heeft gezien

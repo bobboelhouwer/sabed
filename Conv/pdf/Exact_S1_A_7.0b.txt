@@ -101,14 +101,24 @@ Reactie:
 
 +
 
-Mg(v) + 2 H (opl)
+Mg(v) + 2 H
 
-(Mg ) = 1 M
+[ ]
+
+oplossing: H +
+
+(opl)
+
+(Mg )
 2+
+
+= 1M
 
 Mg
 
 2+
+
+(opl)
 
 PH 2
 
@@ -118,13 +128,9 @@ en
 
 Ecel = 2,099 V
 
-(opl) + H2(g)
++ H2(g)
 
-[ ] = 2,6 10 M
-
-oplossing: H +
-
-−5
+= 2,6 10 −5 M
 
 Oefening 12
 Bereken de pH van de oplossing in volgende cel:
@@ -185,15 +191,23 @@ In welke richting gaat de volgende reactie spontaan door?
 NO3- + H+ + Ce3+
 NO + H2O + Ce4+
 
-(Ce ) = (Ce ) = (NO ) = s tan daardconcentraties
+(Ce )
 3+
 
+=
+
+(Ce )
 4+
 
+(NO )
 −
 3
 
+=
+
 (reactie vervolledigen)
+
+= s tan daardconcentraties
 
 PNO = 0,5 bar bij pH = 1.
 Bereken G en G° voor deze reactie.
@@ -251,15 +265,16 @@ Pb2+(opl) + H2O(vl)
 •
 •
 
-(Ag ) = 10 M . Bereken (Pb ) bij pH = 2 als E = 0,6 V.
+(Ag )
 +
 
-−2
+(
 
-2+
+= 10 −2 M . Bereken Pb 2+
 
-cel
+)
 
+bij pH = 2 als Ecel = 0,6 V.
 Hoe groot moet de pH van de rechtse halfcel worden om, voor dezelfde concentraties
 aan Ag+ en Pb2+, een Ecel van 0,66 V te bekomen?
 
@@ -301,22 +316,22 @@ Indien (H 2 O2 ) = Fe 2 + = s tan daardconcentraties
 
 (
 
+(Fe )
+
 )
 
-(Fe ) = 2 10 M
 3+
 
-−3
-
-pH = 1 en PO2
-
-= 2 bar
+= 2 10 −3 M
+pH = 1 en PO2 = 2 bar
 
 Je wil de reactie omkeren: zou je de concentratie aan Fe3+ vergroten of verkleinen?
 Oplossing:
 
-[Fe ] = 0,0043 M
+[Fe ]
 3+
+
+= 0,0043 M
 
 Oefening 22
 Beschouw de volgende cel: Ag(v) / Ag+(opl ) (?) // Hg2+(opl) (0,1 M) / Hg(vl)
@@ -339,14 +354,14 @@ Ag + = 2,6 M
 •
 
 [ ]
-[Pt ] = 1,8 10
+[Pt ]
 2+
 
-−13
+]
 
-] zijn opdat geen
+zijn opdat geen
 
-M
+= 1,8 10 −13 M
 
 Oefening 23
 Een oplossing bevat Fe2+ (0,05 M) bij een pH van 1. Aan 100 ml van die oplossing wordt 50
@@ -370,25 +385,30 @@ NO3−
 
 (
 
-) = 0,1 M
-
-rechts: (H 2 SO4 ) =
+rechts:
 
 ( )
 
 Gevraagd: H
 Oplossing:
 
+= 0,1 M
+
+(H 2 SO4 )
+
 +
 
 links
 
 (H )
+
+)
+
 +
 
 links
 
-0,1 M
+= 0,1 M
 
 = ? als Ecel = 0,75 V
 

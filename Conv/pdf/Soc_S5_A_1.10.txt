@@ -250,14 +250,21 @@ Prof. Dr. Eva Van den Bussche
  Overzicht
 • Case study designs
 • Single-case experimental designs
-▪ Elementen
-▪ Effecten nagaan
-▪ Fases en veranderingen in fases
-▪ Reversal designs
-▪ Multiple-Baseline designs
-▪ Voor- en nadelen
+▪
+▪
+▪
+▪
+▪
+▪
 
 18
+
+Elementen
+Effecten nagaan
+Fases en veranderingen in fases
+Reversal designs
+Multiple-Baseline designs
+Voor- en nadelen
 
 Faculteit Psychologie en Pedagogische Wetenschappen
 
@@ -754,12 +761,17 @@ cv
 • Welke items horen bij elkaar? 14 items van
 de vragenlijst groeperen in een kleiner aantal
 factoren
-▪ Factor 1: items 1, 4, 5, 14, 22
-▪ Factor 2: items 13, 17, 19, 20
-▪ Factor 3: items 12, 23
-▪ Factor 4: items 7, 9, 16
+▪
+▪
+▪
+▪
 
 60
+
+Factor 1: items 1, 4, 5, 14, 22
+Factor 2: items 13, 17, 19, 20
+Factor 3: items 12, 23
+Factor 4: items 7, 9, 16
 
 cv
 cv

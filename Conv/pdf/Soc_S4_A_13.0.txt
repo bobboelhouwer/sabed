@@ -270,15 +270,15 @@ voor ondernemingen in een oligopolie de prijs hoger dan de MK.
  The equilibrium for an oligopoly
 competitive output
 
+non-cooperative oligopoly output
+
+monopoly output = cartel output
+
 /
 
 competitive price: P = MK
 
-non-cooperative oligopoly output
-
 non-cooperative oligopoly price
-
-monopoly output = cartel output
 
 monopoly price
 

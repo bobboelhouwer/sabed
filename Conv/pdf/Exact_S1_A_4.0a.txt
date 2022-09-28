@@ -26,11 +26,17 @@ tijd ( s)
 2500
 3000
 
-(a) Bepaal de orde van bovenstaande reactie.
-(b) Bepaal de waarde van de reactiesnelheidsconstante.
-(c) Ga na met welke snelheid N2O5 verdwijnt na 300 s.
-(d) Bereken de halveringstijd.
-(e) Hoelang duurt het voor 80 % van N2O5 ontbonden is?
+(a)
+(b)
+(c)
+(d)
+(e)
+
+Bepaal de orde van bovenstaande reactie.
+Bepaal de waarde van de reactiesnelheidsconstante.
+Ga na met welke snelheid N2O5 verdwijnt na 300 s.
+Bereken de halveringstijd.
+Hoelang duurt het voor 80 % van N2O5 ontbonden is?
 
 Oplossing
 
@@ -172,11 +178,29 @@ RS = k ((CH3)3CBr)x (OH-)y
 
 Toegepast op de gegevens :
 
-0,0010 = RS1 = k (0,10)x (0,10)y
-0,0020 = RS2 = k (0,20)x (0,10)y
-0,0030 = RS3 = k (0,30)x (0,10)y
-0,0010 = RS4 = k (0,10)x (0,20)y
-0,0010 = RS5 = k (0,10)x (0,30)y
+0,0010
+0,0020
+0,0030
+0,0010
+0,0010
+
+=
+=
+=
+=
+=
+
+RS1 =
+RS2 =
+RS3 =
+RS4 =
+RS5 =
+
+k (0,10)x (0,10)y
+k (0,20)x (0,10)y
+k (0,30)x (0,10)y
+k (0,10)x (0,20)y
+k (0,10)x (0,30)y
 
 x en y bepalen door vergelijking van 2 proeven waarbij de beginconcentratie van slechts 1
 reagens verschillend is.
@@ -261,11 +285,17 @@ dt
 
 worden bij verschillende temperaturen de snelheidsconstanten 2,45 10-4 l.mol-1s-1 (bij
 302 °C) en 0,95 l.mol-1s-1 (bij 508 °C) gemeten.
-(a) Bereken de waarde van de activeringsenergie Ea.
-(b) Bepaal de constante A uit de Arrheniusvergelijking.
-(c) Bereken de waarde van de reactiesnelheidsconstante k bij 375 °C.
-(d) Wanneer gestart wordt met 0,1 M H2, wat wordt de concentratie van H2 na 30 s
+(a)
+(b)
+(c)
+(d)
+
+Bereken de waarde van de activeringsenergie Ea.
+Bepaal de constante A uit de Arrheniusvergelijking.
+Bereken de waarde van de reactiesnelheidsconstante k bij 375 °C.
+Wanneer gestart wordt met 0,1 M H2, wat wordt de concentratie van H2 na 30 s
 bij een temperatuur van 375 °C.
+
 Oplossing
 (a) We maken gebruik van onderstaande vergelijking
 

@@ -69,17 +69,21 @@ vectoren in Wk+1 en zijn ze hiervoor een basis
 
 Gram-Schmidt proces
 • v1 = x1
+• v2=    − Proj      =    −
+• v3=     − Proj      
+
+    .v 
+
+v
+v  .v   
   .v
-• v2=    − Proj      =    −     v 
-v  .v 
   .v
-  .v
-• v3=     − Proj       =     −     v  −     v
+=     −     v  −     v
 v  .v 
 v  .v 
+
 • …
 • vp= x − Proj   x
-
 • Eventueel vi normeren → orthonormale basis
 voor Span{x1, ... , xp}
 

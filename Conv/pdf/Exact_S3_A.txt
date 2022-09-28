@@ -8,31 +8,369 @@ Karel.Dekimpe@kuleuven.be
   Inhoudsopgave
 
 1 Wiskundige beweringen en bewijzen
-1.1 De taal van de wiskunde . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-1.1.1 Wiskundige beweringen . . . . . . . . . . . . . . . . . . . . . . . . . . .
-1.1.2 Logische connectieven . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-1.1.3 Oefeningen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-1.2 Implicaties en equivalenties . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-1.2.1 Implicaties . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-1.2.2 Equivalenties . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-1.2.3 Logische equivalenties en tautologieën . . . . . . . . . . . . . . . . . . .
-1.2.4 Oefeningen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-1.3 Bewijzen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-1.3.1 Directe bewijzen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-1.3.2 Bewijs door gevalsonderscheid . . . . . . . . . . . . . . . . . . . . . . . .
-1.3.3 Achterwaarts construeren van bewijzen . . . . . . . . . . . . . . . . . .
-1.3.4 Oefeningen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-1.4 Bewijs uit het ongerijmde . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-1.4.1 Bewijs van negatieve bewering . . . . . . . . . . . . . . . . . . . . . . .
-1.4.2 Bewijs van implicaties uit het ongerijmde . . . . . . . . . . . . . . . . .
-1.4.3 Contrapositie . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-1.4.4 Bewijs van een “of” bewering . . . . . . . . . . . . . . . . . . . . . . . .
-1.4.5 Oefeningen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-1.5 Bewijs met volledige inductie . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-1.5.1 Het principe van volledige inductie . . . . . . . . . . . . . . . . . . . . .
-1.5.2 Variatie 1: Aanpassing basisstap . . . . . . . . . . . . . . . . . . . . . .
-1.5.3 Variatie 2: Sterke principe van volledige inductie . . . . . . . . . . . . .
-1.5.4 Oefeningen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1.1 De taal van de wiskunde . . . . . . . . . . . . . . . . . .
+1.1.1 Wiskundige beweringen . . . . . . . . . . . . . .
+1.1.2 Logische connectieven . . . . . . . . . . . . . . .
+1.1.3 Oefeningen . . . . . . . . . . . . . . . . . . . . .
+1.2 Implicaties en equivalenties . . . . . . . . . . . . . . . .
+1.2.1 Implicaties . . . . . . . . . . . . . . . . . . . . .
+1.2.2 Equivalenties . . . . . . . . . . . . . . . . . . . .
+1.2.3 Logische equivalenties en tautologieën . . . . . .
+1.2.4 Oefeningen . . . . . . . . . . . . . . . . . . . . .
+1.3 Bewijzen . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1.3.1 Directe bewijzen . . . . . . . . . . . . . . . . . .
+1.3.2 Bewijs door gevalsonderscheid . . . . . . . . . . .
+1.3.3 Achterwaarts construeren van bewijzen . . . . .
+1.3.4 Oefeningen . . . . . . . . . . . . . . . . . . . . .
+1.4 Bewijs uit het ongerijmde . . . . . . . . . . . . . . . . .
+1.4.1 Bewijs van negatieve bewering . . . . . . . . . .
+1.4.2 Bewijs van implicaties uit het ongerijmde . . . .
+1.4.3 Contrapositie . . . . . . . . . . . . . . . . . . . .
+1.4.4 Bewijs van een “of” bewering . . . . . . . . . . .
+1.4.5 Oefeningen . . . . . . . . . . . . . . . . . . . . .
+1.5 Bewijs met volledige inductie . . . . . . . . . . . . . . .
+1.5.1 Het principe van volledige inductie . . . . . . . .
+1.5.2 Variatie 1: Aanpassing basisstap . . . . . . . . .
+1.5.3 Variatie 2: Sterke principe van volledige inductie
+1.5.4 Oefeningen . . . . . . . . . . . . . . . . . . . . .
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
 
 1
 1
@@ -62,18 +400,187 @@ Karel.Dekimpe@kuleuven.be
 17
 
 2 Verzamelingen en kwantoren
-2.1 De taal van verzamelingen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-2.1.1 Verzamelingen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-2.1.2 Basisbegrippen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-2.1.3 Bewerkingen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-2.1.4 Venndiagrammen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-2.1.5 Eigenschappen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-2.1.6 De machtsverzameling . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-2.1.7 Het cartesiaans product . . . . . . . . . . . . . . . . . . . . . . . . . . .
-2.1.8 Oefeningen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-2.2 Kwantoren . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-2.2.1 De universele en existentiële kwantor . . . . . . . . . . . . . . . . . . . .
-2.2.2 Bewijzen van beweringen met kwantoren . . . . . . . . . . . . . . . . . .
+2.1 De taal van verzamelingen . . . . . . . . . . . . .
+2.1.1 Verzamelingen . . . . . . . . . . . . . . .
+2.1.2 Basisbegrippen . . . . . . . . . . . . . . .
+2.1.3 Bewerkingen . . . . . . . . . . . . . . . .
+2.1.4 Venndiagrammen . . . . . . . . . . . . . .
+2.1.5 Eigenschappen . . . . . . . . . . . . . . .
+2.1.6 De machtsverzameling . . . . . . . . . . .
+2.1.7 Het cartesiaans product . . . . . . . . . .
+2.1.8 Oefeningen . . . . . . . . . . . . . . . . .
+2.2 Kwantoren . . . . . . . . . . . . . . . . . . . . . .
+2.2.1 De universele en existentiële kwantor . . .
+2.2.2 Bewijzen van beweringen met kwantoren .
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
 
 21
 21
@@ -91,6 +598,58 @@ Karel.Dekimpe@kuleuven.be
 
 iii
 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
  INHOUDSOPGAVE
 2.2.3
 2.2.4
@@ -101,31 +660,487 @@ Bewerkingen met verzamelingen - algemener . . . . . . . . . . . . . . . . 34
 Oefeningen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 35
 
 3 Relaties
+3.1 Relaties . . . . . . . . . . . . . . . . .
+3.1.1 Definities . . . . . . . . . . . .
+3.1.2 Inverse relatie en samenstelling
+3.1.3 Grafische voorstelling . . . . .
+3.1.4 Oefeningen . . . . . . . . . . .
+3.2 Equivalentierelaties . . . . . . . . . . .
+3.2.1 Definities . . . . . . . . . . . .
+3.2.2 Partities en equivalentieklassen
+3.2.3 Oefeningen . . . . . . . . . . .
+3.3 Orderelaties . . . . . . . . . . . . . . .
+3.3.1 Partiële en totale orde . . . . .
+3.3.2 Begrippen rond orderelaties . .
+3.3.3 Orde op R . . . . . . . . . . . .
+3.3.4 Oefeningen . . . . . . . . . . .
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
 39
-3.1 Relaties . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 39
-3.1.1 Definities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 39
-3.1.2 Inverse relatie en samenstelling . . . . . . . . . . . . . . . . . . . . . . . 40
-3.1.3 Grafische voorstelling . . . . . . . . . . . . . . . . . . . . . . . . . . . . 41
-3.1.4 Oefeningen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 43
-3.2 Equivalentierelaties . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 44
-3.2.1 Definities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 44
-3.2.2 Partities en equivalentieklassen . . . . . . . . . . . . . . . . . . . . . . . 45
-3.2.3 Oefeningen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 49
-3.3 Orderelaties . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 51
-3.3.1 Partiële en totale orde . . . . . . . . . . . . . . . . . . . . . . . . . . . . 51
-3.3.2 Begrippen rond orderelaties . . . . . . . . . . . . . . . . . . . . . . . . . 52
-3.3.3 Orde op R . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 54
-3.3.4 Oefeningen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 54
+39
+39
+40
+41
+43
+44
+44
+45
+49
+51
+51
+52
+54
+54
+
 4 Functies en Afbeeldingen
-4.1 Functies . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-4.1.1 Basisbegrippen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-4.1.2 Samenstellen van functies . . . . . . . . . . . . . . . . . . . . . . . . . .
-4.1.3 Beeld en invers beeld van een verzameling . . . . . . . . . . . . . . . . .
-4.1.4 Oefeningen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-4.2 Injecties, surjecties en bijecties . . . . . . . . . . . . . . . . . . . . . . . . . . .
-4.2.1 Definities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-4.2.2 Inverse functie . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-4.2.3 Oefeningen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+4.1 Functies . . . . . . . . . . . . . . . . . . . . . . .
+4.1.1 Basisbegrippen . . . . . . . . . . . . . . .
+4.1.2 Samenstellen van functies . . . . . . . . .
+4.1.3 Beeld en invers beeld van een verzameling
+4.1.4 Oefeningen . . . . . . . . . . . . . . . . .
+4.2 Injecties, surjecties en bijecties . . . . . . . . . .
+4.2.1 Definities . . . . . . . . . . . . . . . . . .
+4.2.2 Inverse functie . . . . . . . . . . . . . . .
+4.2.3 Oefeningen . . . . . . . . . . . . . . . . .
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
 
 57
 57
@@ -138,24 +1153,115 @@ Oefeningen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
 68
 70
 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
 5 Tellen, telwijzen en toepassingen
-73
-5.1 Kardinaliteit en aantal elementen . . . . . . . . . . . . . . . . . . . . . . . . . . 73
-5.2 Elementaire telprincipes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 75
-5.3 De elementaire telwijzen. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 80
-5.3.1 Volgorde van belang - geen teruglegging (dus geen herhaling mogelijk) . 80
-5.3.2 Volgorde van belang - met teruglegging (dus herhaling mogelijk) . . . . 81
-5.3.3 Volgorde niet van belang - geen teruglegging (dus geen herhaling mogelijk) 81
-5.3.4 Volgorde niet van belang - met teruglegging (dus herhaling toegelaten) . 82
-5.3.5 Toepassingen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 82
-5.3.6 Enkele bekende identiteiten. . . . . . . . . . . . . . . . . . . . . . . . . . 84
-5.3.7 Oefeningen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 85
-5.4 Het binomium van Newton . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 87
-5.5 Oneindige verzamelingen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 88
-5.5.1 Aftelbaar oneindige verzamelingen . . . . . . . . . . . . . . . . . . . . . 88
-5.6 Overaftelbare verzamelingen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 91
-5.6.1 Over de voorstelling van reële getallen t.o.v. een gekozen grondtal . . . 91
+5.1 Kardinaliteit en aantal elementen . . . . . . . . . . . . . . . . . . . . . . . . . .
+5.2 Elementaire telprincipes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+5.3 De elementaire telwijzen. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+5.3.1 Volgorde van belang - geen teruglegging (dus geen herhaling mogelijk) .
+5.3.2 Volgorde van belang - met teruglegging (dus herhaling mogelijk) . . . .
+5.3.3 Volgorde niet van belang - geen teruglegging (dus geen herhaling mogelijk)
+5.3.4 Volgorde niet van belang - met teruglegging (dus herhaling toegelaten) .
+5.3.5 Toepassingen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+5.3.6 Enkele bekende identiteiten. . . . . . . . . . . . . . . . . . . . . . . . . .
+5.3.7 Oefeningen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+5.4 Het binomium van Newton . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+5.5 Oneindige verzamelingen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+5.5.1 Aftelbaar oneindige verzamelingen . . . . . . . . . . . . . . . . . . . . .
+5.6 Overaftelbare verzamelingen . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+5.6.1 Over de voorstelling van reële getallen t.o.v. een gekozen grondtal . . .
 © K. Dekimpe
+
+73
+73
+75
+80
+80
+81
+81
+82
+82
+84
+85
+87
+88
+88
+91
+91
 
 Pagina iv
 
@@ -174,11 +1280,9 @@ Pagina v
 Wiskundige beweringen en
 bewijzen
 1.1
-
-De taal van de wiskunde
-
 1.1.1
 
+De taal van de wiskunde
 Wiskundige beweringen
 
 De wiskunde houdt zich bezig met het beschrijven en ontwikkelen van concepten die
@@ -390,11 +1494,9 @@ Pagina 3
  WISKUNDIGE BEWERINGEN EN BEWIJZEN
 
 1.2
-
-Implicaties en equivalenties
-
 1.2.1
 
+Implicaties en equivalenties
 Implicaties
 
 Een bewijs is een opvolging van beweringen. We vertrekken hierbij van beweringen waarvan
@@ -724,21 +1826,27 @@ Te bewijzen: a2 < b2 .
 Nu gaan we nadenken hoe het te bewijzen zou kunnen volgen uit het gegeven. Omdat we
 iets willen weten over a2 en b2 ligt het voor de hand om de gegeven ongelijkheid met a en b te
 vermenigvuldigen. Omdat a en b strikt positief zijn blijven de ongelijkheden behouden zodat
-en
-
-a < b ⇒ a2 < ab
-
 (1.1)
 
-a < b ⇒ ab < b2 .
+a < b ⇒ a2 < ab
+en
 
 (1.2)
 
-Omdat we aangenomen hebben dat a < b waar is volgt nu dat a2 < ab en ab < b2 . Deze twee
+a < b ⇒ ab < b2 .
+
+Omdat we aangenomen hebben dat a < b waar is volgt nu dat
 ongelijkheden bevatten beide ab en er geldt
+
+a2
 
 (a2 < ab) ∧ (ab < b2 ) ⇒ a2 < b2 .
 
+< ab en ab <
+
+b2 .
+
+Deze twee
 (1.3)
 
 Omdat a < b weten we al dat a2 < ab en ab < b2 en daarom geldt vanwege (1.3) dat a2 < b2
@@ -1171,11 +2279,11 @@ i=0 i = . . .
 n
 X
 
-n
-X
-
 i =
 3
+
+n
+X
 
 !2
 
@@ -1202,14 +2310,24 @@ n
 
 n
 
-√
-
-√
-
 (d) fn = α √−β
-met α = 1+2 5 en β = 1−2 5 , voor alle n ≥ 1. Hint: bereken eerst α2
+met α =
 5
-en β 2 .
+2
+en β .
+
+√
+1+ 5
+2
+
+en β =
+
+√
+1− 5
+2 ,
+
+voor alle n ≥ 1. Hint: bereken eerst α2
+
 9. Iemand beweert: “voor elk natuurlijk getal n groter of gelijk aan 1 geldt dat, als er n
 paarden in een verzameling zijn, die paarden allemaal dezelfde kleur hebben”. Hij zet
 zijn bewering kracht bij door het volgende bewijs (door volledige inductie).
@@ -2193,11 +3311,9 @@ Pagina 37
 Relaties
 
 3.1
-
-Relaties
-
 3.1.1
 
+Relaties
 Definities
 
 In het vorige hoofdstuk hebben we kennis gemaakt met het cartesiaans product X × Y van
@@ -2498,11 +3614,9 @@ Bewijs dat
 van R en S.
 
 3.2
-
-Equivalentierelaties
-
 3.2.1
 
+Equivalentierelaties
 Definities
 
 Er zijn enkele belangrijke eigenschappen die een relatie op X kan hebben.
@@ -3510,9 +4624,9 @@ Functies en Afbeeldingen
 
 4.1
 
-Functies
-
 4.1.1
+
+Functies
 
 Basisbegrippen
 
@@ -3731,16 +4845,18 @@ g : R → R : x 7→
 
 x = g(x).
 
-+
-We weten dat dom(f ) = R+
-0 en dom(g) = R .
-
+We weten dat dom(f ) =
+en dom(g) =
 Als y = f (x) ∈ R+ , dan is het mogelijk om
 g(y) = g(f (x)) te bepalen. Als we f en g als relaties noteren, dan weten we uit Definitie 3.8
 dat
 x (g ◦ f ) y ⇔ ∃z ∈ R : f (x) = z ∧ g(z) = y.
-Het blijkt nu dat de samenstelling van twee functies ook weer een functie is.
+R+
+0
 
+R+ .
+
+Het blijkt nu dat de samenstelling van twee functies ook weer een functie is.
 Stelling 4.11
 Neem aan dat f : X → Y en g : Y → Z functies zijn. Dan is g ◦ f een functie
 van X naar Z en er geldt
@@ -4642,7 +5758,8 @@ n! =
 n(n − 1) . . . 3.2.1
 
 als n = 0
-als n 6= 0
+als n =
+6 0
 
 !
 
@@ -5441,19 +6558,16 @@ k! (n − k)!
 Bewijs. We geven een bewijs door volledige inductie.
 • (Basisstap) Voor n = 0 stellen we vast dat
 0 
-X
-0  
-k=0
-
-k
-
-a0−k bk =
-
  0  
+X
+0   0−k k
+a0 b0 = 1 = (a + b)0 .
+a b =
+k=0
 
 0
 
-a0 b0 = 1 = (a + b)0 .
+k
 
 • (Inductiestap) Veronderstel nu dat de stelling geldt voor alle waarden n kleiner of gelijk
 aan N ; dit betekent in het bijzonder dat
@@ -5461,12 +6575,12 @@ aan N ; dit betekent in het bijzonder dat
 
 N 
 X
-N  
+N   N −k k
+a
+b .
 k=0
 
 k
-
-aN −k bk .
 
 Bijgevolg is
 (a + b)N +1 = (a + b)(a + b)N
@@ -5474,29 +6588,31 @@ Bijgevolg is
 
 N 
 X
-N  
+N   N −k k
+a
+b
 k=0
 
 =
 =
-
-N 
-X
-k=0
-N 
-X
-k=0
 
 k
 
-N
-
-X N  
+N 
+N 
+X
+X
 N   N +1−k k
+N   N −k k+1
 a
 b +
-aN −k bk+1
-k
+a
+b
+k=0
+N 
+X
+k=0
+
 k
 
 N   N +1−k k
@@ -5513,8 +6629,6 @@ k=1
 
 3
 
-aN −k bk
-
 k
 
 k=0
@@ -5526,6 +6640,8 @@ k=1
 +
 
 
+
+k
 
 N   N +1−k k
 a
@@ -5605,11 +6721,9 @@ dat het binomium van Newton correct is voor alle waarden n ∈ N.
  
 
 5.5
-
-Oneindige verzamelingen
-
 5.5.1
 
+Oneindige verzamelingen
 Aftelbaar oneindige verzamelingen
 
 Reeds in definitie (5.1) hadden we het over aftelbaar oneindige verzamelingen; dit zijn
@@ -5794,16 +6908,17 @@ De cijfers in een decimale voorstelling komen uit de verzameling {0, 1, 2, . . .
 Een decimale schrijfwijze van een reëel getal is niet noodzakelijk uniek bepaald. Immers,
 b.v. in de cursus “Analyse en Calculus” leert men dat
 0.999 . . . =
-=
-=
 
 +∞
 X
+i=1
+
+=
+=
 
 9
-i
-10
-i=1
+10i
+
 X 1
 9 +∞
 10 i=0 10i
@@ -5856,24 +6971,46 @@ x = 0, a1 a2 a3 a4 · · ·
 voor zekere getallen ak ∈ {0, 1, 2, . . . , 9}. Dit passen we toe op het getal f (j) ∈ [0, 1] en we
 schrijven de decimale ontwikkeling van het getal f (j) als
 f (j) = 0, aj1 aj2 aj3 aj4 · · ·
-met getallen ajk ∈ {0, 1, 2 . . . , 9}. We zetten al deze decimale ontwikkelingen bijeen in een
+met getallen ajk ∈ {0, 1, 2 . . . , 9}. We zetten
 (oneindige) matrix
-f (1) = 0, a11 a12 a13 a14 · · ·
-f (2) = 0, a21 a22 a23 a24 · · ·
-f (3) = 0, a31 a32 a33 a34 · · ·
-f (4) = 0, a41 a42 a43 a44 · · ·
-..
-..
-..
+f (1) = 0, a11
+f (2) = 0, a21
+f (3) = 0, a31
+f (4) = 0, a41
 ..
 ..
 ..
 .
 .
 .
+
+al deze decimale ontwikkelingen bijeen in een
+a12
+a22
+a32
+a42
+..
 .
+
+a13
+a23
+a33
+a43
+..
 .
+
+a14
+a24
+a34
+a44
+..
 .
+
+···
+···
+···
+···
+
 We gaan nu laten zien dat er een getal x ∈ [0, 1] bestaat met een decimale ontwikkeling
 die verschillend is van al de bovenstaande decimale ontwikkelingen. Dit doen we met een
 zogenaamd diagonaalargument.

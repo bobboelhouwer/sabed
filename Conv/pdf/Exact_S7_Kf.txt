@@ -17,11 +17,17 @@ o Een Hermitische matrix heeft reële elementen op de diagonaal
 
 • Hermitisch product van u en v ∈ Cn : u • v =  
     =  ∗
-o u•v=v•u
-o (u + v) • w = u • w + v • w
-o c ∈ C: u • (cv) = c (u • v) ; (cu) • v = (̅ u • v)
-o u • u ≥ 0 en u • u = 0 ⇔ u = 0
-o Als u en v ∈ Rn, wordt dit het gekende inwendig product
+o
+o
+o
+o
+o
+
+u•v=v•u
+(u + v) • w = u • w + v • w
+c ∈ C: u • (cv) = c (u • v) ; (cu) • v = (̅ u • v)
+u • u ≥ 0 en u • u = 0 ⇔ u = 0
+Als u en v ∈ Rn, wordt dit het gekende inwendig product
 
 1
 

@@ -16,7 +16,7 @@ foreach my $file (@files) {
 
 sub printResult {
     my ($file, $text) = @_;
-    if ($file =~ m!/([^/]+)\.ppt$!) {
+    if ($file =~ m!/([^/]+)\.pptm?$!) {
 	my $filename = $1;
 	my $newfile = "Conv/ppt/" . $filename . ".txt";
 	my $out;

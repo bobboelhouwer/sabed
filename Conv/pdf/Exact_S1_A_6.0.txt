@@ -211,25 +211,25 @@ B
 
 BASE
 
+H2O
+
+BASE
+
 +
 
 H2O
 
-H3O+
-
-BASE
-
 ZUUR
 
-H2O
+H3O+
+
++
+
+ZUUR
 
 HB+
 
 ZUUR
-
-ZUUR
-
-+
 
 B-
 
@@ -289,14 +289,15 @@ HB
 
 B-
 
++
+
 ( )
 
 OH-
 
-(
++
 
-+
-+
+(
 
 )
 
@@ -328,24 +329,24 @@ Maken we echter het verschil tussen ( ) en (
 
 OH-
 
-OH-
-
 H3O+
 
-+
-
-2 B-
-
-+
-
 OH-
-
-+
 
 2 H+
 H+
 
 HB
+
++
+
++
+
++
+
+2 B-
+
+OH-
 
 +
 
@@ -366,21 +367,18 @@ HCl
 
 H+
 
+H+
+
 CH3COOH
 NH4+
 
++
+
 H+
 
 +
 
-Cl-
-
-H+
-
-+
-
-+
-
+Cl+
 NH3
 
 HCN
@@ -429,10 +427,12 @@ B-
 We schrijven hiervoor de uitdrukking van de evenwichtsconstante Kc
 
 [H O ][B ]
+
 =
-3
 
 Kc
+
+3
 
 +
 
@@ -460,8 +460,9 @@ als H+ voorkomen maar wel als H3O+ maar voor berekeningen maakt dit niet uit.
 
 K HB
 
-[H ][B ]
 =
+
+[H ][B ]
 +
 
 −
@@ -547,14 +548,14 @@ K z , water
 
 =
 
-[H ][OH ] = 10
+[H ][OH ]
 +
 
 −
 
 [H 2O]
 
-−15 , 74
+= 10 −15,74
 
 Kz en Kb zijn (in dit speciale geval) aan elkaar gelijk wat zoveel betekent dat de basische en de zure kenmerken van water even groot (of beter even klein) zijn.
 Halen we voor de 2de keer de constante waarde 55,5 weg uit de noemer van vorige
@@ -563,12 +564,12 @@ Kw
 
 =
 
-[H ][OH ] = 10
+[H ][OH ]
 +
 
 −
 
-−14
+= 10−14
 
 Dit ionenproduct stelt het mathematische product voor van de concentraties van de
 gevormde ionen na dissociatie. Dit betekent dat per liter zuiver water slechts 10-7 M
@@ -581,7 +582,7 @@ K z × Kb
 
 =
 
-[H ][B ] [HB][OH ] = [H ][OH ] = K
+[H ][B ] [HB][OH ]
 [B ]
 [HB]
 +
@@ -592,11 +593,14 @@ K z × Kb
 
 −
 
+=
+
+[H ][OH ]
 +
 
 −
 
-w
+= Kw
 
 = 10−14
 
@@ -825,10 +829,9 @@ Kz
 
 =
 
-waaruit
-
 [H+] = 10-pH = 10-3,39 = 4,1 10-4
 
+waaruit
 HB
 
 H+
@@ -869,21 +872,20 @@ HB
 
 H+
 
-begin
-
 0,1
 
 -
 
 -
 
-evenwicht
-
 0,1 – x
 
 x
 
 x
+
+begin
+evenwicht
 
 Kz
 
@@ -892,18 +894,19 @@ Kz
 x2
 0,1 − x
 
-[H ][B ] 1,4 10
 =
+
+[H ][B ]
 +
 
 −
 
 [HB]
 
+1,4 10 −5
+
 [nicotinezuur] = 0,1 – 0,0012 = 0,0988 M
 [nicotinaat] = 0,0012
-
-−5
 
 +
 
@@ -915,19 +918,18 @@ pH = - log (0,0012) = 2,92
 
 Rekenvoorbeeld: Morfine is een natuurlijke monofunctionele base. Bereken de pH
 van een oplossing van 0,0075 M (Kb = 1,6 10-6).
-B-
+Bbegin
+evenwicht
 
 +
-
-H2O
-
-HB
 
 +
 
 OH-
 
-begin
+H2O
+
+HB
 
 0,0075
 
@@ -936,8 +938,6 @@ overmaat
 -
 
 -
-
-evenwicht
 
 0,0075 – x
 
@@ -951,12 +951,14 @@ x
 
 Kb
 
-[HB][OH − ] =
+[HB][OH − ]
 
 =
 
 [B ]
 −
+
+=
 
 x2
 0,0075 − x
@@ -1009,10 +1011,6 @@ K HB2
 
 [H ][B ]
 
-K ev.
-
-=
-
 B2-
 
 +
@@ -1024,6 +1022,8 @@ HB2
 B1-
 
 +
+
+K ev.
 
 +
 
@@ -1037,6 +1037,7 @@ B1-
 2
 
 [HB2 ]
+=
 
 K HB1
 K HB2
@@ -1151,19 +1152,19 @@ HCO3-
 Het Na+-ion heeft heel beperkte zuur-base kenmerken (zwakker dan water) zodat het
 de zuurtegraad van de oplossing niet zal beïnvloeden.
 Nemen we vergelijking ( ) en tellen we vergelijking ( ) er omgekeerd bij op
+
+start
+ev.
+
 2 HCO3-
 
 H2CO3
-
-start
 
 0,1
 
 -
 
 -
-
-ev.
 
 0,1 – x
 
@@ -1215,9 +1216,9 @@ Na+
 
 NaCl
 
-Cl-
-
 +
+
+Cl-
 
 Na+ is het geconjugeerde zuur van de zeer sterke base NaOH en Na+ is als zuur
 zwakker dan water. Het beïnvloedt de zuurtegraad van de oplossing niet. Analoog is
@@ -1240,11 +1241,9 @@ Kz = 10-9,24
 NH3
 
 Rekenvoorbeeld: Bereken de pH van een 0,1 M oplossing van NH4Cl
-NH4+
-
-H+
 
 start
+evenwicht
 
 0,1
 
@@ -1252,45 +1251,52 @@ start
 
 -
 
-evenwicht
-
-0,1 – x
-
 x
 
 x
-
-4
-
-NH3
-
-[H ][NH ] = x = 10
-[NH ]
-0,1 − x
-+
 
 =
 
+4
+
+Het
+
+H+
+
+0,1 – x
+
 K NH +
 
+NH4+
+
+NH4+
+
+[H ][NH ]
+[NH ]
 +
 
 +
 4
 
-Het NH4+ is voor
-
-2
-
 3
 
-− 9 , 24
+=
+
+x2
+0,1 − x
+
++
+
+NH3
+
+= 10 − 9, 24
 
 x = 7,5 10-6
 
 pH = 5,13
 
 7,5 10−6
+is voor
 ×100 = 0,0075 % gesplitst, dus duidelijk een zwak zuur.
 0,1
 
@@ -1328,19 +1334,14 @@ Kz
 15
 
 Rekenvoorbeeld: Bereken de pH van een 1,0 M oplossing van NaOCN
-OCN-
+OCNstart
+evenwicht
 
-+
+Kb
 
-H2O
+=
 
 HOCN
-
-+
-
-OH-
-
-start
 
 1
 
@@ -1350,8 +1351,6 @@ overmaat
 
 -
 
-evenwicht
-
 1–x
 
 overmaat
@@ -1359,13 +1358,6 @@ overmaat
 x
 
 x
-
-Kb
-
-Kw
-Kz
-
-=
 
 =
 
@@ -1377,15 +1369,26 @@ Het OCN- is voor
 
 = 4,5 10
 
-dus
-
-[H+] = 1,49 10-9
-
 x2
 =
 1− x
 
 −11
+
+[H+] = 1,49 10-9
+
+dus
+
++
+
+OH-
+
+H2O
+
+Kw
+Kz
+
++
 
 en
 
@@ -1448,22 +1451,22 @@ H+
 
 HCl
 
-[H ] ≈ c
+[H ]
 +
 
-HCl
+≈ cHCl
 
 +
-
-Cl-
-
-pH
-
-≈ − log H +
 
 en
 
+pH
+
+Cl-
+
 [ ]
+
+≈ − log H +
 
 zodat
 
@@ -1492,10 +1495,10 @@ Na+
 
 NaOH
 
-[OH ] ≈ c
+[OH ]
 −
 
-NaOH
+≈ cNaOH
 
 +
 
@@ -1508,10 +1511,13 @@ H+
 
 [ ]
 
-[H ] ≈ c K
+[H ]
 +
 
-NaOH
+≈
+
+Kw
+cNaOH
 
 De pH van een sterke base bekomen we in zeer goede benadering uit
 pH
@@ -1526,8 +1532,6 @@ Ba(OH)2 zullen we beschouwen als een tweewaardige sterke base
 pH
 
 = 14 + log 2 cb
-
-w
 
  Algemene Scheikunde : Hfst. VIII Evenwichten voor Zuren en Basen
 
@@ -1576,15 +1580,11 @@ HB
 
 H+
 
-begin
-
 c0
 
 -
 
 -
-
-evenwicht
 
 c0 – x
 
@@ -1592,7 +1592,15 @@ x
 
 x
 
+begin
+evenwicht
+
 K HB
+
+=
+
+x2
+c0 − x
 
 =
 
@@ -1601,12 +1609,8 @@ K HB
 B-
 
 [H ]
-=
 c − [H ]
 + 2
-
-x2
-c0 − x
 
 0
 
@@ -1620,15 +1624,18 @@ klein wordt. De uitdrukking vereenvoudigt zich dan tot
 
 K HB
 
-[H ]
 =
+
+[H ]
 
 + 2
 
-[H ] =
+[H ]
 +
 
 c0
+
+=
 
 K HB c0
 
@@ -1644,19 +1651,18 @@ pK HB − log cHB
 2
 
 Voor een zwakke base met beginconcentratie c0 kunnen we schrijven
-B-
+Bbegin
+evenwicht
 
 +
-
-H2O
-
-HB
 
 +
 
 OH-
 
-begin
+H2O
+
+HB
 
 c0
 
@@ -1665,8 +1671,6 @@ overmaat
 -
 
 -
-
-evenwicht
 
 c0 - x
 
@@ -1685,12 +1689,14 @@ HB i.p.v. de baseconstante van BK HB
 
 =
 
-[H ][B ] =
+[H ][B ]
 +
 
 −
 
 [HB]
+
+=
 
 [ ]
 ]
@@ -1708,17 +1714,20 @@ Wanneer we in de teller x verwaarlozen t.o.v. c0 (verwaarloosbare hydrolyse)
 
 x =
 
-[OH ] =
+[OH ]
+−
 
 K w c0
 K HB
 
-−
+=
 
 en
 
-[H ] =
+[H ]
 +
+
+=
 
 K w K HB
 c0
@@ -1848,10 +1857,9 @@ afwegen van de twee eigenschappen die elk vervat zijn in een pK-waarde, resultee
 in het uitmiddelen van de twee pK-waarden.
 pK1
 
-oplossen van
-
 pK2
 
+oplossen van
 HCO3-
 
 H2CO3
@@ -1892,7 +1900,13 @@ pK NH + + pK HAc
 (6,4 + 10,4) = 8,4
 2
 
-) = 12 (9,24 + 4,76) = 7
+)
+
+=
+
+1
+(9,24 + 4,76) = 7
+2
 
 Voor nog andere amfolytsystemen worden pH-waarden bekomen die kunnen variëren van behoorlijk laag (pH 2 à 3) tot behoorlijk hoog (pH 11 à 12).
 
@@ -2054,14 +2068,17 @@ K HB
 
 =
 
-[H ][B ] = [H ] c
-+
-
+[H ][B ]
 +
 
 −
 
 [HB]
+
+=
+
+[H ] c
++
 
 B
 
@@ -2069,16 +2086,17 @@ c HB
 
 en door herschikken vinden we
 
-] = K
-[H ] = K [[HB
-B ]
+[H ]
 +
 
-HB
+= K HB
 
+[HB]
+
+[B ]
 −
 
-HB
+= K HB
 
 c HB
 cB−
@@ -2131,14 +2149,9 @@ Rekenvoorbeeld: Bereken de pH na toevoegen van 0,01 M HCl en na toevoegen van
 De pH van de oorspronkelijke HAc/Ac- oplossing
 •
 
-•
-
 Ac-
 
 HAc
-
-0,01
--
 
 0,1
 0,09
@@ -2146,11 +2159,7 @@ HAc
 0,1
 0,11
 
-pH
-
 = 4,76 + log
-
-+
 
 0,09
 0,11
@@ -2158,26 +2167,17 @@ pH
 = 4,67
 
 Toevoegen van 0,02 M NaOH (sterke base)
-OH-
-
-Ac-
-
-0,1
-0,08
-
-0,02
--
-
-0,1
-0,12
-
-pH
-
-= 4,76 + log
-
 HAc
+
 begin
 einde
+
++
+
+0,01
+pH
+
+•
 
 0,1
 = 4,76
@@ -2193,7 +2193,23 @@ einde
 
 pH
 
+0,1
+0,08
+pH
+
 +
+
+OH-
+
+Ac-
+
+0,02
+-
+
+0,1
+0,12
+
+= 4,76 + log
 
 0,12
 0,08
@@ -2645,10 +2661,6 @@ pH
 
 7
 
-E.P.
-+
-Na Cl opl.
-
 101
 110
 150
@@ -2681,11 +2693,14 @@ Na Cl opl.
 12,996
 13
 
-STERKE
-BASE
-
 STERK
 ZUUR
+
+E.P.
++
+Na Cl opl.
+STERKE
+BASE
 
 In de volgende figuur is het verloop van de pH weergegeven bij het toevoegen van
 stijgende hoeveelheden NaOH. We kunnen dit verloop eveneens interpreteren als de
@@ -2937,21 +2952,21 @@ toegev.
 
 %
 
+-
+
+-
+
 mol HAc
 over
 
 mol Ac
 gevormd
 
--
-
 cHAc
 over
 
 cAc
 gevormd
-
--
 
 cAc /cHAc
 
@@ -3002,10 +3017,9 @@ pH
 5,95
 6,996
 
-1
-
 -
 
+1
 2
 
 Gedurende het verloop van de titratie ontmoeten we een aantal omstandigheden:
@@ -3256,8 +3270,6 @@ pH
 9,996
 10
 
-4
-
 -
 
 %
@@ -3298,6 +3310,8 @@ pH
 2
 
 2
+
+4
 
 Gedurende het verloop van de titratie ontmoeten we een aantal omstandigheden:
 1) Enkel het zwakke zuur HB1 in oplossing. De pH-waarden bij het begin van de
@@ -3385,12 +3399,12 @@ pH
 
 pK HIn
 
-+ log
-
-[In ] = 10 (
+[In ]
 −
 
 [HIn]
+
++ log
 
 35
 
@@ -3399,19 +3413,19 @@ pK HIn
 
 [HIn]
 
-pH − pK HIn )
+= 10 ( pH − pK HIn )
 
 Nemen we opnieuw de besproken titratie van een sterk zuur (0,1 M) met een sterke
 base (0,1 M) uit paragraaf 5.8.3 en gebruiken we een fictieve indicator met pKHIn = 7.
 Bij het begin van de titratie is de pH zeer laag. Bij een omzettingsgraad = 0,99 (net
 voor het EP) is de pH nog steeds niet hoger dan 3. Invullen van deze pH in de voorgaande vergelijking levert
 
-[In ] = 10 (
+[In ]
 −
 
 [HIn]
 
-pH − pK HIn )
+= 10 ( pH − pK HIn )
 
 = 10 (3 − 7 )
 
@@ -3422,12 +3436,12 @@ aanwezig is of kleur 2 valt niet op tussen de grote overmaat van kleur 1.
 Net voorbij het equivalentiepunt (b.v. bij
 net omgekeerd
 
-[In ] = 10 (
+[In ]
 −
 
 [HIn]
 
-pH − pK HIn )
+= 10 ( pH − pK HIn )
 
 = 1,01 met pH = 11) is deze verhouding
 

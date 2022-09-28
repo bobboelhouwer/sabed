@@ -21,10 +21,15 @@ Inwendig product
 • Een inwendig product, gedefiniëerd op een
 vectorruimte V, is een functie die een paar vectoren u
 en v afbeeldt op reëel getal u.v zodat:
-o u.v = v.u
-o (u + v).w = u.w + v.w
-o (cu).v = c (u.v) met c ∈ R
-o u.u ≥ 0 en u.u = 0 ⇔ u=0
+o
+o
+o
+o
+
+u.v = v.u
+(u + v).w = u.w + v.w
+(cu).v = c (u.v) met c ∈ R
+u.u ≥ 0 en u.u = 0 ⇔ u=0
 
 • Oefening: check dat u.v in Rn deze 4 eigenschappen
 heeft
@@ -102,8 +107,9 @@ Pythagoras
 • Gevolg 1: ∀ y ∈ V: y =   +z met    ∈ W, z ∈ W⊥
 y.u
 y.u
-met    = ProjW(y) (= u u  u  + ⋯ + u . u u )
-  .  
+met    = ProjW(y) (= u . u  u  + ⋯ + u . u u )
+ 
+ 
 
 Dus  y 2 =  ProjW(y) + z  2 ≥   ProjW(y)  2
 •
@@ -119,12 +125,11 @@ t0=-2, t1=-1, t2=0, t3=1, t4=2
 
 • Welke polynoom in P2 ligt dichtst bij v = 5 −   ?
 o Orthogonale basis voor W = P2 : p1 = 1, p2 = t, p3 = t2-2
-v . p 
 v.p
 v.p
-o    =
-p  + p . p" p" + p . p  p 
-p  . p 
+v.p
+o    = . p  p  + p . p" p" + p . p  p 
+p   
  
  
 #
@@ -191,17 +196,19 @@ f[k] •g[k] = ∑45
 67  f[k]g[k]
 • Volgende 6 signalen vormen een orthonormale
 basis in S6 :
+o 8  9 =
+o 8; 9 =
+
  
 voor k = 0 ... 5
 :
  
 ;π( 6? )
-= < cos
-voor n = 1 ... 5 ; k = 0 ... 5
+cos
+<
   
 
-o 8  9 =
-o 8; 9
+voor n = 1 ... 5 ; k = 0 ... 5
 
 6
 

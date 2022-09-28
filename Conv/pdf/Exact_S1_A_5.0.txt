@@ -260,8 +260,10 @@ Kc
 
 =
 
-[N 2 O4 ] = 2,7
+[N 2 O4 ]
 [NO2 ]2
+
+= 2,7
 
 De evenwichtsconstante geeft de verhouding van het product van de
 evenwichtsconcentraties van de componenten (tot een respectievelijke
@@ -317,14 +319,16 @@ CO(g) + Cl2(g)
 
 Kc
 
+[COCl 2 ]
+[CO][Cl 2 ]
+
+=
+
 COCl2(g)
 
 bij 100°C
 
-[COCl 2 ] = 5. 10 9 l.mol −1
-[CO][Cl 2 ]
-
-=
+= 5. 10 9 l.mol −1
 
 Het evenwicht is in die mate naar rechts gelegen dat we de reactie nagenoeg als aflopend mogen beschouwen.
 +
@@ -337,12 +341,14 @@ Kc
 
 O2(g)
 
+[NO]2
+[N 2 ][O2 ]
+
 2 NO(g)
 
 bij 25°C
 
-[NO]2 = 1. 10−30
-[N 2 ][O2 ]
+= 1. 10 − 30
 
 Het evenwicht ligt extreem naar links waardoor we ervan kunnen uitgaan dat een
 omzetting tussen zuurstofgas en stikstofgas tot vorming van stikstofmonoxide bij kamertemperatuur niet mogelijk is.
@@ -385,10 +391,10 @@ Kc
 
 2 HI(g)
 
+K
+
 '
 c
-
-K
 
 =
 
@@ -397,8 +403,10 @@ K
 
 =
 
-[HI ]2 =
+[HI ]2
 [H 2 ][I 2 ]
+
+=
 
 1
 Kc
@@ -406,11 +414,11 @@ Kc
 Wanneer de voorgetallen in een reactievergelijking worden veranderd, dan vinden
 we deze factor terug in de exponent van de evenwichtsconstante
 
+K c''
+
 ½ H2(g) + ½ I2(g)
 
 HI(g)
-
-K c''
 
 [H 2 ]12 [I 2 ]12
 [HI ]
@@ -465,10 +473,10 @@ K c(2)
 
 NO(g) + SO3(g)
 
-[NO][SO3 ] =
+[NO][SO3 ]
 [SO2 ][NO2 ]
 
-K c (1) . K c ( 2)
+= K c (1) . K c ( 2)
 
 = 20. 0,012 = 0,24
 
@@ -575,6 +583,8 @@ Kc
 
 =
 
+[NH 3 ]
+
 [NH 3 ]2
 [N 2 ][H 2 ]3
 
@@ -582,19 +592,23 @@ en de respectievelijke concentraties herschrijven we als
 
 PNH 3
 
-[NH 3 ] =
+=
 
-[N 2 ] =
+[N 2 ]
 
 RT
+
+=
 
 PN 2
 
-PH 2
-
-[H 2 ] =
+[H 2 ]
 
 RT
+
+PH 2
+
+=
 
 RT
 
@@ -643,8 +657,9 @@ of
 
 K p ( kPa )
 
-= K c {R T } g
-∆n
+= K c {R T }
+
+∆n g
 
 Hierin stelt ng het verschil voor in aantal mol gasmoleculen rechts t.o.v. links in de
 reactievergelijking. We berekenen ng eenvoudig door de som te nemen van de
@@ -658,24 +673,24 @@ K p (bar )
 
 =
 
-{100}{100}3
-PN ( kPa ) PH3 ( kPa )
-{100}2
+Algemeen:
+
 2
 PNH
 3 ( kPa )
+3
+H 2 ( kPa )
 
-2
+PN 2 ( kPa ) P
 
-Algemeen:
+K p ( bar )
+
+{100}{100}3
+{100}2
 
 = K p ( kPa ) {100}
 
 2
-
-2
-
-K p ( bar )
 
 = K p ( kPa ) {100}
 
@@ -693,25 +708,17 @@ Berekenen van evenwichtsconcentraties en evenwichtspartieeldrukken
 Rekenvoorbeeld: Wanneer we starten met 0,625 mol N2O4-gas bij een bepaalde temperatuur in een vat van 5 l, dan vinden we bij evenwicht een concentratie aan N2O4
 van 0,075 mol.l-1. Bereken de waarde van Kc bij deze temperatuur.
 2 NO2(g)
+start:
 
 N2O4(g)
 
-start:
-
 0
-
-0,625/5 = 0,125
-
-(mol.l-1)
 
 evenwicht:
 
 +2x
 
 0,125 - x = 0,075
-
-(dus x = 0,050)
-
 (mol.l-1)
 
 0,100
@@ -725,6 +732,11 @@ Kc
 
 (mol.l-1)
 
+0,625/5 = 0,125
+
+(dus x = 0,050)
+(mol.l-1)
+
 0,075
 
 = 7,5 (l.mol −1 )
@@ -736,10 +748,14 @@ H2(g) + I2(g)
 
 Bereken de evenwichtsconcentraties van alle componenten wanneer we starten met
 1 mol H2 en 1 mol I2 in een vat van 10 l.
++
+
 H2(g)
 start:
 
-+
+I2(g)
+
+0,1
 
 0,1
 
@@ -749,25 +765,24 @@ Kc
 
 =
 
-I2(g)
+[HI ]2
+[H 2 ][I 2 ]
 
 2 HI(g)
-
-0,1
-
 0
 
 (0,1 - x)
 
-2x
-
 (2 x )2
-[HI ]2 =
-= 45,9
-[H 2 ][I 2 ]
 (0,1 − x ) (0,1 − x )
 
+=
+
 0,0228 mol.l-1
+
+2x
+
+= 45,9
 
 x = 0,0772 mol.l-1
 
@@ -807,35 +822,39 @@ start:
 
 I2(g)
 
-2 HI(g)
-
-0,2
-
-0,3
-
-(0,2 - x)
-
-(0,3 + 2 x)
-
 0,1
-
-evenwicht: (0,1 - x)
 
 Kc
 
 =
 
-(0,3 + 2 x )2
-[HI ]2 =
-= 45,9
+2 HI(g)
+
+0,2
+
+evenwicht: (0,1 - x)
+
+0,3
+
+(0,2 - x)
+
+[HI ]2
 [H 2 ][I 2 ]
+
+(0,3 + 2 x )2
 (0,1 − x ) (0,2 − x )
+
+=
 
 0,0316 mol.l-1
 
 11
 
+(0,3 + 2 x)
+
 x = 0,0684 mol.l-1
+
+= 45,9
 
 0,1316 mol.l-1
 
@@ -853,6 +872,14 @@ Bereken de evenwichtsconcentraties aan H2 en O2 vetrekkende van 2 mol waterdamp 
 
 start:
 
+2 H2(g)
+
+0,4
+
+evenwicht: (0,4 - 2 x)
+
+Kc
+
 =
 
 =
@@ -861,9 +888,27 @@ Kc
 
 2 H2O(g)
 
-2 H2(g)
+[H 2 ]2 [O2 ]
+[H 2 O]2
 
-0,4
+[H 2 ]2 [O2 ]
+[H 2 O]2
+
+=
+
+(2 x )2
+
+x
+
+(0,4 − 2 x )
+
+2
+
++
+
+= 6,0 10 − 28
+
+O2(g)
 
 0
 
@@ -873,24 +918,9 @@ Kc
 
 x
 
-evenwicht: (0,4 - 2 x)
-
-Kc
-
-[H 2 ]2 [O2 ] = 6,0 10 −28
-[H 2 O]2
-
-[H 2 ]2 [O2 ] = (2 x )2 x
-(0,4 − 2 x )2
-[H 2 O]2
-
-+
-
 = 6,0 10 −28
 
 (mol.l −1 )
-
-O2(g)
 
 mol.l −1
 
@@ -939,47 +969,62 @@ start:
 
 evenwicht
 
-(1 - 0,09)
-
-Kc
-
 =
 
 K p ( kPa )
 
-4157
+[NO ]2 [Cl 2 ]
+[NOCl ]2
+
+(0,09)2 (0,045)
+(0,91)2
+
+=
+
+= K c {R T }
 
 evenwicht
 
-Kc
-
-0,045
-
+2 NO(g)
 (kPa)
+
+Kc
 
 =
 
 = 4,4 10 − 4
+1
 
-2 NO(g)
 (via gaswet)
 
 (1 - 0,09) * 4157
 
 K p ( kPa )
 
-0,09
+0,045
 
-1
+= 4,4 10 − 4 (8,314 . 500 )
+
+∆n g
+
+4157
+
+0
+
+0,09
 
 2 NOCl(g)
 start:
 
+Cl2(g)
+
 0
 
-= 4,4 10 − 4 (8,314 . 500 )
+(1 - 0,09)
 
-∆n
+Kc
+
++
 
 2
 p NO
@@ -993,17 +1038,6 @@ p NOCl
 = K p ( kPa ) {R T }
 
 − ∆n g
-
-Cl2(g)
-
-0
-
-[NO ]2 [Cl 2 ] = (0,09)2 (0,045)
-[NOCl ]2
-(0,91)2
-= K c {R T } g
-
-+
 
 (mol.l −1 )
 
@@ -1099,9 +1133,8 @@ Kc
 
 =
 
-[H 2 ][I 2 ] = (0,010)2
+[H 2 ][I 2 ]
 [HI ]2
-(0,080)2
 
 evenwicht 2
 
@@ -1109,12 +1142,21 @@ Kc
 
 =
 
+[H 2 ][I 2 ]
+[HI ]2
+
+=
+
+(0,010)2
+(0,080)2
+
 = 0,0156 > Qc
 
 (0,200 - 2 x)
 
-[H 2 ][I 2 ] = (0,010 + x )2
-[HI ]2
+=
+
+(0,010 + x )2
 (0,20 − 2 x )2
 
 =
@@ -1387,29 +1429,29 @@ pCO2
 In dit geval wordt de evenwichtspartieeldruk van CO2 rechtstreeks bepaald door de
 waarde van Kp.
 Voor de reactie
+Na2CO3 (v)
+
 2 NaHCO3 (v)
 Kc
 
 =
 
-Na2CO3 (v)
-
-+
-
-CO2 (g)
-
+[CO2 ][H 2 O ]
 Kp
 
-=
-
-p CO2 p H 2O
-
-[CO2 ][H 2 O ]
 Kp
 
 = K c ( RT )
 
 ∆n g
+
++
+
+CO2 (g)
+
+=
+
+p CO2 p H 2O
 
 +
 
@@ -1707,8 +1749,9 @@ Kp bij 298 K
 
 K p ( kPa )
 
-= K c {R T } g
-∆n
+= K c {R T }
+
+∆n g
 
 Kp bij 298 K
 
@@ -1931,9 +1974,14 @@ Op de enthalpie-as werd arbitrair een nulpunt geplaatst waardoor
 
 ∆H ° =
 
-(∆H ) − (∆H )
+(∆H )
+
 0
 v R
+
+(∆H )
+
+−
 
 0
 v L
@@ -1953,12 +2001,15 @@ kPa).
 
 ∆S ° =
 
-(S ) − (S )
-0
-
+(S )
 0
 
 R
+
+−
+
+(S )
+0
 
 L
 
@@ -2174,9 +2225,14 @@ worden gemaakt via H°v en S°-waarden.
 
 ∆G° =
 
-(∆G ) − (∆G )
+(∆G )
+
 0
 v R
+
+−
+
+(∆G )
 
 0
 v L
@@ -2206,7 +2262,7 @@ cC + dD
 Q =
 
 [C ]c [D]d
-[A]a [B]b start
+[A]a [B]b
 
 Onder die voorwaarden wordt
 
@@ -2245,6 +2301,8 @@ K <<< 1
 ln K << 0
 
 G° >> 0
+
+start
 
 =
 
@@ -2290,20 +2348,26 @@ thermodynamische parameters.
 
 voor T1
 
-voor T2
-
-= ∆H ° − T ∆S °
-
 − R T1 ln K 1
-
-= ∆H ° − T1 ∆S °
 
 − ln K 1
 
-∆H °
-R T1
+voor T2
 
 =
+
+− R T2 ln K 2
+
+− ln K 2
+
+=
+
+= ∆H ° − T ∆S °
+
+= ∆H ° − T1 ∆S °
+
+∆H °
+R T1
 
 −
 
@@ -2312,16 +2376,10 @@ R
 
 (*)
 
-− R T2 ln K 2
-
 = ∆H ° − T2 ∆S °
-
-− ln K 2
 
 ∆H °
 R T2
-
-=
 
 vergelijking (*) – vergelijking (**) geeft
 
@@ -2400,10 +2458,14 @@ G R0
 
 =
 
-(∆H ) − T (S )
+(∆H )
+
 0
 v R
 
+− T
+
+(S )
 0
 
 R
@@ -2412,10 +2474,14 @@ G L0
 
 =
 
-(∆H ) − T (S )
+(∆H )
+
 0
 v L
 
+− T
+
+(S )
 0
 
 L
@@ -2472,23 +2538,31 @@ G R0
 
 =
 
-(∆H ) − T (S )
+(∆H )
+
+− T
+
+(S )
 
 G L0
 
 =
 
-(∆H ) − T (S )
+(∆H )
+
+− T
+
+(S )
 
 0
 v R
 
 0
-
-R
+v L
 
 0
-v L
+
+R
 
 0
 

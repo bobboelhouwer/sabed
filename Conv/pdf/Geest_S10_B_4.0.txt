@@ -1099,12 +1099,11 @@ hoopte gisteren op een goed gesprek.
  Overzicht van het hoofdstuk: Verplaatsbaarheid
 (9)
 
+(10)
+
 a. *Gisteren hoopte op een goed gesprek de man.
 b. *Gisteren op een goed gesprek hoopte de man.
 c. *De een op man hoopte gisteren goed gesprek.
-
-(10)
-
 a.
 b.
 c.

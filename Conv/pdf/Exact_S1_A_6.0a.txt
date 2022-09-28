@@ -6,26 +6,28 @@ In een labo wordt een fruitsap geanalyseerd en er wordt vastgesteld dat het frui
 een pH heeft van 3,9. Wat zijn de H+ en OH- concentraties in het fruitsap?
 oplossing
 
-[ ] = 3,9
-
 pH
 
+[ ]
+
 = − log H +
+=
 
 pK w
 
-=
+[H ]
++
+
+= 3,9
 
 pH + pOH
 
-[H ] = 1,26 10
-+
-
 =
 
 pOH
 pOH
 
+= 1,26 10 −4
 pK w − pH
 
 [
@@ -34,16 +36,16 @@ pK w − pH
 
 −
 
-−4
+]
 
 = 14 − 3,9 = 10,1
 
-] = 10,1
-
-[OH ] = 7,9 10
+[OH ]
 −
 
-−11
+= 10,1
+
+= 7,9 10 −11
 
 a) We beschikken over een 1 M HF-oplossing (pKz = 3,20). Bereken voor hoeveel % HF gedissocieerd is.
 b) Bereken eveneens het dissociatiepercentage van HF als het gaat om een
@@ -71,16 +73,20 @@ HF
 
 =
 
-= 3,2
-
-[H ][F ] = 6,3 10
+[H ][F ]
 +
 
 −
 
 [HF ]
 
-−4
+= 3,2
+
+Kz
+
+= 6,3 10 −4
+
+=
 
 +
 
@@ -91,12 +97,7 @@ F-
 +x
 x
 
-Kz
-
 = 6,3 10 −4
-
-=
-
 x×x
 (1 − x )
 
@@ -106,9 +107,7 @@ x verwaarlozen t.o.v. 1:
 geringe dissociatie van HF
 (zie kleine Kz-waarde)
 
-[H ] × 100 = x × 100 = 2,5 10 × 100 = 2,5 %
-−2
-
+[H ]
 +
 
 % dissociatie =
@@ -125,18 +124,16 @@ NaF
 start
 evenwicht
 
-Controle:
-we bekomen
-inderdaad een
-kleine x-waarde
-(x << 1) dus de
-verwaarlozing
-was terecht.
-
 +
 
+× 100 =
+
+x
+× 100 =
 1
 
+2,5 10 −2
+× 100 = 2,5 %
 1
 
 F1M
@@ -154,6 +151,14 @@ x
 
 +
 
+Controle:
+we bekomen
+inderdaad een
+kleine x-waarde
+(x << 1) dus de
+verwaarlozing
+was terecht.
+
 F1
 +x
 1+x
@@ -162,11 +167,12 @@ F1
 
  Aanvullende voorbeelden bij Hoofdstuk VIII
 
-[H ][F ] = 6,3 10
 =
-+
 
 Kz
+
+[H ][F ]
++
 
 −
 
@@ -174,7 +180,12 @@ Kz
 
 % dissociatie =
 
-−4
+= 6,3 10 −4
+
+[H ]
++
+
+[HF ]start
 
 38
 
@@ -183,17 +194,16 @@ x × (1 + x )
 
 =
 
+× 100 =
+
 x = 6,3 10 − 4
 
-[H ] × 100 = x × 100 = 6,3 10 × 100 = 0,063 %
-−4
-
-+
-
-[HF ]start
-
+6,3 10 −4
+× 100 = 0,063 %
 1
 
+x
+× 100 =
 1
 
 Aanwezigheid van het F--ion van NaF beperkt de dissociatie van HF (0,063 % t.o.v. 2,5 %).
@@ -209,24 +219,23 @@ Bereken de pH van elk van de volgende oplossingen:
 oplossing
 •
 
-•
-
-•
-
 KOH
 
 K+ + OH-
 
-sterke base: pH
-
 0,1M
 
-0,1M
+•
 
-pH
+•
 
 HClO4
 
+sterke base: pH
+
+pH
+
+0,1M
 H+ + ClO4-
 
 0,4M
@@ -313,8 +322,6 @@ pK z ( H 3 PO4 ) + pK z (H 2 PO4− )
 
 •
 
-•
-
 NH4Cl
 
 NH4+ + Cl-
@@ -329,15 +336,7 @@ H2SO4
 
 0,4M
 
-0,8M
-
-NH4NO2
-
-NH4+ + NO2-
-
-0,1M
-
-0,1M
+•
 
 39
 
@@ -352,6 +351,16 @@ pH
 =
 
 sterk zuur:
+
+0,8M
+
+NH4+ + NO2-
+
+NH4NO2
+
+0,1M
+
+0,1M
 
 amfoliet:
 
@@ -428,18 +437,21 @@ H+ + Cl0,1M
 0,1M
 samenvoegen geeft een totaal volume van 200 ml + 70 ml = 270 ml
 
-200 ml
-(HCO ) = 0,04 M × 270
-= 0,0296 M
-ml
+(HCO )
 −
 3
 
-70 ml
-(H ) = 0,1 M × 270
-= 0,026 M
-ml
+(H )
 +
+
+200 ml
+= 0,0296 M
+270 ml
+70 ml
+= 0,1 M ×
+= 0,026 M
+270 ml
+= 0,04 M ×
 
 H+
 start
@@ -459,12 +471,12 @@ H2CO3
 -0,026
 0,0036
 
-+0,026
-0,026
-
 (M)
 
++0,026
+0,026
 buffer
+
 Na afloop van de reactie blijven 2 deeltjes over van eenzelfde zuur-base-systeem = buffer
 
  Aanvullende voorbeelden bij Hoofdstuk VIII
@@ -484,6 +496,9 @@ pH
 
 pH
 
+[0,0036]
+[0,026]
+
 =
 
 40
@@ -496,8 +511,7 @@ pK z ( H 2CO3 ) + log
 
 [H 2 CO3 ]
 
-[0,0036] = 5,49
-[0,026]
+= 5,49
 
 De pH zal dalen van 8,34 naar 5,49 door toevoegen van HCl.
 Gegeven:
@@ -522,19 +536,10 @@ H+ + Cl-
 
 0,1M
 
-= − log 0,1 = 1
-
-pH
-
 KOH
-
-K+ + OH-
-
 0,2M
 
-0,2M
-
-•
+K+ + OH0,2M
 
 KCl
 
@@ -545,6 +550,8 @@ K+ + Cl-
 H2SO3
 
 H+ + HSO3-
+
+0,2M
 
 = 14 + log cb
 pH = 14 + log 0,2 = 13,3
@@ -574,68 +581,67 @@ pH
 
 0,3M
 
+KHSO3
+
+= − log 0,1 = 1
+
+pH
+
+•
+
 •
 
 = − log c z
 
 sterk zuur: pH
 
-KHSO3
-
-K+ + HSO3-
+K+ + HSO30,2M
 
 amfoliet: pH
 
-=
-
-0,2M
-
-0,2M
-
 pH
 
-=
-
 pK z ( H 2 SO3 ) + pK z (HSO3− )
+2
 1,85 + 7,2
+=
+= 4,5
 2
 
-2
-= 4,5
+=
 
 b) samenvoegen geeft een totaal volume van (200 + 300 + 250 + 100 + 100) ml = 950 ml
 
  Aanvullende voorbeelden bij Hoofdstuk VIII
 
+(H )
+
 41
 
 200 ml
-(H ) = 0,1 M × 950
 = 0,02 M
-ml
+950 ml
+300 ml
+OH − = 0,2 M ×
+= 0,063 M
+950 ml
+(H 2 SO3 ) = 0,3 M × 100 ml = 0,03 M
+950 ml
+100 ml
+HSO3− = 0,2 M ×
+= 0,02 M
+950 ml
 +
 
-300 ml
-(OH ) = 0,2 M × 950
-= 0,063 M
-ml
-−
+(
 
-100 ml
-= 0,03 M
-950 ml
-100 ml
-= 0,2 M ×
-= 0,02 M
-950 ml
+= 0,1 M ×
 
-(H 2 SO3 ) =
+)
 
-(HSO )
-−
-3
+(
 
-0,3 M ×
+)
 
 Fase 1: Het sterkste zuur H+ reageert eerst met de sterkste base OH-:
 H+
@@ -736,13 +742,16 @@ pH
 
 [SO ]
 [HSO ]
+
+[0,013]
+[0,037]
+
 2−
 3
 −
 3
 
-[0,013] = 6,75
-[0,037]
+= 6,75
 
 +
 
@@ -789,13 +798,20 @@ zwakke base
 
 Samenvoegen geeft een totaal volume van 200 ml + 100 ml + 50 ml = 350 ml
 
-200 ml
-= 0,057 M
-(H ) = 0,1 M × 350
-ml
+(H )
 +
 
+(HF )
+
+(NO )
+−
+2
+
+200 ml
+= 0,057 M
+350 ml
 100 ml
+= 0,3 M ×
 = 0,086 M
 350 ml
 50 ml
@@ -803,13 +819,7 @@ ml
 = 0,029 M
 350 ml
 
-(HF ) =
-
-(NO )
-−
-2
-
-0,3 M ×
+= 0,1 M ×
 
 Het sterkste zuur H+ zal eerst reageren met de base NO2-:
 H+
@@ -874,22 +884,21 @@ zwak zuur
 
 Samenvoegen geeft een totaal volume van 100 ml + 50 ml = 150 ml
 
-100 ml
-(OH ) = 0,1 M × 150
-= 0,066 M
-ml
+(OH )
 −
 
-(HF ) =
+(HF )
 
-0,1 M ×
-
-50 ml
+100 ml
+= 0,066 M
 150 ml
+50 ml
+= 0,1 M ×
+= 0,033 M
+150 ml
+= 0,1 M ×
 
 OHstart
-
-= 0,033 M
 
 +
 
@@ -943,24 +952,29 @@ sterk zuur
 
 Samenvoegen maakt een totaal volume van 150 ml + 100 ml = 250 ml
 
-ml
-(OH ) = 0,033 M × 150
-= 0,025 M
-250 ml
+(OH )
 −
 
-ml
-( ) = 0,033 M × 150
+F
+
+()
+−
+
+(H )
++
+
+150 ml
 = 0,025 M
 250 ml
-
-F −
-
-ml
-(H ) = 0,1 M × 100
+150 ml
+= 0,033 M ×
+= 0,025 M
+250 ml
+100 ml
+= 0,1 M ×
 = 0,04 M
 250 ml
-+
+= 0,033 M ×
 
 Het sterke zuur H+ reageert met de sterkste base OH-:
 H+
@@ -990,13 +1004,15 @@ met de 0,025M F-:
 H+
 start
 
+F-
+
++
+
 0,015
 -0,015
 /
 
 einde
-
-F-
 
 HF
 
@@ -1004,13 +1020,10 @@ HF
 -0,015
 0,010
 
-+0,015
-0,015
-
-+
-
 (M)
 
++0,015
+0,015
 buffer
 
 =
@@ -1038,8 +1051,10 @@ pK z ( HF )
 
 [HF ]
 
-[0,010] = 3,02
+[0,010]
 [0,015]
+
+= 3,02
 
 Welk volume HCl 7 M dient toegevoegd te worden aan 50 ml NaCN 0,1 M om een oplossing te bekomen met pH 9,1?
 H+ + Cl7M
@@ -1062,13 +1077,19 @@ zwakke base
 
 Samenvoegen geeft een totaal volume van x ml + 50 ml = (x + 50) ml
 
-(H ) = 7 M × (x +x50ml) ml
+(H )
 +
 
-ml
-(CN ) = 0,1 M × (x 50
-+ 50 ) ml
+(CN )
 −
+
+x ml
+(x + 50) ml
+50 ml
+= 0,1 M ×
+(x + 50) ml
+
+= 7M×
 
 Gezien de pH na mengen is de omgeving ligt van pKHCN (dus in het buffergebied) is dit een
 aanduiding dat CN- maar gedeeltelijk is omgezet.
@@ -1118,11 +1139,13 @@ buffer
 
 pH
 
-[base]
-pK z + log
-[zuur ]
-
 =
+
+pK z
+
+[base]
++ log
+[zuur ]
 
 9,1 = 9,21 + log
 
@@ -1295,7 +1318,7 @@ sterk zuur
 
 Na samenvoegen is het totaal volume 250 ml + 5 ml = 255 ml
 
-(B ) =
+(B )
 
 (H )
 +
@@ -1305,7 +1328,8 @@ Na samenvoegen is het totaal volume 250 ml + 5 ml = 255 ml
 5 ml
 = 0,1 M ×
 255 ml
-4 x (M ) ×
+
+= 4 x (M ) ×
 
 B
 start
@@ -1389,10 +1413,10 @@ Gelijkstellen van vgl. 1 met vgl. 2 levert
 
 x
 
+=
+
 0,0002
 0,384
-
-=
 
 x
 
@@ -1450,9 +1474,9 @@ pK z + log cb
 2) 10 ml HCl toegevoegd:
 samenvoegen: dus totaal volume = 100 ml + 10 ml = 110 ml
 
-(NH 3 ) =
+(NH 3 )
 
-0,2 M ×
+= 0,2 M ×
 
 100 ml
 110 ml
@@ -1461,23 +1485,19 @@ samenvoegen: dus totaal volume = 100 ml + 10 ml = 110 ml
 
  Aanvullende voorbeelden bij Hoofdstuk VIII
 
-48
+(H )
++
+
+= 0,1 M ×
 
 10 ml
-(H ) = 0,1 M × 110
-= 0,009 M
-ml
-+
+110 ml
 
 NH3
 start
-
-0,18
--0,009
-0,17
-
 einde
 
+= 0,009 M
 H+
 
 NH4+
@@ -1491,12 +1511,9 @@ NH4+
 
 +
 
-buffer
-
-[base]
-[zuur ]
-
-pH
+0,18
+-0,009
+0,17
 
 =
 
@@ -1514,17 +1531,33 @@ pH
 
 (M)
 
+buffer
+
+[base]
+[zuur ]
+
+pH
+
+48
+
 [NH 3 ]
 
 [NH ]
 +
 4
 
-[0,17] = 10,52
+[0,17]
 [0,009]
+
+= 10,52
 
 3) 50 ml HCl toegevoegd:
 samenvoegen: dus totaal volume = 100 ml + 50 ml = 150 ml
+
+(NH 3 )
+
+(H )
++
 
 100 ml
 = 0,13 M
@@ -1533,13 +1566,7 @@ samenvoegen: dus totaal volume = 100 ml + 50 ml = 150 ml
 = 0,1 M ×
 = 0,03 M
 150 ml
-
-(NH 3 ) =
-
-(H )
-+
-
-0,2 M ×
+= 0,2 M ×
 
 NH3
 start
@@ -1550,11 +1577,17 @@ start
 
 einde
 
-NH4+
-
 0,03
 -0,03
 /
+
+=
+
+pH
+
+= 9,25 + log
+
+(M)
 
 +0,03
 0,03
@@ -1565,13 +1598,9 @@ nog steeds buffer
 
 pH
 
-=
-
-pH
-
-= 9,25 + log
-
 pK z (NH 4+ )
+
+NH4+
 
 H+
 
@@ -1581,8 +1610,10 @@ H+
 +
 4
 
-[0,10] = 9,77
+[0,10]
 [0,03]
+
+= 9,77
 
 4) 100 ml HCl toegevoegd :
 Nog steeds bufferoplossing
@@ -1591,12 +1622,12 @@ pH
 
 = 9,25 + log
 
-[0,05] = 9,25
+[0,05]
 [0,05]
 
 Analoog voor 150 ml (pH = 8,77) en 190 ml (pH = 8,04)
 
-(M)
+= 9,25
 
  Aanvullende voorbeelden bij Hoofdstuk VIII
 
@@ -1605,6 +1636,11 @@ Analoog voor 150 ml (pH = 8,77) en 190 ml (pH = 8,04)
 5) 200 ml HCl toegevoegd:
 samenvoegen: dus totaal volume = 100 ml + 200 ml = 300 ml
 
+(NH 3 )
+
+(H )
++
+
 100 ml
 = 0,066 M
 300 ml
@@ -1612,13 +1648,7 @@ samenvoegen: dus totaal volume = 100 ml + 200 ml = 300 ml
 = 0,1 M ×
 = 0,066 M
 300 ml
-
-(NH 3 ) =
-
-(H )
-+
-
-0,2 M ×
+= 0,2 M ×
 
 NH3
 start
@@ -1670,18 +1700,22 @@ pH
 samenvoegen: dus totaal volume = 100 ml + 210 ml = 310 ml
 NH3 is op en
 
-210 ml
-(H ) = 0,1 M × 310
-= 0,068 M
-ml
+(H )
 +
 
-ml
-(NH ) = 0,066 M × 300
-= 0,064 M
-310 ml
+(NH )
 +
 4
+
+210 ml
+= 0,068 M
+310 ml
+300 ml
+= 0,066 M ×
+= 0,064 M
+310 ml
+
+= 0,1 M ×
 
 de pH wordt bepaald door het sterkste zuur H+:
 
@@ -1742,14 +1776,13 @@ ml HCl toegevoegd
 [H ]
 +
 
-pH
-
 0,1
 0,068
 0,07
 0,074
 0,075
 
+pH
 11,27
 10,52
 9,77
@@ -1796,17 +1829,20 @@ sterk zuur
 
 Samenvoegen geeft een totaal volume van 50 ml + 10 ml = 60 ml
 
-ml
-(OH ) = 0,1 M × 10
-= 0,0167 M
-60 ml
+(OH )
 −
 
-ml
-(H ) = 0,2 M × 50
+(H )
++
+
+10 ml
+= 0,0167 M
+60 ml
+50 ml
+= 0,2 M ×
 = 0,167 M
 60 ml
-+
+= 0,1 M ×
 
 H+
 start
@@ -1839,17 +1875,20 @@ pH
 opm.: op dit ogenblik bij de titratie zijn we nog voor het equivalentiepunt
 b) samenvoegen: dus totaal volume = 50 ml + 120 ml = 170 ml
 
-ml
-(OH ) = 0,1 M × 120
-= 0,07 M
-170 ml
+(OH )
 −
 
-50 ml
-(H ) = 0,2 M × 170
-= 0,06 M
-ml
+(H )
 +
+
+120 ml
+= 0,07 M
+170 ml
+50 ml
+= 0,2 M ×
+= 0,06 M
+170 ml
+= 0,1 M ×
 
 H+
 start
@@ -1935,9 +1974,7 @@ NaOH
 −
 
 [CH 3COOH ]
-
-[0,5] = 4,756
-[0,5]
+= 4,756
 
 CH3COO- + Na+
 0,5M
@@ -1970,6 +2007,9 @@ H+ + CH3COO-
 CH3COOH
 start
 
+[0,5]
+[0,5]
+
 [CH COO ]
 
 +
@@ -1981,24 +2021,21 @@ H2O
 buffer
 
 pH
-pH
-
-[base]
-pH
-[zuur ]
-[0,51] = 4,77
-= 4,756 + log
-[0,49]
 
 =
 
+pH
+
+=
+
+[base]
+[zuur ]
+[0,51]
+4,756 + log
+[0,49]
 pK z + log
 
-pH = 4,77 – 4,756 = 0,0174
-NaOH
-0,01M
-
-pK z (CH 3COOH ) + log
+pH
 
 [CH COO ]
 3
@@ -2015,6 +2052,14 @@ Na+ + OH0,01M
 sterke base: pH = 14 + log cb
 pH van zuiver H2O = 7
 pH =12 – 7= 5
+
+pK z (CH 3COOH ) + log
+
+= 4,77
+
+pH = 4,77 – 4,756 = 0,0174
+NaOH
+0,01M
 
 =
 

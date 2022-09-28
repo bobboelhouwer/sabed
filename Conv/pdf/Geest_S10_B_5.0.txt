@@ -1207,9 +1207,6 @@ niet-essentieel
 
  Techniek #3: Vervangbaarheid:
 Proportionaliteit/weglaatbaarheid/essentieelheid
-⇒
-⇒
-
 (58)
 
 a.
@@ -1228,16 +1225,19 @@ weglaatbaar
 
 (60)
 
-Hij heeft inderdaad gewonnen.
+̸⇒
+̸⇒
 
-̸⇒
-̸⇒
+⇒
+⇒
 
 weglaatbaar
 essentieel
 
 niet-weglaatbaar
 niet-essentieel
+
+Hij heeft inderdaad gewonnen.
 
 .
 
@@ -1285,9 +1285,6 @@ niet-essentieel
 
  Techniek #3: Vervangbaarheid:
 Proportionaliteit/weglaatbaarheid/essentieelheid
-⇒
-⇒
-
 (58)
 
 a.
@@ -1304,6 +1301,18 @@ b.
 essentieel
 weglaatbaar
 
+̸⇒
+̸⇒
+
+⇒
+⇒
+
+weglaatbaar
+essentieel
+
+niet-weglaatbaar
+niet-essentieel
+
 (60)
 
 Hij heeft inderdaad gewonnen.
@@ -1311,15 +1320,6 @@ Hij heeft inderdaad gewonnen.
 (61)
 
 Ik breng hem op de hoogte van onze plannen.
-
-̸⇒
-̸⇒
-
-weglaatbaar
-essentieel
-
-niet-weglaatbaar
-niet-essentieel
 
 .
 

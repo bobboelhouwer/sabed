@@ -575,7 +575,15 @@ hun natuurlijke isotopische samenstelling en bovendien zijn ze chemisch identiek
 Daarom wordt voor ieder element een gemiddelde relatieve atoommassa bepaald
 rekening houdende met de procentuele isotopische samenstelling.
 r.a.m. 63Cu = 62,93 en r.a.m. 65Cu = 64,93
-Cu is voor 69,09 % 63Cu en voor 30,91 % 65Cu
+Cu is voor 69,09 %
+
+63
+
+Cu en voor 30,91 %
+
+65
+
+Cu
 
 en
 
@@ -1414,30 +1422,39 @@ CH4 (g) + 2 O2 (g) → CO2 (g) + 2 H2O (vl)
 
 =
 
-[− 393,5 + 2 × (− 285,8)] − [− 74,6 + 2 × 0] = − 890,5 kJ
+[− 393,5 + 2 × (− 285,8)] − [− 74,6 + 2 × 0]
 
 4.5
-
-Calorimetrie
 
 0
 v CO 2 ( g )
 
 (
 
-)
-
-] [(
++ 2 × ∆H v0
 
 )
+
+H 2 O ( vl )
+
+] − [(∆H )
+
+0
+v CH 4 ( g )
 
 (
 
++ 2 × ∆H v0
+
 )
 
-+ 2 × ∆H v0 H 2 O ( vl ) − ∆H v0 CH 4 ( g ) + 2 × ∆H v0 O2 ( g )
+O2 ( g )
 
 ]
+
+= − 890,5 kJ
+
+Calorimetrie
 
 Voor vele reacties is het mogelijk de reactiewarmte rechtstreeks te meten. Deze metingen worden uitgevoerd in een calorimeter. Voor reacties in oplossing en waarbij
 geen gasvormige componenten aan de reactie deelnemen, volstaat een gewone

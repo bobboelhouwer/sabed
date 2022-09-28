@@ -298,12 +298,20 @@ Wat zijn de coördinaten van deze vector in basis C ?
 • [y]C = M [x]B
 
 Voorbeeld
-• Basis voor V = {1, t, t2} (keuze)
-• Basis voor W = {1, 1+t, 1-t2} (keuze)
-• T: VW is afgeleide naar t nemen
-• T(b1) = 0  [T(b1)]C = [0 0 0]T
-• T(b2) = 1  [T(b2)]C = [1 0 0]T
-• T(b3) = 2t  [T(b3)]C = [-2 2 0]T
+•
+•
+•
+•
+•
+•
+
+Basis voor V = {1, t, t2} (keuze)
+Basis voor W = {1, 1+t, 1-t2} (keuze)
+T: VW is afgeleide naar t nemen
+T(b1) = 0  [T(b1)]C = [0 0 0]T
+T(b2) = 1  [T(b2)]C = [1 0 0]T
+T(b3) = 2t  [T(b3)]C = [-2 2 0]T
+
 0 1 −2
 • 𝐌= 0 0 2
 0 0 0

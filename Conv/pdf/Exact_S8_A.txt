@@ -260,12 +260,12 @@ s-orbitaal
 
 sp3-s-s-binding
 
++
+sp3-orbitaal
+
 sp3-orbitaal
 
 sp3-sp3-s-binding
-
-+
-sp3-orbitaal
 
 p-orbitalen
 sp2-sp2-s- en
@@ -386,7 +386,9 @@ H
 
 5
 
-H 1
+H
+
+1
 
 2
 
@@ -416,7 +418,14 @@ Inleiding
 
  d) Alkadiënen
 Met geïsoleerde dubbele bindingen
-H 1 2 3H
+H
+
+1
+
+2
+
+3H
+
 C C C
 H
 H
@@ -914,7 +923,9 @@ C
 OH
 
 2-amino-3-hydroxypropaanzuur
-3 CH2
+3
+
+CH2
 OH
 
 O
@@ -965,14 +976,12 @@ OH
 NO2
 CH3 CH2 CH2 CH2 CH2
 
-6
-
 CH2
-
-CH CH2 CH2 CH2
-
 CH 3
 
+6
+
+CH CH2 CH2 CH2
 CH
 
 CH
@@ -1148,25 +1157,25 @@ Inleiding
 C F
 
 
-
-
-
 
  C O
-
-C N
-
 
 
-
+
 
 C Mg Br
 
 
 
+
+
+C N
+
  O 
 C
 H
+
+
 
   
 C C C O H
@@ -1265,7 +1274,8 @@ ether
 C
 OR
 > -F > -Cl > -Br > -I > -O-R > C6H5
-O
+fenylO
+substituent
 C ketonfunctie
 R
 O
@@ -1275,8 +1285,6 @@ H
 Inleiding
 
 nitrilgroep
-
-fenylsubstituent
 
 aldehydefunctie
 
@@ -1553,10 +1561,9 @@ NH2
 NH2
 
  NH
+2
 
 NH2
-
-2
 
 
 
@@ -1685,7 +1692,7 @@ CH 3 CH 2OH
 <
 
 NO2
-
+NO2
 pKA = 16
 
 Inleiding
@@ -1696,12 +1703,9 @@ Inleiding
 
 NO2
 
-NO2
-
-NO2
-
 7,2
 
+NO2
 0,25
 
 47

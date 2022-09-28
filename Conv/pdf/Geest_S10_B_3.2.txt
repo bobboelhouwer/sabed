@@ -127,7 +127,9 @@ onvermogen
 .
 
  De open woordsoorten: Werkwoorden
-▶ morfologische kenmerken
+▶
+
+morfologische kenmerken
 
 .
 
@@ -174,7 +176,9 @@ onvermogen
 .
 
  De open woordsoorten: Werkwoorden
-▶ morfologische kenmerken
+▶
+
+morfologische kenmerken
 ▶
 
 vervoegd vs. niet vervoegd
@@ -242,7 +246,9 @@ geleefd
 .
 
  De open woordsoorten: Werkwoorden
-▶ morfologische kenmerken
+▶
+
+morfologische kenmerken
 ▶
 
 vervoegd vs. niet vervoegd
@@ -328,7 +334,9 @@ worden/zijn +
 .
 
  De open woordsoorten: Werkwoorden
-▶ Ik lees dat boek.
+▶
+
+Ik lees dat boek.
 
 OTT
 
@@ -377,11 +385,15 @@ OTT
 .
 
  De open woordsoorten: Werkwoorden
-▶ Ik lees dat boek.
+▶
+
+Ik lees dat boek.
 
 OTT
 
-▶ Ik las dat boek.
+▶
+
+Ik las dat boek.
 
 OVT
 
@@ -430,15 +442,21 @@ OVT
 .
 
  De open woordsoorten: Werkwoorden
-▶ Ik lees dat boek.
+▶
+
+Ik lees dat boek.
 
 OTT
 
-▶ Ik las dat boek.
+▶
+
+Ik las dat boek.
 
 OVT
 
-▶ Ik heb dat boek gelezen.
+▶
+
+Ik heb dat boek gelezen.
 
 VTT
 
@@ -487,19 +505,27 @@ VTT
 .
 
  De open woordsoorten: Werkwoorden
-▶ Ik lees dat boek.
+▶
+
+Ik lees dat boek.
 
 OTT
 
-▶ Ik las dat boek.
+▶
+
+Ik las dat boek.
 
 OVT
 
-▶ Ik heb dat boek gelezen.
+▶
+
+Ik heb dat boek gelezen.
 
 VTT
 
-▶ Ik had dat boek gelezen.
+▶
+
+Ik had dat boek gelezen.
 
 VVT
 
@@ -548,23 +574,33 @@ VVT
 .
 
  De open woordsoorten: Werkwoorden
-▶ Ik lees dat boek.
+▶
+
+Ik lees dat boek.
 
 OTT
 
-▶ Ik las dat boek.
+▶
+
+Ik las dat boek.
 
 OVT
 
-▶ Ik heb dat boek gelezen.
+▶
+
+Ik heb dat boek gelezen.
 
 VTT
 
-▶ Ik had dat boek gelezen.
+▶
+
+Ik had dat boek gelezen.
 
 VVT
 
-▶ Ik zal dat boek lezen.
+▶
+
+Ik zal dat boek lezen.
 
 OTTT
 
@@ -613,27 +649,39 @@ OTTT
 .
 
  De open woordsoorten: Werkwoorden
-▶ Ik lees dat boek.
+▶
+
+Ik lees dat boek.
 
 OTT
 
-▶ Ik las dat boek.
+▶
+
+Ik las dat boek.
 
 OVT
 
-▶ Ik heb dat boek gelezen.
+▶
+
+Ik heb dat boek gelezen.
 
 VTT
 
-▶ Ik had dat boek gelezen.
+▶
+
+Ik had dat boek gelezen.
 
 VVT
 
-▶ Ik zal dat boek lezen.
+▶
+
+Ik zal dat boek lezen.
 
 OTTT
 
-▶ Ik zou dat boek lezen.
+▶
+
+Ik zou dat boek lezen.
 
 OVTT
 
@@ -682,31 +730,45 @@ OVTT
 .
 
  De open woordsoorten: Werkwoorden
-▶ Ik lees dat boek.
+▶
+
+Ik lees dat boek.
 
 OTT
 
-▶ Ik las dat boek.
+▶
+
+Ik las dat boek.
 
 OVT
 
-▶ Ik heb dat boek gelezen.
+▶
+
+Ik heb dat boek gelezen.
 
 VTT
 
-▶ Ik had dat boek gelezen.
+▶
+
+Ik had dat boek gelezen.
 
 VVT
 
-▶ Ik zal dat boek lezen.
+▶
+
+Ik zal dat boek lezen.
 
 OTTT
 
-▶ Ik zou dat boek lezen.
+▶
+
+Ik zou dat boek lezen.
 
 OVTT
 
-▶ Ik zal dat boek gelezen hebben.
+▶
+
+Ik zal dat boek gelezen hebben.
 
 VTTT
 
@@ -755,35 +817,51 @@ VTTT
 .
 
  De open woordsoorten: Werkwoorden
-▶ Ik lees dat boek.
+▶
+
+Ik lees dat boek.
 
 OTT
 
-▶ Ik las dat boek.
+▶
+
+Ik las dat boek.
 
 OVT
 
-▶ Ik heb dat boek gelezen.
+▶
+
+Ik heb dat boek gelezen.
 
 VTT
 
-▶ Ik had dat boek gelezen.
+▶
+
+Ik had dat boek gelezen.
 
 VVT
 
-▶ Ik zal dat boek lezen.
+▶
+
+Ik zal dat boek lezen.
 
 OTTT
 
-▶ Ik zou dat boek lezen.
+▶
+
+Ik zou dat boek lezen.
 
 OVTT
 
-▶ Ik zal dat boek gelezen hebben.
+▶
+
+Ik zal dat boek gelezen hebben.
 
 VTTT
 
-▶ Ik zou dat boek gelezen hebben.
+▶
+
+Ik zou dat boek gelezen hebben.
 
 VVTT
 
@@ -832,7 +910,9 @@ VVTT
 .
 
  De open woordsoorten: Werkwoorden
-▶ Dat boek wordt gelezen.
+▶
+
+Dat boek wordt gelezen.
 
 OTT-P
 
@@ -881,11 +961,15 @@ OTT-P
 .
 
  De open woordsoorten: Werkwoorden
-▶ Dat boek wordt gelezen.
+▶
+
+Dat boek wordt gelezen.
 
 OTT-P
 
-▶ Dat boek werd gelezen.
+▶
+
+Dat boek werd gelezen.
 
 OVT-P
 
@@ -934,15 +1018,21 @@ OVT-P
 .
 
  De open woordsoorten: Werkwoorden
-▶ Dat boek wordt gelezen.
+▶
+
+Dat boek wordt gelezen.
 
 OTT-P
 
-▶ Dat boek werd gelezen.
+▶
+
+Dat boek werd gelezen.
 
 OVT-P
 
-▶ Dat boek is gelezen.
+▶
+
+Dat boek is gelezen.
 
 VTT-P
 
@@ -991,19 +1081,27 @@ VTT-P
 .
 
  De open woordsoorten: Werkwoorden
-▶ Dat boek wordt gelezen.
+▶
+
+Dat boek wordt gelezen.
 
 OTT-P
 
-▶ Dat boek werd gelezen.
+▶
+
+Dat boek werd gelezen.
 
 OVT-P
 
-▶ Dat boek is gelezen.
+▶
+
+Dat boek is gelezen.
 
 VTT-P
 
-▶ Dat boek was gelezen.
+▶
+
+Dat boek was gelezen.
 
 VVT-P
 
@@ -1052,23 +1150,33 @@ VVT-P
 .
 
  De open woordsoorten: Werkwoorden
-▶ Dat boek wordt gelezen.
+▶
+
+Dat boek wordt gelezen.
 
 OTT-P
 
-▶ Dat boek werd gelezen.
+▶
+
+Dat boek werd gelezen.
 
 OVT-P
 
-▶ Dat boek is gelezen.
+▶
+
+Dat boek is gelezen.
 
 VTT-P
 
-▶ Dat boek was gelezen.
+▶
+
+Dat boek was gelezen.
 
 VVT-P
 
-▶ Dat boek zal gelezen worden.
+▶
+
+Dat boek zal gelezen worden.
 
 OTTT-P
 
@@ -1117,27 +1225,39 @@ OTTT-P
 .
 
  De open woordsoorten: Werkwoorden
-▶ Dat boek wordt gelezen.
+▶
+
+Dat boek wordt gelezen.
 
 OTT-P
 
-▶ Dat boek werd gelezen.
+▶
+
+Dat boek werd gelezen.
 
 OVT-P
 
-▶ Dat boek is gelezen.
+▶
+
+Dat boek is gelezen.
 
 VTT-P
 
-▶ Dat boek was gelezen.
+▶
+
+Dat boek was gelezen.
 
 VVT-P
 
-▶ Dat boek zal gelezen worden.
+▶
+
+Dat boek zal gelezen worden.
 
 OTTT-P
 
-▶ Dat boek zou gelezen worden.
+▶
+
+Dat boek zou gelezen worden.
 
 OVTT-P
 
@@ -1186,31 +1306,45 @@ OVTT-P
 .
 
  De open woordsoorten: Werkwoorden
-▶ Dat boek wordt gelezen.
+▶
+
+Dat boek wordt gelezen.
 
 OTT-P
 
-▶ Dat boek werd gelezen.
+▶
+
+Dat boek werd gelezen.
 
 OVT-P
 
-▶ Dat boek is gelezen.
+▶
+
+Dat boek is gelezen.
 
 VTT-P
 
-▶ Dat boek was gelezen.
+▶
+
+Dat boek was gelezen.
 
 VVT-P
 
-▶ Dat boek zal gelezen worden.
+▶
+
+Dat boek zal gelezen worden.
 
 OTTT-P
 
-▶ Dat boek zou gelezen worden.
+▶
+
+Dat boek zou gelezen worden.
 
 OVTT-P
 
-▶ Dat boek zal gelezen zijn.
+▶
+
+Dat boek zal gelezen zijn.
 
 VTTT-P
 
@@ -1259,35 +1393,51 @@ VTTT-P
 .
 
  De open woordsoorten: Werkwoorden
-▶ Dat boek wordt gelezen.
+▶
+
+Dat boek wordt gelezen.
 
 OTT-P
 
-▶ Dat boek werd gelezen.
+▶
+
+Dat boek werd gelezen.
 
 OVT-P
 
-▶ Dat boek is gelezen.
+▶
+
+Dat boek is gelezen.
 
 VTT-P
 
-▶ Dat boek was gelezen.
+▶
+
+Dat boek was gelezen.
 
 VVT-P
 
-▶ Dat boek zal gelezen worden.
+▶
+
+Dat boek zal gelezen worden.
 
 OTTT-P
 
-▶ Dat boek zou gelezen worden.
+▶
+
+Dat boek zou gelezen worden.
 
 OVTT-P
 
-▶ Dat boek zal gelezen zijn.
+▶
+
+Dat boek zal gelezen zijn.
 
 VTTT-P
 
-▶ Dat boek zou gelezen zijn.
+▶
+
+Dat boek zou gelezen zijn.
 
 VVTT-P
 

@@ -154,10 +154,6 @@ OH-
 
 OCH3
 
-Zwavel- en koolstofnucleofielen
-
-OCH3
-
 O
 
 CH3
@@ -172,6 +168,11 @@ OCH3
 O
 
 P
+
+OCH3
+
+Zwavel- en koolstofnucleofielen
+
 OCH3
 
 Fosfaten en fosfaatesters
@@ -224,12 +225,14 @@ wordt weergegeven door fosforyleringspotentiaal
 O
 
 O
+
 P
 
-- H+
 O
 
 +
+
+H+
 
 H 2O
 
@@ -248,22 +251,20 @@ O
 O
 
 fosfaatverbinding
-
-DG°’ (kJ/mol)
-
 fosfoënolpyruvaat
 acetylfosfaat
 ATP
 glucose-1-fosfaat
 glucose-6-fosfaat
 
+Fosfaten en fosfaatesters
+
+DG°’ (kJ/mol)
 -62,0
 -42,3
 -30,6
 -20,9
 -13,8
-
-Fosfaten en fosfaatesters
 
 energierijke
 verbindingen

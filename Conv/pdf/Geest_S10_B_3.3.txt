@@ -346,7 +346,9 @@ b. ?Dino’s/De dino’s zijn uitgestorven.
 .
 
  De gesloten woordsoorten: Pronomina
-▶ pro + nomen // voor + naamwoord
+▶
+
+pro + nomen // voor + naamwoord
 
 .
 
@@ -393,8 +395,9 @@ b. ?Dino’s/De dino’s zijn uitgestorven.
 .
 
  De gesloten woordsoorten: Pronomina
-▶ pro + nomen // voor + naamwoord
+▶
 
+pro + nomen // voor + naamwoord
 (14)
 
 Jan zegt dat hij moe is.
@@ -444,63 +447,9 @@ Jan zegt dat hij moe is.
 .
 
  De gesloten woordsoorten: Pronomina
-▶ pro + nomen // voor + naamwoord
+▶
 
-(14)
-
-Jan zegt dat hij moe is.
-
-(15)
-
-Ik ben moe.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
- De gesloten woordsoorten: Pronomina
-▶ pro + nomen // voor + naamwoord
-
+pro + nomen // voor + naamwoord
 (14)
 
 Jan zegt dat hij moe is.
@@ -554,8 +503,65 @@ Ik ben moe.
 .
 
  De gesloten woordsoorten: Pronomina
-▶ pro + nomen // voor + naamwoord
+▶
 
+pro + nomen // voor + naamwoord
+(14)
+
+Jan zegt dat hij moe is.
+
+(15)
+
+Ik ben moe.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ De gesloten woordsoorten: Pronomina
+▶
+
+pro + nomen // voor + naamwoord
 (14)
 
 Jan zegt dat hij moe is.
@@ -618,75 +624,9 @@ Ik ben moe.
 .
 
  De gesloten woordsoorten: Pronomina
-▶ pro + nomen // voor + naamwoord
+▶
 
-(14)
-
-Jan zegt dat hij moe is.
-
-(15)
-
-Ik ben moe.
-
-(14)
-(15)
-?
-
-✓
-*
-✓
-
-✓
-✓
-*
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
- De gesloten woordsoorten: Pronomina
-▶ pro + nomen // voor + naamwoord
-
+pro + nomen // voor + naamwoord
 (14)
 
 Jan zegt dat hij moe is.
@@ -698,6 +638,74 @@ Ik ben moe.
 (14)
 (15)
 ?
+
+✓
+*
+✓
+
+✓
+✓
+*
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+. . . .
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+ De gesloten woordsoorten: Pronomina
+▶
+
+pro + nomen // voor + naamwoord
+(14)
+
+Jan zegt dat hij moe is.
+
+(15)
+
+Ik ben moe.
+
+(14)
+(15)
+?
 ?
 
 ✓
@@ -755,8 +763,9 @@ Ik ben moe.
 .
 
  De gesloten woordsoorten: Pronomina
-▶ pro + nomen // voor + naamwoord
+▶
 
+pro + nomen // voor + naamwoord
 (14)
 
 Jan zegt dat hij moe is.
@@ -828,8 +837,9 @@ Harry Potter zegt dat hij moe is.
 .
 
  De gesloten woordsoorten: Pronomina
-▶ pro + nomen // voor + naamwoord
+▶
 
+pro + nomen // voor + naamwoord
 (14)
 
 Jan zegt dat hij moe is.
@@ -906,8 +916,9 @@ Niemand zegt dat hij moe is.
 .
 
  De gesloten woordsoorten: Pronomina
-▶ pro + nomen // voor + naamwoord
+▶
 
+pro + nomen // voor + naamwoord
 (14)
 
 Jan zegt dat hij moe is.

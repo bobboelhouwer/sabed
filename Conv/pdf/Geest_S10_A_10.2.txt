@@ -678,11 +678,6 @@ kort
 *ondik
 *onlang
 
-*onklein
-*onlaag
-*ondun
-*onkort
-
 gelukkig
 verstandig
 interessant
@@ -701,18 +696,23 @@ oninteressant
 onaangenaam
 onduidelijk
 
-*ondroevig
-*ondom
-*onsaai
-*onvervelend
-*onverward
-
 veilig
 
 gevaarlijk
 
 onveilig
 
+-A
+
+*onklein
+*onlaag
+*ondun
+*onkort
+*ondroevig
+*ondom
+*onsaai
+*onvervelend
+*onverward
 ongevaarlijk
 
 .
@@ -728,8 +728,6 @@ ongevaarlijk
 .
 
 . . . .
-
--A
 
 . . . .
 

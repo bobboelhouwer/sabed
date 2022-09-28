@@ -13,10 +13,15 @@ Prof. Dr. Eva Van den Bussche
 • Empirische cyclus
 
 • Correlationele onderzoeksstrategie
-▪ Inleiding
-▪ Toepassingen
-▪ Voor- en nadelen
-▪ Meerdere variabelen
+▪
+▪
+▪
+▪
+
+Inleiding
+Toepassingen
+Voor- en nadelen
+Meerdere variabelen
 
 • Beschrijvende onderzoeksstrategie
 ▪ Observationeel design
@@ -625,12 +630,17 @@ Faculteit Psychologie en Pedagogische Wetenschappen
 
  Survey design
 • Beoordelingsschalen:
-▪ Beschouwd als interval → standaard statistische analyses mogelijk
-▪ Makkelijk te begrijpen en in te vullen voor participanten
-▪ Niet gedwongen in ja/nee, alles-of-niets antwoorden
-▪ Snel veel data verzamelen
+▪
+▪
+▪
+▪
 
 41
+
+Beschouwd als interval → standaard statistische analyses mogelijk
+Makkelijk te begrijpen en in te vullen voor participanten
+Niet gedwongen in ja/nee, alles-of-niets antwoorden
+Snel veel data verzamelen
 
 Faculteit Psychologie en Pedagogische Wetenschappen
 

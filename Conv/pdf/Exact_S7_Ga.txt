@@ -62,47 +62,79 @@ Constructie van de inverse matrix
 Elementaire matrices
 • Links vermenigvuldigen met een elementaire matrix voert een
 elementaire rij-operatie (ER) uit
-𝑎
-𝑏
-𝑐
-0 0 𝑎 𝑏 𝑐
-𝑑
-𝑒
-𝑓
-𝑑
-𝑒
-𝑓
-=
-1 0
-𝑘𝑔 𝑘ℎ 𝑘𝑖
-0 𝑘 𝑔 ℎ 𝑖
-𝑎 𝑏 𝑐
-1 0 0 𝑎 𝑏 𝑐
-– Rijomwisseling: 0 0 1 𝑑 𝑒 𝑓 = 𝑔 ℎ 𝑖
-𝑑 𝑒 𝑓
-0 1 0 𝑔 ℎ 𝑖
-𝑎
-𝑏
-𝑐
-𝑎
-𝑏
-1 0 0
-𝑑
-𝑒
-– Rijvervanging: 0 1 0 𝑑 𝑒 𝑓 =
-𝑔
-ℎ
-𝑖
-𝑔
-+
-𝑘𝑎
-ℎ
-+
-𝑘𝑏
-𝑘 0 1
 1
 – Rijschaling: 0
 0
+
+0
+1
+0
+1
+– Rijomwisseling: 0
+0
+1
+– Rijvervanging: 0
+𝑘
+
+0
+0
+𝑘
+0
+0
+1
+0
+1
+0
+
+𝑎
+𝑑
+𝑔
+0
+1
+0
+0
+0
+1
+
+𝑏
+𝑒
+ℎ
+𝑎
+𝑑
+𝑔
+𝑎
+𝑑
+𝑔
+
+𝑐
+𝑓
+𝑖
+𝑏
+𝑒
+ℎ
+𝑏
+𝑒
+ℎ
+
+𝑎
+𝑏
+𝑐
+𝑒 𝑓
+= 𝑑
+𝑘𝑔 𝑘ℎ 𝑘𝑖
+𝑐
+𝑎 𝑏 𝑐
+𝑓 = 𝑔 ℎ 𝑖
+𝑖
+𝑑 𝑒 𝑓
+𝑐
+𝑎
+𝑏
+𝑓 =
+𝑑
+𝑒
+𝑖
+𝑔 + 𝑘𝑎 ℎ + 𝑘𝑏
 
 𝑐
 𝑓
@@ -110,29 +142,53 @@ elementaire rij-operatie (ER) uit
 
 Inverse van elementaire matrices
 • ER zijn omkeerbaar
-1 0
-0
-0 0
--1
-0
-1 0 ;E = 0 1
-0
-0
-1/𝑘
-0 𝑘
-1 0 0
-1 0 0
--1
-– Rijomwisseling: E= 0 0 1 ; E =E= 0 0 1
-0 1 0
-0 1 0
-1 0 0
-1 0 0
-– Rijvervanging: E= 0 1 0 ; E-1= 0 1 0
-𝑘 0 1
-−𝑘 0 1
 1
 – Rijschaling: E= 0
+0
+
+0
+1
+0
+1
+– Rijomwisseling: E= 0
+0
+1
+– Rijvervanging: E= 0
+𝑘
+
+0
+0
+𝑘
+0
+0
+1
+0
+1
+0
+
+0
+0
+;
+1/𝑘
+0
+1 0 0
+-1
+1 ; E =E= 0 0 1
+0
+0 1 0
+0
+1 0 0
+0 ; E-1= 0 1 0
+1
+−𝑘 0 1
+E-1=
+
+1
+0
+0
+
+0
+1
 0
 
 • Bewijs: nagaan dat E-1E=EE-1=I

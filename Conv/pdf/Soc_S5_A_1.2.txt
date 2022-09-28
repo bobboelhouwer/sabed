@@ -14,13 +14,19 @@ Prof. Dr. Eva Van den Bussche
 
 • Hypothesen formuleren
 • Variabelen definiëren en meten
-▪ Constructen en operationele definities
-▪ Validiteit en betrouwbaarheid
-▪ Meetschalen
-▪ Meetmodaliteiten
-▪ Andere aspecten van meten
+▪
+▪
+▪
+▪
+▪
 
 3
+
+Constructen en operationele definities
+Validiteit en betrouwbaarheid
+Meetschalen
+Meetmodaliteiten
+Andere aspecten van meten
 
 Faculteit Psychologie en Pedagogische Wetenschappen
 
@@ -481,22 +487,33 @@ Faculteit Psychologie en Pedagogische Wetenschappen
 • Meet IQ-test echt intelligentie? Is een IQ-test een valide meting van
 intelligentie?
 • Verschillende methoden om validiteit te meten (vaak in combinatie gebruikt)
-▪ Indruksvaliditeit (“face validity”)
-▪ Concurrente validiteit
-▪ Predictieve validiteit
-▪ Construct validiteit
-▪ Convergente en divergente validiteit
+▪
+▪
+▪
+▪
+▪
 
 40
+
+Indruksvaliditeit (“face validity”)
+Concurrente validiteit
+Predictieve validiteit
+Construct validiteit
+Convergente en divergente validiteit
 
 Faculteit Psychologie en Pedagogische Wetenschappen
 
  1. Validiteit
 • Indruksvaliditeit (“face validity”)
-▪ Lijkt het erop dat de meting meet wat het beoogt te meten?
-▪ ‘Face value’, oppervlakkig
-▪ Subjectieve beoordeling
-▪ Voorb: gewicht meten adhv een weegschaal heeft hoge face validity
+▪
+▪
+▪
+▪
+
+Lijkt het erop dat de meting meet wat het beoogt te meten?
+‘Face value’, oppervlakkig
+Subjectieve beoordeling
+Voorb: gewicht meten adhv een weegschaal heeft hoge face validity
 
 • Concurrente validiteit
 ▪ Vaak gebruikt voor nieuwe meettechnieken
@@ -622,10 +639,15 @@ Faculteit Psychologie en Pedagogische Wetenschappen
 • Meten = procedure om individuen toe te wijzen aan categorieën
 • Set van categorieën = meetschaal
 • 4 meetschalen
-▪ Nominaal
-▪ Ordinaal
-▪ Interval
-▪ Ratio
+▪
+▪
+▪
+▪
+
+Nominaal
+Ordinaal
+Interval
+Ratio
 
 • Type meetschaal hangt af van de relatie die er bestaat tussen de categorieën
 waaruit de meetschaal bestaat en de informatie die elke meting oplevert

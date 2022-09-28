@@ -429,7 +429,9 @@ KATHODE
 
 +
 
-+ ANODE
++
+
+ANODE
 Cu
 
 Zn
@@ -1035,13 +1037,11 @@ Wanneer we een cel bouwen met daarin willekeurige beginconcentraties (of beginpa
 ∆G = RT ln Q
 waaruit
 
+= − n F ∆E
+
 K
 
-= − n F ∆E
-
 RT ln Q − RT ln K
-
-= − n F ∆E
 
 RT
 ln K
@@ -1056,6 +1056,8 @@ nF
 = ∆E ° +
 
 −
+
+= − n F ∆E
 
 RT
 ln Q
@@ -1098,9 +1100,9 @@ Ox1
 
 +
 
-Red2
-
 ∆E
+
+Red2
 
 = ∆E ° +
 
@@ -1428,12 +1430,12 @@ log
 2
 1
 
-(H ) = 7,3 10 M
+(H )
 +
 
 waaruit
 
-−6
+= 7,3 10 −6 M
 
 Rekenvoorbeeld : Waarom is een HNO3-oplossing sterker oxiderend dan een oplossing met eenzelfde concentratie aan KNO3?
 Het gaat in dit geval over een oplossing zonder dat er een cel aan te pas komt. Er
@@ -1594,14 +1596,13 @@ RT ln Q
 
 K
 
+K
+
 spontane reactie
 
 geen
 
 = ∆G = − n F ∆E
-
-K
-
 G°
 
 E°
@@ -1851,7 +1852,14 @@ door toevoegen van 40 ml aan 200 ml een totaal volume van 240 ml en we houden
 rekening met een verdunningsfactor.
 
  Algemene Scheikunde : Hfst. IX Evenwichten voor Oxidantia en Reductantia
-MnO4-
+MnO4start
+
+0,05 × 40
+240
+
+einde
+
+weg
 
 +
 
@@ -1859,30 +1867,20 @@ MnO4-
 
 Mn2+
 
+0,1 × 200
+240
+20 − (5 × 2 )
+240
+
 +
 
 22
 
 5 Fe3+
 
-start
-
-0,05 × 40
-240
-
-0,1 × 200
-240
-
 -
 
 0,05 × 200
-240
-
-einde
-
-weg
-
-20 − (5 × 2 )
 240
 
 2
@@ -1964,27 +1962,24 @@ log
 Deel 4: Doordat in deze situatie de E in de omgeving blijft van E° van het systeem
 Fe(III)/Fe(II) (E = 0,77 is zelfs perfect gelijk aan E°) weten we dat Fe(II) samen met
 Fe(III) zal overblijven en dat MnO4- opnieuw beperkend is.
-MnO4-
+MnO4start
+einde
 
-+
-
-start
+E Fe ( III ) / Fe ( II )
 
 0,05 × ?
 200 + ?
 
-einde
-
 weg
+
++
+
+5 Fe2+
 
 0,1 × 200
 200 + ?
 20 − (5 × 0,05 × ? )
 200 + ?
-
-E Fe ( III ) / Fe ( II )
-
-5 Fe2+
 
 = 0,77 + 0,0591 log
 
@@ -2292,6 +2287,8 @@ E° = - 0,12 V
 
 PbO2(v) + Pb(v) + 4 H+(opl) + 2 SO42- (opl)
 
+2-
+
 2 PbSO4(v) + 2 H2O
 
 Bij galvanische werking van de batterij wordt H2SO4 verbruikt.
@@ -2301,7 +2298,7 @@ De celpotentiaal wordt bepaald door
 
 e
 
-2SO4
+SO4
 
 E° = 1,75 V
 
@@ -2311,15 +2308,16 @@ E cel
 
 = ∆E ° +
 
-( )(
+( ) (SO )
 
-)
+0,0591
+log H +
+2
 
 4
-2
-0,0591
-log H + SO42−
-2
+
+2− 2
+4
 
 Dit type batterij kan worden heropgeladen door het aanleggen
 van een tegenspanning groter dan en tegengesteld aan de
@@ -2347,23 +2345,16 @@ bij lage temperatuur onder katalytische omstandigheden beheerst doorgaan in een
 brandstofcel waarbij de chemische energie wordt vrijgemaakt onder de vorm van
 elektrische arbeid.
 De werking van dergelijke brandstofcel is hieronder schematisch voorgesteld.
-
-H2(g)
-
-e-
-
-e-
-
-e+
+ee+
 H2O
 
-e-
+H2(g)
 
 H2
 +
 OH-
 
-H2O
+eeH2O
 
 +
 O2
@@ -2383,15 +2374,10 @@ stoom
 Twee kamers van poreuze koolstof zijn gedompeld in een waterige oplossing van
 KOH. H2-gas stroomt binnen in het anodecompartiment en O2-gas gelijktijdig in de
 kathodekamer. Het koolstof is behandeld met een dun laagje paraffine en geïmpregneerd met katalysatoren (Pt en Pd in de H2-elektrode en Ag2O en CoO in de O2elektrode). De volgende halfreacties treden op
-O2(g) + 2 H2O + 4 e-
+O2(g) + 2 H2O + 4 eH2(g) + 2 OH-(opl) - 2 e2 H2(g) + O2(g)
 
 4 OH-(opl)
-
-H2(g) + 2 OH-(opl) - 2 e-
-
 2 H2O
-
-2 H2(g) + O2(g)
 
 2 maal
 
@@ -2438,22 +2424,9 @@ Na(v)
 
 E° = - 2,71 V
 
-Na-metaal
-
-De cel die zich opbouwt door
-combinatie van deze twee
-halfreacties heeft een Ecel =
-1,36 – (- 2,71) = 4,07 V
-
--
-
-Via een uitwendige spanningsbron waarvoor het aangelegde
-potentiaalverschil
-kleiner is dan – 4,07 V kunnen we de reacties dwingen
-in niet spontane zin te verlopen waarbij elektrolyse optreedt en Na-metaal en Cl2
-worden gevormd.
-
 Cl2
+
+Na-metaal
 
 Na-metaal
 
@@ -2477,7 +2450,19 @@ ijzerelektrode
 
 -
 
+-
+
 +
+
+De cel die zich opbouwt door
+combinatie van deze twee
+halfreacties heeft een Ecel =
+1,36 – (- 2,71) = 4,07 V
+Via een uitwendige spanningsbron waarvoor het aangelegde
+potentiaalverschil
+kleiner is dan – 4,07 V kunnen we de reacties dwingen
+in niet spontane zin te verlopen waarbij elektrolyse optreedt en Na-metaal en Cl2
+worden gevormd.
 
 6.4.2 Elektrolyse vanuit waterige oplossing
 Wanneer we NaCl oplossen in H2O en deze oplossing onderwerpen aan elektrolyse,

@@ -64,11 +64,10 @@ Gelijkaardigheid
   A = [d1 ... dD] ; di ∈ RW
   In documenten over gelijkaardige onderwerpen hebben
 dezelfde woorden een hoge frequentie
+  cos ߠ௜௝ =
+
 ‫܌‬೔ ೅ ‫܌‬ೕ
-
-  cos ߠ௜௝ = ‫܌‬
-
-೔
+‫܌‬೔
 
 ‫܌‬ೕ
 

@@ -282,10 +282,6 @@ niet-Belgisch
 
 -A
 
--
-
--A
-
 groot
 hoog
 dik
@@ -300,11 +296,6 @@ kort
 *onhoog
 *ondik
 *onlang
-
-*onklein
-*onlaag
-*ondun
-*onkort
 
 gelukkig
 verstandig
@@ -324,18 +315,25 @@ oninteressant
 onaangenaam
 onduidelijk
 
-*ondroevig
-*ondom
-*onsaai
-*onvervelend
-*onverward
-
 veilig
 
 gevaarlijk
 
 onveilig
 
+-
+
+-A
+
+*onklein
+*onlaag
+*ondun
+*onkort
+*ondroevig
+*ondom
+*onsaai
+*onvervelend
+*onverward
 ongevaarlijk
 
  Aﬂeiding door categorieneutrale preﬁgering

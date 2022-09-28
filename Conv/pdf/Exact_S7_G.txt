@@ -18,11 +18,18 @@ T(y) = Ay
 T(S(x)) = (AB)x
 
 Matrixbewerkingen
-• m×n matrix A = [a1 a2 … an], B = [b1 b2 … bn]  m×n
-• u  n
-• Matrixproduct Au = u1 a1 + u2 a2 + … + un an  m
-• A+B  [(a1+b1) (a2+b2) … (an+bn)]  m×n
-• c  : cA  [ca1 ca2 … can]
+•
+•
+•
+•
+•
+
+m×n matrix A = [a1 a2 … an], B = [b1 b2 … bn]  m×n
+u  n
+Matrixproduct Au = u1 a1 + u2 a2 + … + un an  m
+A+B  [(a1+b1) (a2+b2) … (an+bn)]  m×n
+c  : cA  [ca1 ca2 … can]
+
 • A + B = B + A ; (A+B)+C = A+(B+C) ; A + 0 = A
 • r(A+B) = rA + rB ; (r+s)A = rA + sA ; r(sA) = (rs)A
 r, s  
@@ -49,12 +56,11 @@ T(y) = Ay
 
 • Beschouw lineaire transformatie
 S: p  n met standaardmatrix B  n×p
-• S(x) = Bx 
+• S(x) = Bx
+
+p
 
 n
-
-p
-
 x
 
 S(x) = Bx
@@ -199,13 +205,21 @@ i=1…m,j=1…p
 
 Eigenschappen van het product van
 matrices
-• Gevolg van AB = [Ab1 Ab2 … Abp]
-• A, B, C matrices van geschikte afmeting
-• r is scalair
-• (AB)C = A(BC)
-• A(B+C) = AB + AC
-• (B+C)A = BA + CA
-• r(AB) = (rA)B = A(rB)
+•
+•
+•
+•
+•
+•
+•
+
+Gevolg van AB = [Ab1 Ab2 … Abp]
+A, B, C matrices van geschikte afmeting
+r is scalair
+(AB)C = A(BC)
+A(B+C) = AB + AC
+(B+C)A = BA + CA
+r(AB) = (rA)B = A(rB)
 
 Aanvullingen
 

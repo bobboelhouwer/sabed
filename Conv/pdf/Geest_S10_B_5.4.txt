@@ -290,16 +290,6 @@ VV
 Ik
 ??Ik
 
-P1
-heb
-heb
-
-MV1
-
-MV2
-gisteren
-een boek
-
 VV
 Ik
 *Ik
@@ -308,8 +298,18 @@ P1
 heb
 heb
 
+P1
+heb
+heb
+
+MV1
+
 MV1
 ’t
+
+MV2
+gisteren
+een boek
 
 MV2
 gisteren

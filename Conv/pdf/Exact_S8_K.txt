@@ -224,10 +224,6 @@ suikerconformatie
 
 Rise
 
-B
-
-Z
-
 ~11
 33,6
 2,3
@@ -235,6 +231,14 @@ Z
 +18
 26
 C3’-endo
+
+Twist
+
+Nucleotiden en nucleïnezuren
+
+B
+
+Z
 
 ~10
 35,9
@@ -253,13 +257,9 @@ C2’-endo
 C2’-endo (Py)
 C3’-endo (Pu)
 
-Twist
-
 Inclination
 
 Propeller
-
-Nucleotiden en nucleïnezuren
 
 15
 

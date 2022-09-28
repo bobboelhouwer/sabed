@@ -4,17 +4,24 @@ A = P D PT = λ  u1 u1 +...+ λ unun
 
 Definitie
 • A n x n, reëel is symmetrisch ⇔ A = AT
+
+•
+•
+
+•
+•
+
     
      ; BTB
    
-• De e.w. van een symmetrische matrix zijn reëel
-• λ1 en v1 e.w./e.v. van A symmetrisch
+De e.w. van een symmetrische matrix zijn reëel
+λ1 en v1 e.w./e.v. van A symmetrisch
 λ2 en v2 e.w./e.v. van A symmetrisch, λ1 ≠ λ2
 λ1(v1T v2) = (λ1v1)T v2 = (Av1)Tv2= v1T ATv2
 = v1T (Av2)= λ2(v1T v2)
 ⇒ (λ1- λ2)(v1Tv2)=0 ⇒ v1Tv2=0 ⇒ v1 ⊥ v2
-• Dus niet enkel l.o., maar zelfs ⊥
-• De eigenruimten v.e. symm. matrix zijn orthogonaal
+Dus niet enkel l.o., maar zelfs ⊥
+De eigenruimten v.e. symm. matrix zijn orthogonaal
 
 1
 
@@ -58,35 +65,49 @@ controle: 0+2+3 = spoor(A) = 2+2+1 ok
 −2
 
 Voorbeeld
-1 1 −1
-1
-1
 0 0 1
- 
-λ2=2: 0 0 1 ∼ 0 0 1 ⇒ v2= −1 ⇒ u2= −1
-
+λ2=2: 0 0 1 ∼
 1 1 −1
-0 0 0
-0
-0
 −1 0
 1
-−1 0 1
-−1 0
-1
-1
-1
- 
-λ3=3: 0 −1 1 ∼ 0 −1 1 ∼ 0 −1 1 ⇒ v3= 1 ⇒ u3= 1
- 
+λ3=3: 0 −1 1
 1
 1 −2
+
+1
+0
+0
+
+1 −1
+0 1 ⇒ v2=
+0 0
+−1 0
+1
+∼ 0 −1 1
 0
 1 −1
+
+1
+ 
+−1 ⇒ u2= 
 0
-0 0
+−1 0
+∼ 0 −1
+0
+0
+
+1
+−1
+0
 1
 1
+1
+ 
+1 ⇒ v3= 1 ⇒ u3=   1
+0
+1
+1
+
 Controle: u1T u2 = u1.u2 = 0 ; u1T u3 = u1.u3 = 0 ; u2T u3 = u2.u3 = 0
 P = [u1 u2 u3] is een orthogonale matrix:
    

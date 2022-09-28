@@ -80,10 +80,11 @@ chirale koolstofatoom
 3
 
  D-aldosen
+stereoisomeren
 
 spiegelbeelden geven L-aldosen
 
-2n-2 stereoisomeren
+2n-2
 
 3
 
@@ -127,17 +128,15 @@ L-arabinose en L-galactose
 D-glucose
 
 D-mannose
+CHO
+
+CHO
+H
+HO
 
 D-galactose
-
 CHO
 
-CHO
-
-CHO
-
-H
-
 OH
 
 HO
@@ -146,10 +145,6 @@ H
 
 H
 
-OH
-
-HO
-
 H
 
 HO
@@ -158,6 +153,7 @@ H
 
 HO
 
+H
 H
 
 H
@@ -172,8 +168,6 @@ HO
 
 H
 
-H
-
 OH
 
 H
@@ -181,8 +175,6 @@ H
 OH
 
 H
-
-OH
 
 CH2OH
 
@@ -192,6 +184,9 @@ Koolhydraten
 
 CH2OH
 
+OH
+
+OH
 CH2OH
 
 C4-epimeren

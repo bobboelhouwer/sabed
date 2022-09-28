@@ -771,7 +771,12 @@ H° = -108 kJ.mol
 CO(g) + Cl2(g)
 Oplossing:
 
-∆H V0 = -218,61 kJ.mol-1
+∆H V0
+
+= -218,61 kJ.mol
+
+-1
+
 Oefening 57
 Schrijf de reactievergelijking voor de verbranding van 1 mol ureum, CO(NH2)2(v) in O2(g). De reactieprodukten zijn
 -1
@@ -779,13 +784,20 @@ N2(g), CO2(g) en H2O(vl). H° voor deze reactie bedraagt –632 kJ mol . Bereken
 van ureum.
 Oplossing:
 
-∆H V0 = -333,1 kJ.mol-1
+∆H V0
+
+-1
+
+= -333,1 kJ.mol
+
 Oefening 58
 Gegeven:
 
 2ClF3(g) + 2NH3(g)
 
-Gevraagd: Bereken ∆H
+Gevraagd: Bereken
+
+∆H
 
 0
 V
@@ -800,7 +812,12 @@ van ClF3.
 
 Oplossing:
 
-∆H V0 = -176,2 kJ.mol-1
+∆H V0
+
+-1
+
+= -176,2 kJ.mol
+
 Oefening 59
 Gegeven:
 •
@@ -808,11 +825,18 @@ C(grafiet) + H2O(g)
 2H2(g) + CO(g)
 •
 
+∆H V0
+∆H V0
+
 CO(g) + H2(g)
 CH3OH(g)
+-1
 
-∆H V0 van H2O(g) = -241,8 kJ.mol-1
-∆H V0 van CH3OH(vl) = -239,2 kJ.mol-1
+van H2O(g) = -241,8 kJ.mol
+
+-1
+
+van CH3OH(vl) = -239,2 kJ.mol
 °
 
 Bereken de H voor de condensatie van 1 mol CH3OH(g)

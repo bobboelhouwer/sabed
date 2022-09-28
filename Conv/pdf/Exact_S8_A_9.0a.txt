@@ -801,15 +801,18 @@ H
 
 6
 
-2
-
-HO
 C
 1
 O
 
 H
-hexaan-1, 6-diamine
+hexaan-1,
+
+2
+
+HO
+
+6-diamine
 
 6
 

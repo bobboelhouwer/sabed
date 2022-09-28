@@ -515,8 +515,9 @@ Dwarsverbanden
 .
 
  Waarom woordsoorten?
-▶ poging #1: Er zijn dieren met twee poten en er zijn dieren met
+▶
 
+poging #1: Er zijn dieren met twee poten en er zijn dieren met
 vier poten.
 
 .
@@ -564,11 +565,14 @@ vier poten.
 .
 
  Waarom woordsoorten?
-▶ poging #1: Er zijn dieren met twee poten en er zijn dieren met
+▶
 
+poging #1: Er zijn dieren met twee poten en er zijn dieren met
 vier poten.
-▶ poging #2: Er zijn dieren die (geheel of gedeeltelijk) geel zijn
 
+▶
+
+poging #2: Er zijn dieren die (geheel of gedeeltelijk) geel zijn
 en dieren die niet geel zijn.
 
 .
@@ -616,14 +620,19 @@ en dieren die niet geel zijn.
 .
 
  Waarom woordsoorten?
-▶ poging #1: Er zijn dieren met twee poten en er zijn dieren met
+▶
 
+poging #1: Er zijn dieren met twee poten en er zijn dieren met
 vier poten.
-▶ poging #2: Er zijn dieren die (geheel of gedeeltelijk) geel zijn
 
+▶
+
+poging #2: Er zijn dieren die (geheel of gedeeltelijk) geel zijn
 en dieren die niet geel zijn.
-▶ poging #3: Er zijn dieren die zich over het land voortbewegen,
 
+▶
+
+poging #3: Er zijn dieren die zich over het land voortbewegen,
 dieren die vliegen, en dieren die zwemmen.
 
 .
@@ -671,17 +680,24 @@ dieren die vliegen, en dieren die zwemmen.
 .
 
  Waarom woordsoorten?
-▶ poging #1: Er zijn dieren met twee poten en er zijn dieren met
+▶
 
+poging #1: Er zijn dieren met twee poten en er zijn dieren met
 vier poten.
-▶ poging #2: Er zijn dieren die (geheel of gedeeltelijk) geel zijn
 
+▶
+
+poging #2: Er zijn dieren die (geheel of gedeeltelijk) geel zijn
 en dieren die niet geel zijn.
-▶ poging #3: Er zijn dieren die zich over het land voortbewegen,
 
+▶
+
+poging #3: Er zijn dieren die zich over het land voortbewegen,
 dieren die vliegen, en dieren die zwemmen.
-▶ poging #4: Er zijn zoogdieren, vogels, vissen, reptielen en
 
+▶
+
+poging #4: Er zijn zoogdieren, vogels, vissen, reptielen en
 amﬁbieën.
 
 .
@@ -775,8 +791,9 @@ amﬁbieën.
 .
 
  Waarom woordsoorten?
-▶ poging #1: Er zijn woorden die bestaan uit twee letters en er
+▶
 
+poging #1: Er zijn woorden die bestaan uit twee letters en er
 zijn woorden die bestaan uit drie letters.
 
 .
@@ -824,11 +841,14 @@ zijn woorden die bestaan uit drie letters.
 .
 
  Waarom woordsoorten?
-▶ poging #1: Er zijn woorden die bestaan uit twee letters en er
+▶
 
+poging #1: Er zijn woorden die bestaan uit twee letters en er
 zijn woorden die bestaan uit drie letters.
-▶ poging #2: Er zijn woorden die bestaan uit een even aantal
 
+▶
+
+poging #2: Er zijn woorden die bestaan uit een even aantal
 letters en er zijn woorden die bestaan uit een oneven aantal
 letters.
 
@@ -877,15 +897,20 @@ letters.
 .
 
  Waarom woordsoorten?
-▶ poging #1: Er zijn woorden die bestaan uit twee letters en er
+▶
 
+poging #1: Er zijn woorden die bestaan uit twee letters en er
 zijn woorden die bestaan uit drie letters.
-▶ poging #2: Er zijn woorden die bestaan uit een even aantal
 
+▶
+
+poging #2: Er zijn woorden die bestaan uit een even aantal
 letters en er zijn woorden die bestaan uit een oneven aantal
 letters.
-▶ poging #3: Er zijn woorden die naar een activiteit verwijzen en
 
+▶
+
+poging #3: Er zijn woorden die naar een activiteit verwijzen en
 woorden die niet naar een activiteit verwijzen.
 
 .
@@ -933,18 +958,25 @@ woorden die niet naar een activiteit verwijzen.
 .
 
  Waarom woordsoorten?
-▶ poging #1: Er zijn woorden die bestaan uit twee letters en er
+▶
 
+poging #1: Er zijn woorden die bestaan uit twee letters en er
 zijn woorden die bestaan uit drie letters.
-▶ poging #2: Er zijn woorden die bestaan uit een even aantal
 
+▶
+
+poging #2: Er zijn woorden die bestaan uit een even aantal
 letters en er zijn woorden die bestaan uit een oneven aantal
 letters.
-▶ poging #3: Er zijn woorden die naar een activiteit verwijzen en
 
+▶
+
+poging #3: Er zijn woorden die naar een activiteit verwijzen en
 woorden die niet naar een activiteit verwijzen.
-▶ poging #4: Er zijn substantieven, adjectieven, werkwoorden,
 
+▶
+
+poging #4: Er zijn substantieven, adjectieven, werkwoorden,
 preposities, pronomina, bijwoorden, voegwoorden,
 telwoorden, lidwoorden, en tussenwerpsels.
 
@@ -1844,20 +1876,19 @@ morfologie
  Vorm vs. betekenis
 (2)
 
+(3)
+
+(4)
+
 waar verwijst de woordsoort naar?
 met welke elementen kan de woordsoort
 gecombineerd worden tot grotere gehelen?
 welke vormelijke varianten van de
 woordsoort zijn er mogelijk?
-
-(3)
-
 semantiek
 
 syntaxis
 morfologie
-
-(4)
 
 veroveren vs. verovering
 
@@ -1908,14 +1939,13 @@ veroveren vs. verovering
  Vorm vs. betekenis
 (2)
 
+(3)
+
 waar verwijst de woordsoort naar?
 met welke elementen kan de woordsoort
 gecombineerd worden tot grotere gehelen?
 welke vormelijke varianten van de
 woordsoort zijn er mogelijk?
-
-(3)
-
 semantiek
 
 syntaxis
@@ -1976,14 +2006,13 @@ Wat is de centrale betekenis van N?
  Vorm vs. betekenis
 (2)
 
+(3)
+
 waar verwijst de woordsoort naar?
 met welke elementen kan de woordsoort
 gecombineerd worden tot grotere gehelen?
 welke vormelijke varianten van de
 woordsoort zijn er mogelijk?
-
-(3)
-
 semantiek
 
 syntaxis
