@@ -1,16 +1,19 @@
 # Author: Bob Boelhouwer, INT
 # Date: 2022-09-20
-#Usage: perl proc_ppt.pl ../SABeD-Data/cursusmateriaal/*.{ppt,pptm}
+#Usage: perl proc_ppt.pl ../SABeD-Data/*.{ppt,pptm}
 
 use strict;
 use warnings;
+use lib '.';
+require filter;
 
 my @files = @ARGV;
 foreach my $file (@files) {
 #    printf STDERR "processing %s\n", $file; #REMOVE
     `unoconv -o tmp -d presentation -f pdf $file`;
     my $newfile = `pdftotext tmp.pdf -`;
-    $newfile =~ s!(||||||||||||||)! !g;
+    $newfile = filter::contrchr ($newfile);
+    $newfile = filter::formulas ($newfile);
     printResult ($file, $newfile);
 }
 

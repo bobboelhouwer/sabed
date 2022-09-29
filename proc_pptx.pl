@@ -1,16 +1,18 @@
 # Author: Bob Boelhouwer, INT
 # Date: 2022-09-19
-#Usage: perl proc_pptx.pl ../SABeD-Data/cursusmateriaal/*.pptx
+#Usage: perl proc_pptx.pl ../SABeD-Data/*.pptx
 
 use strict;
 use warnings;
+use lib '.';
+require filter;
 
 my @files = @ARGV;
 foreach my $file (@files) {
     `unoconv -o tmp -d presentation -f pdf $file`;
     my $newfile = `pdftotext tmp.pdf -`;
     #    my $newfile = `perl pptx2txt.pl $file -`;
-    $newfile =~ s!(||||||||||||||)! !g;
+    $newfile = filter::contrchr ($newfile);
     printResult ($file, $newfile);
 }
 

@@ -1,51 +1,30 @@
-30/10/2019
 
 Aanvullingen
 
 Responsie op
 ingangssignalen en begintoestand
 
-1
 
- 30/10/2019
 
 Responsie berekenen
 • Gegeven toestandsbeschrijving (A, B, C, D) ,
-u[k] en x[0], wat zijn x[k] en y[k] ?
 • Toestandsbeschrijving
-x[k+1] = A x[k] + B u[k]
-y[k] = C x[k] + D u[k]
 • Exhaustieve berekening van x[k] en y[k]
 
 Voorbeeld
-x2[k]
 
-x1[k]
-x3[k]
 
 Gegeven
 
-2
 
- 30/10/2019
 
 “Oplossen” toestandsvergelijking
 • Gegeven toestandsbeschrijving, u[k] en x[0], wat zijn x[k] en y[k] ?
 • Toestandsbeschrijving
-x[k+1] = A x[k] + B u[k]
-y[k] = C x[k] + D u[k]
-• Voorheen: x[k+1] = A x[k] ⇒ x[k] = Ak x[0]
-• Nu: k = 0: x[1] = A x[0] + B u[0]
-k = 1: x[2] = A x[1] + B u[1] = A (A x[0] + B u[0]) + B u[1]
-= A2 x[0] + ABu[0] + Bu[1]
-k = 2: x[3] = A x[2] + B u[2] = A3 x[0] + A2Bu[0] + ABu[1] + Bu[2]
 Algemeen:
 • Uitgangssignaal
-• y[0] = C x[0] + D u[0]
 
-k>0
 
-k>0
 
 Nulingangs- en nultoestandsrespons
 
@@ -56,9 +35,7 @@ Nultoestandsresponsie
 • Nulingangsresponsie: y[k] als u[k] = 0 ∀ k
 • Nultoestandsresponsie: y[k] als x[0] = 0
 
-3
 
- 30/10/2019
 
 Toestandsbeschrijving en
 gelijkvormige matrices
@@ -66,242 +43,106 @@ gelijkvormige matrices
 Toestandsbeschrijving is niet uniek
 • x[k] = P w[k] met P = [p1, ... , pn] een nxn inverteerbare matrix
 – Is verandering van coördinaten: w[k] zijn de coordinaten van x[k] in de
-basis {p1, ... , pn}
 
-• P w[k+1] = A P w[k] + B u[k]
-P-1 P w[k+1] = P-1 A P w[k] + P-1 B u[k]
 
 =I
 
-
-= 
 
-
-= 
 
- w[k] +  
- u[k]
-w[k+1] =  
-• y[k] = C x[k] + D u[k] = C P w[k] + D u[k]
 
-=  
 
- u[k]
-y[k] = ̅ w[k] +  
 
-
-= 
 
-4
 
- 30/10/2019
 
 Toestandsbeschrijving is niet uniek
 • In de nieuwe toestandsvector w[k] hebben we een
 equivalente toestandsbeschrijving:
- w[k] +  
- u[k]
-w[k+1] =  
- 
-
-y[k] =  w[k] +   u[k]
- = P-1 A P ;  
- = P-1 B ;   = 
-•  
- zijn gelijkvormig
+  zijn gelijkvormig
 A en  
 
- = 
-; 
 
 • Beide systemen zijn equivalent. Let wel op initiële
 toestand. Nulingangsresponsie:
- k w[0] = P-1 Ak P w[0]
-w[k] =  
-⇔ P w[k] = Ak P w[0] ⇔ x[k] = Ak x[0]
 Zorg ervoor dat P w[0] = x[0], dan is ook P w[k] = x[k]
-voor k>0, en dus y[k]=   w[k] = C x[k]
 
 Voorbeeld
 u[k]
 
-+
 
-x2[k+1]
 
 D
 
-x2[k]
-x1[k+1]
 
-+
 
 D
 
 y[k]
-x1[k]
 
-1/4
 
-[ + 1]
-0
-=
-1/4
-+ 1]
 
- [
 
-  = 1 0
- =
 
-0
-1/4
 
-1
-0
 
-[]
 
- []
 
-+
 
-[]
- []
 
-1
-0
-;  =
-; = 1
-0
-1
 
-0
- []
-1
 
-0 ;  = 0
 
-5
 
- 30/10/2019
 
 Voorbeeld (2)
-=
- 
 
-
 
-= 
- 
-  = 
 u[k]
 
-1 −1
-⇔
-1 1
-1 5
-3
-  =
-8 −3 −5
-1 1
- =
-2 1
-= 1 −1
-=
 
 Kies
 
-1/2
 
-
 
-=
 
-+
 
-
 
-1
-−1
 
-1
 zodat x[k] = P w[k]
-1
-[ + 1]
-5/8
-3/8
-=
-−3/8 −5/8
- [ + 1]
-[]
-   = 1 −1
- []
 
-w1[k+1]
 
-+
 
-+
 
 D
 
-w1[k]
 
-[]
 
- []
 
-+
 
-+
 
-1/2
- []
-1/2
 
 y[k]
 
-5/8
 
-3/8
-5/8
 
-+
 
--
 
-3/8
 
-w2[k+1]
 
 D
 
-w2[k]
 
 Toestandsbeschrijving en
 matrixdiagonalisatie
 
-6
 
- 30/10/2019
 
 Diagonaalvorm
 • Veronderstel dat A diagonaliseerbaar is
 • Herinner x[k] = P w[k]
 • Kies P = [v1, ... , vn] met vi eigenvector van A met
 eigenwaarde λi
-! ⋯ 0
--1
-
-• Dan wordt   = P A P = ⋮ ⋱ ⋮ = Λ
-0 ⋯ !%
- u[k] ; y[k] =   w[k] +  
- u[k]
-• w[k+1] = Λ w[k] +  
 • Voor SISO systeem:
-w[k+1] = Λ w[k] + &̅ u[k] ; y[k] = '̅ w[k] + (̅ u[k]
-wi[k+1] = λi wi[k] + b * u[k] i = 1 … n
 • Toestand i beinvloedt toestand j ≠ i niet
 
 Diagonaalvorm voor SISO systeem
@@ -312,80 +153,34 @@ systemen
 verbinding
 met winst +̅
 
-7
 
- 30/10/2019
 
 Voorbeeld
-0
-1
-1/4 0
-K.P.: λ2-1/4 = (λ-1/2)(λ+1/2)
-2
-2 −2
-1 2
-λ1 = ½ ⇒ , =
-=
-⇔  =
-- −1 2
-1
-1 1
-⁄
-0
-−2
-=    = 
-λ2 = -½ ⇒ , =
- 
-1
-0 − ⁄
- =    = 1 ; ̅ =  = 2 −2
- 
- 1
- =
 
 u[k]
 
-1/2
 
-+
 
-w1[k+1]
 
-+
 
 D
 
-w1[k]
 
-+
 
 y[k]
 
-2
 
--
 
-1/2
--1/2
 
-+
-1/2
 
-+
-w2[k+1]
 
 D
 
-w2[k]
 
-2
 
 Minimaliteit
-•
 
-•
 
-•
 
 Voor sommige systemen kan een
 / * = 0. De toestandsveranderlijke
@@ -403,17 +198,12 @@ niet-minimaal. Hetzelfde ingangsuitgangsgedrag kan gerealiseerd
 worden met een kleiner aantal
 geheugenelementen.
 
-8
 
- 30/10/2019
 
 Inwendige (interne) stabiliteit
 • Een systeem is inwendig stabiel als x[k] → 0
 als k→∞ bij u[k]=0 en dit voor alle x[0]
-• x[k] = Ak x[0] = P Λk P-1 x[0] = P Λk w[0]
-= w1[0] λ1k v1 + … + wn[0] λnk vn
 • Inwendig instabiel zodra één | λi |≥1
-• Inwendig stabiel ⇔ | λi | < 1 voor i = 1 … n
 
 Nulingangsresponsie
 
@@ -424,640 +214,313 @@ Nultoestandsresponsie
 • Ak x[0] bestuderen
 • y[k] = c Ak x[0] (c = rijvector; SISO system)
 
-9
 
- 30/10/2019
 
 Nulingangsresponsie
-• x[k] = Ak x[0] = P Λk P-1 x[0] = P Λk w[0]
-= w1[0] λ1k v1 + … + wn[0] λnk vn
-w1[0]
-⋮
 = P-1 x[0] is de coördinatenvector van x[0] in de
-wn[0]
-basis {v1 , … , vn}
 
-• w[0] =
 
-λ1k w1[0]
-⋮
-•
-=
 = P-1 x[k] is de coördinatenvector van x[k] in de
 k
-λn wn[0]
-basis {v1 , … , vn}
-• y[k] = c x[k] = (c v1) w1[0] λ1k + … + (c vn) wn[0] λnk
 is een gewogen som van exponentiële functies in k
-Λk w[0]
 
 Nulingangsresponsie
-w2[0]v2
 v2
-λ2 w2[0] v2
-λ22
 
-x[0]
 
-w2[0] v2
 
-λ23 w2[0] v2
-λ24 w2[0] v2
 
-x[1]
-x[2]
-x[3]
-x[4]
 
-λ1=3/4
-λ2=2/3
-w1[0]v1
 
 v1
 
-10
 
- 30/10/2019
 
 Bijdragen tot nulingangsresponsie
-|λ| > 1
 
-|λ| < 1
 
-|λ| = 1
 
-λ>0
 
-λ<0
 
-0 < λ1 < 1 ; 0 < λ2 < 1
 
 Attractor / aantrekker
 Inwendig stabiel
 
-11
 
- 30/10/2019
 
-1 < λ1 ; 1 < λ2
 
 Repeller / afstoter
 Inwendig onstabiel
 
-1 < λ1 ; 0 < λ2 < 1
 
 Saddle point / zadelpunt
 Inwendig onstabiel
 
-12
 
- 30/10/2019
 
 Complexe eigenwaarden
-• !* = 12 *34 ; !*5 = 12 *34 = !*
 
 ω is genormaliseerde frequentie. 0 < 7 < 1
 
 • Eigenvectoren vi en vi+1 = vi
 • Neem complex toegevoegde termen samen in
-y[k] = (c v1) w1[0] λ1k + … + (c vn) wn[0] λnk
-(cc is een reële rijvector; !E* = 1 E 2 *E34 )
-' !E*
 
-*
 
-0 ,G + !E*
 
-*
 
-0 ,G
 
-= 2 ' Re !E*
 
-= 21 E ' Re 2 *E34 * 0 ,G
-= 21 E Re 2 *E34 * 0 ',G
 
-*
 
-0 ,G
 
 Complexe eigenwaarden (2)
 • Noem
 
-*
 
-0 ' ,G = I 2 *J
 
 • Bijdrage door complexe eigenwaarde in y[k] is
 product van:
 o Exponentieel verloop rk - zie reële eigenwaarde
-o Golvend verloop cos(K + L7)
+o Golvend verloop cos(K +  L7)
 
-13
 
- 30/10/2019
 
-0 < |λ1| < 1 ; 0 < |λ2| < 1
 
 Complexe eigenwaarden
 Inwendig stabiel
 
 Bijdrage tot nulingangsresponsie
-r = |λ| > 1
 
-r = |λ| < 1
 
-r = |λ| = 1
 
-14
 
- 30/10/2019
 
 Canonieke vorm en
 differentievergelijking
 
 Canonieke vorm
 • Zoek transformatiematrix Q = [q1, ... , qn] zodat door de
-M = N  N en O& = N &
 gelijkvormigheidstransformatie:  
 
-M = N  N en O& = N &
-•  
-O =&
-M =  N en N&
-⇔ N 
-%
-%
-• K.P. is ! + PQ% !
-+ ⋯ + PQ ! + PQR
 
 M noemen we een compagnon-matrix
-   
 M en A hebben dezelfde K.P. want gelijkvormig
-   
 
 • Constructie van Q – zie later
 
-15
 
- 30/10/2019
 
 O?
 Waarom die Ã en &
 
-[ + 1]
-[]
-0
-+ 1]
- []
-0
-⋮
-⋮
-=
-+ ⋮  []
-0
-% [ + 1]
-% []
-1
-% [ + 1]
-% []
-y[k] = 0̃ w1[k] + 0̃ w2[k] + ... + 0̃% wn[k] + +O u[k]
- [
 
 Constructie van Q
-•
 
-O =&
 M en N&
- N = N 
 
-•
 
 2de
 
 vergelijking: T
 
-⋯ T%
 
-0
-⋮
-= & ⇒ T% = &
-0
-1
 
-16
 
- 30/10/2019
 
 Constructie van Q
-• T% = & ⇒   T ⋯ T% &
-U T ⋯ T% − PQR &
-• Kolom n: T% =  & + PQ%
-• Kolom n-1: T%V =  T% +
 
-=
-PQ & ⋯ PQ% &
-&
-PQ% &
 
-• Kolom 2: TW =  TV + PQ &
 
 O?
 Waarom die Ã en &
 
-[ + 1]
-+ 1]
-⋮
-=
-% [ + 1]
-% [ + 1]
- [
 
-w1[k+1] = w2[k]
-w2[k+1] = w3[k]
- 
-wn-1[k+1] = wn[k]
 
-[]
 
-0
-0
-⋮
-+ ⋮  []
-0
-% []
-1
-[]
-%
- []
 
-w1[k+1] = w2[k]
-w1[k+2] = w2[k+1] = w3[k]
- 
-w1[k+n-1] = w2[k+n-2] =  = wn[k]
 
-wn[k+1]= -ãn-1 wn[k] -ãn-2 wn-1[k] - ... -ã0 w1[k] + u[k]
-w1[k+n] + ãn-1 w1[k+n-1] + ãn-2 w1[k+n-2] + ... + ã0 w1[k] = u[k]
 
-17
 
- 30/10/2019
 
 O?
 Waarom die Ã en &
 
 Dus:
-w1[k+n] + ãn-1 w1[k+n-1] + ãn-2 w1[k+n-2] + ... + ã0 w1[k] = u[k]
 Uitgangsvergelijking:
-y[k] = 0̃ w1[k] + 0̃ w2[k] + ... + 0̃% wn[k] + +O u[k]
 Herschrijf:
-y[k]-+O u[k] = 0̃ w1[k] + 0̃ w1[k+1] + ... + 0̃% w1[k+n-1]
 
 w1[k] elimineren
-w1[k+n] + ãn-1w1[k+n-1] + ... + ã0w1[k]
-= u[k]
-w1[k+n+1] + ãn-1w1[k+n] + ... + ã0w1[k+1] = u[k+1]
- 
-w1[k+2n-1] + ãn-1w1[k+2n-2]+ ... + ã0w1[k+n-1]= u[k+n-1]
 
-×0̃
-×0̃
-×0̃%
 
-y[k+n] + ãn-1 y[k+n-1] + ãn-2 y[k+n-2] + ... + ã0 y[k]
-= (0̃ + ã0 +O ) u[k] + (0̃ + ã1 +O ) u[k+1]+ ... + (0̃% + ãn-1 +O ) u[k+n-1] + +O u[k+n]
 
-18
 
- 30/10/2019
 
 Differentievergelijking
-y[k+n] + ãn-1 y[k+n-1] + ãn-2 y[k+n-2] + ... + ã0 y[k]
-= +O u[k+n] + (0̃% + ãn-1 +O ) u[k+n-1] + ... + (0̃ + ã1 +O ) u[k+1] +(0̃ + ã0 +O ) u[k]
-= fn u[k+n] + fn-1 u[k+n-1] + ... + f1 u[k+1] + f0 u[k]
 • Rechtstreeks verband tussen u[k] en y[k]
 • Dit heet een differentievergelijking
 • Alternatief voor de toestandsbeschrijving
 
 • Is een verband tussen differentievergelijking en canonieke vorm
 • M.a.w.: gegeven een differentievergelijking
-y[k+n] + ãn-1 y[k+n-1] + ãn-2 y[k+n-2] + ... + ã0 y[k]
-= fn u[k+n] + fn-1 u[k+n-1] + ... + f1 u[k+1] + f0 u[k]
 Dan komen daarmee toestandsbeschrijvingen overeen die allemaal dezelfde K.P.
-hebben: !% + PQ% !% + ⋯ + PQ ! + PQR
 • Ook: gegeven een toestandsbeschrijving (A, b, c, d), dan komt daarmee een
 differentievergelijking overeen waarbij de ãi ook de coëfficiënten van de K.P.
 van A zijn
 
 Voorbeeld
-1 5
-3
-8 −3 −5
-1 1
-&= =
-2 1
- =
 
-'== 1
 
-−1
 
-d=D = 0
 
-•
 
-n=2
 
-•
 
-K.P.: −
 
-•
-•
-
-X
-−
-Y
-
-!
 
 X
 Y
 
-+! +
 
-PQ = 0 ; PQR = −
-1
-q2=b=
- 1
-TW =  TV + PQ & =
+X
+Y
 
-[
+
+
 
 Z
-[-
 
-5
-−3
 
-= ! −
 
-[
-[-
 
-= ! −
 
--
 
-1
-3 1
-=
- −1
-−5 1
 
-19
 
- 30/10/2019
 
 Voorbeeld
-0 1
-M= 1
- 
-0
-4
-O& =  
-M= 0
-1
 
-'Q = \ = N =
 
-
 
-= 1 0
-M = =0
-+O =  
 
 Met Q =
 u[k]
 
-
 
-+
 
-1
 
-−1
 
-1
-−1
 
-1
-1
 
-1 1
 , canonieke vorm:
-−1 1
 
-y[k+2]
 
-y[k+1]
 
 D
 
-+
 
 D
 
 y[k]
 
-1/4
 
 Voorbeeld
-0 1
-M= 1
- 
-0
-4
-O = 
-M= 0
-&
-1
 
-PQ = 0 ; PQR = −
 
-0̃ = 1 ; 0̃ = 0
-] = +O = 0; ] = 0̃ + ã 1+O = 0 ; ]R = 0̃ + ã0 +O = 1
 
-'Q = \ = N =
 
-
 
-= 1 0
-M = =0
-+O =  
 u[k]
 
-1
-4
 
-+
 
-1
 
-−1
 
-y[k+2]
 
-1
-−1
 
 D
 
-+
 
-1
-1
 
-y[k+1]
 
 D
 
 y[k]
 
-1/4
 
-y[k+2] = u[k] +1/4 y[k]
-y[k+2] – ¼ y[k] = u[k]
 
 de differentievergelijking gehaald uit de canonieke vorm
 
-20
 
- 30/10/2019
 
 Impulsresponsie en convolutie
 
 Impulsresponsie
 • Doel: berekenen van de responsie. We hadden al:
- Exhaustief
-
+  Exhaustief
 
 • Nultoestandsimpulsrespons (impulsrespons) h[k] van
 een SISO DTLTI systeem is y[k] wanneer u[k] = δ[k]
- δ[k] = 1 voor k = 0 en δ[k] = 0 voor k ≠ 0
-δ[k]
 
 h[k]
 
-1
-
-1
-k
-
--7 -6 -5 -4 -3 -2 -1 0 1 2 3 4 5 6 7
 
 k
--7 -6 -5 -4 -3 -2 -1 0 1 2 3 4 5 6 7
 
-21
 
- 30/10/2019
+k
+
+
 
 Verschoven impuls
-δ[k-1]
 
-δ[k]
-1
 
-1
 
 k
 
 k
--7 -6 -5 -4 -3 -2 -1 0 1 2 3 4 5 6 7
 
--7 -6 -5 -4 -3 -2 -1 0 1 2 3 4 5 6 7
 
-δ[k-2]
 
-δ[k-3]
 
-1
-
-1
-k
-
--7 -6 -5 -4 -3 -2 -1 0 1 2 3 4 5 6 7
 
 k
--7 -6 -5 -4 -3 -2 -1 0 1 2 3 4 5 6 7
+
+
+k
 
 Ontbinding u[k]
-u[0]=2
-u[1]=3
-u[2]=1
 
-=
 
-2δ[k]
 
-+
 
-3δ[k-1]
 
-+
 
-1δ[k-2]
 
-22
 
- 30/10/2019
 
 Lineair en tijdsinvariant
-u[k] =
 
-2δ[k]
 
-+
 
-3δ[k-1]
 
-+
 
-1δ[k-2]
 
-y[k] =
 
-2h[k]
 
-+
 
-3h[k-1]
 
-+
 
-1h[k-2]
 
 Convolutie
 • Formeel
-   = `  []
-  =`
 
 d
 
-a   b c[ − b]
 
-efd
+ef d
 d
-∑efd  
-∑d
-efd  
+ef d  
 
-b ` c[ − b]
-  =
-  =
-b ℎ[ − b]
-   =    ∗ ℎ[]
 
 Lineair
 Tijdsinvariant
@@ -1066,127 +529,66 @@ Tijdsinvariant
 • y[k] is de convolutie van u[k] en h[k]
 • Uitvoer is convolutie van invoer en impulsresponsie
 
-23
 
- 30/10/2019
 
 Convolutie
-•
-•
-•
-•
 
 Commutatief: a[k] * b[k] = b[k] * a[k]
-Associatief: (a[k] * b[k]) * c[k] = a[k] * (b[k] * c[k])
 Neutraal element: a[k] * δ[k] = a[k]
 Lineair:
-(r a[k] + s b[k]) * c[k] = r (a[k]*c[k]) + s (b[k]*c[k])
 
 • Enkelzijdige signalen a[k] = b[k] = 0 voor k<0 :
 d
 
 E
 
-efd
+ef d
 
 efR
 
-0  = a P b /  − b = aP b /  − b
 • Causaal systeem: h[k] = 0 voor k<0
- Geen respons vóór de excitatie
+  Geen respons vóór de excitatie
 
 Impulsresponsie
-y[0] = C x[0] + D u[0]
 
-k=0
-k>0
 
 Nulingangsresponsie
 
-•
-•
-•
-•
 
 Nultoestandsresponsie
 
-k= 0 : y[k] = d δ[0] = d
 u[k] = δ[k] ⇒ in 2de term blijft enkel index j=0 staan
 k > 0: enkel 2de term: y[k] = cAk-1b
-k = 0:
-y[k] = d
 
-24
 
- 30/10/2019
 
 Voorbeeld
-h[0] = d = 0
-ℎ  = ' E & voor k>0
-0
-1 E 0
-= 1 0
-1/4 0
-1
 
-
 
-E &̅
-ℎ  = '̅ 
-  E
-(= '
-= 2
-= 2
 
-
 
-=
 
-
 
-& = ' E &)
 1n
-1/2
-0 E
-2
-−2
 1n
-0
-−1/2
-2
 1n
-()E
-0
-2
-−2
-0
-( )E 1n
-2
 
-E
+E 
 
-− −
 
-
 
-
 
-E
+E 
 
-voor k>0 ; h[0]=0
 
--
 
 Impulsresponsie van 1ste orde systeem
 u[k]
 
-x[k+1]
 
-+
 
 b
 
-+
 
 D
 
@@ -1194,47 +596,29 @@ x[k]
 
 c
 
-y1[k]
 
-λ
 
-x[k+1] = λ x[k] + b u[k] ; y[k] = c x[k]
-u[k] = δ[k] ; nultoestand x[0]=0
-k=0: u[0] = 1; x[1]=b ; y[k]=0
-k=1: u[1] = 0 ; x[2] = λ x[1] = b λ ; y[1] = cb
-k=2: u[2] = 0 ; x[3] = λ x[2] = b λ2 ; y[2] = cbλ
-u[k] = 0 ; x[k+1] = bλk ; y[k] = cbλk-1 voor k>0 ; y[0]=0
-y[k] = cbλk-1 ℎ  = 2
 
-
 
-E
+E 
 
-− 2 −
 
-E
+E 
 
-=
 
 op
-c
+c 
 q
-E
-
+E 
 
 voor k≥0
-− −
 
-E
+E 
 
-k>0 ; h[0]=0
 
-25
 
- 30/10/2019
 
 Vorm impulsresponsie
-• h[0]=d ; h[k] = cAk-1b voor k > 0
 • Zelfde bespreking als nulingangsresponsie
 – vb. 1ste orde systeem: cbλk-1, zie boven
 
@@ -1242,6 +626,4 @@ Vorm impulsresponsie
 o Exponentiëel verloop (λ reëel)
 o Schommelend exponentiëel verloop (λ complex)
 
-26
 
- 

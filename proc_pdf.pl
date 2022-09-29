@@ -1,14 +1,17 @@
 # Author: Bob Boelhouwer, INT
 # Date: 2022-09-19
-#Usage: perl proc_pdf.pl ../SABeD-Data/cursusmateriaal/*.pdf
+#Usage: perl proc_pdf.pl ../SABeD-Data/*.pdf
 
 use strict;
 use warnings;
+use lib '.';
+require filter;
 
 my @files = @ARGV;
 foreach my $file (@files) {
     my $newfile = `pdftotext $file -`;
-    $newfile =~ s!(||||||||||||||)! !g;
+    $newfile = filter::contrchr ($newfile);
+    $newfile = filter::formulas ($newfile);
     printResult ($file, $newfile);
 }
 
