@@ -1,174 +1,42 @@
-8/22/2019
-
-Lay 2.4
-
 Factorisatie
 • Factorisatie = ontbinding in een product van
 matrices met een bijzondere eigenschap
 • Voorbeeld: LU (nu), QR (later), SWO (later)
-• A=LU
-
 – A is mxn-matrix, die in echelonvorm kan gebracht
 worden zonder rijomwisselingen
 – L is mxm onderdriehoeksmatrix met 1 op de diagonaal
 – U is een mxn echelonvorm van A
-A=
-
-1
-*
-*
-*
-
-0
-1
-*
-*
-
-0
-0
-1
-*
-
 L
-
-0
-0
-0
-1
-
-
-0
-0
-0
-
-*
-
-0
-0
-
-*
-*
-0
-0
-
-*
-*
-
-0
-
-*
-*
-*
-0
-
 U
-
-1
-
- 8/22/2019
-
 Nut ?
 • Ax = b oplossen (voor veel verschillende b)
-• LUx = b  L(Ux) = b  Ly = b en Ux = y
 • Ly = b heeft driehoekige coëfficiëntenmatrix
-y1  y2  y3  …  ym
 L is inverteerbaar; steeds een oplossing
 • Ux = y heeft driehoekige structuur
 Van onder naar boven oplossen, eventueel
 basisvariabelen als functie van de vrije variabelen
-
 Constructie
 • Geen rijomwissling:
-
 – Rijschaling is overbodig (maakt het rekenwerk eenvoudiger): we
 kunnen ook nullen creëren onder de spil zonder rijschaling
 – Rijvervanging = veelvoud van een rij optellen bij een rij eronder
  E is eenheidsbenedendriehoeks (1 op de diagonaal)
-
 Reductie tot echelonvorm: Ep … E1 A = U
-A = (Ep … E1)-1 U = LU
-L = (Ep … E1)-1 = E1-1 … Ep-1
 Inverse van rijvervanging met veelvoud k = is rijvervanging
 met –k  Ei-1 is eenheidsbenedendriehoeks
 • Product van eenheidsbenedendriehoeksmatrices is
 eenheidsbenedendriehoeks
 • L is eenheidsbenedendriehoeks
-•
-•
-•
-•
-
-2
-
- 8/22/2019
-
 Hoe L snel construeren ?
 • Eigenschap:
-o E1 … Ep reduceren A tot U: Ep … E1 A = U
-o E1 … Ep reduceren L tot I: Ep … E1 L = Ep … E1 (Ep … E1)-1 = I
-
 • m.a.w.: de rijvervangingen die nullen creëren onder de
 spil, creëren nullen in L op dezelfde plaats
 • Dus kolom van L = kolom van de tussenstap in de
 berekening van de EV, gedeeld door spil
-
-0
-0
-0
-
-*
-a
-b
-c
-
-*
-*
-*
-*
-
-*
-*
-*
-*
-
-*
-*
-*
-*
-
- Ek+1 Ek =
-
-1 0 0
-0 1 0
-0 -b/a 1
-0 -c/a 0
-
-0
-0
-0
-1
-
- Ek-1 Ek+1-1 =
-
 • Product van Ek-1 Ek+1-1 bouwt L, kolom na kolom
-
-1 0 0
-0 1 0
-0 b/a 1
-0 c/a 0
-
-0
-0
-0
-1
-
 Samengevat
 • L is kolom na kolom, de verhouding van de
 elementen onder de spil en de spil.
 • U is de echelonvorm die je zo bekomt.
 • Met rijomwisseling: L wordt
 benedendriehoeks op een rijpermutatie ná.
-
-3
-
- 

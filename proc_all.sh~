@@ -1,0 +1,2 @@
+perl proc_doc.pl ../SABeD-Data/*.{DOC,docx}
+perl proc_pdf.pl ../SABeD-Data/*.pdf

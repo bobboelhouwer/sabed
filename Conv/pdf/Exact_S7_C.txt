@@ -2,43 +2,4 @@ Gram-Schmidt algoritme
 Input: lineair onafhankelijke verzameling x! , x" , … , x#
 Output: orthogonale verz. v! , v" , … , v# /orthonormale verz. q! , q " , … , q #
 Methode:
-v! = x!
-v" = x " −
-v' = x ' −
-…
-q! =
-
-&"
-&"
-
-$! %&"
-
 v
-&" %&" !
-$# %&"
-v
-& %& !
-"
-
-"
-
-, q" =
-
-−
-
-&!
-&!
-
-$# %&!
-
-v
-&! %&! "
-
-, q' =
-
-&#
-&#
-
-,…
-
- 

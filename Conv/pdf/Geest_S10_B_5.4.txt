@@ -3,848 +3,152 @@ woordvolgordeprincipe (1): het oud-nieuwprincipe
 VV
 Milo
 Milo
-
-P1
 heeft
 heeft
-
 MV
 gisteren dat boek
 dat boek gisteren
-
-P2
 gekocht
 gekocht
-
 AV
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
  Techniek #4: Verplaatsbaarheid: Extra
 woordvolgordeprincipe (1): het oud-nieuwprincipe
 VV
 Milo
 Milo
-
-P1
 heeft
 heeft
-
 MV
 gisteren dat boek
 dat boek gisteren
-
-P2
 gekocht
 gekocht
-
-(81)
-
 Wat heeft Milo gisteren gekocht?
-
-(82)
-
 Wanneer heeft Milo dat boek gekocht?
-
 AV
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
  Techniek #4: Verplaatsbaarheid: Extra
 woordvolgordeprincipe (1): het oud-nieuwprincipe
 VV
 Milo
 Milo
-
-P1
 heeft
 heeft
-
 MV
 gisteren dat boek
 dat boek gisteren
-
-P2
 gekocht
 gekocht
-
 AV
-
-(81)
-
 Wat heeft Milo gisteren gekocht?
-
-(82)
-
 Wanneer heeft Milo dat boek gekocht?
-
-(83)
-
-:
 Oude informatie staat typisch links van nieuwe informatie in het
 Nederlands ⇒ de meest informatieve constituenten staan typisch
 achteraan in het middenveld (en de minst informatieve
 constituenten in het voorveld).
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
  Techniek #4: Verplaatsbaarheid: Extra
 woordvolgordeprincipe (1): het oud-nieuwprincipe
 VV
 Ik
-??Ik
-
-P1
 heb
 heb
-
 MV1
-
 MV2
 gisteren
 een boek
-
 MV3
 een boek
 gisteren
-
-P2
 gelezen.
 gelezen.
-
-.
-
 AV
-
-.
-
-.
-
-.
-
-.
-
-.
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
  Techniek #4: Verplaatsbaarheid: Extra
 woordvolgordeprincipe (1): het oud-nieuwprincipe
 VV
 Ik
-??Ik
-
+heb
+heb
+MV1
+MV2
+gisteren
+een boek
 VV
 Ik
 *Ik
-
-P1
 heb
 heb
-
-P1
-heb
-heb
-
 MV1
-
-MV1
-’t
-
-MV2
-gisteren
-een boek
-
 MV2
 gisteren
 gisteren
-
 MV3
 een boek
 gisteren
-
 MV3
-’t
-
-P2
 gelezen.
 gelezen.
-
-P2
 gelezen.
 gelezen.
-
 AV
-
 AV
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
  Techniek #4: Verplaatsbaarheid: Extra
 woordvolgordeprincipe (1): het oud-nieuwprincipe
-(84)
-
 A: Wanneer komt Danira?
 B: Danira komt morgen.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
  Techniek #4: Verplaatsbaarheid: Extra
 woordvolgordeprincipe (1): het oud-nieuwprincipe
-(84)
-
 A: Wanneer komt Danira?
 B: Danira komt morgen.
-
-(85)
-
 A: Wanneer komt Danira?
 B: # Morgen komt Danira.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
  Techniek #4: Verplaatsbaarheid: Extra
 woordvolgordeprincipe (1): het oud-nieuwprincipe
-(84)
-
 A: Wanneer komt Danira?
 B: Danira komt morgen.
-
-(85)
-
 A: Wanneer komt Danira?
 B: # Morgen komt Danira.
-
-(86)
-
 A: Wanneer komt Danira?
-B:
 komt Danira.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
  Techniek #4: Verplaatsbaarheid: Extra
 woordvolgordeprincipe (2): het inherentieprincipe
-(87)
 Inherente elementen staan, als ze in het middenveld voorkomen,
 vlak vóór de tweede zinspool, met name in MV3.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
  Techniek #4: Verplaatsbaarheid: Extra
 woordvolgordeprincipe (2): het inherentieprincipe
-(87)
 Inherente elementen staan, als ze in het middenveld voorkomen,
 vlak vóór de tweede zinspool, met name in MV3.
-(88)
-
 het plaatsobject
 a. dat dat boek gisteren op de kast lag.
 b. *dat dat boek op de kast gisteren lag.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
  Techniek #4: Verplaatsbaarheid: Extra
 woordvolgordeprincipe (2): het inherentieprincipe
-(87)
 Inherente elementen staan, als ze in het middenveld voorkomen,
 vlak vóór de tweede zinspool, met name in MV3.
-(88)
-
 het plaatsobject
 a. dat dat boek gisteren op de kast lag.
 b. *dat dat boek op de kast gisteren lag.
-
-(89)
-
 het niet-werkwoordelijk deel van het werkwoordelijk gezegde
 a. dat het plan gisteren in het honderd is gelopen.
 b. *dat het plan in het honderd gisteren is gelopen.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
  Techniek #4: Verplaatsbaarheid: Extra
 woordvolgordeprincipe (2): het inherentieprincipe
-(87)
 Inherente elementen staan, als ze in het middenveld voorkomen,
 vlak vóór de tweede zinspool, met name in MV3.
-(88)
-
 het plaatsobject
 a. dat dat boek gisteren op de kast lag.
 b. *dat dat boek op de kast gisteren lag.
-
-(89)
-
 het niet-werkwoordelijk deel van het werkwoordelijk gezegde
 a. dat het plan gisteren in het honderd is gelopen.
 b. *dat het plan in het honderd gisteren is gelopen.
-
-(90)
-
 Op de kast lag het boek niet.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
  Techniek #4: Verplaatsbaarheid: Extra
 woordvolgordeprincipe (2): het inherentieprincipe
-(87)
 Inherente elementen staan, als ze in het middenveld voorkomen,
 vlak vóór de tweede zinspool, met name in MV3.
-(88)
-
 het plaatsobject
 a. dat dat boek gisteren op de kast lag.
 b. *dat dat boek op de kast gisteren lag.
-
-(89)
-
 het niet-werkwoordelijk deel van het werkwoordelijk gezegde
 a. dat het plan gisteren in het honderd is gelopen.
 b. *dat het plan in het honderd gisteren is gelopen.
-
-(90)
-
 Op de kast lag het boek niet.
-
-(91)
-
 *dat het boek gisteren lag op de kast.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
- 

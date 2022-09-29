@@ -2,219 +2,62 @@
 • eiwitten of proteïnen bestaan uit a-aminozuren verbonden
 via een peptidebinding
 O
-
 H
 C
-
 H
-
 O
-
 C
 a
-
 N
 H
-
 • het woord proteïne is afgeleid van het Gr. proteios (eerste,
 voornaamste)
 • talrijke functies…
-
 Aminozuren en eiwitten
-
-1
-
  15.1 a-aminozuren
 • hoofdzakelijk L-configuratie of S-configuratie
-1
 COOH
-
 COOH
 H2N
-
 C
-
 H
-
-H 2N
-
 R
-
 C
 R
-
-3
 H
-
 H
-
-4
 NH2
-
 HOOC
-
 C
-
-2
-
 R
-
 O
-H 2N
-
 CH
-CH 2
 SH
-
 C
-
 OH
-
 uitzondering: cysteïne heeft R-configuratie o.w.v.
 omkering prioriteit t.o.v. carbonzuurfunctie!
 (glycine is niet chiraal!)
-
 • 20 aminozuren ingedeeld volgens chemisch karakter van
 de zijketens
-
 Aminozuren en eiwitten
-
-2
-
  Aminozuren en eiwitten
-
 pK1
-
 pK2 pKR
-
-2,4
-
-9,6
-
-2,4
-
-9,9
-
-2,3
-
-9,7
-
-2,3
-
-9,7
-
-2,3
-
-9,8
-
-2,2
-
-9,3
-
-2,5
-
-9,4
-
-2,0
-
-10,6
-
-3
-
  Aminozuren en eiwitten
-
 pK1
-
 pK2 pKR
-
-2,2
-
-9,2
-
-2,1
-
-9,1
-
-2,2
-
-9,2
-
-10,5
-
-2,0
-
-9,9
-
-3,9
-
-2,1
-
-9,5
-
-4,1
-
-2,1
-
-8,7
-
-2,2
-
-9,1
-
-4
-
- pK1
-
 pK2 pKR
-
-2,2
-
-9,1 10,5
-
-1,8
-
-9,3
-
-1,8
-
-9,0 12,5
-
-1,9
-
-10,7
-
-2,1
-
-9,3
-
-6,0
-
-8,4
-
 beperkt voorkomen (collageen)
-
 Aminozuren en eiwitten
-
-5
-
  dimeer van cysteïne
-
 aminozuren die niet in eiwitten voorkomen
-
 Aminozuren en eiwitten
-
-6
-
  15.2 Essentiële aminozuren
 • mens kan ongeveer 10 aminozuren zelf aanmaken
 • andere zijn essentiële aminozuren, via voedsel opnemen
-
 (arginine en histidine essentieel bij snelle groei)
-
 Aminozuren en eiwitten
-
-7
-
  • door afwijkingen in metabolisme soms andere aminozuren
 essentieel (tyrosine bij fenylketonurie – hielprik pasgeborenen)
 • 40-60 gram eiwitten/dag/persoon (traditioneel bijvoorbeeld uit
@@ -226,144 +69,63 @@ lichaam kan nagenoeg geen aminozuren opslaan
 • aminozuursamenstelling van plantaardig voedsel afhankelijk
 van bron (meestal lysine tekort, bonen en tarwe sterk
 complementair)
-
 Aminozuren en eiwitten
-
-8
-
  15.3 Zure en basische eigenschappen
 • aminozuren bevatten zowel zure als basische groep
 • intramoleculaire zuur-basereactie → zwitterion
-
 geen netto lading
 elektrisch neutraal
-
 • zoutachtige eigenschappen, zoals een hoog smeltpunt (> 200°C)
 • lading afhankelijk van pH
 pK1
-
 rond 2
-
 Aminozuren en eiwitten
-
 glycine
-
 pK2
-
 rond 9
-
-9
-
  • titratiecurve glycine met NaOH
-
-K2
-+ H3O+
-
-+ H2O
-
 1,5 mol NaOH
-[RNH2]=[RNH3+]
 1 mol NaOH
 enkel RCOO- en RNH3+
 0,5 mol NaOH
 [RCOOH]=[RCOO-]
 RNH3+
-
-K1
-+ H2O
-
 Aminozuren en eiwitten
-
-+ H3O+
-
-10
-
  • sterker zuur dan azijnzuur door –I effect RNH3+ groep
 • isoëlektrisch punt pI = pH waarbij aminozuur geen lading heeft
-✓ ‘neutrale*’ aminozuren: 5,5 < pI < 6,5
-pI = ½(pK1 + pK2)
-pK1  2 (-COOH)
 ✓ basische aminozuren: hoger
-pK2  9 (-NH2)
-pI = ½(pK2 + pKR)
 ✓ zure aminozuren: lager
-pI = ½(pK1 + pKR)
 • oplosbaarheid aminozuren:
 ✓ doorgaans goed oplosbaar in water (R klein of hydrofiel)
 ✓ minder bij grote hydrofobe R
 ✓ kleinst bij pI (isoëlektrische precipitatie)
-
 * dwz zonder uitgesproken zure of basische zijketen
-
 Aminozuren en eiwitten
-
-11
-
  • papierelektroforese: scheiding op basis van verschil in lading
-
 ✓ aminozuren zichtbaar maken met ninhydrine (paars)
 ✓ eiwit hydrolyseren, mengsel onderzoeken met elektroforese
-
 Aminozuren en eiwitten
-
-12
-
  • voorbeeld papierelektroforese:
-(6,0)
-
-(2,1)
-
-(1,8)
-
-(2,4)
 CH2
-
-(4,1)
-
-(9,5)
 glutaminezuur
-pI = 3,1
-
-(9,6)
 glycine
-
-(9,3)
 histidine
-pI = 7,65
-
-pI = 6,0
-pH 6,0
-
 CH2
-
 Aminozuren en eiwitten
-
-13
-
  • ionenuitwisselingschromatografie
 ✓ kolommateriaal: polystyreen met negatief geladen
 sulfonaatgroepen
 ✓ pH doen stijgen tijdens elutie
 Lys
-
 Ala
-
 Asp
-
 Aminozuren en eiwitten
-
-14
-
  ✓ volgorde elutie: 1° zure, 2° neutrale, 3° basische
 ✓ werken met ijkmengsels aminozuren
 ✓ retentietijd van elk aminozuur bepalen
 ✓ concentratie bepalen via kleurreactie met ninhydrine
 ✓ geautomatiseerd in aminozuuranalysator
-
 Aminozuren en eiwitten
-
-15
-
  15.4 Reacties van a-aminozuren
 • chemische reacties van carbonzuur- en aminogroep
 • eventueel typische reacties functionele groepen in zijketen
@@ -371,141 +133,70 @@ Aminozuren en eiwitten
 • nucleofiele substitutiereactie met aminogroep:
 Alkylering (in dit voorbeeld methylering)
 deprotoneren
-
 overmaat
-
 Aminozuren en eiwitten
-
-16
-
  acylering
 ook eerst deprotoneren
-
 AEN
-
 • acylering in combinatie met verestering:
-
 Vluchtig: bruikbaar
 voor GC-analyse
-
 Aminozuren en eiwitten
-
-17
-
  15.5 Ninhydrinereactie
 • zeer gevoelige kleurreactie voor a-aminozuren (tot 10-6 g)
-
-+
-
 • sterk gekleurd (blauwpaars) anion
-
 Aminozuren en eiwitten
-
-18
-
  • proline en hydroxyproline geven na reactie een geelbruine
 verbinding
 • test ook gebruikt voor forensisch onderzoek
 (spray met 0,5 g ninhydrine per 100 mL ethanol)
-
 aantonen
 vingerafdruk
-
 zie: https://www.youtube.com/watch?v=NuGGQ2XK9RM
 deze link is beschikbaar in de hoofding bij deze opname
-
 Aminozuren en eiwitten
-
-19
-
  15.6 Reacties van aminozuren in biosystemen
 • overmaat aan vrije aminozuren wordt gebruikt in chemische
 reacties die energie opleveren
 decarboxylering van a-aminozuren
 • onder invloed van decarboxylase enzymen
 • voorbeeld: decarboxylase van glutaminezuur
-
-
-
 GABA, natuurlijke kalmerende stof
-
 Aminozuren en eiwitten
-
-20
-
  • coënzym = pyridoxalfosfaat
-
 neemt e- op
-
 Aminozuren en eiwitten
-
-21
-
  deaminering en transaminering van a-aminozuren
 • oxidatieve deaminering van glutaminezuur is meest voorkomend
-
-0
-
 amine
-
-+2
-
 imine
-
 • transaminering is gekoppeld aan deaminering
-
 ✓ twee verbindingen wisselen amino- en carbonylgroep uit
 ✓ ook gebruikt voor synthese van nieuwe aminozuren
-
 Aminozuren en eiwitten
-
-22
-
  • aminozuur draagt -NH2 over ter vorming van glutaminezuur
-
 • glutaminezuur draagt -NH2 over op ander a-ketocarbonzuur
 • overtollig N verwijderen uit lichaam via urine
 N
-
 N
-
 N
-
 Aminozuren en eiwitten
-
-23
-
  15.7 Peptiden
 • voorstelling polypeptideketen
 begin
-
-basische eind
-
 einde
-
+basische eind
 zure eind
-
 • tripeptide met drie verschillende aminozuren (n → n!)
-
 • onderscheid peptide – polypeptide - eiwit niet scherp
-
 Aminozuren en eiwitten
-
-24
-
  • peptide: relatief korte ketens
-
 enkele belangrijke hormonen
-
 ✓ afgescheiden door hypofyse
 ✓ induceert bij geboorte samentrekking van de uterus
 ✓ wordt toegediend om geboorte
 op gang te brengen
-
 Aminozuren en eiwitten
-
-25
-
  ✓ afgescheiden door hypofyse
 ✓ reguleert vloeistofbalans in lichaam
 ✓ structuren oxytocine en vasopressine gelijken sterk op elkaar
@@ -513,11 +204,7 @@ Aminozuren en eiwitten
 (is ook in staat geboorte te induceren)
 ✓ werking gaat verloren bij reductie
 van disulfidebrug
-
 Aminozuren en eiwitten
-
-26
-
  ✓ geproduceerd in alvleesklier
 ✓ reguleert glucosestofwisseling
 ✓ twee peptideketens via twee
@@ -525,11 +212,7 @@ disulfidebruggen verbonden
 (derde in keten A)
 ✓ insuline-afhankelijke diabetes
 (type 1) versus niet-insulineafhankelijke diabetes (type 2)
-
 Aminozuren en eiwitten
-
-27
-
  15.8 Analyse van peptiden
 • globale aminozuursamenstelling:
 ✓ volledige hydrolyse m.b.v. zuur of base (6N HCl, 100°C, 24h)
@@ -537,28 +220,16 @@ Aminozuren en eiwitten
 • bepaling N-terminaal aminozuur:
 ✓ N-terminaal aminozuur laten reageren met
 2,4-dinitrofluorbenzeen (Sanger-reagens)
-
 SNAr (dit is een nucleofiele substitutie via AE)
-
 geel gekleurd
 TLC
 papierchromatografie
-
 Aminozuren en eiwitten
-
-28
-
  ✓ andere verbinding: dansylchloride
-
 AEN
-
 Sterk fluorescerend
 ~nM detecteerbaar
-
 Aminozuren en eiwitten
-
-29
-
  • bepaling volledige aminozuursequentie: Edman-degradatie (1950)
 ✓ N-terminaal aminozuur reageert met
 fenylisothiocyanaat
@@ -566,18 +237,11 @@ fenylisothiocyanaat
 ✓ twee stappen bij verschillende pH
 ✓ te lange ketens worden eerst enzymatisch
 in kleinere fragmenten opgesplitst
-
 overmaat
-
 gekoppeld aan vaste
 drager via COOH-eindgroep
-
 vergelijken met referentiestoffen
-
 Aminozuren en eiwitten
-
-30
-
  15.9 Synthese van peptiden
 • voorbeeld: gly-ala
 ✓ niet zomaar gly en ala laten reageren!
@@ -585,361 +249,170 @@ Aminozuren en eiwitten
 + hogere oligomeren
 ✓ gly: schutgroep op –NH2, zuurgroep activeren
 gly
-
 gly-ala
-
 Aminozuren en eiwitten
-
-31
-
  • voorbeeld schutgroep X:
-✓ nucleofiel karakter –NH2 uitschakelen
+voorwaarden ✓ nucleofiel karakter –NH2 uitschakelen
 ✓ na synthese gemakkelijk en selectief te verwijderen
 zuurchloride? amine → amide
 niet selectief te verwijderen
-
-voorwaarden
-
 tert-butyloxycarbonylchloride (BOC)
 CH3
-H 3C
-
 C
-
 O
 O
-
 C
-
-+
-
 Cl
-
-H 2N
-
 CH
-
 COOH
-
-R1
-
 CH3
 CH3
-H 3C
-
 Aminozuren en eiwitten
-
 O
 C
-
 H
 N
-
 C
-
 O
-
 CH3
-
 carbamaat
-
 CH
-
 COOH
-
-R1
-
-32
-
  ✓ vlot te verwijderen in zuur milieu (CF3COOH) wegens snelle
 vorming van goed gestabiliseerd carbokation
-H+
 CH3
-H 3C
-
 C
 CH3
-
 H
 CH3
-
 O
 O
-
 C
-
 H
 N
-
 CH
-R1
-
-H 3C
-
 O
-
-C+
-
-+
-
 O
-
 C
-
-H 2C
-
 H
 N
-
 CH
-
-H+
-
-R1
-
 carbaminezuur
-
 H
-
-+
-
-CO 2
-
-+
-
-H 2N
-
 CH
-R1
-
 Opmerking: ook reactieve zijgroepen moeten beschermd worden
-
 Aminozuren en eiwitten
-
-33
-
  • voorbeeld activerende groep Y:
 ✓ carboxylgroep omzetten tot p-nitrofenylester
 O
 X
-
 H
 N
-
 CH
-
 C
-
 H
 N
-
 CH
-
 COOH
-
 O
 X
-
 H
 N
-
-R1
 CH
-
 C
-
 O
-
-R2
-
-NO 2
-
-R1
 HO
-H 2N
-
 CH
-
 COOH
-
 NO2
-
-R2
-
 Aminozuren en eiwitten
-
-34
-
  ✓ dicyclohexylcarbodiimide (DCC)
 - activeert zuurgroep
 - bindt vrijkomend water
-
 Aminozuren en eiwitten
-
-35
-
  • vaste-fasepeptidesynthese
-
 Robert Merrifield
 DCC
-
-‘kolom’
-
 DCC
 kolom spoelen
-
 Aminozuren en eiwitten
-
-36
-
  eerste AZ aan vaste-fase (polystyreen) hechten:
-
 geautomatiseerde vaste-fasepeptidesynthese
-
 Aminozuren en eiwitten
-
-37
-
  15.10 De structuur van eiwitten
 • twee grote categorieën:
-
 ✓ fibrillaire eiwitten: vezelachtig, bouwmateriaal, onoplosbaar
 in water, stabiel bij DT en DpH
 ✓ globulaire eiwitten: regulerende functie, oplosbaar in water,
 gevoelig voor DT en DpH
 • 3D-structuur:
-
 primair
 secundair
 tertiair
 quaternair
-
 Aminozuren en eiwitten
-
-38
-
  Secundaire structuur
-
 ✓ vlakke peptidegroep, trans-conformatie
-
 vrije rotatie
 rond Ca bindingen
-
 Aminozuren en eiwitten
-
-39
-
  ✓ sterke waterstofbruggen
 tussen peptidegroepen
-
 a-helix
-
 n
-n+3
-
-5,4 Å
 rechtsdraaiende schroef
 3,6 aminozuren/omwenteling
 zijketens naar buiten
-
 Aminozuren en eiwitten
-
-40
-
  b-plaat
 H-bruggen tussen antiparallel georiënteerde
 delen van de keten resulteren in
 golfplaatachtige structuur
-
 Aminozuren en eiwitten
-
-41
-
  Tertiaire structuur
 ✓ verder opvouwen van polypeptideketen
 ✓ soms gevolg van onregelmatigheden in secundaire structuur
 ✓ bijeengehouden door interacties tussen zijketens
 proline, ‘knik’
-
-a.
-b.
-c.
-d.
-e.
-
 H-bruggen
 elektrostatische interacties
 dipoolinteracties
 disulfidebruggen
 VDW- en hydrofobe interacties
-
 Aminozuren en eiwitten
-
-42
-
  Quaternaire structuur
 N
-
 ✓ vorming groter complex tussen
 polypeptideketens en soms
 ook niet-eiwitgedeelte
 hemoglobine
-
 N
 Fe
-
 N
-
 N
-
 vier subeenheden (a2b2)
-
 Aminozuren en eiwitten
-
-43
-
  Enkele voorbeelden
 ✓ a-keratine (haar, nagels)
 microfibril
-
 protofibril
-
 11% cysteïne
-
 Aminozuren en eiwitten
-
-44
-
  ✓ fibroïne (zijdevezel, spinnendraad)
 repeterend gedeelte b-plaatdomeinen:
-
 rekbaarheid vezels door tussenliggende niet-b-plaatdomeinen
-
 Aminozuren en eiwitten
-
-45
-
  ✓ collageen (kraakbeen, bot)
-
-33% Gly
-14% Pro
 9% Hydroxypro
 3 linksdraaiende helices
 vormen rechtsdraaiende helix
-
 3 ketens dicht bij elkaar gehouden
 door H-bruggen
 gelatine is gedeeltelijk gehydrolyseerd
 collageen
-
 Aminozuren en eiwitten
-
-46
-
  15.11 Denatureren van eiwitten
-
 coaguleren
-
 • secundaire, tertiaire en quaternaire structuur wordt verbroken:
 ✓ temperatuursverhoging
 ✓ pH verandering
@@ -953,9 +426,5 @@ coaguleren
 ✓ stollen eiwit
 ✓ inactiveren enzymen
 ✓ doden bacteriën door verhitten of 70% EtOH
-
 Aminozuren en eiwitten
-
 Fosfaten en fosfaatesters 47
-
- 

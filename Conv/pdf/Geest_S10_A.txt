@@ -1,332 +1,184 @@
 Nederlandse Taalkunde I
 Terminologielijst morfologische processen
 Jeroen van Craenenbroeck
-
 De bedoeling van dit document is om je een overzicht te geven van de manier waarop we morfologische
 processen benoemen, en welke notatie we ervoor gebruiken.
 : het is niet zo dat ieder mogelijk morfologisch proces dat je dit semester zal tegenkomen in onderstaande lijst is opgenomen. Met name de delen die cursief gedrukt zijn in de terminologie kan je vervangen door andere woordsoorten (bijv. in plaats van deverbale aﬂeidingen kunnen we ook denominale
 aﬂeidingen vormen, etc.); niet al die opties worden hier systematisch geïllustreerd. Ook allomorﬁe is
 niet in dit document opgenomen (omdat dat geen morfologisch proces is).
-
 1 Basisbegrippen & prototypische morfologische processen (H3&4)
-
 zwembad
-
 nominale samenstelling met verbaal linkerlid
-
 N
 V
-
 N
-
 zwem bad
 zender
-
 onmens
-
 werkt
-
 deverbale nominalisering door middel van suﬃgering
-
 N
 V
-
 V\N
-
 zend
-
 er
-
 denominale nominalisering door middel van preﬁgering
-
 N
 N/N
-
 N
-
 on
-
 mens
-
 verbale ﬂexie
-
 V
-
-1
-
 V
-
 V\V
-
 werk
-
 t
-
  bruids(jurk)
-
 bindmorfeem
-
 NW
 N
-
 N\NW
-
 bruid
-
 s
-
 2 Niet-prototypische morfologische processen (H5)
-
 opbel(len)
-
 samenkoppeling met prepositioneel linkerlid
-
 V
 P
-
 V
-
 op bel
 weerleg(gen)
-
 pseudosamenstelling met adverbiaal linkerlid
-
 V
 Adv
-
 V
-
 weer leg
 hamer(en)
-
 morsdood
-
 denominale verbalisering door middel van conversie
-
 V
 N
-
 N\V
-
 hamer
-
-Ø
-
 adjectivale samenstelling met een wortel als linkerlid
-
 A
 W
-
 A
-
 mors dood
 fonoloog
-
 nominale samenstelling met een wortel als linkerlid en
 een categoriebepalende wortel als rechterlid
-
 N
 W
-
 W\N
-
 fono loog
-
-2
-
  loyaal
-
 begin(nen)
-
 react(ie)
-
 fonolog(ie)
-
 adjectivering op basis van een wortel door middel van
 suﬃgering
-
 A
 W
-
 W\A
-
 loy
-
 aal
-
 verbalisering op basis van een wortel door middel van
 preﬁgering
-
 V
 V/W
-
 W
-
 be
-
 gin
-
 aﬂeiding die een (complexe) wortel oplevert op basis van
 een wortel door middel van preﬁgering
-
 samenstelling die een (complexe) wortel oplevert met
 een wortel als linkerlid en een categoriebepalende wortel als rechterlid
-
 W
 W/W
-
 W
-
 re
-
 act
 W
-
 W
-
 W\W
-
 fono loog
 dagvaard(en)
-
 verbale samenstelling met nominaal linkerlid en een
 wortel als rechterlid
-
 V
 N
-
 W
-
 dag vaard
 gadeslaa(n)
-
 samenkoppeling met een wortel als linkerlid
-
 V
 W
-
 V
-
 gade sla
 naboots(en)
-
 samenkoppeling op basis van een wortel met prepositioneel linkerlid (of samenkoppeling met prepositioneel linkerlid en met een wortel als rechterlid)
-
 V
 P
-
 W
-
 na boots
-
-3
-
  misbruik(en)
-
 pseudosamenstelling op basis van een wortel met adjectivaal linkerlid (of pseudosamenstelling met adjectivaal
 linkerlid en met een wortel als rechterlid)
-
 V
 A
-
 W
-
 mis bruik
-
 3 Niet-prototypische hoofdigheid (H6)
-
 stampvoet(en)
-
 linkshoofdige verbale samenstelling met nominaal rechterlid
-
 V
 V
-
 N
-
 stamp voet
 bevolk(en)
-
 zuurzoet
-
 denominale verbalisering door middel van preﬁgering
-
 V
 V/N
-
 N
-
 be
-
 volk
-
 adjectivale copulatieve samenstelling
-
 A
 A
-
 A
-
 zuur zoet
 ﬂapuit
-
 exocentrische nominale samenstelling met verbaal linkerlid en prepositioneel rechterlid
-
 N
 V
-
 P
-
 ﬂap uit
 afzwak(ken)
-
 exocentrische samenkoppeling met prepositioneel linkerlid en adjectivaal rechterlid
-
 V
 P
-
 A
-
 af zwak
 ommur(en)
-
 exocentrische pseudosamenstelling met prepositioneel
 linkerlid en nominaal rechterlid
-
 V
 P
-
 N
-
 om muur
-4
-
  blabla
-
 nominale reduplicatieve samenstelling
-
 N
 W
-
 W
-
 bla bla
-
-4
-
 Complexe structuren (H7)
-
 gebergte
-
 denominale nominalisering door middel van circumﬁgering
-
 N
 N
-
 N\N
-
 berg ge…te
-
-5
-
- 

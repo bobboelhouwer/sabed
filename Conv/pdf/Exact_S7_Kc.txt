@@ -1,83 +1,33 @@
-30/10/2019
-
-Lay 6.5
-
 Definitie
-• A reële m x n matrix, b ∈ Rm , los op Ax = b
 • Als strijdig stelsel, dan is b ∉ Col A en bestaat er dus
-geen x zodat Ax = b. Maar er bestaat wel een   zodat
-  het dichtst bij b komt
-•   ∈ Rn is een kleinste kwadraten oplossing (kko) van
-Ax = b indien             ∀ x ∈ Rn .
-{x: Ax=b voor b ∈ Col A}
+geen x zodat Ax = b. Maar er bestaat wel een    zodat
+   het dichtst bij b komt
+•    ∈ Rn is een kleinste kwadraten oplossing (kko) van
 Nul A: Ax=0
-»n
-
-»m
-
-1
-
- 30/10/2019
-
 Opmerkingen
 • Als b ∈ Col A, dan is een oplossing van Ax=b ook een kko
-• Er bestaat steeds een kko   ook voor een strijdig stelsel
-•   is niet noodzakelijk uniek: v ∈ Nul A, dan is A(  + v) =
-A  en dus is A(  + v) even dicht bij b als A  en dus ook
+• Er bestaat steeds een kko    ook voor een strijdig stelsel
+•    is niet noodzakelijk uniek: v ∈ Nul A, dan is A(   + v) =
+A   en dus is A(   + v) even dicht bij b als A   en dus ook
 een kko.
-    A  ∈ Col A is beste benadering van b, wel uniek
-•  
-• b − A  is foutvector
-• b − A  benaderingsfout
-
+    A   ∈ Col A is beste benadering van b, wel uniek
+• b − A   is foutvector
+• b − A   benaderingsfout
 Oplossing
 • Orthogonale decompositie – beste benadering:
-    Proj   ( )
- 
-    A  ∈ Col A ; b -  
-  ∈ (Col A)⊥
-•  
-• (b- A ) ⊥ Col A ⇔ ai . (b- A ) = 0 voor i = 1 … n
-⇔ aiT(b- A ) = 0 voor i = 1 … n
-⇔ AT(b- A ) = 0
-⇔ ATA  = ATb normaalvergelijkingen
+⇔ ATA   = ATb normaalvergelijkingen
 • n x n stelsel met steeds minstens 1 oplossing
-
-2
-
- 30/10/2019
-
 kk met unieke oplossing
 A m x n matrix. Dan zijn equivalent:
 Ax = b heeft een unieke kko voor elke b ∈ Rm
 ⇔ A heeft l.o. kolommen
-(⇔ ATA heeft l.o. kolommen – §6.5 oef 19-21)
 ⇔ ATA is inverteerbaar
-De kko is     (ATA)   (ATb)
-
 QR factorisatie en kko
 • A heeft l.o. kolommen:
 A = QR met R inverteerbaar en QTQ = In
-    (ATA)   (ATb) = (RTQTQR)   RTQTb
-  
-       RTQTb =    QTb
 • Los het bovendriehoeksstelsel op:
-        
-
-3
-
- 30/10/2019
-
 Opmerking: Rang van A en ATA
-• A heeft l.a. kolommen ⇒ ∃ x≠0 : Ax=0
-⇒ ∃ x≠0 : ATAx=0 ⇒ ATA heeft l.a. kolommen
-• ATA heeft l.a. kolommen ⇒ ∃ x≠0 : ATAx=0 ⇒
-∃ x≠0 : xTATAx=0 ⇒ Ax =0 ⇒ ∃ x≠0: Ax=0
 ⇒ A heeft l.a. kolommen
 • De l.a. relaties tussen de kolommen van A en
 ATA zijn dezelfde ⇒ zelfde aantal l.o.
 kolommen ⇒ A en ATA hebben zelfde rang
-
-4
-
- 

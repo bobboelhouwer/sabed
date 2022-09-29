@@ -3,20 +3,14 @@ Bio-organische chemie: Inleiding
 J. Engbersen & A. de Groot
 Wageningen Academic Publishers
 • Powerpointpresentaties: Toledo (pdf-file) en Cudi
-
 • Werkzittingen – practica – monitoraat – PAL sessies
 • Gekende begrippen: atoombouw, chemische binding
 orbitalen en hybridisatie
 intermoleculaire krachten
 zuren en basen
 evenwicht en reactiesnelheid
-
 • Formularium nomenclatuur & structuren – bouwset moleculen
-
 Inleiding
-
-1
-
  Doelstellingen
 De studenten kunnen…
 - de eigenschappen en reactiviteit van organische functionele
@@ -30,27 +24,15 @@ van stereochemie toepassen op eenvoudige organische moleculen
 - een aantal eenvoudige organische syntheses in het labo uitvoeren
 - de principes van reactiviteit van organische moleculen in een aantal
 eenvoudige biochemische cycli herkennen (glycolyse, vetzuursynthese…)
-
 De studenten zijn vertrouwd met de structuren weergegeven in het formularium:
 ‘Overzicht nomenclatuur en structuren’, kunnen deze herkennen en de functie
 ervan in een (bio)chemische context toelichten.
-
 Inleiding
-
-2
-
  Doelstellingen
-
-OPGELET!!!!!!!!!!!
-
 De structuur van de 20 biochemisch meest relevante
 a-aminozuren moet uit het hoofd gekend zijn!!!!!!
 (zie hoofdstuk 15)
-
 Inleiding
-
-3
-
  Evaluatie
 Gesloten boek, tijdens gewone examenperiode
 - oefeningen en theorie worden geëvalueerd tijdens de examenperiode.
@@ -65,503 +47,234 @@ onderdelen (theorie, oefeningen en practicum) met een maximum van 9/20.
 - tijdens het examen is het gebruik van het formularium 'Overzicht nomenclatuur
 en structuren', het periodiek systeem en een set molecuulmodellen toegelaten.
 - indien een opgave van de oefeningen dit vereist is een rekenmachine toegelaten.
-
 Inleiding
-
-4
-
  0.1 Voorstelling organische moleculen
 Brutoformule geeft weinig informatie: voorbeeld azijnzuur C2H4O2
 gecondenseerde formule
-
 CH3COOH
-
 structuurformules
 H
 H
-
 C
-
 H3C
-
 C
-
 H
-
 O
-
 O
-
 O
-
 O
-
 H
-
 C
-
 C
 O
-
 H
-
 OH
-
 lewisstructuur
-
 Pentaan
-
 skeletnotatie
-
 CH3CH2CH2CH2CH3
 Inleiding
-
-5
-
  Azijnzuur
-
 CH3COOH
-
 H
-
 O
 C
-
 H
 H
-
 C
 O
-
 H
-
 3D-structuur (perspectief-formule)
-
 CPK-model
 (Corey-Pauling-Koltun)
-
 Inleiding
-
 Stereo-model
 Ball-and-stick
-
-6
-
  0.2 Hybridisatie en vorming van bindingen
 Vorming van bindingen kan worden voorgesteld als
 overlap van orbitalen
-
 Atoomorbitalen
 y
-
 x
-
 y
-
 z
-
 2s-orbitaal
-
 Inleiding
-
 x
-
 y
-
 z
-
 2px-orbitaal
-
 x
-
 y
-
 z
-
 2py-orbitaal
-
 x
-
 z
-
 2pz-orbitaal
-
-7
-
  Vorming van bindingen kan worden voorgesteld als
 overlap van orbitalen
-
 Atoomorbitalen zijn niet ideaal om bindingen te vormen, daarom
 zullen atomen eerst hybride orbitalen vormen
 Hybride orbitalen : sp3-orbitalen
-
-109,5°
-1
-
-+
-
-3
-
 sterisch getal = 4
-
 Inleiding
-
-8
-
  Vorming van bindingen kan worden voorgesteld als
 overlap van orbitalen
-
 Hybride orbitalen : sp2-orbitalen
 ongehybridiseerd
 p-orbitaal
-
-1
-
-+
-
-2
-
-120°
 sp2-orbitalen
-
 sterisch getal = 3
-
 Inleiding
-
-9
-
  Vorming van bindingen kan worden voorgesteld als
 overlap van orbitalen
-
 Hybride orbitalen : sp-orbitalen
-180°
-
-1
-
-+
-
-1
 ongehybridiseerde
 p-orbitalen
-
 sp-orbitalen
-
 sterisch getal = 2
-
 Inleiding
-
-10
-
  Vorming van s- en p-bindingen
-+
 sp3-orbitaal
-
 s-orbitaal
-
 sp3-s-s-binding
-
-+
 sp3-orbitaal
-
-sp3-orbitaal
-
 sp3-sp3-s-binding
-
+sp3-orbitaal
 p-orbitalen
 sp2-sp2-s- en
-+
-
 p-p-p -binding
-
 sp2-orbitalen
-
 Inleiding
-
-11
-
  0.3 Bindingen in organische moleculen
 a) Alkanen (verzadigde koolwaterstoffen: alle C zijn sp3)
 H
 H H
-
 C
-
 H
 H
-
 H
-
 C
-
 H
 H
-
 ethaan
-
 C
-
 methaan
 H H
-
 Inleiding
-
-12
-
  b) Alkenen: aanwezigheid van dubbele C-C binding
 H
-
 H
-
 H
-
 H
-
 H
-
 H
-
 H
-
 H
-
 etheen
 H
-
 H
-
 H
-
 benzeen
-
 H
 H
-
 Inleiding
-
 H
-
-13
-
  c) Alkynen: aanwezigheid van drievoudige C-C binding
-
 H
-
 H
-
 H
-
 H
-
 ethyn
-
 Bindingsenergie
-
 Inleiding
-
 Bindingslengte
-
-E(C-C) = 386 kJ/mol
-
-d(C-C) = 154 pm
-
-E(C=C) = 682 kJ/mol
-
-d(C=C) = 134 pm
-
-E(C C) = 962 kJ/mol
-
-d(C C) = 120 pm
-
-14
-
  d) Alkadiënen: aanwezigheid twee dubbele C-C bindingen
-
 Met geïsoleerde dubbele bindingen
 H
 H
-
 H H H
-
-H
-
-5
-
-H
-
-1
-
-2
-
-H
-
-3
-
-4
-
-H
-
 H
 H
-
 H
 H
-
+H
+H
+H
 H H
-
 H
-
 1,4-pentadieen
-
 Inleiding
-
-15
-
  d) Alkadiënen
 Met geïsoleerde dubbele bindingen
-H
-
-1
-
-2
-
-3H
-
 C C C
 H
 H
-
 H
 H
-
 H
 H
-
 1,2-propadieen
-
 Inleiding
-
-16
-
  d) Alkadiënen
-
 Met geconjugeerde dubbele bindingen
-1
-
-2
-
-H
-
-H
-
-H
-
-H
-
 H
 H
-
-H
-
 H
 H
-
 H
-3
-
 H
-
-4
-
+H
+H
+H
+H
+H
 overlap tussen
-C1 en C2 en C3 en C4
-
 H
-
 H
-
 overlap tussen C2 en C3
-
 H
 H
-
 H
 H
-
 H
-
 1,3-butadieen
 Inleiding
-
-H
-
 H
 H
-
 H
 H
-
 H
-
+H
 molecule-orbitaal uitgestrekt
 over 4 atoomkernen
-
-5
-
-17
-
  d) Alkadiënen
-
 Met geconjugeerde dubbele bindingen: MESOMERIE
 H
-
-H
-
-H
-
-H
-
 H
 H
 H
-
-H
-
-
-
-H
-
 H
 H
-
 H
 H
-
 H
 H
-
-
 H
-
 H
-
 H
-
-
-
+H
+H
+H
+H
+H
 ‘Werkelijke structuur’ is een ‘lineaire combinatie’ van deze grensstructuren
 (ook wel resonantievormen)
-WS = k1ϕ1 + k2ϕ2 + k3ϕ3
 De bijdrage van iedere grensstructuur (kn) is evenredig met de
 stabiliteit ervan (dus omgekeerd evenredig met de energie-inhoud)
-
-18
-
  e) Functionele groepen met heteroatomen (O, N, halogenen, S...)
-
 zijn bepalend voor fysische en chemische eigenschappen!!
 Alcoholen (ethers zijn analoog)
-R'
-R''
 C
 O
 H
@@ -569,104 +282,58 @@ R = alkyl, R' = R'' = H: primaire alcohol
 R = alkyl, R' = alkyl, R'' = H: secundaire alcohol
 R = alkyl, R' = alkyl, R'' = alkyl: tertiaire alcohol
 R
-
-R'
 R
-
-R''
 C
 sp3-gehybridiseerd
 zuurstofatoom
-
 O
 H
-
-19
-
  e) Functionele groepen met heteroatomen
-
 Carbonylgroep (aldehyden en ketonen)
 R
 O
-R'
-
 R
-
 R
 O
-
-R'
-
-R'
-
 R = alkyl, R' = H: aldehyde
 R = alkyl, R' = alkyl: keton
-
 sp2-gehybridiseerd
 koolstofatoom
-
 sp2-gehybridiseerd
 zuurstofatoom
-
-20
-
  e) Functionele groepen met heteroatomen
 Carboxylgroep (amidegroep is analoog)
 R
-
 R
 O
-R' O
-
 R
-
 O
-R' O
-
 R' = H: carbonzuur
 R' = alkyl: (carbonzuur)ester
-
 sp2-gehybridiseerd
 zuurstofatoom
-
-R'
-
 sp2-gehybridiseerd
 koolstofatoom
-
 sp2-gehybridiseerd
 zuurstofatoom
-
 Indien een atoom een verschillend sterisch getal heeft in verschillende significante resonantievormen, neemt men voor de
 hybridisatie het laagst voorkomende sterisch getal.
-
-21
-
  e) Functionele groepen met heteroatomen
-
 Nitrilgroep
 sp-gehybridiseerd
 koolstofatoom
 R C N
-
 R C N
 nitril
-
 R
 sp-gehybridiseerd
 stikstofatoom
-
-22
-
  0.4 Nomenclatuur
 • IUPAC-regels (International Union of Pure and Applied Chemistry)
 • algemene principes voor substitutieve nomenclatuur
 hoofdketen + substituenten
-
 ✓ bepaal hoofdgroep (met hoogste prioriteit)
-
 achtervoegsel
-
 ✓ bepaal hoofdketen (bevat hoofdgroep)
 ✓ geef naam aan hoofdketen en hoofdgroep
 ✓ geef naam aan substituenten
@@ -675,469 +342,229 @@ voorvoegsel
 (hoofdgroep laagst mogelijk nummer)
 ✓ plaats voorvoegsels alfabetisch
 (numerieke voorvoegsels hebben geen invloed)
-
 Inleiding
-
-23
-
  • Mogelijke hoofdgroepen in volgorde van afnemende prioriteit:
 Klasse
-
 Formule
-
 Voorvoegsel
-
 Kationen
-
 Achtervoegsel
 -onium
-
 Carbonzuren
-
 -COOH
 -(C)OOH
-
 Carboxy--
-
 -carbonzuur
 -zuur
-
 Zouten
-
 -COOM
 -(C)OOM
-
----
-
 Metaal…carboxylaat
 Metaal…(o)aat
-
 Esters
-
 -COOR
 -(C)OOR
-
 R-oxycarbonyl--
-
 R…carboxylaat
-R…(o)aat
-
 Zuurhalogeniden
-
 -CO-halogeen
 -(C)O-halogeen
-
 Halogeenformyl--
-
 -carbonylhalogenide
 -zuurhalogenide
 -oylhalogenide
-
 Amiden
-
 -CO-NH2
--(C)O-NH2
--CN
--(C)N
-
 Carbamoyl-Cyaan
---
-
 -carbonamide
 -amide
 -carbonitril
 -nitril
-
 Aldehyden
-
--(C)HO
-
 Oxo-
-
 -al
-
 Ketonen
-
--(C)O-
-
 Oxo-
-
 -on
-
 Alcoholen
-
 -OH
-
 Hydroxy-
-
 -ol
-
 Fenolen
-
 -OH (aan benzeenring)
-
 Hydroxy-
-
 -ol
-
 Thiolen
-
 -SH
-
 Mercapto-
-
 -thiol
-
 Aminen
-
--NH2
-
 Amino-
-
 -amine
-
 Nitrillen
-
 Inleiding
-
-24
-
  • functionele groepen die niet als hoofdgroep kunnen optreden en
 dus enkel als voorvoegsel aangeduid worden:
 Klasse
-
 Subsitutent
-
 Voorvoegsel
-
 Hydroperoxiden
-
 -O-OH
-
 Hydroperoxy
-
 Ethers
-
 -OR
-
 R-oxy
-
 Sulfiden
-
 -SR
-
 R-thio
-
 Peroxiden
-
 -O-OR
-
 R-dioxy
-
 Halogeenverbindingen
-
 -Br
-
 Broom
-
 -Cl
-
 Chloor
-
--F
-
 Fluor
-
--I
-
 Jood
-
 Aziden
-
--N3
-
 Azido
-
 Nitrosoverbindingen
-
 -NO
-
 Nitroso
-
 Nitroverbindingen
-
--NO2
-
 Nitro
-
 Inleiding
-
-25
-
- CH3
-
-5
-
 C
-
 CH
-
-2
-
 CH2
-
 CH
-
-H 3C
-
 CH3
-
 5-methyl-4-hexen-2-ol
-
 OH
-
-6
 OHC
-
 CH2
-
 CH2
-
 CH2
-
 CH2
-
 COOH
-
 6-oxohexaanzuur
-
 O
-
-2
-H2 N
-
 CH
-
 C
-
 OH
-
 2-amino-3-hydroxypropaanzuur
-3
-
-CH2
 OH
-
 O
 CH3
-
 C
-
 CH2
-
 CH2
-
 CHO
-
 4-oxopentanal
-
-4
-
 Inleiding
-
-26
-
  • substituenten in substituenten (sub-substituenten):
 ✓ op zelfde wijze gerangschikt
 ✓ als één complex voorvoegsel behandeld, tussen ( )
 ✓ C-atoom waarmee ingeplant op hoofdketen is  1
 ✓ alfabetisch rangschikken met eerste letter
 ✓ cijfers scheiden door komma, letters en cijfers met 2
-
-2
 CH3
-
 O
-
 CH2
-
 CH2
-
 O
-
 CH2
-
 CH2
-
 2-(2-methoxyethoxy)ethanol
-
 OH
-
 NO2
 CH3 CH2 CH2 CH2 CH2
-
 CH2
-CH 3
-
-6
-
 CH CH2 CH2 CH2
 CH
-
 CH
-
-2
-
 CH CH3
-
 CH2 CH3
-
 CH3
-
 6-(1,2-dimethylbutyl)-2-nitrododecaan
-
 Inleiding
-
-27
-
  • alternatief systeem: radicofunctionele naamgeving
 ✓ één of meer radicalen gevolgd door functionele-klassenaam
 ✓ het geheel wordt als één woord geschreven
 ✓ radicalen eventueel alfabetisch rangschikken
 ✓ beperkter in mogelijkheden
 OH
-
 Br
 CH3I
-
 O
-
 methyljodide
 (joodmethaan)
 fenylbromide
 (broombenzeen)
-
 Cl
 allylchloride
 (3-chloor-1-propeen)
-
 Inleiding
-
 benzylalcohol
 (fenylmethanol)
-
 Br
 vinylbromide
 (broometheen)
-
 ethylmethylketon
 (2-butanon)
-
 O
-
 N
-
 triëthylamine
 (N,N-diëthylethaanamine)
 CN
-
 tert-butylmethylether
 isopropylcyanide
 (1-methoxy-1,1-dimethylethaan) (2-methylpropaannitril)
-
-28
-
  0.5 Mesomerie (zie ook boek pagina 40 – 45)
 • Vijf situaties waarbij mesomerie een belangrijke rol speelt:
-
-4*
-4
-3
-2
-2
 telkens serie atomen met minimaal één 2p-orbitaal (* aantal π e-)
-
 Inleiding
-
-29
-
  • Door zijdelingse overlap
 ontstaat p-molecuulorbitaal
-
 • regels voor inschatten reële bijdrage van een grensstructuur:
 1. Positie atomen blijft gelijk, enkel elektronen verplaatsen
 2. Betrokken atomen liggen in één vlak, loodrecht
 hierop 2p-orbitaal
 3. Eenzelfde aantal elektronenparen in elke grensstructuur
-
 4. Niet meer dan (2) 8 elektronen in buitenste schil voor
 atomen uit (eerste) tweede rij periodiek systeem
 5. Rekening houden met elektronegativiteit betrokken atomen
-
 Inleiding
-
-30
-
  • Goede grensstructuren bekom je door mobiele
 elektronenparen te verschuiven in eenzelfde richting, bij
 voorkeur naar het meest EN atoom toe:
-
 Telkens formele lading aanduiden!
-
 Inleiding
-
-31
-
  Opgelet: formele lading ≠ oxidatiegetal
 • Bepaling oxidatiegetal: beschouw EN van bindingspartners van
 het beschouwde atoom (dubbele gebonden = dubbel tellen !) :
 ✓ minder elektronegatief
 ✓ gelijke EN
 ✓ meer elektronegatief atoom
-
--1
-0
-+1
-
 • Formele lading in rekening brengen
 • Varieert voor C tussen – 4 (vb. CH4) en +4 (vb. CCl4)
 H3C
-
-+2
-
 LiAlH4
-
-CH3+
 C
-
-0
-
 H3C
 CH
-
 O
-
 OH
-
--2
 H3C
-
 H3C
-
--3
-
 Inleiding
-
 reductie, 2 e- nodig
-
-32
-
  0.6 Substituenteffecten
 Substituenten beïnvloeden de elektronenbeschikbaarheid op bepaalde
 atomen, eventueel resulterend in het ontstaan van deelladingen
 Dit heeft belangrijke gevolgen voor de reactiviteit van moleculen - in deze
 inleiding geïllustreerd aan de hand van zuurheid en basiciteit
-
 a) Inductieve effecten: t. g. v. verschuiving van elektronen
 via s-bindingen wegens verschillen in elektronegativiteit
 van bindingspartners
@@ -1145,219 +572,84 @@ b) Mesomere effecten: t. g. v. delocalisatie van elektronen
 via p-systemen, gevisualiseerd met grensstructuren
 c) Effecten van aromaticiteit
 d) Hybridisatie-effecten
-
 Inleiding
-
-33
-
  a) Inductieve effecten
-
-
-
 C F
-
-
-
- C O
-
-
-
-
 C Mg Br
-
-
-
-
-
-C N
-
- O 
 C
 H
-
-
-
-  
 C C C O H
-
-
 Effect neemt snel af met toenemende afstand
-
 Inleiding
-
-34
-
  Elektronegativiteit van enkele veel voorkomende elementen
 Groep
 Periode
-
 I
-
-1
-
-H 2,2
-
-2
-
 II
-
 III
-
 IV
-
 V
-
 VI
-
 VII
-
-Li 0,98
-
-Be 1,5
-
-B 2,0
-
-C 2,55
-
-N 3,0
-
-O 3,44
-
-F 3,98
-
-3
-
-Na 0,9
-
-Mg 1,31
-
-Al 1,61
-
-Si 1,9
-
-P 2,2
-
-S 2,58
-
-Cl 3,16
-
-4
-
-K 0,8
-
-Ca 1,0
-
-5
-
 Inleiding
-
-Br 2,96
-I 2,66
-
-35
-
  Sterkte van inductief elektronenzuigende (-I) effecten
 C N
-
 R
 O
->
-N R >
 N
 R
 O
 quaternair nitrogroep
 ammonium
-
 O estergroep
 ether
 C
 OR
-> -F > -Cl > -Br > -I > -O-R > C6H5
-fenylO
-substituent
+O
 C ketonfunctie
 R
 O
 C
 H
-
 Inleiding
-
 nitrilgroep
-
+fenylsubstituent
 aldehydefunctie
-
-36
-
  Sterkte van inductief elektronengevende (+I) effecten
-
--Li > -MgX >
-
 H3C
 H3C
 H3C
-
->
-
 H3C
 H
 H3C
-
 H
-> H
 H3C
-
->
-
 H3C
-
 Het verschil in elektronegativiteit tussen C en H is klein, maar het
 gecombineerd effect kan toch een significante partieel negatieve
 lading veroorzaken
-
 Inleiding
-
-37
-
  We illustreren de relevantie van de in deze inleiding besproken
 elektronische effecten in zuur-base-reacties
 Definitie van Brönsted-Lowry:
 een zuur is een stof die protonen kan afstaan
 een base is een stof die protonen kan opnemen
-
 Een zuur-base-reactie kan dus in het algemeen als volgt worden
 voorgesteld HA + B
-A- + BH+
 gekenmerkt door K = [A-][BH+] / [HA][B]
 Hoe sterker het zuur of de base, hoe beter deze reactie zal opgaan
 en hoe meer dit evenwicht dus naar rechts zal liggen.
-
 Inleiding
-
-38
-
  Door verschillende zuren (basen) met eenzelfde base (zuur) te laten
 reageren, kan men de sterkte van deze zuren (basen) vergelijken.
-
 In de praktijk gebruikt men water als gemeenschappelijke base (zuur).
 Men kan dan de zuursterkte (basesterkte) kwantificeren met de KA (KB).
-KA = [A-][H3O+] / [HA]
-
-(voor basen KB = [BH+][OH-] / [B])
-
 Zoals elk chemisch evenwicht wordt de ligging van een zuur-base-evenwicht
 bepaald door de verandering van vrije enthalpie waarmee de beschouwde
 omzetting gepaard gaat:
-ΔG0 = -RT lnK
-
 Hoe lager dus de vrije enthalpie van de producten (relatief t.o.v.
 de reagentia), hoe meer het evenwicht naar rechts ligt.
-
 Inleiding
-
-39
-
  Concreet betekent dit dus voor zuren en basen
 een zuur is des te sterker naarmate zijn geconjugeerde base
 beter gestabiliseerd is
@@ -1366,148 +658,60 @@ zuur beter gestabiliseerd is
 of anders geformuleerd:
 een zuur/base is des te sterker naarmate dit deeltje zelf
 minder goed gestabiliseerd is
-
 Inleiding
-
-40
-
  Invloed van inductieve effecten op zuurheid van moleculen
 O
 H3C
-
 BH+
-
-+B
-
 O
-+
-
 OH
-
 H3C
 O
-
 Naam
-
 Formule
-
 KA
-
 ethaanzuur (azijnzuur)
-
 CH3COOH
-
-1,8 . 10-5
-
 propaanzuur
-
 CH3CH2COOH
-
-1,4 . 10-5
-
 fenylethaanzuur
-
 C6H5CH2COOH
-
-5,5 . 10-5
-
 methaanzuur
-
 HCOOH
-
-2,1 . 10-4
-
 chloorethaanzuur
-
 CH2ClCOOH
-
-1,5 . 10-3
-
 dichloorethaanzuur
-
 CHCl2COOH
-
-5,0 . 10-2
-
 trichloorethaanzuur
-
 CCl3COOH
-
-1,0 . 10-1
-
 trifluorethaanzuur
-
 CF3COOH
-
-1,0
-
 2-chloorbutaanzuur
-
 CH3CH2CHClCOOH
-
-1,4 . 10-3
-
 3-chloorbutaanzuur
-
 CH3CHClCH2COOH
-
-8,9 . 10-5
-
 4-chloorbutaanzuur
-
 CH2ClCH2CH2COOH
-
-3,0 . 10-5
-
 Inleiding
-
-41
-
  Zuurheid laat zich best vergelijken door te kijken naar de stabiliteit
 van de geconjugeerde base
 Basiciteit laat zich best vergelijken door te kijken naar de
 negatieve ladingsdensiteit op de basische site
-
 Invloed van inductieve effecten op basiciteit van moleculen
 Naam
-
 Formule
-
 KB
-
 Ammoniak
-
 NH3
-
-2 . 10-5
-
 Methaanamine
-
 CH3NH2
-
-44 . 10-5
-
 Ethaanamine
-
 CH3CH2NH2
-
-47 . 10-5
-
 Dimethylamine
-
-(CH3)2NH
-
-51 . 10-5
-
 Inleiding
-
-42
-
  b) Mesomere effecten: Effecten via p-systemen die gevisualiseerd
 worden door grensstructuren
 mesomeer elektronenzuigend (-M) effect
-
-WS =Ok1F + k2F + k3FO
 met k3 verwaarloosbaar
 klein
 O
@@ -1516,474 +720,199 @@ OCH3
 OCH3
 ladingOCH
 op3 een O met een sextetconfiguratie)
-
 H
-
-
 H
-
 Inleiding
-
 H
-
-
-
 H
-
-
-
 H
-
 H
 OCH3
-
 H
-
-
-
-
 OCH3
-
 H
-
-43
-
  b) Mesomere effecten: Effecten via p-systemen die gevisualiseerd
 worden door grensstructuren
 mesomeer elektronengevend (+M) effect
-
 Hier is een positieve partiële lading op O wel aanvaardbaar want
 O heeft nog altijd octetstructuur
 NH2
-
 NH2
-
 NH2
-
- NH
-2
-
 NH2
-
-
-
-
-
-
 Elektronegativiteit van heteroatomen blijft van groot belang:
-EN(N) < EN(O) dus +M(N) > +M(O)!
-
 Inleiding
-
-44
-
  b) Mesomere effecten: Effecten via p-systemen die gevisualiseerd
 worden door grensstructuren
 ‘mesomeer’ gevend effect van alkylgroepen: hyperconjugatie
-
 H
 H C C CH2
 H
 H
-
 H
-
-H+
 H C C CH2
 H
 H
-
-
-
-
-
-H
-
 H
 H
-
 H
 H
-
+H
 Inleiding
-
-45
-
  Overzicht van inductieve en mesomere effecten
 zeer sterk –I
-
 sterk +I, +M
-
 positief geladen groepen
-
 negatief geladen groepen
-
--I << -M
-
--I << +M
-
--NO2, -SO2OH,
-
--NH2, -NHR, -NRR’
--OH, -OR
 R
-
 O
-
 C N
-
--SH, -SR
 N
-
 R
-
 R
 R, R' = H, alkyl, aryl
-
 O
-
 O
 OR
-
 NRR'
-
 enkel –I
-
 +I, matig +M (door hyperconjugatie)
-
--CF3, -CCl3
-
 alkylgroepen (verzadigd)
-
--I > +M
-
--I, +M of –M
-
 halogenen
-
 +I : inductief gevend ; -I : inductief zuigend
 +M : mesomeer gevend ; -M : mesomeer zuigend
-
 OPGELET: mesomere effecten treden slechts op als een potentieel
 mesomeer actieve groep geconjugeerd is met een p-systeem!
-
 Inleiding
-
-46
-
  Invloed van mesomere effecten op zuurheid (zie pag. 324)
 OH
-
 OH
-
 OH
-
 OH
-
-O2 N
 CH 3 CH 2OH
-
-<
-
-<
-
-<
-
-<
-
 NO2
-NO2
-pKA = 16
-
 Inleiding
-
-10
-
-8,3
-
 NO2
-
-7,2
-
 NO2
-0,25
-
-47
-
+NO2
  Invloed van mesomere effecten op zuurheid
 O
 CH3CH2CH3
-
 H3C
-
-pKA = ~ 50
-
 Inleiding
-
-<
-
-<
 CH3
-
-19
-
 O
-
 O
-
 O
-
 O
-
-<
 H3C
-
-17
-
 H
-
 RO
-
 C
-H2
-13
-
 OR
-
 O
-
-<
 C
-H2
-9
-
-48
-
  Invloed van mesomere effecten op basiciteit
 NH2
-
 NH2
-
 NH2
 O
-
 CH3NH2
-
->
-
->
-
->
-
->
-
 H3C
 NH2
-
 OCH3
-pKB = 3,34
-
-8,66
-
 NO2
-9,37
-
-13,0
-
-13,37
-
-(zie pag. 325)
-
 Inleiding
-
-49
-
  c) Aromaticiteit
 Een vlak, cyclisch, volledig geconjugeerd systeem met (4n + 2) p-elektronen
-
 is AROMATISCH
-
-n = 0, 1, 2, 3...
-
 Dit resulteert in een bijzonder grote stabiliteit
 Een vlak, cyclisch, volledig geconjugeerd systeem met 4n p-elektronen
 is ANTI-AROMATISCH
-
-n = 1, 2, 3...
-
 Dit resulteert in een uitgesproken ONstabiliteit
-
 Inleiding
-
-50
-
  c) Aromaticiteit
 Het voorbeeld van aromaticiteit bij uitstek: benzeen
-
 Inleiding
-
-51
-
  c) Aromaticiteit
-
 Pyridine
-
-2p
-
 Andere aromaten
 10 p−elektronen
-
 vrij
 elektronenpaar
-
 naftaleen
-
 N
 6 p−elektronen
 N
-
 H
 pyridine cyclopentadiënylanion
-
 N
 H
 pyrrool
-
 S
-
 O
-
 thiofeen
-
 furaan
-
 N
 H
 imidazool
-
 Pyrrool
-
-2p
-
 2 p−elektronen
-
 cyclopropenylkation
 H
-
 Inleiding
-
-52
-
  c) Aromaticiteit
-
 Anti-aromaten
-
 cyclo-octatetraeen
-
 Inleiding
-
 cyclobutadieen
-
 cyclopropenylanion
-
 H
 cyclopentadiënylkation
-
-53
-
  c) Aromaticiteit
-
 Invloed van aromaticiteit op zuurheid
--H+
 H H
-
--H+
-
 niet-aromatisch
 H
-
 H
-
 aromatisch
-
 H
-
 H
-
 Invloed van aromaticiteit op basiciteit
-+H+
-
-+H+
 N
-
 pyridine
-
 N
 H
-
 N
 H H
-
-+H+
 N
 H
-
 N
 H
-
 H
 H
-
 pyrrool
-
 Inleiding
-
-54
-
  d) Hybridisatie
-
 Elektronen in orbitalen met meer s-karakter zijn beter gestabiliseerd
 Zuurheid :
-
 Basiciteit :
-
 Inleiding
-
 CH3CH3
-
-pKA = ~50
-
 CH2=CH2
-
-pKA = ~44
-
 HC CH
-
-pKA = ~25
-
 CH3CH2NH2 > CH3CH=NH >> CH3CN
-
-55
-
  0.7 Soorten organische reacties
 • Substitutiereactie Indeling volgens graad van onverzadiging
 ✓ graad van onverzadiging verandert niet
 ✓ aanvallende en vertrekkende groep
-CH3 - CH2 - Br + NaOH  CH3 - CH2 - OH + NaBr
-
 • Additiereactie
 ✓ graad van onverzadiging verlaagt
 ✓ p-binding vervangen door twee s-bindingen
-CH2 = CH2 + Cl2 → CH2 Cl - CH2 Cl
 • Eliminatiereactie
 ✓ graad van onverzadiging verhoogt
 ✓ omgekeerde van een additiereactie
-CH3 - CH2 - Br + NaOH → CH2 = CH2 + H2O + NaBr
-
 Inleiding
-
-56
-
  Indeling volgens aard aanvallend reagens of tussenproduct
 • Radicalaire reactie
 ✓ tussenproduct(en) met radicalair karakter
@@ -1998,12 +927,5 @@ Geeft dan aantal belangrijke reactietypes zoals:
 ▪ nucleofiele substitutie (SN)
 ▪ nucleofiele additie-eliminatiereactie (AEN)
 ▪ elektrofiele aromatische substitutie (SEAr)
-▪…
-
 Inleiding
-
 Alkanen
-
-57
-
- 

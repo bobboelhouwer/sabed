@@ -1,1023 +1,41 @@
 WETENSCHAP & TECHNOLOGIE KULAK
-
 Biologie campus Kulak
-
 Genetica
-
 Koenraad Muylaert
 KU Leuven Kortrijk Kulak, Wetenschap & Technologie
-
 Academiejaar 2021-2022
-
- 2
-
  Inhoudsopgave
 1 Inleiding
-1.1 Wat is genetica? . . . . . . . . . . . . . . . . . . . . . . . . . . .
-1.2 Het genoom . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-2 De
-2.1
-2.2
-2.3
-2.4
-
-experimenten van Mendel
-Situering van Mendels werk . . . . .
-Monohybride kruisingen . . . . . . .
-Mendeliaanse overerving bij de mens
-Dihybride kruisingen . . . . . . . . .
-
-7
-7
-7
-
-.
-.
-.
-.
-
-.
-.
-.
-.
-
-.
-.
-.
-.
-
-.
-.
-.
-.
-
-.
-.
-.
-.
-
-.
-.
-.
-.
-
-.
-.
-.
-.
-
-.
-.
-.
-.
-
-.
-.
-.
-.
-
-.
-.
-.
-.
-
-11
-11
-12
-17
-20
-
+2 De experimenten van Mendel
 3 Aanvullingen op Mendel
-3.1 Interacties tussen allelen . . . . . . . . . . . . . .
-3.2 Interacties tussen genen . . . . . . . . . . . . . .
-3.2.1 Polygene overerving . . . . . . . . . . . .
-3.2.2 De erfelijke basis van gedrag . . . . . . .
-3.2.3 Interactie tussen genen in metabole ketens
-
-.
-.
-.
-.
-.
-
-.
-.
-.
-.
-.
-
-.
-.
-.
-.
-.
-
-.
-.
-.
-.
-.
-
-.
-.
-.
-.
-.
-
-.
-.
-.
-.
-.
-
-.
-.
-.
-.
-.
-
-.
-.
-.
-.
-.
-
-.
-.
-.
-.
-.
-
-25
-25
-28
-28
-31
-33
-
+3.2.3 Interactie tussen genen in metabole ketens . . . . . . . . . 33
 4 Chromosomen
-4.1 Geslachtsgekoppelde overerving . . . . . . . .
-4.1.1 Geslachtsgekoppelde afwijkingen . . .
-4.2 Genetische recombinatie door stukuitwisseling
-4.3 Genkartering bij de mens . . . . . . . . . . .
-4.4 Cytoplasmatische overerving . . . . . . . . . .
-4.5 Chromosomale afwijkingen . . . . . . . . . .
-4.5.1 Aneuploı̈die . . . . . . . . . . . . . . .
-4.5.2 Wijzigingen in chromosoomstructuur .
-4.5.3 Detectie van erfelijke afwijkingen . . .
-4.6 Polyploı̈die . . . . . . . . . . . . . . . . . . .
-
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-
-39
-39
-41
-45
-50
-52
-54
-54
-55
-59
-61
-
-.
-.
-.
-.
-
-65
-65
-71
-78
-80
-
+4.2 Genetische recombinatie door stukuitwisseling . . . . . . . . . . . 45
 5 Mutaties en herstel
-5.1 Verschillende types mutaties . . . .
-5.2 Mutaties in meercellige organismen
-5.3 Oorzaken van mutaties . . . . . . .
-5.4 Herstel van mutaties . . . . . . . .
-3
-
-.
-.
-.
-.
-
-.
-.
-.
-.
-
-.
-.
-.
-.
-
-.
-.
-.
-.
-
-.
-.
-.
-.
-
-. . . . . .
-en kanker
-. . . . . .
-. . . . . .
-
-.
-.
-.
-.
-
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-
-.
-.
-.
-.
-
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-
-.
-.
-.
-.
-
-.
-.
-.
-.
-
-.
-.
-.
-.
-
-.
-.
-.
-.
-
-.
-.
-.
-.
-
-.
-.
-.
-.
-
-.
-.
-.
-.
-
-.
-.
-.
-.
-
-.
-.
-.
-.
-
- 4
-
+5.2 Mutaties in meercellige organismen en kanker . . . . . . . . . . . 71
 Inhoudsopgave
-
 6 Populatiegenetica
-6.1 Wat is populatiegenetica? . . . . . . . .
-6.2 Evolutie . . . . . . . . . . . . . . . . . .
-6.2.1 Niet-willekeurige paring . . . . .
-6.2.2 Genetische drift . . . . . . . . . .
-6.3 Evolutie door natuurlijke selectie . . . .
-6.4 Het behoud van variatie in een populatie
-6.5 Selectie op continue variatie . . . . . . .
-6.6 Grenzen aan selectie . . . . . . . . . . .
-6.7 Aanwijzingen voor evolutie . . . . . . .
-
-.
-.
-.
-.
-.
-.
-.
-.
-.
-
-.
-.
-.
-.
-.
-.
-.
-.
-.
-
-.
-.
-.
-.
-.
-.
-.
-.
-.
-
-.
-.
-.
-.
-.
-.
-.
-.
-.
-
-.
-.
-.
-.
-.
-.
-.
-.
-.
-
-.
-.
-.
-.
-.
-.
-.
-.
-.
-
-.
-.
-.
-.
-.
-.
-.
-.
-.
-
-.
-.
-.
-.
-.
-.
-.
-.
-.
-
-.
-.
-.
-.
-.
-.
-.
-.
-.
-
-.
-.
-.
-.
-.
-.
-.
-.
-.
-
-.
-.
-.
-.
-.
-.
-.
-.
-.
-
-.
-.
-.
-.
-.
-.
-.
-.
-.
-
-.
-.
-.
-.
-.
-.
-.
-.
-.
-
-.
-.
-.
-.
-.
-.
-.
-.
-.
-
-85
-85
-87
-88
-88
-89
-93
-95
-96
-97
-
 7 De genetica van bacteriën en virussen
-7.1 Inleiding . . . . . . . . . . . . . . . . .
-7.2 Conjugatie . . . . . . . . . . . . . . . .
-7.2.1 Het mechanisme van conjugatie
-7.2.2 Conjugatie en genkartering . .
-7.2.3 Gentransfer via plasmiden . . .
-7.3 Transformatie . . . . . . . . . . . . . .
-7.4 Virussen . . . . . . . . . . . . . . . . .
-7.4.1 Bacteriofagen . . . . . . . . . .
-7.4.2 Transductie . . . . . . . . . . .
-7.4.3 Retrovirussen . . . . . . . . . .
-7.5 Transposons . . . . . . . . . . . . . . .
-
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-
-101
-101
-102
-102
-104
-105
-105
-107
-107
-108
-109
-109
-
 8 Genregulatie
-8.1 Inleiding . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-8.1.1 Eukaryoten versus prokaryoten . . . . . . . . . . . . .
-8.1.2 Transcriptiefactoren . . . . . . . . . . . . . . . . . . .
-8.2 Genregulatie bij prokaryoten . . . . . . . . . . . . . . . . . .
-8.2.1 Basisprincipes . . . . . . . . . . . . . . . . . . . . . . .
-8.2.2 Het lac operon . . . . . . . . . . . . . . . . . . . . . .
-8.2.3 Ontdekking van het lac operon door Jacob en Monod
-8.2.4 Het trp operon . . . . . . . . . . . . . . . . . . . . . .
-8.3 Genregulatie bij eukaryoten . . . . . . . . . . . . . . . . . . .
-8.3.1 Basisprincipes . . . . . . . . . . . . . . . . . . . . . . .
-8.3.2 Activatie van transcriptie door RNA polymerase . . .
-8.3.3 Regulatie op niveau van chromatine . . . . . . . . . .
-8.3.4 Post-transcriptionele regulatie . . . . . . . . . . . . . .
-8.3.5 Regulatie van proteı̈ne afbraak . . . . . . . . . . . . .
-
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-
-117
-117
-117
-117
-118
-118
-120
-121
-123
-124
-124
-124
-125
-127
-131
-
+8.2.3 Ontdekking van het lac operon door Jacob en Monod . . 121
+8.3.2 Activatie van transcriptie door RNA polymerase . . . . . 124
 9 Ontwikkelingsgenetica
-9.1 Inleiding . . . . . . . . . . . . . . . . . . . . . . . .
-9.2 Celdeling . . . . . . . . . . . . . . . . . . . . . . .
-9.2.1 Van zygote naar embryo . . . . . . . . . . .
-9.2.2 Embryonale ontwikkeling in ongewervelden
-9.2.3 Embryonale ontwikkeling in gewervelden . .
-9.2.4 Ontwikkeling bij planten . . . . . . . . . . .
-9.3 Celdifferentiatie . . . . . . . . . . . . . . . . . . . .
-9.3.1 Celbestemming en celdifferentiatie . . . . .
-
-.
-.
-.
-.
-.
-.
-.
-.
-
-.
-.
-.
-.
-.
-.
-.
-.
-
-133
-133
-133
-133
-134
-134
-134
-134
-134
-
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-
-.
-.
-.
-.
-.
-.
-.
-.
-
-.
-.
-.
-.
-.
-.
-.
-.
-
-.
-.
-.
-.
-.
-.
-.
-.
-
-.
-.
-.
-.
-.
-.
-.
-.
-
-.
-.
-.
-.
-.
-.
-.
-.
-
-.
-.
-.
-.
-.
-.
-.
-.
-
+9.2.2 Embryonale ontwikkeling in ongewervelden . . . . . . . . 134
+9.2.3 Embryonale ontwikkeling in gewervelden . . . . . . . . . . 134
  Inhoudsopgave
-
-5
-
-9.3.2
-
-9.4
-
-9.5
-9.6
-
-Moleculaire mechanismen van celbestemming en celdifferentiatie . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-9.3.3 Klonen . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-Patroonvorming . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-9.4.1 Ontwikkeling van een zygote tot larve in Drosophila . . .
-9.4.2 Voor/achter as in Drosophila . . . . . . . . . . . . . . . .
-9.4.3 Boven/onder as in Drosophila . . . . . . . . . . . . . . . .
-9.4.4 Segmentatie in Drosophila . . . . . . . . . . . . . . . . . .
-9.4.5 Differentiatie van segmenten in Drosophila . . . . . . . .
-Morfogenese . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-Invloed van omgeving op de ontwikkeling . . . . . . . . . . . . .
-
+9.4.1 Ontwikkeling van een zygote tot larve in Drosophila . . . 139
+9.4.5 Differentiatie van segmenten in Drosophila . . . . . . . . 141
 10 Evolutie van ontwikkeling
-10.1 Basisconcepten in evolutie van ontwikkeling . . . . . . . .
-10.2 Hoe mutaties tot een nieuw fenotype kunnen leiden . . . .
-10.3 Hoe bestaande genen een nieuwe functie kunnen krijgen .
-10.4 Convergente evolutie: mutaties in zelfde genen? . . . . . .
-10.5 Duplicatie van genen en divergentie . . . . . . . . . . . . .
-10.6 Case-studie: verscheidenheid aan ogen in de dierenwereld
+10.1 Basisconcepten in evolutie van ontwikkeling . . . . . . . . . . . . 145
+10.2 Hoe mutaties tot een nieuw fenotype kunnen leiden . . . . . . . . 146
+10.3 Hoe bestaande genen een nieuwe functie kunnen krijgen . . . . . 150
+10.4 Convergente evolutie: mutaties in zelfde genen? . . . . . . . . . . 150
+10.6 Case-studie: verscheidenheid aan ogen in de dierenwereld . . . . 152
 11 Oefeningen
-
-.
-.
-.
-.
-.
-.
-
-.
-.
-.
-.
-.
-.
-
-.
-.
-.
-.
-.
-.
-
-.
-.
-.
-.
-.
-.
-
-136
-137
-139
-139
-139
-140
-141
-141
-142
-143
-145
-145
-146
-150
-150
-151
-152
-155
-
- 6
-
 Inhoudsopgave
-
  Hoofdstuk 1
-
 Inleiding
-1.1
-
 Wat is genetica?
-
 De genetica is een discipline binnen de biologie waarin de variatie tussen individuen en de erfelijkheid van deze variatie bestudeert wordt. De mens is zich
 reeds sinds de prehistorie bewust van de erfelijkheid van kenmerken, maar is
 pas sinds de 19e eeuw in staat deze patronen van erfelijkheid nauwkeurig te
@@ -1039,30 +57,17 @@ rol in de criminologie, zoals bij het opsporen van misdadigers via DNA-sporen
 van sterkere of productievere rassen (vb. selectie van graangewassen uit wilde
 variëteiten). Vandaag de dag tracht men dit proces te versnellen door middel
 van genetische manipulatie.
-
-1.2
-
 Het genoom
-
 Wat is een genoom en hoe werkt het
 Het totale pakket van alle erfelijke materiaal van een organisme wordt het genoom genoemd. Het genoom is het geheel van coderende en niet-coderende
-7
-
 genoom
-
- 8
-
 Genen
-
 DNA
 nucleotide
-
 mutatie
 fenotype
 allelen
-
 Hoofdstuk 1. Inleiding
-
 sequenties in het DNA. Organismen zijn ofwel ééncellig (vb. bacteriën, protozoa) ofwel meercellig. Meercellige organismen bestaan uit talrijke cellen die
 samenwerken (vb. planten en dieren). Elke cel in het organisme bevat dezelfde
 kopie van het genoom maar in verschillende celtypes worden andere genen geactiveerd.
@@ -1081,19 +86,13 @@ afwijking die waargenomen kan worden wordt ook het fenotype van de mutatie
 genoemd. Verschillende versies van een bepaald gen met kleine verschillen in de
 volgorde van basenparen worden allelen van hetzelfde gen genoemd.
 Verschillen in genoom-opbouw tussen organismen
-
 prokaryoten
-
 eukaryoten
-
 organellen
-
 haploı̈d
 diploı̈d
-
 homologe chromosomen
 chromatiden
-
 Bacteriën of prokaryoten hebben een éénvoudige cel met relatief weinig DNA.
 Het DNA vormt een cirkelvormig chromosoom dat vrij voorkomt in het cytoplasma van de cel.
 In tegenstelling tot prokaryoten hebben eukaryoten een meer complexe
@@ -1112,11 +111,7 @@ n = 6 of n = 11). De hogere planten en dieren zijn diploı̈d en bezitten cellen
 weergegeven als ’2n’ (vb. 2n = 46 bij de mens).
 Beide chromosomen van een chromosomenpaar in diploı̈de organismen worden homologe chromosomen genoemd. Deze homologe chromosomen bevatten dezelfde genen, maar kunnen van elk gen verschillende allelen dragen. Elk
 homoloog chromosoom bestaat uit twee delen of chromatiden. Deze chromatiden dragen dezelfde genen en van elk gen hetzelfde allel. Ze zijn in tegenstelling
-
  1.2. Het genoom
-
-9
-
 tot de homologe chromosomen wel identiek. De twee chromatiden zijn met elkaar
 verbonden ter hoogte van het centromeer. De uiteinden van de chromatiden
 worden telomeren genoemd.
@@ -1127,16 +122,13 @@ is geassocieerd met een proteı̈ne structuur (’scaffold’ of steiger) die de
 van het chromosoom handhaaft. Chromatine dat sterk opgevouwen is, wordt
 heterochromatine genoemd. Het euchromatine is minder sterk opgevouwen
 en heeft meer actieve genen dan heterochromatine.
-
 centromeer
 telomeren
 histonen
 nucleosoom
 chromatine
-
 heterochromatine
 euchromatine
-
 Het menselijke genoom
 De mens is net als andere dieren diploı̈d. Het menselijke genoom omvat n = 23 of
 2n = 46 chromosomen. De totale omvang van het genoom is ongeveer 3 miljard
@@ -1154,24 +146,14 @@ functie had, begint men vandaag in te zien dat het niet-coderende DNA mogelijk
 toch een rol speelt. Uit het ENCODE-project bleek dat ongeveer twee derde
 van alle DNA van de mens ooit werd vertaald naar RNA. Dit niet-coderende
 DNA speelt onder andere een rol in de regulatie van genen (zie hoofdstuk 7).
-
 Figuur 1.1: Samenstelling van het menselijk genoom
-
 introns
 exons
-
- 10
-
 Hoofdstuk 1. Inleiding
-
  Hoofdstuk 2
-
 De experimenten van
 Mendel
-2.1
-
 Situering van Mendels werk
-
 Resultaten van vroege experimenten
 De mens is steeds gefascineerd geweest door gelijkenissen tussen verwanten of
 door verschillen in rassen van planten en dieren. De mens besefte reeds vroeg
@@ -1186,9 +168,7 @@ waarmee het resultaat van kruisingsexperimenten voorspeld kon worden. Zijn
 onderzoek bleef echter lange tijd onbekend bij het brede publiek en werd pas
 herontdekt in 1900. Mendel is overleden in 1884, vooraleer wetenschappers over
 de hele wereld het belang van zijn onderzoek inzagen.
-
 Gregor Mendel
-
 De experimentele aanpak van Mendel
 Gregor Mendel maakte gebruik van de erwt, Pisum sativum, als onderzoeksorganisme. De erwt had verscheidene voordelen als modelorganisme voor Mendel.
 Ten eerste was er al vrij veel informatie over erfelijkheid bij deze soort beschikbaar. Ten tweede groeit de tuinerwt vrij snel, waardoor resultaten van experimenten snel verkregen konden worden. Ten derde bestaan van deze soort vele
@@ -1199,17 +179,10 @@ bloemen, gele of groene erwten, enz.). De tuinerwt heeft ook als voordeel dat de
 bevruchting goed gecontroleerd kan worden. De bloem is in een jong stadium
 gesloten. Door jonge bloemen te openen en de meeldraden weg te knippen kan
 zelfbestuiving worden voorkomen. Door middel van een penseel kan vervol11
-
 zelfbestuiving
-
- 12
-
 zuivere lijnen
-
 kruisingsexperimenten
-
 Hoofdstuk 2. De experimenten van Mendel
-
 gens stuifmeel van de ene plant op gecontroleerde manier worden overgebracht
 op de stempel van de andere plant.
 Mendel had niet alleen een biologische, maar ook een wiskundige opleiding
@@ -1227,20 +200,13 @@ dat Mendel de nakomelingen van deze kruisingen aan zelfbestuiving onderwierp
 om de kenmerken van de nakomelingen te bestuderen. Hij hield nauwkeurig de
 verhoudingen van kenmerken bij van de nakomelingen die voortkwamen uit de
 kruisingsexperimenten.
-
-2.2
-
 Monohybride kruisingen
-
 De experimenten van Mendel
-
 monohybride kruising
-
 parentale generatie
 eerste filiale generatie
 dominant
 recessief
-
 Een kruising waarbij naar slechts één enkel kenmerk gekeken wordt is een monohybride kruising(zie figuur 2.1 ). Mendel kruiste twee zuivere lijnen die
 verschilden met betrekking tot één bepaald kenmerk. Als voorbeeld nemen we
 hier een zuivere lijn erwten met witte bloemen en een zuivere lijn met paarse
@@ -1261,35 +227,21 @@ enkel nakomelingen met paarse bloemen op te leveren en was dus een zuivere
 paarse lijn, net als in de P-generatie. De F2-erwten met witte bloemen waren
 eveneens een zuivere witte lijn. Daaruit leidde Mendel af dat de 3:1 verhouding
 in de F2-generatie eigenlijk een 1:2:1 verhouding was.
-
  2.2. Monohybride kruisingen
-
 Figuur 2.1: Monohybride kruisingsexperiment van Mendel
-
-13
-
- 14
-
 Hoofdstuk 2. De experimenten van Mendel
-
 Conclusies uit experimenten van Mendel
 Op basis van dit experiment kon Mendel besluiten dat de toen gangbare ’blending theorie’ niet correct was. Mendel stelde een model op dat de overerving
 van kenmerken kon verklaren:
-
 genen
-
 • Ouders geven informatie door die voor bepaalde kenmerken codeert; deze
 pakketjes van informatie werden later genen genoemd
-
 allelen
-
 • Eén gen kan verschillende vormen bezitten; deze verschillende varianten
 van een gen zijn de allelen (’R’ of ’r ’)
 • Elk individu bezit twee allelen van elk gen
-
 homozygoot
 heterozygoot
-
 • Een individu met twee keer hetzelfde allel van een gen is homozygoot
 (rr of RR) voor dit kenmerk; een individu met twee keer een verschillend
 allel van een gen is heterozygoot (Rr )
@@ -1299,12 +251,9 @@ tot expressie in individuen die homozygoot zijn voor dit recessieve allel
 (’R’) tot expressie gebracht;
 • De allelen vermengen zich niet met elkaar en worden afzonderlijk doorgegeven aan de nakomelingen via de gameten; elke ouder geeft willekeurig
 één van de twee allelen door aan zijn nakomelingen
-
 genotype
 fenotype
-
 principe van segregatie
-
 Het genotype omschrijft de allelen die een individu bezit. Het fenotype
 zijn de allelen die tot uiting komen in een individu. Planten met een Rr of
 RR genotype hebben hetzelfde fenotype terwijl planten met een rr genotype
@@ -1327,11 +276,7 @@ verschillende chromosomen, ofwel ver uit elkaar lagen op dezelfde chromosomen.
 Indien dit niet het geval was geweest dan had hij koppeling waargenomen en
 dit zou geleid hebben tot resultaten die met zijn theorie niet verklaard kunnen
 worden. Ook wanneer bepaalde kenmerken onvolledige dominantie (zie verder)
-
  2.2. Monohybride kruisingen
-
-15
-
 zouden vertonen, of beı̈nvloed zouden worden door meerdere genen (polygene
 kenmerken, zie verder) zou Mendel problemen gehad hebben om de resultaten
 te verklaren.
@@ -1350,11 +295,8 @@ mutant allel. Dit kan bijvoorbeeld weergegeven worden als I, zonder + .
 Een individu kan homozygoot recessief zijn (rr ), heterozygoot (Rr ), of homozygoot dominant (RR). Een kruising van een homozygoot recessief genotype
 met een heterozygoot genotype wordt symbolisch weergegeven als rr X Rr. Een
 gameet (zaadcel of eicel) bezit slechts één allel, en het genotype wordt weergegeven als R of r.
-
 wild type
-
 mutant
-
 Het Punnett vierkant
 Een Punnett vierkant is handig om de resultaten van een kruisingsexperiment
 te voorspellen (zie figuur 2.2 ). Op beide zijden van het vierkant worden de genotypes weergegeven van de gameten die elke ouder voortbrengt. Elke gameet
@@ -1363,9 +305,7 @@ gameten (R of r), homozygoten bezitten slechts één type gameet (twee keer r 
 twee keer R). In een kruistabel binnen het vierkant worden de mogelijke combinaties van gameten weergegeven. Deze combinaties vormen de genotypes van
 de nakomelingen. Op basis van deze genotypes kan men vervolgens de fenotypes afleiden. Het Punnett vierkant is handig bij mono- en dihybride kruisingen
 maar wordt onhandig bij meer complexe kruisingen.
-
 Punnett vierkant
-
 De testkruising
 Homozygoten voor het dominante allel (RR) hebben hetzelfde fenotype als heterozygoten (Rr ). Om het genotype van individuen met het dominante fenotype
 na te gaan kan gebruikt gemaakt worden van de testkruising. In een testkruising wordt een individu met het dominante fenotype (RR of Rr ) gekruist met
@@ -1375,19 +315,10 @@ vertonen. Wanneer het individu met het dominante fenotype heterozygoot is
 (Rr ), zullen de nakomelingen voor de helft het dominante fenotype vertonen en
 voor de helft het recessieve fenotype. De verhouding van fenotypes onder de
 nakomelingen van een testkruising geeft de verhouding van de genotypes weer
-
 testkruising
-
- 16
-
 Hoofdstuk 2. De experimenten van Mendel
-
 Figuur 2.2: Gebruik van het Punnett vierkant om de resultaten van kruisingsexperimenten te voorspellen
-
  2.3. Mendeliaanse overerving bij de mens
-
-17
-
 van de gameten van het geteste organisme. Bij een heterozygoot hebben de
 helft van de gameten het dominante allel en de helft het recessieve allel, en dit
 wordt gereflecteerd in de verhouding van de fenotypes van de nakomelingen.
@@ -1409,18 +340,11 @@ vormen proteı̈nen die de ontwikkeling sturen van zygote tot meercellig organis
 namelijk bepalend voor de ontwikkeling. De twee kopieën van het gen produceren net genoeg proteı̈ne om de ontwikkeling normaal te doen verlopen. Eén
 enkele kopie produceert te weinig proteı̈ne waardoor de ontwikkeling verstoord
 wordt.
-
-2.3
-
 haplosufficiënte
-
 recessieve mutatie
 haploinsufficiënte
-
 dominante mutatie
-
 Mendeliaanse overerving bij de mens
-
 Stamboomanalyse
 Mutante allelen kunnen bij de mens erfelijke afwijkingen veroorzaken. Veel
 erfelijke afwijkingen bij de mens illustreren het principe van segregatie. Bij de
@@ -1437,16 +361,10 @@ tussen mannen en vrouwen wijzen op huwelijken. Verticale verbindingen geven
 nakomelingen uit een huwelijk weer.
 Recessieve aandoeningen
 Voorbeelden van afwijkingen bij de mens die veroorzaakt worden door recessieve allelen zijn albinisme, mucoviscidose, en sikkelcelanemie. Albinisme wordt
-
 stamboomanalyse
-
- 18
-
 Hoofdstuk 2. De experimenten van Mendel
-
 Figuur 2.3: Gebruik van de testkruising om het genotype van een dominant fenotype
 te bepalen
-
 meestal veroorzaakt door een mutatie in het tyrosinase gen. Dit gen zet het
 aminozuur tyrosine om tot het pigment melanine. Door de mutatie wordt geen
 pigment aangemaakt en ontstaat een fenotype met licht haar en lichte huid.
@@ -1472,13 +390,8 @@ Broers en zussen die vanaf de geboorte gescheiden werden en elkaar op latere
 leeftijd leren kennen hebben geen natuurlijke afkeer voor elkaar.
 In de landbouw is het handig om te werken met zuivere lijnen die homozygoot zijn voor de gewenste kenmerken. In zuivere lijnen blijven kenmerken
 van generatie op generatie behouden. Het nadeel van zuivere lijnen is dat ze
-
  2.3. Mendeliaanse overerving bij de mens
-
-19
-
 Figuur 2.4: Overerving van een recessieve, autosomale afwijking
-
 niet alleen homozygoot zijn voor de kenmerken waarin men geı̈nteresseerd is,
 maar ook voor recessieve, mutante allelen. Daardoor zijn dergelijke zuivere lijnen vaak zwak. Om dezelfde reden worden huwelijken met nauwe verwanten
 afgeraden. De kans dat een recessieve mutatie in de nakomelingen tot expressie
@@ -1495,15 +408,9 @@ lang leven dan straathonden (hybriden).
 Dominante aandoeningen
 Voorbeelden van dominante afwijkingen bij de mens zijn polydactylie (extra
 vingers of tenen), pseudoachondroplasia (een vorm van dwerggroei), campylodactylie (vergroeide vingers) of de ziekte van Huntington. De eerste drie afwij-
-
 inteelt depressie
-
 heterosis
-
- 20
-
 Hoofdstuk 2. De experimenten van Mendel
-
 kingen worden veroorzaakt door mutaties in genen die de ontwikkeling sturen.
 De ziekte van Huntington wordt veroorzaakt door de een proteı̈ne dat niet afgebroken kan worden en dat accumuleert in de zenuwcellen. Dit leidt op latere
 leeftijd tot verstoring van de zenuwcellen en een vroege dood.
@@ -1519,9 +426,7 @@ de ziekte van Huntington, omdat ze pas opgemerkt wordt op latere leeftijd. Op
 het moment dat ouders de ziekte bij zichzelf ontdekken, hebben ze de afwijking
 meestal reeds doorgegeven aan de nakomelingen.
 Polymorfismen
-
 polymorfismen
-
 Voor bepaalde kenmerken komen verschillende allelen in gelijke mate voor in
 de populatie. Men kan in dit geval niet spreken van een mutant en een wild
 type allel, of een normaal en afwijkend fenotype. Men gebruikt daarom de
@@ -1541,36 +446,20 @@ doorgaans niet lekker. Mensen bij wie beide genen voor de receptor gemuteerd
 zijn, proeven deze smaak niet en vinden koriander lekker.
 Bij polymorfismen komen beide fenotypes algemeen voor in de stamboom.
 Ook polymorfe kenmerken kunnen dominant of recessief zijn.
-
-2.4
-
 Dihybride kruisingen
-
 Experimenten van Mendel
 dihybride kruising
-
 Bij een dihybride kruising worden twee individuen of populaties gekruist
 die verschillen met betrekking tot twee kenmerken (zie figuur 2.7 ). Mendel
 vertrok bij zijn dihybride kruisingsexperimenten van twee zuiveren lijnen die
 verschilden met betrekking tot twee kenmerken: bijvoorbeeld een zuivere lijn
 met gele, gladde zaden (RR YY ) en een zuivere lijn met groene, gerimpelde
-
  2.4. Dihybride kruisingen
-
 Figuur 2.5: Overerving van een dominante, autosomale afwijking
-
 Figuur 2.6: Overerving van een polymorf kenmerk
-
-21
-
- 22
-
 recombinanten
-
 principe van onafhankelijke overerving
-
 Hoofdstuk 2. De experimenten van Mendel
-
 zaden (rr yy). Na kruising van deze zuivere lijnen nam Mendel in de F1generatie slechts één fenotype waar, in dit geval erwten met gele, gladde zaden.
 Voor beide kenmerken werd de dominante kenmerktoestand waargenomen in de
 F1-generatie.
@@ -1586,7 +475,6 @@ voor onder een 9:3:3:1 verhouding.
 De resultaten van dihybride kruisingsexperimenten kunnen voorspeld worden aan de hand van een Punnett vierkant. De verschillende types gameten
 bezitten de verschillende mogelijke combinaties van allelen van de ouder. In bovenstaand voorbeeld vormt de F1-generatie 4 types gameten: RY, Ry, rY en ry.
 Combinatie van deze gameten geeft vier mogelijke fenotypes in een verhouding
-van 9:3:3:1.
 Mendel besloot uit voorgaand experiment dat beide kenmerken onafhankelijk van elkaar overgeërfd werden. Wanneer in dit experiment elk kenmerk
 afzonderlijk wordt bekeken, dan vinden we in de F2-generatie zowel voor het
 kenmerk glad/gerimpeld als geel/groen een verhouding van 3:1 waar, net zoals
@@ -1612,30 +500,18 @@ eeuw. Een voortrekker daarin was Norman Borlaug. Hij probeerde door middel
 van doorgedreven kruisingen de productie van graan en rijst te verbeteren. Hij
 was vooral actief in derdewereldlanden, eerst Mexico en later India. Hij kweekte
 onder andere graanrassen die resistent zijn tegen roestschimmels, al sinds de Ro-
-
  2.4. Dihybride kruisingen
-
 Figuur 2.7: Dihybride kruisingsexperiment van Mendel
-
-23
-
- 24
-
 ’groene revolutie’
-
 Hoofdstuk 2. De experimenten van Mendel
-
 meinen één van de grootste bedreigingen voor de graanoogst. Hij combineerde
 resistentie tegen verschillende roestschimmels in één enkele graanvariëteit die
 daardoor resistent werd tegen vele schimmelrassen. Dergelijke doorgedreven
 selectie leidde tot de ’groene revolutie’: een verdubbeling van de landbouwproductie tussen 1960 en 2000. Zonder deze groene revolutie was het onmogelijk
 geweest de exponentieel toenemende wereldpopulatie te voeden. Vooral in derdewereldlanden werden daardoor hongersnoden vermeden.
 Kansberekening in genetisch onderzoek
-
 somregel
-
 productregel
-
 Kansberekening is nuttig om de waarschijnlijkheid in te schatten dat bepaalde
 willekeurige gebeurtenissen optreden. Omdat homologe chromosomen tijdens
 de meiose op willekeurige wijze gescheiden worden van elkaar is kansberekening
@@ -1658,19 +534,13 @@ De productregel kan gebruikt worden om de verhoudingen van bepaalde
 fenotypes te berekenen in een dihybride kruising. De kans dat bepaalde combinaties van kenmerken voorkomen is het product van de afzonderlijke kansen. Deze afzonderlijke kansen worden berekend uitgaande van monohybride
 kruisingen. Bijvoorbeeld in het geval van het experiment met gele/groene en
 gladde/gerimpelde zaden is de kans op R- Y- gelijk aan 3/4 x 3/4 = 9/16. De
-kans op R- yy = 3/4 x 1/4 = 3/16. De kans op rr Y- = 1/4 x 3/4 = 3/16. De
 kans op rr yy = 1/4 x 1/4 = 1/16. De productregel is vooral nuttig om de kans
 te berekenen dat een bepaalde combinatie van kenmerken zal optreden in een
 complex kruisingsexperiment, of de kans dat een bepaald kenmerk doorgegeven
 wordt over meer dan één generatie in een stamboom.
-
  Hoofdstuk 3
-
 Aanvullingen op Mendel
-3.1
-
 Interacties tussen allelen
-
 Onvolledige dominantie
 Men spreekt van een onvolledige dominantie wanneer de heterozygoot een
 fenotype produceert dat een tussenvorm is van het fenotype van de wild type
@@ -1689,9 +559,7 @@ Onvolledige dominantie doet op het eerste zicht denken aan de ’blending theori
 Dit is echter niet correct: ook al lijkt het in de eerste generatie dat de kenmerken
 van de ouder ’gemengd’ worden, in de tweede generatie worden deze kenmerken
 weer uit elkaar gehaald.
-
 onvolledige dominantie
-
 Codominantie
 Men spreekt van codominantie wanneer beide allelen tot uiting komen in het
 fenotype. Een bekend voorbeeld hiervan zijn de ABO-bloedgroepen bij de mens
@@ -1702,19 +570,10 @@ de IA en IB allelen tot expressie worden gebracht. Indien een persoon bij een
 bloedtransfusie bloed ontvangt waarin een suiker aanwezig is dat niet in het
 eigen bloed voorkomt treedt een immuunrespons op. Er kunnen 6 verschillende
 genotypes voorkomen die overeenkomen met 4 verschillende fenotypes. Het fe25
-
 codominantie
-
- 26
-
 Hoofdstuk 3. Aanvullingen op Mendel
-
 Figuur 3.1: Een voorbeeld van onvolledige dominantie
-
  3.1. Interacties tussen allelen
-
-27
-
 notype bepaalt welk bloed je kan ontvangen bij bloedtransfusie. Bij het ABO
 bloedgroepensysteem komen zowel de producten van allel IA als van allel IB tot
 expressie in het fenotype.
@@ -1734,9 +593,7 @@ Een ander voorbeeld is pseudoachondroplasia of een vorm van dwerggroei.
 Personen met één mutant allel vertonen dwerggroei omdat de ruggengraat niet
 volledig ontwikkelt. Personen met twee mutante allelen ontwikkelen helemaal
 geen ruggengraat en overleven niet.
-
 letale mutaties
-
 Sikkelcelanemie: een mutatie in het gen voor hemoglobine
 De afwijking sikkelcelanemie is een ernstige erfelijke ziekte die wordt veroorzaakt door een afwijkende vorm van het proteı̈ne hemoglobine. Hemoglobine is
 verantwoordelijk voor de opname van zuurstof door de rode bloedlichaampjes.
@@ -1746,17 +603,10 @@ een sikkelvorm krijgen. Door deze sikkelvorm nemen de rode bloedcellen niet
 efficiënt zuurstof op, en krijgt men bloedarmoede of anemie.
 HbA /HbA genotypes zijn normaal: ze hebben het normale hemoglobine, hebben normale bloedcellen en geen anemie. HbS /HbS genotypes hebben enkel
 polymeer hemoglobine, hebben steeds sikkelvormige bloedlichaampjes en lijden
-
 Figuur 3.2: Co-dominantie en het bloedgroepensysteem bij de mens
-
 sikkelcelanemie
-
- 28
-
 pleiotroop
-
 Hoofdstuk 3. Aanvullingen op Mendel
-
 aan zware anemie, vaak met dodelijke afloop. HbA /HbS genotypes hebben beide
 types hemoglobine, hebben af en toe sikkelvormige bloedlichaampjes en hebben
 geen anemie.
@@ -1767,11 +617,8 @@ kennen. Op het niveau van het fenotypische kenmerk anemie kan men zeggen
 dat de afwijking recessief is. Op het niveau van de morfologie van de bloedlichaampjes kan men zeggen dat de afwijking codominant is, want beide allelen
 voor de vorm van rode bloedlichaampjes worden tot expressie gebracht.
 Penetrantie en expressiviteit
-
 penetrantie
-
 expressiviteit
-
 Mutaties komen niet altijd in dezelfde mate tot expressie in het fenotype. Wanneer een mutatie in het genotype steeds in het fenotype tot uiting komt zegt
 men dat de penetrantie 100 % is. Sommige mutaties komen niet altijd tot
 uiting in het fenotype. De penetrantie is dan lager dan 100 %.
@@ -1797,32 +644,16 @@ deze mutanten neemt het aantal facetten echter toe met de temperatuur. Ultrabar 
 het aantal facetten toe met de temperatuur, net als in wild type Drosophila.
 Dit toont aan dat er een interactie is tussen het effect van de omgeving en het
 genotype.
-
-3.2
-3.2.1
-
 Interacties tussen genen
 Polygene overerving
-
 Mendeliaanse kenmerken zijn kenmerken die worden beı̈nvloed door één enkel
 gen. De genetica heeft een duidelijk inzicht in de overerving van dergelijke Men-
-
  3.2. Interacties tussen genen
-
 Figuur 3.3: Het ontstaan van sikkelcelanemie
-
 Figuur 3.4: Penetrantie en expressiviteit van allelen
-
-29
-
- 30
-
 Hoofdstuk 3. Aanvullingen op Mendel
-
 Figuur 3.5: Invloed van temperatuur op het aantal facetten in de ogen van verschillende genotypes in Drosophila
-
 polygenen
-
 deliaanse kenmerken. Slechts een kleine minderheid van kenmerken wordt echter
 door slechts één enkel gen beı̈nvloed. Veel kenmerken vertonen een continue variatie: een kenmerk kan gelijk welke waarde aannemen tussen twee extremen.
 Voorbeelden zijn lichaamsgewicht, lengte en kleur van huid, haar of ogen, maar
@@ -1841,17 +672,9 @@ Zelfbestuiving van een dihybride R1 /r1 ; R2 /r2 geeft een vrijwel continue
 variatie in kleurschakeringen onder nakomelingen (zie figuur 3.6 ). Wanneer
 meer dan twee genen een kenmerk beı̈nvloeden treden nog meer verschillende
 kleurschakeringen op.
-
  3.2. Interacties tussen genen
-
-31
-
 Figuur 3.6: Variatie in de kleur van zaden veroorzaakt door polygene overerving
-
-3.2.2
-
 De erfelijke basis van gedrag
-
 Bij huisdieren is het duidelijk dat het gedrag een erfelijke basis heeft. De hond
 is bijvoorbeeld veel minder agressief dan zijn wilde voorouder de wolf. Onder
 honden bestaan er rassen die geselecteerd werden op agressief gedrag, zoals
@@ -1877,20 +700,12 @@ genetisch materiaal, maar een totaal verschillende opvoeding. Indien het gedrag
 bij dergelijke tweelingen totaal verschillend zou zijn, dan zou dit wijzen op een
 sterk effect van de opvoeding. Indien ze echter sterk gelijkend gedrag vertonen
 zou dit wijzen op een sterk effect van de genen. De correlatie tussen gedragskenmerken van één-eiige tweelingen die door adoptie werden gescheiden levert een
-
 ’nature or nurture’
-
 ’monozygotic
 apart’
-
 twins
-
 reared
-
- 32
-
 Hoofdstuk 3. Aanvullingen op Mendel
-
 maat op voor het relatief belang van genen voor bepaalde gedragskenmerken.
 Voor Mendeliaanse kenmerken met een volledige penetrantie zoals albinisme
 vindt men bij één-eiige tweelingen die apart werden opgevoed een correlatie van
@@ -1935,11 +750,7 @@ bepaald bij de mens. Als een kind echter niet gestimuleerd wordt tot praten
 zal het dan niet vanzelf kunnen leren. De stimulans om te leren spreken moet
 op bovendien voldoende jonge leeftijd gebeuren. Iemand die als kind niet heeft
 leren spreken zal dit op latere leeftijd nooit kunnen leren. We weten dit uit waarnemingen bij erg zeldzame ’wilde’ kinderen: kinderen die als baby achtergelaten
-
  3.2. Interacties tussen genen
-
-33
-
 werden in een bos en toch overleefden, of kinderen die zwaar verwaarloosd werden. Een ander voorbeeld van de interactie tussen genen en omgeving zien we
 bij het MAOA gen. Dit gen speelt een rol bij de afbraak van neurotransmitters
 in de hersenen. Dit gen werd gelinkt aan agressief gedrag en werd ooit het ’warrior gene’ genoemd. Het klopt dat bepaalde allelen van dit gen geassocieerd zijn
@@ -1951,11 +762,7 @@ sterker op positieve maatregelen zoals jongerenbegeleiding in vergelijking met
 normale personen. Het feit dat bepaalde gedragskenmerken genetisch bepaald
 zijn, mag dus geen reden te zijn om het belang van opvoeding of omgeving te
 verwaarlozen.
-
-3.2.3
-
 Interactie tussen genen in metabole ketens
-
 Metabole ketens
 Eén gen staat in voor één enkel proteı̈ne. Maar om product B te maken uit
 product A zijn vaak verschillende proteı̈nen nodig. Stof B wordt via vele opeenvolgende chemische omzettingen gevormd uit stof A. Zo’n reeks van chemische
@@ -1983,24 +790,13 @@ schimmel deze stoffen opnemen uit de omgeving. Beadle en Tatum spitsten hun
 onderzoek toe op mutanten die niet zelfstandig aminozuren konden aanmaken.
 Dit deden ze door de groei van de schimmel te vergelijken op een minimaal
 medium en een medium waaraan alle nodige aminozuren werden toegevoegd.
-
 metabole keten
-
 albinisme
-
 cretinisme
 fenylketonurie
-
- 34
-
 Hoofdstuk 3. Aanvullingen op Mendel
-
 Figuur 3.7: Mutaties in de metabolische keten van fenylalanine
-
  3.2. Interacties tussen genen
-
-35
-
 Vervolgens gingen ze na welk aminozuur de mutanten niet zelf konden aanmaken. Hierbij namen ze waar dat de mutanten telkens één aminozuur nodig
 hadden in hun voedingsmedium. Vervolgens selecteerden ze reeks mutanten
 voor het aminozuur arginine. Deze arginine mutanten groeien niet op een medium waarin arginine ontbreekt, maar wel in een medium waaraan arginine
@@ -2026,22 +822,14 @@ de mutatie gelegen is op verschillende genen zullen een deel van de nakomelingen
 wild type zijn. Dit komt omdat een mutant allel afkomstig van de ene ouder
 gecompenseerd wordt door een wild type allel van de andere ouder. Dergelijke
 complementatietests zijn nuttig om de verschillende genen in kaart te brengen
-
 Figuur 3.8: Ontdekking van de metabole keten van arginine door Beadle en Tatum
-
 complementatietest
-
- 36
-
 Hoofdstuk 3. Aanvullingen op Mendel
-
 die betrokken zijn bij een bepaalde metabolische keten of een bepaald kenmerk.
 Ook voor het in kaart brengen van signaaltransductie is de complementatietest
 nuttig.
 Epistasie
-
 epistasie
-
 Wanneer er meerdere genen betrokken zijn in dezelfde metabolische keten kan
 een mutatie in één gen een mutatie in een ander gen verbergen. Dit komt
 omdat beide mutaties hetzelfde fenotypische effect teweegbrengen. Men spreekt
@@ -2068,27 +856,14 @@ zwart, maar een bruin pigment en zetten dit bruine pigment af in de vacht; ze
 zijn dus bruin. Mutanten voor gen B maar wild type voor gen A produceren
 wel een zwart pigment (cf. zwarte neus en lippen), maar kunnen dit pigment
 niet afzetten in de vacht; ze hebben dus een blonde vacht.
-
  3.2. Interacties tussen genen
-
-37
-
 Figuur 3.9: Toepassing van de complementatietest om na te gaan of mutaties gelegen
 zijn in hetzelfde of in verschillende genen
-
- 38
-
 Hoofdstuk 3. Aanvullingen op Mendel
-
 Figuur 3.10: Voorbeeld van epistasie bij het bepalen van de zaadkleur bij mais
-
  Hoofdstuk 4
-
 Chromosomen
-4.1
-
 Geslachtsgekoppelde overerving
-
 De ontdekking van geslachtschromosomen
 Morgan onderzocht erfelijke afwijkingen bij de fruitvlieg, Drosophila melanogaster. Deze vliegjes zijn gemakkelijk in het laboratorium te kweken en planten
 zich snel voort. Het is dan ook een veelgebruikt modelorganisme in genetisch
@@ -2110,27 +885,16 @@ Morgan besloot uit zijn experimenten dat deze afwijking geslachtsgebonden was. H
 dat verschillend was bij mannetjes en vrouwtjes. Morgan concludeerde dat de
 afwijking gelegen moest zijn op het X chromosoom, waarvan de vrouwtjes twee
 exemplaren hadden en de mannetjes slechts één.
-
 geslachtsgebonden
-
 Geslachtsbepaling door het XX/XY systeem
 Bij de mens hebben mannen van het X-chromosoom slechts één exemplaar ter- X-chromosoom
 wijl vrouwen twee X-chromosomen bezitten. Bij mannen paart dit X-chromosoom
 tijdens de meiose met een veel kleiner chromosoom - het Y-chromosoom. De Y-chromosoom
 X- en Y-chromosomen of geslachtschromosomen verschillen in dit opzicht van
 de andere chromosomen, de autosomen. Merk op dat geslachtsbepaling niet autosomen
-39
-
- 40
-
 Hoofdstuk 4. Chromosomen
-
 Figuur 4.1: Geslachtsgebonden overerving van de witte oogkleur bij Drosophila
-
  4.1. Geslachtsgekoppelde overerving
-
-41
-
 in het hele dierenrijk het XX - XY principe volgt (zie verder).
 Bij meiose worden bij vrouwen eicellen gevormd die allen één X-chromosoom
 bezitten. Omdat alle gameten hetzelfde aantal chromosomen hebben, noemt
@@ -2157,31 +921,19 @@ een Y chromosoom ontwikkelen zich daarom steeds tot mannetjes. Uitzonderingen zi
 geslachtsorganen bezitten. Nog een uitzondering zijn XX-individuen waarvan
 een deel van het Y-chromosoom door een translocatie verplaatst is naar een
 X-chromosoom. Nog een uitzondering zijn individuen die door een mutatie ongevoelig zijn voor de ’testis determining factor ’.
-
-4.1.1
-
 Geslachtsgekoppelde afwijkingen
-
 Afwijkingen veroorzaakt door recessieve allelen van genen die liggen op het Xchromosoom, vertonen meestal de volgende kenmerken (zie figuur 4.3):
 • Meer mannen dan vrouwen vertonen de afwijking omdat het recessieve
 allel sowieso tot expressie komt wanneer mannen een X-chromosoom met
-
 Figuur 4.2: Vergelijking van het X- en het Y-chromosoom
-
 homogametische geslacht
 heterogametische
 slacht
-
 geslachtsgekoppelde
 afwijkingen
 SRY -gen
-
 ge-
-
- 42
-
 Hoofdstuk 4. Chromosomen
-
 het mutante gen van de moeder erven. Vrouwen moeten het recessieve
 allel zowel van de vader als van de moeder erven vooraleer de afwijking
 tot expressie komt.
@@ -2196,16 +948,11 @@ Het meest algemene voorbeeld van een X-gekoppelde recessieve overerving is
 wellicht rood-groen kleurenblindheid. Daarnaast is ook hemofilie goed gekend,
 dat voorkomt in de Europese koninklijke families.
 Doseringscompensatie
-
 haplosufficiënte genen
-
 haploinsufficiënte genen
-
 genenbalans
-
 Barr lichaampje
 doseringscompensatie
-
 Van elk autosoom bezitten we twee exemplaren. Op elk homoloog chromosoom
 bevinden zich dezelfde genen, die elk een gelijke hoeveelheid RNA voortbrengen. Dit RNA vormt via translatie een bepaalde hoeveelheid proteı̈ne dat een
 bepaalde activiteit uitoefent. Voor veel genen is niet de hoeveelheid proteı̈ne
@@ -2228,13 +975,8 @@ delen van het lichaam wel en in andere niet tot expressie komen. Dit is een epig
 cellen wordt een deel van dit genoom geı̈nactiveerd.
 Het lichaam van een vrouw bestaat dus uit een mozaı̈ek van cellen waarin
 het ene X-chromosoom actief is en cellen waarin het andere X-chromosoom
-
  4.1. Geslachtsgekoppelde overerving
-
-43
-
 Figuur 4.3: Voorbeeld van geslachtsgebonden overerving
-
 actief is. Bij de mens is dit slechts uitzonderlijk zichtbaar in het fenotype. Een
 voorbeeld waar deze mozaı̈ek wel zichtbaar is, vinden we bij lapjeskat. Dit zijn
 vrouwtjeskatten die in sommige delen van de vacht een zwart (wild type) en in
@@ -2243,9 +985,7 @@ rode en zwarte vlekken in de vacht. Het gen dat codeert voor deze pigmenten
 bevindt zich op het X-chromosoom. Een tweede gen zorgt ervoor dat zowel
 het rode als zwarte pigment in vlekken afgezet wordt tegen een witte vacht
 (voorbeeld van epistasie, zie hoger).
-
 lapjeskat
-
 Andere mechanismen van geslachtsbepaling
 Het SRY gen speelt enkel een rol bij de geslachtsbepaling van zoogdieren. De
 geslachtsbepaling verloopt niet bij alle dieren via XX/XY chromosomen:
@@ -2263,17 +1003,11 @@ in mannetjes, andere eieren in vrouwtjes.
 ze te klein om eitjes te produceren, maar ze kunnen wel spermatozoı̈den
 produceren. Wanneer ze groot genoeg zijn om eitje te produceren, veranderen ze in wijfjes. Andere vissen worden geboren als wijfjes. Wanneer
 een individu groot genoeg is om een territorium te verdedigen, verandert
-
- 44
-
 Hoofdstuk 4. Chromosomen
-
 het in een mannetje. Wanneer dit dominante mannetje sterft, neemt een
 ander vrouwtje zijn plaats in door in een mannetje te veranderen.
 • Sommige dieren zoals de aardworm of sommige slakken hebben beide geslachten tegelijkertijd en zijn hermafrodiet.
-
 hermafrodiet
-
 • Bij bijen en mieren wordt het geslacht bepaald door de ploı̈die van de
 cel. Enkel de koningin plant zich voort in een kolonie. Bevruchte eicellen van de koningin ontwikkelen zich tot diploı̈de werksters. Onbevruchte
 eicellen ontwikkelen zich tot haploı̈de darren. Deze darren produceren
@@ -2285,18 +1019,12 @@ van chromosomen (bepaald door meiose). De werksters zijn dus voor 75
 % genetisch identiek (in tegenstelling tot 50 % bij gewone broers of zussen). Deze hoge genetische verwantschap tussen de werksters zorgt voor
 een grote solidariteit binnen de kolonie.
 Ongeslachtelijke voortplanting
-
 ongeslachtelijke
 planting
-
 parthenogenese
-
 automixis
-
 apomixis
-
 voort-
-
 Voortplanting hoeft niet altijd plaats te vinden via bevruchting van een eicel
 door een zygote. Men spreekt in dat geval van ongeslachtelijke voortplanting. Vele ééncellige organismen planten zich ongeslachtelijk voort door celdeling of (bij gisten) knopvorming. Meercellige organismen zoals schimmels,
 lichenen of mossen en zelfs hogere planten kunnen zich ongeslachtelijk voortplanten door fragmentatie. Ook bepaalde wormen of zeesterren kunnen zich via
@@ -2317,11 +1045,7 @@ parthenogenese is wanneer de eicel gestimuleerd moet worden door een zaadcel voo
 materiaal aanlevert, en er dus geen bevruchting plaatsvindt. Parthenogenese is
 vrij algemeen bij insecten, schaaldieren (vb. Daphnia), bepaalde reptielen en
 amfibieën. Zelfs bij gedomesticeerde vogels kan het voorkomen.
-
  4.2. Genetische recombinatie door stukuitwisseling
-
-45
-
 Geslachtsgebonden gedragskenmerken
 In de dierenwereld zien we vaak heel opvallende verschillen in gedrag tussen
 mannetjes en wijfjes. Ook bij de mens zien we verschillen in gedrag tussen mannen en vrouwen. Deze kunnen te wijten zijn aan genetische factoren en aan
@@ -2339,23 +1063,16 @@ echter een belangrijke rol spelen. Stamboomonderzoek suggereerde dat homoseksual
 op een associatie met het X-chromosoom. Een recent onderzoek toonde aan
 dat homoseksualiteit vaker voorkomt bij mannen die meerdere oudere broers
 hebben.
-
-4.2
-
 Genetische recombinatie door stukuitwisseling
-
 Koppeling van genen
 Tijdens de geslachtelijke voortplanting worden de homologe chromosomen willekeurig verdeeld over de gameten en vervolgens opnieuw samengevoegd. Doordat
 genen gelegen zijn op verschillende chromosomen kan dit leiden tot recombinatie. Een dihybride kruising tussen twee zuivere lijnen zal daardoor in de F2generatie combinaties van de twee onderzochte kenmerken vertonen die bij het
 parentale type niet voorkwamen (zie figuur 4.4). De frequentie van recombinatie
-is hierbij 0.5 of 50 %.
 Genen die op hetzelfde chromosoom gelegen, daarentegen, worden verwacht
 samen te blijven. Een dihybride kruising tussen twee zuivere lijnen zal in dat
 geval in de F2-generatie enkel de parentale combinaties van de twee kenmerken
 vertonen. Men spreekt in dit geval van gekoppelde genen.
-
 gekoppelde genen
-
 Stukuitwisseling
 In kruisingsexperimenten neemt men inderdaad waar dat gekoppelde genen minder vaak recombinatie vertonen (minder dan 50% recombinanten) dan genen die
 op verschillende chromosomen gelegen zijn (exact 50 % recombinanten). Via
@@ -2365,25 +1082,16 @@ Deze stukuitwisseling vindt plaats tijdens de eerste meiotische deling, wanneer
 de homologe chromosomen naast elkaar liggen. Tijdens stukuitwisseling wisselen
 twee homologe chromosomen stukken met elkaar uit. Morgan formuleerde voor
 het eerst de hypothese van stukuitwisseling. Creighton en McClintock toonden
-
 stukuitwisseling
-
- 46
-
 Hoofdstuk 4. Chromosomen
-
 dit principe aan door uitwisseling van visuele afwijkingen op chromosomen te
 vergelijken met uitwisseling van allelen gelegen op deze chromosomen.
 Genkartering
-
 recombinatiefrequentie
-
 kaarteenheid
 centimorgan
 genkartering
-
 locus
-
 Stukuitwisseling treedt op wanneer genen gescheiden worden van elkaar door
 chiasmata (enkelvoud: chiasma). Chiasmata komen voor op een klein aantal
 plaatsen op een chromosoom tijdens de eerste meiotische deling. Deze chiasmata zijn willekeurig verspreid over het chromosoom. De kans dat een chiasma
@@ -2407,12 +1115,9 @@ F1-generatie overeenkomen met het fenotype van de nakomelingen van de testkruisi
 afstand tussen de genen in kaarteenheden afgeleid worden. De positie van een
 gen op een chromosoom wordt een locus genoemd (meervoud: loci).
 Dubbele stukuitwisseling
-
 dubbele
 gen
-
 stukuitwisselin-
-
 Tijdens de meiose worden meerdere chiasmata gevormd per chromosoom. Tijdens de meiose kunnen dus ook dubbele stukuitwisselingen optreden, of zelfs
 drie- of vierdubbele stukuitwisselingen. Naargelang genen verder en verder van
 elkaar gelegen zijn op een chromosoom, is de kans op een dubbele stukuitwisseling groter. Bij dubbele stukuitwisseling wordt de parentale combinatie van
@@ -2420,23 +1125,11 @@ allelen hersteld, en lijkt het of er geen recombinatie opgetreden is. Bij driedu
 op. Naarmate de afstand groter wordt is de kans op dubbele stukuitwisseling
 gelijk aan die op enkele of driedubbele stukuitwisseling. Bijgevolg neemt de recombinatiefrequentie tussen genen gelegen op hetzelfde chromosoom toe met de
 onderlinge afstand tot een maximum van 50 % of 1/2. Dit is een even grote recombinatiefrequentie als wanneer genen op verschillende chromosomen gelegen
-
  4.2. Genetische recombinatie door stukuitwisseling
-
 Figuur 4.4: Recombinatie van kenmerken door stukuitwisseling
-
-47
-
- 48
-
 Hoofdstuk 4. Chromosomen
-
 Figuur 4.5: Genkartering door analyse van recombinatiefrequentie
-
  4.2. Genetische recombinatie door stukuitwisseling
-
-49
-
 zijn. Indien genen ver genoeg van elkaar gelegen zijn op een chromosoom lijkt
 het dus alsof de genen gelegen zijn op verschillende chromosomen. De maximale
 afstand tussen twee loci die men in een kruisingsexperiment kan bepalen, is dus
@@ -2476,15 +1169,9 @@ tussen drie genen op een chromosoom bepaald worden.
 Frequentie van stukuitwisseling bij verschillende organismen
 De afstanden tussen genen of loci kunnen gebruikt worden om een genetische
 kaart van een chromosoom op te stellen. De afstanden tussen loci worden bepaald door de recombinatiefrequentie tussen genen op deze loci. Het berekenen
-
 driepuntstestkruising
-
- 50
-
 Hoofdstuk 4. Chromosomen
-
 Figuur 4.6: Gebruik van een driepuntstestkruising voor het karteren van genen
-
 van afstanden tussen loci door middel van recombinatiefrequenties is betrouwbaar tot op een afstand van ongeveer 20 cM. Voor hogere afstanden is ze niet
 meer betrouwbaar. Om afstanden tussen genen in schatten die verder dan 20 cM
 van elkaar gelegen zijn kunnen afstanden tussen tussenliggende genen gewoon
@@ -2500,11 +1187,7 @@ een afstand van ongeveer 2500 cM (bij de man). De recombinatiefrequentie
 kan ook verschillen tussen de geslachten. Bij Drosophila, bijvoorbeeld, treedt
 enkel bij vrouwtje recombinatie op en niet bij de mannetjes. Bij de mens is de
 recombinatiefrequentie bij vrouwen twee keer groter dan bij mannen.
-
-4.3
-
 Genkartering bij de mens
-
 Gebruik van stambomen
 Mensen kunnen om ethische redenen niet aan kruisingsexperimenten onderworpen worden. Daarom wordt voor het opstellen van chromosoomkaarten van de
 mens gebruik gemaakt van gegevens uit stambomen. Wanneer twee afwijkingen samen voorkomen in een stamboom en wanneer deze twee afwijkingen ook
@@ -2515,11 +1198,7 @@ schatten en een genetische kaart van de menselijke chromosomen opstellen.
 De genetische merkers die men in het verleden bij de mens in kaart bracht
 waren vaak erfelijke ziektes. Omdat in weinig families meerdere erfelijke ziektes
 samen voorkomen, is het niet eenvoudig om koppeling tussen genen en de afstand
-
  4.3. Genkartering bij de mens
-
-51
-
 tussen genen gelegen op hetzelfde chromosoom te onderzoeken. Desondanks had
 men via genkartering rond 1980 toch reeds enkele honderden genetische merkers
 in kaart gebracht. Maar dit is weinig in verhouding tot de totale omvang van
@@ -2558,19 +1237,11 @@ met het mutante fenotype. Via stamboomonderzoek gaat men op zoek naar
 reeds gekende mutaties die gekoppeld zijn met dit fenotype. Wanneer men koppeling waarneemt met een bepaalde gekende mutatie dan weet men op welk
 chromosoom de onbekende mutatie gelegen is. Vervolgens gaat men via recombinatiefrequenties na op welke plaats op het chromosoom de onbekende mutatie
 gelegen is. Wanneer men de plaats ongeveer weet liggen, zal men dit deel van
-
 anonieme merkers
-
 SNPs
-
 haplotypes
-
- 52
-
 ’genome wide association studies’
-
 Hoofdstuk 4. Chromosomen
-
 het chromosoom sequeneren en op zoek gaan naar kandidaat-genen. Het eerste
 fenotype dat op die manier gelinkt werd aan een gen, was de Ziekte van Huntington (in 1983). Hiervoor werden stambomen gebruikt van lokale gemeenschappen
 in Venezuela, waar deze ziekte heel frequent voorkomt als gevolg van inteelt.
@@ -2588,19 +1259,11 @@ genoom tussen personen met een bepaald fenotype en een controlegroep. Indien
 bepaalde SNP’s meer voorkomen in personen met een bepaald fenotype is de
 kans groot dat genen gelinkt aan dit fenotype te vinden zijn in de regio van een
 chromosoom waar deze SNP’s voorkomen.
-
-4.4
-
 Cytoplasmatische overerving
-
 DNA in organellen
-
 cytoplasmatische overerving
-
 uniparentaal
-
 maternaal
-
 Niet alle DNA bevindt zich in de chromosomen van de cel. Een deel van het DNA
 ligt in de mitochondria of, bij planten, de mitochondria en de chloroplasten.
 Deze organellen worden onafhankelijk van het nucleair genoom overgeërfd en
@@ -2613,14 +1276,9 @@ De overerving van organelgenen is uniparentaal, d.w.z. dat nakomelingen
 de organellen en de genen die in hun DNA gelegen zijn exclusief erven van
 één enkele ouder (zie figuur 4.8). In de meeste gevallen is dat de moeder en
 wordt de overerving maternaal genoemd. De eicellen van de moeder hebben
-
 Figuur 4.7: Voorbeeld van een Manhattan plot in een ’genome wide association
 study’ of GWAS.
-
  4.4. Cytoplasmatische overerving
-
-53
-
 immers voldoende cytoplasma om de mitochondria en chloroplasten onderdak te
 bieden terwijl de spermatozoı̈den of pollenkorrels niet veel meer dan een celkern
 met chromosomen bevatten. Mutanten van mitochondriale of chloroplastgenen
@@ -2639,9 +1297,7 @@ Sommige zeldzame aandoeningen die enkel via de moeder worden doorgegeven zijn cy
 in een base in het mtDNA. De ziekte treft de spieren, maar kan ook de ogen
 en het gehoor beı̈nvloeden. Moeders geven deze afwijking door aan al hun nakomelingen. Vaders kunnen drager zijn van de afwijking, maar zullen ze nooit
 doorgeven aan hun nakomelingen.
-
 cytohets of heteroplasmons
-
 De mitochondriale Eva
 Doordat mtDNA uniparentaal wordt overgeërfd, kunnen we de meest recente
 gemeenschappelijke voorouder van een reeks individuen afleiden uit gelijkenissen tussen mtDNA-sequenties. In het geval van mtDNA betekent dit de meest
@@ -2655,26 +1311,15 @@ jaar geleden zou een kleine populatie Afrika verlaten hebben om Azië en Europa
 te koloniseren. Ongeveer 40 000 jaar geleden zou Australië gekoloniseerd zijn
 en 15 000 jaar geleden Amerika. Een vergelijkbare analyse kan gemaakt worden door sequenties op het Y-chromosoom te vergelijken (de Y-chromosomale
 Adam).
-
 Figuur 4.8: Overerving van kenmerken via organellen
-
 mitochondriale Eva
-
- 54
-
 Hoofdstuk 4. Chromosomen
-
 Figuur 4.9: Cytohets en het ontstaan van cytoplasmatische mutaties
-
-4.5
-4.5.1
 aneuploı̈die
 trisomie
 monosomie
-
 Chromosomale afwijkingen
 Aneuploı̈die
-
 Wanneer een individu één chromosoom te veel of te weinig heeft spreekt men
 van aneuploı̈die. Aneuploı̈d met één chromosoom te veel is trisomie, één
 chromosoom te weinig is monosomie. Aneuploı̈die is het gevolg van het niet
@@ -2685,9 +1330,7 @@ zorgt dat homologe chromosomen wel op de correcte manier paren. Dit blijkt
 onder andere uit het feit dat veel aneuploı̈den niet-recombinante chromosomen
 bezitten.
 Aneuploı̈die van autosomen
-
 genetische last
-
 Bij monosomie ontbreekt een exemplaar van een bepaald chromosoom en dit
 wordt aangeduid als (2n - 1). Bij de meeste organismen is deze toestand fataal
 wanneer het een autosoom betreft. Ook bij de mens leidt monosomie vrijwel
@@ -2698,11 +1341,7 @@ Bij trisomie is er een extra exemplaar van een bepaald chromosoom en dit
 wordt aangeduid als (2n + 1). Trisomie heeft grotere overlevingskansen dan monosomie omdat enkel de genenbalans verstoord is terwijl de genetische last geen
 rol speelt. Bij de mens is trisomie enkel levensvatbaar indien het gaat om kleine
 autosomen waarop weinig genen gelegen. De meest bekende trisomie voor auto-
-
  4.5. Chromosomale afwijkingen
-
-55
-
 somen bij de mens is het Down syndroom. Individuen met Down syndroom
 hebben een extra exemplaar van chromosoom 21. De afwijking komt voor bij
 1.5 op 1000 geboortes. Down syndroom is meestal het gevolg van non-disjunctie
@@ -2722,11 +1361,8 @@ een volwassen individu met cellen die genetisch verschillend zijn. Dit wordt
 een genetische mozaı̈ek genoemd. Genetische mozaı̈eken met trisomie vertonen vaak dezelfde symptomen als een individu die volledige trisomie heeft,
 maar meestal minder ernstig. Bepaalde genetische mozaı̈eken kunnen kanker
 veroorzaken: sommige tumoren ontstaan uit cellen die trisomaal zijn.
-
 Down syndroom
-
 genetische mozaı̈ek
-
 Aneuploı̈die van geslachtschromosomen
 Ook bij geslachtschromosomen kan non-disjunctie optreden tijdens de meiose
 (zie figuur 4.10). Voor individuen met aneuploı̈die voor de geslachtschromosomen worden aparte notaties gebruikt (XXY, XYY, XXX, XO). Trisomie voor
@@ -2744,21 +1380,12 @@ X-chromosoom (XXX) zijn fenotypisch normaal en vruchtbaar. Merk op dat
 het geslacht bij zoogdieren door het Y-chromosoom bepaald wordt en niet door
 het aantal X-chromosomen. Een extra X-chromosoom wordt uitgeschakeld en
 vormt Barr-lichaampje.
-
-4.5.2
-
 Wijzigingen in chromosoomstructuur
-
 Sommige erfelijke afwijkingen worden veroorzaakt doordat de structuur van
 chromosomen gewijzigd is. Wijzigingen in de structuur van chromosomen komen
 tot stand door twee mechanismen (zie figuur 4.11).
-
- 56
-
 Hoofdstuk 4. Chromosomen
-
 Figuur 4.10: Aneuploidie van geslachtschromosomen
-
 • Een eerste mechanisme is het gevolg van breuken in de DNA-streng.
 Deze breuk wordt normaal gezien hersteld. Indien er echter iets fout
 loopt tijdens dit herstelproces kan een deel van een chromosoom verloren gaan (deletie), ontdubbeld worden (duplicatie), omgekeerd terug ingebouwd worden (inversie) of aan een verkeerd chromosoom toegevoegd
@@ -2768,13 +1395,10 @@ sequenties in identieke regio’s van homologe chromosomen, maar tussen
 gelijke sequenties op verschillende chromosomen of in een andere regio
 van het homologe chromosoom. Deze foute stukuitwisseling kan eveneens
 deleties, duplicaties, inversies of translocaties veroorzaken. Beide mechanismen treden op tijdens de meiose in kiemcellen.
-
 Deleties
 deletie
-
 ’cri du chat’
 Williams syndroom
-
 Bij een deletie verdwijnt een stuk van een chromosoom. Daardoor gaan vaak
 vele genen tegelijkertijd verloren. Vaak leidt dit tot een verstoring van de genenbalans. Bovendien komen recessieve mutaties tot uiting in genen waarvan maar
 één kopie overblijft (genetische last). Deleties kunnen in erfelijkheidsexperimenten herkend worden doordat in heterozygoten een recessief allel onverwacht tot
@@ -2784,14 +1408,9 @@ arm van chromosoom 5. Baby’s met ’cri du chat’ syndroom huilen op een kata
 Het Williams syndroom wordt veroorzaakt door een deletie op chromosoom
 7. Personen met deze afwijking hebben een karakteristiek, ’elfachtig’ uiterlijk
 maar een bijzonder goed ontwikkeld muzikaal gehoor.
-
  4.5. Chromosomale afwijkingen
-
-57
-
 Figuur 4.11: Het ontstaan van wijzigingen in chromosoomstructuur door breuken in
 de DNA keten of verkeerde stukuitwisseling
-
 Duplicaties
 Bij een duplicatie bezit het genoom een extra kopie van een stuk van een
 chromosoom. De twee kopieën kunnen vlak naast elkaar gelegen zijn op hetzelfde chromosoom, op een andere plaats in hetzelfde chromosoom, of op een
@@ -2802,11 +1421,8 @@ Duplicaties zorgen ervoor dat er twee kopieën ontstaan van een gen. Twee
 kopieën van een gen in hetzelfde genoom die ontstaan zijn na duplicatie worden
 paralogen genoemd. Eén van de twee kopieën kan door mutaties evolueren en
 een nieuwe functie krijgen (zie verder).
-
 duplicatie
-
 paralogen
-
 Inversies
 Bij een inversie wordt een stuk uit een chromosoom genomen en er in omgekeerde richting terug ingeplaatst. Inversies wijzigen de genenbalans niet omdat
 het aantal genen niet wijzigt. Inversies worden daarom vaak niet opgemerkt.
@@ -2819,19 +1435,10 @@ stukuitwisseling optreedt gaat een deel van een chromatide verloren en worden
 chromatiden van verschillende homologe chromosomen met elkaar verbonden.
 Door deze verkeerde stukuitwisseling kunnen deleties of duplicaties ontstaan.
 Daardoor zijn een deel van de gameten niet levensvatbaar. Vele inversies resulteren daarom in een verminderde vruchtbaarheid.
-
 inversie
-
- 58
-
 Hoofdstuk 4. Chromosomen
-
 Figuur 4.12: Invloed van inversies op de meiotische deling
-
  4.5. Chromosomale afwijkingen
-
-59
-
 Translocaties
 Om een translocatie te bekomen moeten twee chromosomen onderling een stuk
 uitwisselen. Bij een translocatie wordt de genenbalans niet verstoord. Ze worden
@@ -2851,11 +1458,7 @@ chromosoom 21 uitgewisseld met klein deel van chromosoom 14. Eén op vier
 gameten van de drager van een Robertsonische translocatie bezit daardoor vrijwel het volledige chromosoom 21 dubbel. Dit leidt tot Down syndroom bij de
 nakomelingen. Dit is een geval waarbij Down syndroom erfelijk bepaald kan
 zijn (zie figuur 4.14).
-
-4.5.3
-
 Detectie van erfelijke afwijkingen
-
 Erfelijke afwijkingen kunnen zelden genezen worden. Hiervoor is het nog wachten op een betrouwbare vorm van gentherapie. Daarom wordt getracht ernstige
 erfelijke afwijkingen zoveel mogelijk te voorkomen. Aan ouders die een verhoogd
 risico lopen op nakomelingen met erfelijke afwijkingen wordt daarom genetisch
@@ -2877,22 +1480,11 @@ via moleculaire technieken (vb. sequeneren van een gen om mutaties op te
 sporen). Aangezien het risico op een miskraam reëel is bij vruchtwaterpunctie
 (risico van 1 op 200) worden dergelijke analyses enkel uitgevoerd wanneer er een
 sterk vermoeden is van een erfelijke aandoening.
-
 Robertsonische translocatie
-
- 60
-
 Hoofdstuk 4. Chromosomen
-
 Figuur 4.13: Invloed van translocaties op de meiotische deling
-
 Figuur 4.14: Robertsonische translocatie veroorzaakt een erfelijke vorm van Down
 syndroom
-
- 4.6. Polyploı̈die
-
-61
-
 Genetische tests brengen ook ethische vragen met zich mee. Is het voorkomen van een bepaalde erfelijke afwijking voldoende basis om over te gaan tot
 abortus, of om een bepaalde embryo te selecteren bij in vitro fertilisatie? Hoe
 ernstig dient te afwijking te zijn? In geval van Down syndroom vinden velen
@@ -2905,11 +1497,7 @@ over dochters er een duidelijk groter aantal jongens geboren wordt dan meisjes
 gevolgd worden, is dat abortus gekoppeld moet zijn aan (1) een zeer grote kans
 dat het kind de afwijking zal ontwikkelen (100 % penetrantie) en (2) de afwijking ernstig menselijk leiden met zich meebrengt. Daarnaast is het belangrijk
 dat er vrije keuze is bij de betrokkenen.
-
-4.6
-
 Polyploı̈die
-
 De normale toestand in planten, dieren en de mens is de diploı̈de toestand (2n),
 waarbij van elk chromosoom twee exemplaren aanwezig zijn. Schimmels bezitten
 van elk chromosoom slechts één exemplaar en zijn haploı̈d (n). De situatie
@@ -2917,9 +1505,7 @@ waarbij een organisme een veelvoud heeft van het basisaantal van chromosomen
 wordt euploı̈die genoemd.
 Polyploı̈den komen veel vaker voor bij planten dan bij dieren. Toch kent men
 polyploı̈die bij platwormen, bloedzuigers, reptielen, amfibieën en zelfs vissen.
-
 euploı̈die
-
 Monoploı̈die
 Monoploı̈den (n) zijn individuen van een diploı̈de soort die in plaats van twee
 slechts één set van chromosomen bezitten. Monoploı̈den zijn zelden levensvatbaar, enerzijds omdat de genenbalans sterk verstoord is en anderzijds omwille
@@ -2936,21 +1522,13 @@ worden en verkrijgt men terug een diploı̈de plant. Deze diploı̈de plant zal 
 z’n kenmerken behouden. Colchicine is een stof afkomstig van de giftige plant
 herfsttijloos. Het verstoort de werking van de microtubuli. Doordat de microtubuli niet werken worden de chromatiden niet van elkaar gescheiden tijdens de
 mitose en ontstaat een cel met het dubbel aantal chromosomen.
-
 monoploı̈den
-
 weefselculturen
 colchicine
-
- 62
-
 Hoofdstuk 4. Chromosomen
-
 Figuur 4.15: Toepassing van monoploı̈den voor het creëren van zuivere lijnen
-
 Triploı̈die
 triploı̈d
-
 Een triploı̈d is een organisme dat 3 in plaats van 2 sets van chromosomen bezit (3n). Triploı̈den kunnen spontaan ontstaan of kunnen kunstmatig gevormd
 worden door kruising van een diploı̈d met een tetraploı̈d. Triploı̈den zijn steriel
 omdat de chromosomen tijdens de meiose geen paren kunnen vormen (zie figuur
@@ -2962,20 +1540,12 @@ triploı̈de oesters worden gekweekt omdat ze steriel zijn en dus geen eitjes of
 sperma produceren. Daardoor zijn ze het hele jaar door eetbaar. Er bestaan
 ook triploı̈de salamanders die zich voortplanten via parthenogenese.
 Tetraploı̈die
-
 tetraploı̈d
-
 Een tetraploı̈d bezit 4 in plaats van 2 sets van chromosomen (4n). Tetraploı̈den
 kunnen normale meiose ondergaan en zijn dus meestal fertiel. Ze kunnen spontaan ontstaan door verdubbeling van het aantal chromosomen of kunnen kunstmatig gevormd worden door blootstelling van een diploı̈d aan colchicine (zie
 figuur 4.17). Een tetraploı̈d gevormd uit een diploı̈d met genotype A/a ; B /b
 zal uiteindelijk het genotype A/A/a/a ; B /B /b/b bezitten.
-
 Figuur 4.16: Oorzaak van steriliteit bij triploide planten
-
- 4.6. Polyploı̈die
-
-63
-
 Tetraploı̈den komen regelmatig voor in de plantenwereld. Tetraploı̈de planten zijn vaak veel sterker en groter dan diploı̈den. Dit is ten dele te wijten
 aan het feit dat recessieve allelen zelden tot expressie komen. Bij kruising van
 een A/a/A/a genotype met een A/a/A/a genotype zal slechts bij 1 op 36 nakomelingen het recessieve allel a tot uiting komen. Opdat het recessieve allel
@@ -2992,24 +1562,13 @@ ontstaan. Veel van onze landbouwgewassen zijn natuurlijk ontstane allopolyploı�
 Ook in de natuur ontstaan veel nieuwe plantensoorten als hybriden van bestaande soorten via allopolyploı̈die. Allopolyploı̈den kunnen ook kunstmatig
 gemaakt worden door het samenbrengen van diploı̈de celkernen. Allopolyploı̈den
 combineren de nuttige eigenschappen van twee soorten in één soort (vb. Triticale, die de eigenschappen van tarwe en rogge combineert).
-
 Figuur 4.17: Het creëren van een tetraploı̈de plant door het gebruik van colchicine
-
 allopolyploı̈den
-
- 64
-
 Hoofdstuk 4. Chromosomen
-
 Figuur 4.18: De rol van allopolyploı̈die bij de domesticatie van graan
-
  Hoofdstuk 5
-
 Mutaties en herstel
-5.1
-
 Verschillende types mutaties
-
 Wat zijn mutaties?
 Genetische mutaties zijn wijzigingen in het DNA en bevinden zich dus op
 het niveau van het genotype. Niet alle mutaties hebben ook een effect of het
@@ -3031,37 +1590,23 @@ codons zijn stop-codons en geven aan waar het gen eindigt; een stop-codon
 beëindigt de translatie van mRNA naar proteı̈ne.
 Een puntmutatie is de wijziging van één enkel basenpaar of een aantal
 opeenvolgende basenparen in de DNA keten (zie figuur 5.2). Er zijn twee categorieën van puntmutaties: basenpaarsubstituties en indelmutaties.
-
 mutaties
-
 genetische code
-
 degeneratie van de genetische code
 stop-codons
 puntmutatie
-
 Basenpaarsubstituties
 Een basenpaarsubstitutie is een mutatie waarbij één base gewijzigd wordt
 in een andere base. Wanneer een base gewijzigd wordt in een andere base
 van dezelfde categorie spreekt men van een transitie (vb. purine: A ↔ G
 of pyrimidine: C ↔ T). Bij een transversie wordt een base van één categorie
 veranderd in een base van de andere categorie. Transversies komen minder vaak
-65
-
 basenpaarsubstitutie
 transitie
 transversie
-
- 66
-
 Hoofdstuk 5. Mutaties en herstel
-
 Figuur 5.1: De genetische code
-
  5.1. Verschillende types mutaties
-
-67
-
 voor dan transities omdat in dat geval de structuur van het DNA sterk wijzigt
 (twee purines of pyrimidines binden aan elkaar, wat een kink in de DNA keten
 geeft).
@@ -3084,13 +1629,10 @@ Merk op dat grote delen van het genoom niet coderen voor genen. Slechts
 1.5 % van het DNA van de mens codeert voor genen. Vele puntmutaties in nietcoderende regio’s van het genoom hebben geen of een nauwelijks waarneembaar
 fenotypisch effect. Puntmutaties in niet-coderende regio’s van het genoom kunnen echter gelegen zijn in bindingssites voor RNA-polymerase. In dit geval
 wijzigt de hoeveelheid proteı̈ne maar niet de structuur van het proteı̈ne.
-
 degeneratie van de genetische code
 stille mutatie
 missense mutaties
-
 nonsense mutaties
-
 Indelmutaties
 De indelmutaties of insertie/deletiemutaties zijn mutaties waar één of meerdere basen worden toegevoegd of verwijderd. Bij een basenpaarinsertie wordt
 een basenpaar in de DNA-keten ingevoegd. Bij een basenpaardeletie wordt een
@@ -3107,21 +1649,11 @@ Voor elk gen bestaan echter vele mutante allelen, elk met een andere mutatie in
 het gen (zie figuur 5.3). Sommige van die mutaties hebben geen enkel effect op
 het proteı̈ne (vb. stille mutaties). Andere zijn conservatief en hebben weinig of
 geen effect. Dit kunnen mutaties zijn die leiden tot een ander aminozuur, maar
-
 indelmutaties
-
 leesraammutatie
-
- 68
-
 Hoofdstuk 5. Mutaties en herstel
-
 Figuur 5.2: Overzicht van gevolgen van verschillende puntmutaties op de aminozuursequentie in proteı̈nen
-
  5.1. Verschillende types mutaties
-
-69
-
 een aminozuur dat chemisch gelijkaardig is aan het oorspronkelijke aminozuur.
 Of dit kunnen mutaties zijn in aminozuren die geen deel uitmaken van een actief
 domein van het proteı̈ne. Uit onderzoek blijkt dat bepaalde regio’s in een gen
@@ -3148,10 +1680,8 @@ mutaties kunnen in het labo gehouden worden bij lage temperatuur zonder dat
 het organisme sterft. Bij hoge temperatuur komt de mutatie tot expressie en
 gaat het organisme dood. Bij het werken met temperatuurgevoelige letale mutaties is het van groot belang dat de temperatuur in het labo of in de incubatoren
 laag gehouden wordt (zie figuur 5.4).
-
 temperatuurgevoelige mutaties
 Siamese kat
-
 Suppressormutaties
 Wanneer een mutant fenotype door een nieuwe mutatie terug wild type wordt
 spreekt men van een suppressor mutatie. Dergelijke suppressor mutaties zijn
@@ -3162,26 +1692,14 @@ hetzelfde gen.
 veranderen in het oorspronkelijke codon. Bij een indelmutatie kan een
 tweede indelmutatie het oorspronkelijke leesraam terug herstellen. Het
 gen is in geval van een ’back mutation’ onmogelijk te onderscheiden van
-
 suppressor mutatie
-
 intragene suppressor
-
 ’back mutation’
-
- 70
-
 Hoofdstuk 5. Mutaties en herstel
-
 Figuur 5.3: Verschillende mutaties in een gen en de impact op het overeenkomstige
 proteı̈ne
-
 Figuur 5.4: Werken met temperatuurgevoelige mutanten
-
  5.2. Mutaties in meercellige organismen en kanker
-
-71
-
 het oorspronkelijke wild type gen, ook al heeft het twee keer een mutatie
 ondergaan.
 • Een andere mogelijkheid is dat een tweede mutatie in hetzelfde gen ervoor
@@ -3192,9 +1710,7 @@ Bij een extragene suppressor zorgt een mutatie in een ander gen ervoor
 dat het effect van de eerste mutatie ongedaan gemaakt wordt. Er kunnen vele
 mogelijke mechanismen zijn waardoor een mutatie in een ander gen de effecten
 van een mutatie in één gen ongedaan kunnen maken:
-
 extragene suppressor
-
 • Vele proteı̈nen vormen complexen met andere proteı̈nen. Een mutatie in
 het gen voor proteı̈ne A resulteert in een andere vorm, waardoor proteı̈ne
 A geen contact meer kan maken met proteı̈ne B. Wanneer er ook een
@@ -3211,11 +1727,7 @@ nonsense mutatie). Normaal wordt de translatie van het proteı̈ne dan
 onderbroken. Wanneer echter ook een tRNA muteert zodat het bindt aan
 het stop-codon en een aminozuur inbouwt in het proteı̈ne, dan kan de
 translatie toch doorgaan en wordt een functioneel proteı̈ne gevormd.
-
-5.2
-
 Mutaties in meercellige organismen en kanker
-
 Kiemlijn- en somatische mutaties
 Elk individu start als één enkele cel: de zygote. Deze zygote deelt zich in twee,
 de twee dochtercellen delen zich opnieuw in twee, enzovoort. Bij de mens moet
@@ -3229,21 +1741,12 @@ voortkomen uit een bepaalde cel kunnen daardoor eenzelfde mutatie bezitten.
 Het menselijk lichaam is daarom een genetische mozaı̈ek.
 De cellen in het menselijk lichaam kunnen opgedeeld worden in somatische
 cellen en kiemlijncellen (zie figuur 5.6). De somatische cellen maken deel
-
 genetische mozaı̈ek
 somatische cellen
-
- 72
-
 Hoofdstuk 5. Mutaties en herstel
-
 Figuur 5.5: Voorbeeld van een extragene suppressor mutatie door een mutatie in een
 interagerend proteı̈ne
-
  5.2. Mutaties in meercellige organismen en kanker
-
-73
-
 uit van het lichaam maar maken geen gameten. Het gevolg is dat mutaties
 in somatische cellen niet doorgegeven kunnen worden aan de nakomelingen.
 De kiemlijncellen staan in voor de vorming van de gameten. Mutaties in
@@ -3260,18 +1763,14 @@ zaadcellen produceren, waardoor het aantal delingen tussen zygote en vorming
 van zaadcel toeneemt met de leeftijd van de vader. Mannen geven daardoor veel
 meer mutaties door aan hun nakomelingen dan vrouwen, en het aantal mutaties
 dat doorgegeven wordt, neemt bovendien toe met de leeftijd.
-
 kiemlijncellen
-
 De celcyclus
 Eukaryote cellen moeten een vaste celcyclus doorlopen vooraleer ze mitose
 kunnen ondergaan. Deze celcyclus bestaat uit verschillende fasen.
 De interfase is de fase tussen twee celdelingen. De interfase bestaat uit 3
 stappen:
-
 celcyclus
 interfase
-
 • G1 is de groeifase, waarin de cel aangroeit en voldoende energie aanlegt
 om te kunnen delen. Deze fase kan bij bepaalde cellen lang duren. Een
 lange periode van rust in de G1-fase wordt ook een G0-fase genoemd. In
@@ -3280,9 +1779,7 @@ de G1- of G0-fase bestaan de chromosomen slechts uit één chromatide.
 waarna het twee chromatiden bezit.
 • G2 is de fase waarin de mitose voorbereid wordt.
 De celdeling zelf bestaat uit twee stappen:
-
 celdeling
-
 • In de eerste stap (de eigenlijke mitose) wordt het genoom verdeeld. Hierbij
 worden de chromatiden van elk chromosoom van elkaar gescheiden.
 • In de tweede stap of de cytokinese wordt de cel zelf in twee gedeeld,
@@ -3293,22 +1790,12 @@ onderzoek bij oöcyten van de kikker. Wanneer het cytoplasma van oöcyten die
 mitose ondergingen geı̈njecteerd werd in oöcyten die in rust waren, begonnen
 de oöcyten in rust ook mitose te ondergaan. Wanneer een oöcyt in mitose gefusioneerd werd met een oöcyt in rust begon de nucleus van de oöcyt in rust
 ook mitose te ondergaan. In beide gevallen activeerden de proteı̈nen uit het
-
 cytokinese
-
- 74
-
 Hoofdstuk 5. Mutaties en herstel
-
 Figuur 5.6: Mutaties in somatische en kiemlijkcellen
-
 Figuur 5.7: Invloed van leeftijd van de vader op het aantal mutaties dat doorgegeven
 wordt aan nakomelingen
-
  5.2. Mutaties in meercellige organismen en kanker
-
-75
-
 cytoplasma van de mitotische oöcyten de mitose in de rustende oöcyten. Een
 belangrijke groep van proteı̈nen die mitose op gang brengen zijn cyclines.
 Na verder onderzoek leerde men dat er diverse controlepunten bestaan in de
@@ -3324,11 +1811,8 @@ naburige cellen kunnen opvangen. Bij beschadiging van naburige cellen in
 het lichaam zullen de beschadigde cellen groeifactoren produceren die een
 signaal geven aan naburige cellen om te gaan delen, met als doel de schade
 te herstellen.
-
 cyclines
-
 groeifactoren
-
 • Op de overgang van G2/M beslist de cel om de mitose te starten. Dit
 complexe controlepunt kijkt of het genoom wel correct gerepliceerd is en
 of het genoom nog intact is (bijvoorbeeld of er geen breuken zijn in het
@@ -3353,19 +1837,10 @@ kunnen verstoren. Bij de controle van de celcyclus zijn vele proteı̈nen betrok
 Naarmate cellen in het lichaam ouder worden of wanneer ze blootgesteld worden
 aan stress-factoren, zullen deze cellen meer en meer mutaties opstapelen. Wanneer diverse genen die betrokken zijn bij de celcyclus muteren kan de controle
 over de celcyclus wegvallen, en dan kan het gebeuren dat deze gemuteerde cellen
-
 apoptose
-
- 76
-
 Hoofdstuk 5. Mutaties en herstel
-
 Figuur 5.8: Regulatie van de celcyclus
-
  5.2. Mutaties in meercellige organismen en kanker
-
-77
-
 in het lichaam ongecontroleerd gaan delen. Daardoor ontstaan opeenhopingen
 van cellen (tumoren) of kanker. Tumoren kunnen ontstaan (1) wanneer de
 celcyclus continu geactiveerd wordt, of (2) wanneer de remmingsmechanismen
@@ -3410,18 +1885,11 @@ genoom gerepliceerd en kunnen mutaties ontstaan. Hoe ouder een organisme wordt, 
 die een rol spelen in de celcyclus.
 • Geı̈nduceerde mutaties: de kans dat mutaties ontstaan in het genoom
 wordt beı̈nvloed door blootstelling aan mutagene stoffen (vb. tabaksrook),
-
 tumoren
-
 proto-oncogenen
-
 tumor-onderdrukkende
 genen
-
- 78
-
 Hoofdstuk 5. Mutaties en herstel
-
 straling (UV, radioactieve straling), bepaalde mutagene virussen,...
 • Erfelijk: wanneer bepaalde genen die betrokken zijn bij de celcyclus reeds
 gemuteerd waren in de zygote, is de kans groot dat fatale fouten zich
@@ -3430,9 +1898,7 @@ van een gen dat betrokken is bij de celcyclus bijvoorbeeld reeds mutant
 was in de zygote, is de kans groot dat ook het andere allel muteert tijdens
 het latere leven en dat de celcyclus verstoord wordt.
 Voorbeeld van een erfelijke vorm van kanker
-
 mitotische recombinatie
-
 Retinoblastoma is een tumor die zich ontwikkelt op het netvlies. Deze tumor
 wordt veroorzaakt door een mutatie in het gen Rb, een gen dat een rol speelt
 in de celcyclus. De mutatie is recessief, waardoor twee mutante kopieën van
@@ -3456,22 +1922,14 @@ Een mitotische recombinatie is een zeldzaam verschijnsel dat uitzonderlijk optre
 vindt stukuitwisseling plaats tussen chromatiden van twee verschillende homologe chromosomen in de diploı̈de cel. Het resulteert in recombinante cellen in
 bepaalde delen van het lichaam. Dit verschijnsel speelt vaak een rol bij tumoren
 veroorzaakt door recessieve mutaties.
-
-5.3
-
 Oorzaken van mutaties
-
 Spontane mutaties
 Mutaties kunnen ontstaan door het inbouwen van een verkeerde base tijdens de
 replicatie van DNA. Bij replicatie van DNA kunnen basen een fout paar vormen (vb. A · C i.p.v. A · T). Dit kan gebeuren wanneer een base een andere
 chemische vorm aanneemt of wanneer basen chemisch gewijzigd worden. Dergelijke fouten leiden meestal tot transities; transversies komen minder vaak voor.
 Dit komt omdat transversies een paring van twee purines of twee pyrimidines
 vereisen, wat leidt tot een ’kink’ in de DNA-keten. De basen in een nucleotide
-
  5.3. Oorzaken van mutaties
-
-79
-
 kunnen chemisch gewijzigd worden. Hierbij is het belangrijk te beseffen dat het
 milieu in de cel vaak chemisch agressief is. Het metabolisme van de cel vormt
 vrije zuurstofradicalen die de basen in het DNA kunnen beschadigen (vb. in
@@ -3499,11 +1957,8 @@ CAG herhalingen hebben een grotere kans om mutante nakomelingen te hebben
 met een extreem hoog (en wel problematisch) aantal herhalingen. De ziekte
 wordt daardoor erger van generatie op generatie. Ook andere afwijkingen bij de
 mens worden veroorzaakt door herhalingen van drie basenparen.
-
 trinucleotide herhalingen
-
 ziekte van Huntington
-
 Geı̈nduceerde mutaties
 Mutagenese is het bedoeld of onbedoeld ontstaan van mutaties door blootstelling
 aan bepaalde externe factoren, zoals chemische stoffen of radioactieve straling.
@@ -3516,28 +1971,19 @@ nemen de plaats in van een basenpaar in de DNA-helix. Ze kunnen leiden
 tot een indelmutatie van een enkel basenpaar. Aflatoxine B1 is één van de
 meest sterke mutagenen. Het is een intercalerende stof die bovendien de basen
 chemisch gaat wijzigen. Van aflatoxines is gekend dat ze vaak mutaties in het
-
 mutagenen
 base analogen
-
 intercalerende stoffen
-
- 80
-
 Hoofdstuk 5. Mutaties en herstel
-
 Figuur 5.9: Accumulatie van trinucleotide herhalingen door verkeerde paring
-
 p53 -gen veroorzaken, een gen dat belangrijke controle uitoefent op de celcyclus.
 Ook straling kan mutaties veroorzaken. UV-straling leidt tot een binding
 van twee opeenvolgende basen in een DNA-streng. Dit kan interfereren met
 de replicatie van DNA. Ioniserende straling kan dan weer breuken in de DNAketen veroorzaken of creëert zuurstofradicalen in de cel die het DNA kunnen
 beschadigen.
 De Ames-test: testen of nieuwe chemische stoffen mogelijk kankerverwekkend zijn
-
 carcinogeen
 Ames-test
-
 Mutaties in somatische cellen zijn vooral gevaarlijk wanneer ze optreden in genen die betrokken zijn bij de regulatie van de celcyclus. In dat geval kunnen
 mutaties kanker veroorzaken. Chemische stoffen die veel mutaties veroorzaken
 zijn daarom mogelijk kankerverwekkend of carcinogeen. Om nieuwe chemische substanties te testen op hun carcinogene werking maakt men gebruik van
@@ -3552,20 +1998,11 @@ afgebroken worden tot stoffen die wel mutageen zijn. Daarom worden de stoffen
 in de Ames-test blootgesteld aan leverextract vooraleer ze toegevoegd worden
 aan His− -stammen. Op die manier test men in de Ames-test ineens de chemische stof zelf en de afbraakproducten van die stof. Het leverextract dat wordt
 gebruikt in de Ames-test, is afkomstig van de lever van een rat.
-
-5.4
-
 Herstel van mutaties
-
 Zoals blijkt uit bovenstaande voorbeelden kunnen op talrijke manieren fouten
 sluipen in de DNA-code. Gelukkig is de cel in staat vele van deze fouten op
-
  5.4. Herstel van mutaties
-
-81
-
 Figuur 5.10: De Ames test
-
 te sporen en herstellen. Fouten die ontstaan tijdens de replicatie van het DNA
 worden vaak gedetecteerd en hersteld door DNA-polymerase zelf.
 Herstelmechanismen maken gebruik van het feit dat informatie in het genoom meerdere keren is opgeslagen. Ten eerste bestaat het DNA uit een dubbele keten. Wanneer er een fout sluipt in één streng, kan deze fout gecorrigeerd
@@ -3584,15 +2021,9 @@ Veel herstelmechanismen van het DNA zijn homologie-afhankelijk. Dit betekent
 dat ze kijken naar de homologe base in de dubbele DNA streng om de beschadigde base terug te vervangen door de juiste base. Het belangrijkste voorbeeld
 hiervan is base-excisie herstel. Hierbij wordt een beschadigde base weggeknipt
 van het nucleotide door een groep van enzymen die DNA-glycosilasen genoemd
-
 CPP-fotolyase
-
- 82
-
 Hoofdstuk 5. Mutaties en herstel
-
 Figuur 5.11: Herstel van fotodimeren door CPP-fotolyase
-
 worden. Deze DNA-glycosilasen herkennen specifieke beschadigingen van de
 basen, zoals methylatie, oxidatie, deaminatie of het verlies van een base. Na
 het wegknippen van de beschadigde base wordt een aantal naburige nucleotiden
@@ -3610,24 +2041,12 @@ de replicatie aan de nieuwe DNA-streng toegevoegd. Het foute-paring herstelmecha
 en te corrigeren. Een mutatie in het foute-paring herstelmechanisme leidt tot
 een toename in het aantal mutaties met een factor 100. Bepaalde erfelijke vormen van kanker (o.a. darmkanker) zijn te wijten mutaties in het foute-paring
 herstelmechanisme.
-
  5.4. Herstel van mutaties
-
 Figuur 5.12: Herstel van van foute basenparing na replicatie
-
-83
-
- 84
-
 Hoofdstuk 5. Mutaties en herstel
-
  Hoofdstuk 6
-
 Populatiegenetica
-6.1
-
 Wat is populatiegenetica?
-
 Allelenfrequentie
 De populatiegenetica bestudeert de genetische variatie in een populatie. Een
 populatie wordt gedefinieerd als een groep van organismen van een bepaalde
@@ -3635,12 +2054,8 @@ soort die zich onderling voortplanten. De allelenfrequentie in een populatie
 wordt gedefinieerd als de frequentie waarmee allelen voorkomen in een populatie
 (zie figuur 6.1). Bijvoorbeeld wanneer 80 % van de individuen genotype AA
 heeft, 10 % genotype Aa en 10 % genotype aa, dan komt de frequentie van allel
-A overeen met 0.85 (0.8 + 1/2 x 0.1) en de frequentie van allel a met 0.15 (1/2
-x 0.1 + 0.1).
-
 populatiegenetica
 allelenfrequentie
-
 Het principe van Hardy-Weinberg
 Hardy en Weinberg toonden aan dat de genetische variatie in een populatie
 van generatie tot generatie gelijk blijft als aan een aantal voorwaarden voldaan wordt (zie figuur 6.2). Het principe van Hardy-Weinberg stelt dat
@@ -3654,23 +2069,13 @@ voldaan worden aan de volgende vijf voorwaarden:
 • de populatie voldoende groot is (dit betekent dat er geen toevalseffecten
 meespelen)
 • er geen selectie optreedt
-85
-
 principe
 Weinberg
-
 van
-
 Hardy-
-
- 86
-
 Hoofdstuk 6. Populatiegenetica
-
 Figuur 6.1: Genotype- en allelenfrequentie in een populatie
-
 Afleiden van de allelenfrequentie uit de fenotypefrequentie
-
 Wanneer aan de Hardy-Weinberg voorwaarden voldaan is, kan de allelenfrequentie afgeleid worden uit de fenotypefrequentie. Stel een populatie voor met
 84 % zwarte katten (genotype BB of Bb) en 16 % witte katten (genotype bb).
 De frequentie van allel B in de populatie is q en de frequentie van allel b is p.
@@ -3691,26 +2096,16 @@ de fenotypefrequentie bij de vorige generatie. Wanneer de fenotypefrequentie
 afwijkt van deze die verwacht wordt volgens de allelenfrequentie of wanneer de
 allelenfrequentie wijzigt van een generatie naar de volgende generatie, kan dit
 een aanwijzing zijn dat er evolutie aan de gang is.
-
  6.2. Evolutie
-
-87
-
 Figuur 6.2: Het principe van Hardy-Weinberg: behoud van fenotype- en genotypefrequentie in een populatie
-
-6.2
-
 Evolutie
-
 Wat is evolutie?
 Wanneer de allelenfrequentie van een populatie verandert van de ene generatie
 naar de volgende generatie spreekt men van evolutie. Doordat de allelenfrequentie wijzigt zal ook de fenotypefrequentie van de populatie wijzigen. Indien
 de fenotypische eigenschappen van een populatie sterk verschillen van die van
 andere populaties kan een nieuwe soort ontstaan.
 Evolutie kan verschillende oorzaken hebben:
-
 evolutie
-
 • Mutaties
 • Gene flow
 • Niet-willekeurige paring
@@ -3726,19 +2121,12 @@ binnen een populatie. Indien dit nieuwe allel beter is dan andere allelen kan he
 allel door natuurlijke selectie snel algemeen worden in een populatie. Mutaties
 zorgen dus voor de nodige variatie om selectie haar werk te laten doen. Daarom
 zijn mutaties essentieel voor evolutie.
-’Gene flow ’
 Het fenomeen ’gene flow ’ is de migratie van allelen van één populatie naar
 een andere. Allelen kunnen van de ene naar de andere populatie migreren door
 migratie van individuen of door het verspreiden van gameten. Voorbeelden
 van migratie van individuen zijn vogels die van het vasteland naar een eiland
 migreren maar ook zaden van planten die verspreid worden door de wind of
-
-’gene flow ’
-
- 88
-
 Hoofdstuk 6. Populatiegenetica
-
 door dieren. Een voorbeeld van migratie van gameten is de verspreiding van
 pollenkorrels van planten door de wind of door insecten.
 ’Gene flow ’ kan er voor zorgen dat er nieuwe allelen in een populatie binnengebracht worden. Indien deze nieuwe allelen voor een betere adaptatie zorgen
@@ -3749,13 +2137,9 @@ populatie B waar dit allel algemener is. In dit geval zullen we een afwijking va
 het Hardy-Weinberg evenwicht waarnemen in populatie A. Wanneer gene flow
 tussen populaties wederzijds is zal dit leiden tot het verdwijnen van verschillen
 in alllelenfrequenties tussen populaties.
-
-6.2.1
 niet-willekeurige paring
 assortatieve paring
-
 disassortatieve paring
-
 Wanneer in een populatie niet-willekeurige paring optreedt kunnen ook afwijkingen op het Hardy-Weinberg evenwicht ontstaan. Er zijn twee types van
 niet-willekeurige paring. In geval van assortatieve paring zullen gelijkaardige
 fenotypes met elkaar paren (bijvoorbeeld witte katten zullen een witte partner
@@ -3764,17 +2148,11 @@ in dit geval, maar de allelenfrequentie blijft wel gelijk. Bij disassortatieve p
 witte katten verkiezen een zwarte partner). Dit resulteert in meer heterozygoten dan verwacht op basis van Hardy-Weinberg evenwicht. In dit geval wijzigt
 ook de allelenfrequentie doordat de individuen met het minst frequente allel in
 verhouding meer paren dan individuen met het dominante allel.
-
-6.2.2
 genetische drift
 stichter effect
-
 flessenhalseffect
-
 Niet-willekeurige paring
-
 Genetische drift
-
 In kleine populaties kan toeval er voor zorgen dat bepaalde allelen frequenter
 voorkomen dan andere. Het fenomeen genetische drift zorgt voor het verdwijnen van allelen uit een populatie door toeval.
 Een voorbeeld is het stichter effect, waarbij een populatie ontstaat uit een
@@ -3791,15 +2169,8 @@ Het flessenhalseffect (’bottleneck ’) ontstaat wanneer een populatie vrijwel
 volledig uitsterft en nadien opnieuw aangroeit vanuit een klein aantal individuen.
 Wanneer een groot deel van de populatie uitsterft, is het mogelijk dat bepaalde
 allelen uit de populatie verdwijnen.
-
  6.3. Evolutie door natuurlijke selectie
-
-6.3
-
-89
-
 Evolutie door natuurlijke selectie
-
 De theorie van Lamarck
 Darwin was niet de eerste die een theorie voorstelde voor evolutie. Voor hem
 hechte men geloof aan het Lamarckisme. Lamarck stelde dat een individu
@@ -3836,13 +2207,8 @@ Evolutie door natuurlijke selectie is een vorm van ’trial en error ’. Door
 mutaties wordt variatie gecreëerd. Selectie kiest de beste vormen er uit. Vergelijkbare processen vinden we terug in hoe onze maatschappij evolueert, hoe
 cultuur evolueert, hoe bedrijven evolueren. In de maatschappij, cultuur en bedrijven worden nieuwe ideeën of nieuwe producten gelanceerd. De ideeën of
 producten die veel succes hebben blijven over, andere verdwijnen.
-
 Lamarckisme
-
- 90
-
 Hoofdstuk 6. Populatiegenetica
-
 Darwin en Wallace communiceerden met elkaar over deze theorie. Wallace
 bevond zich echter in de de Molukken, een afgelegen eilandengroep in Indonesië.
 Hij schreef in 1958 een brief aan Darwin waarin hij zijn theorie uiteenzette. Darwin speelde al enige tijd met dezelfde ideeën. Darwin en Wallace publiceerden
@@ -3857,15 +2223,12 @@ publiceerde zijn werk in 1866. Mendel’s werk werd echter nooit opgemerkt door
 Darwin of Wallace.
 Voorwaarden voor evolutie door selectie
 natuurlijke selectie
-
 Het optreden van natuurlijke selectie vereist drie belangrijke voorwaarden:
 • Ten eerste moet er fenotypische variatie zijn tussen individuen in een
 populatie.
 • Ten tweede moet deze variatie het voortplantingssucces beı̈nvloeden.
 • Ten derde moet deze variatie erfelijkerfelijk zijn.
-
 artificiële selectie
-
 Om natuurlijke selectie te laten doorgaan is variatie in een populatie nodig. Maar natuurlijke selectie zorgt er voor dat deze variatie verdwijnt uit de
 populatie. Uiteindelijk blijven enkel de best aangepaste genotypes over.
 Natuurlijke selectie is niet synoniem met evolutie. Natuurlijke selectie kan
@@ -3886,11 +2249,7 @@ lichte muizen beter zichtbaar zijn in het donker tegen een donkere achtergrond.
 Hierdoor zullen lichte fenotypes verdwijnen uit de populatie en zal het allel voor
 de lichte vachtkleur langzaam verdwijnen uit de populatie. Uiteindelijke blijven
 enkel donkere muizen over. Wanneer de muizen echter leven in een omgeving
-
  6.3. Evolutie door natuurlijke selectie
-
-91
-
 met een lichte achtergrond zullen uilen sneller donkere fenotypes opmerken en
 dan kan selectie in de andere richting gaan.
 Ook de omgeving kan selectie veroorzaken. Vele organismen zijn aangepast
@@ -3902,7 +2261,6 @@ selectie teweegbrengen. Vele insecticiden dringen de cel binnen via specifieke
 membraanreceptoren. Wanneer een bepaald individu in een populatie een mutant gen bezit voor deze membraanreceptoren dan wordt het pesticide niet opgenomen en zal het insect resistent zijn tegen dit pesticide. Fenotypes met
 dergelijke mutante allelen kunnen heel snel dominant worden in een populatie
 omdat alle andere fenotypes uitgeroeid worden door het pesticide. De allelenfrequentie kan op die manier op korte tijd heel snel wijzigen in een populatie.
-
 ’Fitness’
 Natuurlijke selectie treedt op wanneer bepaalde fenotypes in een populatie meer
 nakomelingen voortbrengen dan andere. Dit reproductieve succes wordt de fitness genoemd. Fitness is een relatief begrip: het individu met de hoogte fitness
@@ -3921,19 +2279,11 @@ van het water (zie figuur 6.3). Grotere vrouwtjes schaatsenrijders leggen meer
 eieren maar leven ook minder lang terwijl kleine vrouwtjes minder eieren leggen
 maar langer leven. Daardoor hebben vrouwtjes met een gemiddelde grootte de
 hoogste fitness bij schaatsenrijders.
-
 Figuur 6.3: Bijdrage van overlevingskans en fertiliteit tot de ’fitness’ van een individu
-
 fitness
-
- 92
-
 Hoofdstuk 6. Populatiegenetica
-
 Seksuele selectie
-
 seksuele selectie
-
 Een voorbeeld waarbij de fitness niet bepaald wordt door de overlevingskans
 maar door het aantal nakomelingen is het geval van seksuele selectie. Seksuele
 selectie vinden we heel vaak terug in de dierenwereld. Mannetjesdieren zijn vaak
@@ -3974,11 +2324,7 @@ variaties in huidskleur, of variaties in secundaire geslachtskenmerken. Deze ver
 Een voorbeeld van evolutie door selectie bij de mens nemen we waar we bij
 lactose-tolerantie (zie figuur 6.4). Mensen kunnen normaal gezien enkel lactose
 verteren als zuigeling. De mogelijkheid om lactose te verteren verdwijnt vanaf
-
  6.4. Het behoud van variatie in een populatie
-
-93
-
 een leeftijd van ongeveer 4 jaar. Toch kunnen bepaalde volkeren als volwassene
 ook melk verteren. Voorbeelden vinden we in West-Europa, in de Arabische
 wereld en in de Sahel, niet toevallig bij volkeren die sterk afhankelijk zijn van
@@ -3995,11 +2341,7 @@ deze locatie bevonden zich enkele SNP’s die geassocieerd zijn met een variant
 van het EPAS1 gen. Dit gen wordt geactiveerd bij lage zuurstofconcentraties en
 zorgt er voor dat Tibetanen beter aangepast zijn aan het leven op grote hoogte.
 Deze variant van het gen vinden we trouwens ook terug bij duursporters.
-
-6.4
-
 Het behoud van variatie in een populatie
-
 Natuurlijke selectie resulteert in het verlies van genetische variatie uit een populatie. Er zijn echter enkele mechanismen waarmee variatie in een populatie
 behouden kan blijven.
 Frequentie-afhankelijke selectie
@@ -4009,19 +2351,12 @@ positieve frequentie-afhankelijke selectie worden zeldzame fenotypes weggeselect
 Predatoren zien honderden identieke vissen. Wanneer er één individu tussenzit
 dat opvalt, bijvoorbeeld doordat het lichter gekleurd is of groter is, zal dat de
 aandacht trekken van de predator en zal de predator dat individu selecteren.
-
 Figuur 6.4: Een puntmutatie leidt tot lactose-tolerantie
-
 positieve
 frequentieafhankelijke selectie
-
- 94
-
 negatieve
 frequentieafhankelijke selectie
-
 Hoofdstuk 6. Populatiegenetica
-
 Door dit mechanisme verdwijnt variatie uit een populatie: uiteindelijk blijven
 enkel de ’normale’ fenotypes over.
 Een negatieve frequentie-afhankelijke selectie treedt op wanneer afwijkende fenotypes bevoordeeld worden door natuurlijke selectie. Een voorbeeld
@@ -4032,9 +2367,7 @@ donker gekleurde exemplaren. Hierdoor de lichter gekleurde exemplaren bevoordeel
 van strategie verandert en de lichter gekleurde fenotypes verkiest. Op die manier verdwijnt een fenotype nooit volledig uit een populatie en blijft variatie
 behouden.
 Variabele selectie
-
 variabele selectie
-
 Doordat de omgevingscondities van jaar tot jaar kunnen verschillen kan een
 bepaald fenotype het ene jaar een hogere fitness hebben en het andere jaar een
 lagere fitness. Dit leidt tot variabele selectie. Dit zien we bijvoorbeeld bij
@@ -4045,10 +2378,8 @@ tussen El Nino en La Nina in de Stille Oceaan is het klimaat op de Galapagos
 eilanden zeer variabel. Deze schommelingen in het klimaat zorgen ervoor dat
 variatie met betrekking tot de snaveldikte in de populatie bewaard blijft.
 Heterozygoot voordeel
-
 heterozygoot voordeel
 sikkelcelanemie
-
 In sommige gevallen hebben heterozygoten een hogere fitness dan homozygoten.
 Daardoor kunnen beide allelen in de populatie blijven voorkomen, ook al zorgt
 een bepaald allel in homozygote toestand voor een lage fitness. Een bekend
@@ -4057,13 +2388,8 @@ en daardoor een lage fitness. Het sikkelcel-gen maakt heterozygoten of dragers
 van dit gen echter immuun tegen malaria. Bij heterozygoten worden de rode
 bloedcellen sikkelvormig van zodra een malariaparasiet erin binnendringt. De
 parasiet kan zich niet voortplanten in sikkelvormige cellen, waardoor de drager
-
 Figuur 6.5: Voorbeelden van positieve en negatieve frequentie-afhankelijke selectie
-
  6.5. Selectie op continue variatie
-
-95
-
 beschermt is tegen de ziekte. Sikkelcelanemie komt veel vaker voor in gebieden
 waar malaria endemisch is dan in andere gebieden. Omwille van de sterke selectiedruk die malaria uitoefent in tropische gebieden hebben heterozygoten in
 deze regio’s een veel hogere fitness dan homozygoten die het mutante allel niet
@@ -4072,11 +2398,7 @@ de populatie en blijft variatie met betrekking tot dit allel bestaan. In Afrika 
 op de 5 individuen heterozygoot en dus resistent tegen malaria. 1 op 100 is homozygoot en vertoont de ziekte. Bij Afro-Amerikanen is het mutante allel veel
 minder algemeen doordat de selectiedruk van malaria wegviel. Daar vertoont
 slechts 1 op 375 de ziekte.
-
-6.5
-
 Selectie op continue variatie
-
 Veel kenmerken vertonen een continue variatie en worden door meerdere genen
 beı̈nvloed (polygenen, zie hoger). Selectie kan in dit geval zorgen voor een
 verschuiving in de frequentiedistributie van dergelijke kenmerken (individuen in
@@ -4092,9 +2414,7 @@ een dikke snavel voeden zich met dikkere zaden. Soorten met een gemiddelde
 snavel kunnen niet efficiënt dikke zaden openen en zijn ook niet handig in het
 oppikken van kleine zaden. In de loop van de tijd zal deze soort zich wellicht
 opsplitsen in twee aparte soorten.
-
 disruptieve selectie
-
 Directionele selectie
 Het mechanisme van directionele selectie zorgt ervoor dat een bepaald extreem fenotype geselecteerd wordt over een minder extreem fenotype. Daardoor
 is er evolutie naar het extremere fenotype. Een voorbeeld is negatieve selectie voor kleine fenotypes, waardoor er een verschuiving in de populatie optreedt
@@ -4105,30 +2425,19 @@ aan artificiële selectie werd onderworpen. In dit experiment werden vliegjes d
 naar het licht vlogen systematisch weggevangen. Na enkele generaties nam de
 neiging van de vliegjes om naar het licht toe te vliegen al duidelijk af. Na verloop
 van tijd zouden vliegjes nauwelijks nog in de richting van het licht vliegen.
-
 directionele selectie
-
 Stabiliserende selectie
 Bij stabiliserende selectie heeft een gemiddeld fenotype een hogere fitness
 dan een extreem fenotype. Daardoor zal de variatie met betrekking tot het
-
 stabiliserende selectie
-
- 96
-
 Hoofdstuk 6. Populatiegenetica
-
 kenmerk afnemen. Een voorbeeld vinden we bij het geboortegewicht van baby’s
 bij de mens (zie figuur 6.6). Extreem kleine baby’s zijn vaak te zwak om te
 overleven. Grote baby’s kunnen vaak niet door het geboortekanaal, waardoor
 zowel moeder als kind de geboorte niet overleven. Door de sterke selectie tegen
 extreem grote en extreem kleine baby’s zal de variatie in gewicht bij geboorte
 kleiner en kleiner worden.
-
-6.6
-
 Grenzen aan selectie
-
 Er zijn uiteraard grenzen aan selectie. Dit komt omdat genen vaak pleiotroop
 zijn en dus meerdere aspecten van het fenotype beı̈nvloeden. Terwijl het ene
 aspect positief is voor de fitness kan het andere negatief zijn voor de fitness.
@@ -4148,18 +2457,10 @@ Genetici slagen er echter via selectie niet in vliegjes te creëren die systema
 grotere facetten hebben in hun linkeroog dan in hun rechteroog. De reden
 daarvoor is dat er geen gen verantwoordelijk is voor dit verschil in grootte
 tussen de facetten van beide ogen.
-
 Figuur 6.6: Stabiliserende selectie met betrekking tot het gewicht van baby’s bij de
 geboorte bij de mens
-
  6.7. Aanwijzingen voor evolutie
-
-6.7
-
-97
-
 Aanwijzingen voor evolutie
-
 Aanwijzingen voor natuurlijke selectie
 Tijdens zijn reis rond de wereld met de Beagle bezocht Darwin de Galapagos
 eilanden. Hij verzamelde er 31 vogelsoorten die onderling sterk verschilden.
@@ -4184,9 +2485,7 @@ berkenspanners vangen die een andere kleur hebben dan de ondergrond terwijl
 berkenspanners die dezelfde kleur hadden als de ondergrond vaak niet waargenomen werden. Vanaf de jaren 1970 verbeterde de luchtkwaliteit en keerden witte
 berkenspanners terug. Dit verschijnsel wordt ook wel industrieel melanisme
 genoemd.
-
 industrieel melanisme
-
 Aanwijzingen uit artificiële selectie
 Natuurlijke selectie kan onder laboratoriumcondities nagebootst worden door
 bijvoorbeeld bepaalde fenotypes uit een populatie te verwijderen. Een voorbeeld hiervan vinden we bij experimenten met Drosophila (zie figuur 6.7). Bij
@@ -4197,16 +2496,10 @@ verwijderen bekomt men al na een paar tientallen generaties twee subpopulaties
 die significant minder of meer borstels hebben op het achterlijf dan de oorspronkelijke populatie. De verschillen zijn zelfs zo groot dat men de populaties als
 aparte soorten zou moeten beschouwen.
 Een vorm van artificiële selectie nemen we ook waar bij de domesticatie van
-
 domesticatie
-
- 98
-
 Hoofdstuk 6. Populatiegenetica
-
 Figuur 6.7: Manipulatie van het aantal haren op het abdomen van Drosophila door
 artificiële selectie
-
 huisdieren en landbouwgewassen. Huisdieren en landbouwgewassen stammen af
 van wilde voorouders en werden gedurende de voorbije 10 000 jaar gedomesticeerd. Vaak verschillen ze vandaag de dag zeer sterk van hun wilde voorouders.
 Getuige hiervan zijn de verschillende hondenrassen, die over een periode van een
@@ -4218,9 +2511,7 @@ korte tijd door artificiële selectie ook een vos gedomesticeerd (de zilvervos)
 ander spectaculair voorbeeld van evolutie door artificiële selectie is de evolutie
 van maı̈s uit z’n wilde voorouder, de teosint.
 Aanwijzingen uit fossielen
-
 ’missing link’
-
 Ook fossielen leveren een bewijs van evolutie. Hoe verder we terug gaan in de
 tijd, hoe primitiever de kenmerken van de organismen worden. De fossielenbank
 levert bovendien een archief dat ons toelaat de loop van de evolutie te reconstrueren. Vaak vindt men in fossielen overgangsvormen tussen twee bekende
@@ -4228,9 +2519,7 @@ groepen. Men noemt dit een ’missing link’ of een ontbrekende schakel in de
 evolutie. Een voorbeeld van een ’missing link’ uit het dierenrijk is de Archaeopterix. Dit fossiel heeft kenmerken van zowel een vogel als een reptiel en vormt
 de ’missing link’ tussen de dinosaurussen (reptielen) en de vogels.
 Aanwijzingen uit de anatomie
-
 homologe structuren
-
 Ook de anatomie kan aanwijzingen leveren voor de evolutie. Heel vaak ontstaan
 nieuwe structuren uit bestaande structuren. Men noemt twee structuren die
 een verschillende functie maar een gelijkaardige oorsprong hebben homologe
@@ -4238,11 +2527,7 @@ structuren. Een voorbeeld zijn de vleugels van vleermuizen of de vinnen van
 walvisachtigen. Deze lijken wel op vleugels van vogels of vinnen van vissen, maar
 anatomisch onderzoek toont aan dat ze opgebouwd zijn uit de zelfde botten als
 de poten van zoogdieren. De vleugels van vleermuizen en vinnen van walvisachtigen zijn dus homoloog met de poten van andere zoogdieren. Anatomisch
-
  6.7. Aanwijzingen voor evolutie
-
-99
-
 onderzoek bewijst dus dat vliegende of zwemmende zoogdieren afstammen van
 verwanten die op het land leven.
 Tijdens de ontwikkeling doorloopt het embryo een bepaalde ontwikkeling in
@@ -4261,21 +2546,12 @@ de bedrading van een digitale camera op de lichtgevoelige chip ligt. Dit is het
 gevolg van de evolutie, waarbij een complex oog stap voor stap evolueerde uit
 lichtgevoelige cellen in de huid. Bij de octopus evolueerde het oog op een andere
 manier en werd een veel efficiënter ontwerp bekomen.
-
 ’recapitulatie theorie’
-
- 100
-
 Hoofdstuk 6. Populatiegenetica
-
  Hoofdstuk 7
-
 De genetica van bacteriën
 en virussen
-7.1
-
 Inleiding
-
 Bacteriën zijn ééncellige, microscopische organismen met een relatief eenvoudige
 celstructuur en levenscyclus. Bacteriën bezitten één enkel chromosoom dat klein
 en cirkelvormig is. Bacteriën hebben daarom slechts één kopie van elk gen. Ze
@@ -4302,16 +2578,9 @@ Wild-type klonen van bacteriën worden prototroof genoemd, wat wil zeggen dat z
 wordt ook het minimale medium genoemd. Auxotrofe mutanten zijn klonen die
 een bepaald nutriënt niet zelf kunnen aanmaken. Dergelijke auxotrofe mutanten hebben specifieke nutriënten in hun medium nodig om te kunnen groeien.
 Zo kunnen wild-type stammen van E. coli zelf lactose aanmaken (lac+ ) terwijl
-101
-
 prototroof
-
 auxotrofe mutanten
-
- 102
-
 Hoofdstuk 7. De genetica van bacteriën en virussen
-
 lac− mutanten geen lactose kunnen aanmaken en een toevoeging van lactose
 aan hun medium nodig hebben. Terwijl wild-type klonen gevoelig zijn voor antibiotica zijn bepaalde mutante klonen resistent tegen antibiotica. Resistentie
 tegen het antibioticum streptomycine wordt bijvoorbeeld weergegeven als strr ,
@@ -4320,17 +2589,10 @@ Aangezien bacteriën geen geslachtelijke voorplanting kennen werd er van
 uitgegaan dat bacteriën onderling geen genetisch materiaal kunnen uitwisselen.
 Toch zijn er een aantal mechanismen waarmee bacteriën in zeldzame gevallen
 toch genetisch materiaal kunnen uitwisselen.
-
-7.2
-7.2.1
-
 Conjugatie
 Het mechanisme van conjugatie
-
 De ontdekking van conjugatie
-
 conjugatie
-
 Omdat bacteriën zich reproduceren via celdeling kan in principe geen genetisch
 materiaal uitgewisseld worden tussen verschillende cellen. De dochtercellen zijn
 genetisch identiek aan de moedercel, tenzij tijdens de replicatie van het genoom
@@ -4347,13 +2609,9 @@ van opgeloste stoffen toeliet maar geen fysisch contact tussen bacteriën mogel
 maakte. Dit wees erop fysisch contact tussen individuele bacteriën vereist was
 voor het uitwisselen van genetisch materiaal.
 De F-factor of fertiliteitsfactor
-
 F-factor
-
 plasmide
-
 pili
-
 Niet alle bacteriestammen kunnen genetisch materiaal uitwisselen. De uitwisseling van genetisch materiaal bij E. coli wordt bepaald door de aanwezigheid
 van een erfelijke factor, de F-factor.Stammen die de F-factor bezitten zijn F+ stammen, stammen zonder de F-factor zijn F− -stammen. Stammen die deze
 F-factor bezitten kunnen genetisch materiaal doorgeven aan andere stammen
@@ -4365,18 +2623,12 @@ voorkomt. Het plasmide wordt samen met het chromosoom van de bacterie
 gerepliceerd en doorgegeven aan de nakomelingen. Het F-plasmide zorgt voor
 de vorming van pili (enkelvoud: pilus), uitstulpingen van de celwand waarmee
 een F+ -bacterie contact kan maken met een F− bacterie. Nadat de pili contact gemaakt hebben met een F− -bacterie wordt een enkelstrengige DNA kopie
-
  7.2. Conjugatie
-
-103
-
 gemaakt van het F-plasmide. Deze enkelstrengige kopie wordt via de pili doorgegeven naar de F− -bacterie. In de F− bacterie wordt de enkelstrengige streng
 DNA aangevuld met nucleotiden tot een dubbele DNA-streng. Het kopiëren
 van het plasmide begint steeds op hetzelfde punt, het punt O of de oorsprong
 van replicatie.
-
 punt O
-
 Hfr stammen
 Het F-plasmide kan ook ingebouwd worden in het bacteriële chromosoom. Plasmiden in het algemeen kunnen zich op diverse plaatsen in het genoom invoegen
 ter hoogte van specifieke sequenties, de insertiesequenties of IS. Plasmiden
@@ -4403,29 +2655,17 @@ Het exogenoot is een lineaire DNA-streng. Lineair DNA wordt in bacteriën
 niet gerepliceerd; enkel circulair DNA kan gerepliceerd worden. Het exogenoot
 gaat daarom bij de eerstvolgende celdeling verloren. Genen die gelegen zijn op
 het exogenoot kunnen wel overgebracht worden op het endogenoot door stukuitwisseling tussen endo- en exogenoot. Merk op dat hiervoor dubbele stukuitwis-
-
 Figuur 7.1: Het mechanisme van conjugatie bij bacteriën
-
 insertiesequenties
 excisie
 Hfr-stam
-
 exogenoot
 endogenoot
-
 partieel diploı̈d
-
- 104
-
 Hoofdstuk 7. De genetica van bacteriën en virussen
-
 seling vereist is. Enkele stukuitwisseling zou leiden tot een lineaire DNA-keten
 en die kan niet meer gerepliceerd worden.
-
-7.2.2
-
 Conjugatie en genkartering
-
 Ruwe genkartering via conjugatie
 Het doorgeven van het chromosoom van de donorbacterie gebeurt steeds vanuit
 een vast punt, namelijk het punt waar het F-plasmide in het chromosoom werd
@@ -4447,13 +2687,8 @@ is voor deze drie genen. Men selecteert vervolgens nakomelingen van de bacterie�
 De redenering is dat indien leu doorgegeven werd, de andere genen zeker ook
 doorgegeven werden, omdat die dichter bij het punt O gelegen zijn dan leu.
 Vervolgens wordt nagegaan welke van de andere genen samen met leu uitgewisseld werd met het endogenoot. Opdat arg en met samen met leu uitgewisseld
-
 Figuur 7.2: Recombinatie in bacteriën door middel van conjugatie
-
  7.3. Transformatie
-
-105
-
 werden met het endogenoot is stukuitwisseling vereist om het even waar ’rechts’
 van met. Dit is het geval voor het merendeel van de nakomelingen. De kans
 dat er stukuitwisseling optreedt net tussen leu en arg of tussen arg en met is
@@ -4464,11 +2699,7 @@ en tussen leu en met bepaald worden. Deze frequenties geven de afstand tussen
 leu en arg en tussen leu en met weer. De kans dat een nakomeling recombinant
 is voor leu en met, maar niet voor arg, is bijzonder klein, aangezien hiervoor
 een vierdubbele stukuitwisseling vereist is.
-
-7.2.3
-
 Gentransfer via plasmiden
-
 In Hfr-stammen is de F-factor meestal stabiel geı̈ntegreerd in het bacteriële
 genoom. Soms kan de F-factor het genoom verlaten en terug een F-plasmide
 worden. In zeldzame gevallen verlaat de F-factor het genoom niet op de correcte
@@ -4488,16 +2719,10 @@ Er bestaan niet alleen plasmiden voor resistentie tegen antibiotica, maar ook
 voor resistentie tegen zware metalen of voor de productie van toxines. In het
 genetisch onderzoek worden plasmiden gebruikt om stukjes DNA afkomstig van
 andere organismen te vermenigvuldigen in bacteriën.
-
-7.3
-
 ’superbugs’
-
 horizontale gentransfer
 R-plasmiden
-
 Transformatie
-
 Sommige bacteriën kunnen vrij DNA dat in het medium aanwezig is doorheen
 hun celwand opnemen. Dit DNA kan vervolgens recombinatie ondergaan met
 het genoom van de bacterie waardoor genen uitgewisseld kunnen worden. Indien
@@ -4506,21 +2731,11 @@ nieuw genotype. Dit proces wordt transformatie genoemd. In tegenstelling
 tot conjugatie is voor transformatie geen fysisch contact tussen twee bacteriën
 vereist.
 Transformatie werd ontdekt door Griffiths in een experiment met Streptococcus pneumoniae, de bacterie die longontsteking veroorzaakt. Van deze bac-
-
 transformatie
-
- 106
-
 Hoofdstuk 7. De genetica van bacteriën en virussen
-
 Figuur 7.3: Het gebruik van conjugatie voor genkartering bij bacteriën
-
 Figuur 7.4: Transfer van genen via het F plasmide
-
  7.4. Virussen
-
-107
-
 terie komen virulente stammen voor, die ernstige longontstekingen veroorzaken,
 en niet-virulente stammen die ongevaarlijk zijn. Infectie van muizen met een
 niet-virulente stam met gedode cellen van een virulente stam veroorzaakten in
@@ -4529,13 +2744,8 @@ stammen geı̈soleerd. De niet-virulente stammen hadden blijkbaar DNA van de
 dode virulente stammen opgenomen via transformatie. Op basis van vergelijkbare experimenten ontdekten Avery, MacLeod en McCarty dat transformatie
 teweeggebracht werd door DNA. Daarmee toonden ze aan dat DNA de drager
 van het erfelijke materiaal is.
-
-7.4
-7.4.1
-
 Virussen
 Bacteriofagen
-
 Lytische cyclus
 Bacteriofagen zijn virussen die parasiteren op bacteriën (zie figuur 7.5). Ze bestaan uit niet meer dan een DNA streng die omgeven is door een proteı̈nemantel.
 Ze kunnen zich niet zelfstandig voortplanten. Om virussen in leven te houden
@@ -4553,12 +2763,9 @@ talrijke nieuwe fagen gevormd zijn barst de celwand van de gastheer open en
 verspreiden de fagen zich om nieuwe bacteriën te infecteren. Dit proces wordt
 lysis of de lytische cyclus genoemd. Lysis is zichtbaar als lichtgekleurde vlekjes
 of plaques op petriplaten die bedekt zijn met een homogene laag van bacteriën.
-
 faag
-
 lytische cyclus
 plaques
-
 Lysogene cyclus
 Het genoom van de faag is circulair en kan zich net als een plasmide integreren
 in het genoom van de gastheer. Een faag die zich in het genoom van de bacterie
@@ -4570,34 +2777,21 @@ van de gastheer, net als plasmiden. Bij E. coli is dit bijvoorbeeld tussen de ga
 en bio genen. Wanneer de faag terug overgaat naar de lytische cyclus splitst het
 faag DNA zich terug uit het chromosoom van de gastheer en wordt het opnieuw
 een plasmide.
-
 profaag
 lysogene bacteriën
-
- 108
-
 Hoofdstuk 7. De genetica van bacteriën en virussen
-
 Figuur 7.5: De lytische en lysogene cyclus van een faag
-
 Recombinatie bij fagen
 Een bacterie kan door twee verwante fagen tegelijk geı̈nfecteerd worden. In
 dat geval kan recombinatie optreden tussen de twee fagen die tegelijk in de
 gastheercel aanwezig zijn. Recombinante fagen kunnen soms herkend worden
 aan nieuwe fenotypes in de vorm van de plaques. De frequentie van recombinatie
 kan gebruikt worden om het genoom van een faag in kaart te brengen.
-
-7.4.2
-
 Transductie
-
 Veralgemeende transductie
-
 veralgemeende
 tie
-
 transduc-
-
 Wanneer een faag lysis veroorzaakt wordt het DNA van de gastheer door de
 faag afgebroken tot talrijke kleine fragmenten. Wanneer de faag zich vormt zal
 de proteı̈nemantel normaal het DNA van de faag omgeven. Soms kan verkeerdelijk een DNA fragment van de gastheer opgenomen worden in plaats van het
@@ -4612,18 +2806,10 @@ kans samen via veralgemeende transductie overgebracht te worden. Bij veralgemeen
 Gespecialiseerde transductie
 Indien een faag overgaat tot een profaag nestelt het faag-DNA zich in het genoom van de gastheer. Soms gaat het uitsplitsen van de profaag uit het genoom
 verkeerd en worden een aantal naburige genen mee opgenomen in het faag plasmide. Deze genen kunnen dan doorgegeven worden naar een andere bacterie die
-
  7.5. Transposons
-
-109
-
 later door de faag geı̈nfecteerd wordt. Men spreekt in dit geval van gespecialiseerde transductie. Bij gespecialiseerde transductie kunnen enkel genen in
 de buurt van de insertiesequentie van de faag doorgegeven worden.
-
-7.4.3
-
 Retrovirussen
-
 Retrovirussen zijn virussen waarvan de genetische code bestaat uit een enkelstrengige RNA-keten. Wanneer een retrovirus een gastheer infecteert wordt
 het enkelstrengig RNA gekopieerd naar een dubbelstrengige DNA keten (zie figuur 7.6). Dit gebeurt door het enzyme reverse transcriptase. De code van
 dit reverse transcriptase ligt opgeslagen in de RNA-keten van het virus. De
@@ -4632,20 +2818,12 @@ gastheer en wordt dan een provirus genoemd. Vanuit het genoom van de gastheer wo
 nieuwe retrovirussen. Het RNA bevat tevens de code voor de mantelproteı̈nen
 die het retroviraal RNA omgeven. Het HIV of AIDS virus is het bekendste
 retrovirus.
-
-7.5
-
 gespecialiseerde transductie
-
 retrovirus
 reverse transcriptase
-
 provirus
-
 HIV of AIDS virus
-
 Transposons
-
 Mobiliteit van transposons
 Transposons zijn stukjes DNA die zich binnen een genoom kunnen verplaatsen.
 Het belangrijkste verschil met virussen is dat ze niet omgeven zijn door een
@@ -4669,30 +2847,16 @@ transposons worden aangemaakt om zich te kunnen verplaatsen in het genoom
 (niet-autonome elementen). Transposons vertonen zekere gelijkenissen met
 virussen. Ze lijken op virussen omdat ze gedeeltelijk gebruik maken van enzymen van de gastheer om zich te vermenigvuldigen. Bovendien is de manier
 waarop ze zich in het genoom integreren en zich er opnieuw uit losmaken vergelijkbaar met de overgang van faag naar profaag of van RNA-virus naar provirus.
-
 DNA-transposons
 transposase
-
 retrotransposons
-
 autonome elementen
-
 niet-autonome elementen
-
- 110
-
 Hoofdstuk 7. De genetica van bacteriën en virussen
-
 Figuur 7.6: De cyclus van een retrovirus
-
 Figuur 7.7: De cyclus van een DNA transposon
-
  7.5. Transposons
-
-111
-
 Figuur 7.8: De cyclus van een retrotransposon
-
 Ze verschillen van virussen doordat ze zich enkel binnen één enkele gastheercel
 voortplanten en niet tussen verschillende gastherencellen kunnen verplaatsen.
 DNA-transposons vertonen gelijkenissen met fagen, retrotransposons vertonen
@@ -4713,19 +2877,11 @@ C. Dit gen codeert in maı̈s voor de paarse kleur van zaden. Wanneer een transp
 gele maı̈skorrels. Wanneer een Ds-element de mutatie veroorzaakt wordt is ze
 stabiel en heeft men volledig gele maı̈skorrels. Wanneer een Ac-element de mutatie veroorzaakt is ze onstabiel en verschijnen paarse vlekken op de maı̈skorrels.
 Wanneer naast een Ds-element in het genoom ook een Ac-element aanwezig is
-
 onstabiele fenotypes
-
 repressor proteı̈nen
-
 Ac- en Ds-elementen
-
- 112
-
 P -elementen
-
 Hoofdstuk 7. De genetica van bacteriën en virussen
-
 wordt de Ds-mutatie ook onstabiel.
 Een ander voorbeeld van DNA-transposons zijn de P-elementen in Drosophila (zie figuur 7.10). Deze komen voor in wilde stammen van Drosophila maar
 niet in stammen die al sinds meer dan 50 jaar in het labo gekweekt worden. Men
@@ -4745,11 +2901,8 @@ een ♀ P-cytotype met een ♂ M-cytotype treden geen mutaties op omdat het
 repressor proteı̈ne dat aanwezig is in de eicel voorkomt dat de P -elementen zich
 verspreiden naar de chromosomen van de spermatozoı̈de.
 Toepassingen van transposons
-
 insertie mutaties
-
 Sleeping Beauty transposon
-
 Transposons hebben diverse toepassingen. Enerzijds kunnen ze gebruikt worden
 om nieuwe genen in te bouwen in een genoom. Men bouwt eerst het gen in in een
 transposon samen met een promotor die het gen tot expressie moet laten brengen. Het transposon wordt in het organisme gebracht en nestelt zich in in het
@@ -4772,14 +2925,9 @@ genen die een rol spelen bij bepaalde fenotypes te lokaliseren en karakteriseren
 Een veel gebruikt transposon is het Sleeping Beauty transposon. Dit
 transposon kwam voor in diverse vissoorten maar was al miljoenen jaren inactief doordat diverse mutaties zich hadden opgestapeld. Door sequenties van
 dit transposon in verschillende vissoorten te vergelijken kon men de oorspron-
-
  7.5. Transposons
-
-113
-
 Figuur 7.9: Mutaties veroorzaakt door autonome (Ac) en niet-autonome (Ds) DNA
 transposons in mais
-
 kelijke sequentie reconstrueren. Dit synthetische, gereconstrueerde transposon
 werd terug actief en wordt vandaag gebruikt voor gentherapie en voor insertie
 mutaties. Ook de P -elementen van Drosophila worden gebruikt voor insertie
@@ -4799,17 +2947,9 @@ zijn retrotransposons van ongeveer 6000 bp die zich verspreiden door middel van
 reverse transcriptase (21 %). SINE’s zijn niet-autonome transposons (13 %). Ze
 kunnen ingebed zitten in de LINE’s en zich mee met hen verplaatsen of ze kunnen gebruik maken van de enzymen van LINE’s om zich te verplaatsen. Een
 gekende SINE sequentie is Alu, genoemd naar het restrictieenzyme dat deze sequentie knipt. Daarnaast komen bij de mens in beperkte mate ook retrotranspo-
-
- 114
-
 Hoofdstuk 7. De genetica van bacteriën en virussen
-
 Figuur 7.10: P-elementen in Drosophila
-
  7.5. Transposons
-
-115
-
 sons met lange herhalingen (LTR’s, 8 %) voor en niet-actieve DNA transposons
 (3 %). In totaal bestaat 45 % van het menselijke genoom uit transposons.
 Transposons nemen 20 keer meer plaats in in het menselijke genoom dan
@@ -4832,24 +2972,13 @@ ook zijzelf ten onder. Daarom ontwikkelden ze mechanismen om zoveel mogelijk sch
 bij voorkeur invoegen in veilige havens (’safe havens’): plaatsen in het genoom
 waar ze weinig schade kunnen berokkenen. Bij grassen zijn deze veilige havens
 vaak andere transposons of het repetitief DNA van centromeren.
-
 SCID
-
 zelfzuchtig DNA
-
- 116
-
 Hoofdstuk 7. De genetica van bacteriën en virussen
-
  Hoofdstuk 8
-
 Genregulatie
-8.1
-8.1.1
-
 Inleiding
 Eukaryoten versus prokaryoten
-
 Het genoom bestaat uit talrijke genen die niet allemaal tegelijk actief zijn.
 Genregulatie verloopt verschillend bij prokaryoten en bij eukaryoten. Prokaryoten zijn ééncellige organismen. Genen worden bij prokaryoten geactiveerd of
 geı̈nactiveerd als respons op veranderingen in de omgeving. Deze veranderingen
@@ -4864,13 +2993,8 @@ verschillende types van cellen zullen ook verschillende genen geactiveerd worden
 Ook de eigenlijke mechanismen van genregulatie verschillen tussen prokaryoten en eukaryoten. Bij prokaryoten vindt regulatie vooral plaats op niveau van
 transcriptie. Bij eukaryoten wordt de gen-activiteit ook gestuurd via wijzigingen in de structuur van het chromatine, en via post-transcriptionele regulatie
 (translatie van mRNA naar proteı̈ne).
-
-8.1.2
-
 homeostasis
-
 Transcriptiefactoren
-
 Genen worden in de eerste plaats gereguleerd op het niveau van transcriptie: het
 kopiëren van DNA naar RNA door RNA polymerase. RNA polymerase bindt
 aan een specifieke sequentie stroomopwaarts van het gen, de promotor.
@@ -4878,17 +3002,10 @@ De regulatie van transcriptie gebeurt door middel van transcriptiefactoren. Deze
 de brede groeve van de DNA helix. De DNA helix hoeft zich hiervoor niet
 te ontdubbelen.Dit domein bindt specifiek aan een korte maar unieke sequentie van enkele basenparen in de DNA keten, vaak 6 tot 12 basen. Er bestaan
 verschillende klassen van transcriptiefactoren die elk een karakteristiek motief
-117
-
 promotor
 transcriptiefactoren
-
 motief
-
- 118
-
 Hoofdstuk 8. Genregulatie
-
 bezitten. Voorbeelden zijn het ”helix-turn-helix”motief, het homeodomein motief (dat een rol speelt in ontwikkeling bij Drosophila, zie hoofdstuk 8), het ”zinc
 finger”motief en het ”leucine zipper”motief. Soms vormen deze transcriptiefactoren dimeren, waardoor ze binden aan twee dicht bijeen gelegen sequenties in
 het DNA en daardoor veel specifieker zijn dan monomeren. Naast het DNA
@@ -4906,19 +3023,12 @@ genen. Daardoor is er niet noodzakelijk voor elk gen één specifieke transcri
 genen door te interageren met andere transcriptiefactoren. Ongeveer 10 % van
 de genen in ons genoom coderen voor transcriptiefactoren die de transcriptie
 van andere genen reguleren.
-
-8.2
-8.2.1
 operon
-
 promotor
-
 repressor
 negatieve controle
-
 Genregulatie bij prokaryoten
 Basisprincipes
-
 Bij prokaryoten zijn genen die betrokken zijn bij een bepaalde metabole keten
 vaak samen gegroepeerd in een operon. De transcriptie van een operon wordt
 aangestuurd door dezelfde transcriptiefactoren. Van het operon wordt één enkel
@@ -4940,14 +3050,9 @@ verhindert wordt een repressor genoemd. Regulatie door een repressor wordt
 negatieve controle genoemd omdat een repressor de transcriptie afremt.
 Stroomopwaarts van de promotor kunnen zich andere regulerende sequenties
 bevinden waaraan transcriptiefactoren kunnen binden. Dergelijke transcriptie-
-
  8.2. Genregulatie bij prokaryoten
-
-119
-
 Figuur 8.1: Structuur van helix-turn-helix transcriptiefactor en de interactie met een
 DNA dubbele helix.
-
 factoren kunnen de binding van RNA-polymerase aan de promotor versterken
 en daardoor de transcriptie activeren. Een transcriptiefactor die de transcriptie
 van een operon stimuleert wordt een activator genoemd. Regulatie door een activator wordt positieve controle genoemd omdat een activator de transcriptie
@@ -4961,12 +3066,9 @@ activator/repressor kan net loskomen van het DNA in aanwezigheid van een effecto
 transcriptie stimuleren doordat een activator bindt met DNA of doordat een
 repressor loskomt van DNA. Een effector kan transcriptie afremmen doordat
 een activator loskomt van DNA of doordat een repressor bindt met DNA.
-
 activator
 positieve controle
-
 effector
-
 Wanneer een operon standaard geı̈nactiveerd is en onder een bepaalde omstandigheid actief wordt spreekt men van inductie van het operon. Wanneer inductie
 een operon standaard actief is en onder een bepaalde omstandigheid geı̈nactiveerd
 wordt spreekt men van repressie. Anabole processen zijn in prokaryoten vaak repressie
@@ -4978,20 +3080,11 @@ Een voorbeeld is het lac-operon, dat standaard inactief is maar dat geı̈nducee
 wordt in aanwezigheid van lactose en afwezigheid van glucose. Inductie of repressie kunnen zowel door positieve (activator) als negatieve (repressor) controle
 gereguleerd worden. Een repressor kan dus zowel een rol spelen in inductie als
 in repressie. Hetzelfde geldt voor een activator.
-
- 120
-
 Hoofdstuk 8. Genregulatie
-
 Figuur 8.2: Positieve en negatieve controle van genexpressie door activator en repressor proteı̈nen
-
-8.2.2
-
 operator
 CAP-proteı̈ne
-
 Het lac operon
-
 Het lac-operon van E. coli bevat de genen die nodig zijn om lactose af te breken.
 Lactose is een disaccharide van galactose en glucose. E. coli verkiest echter glucose boven lactose. Het operon wordt daarom pas geactiveerd wanneer lactose
 aanwezig is en wanneer alle glucose op is.
@@ -5006,13 +3099,8 @@ Wanneer geen lactose aanwezig is bindt de repressor aan de operator. Daardoor wo
 Wanneer wel lactose aanwezig is wordt lactose omgezet in allolactose. Dit allolactose is de effector die bindt aan het repressor proteı̈ne. Dit zorgt voor een
 verandering in conformatie van de repressor en heeft als gevolg dat deze repressor loslaat van de operator, waardoor transcriptie kan starten. Wanneer lactose
 opgebruikt is zal er geen allolactose meer zijn en zal het repressor-proteı̈ne op-
-
 Figuur 8.3: Structuur van het lac-operon bij E. coli.
-
  8.2. Genregulatie bij prokaryoten
-
-121
-
 nieuw binden aan de operator, waardoor transcriptie terug stopt. Doordat lactose zorgt voor inductie van het lac-operon wordt lactose de inducer genoemd.
 Merk op dat lactose weliswaar een inducer is van het lac-operon maar dat het
 een repressor is die verantwoordelijk is voor het mechanisme van inductie.
@@ -5031,11 +3119,7 @@ voor repressie van het lac operon maar dat de CAP-activator verantwoordelijk
 is voor het mechanisme van repressie.
 Glucose zou nog op een tweede manier zorgen voor repressie van het lacoperon. Glucose verhindert namelijk dat lactose de cel binnendringt (inducer
 exclusie). Recent onderzoek suggereert dat dit het belangrijkste repressie mechanisme van glucose is.
-
-8.2.3
-
 Ontdekking van het lac operon door Jacob en Monod
-
 De werking van het lac-operon werd voor het eerst ontrafeld door Jacob en
 Monod kort na de tweede wereldoorlog. Jacob en Monod wisten uit eerdere
 experimenten dat E. coli pas lactose gebruikt wanneer alle glucose is opgebruikt.
@@ -5055,19 +3139,11 @@ wordt een blauwe kleurstof vrijgesteld. X-gal stelde Jacob en Monod in staat
 om visueel te zien of het lac-operon al dan niet geactiveerd was (of beter gezegd
 of er β-galactosidase gevormd werd). X-gal wordt nog steeds zeer veel gebruikt
 in moleculaire biologie, bijvoorbeeld om na te gaan of transformatie succesvol
-
 inducer
-
 cAMP
-
- 122
-
 Hoofdstuk 8. Genregulatie
-
 Figuur 8.4: Regulatie van het lac-operon bij E. coli.
-
 constitutieve mutanten
-
 is door het β-galactosidase samen met een gen in een genoom in te voegen bij
 transformatie (’blue white screening’).
 Om te onderzoeken hoe het lac-operon geactiveerd wordt gingen Jacob en
@@ -5091,11 +3167,7 @@ mutante allel I − recessief is ten opzichte van het wild type I + . Dit wijst 
 negatieve controle door een repressor.
 Jacob en Monod formuleerden de hypothese dat het gen I een proteı̈ne voortbrengt dat bindt aan een operator sequentie in het DNA en daardoor de transcriptie van het operon verhindert. De I − -mutatie had als gevolg dat het proteı̈ne
 niet langer bindt aan de operator, waardoor het operon continu geactiveerd is.
-
  8.2. Genregulatie bij prokaryoten
-
-123
-
 Ze redeneerden dat de binding tussen het proteı̈ne en de operator ook verstoord
 zou moeten worden door een mutatie in de operator sequentie. Ook dit zou een
 constitutieve mutatie opleveren. Dergelijke mutaties zijn veel zeldzamer omdat
@@ -5122,17 +3194,10 @@ proteı̈ne kan genen reguleren die op het zelfde chromosoom liggen als het chro
 op F -plasmide in geval van bacteriën). Mutaties in regulerende regio’s in het
 DNA, zoals de operator sequentie, zijn cis-werkend . Dergelijke mutaties hebben enkel een invloed op de regulatie van genen die op het zelfde chromosoom
 liggen als het chromosoom waarop de mutatie gelegen is.
-
-8.2.4
-
 super-repressor mutaties
-
 trans-werkend
-
 cis-werkend
-
 Het trp operon
-
 Het trp-operon bevat alle genen die vereist zijn voor de synthese van het aminozuur tryptofaan. Stroomopwaarts van de coderende regio bevindt zich een
 regulerende regio met daarin de promotor en een operator waaraan een repressor bindt. Het gen van deze repressor bevindt zich buiten het operon.
 Aangezien tryptofaan essentieel is voor de vorming van proteı̈nen is het trpoperon standaard geactiveerd. Wanneer de cel echter voldoende tryptofaan
@@ -5143,22 +3208,12 @@ operator van het operon. Men spreekt van repressie van het trp-operon door
 tryptofaan. Tryptofaan is de co-repressor (zie figuur 8.5). Wanneer tryptofaan
 uit de omgeving verdwijnt zal de repressor terug loskomen van het operon. Dit
 mechanisme wordt geen inductie genoemd maar derepressie.
-
 co-repressor
 derepressie
-
- 124
-
 Hoofdstuk 8. Genregulatie
-
 Figuur 8.5: Regulatie van het trp-operon bij E. coli.
-
-8.3
-8.3.1
-
 Genregulatie bij eukaryoten
 Basisprincipes
-
 Genregulatie bij eukaryoten is veel complexer dan bij prokaryoten. In tegenstelling tot prokaryoten zijn genen bij eukaryoten standaard inactief. Er zijn
 een veel groter aantal proteı̈nen actief bij de activatie van transcriptie, niet
 alleen transcriptiefactoren maar ook andere proteı̈nen. Het DNA van eukaryoten heeft een complexe driedimensionale structuur (nucleosomen, chromatine)
@@ -5166,23 +3221,15 @@ en deze structuur bepaalt mee of genen al dan niet geactiveerd kunnen worden. Bi
 mRNA (in de nucleus) en translatie van dit mRNA (in het cytoplasma). Bij
 eukaryoten kan ook regulatie op het niveau van RNA de activiteit van genen
 reguleren.
-
-8.3.2
 initiatiecomplex
 algemene transcriptiefactoren
-
 Activatie van transcriptie door RNA polymerase
-
 De transcriptie bij eukaryoten wordt geactiveerd door het initiatiecomplex.
 Dit initiatiecomplex bevat RNA-polymerase II (dat bij eukaryoten voor transcriptie van de meeste genen zorgt), algemene transcriptiefactoren en TAF’s
 (”transcription associated factors”). Dit initiatiecomplex bindt aan de promotor
 van het gen. Deze promotor bestaat uit verschillende korte sequenties waaraan
 verschillende specifieke transcriptiefactoren binden. Deze specifieke transcriptiefactoren worden aangeduid als TFII (”transcription factor RNA-polymerase
-
  8.3. Genregulatie bij eukaryoten
-
-125
-
 II”). RNA-polymerase II kan op zich niet binden aan de promotor maar interageert rechtstreeks of onrechtstreeks met de transcriptiefactoren. De belangrijkste is TFIID, die bindt aan de TATA-sequentie die deel uit maakt van de
 promotor van de meeste genen. Van zodra dit initiatiecomplex gevormd is kan
 transcriptie doorgaan, maar slechts op een beperkt niveau.
@@ -5196,16 +3243,10 @@ Op die manier ontstaat het transcriptiecomplex (zie figuur 8.6). Doordat
 het transcriptiecomplex bestaat uit vele proteı̈nen die elk kunnen reageren op
 onafhankelijke signalen is een zeer nauwkeurige regulatie van de transcriptie
 mogelijk.
-
-8.3.3
-
 specifieke transcriptiefactoren
 enhancer
-
 transcriptiecomplex
-
 Regulatie op niveau van chromatine
-
 Wijzigingen in de structuur van het chromatine
 Delen van het genoom kunnen geactiveerd of geı̈nactiveerd worden door de
 structuur van het chromatine te wijzigen: euchromatine is actief terwijl heterochromatine inactief is. Euchromatine heeft een lossere structuur waardoor
@@ -5231,21 +3272,11 @@ Deze methylatie zorgt er voor dat transcriptiefactoren niet kunnen binden met
 een enhancer of promotor. De methylatie wordt bij de replicatie van het DNA
 overgenomen. Het resultaat is dat genen in bepaalde cellen geactiveerd of
 geı̈nactiveerd kunnen worden.
-
 positie effect variëgatie
-
- 126
-
 Hoofdstuk 8. Genregulatie
-
 Figuur 8.6: Structuur van het transcriptiecomplex van eukaryoten.
-
 Figuur 8.7: Positie effect variëgatie bij Drosophila
-
  8.3. Genregulatie bij eukaryoten
-
-127
-
 Bij de vorming van de gameten worden bepaalde genen in het genoom van
 de gameet gemethyleerd. Deze genen worden weliswaar doorgeven aan de nakomelingen maar zullen in deze nakomelingen inactief zijn. Dit fenomeen wordt
 ook genomische imprinting genoemd. Genomische imprinting verschilt tussen vader en moeder. Via genomische imprinting kan een ouder bepaalde genen
@@ -5273,11 +3304,7 @@ normale personen wordt de genomische imprinting van de vader gecompenseerd
 door die van de moeder. Als gevolg van de deletie heeft enkel de vader of enkel
 de moeder invloed op de activiteit van deze genen. Dit toont aan dat imprinting
 van genen door de vader en de moeder compleet verschillen.
-
-8.3.4
-
 Post-transcriptionele regulatie
-
 Het feit dat de transcriptie van RNA in de nucleus gescheiden is van de translatie
 door ribosomen in het cytoplasma geeft extra mogelijkheden voor genregulatie
 door het RNA te wijzigen.
@@ -5290,26 +3317,15 @@ gen, lin-4, dat een grote invloed had op de ontwikkeling van C. elegans. Een
 mutatie in dit gen zorgde voor een verkeerde timing van de ontwikkeling (heterochronie). Wanneer het gen later werd geı̈soleerd ontdekte men dat dit gen
 niet codeerde voor een proteı̈ne. Transcriptie van het gen resulteerde in een
 RNA van 61 nucleotiden, dat later werd omgezet in een RNA van slechts 21
-
 genomische imprinting
-
 epigenetica
-
 Prader-WilliAngelman-syndroom
-
 en
-
- 128
-
 Hoofdstuk 8. Genregulatie
-
 Figuur 8.8: Genomische inprenting en het Prader-Willi en Angelman syndroom
-
 RNA-interferentie
 miRNA
-
 siRNA
-
 nucleotiden. Deze sequentie bleek complementair te zijn met een sequentie in
 een ander ontwikkelingsgen dat eveneens zorgde voor een heterochrone mutatie, lin-14. Men concludeerde dat een binding tussen deze twee complementaire
 RNA strengen resulteerde in een inhibitie van de translatie. Dit mechanisme
@@ -5333,32 +3349,18 @@ dan miRNA. Ze kunnen zeer sterk variëren in lengte. Eén dubbele streng RNA
 kan bovendien aanleiding geven tot meerdere siRNA’s. siRNA wordt ook in
 biotechnologisch onderzoek gebruikt om genen uit te schakelen.
 RNA-interferentie speelt ook een rol bij het onderdrukken van retrotransposons en retrovirussen. Nieuwe retrotransposons of retrovirussen bouwen zich
-
  8.3. Genregulatie bij eukaryoten
-
 Figuur 8.9: Inhibitie van translatie van mRNA door miRNA.
-
-129
-
- 130
-
 Hoofdstuk 8. Genregulatie
-
 in op willekeurige plaatsen in het genoom. In het genoom bevindt zich een picluster. Wanneer een retrotransposon of -virus zich in-nestelt in dit pi-cluster
 zal een verdediging geactiveerd worden. Dit pi-cluster maakt piRNA aan en dit
 piRNA zorgt voor het onderdrukken van het RNA van het transposon.
-
 pi-cluster
-
 Modificaties van RNA
-
 translatie
 proteı̈nen
-
 polyadenylatie
-
 repressor
-
 Het mRNA dat gevormd is na transcriptie wordt gemodificeerd voorafgaand aan
 translatie. De introns worden verwijderd tijdens het splicing proces en enkel de
 exons blijven over. Het mRNA afkomstig van één enkel gen kan op verschillende manier gespliced worden. Daardoor kan één gen meerdere verschillende
@@ -5384,18 +3386,10 @@ Ook de snelheid waarmee mRNA wordt afgebroken vormt een mechanisme
 van genexpressie. De afbraak van mRNA wordt gereguleerd door de 3’ poly(A)staart aan het 3’-uiteinde van het mRNA (polyadenylatie). Hoe langer deze
 poly(A)-staart, hoe langer het duurt voor het mRNA wordt afgebroken en hoe
 sterker de expressie van het overeenkomstige gen.
-
 Figuur 8.10: Alternatieve splicing van het mRNA van het gen dat codeert voor de
 proteı̈nen calcitocine en CGRP.
-
  8.3. Genregulatie bij eukaryoten
-
-8.3.5
-
-131
-
 Regulatie van proteı̈ne afbraak
-
 De expressie van een gen kan ook gereguleerd worden door de snelheid waarmee
 het overeenkomstige proteı̈ne wordt afgebroken. Een snelle afbraak betekent een
 zwakke expressie, terwijl een tragere afbraak resulteert in een sterkere expressie.
@@ -5404,23 +3398,13 @@ Een proteı̈ne dat door het proteasoom afgebroken dient te worden wordt vooraf
 gemerkt met ubiquitine, een klein proteı̈ne van 76 aminozuren. Ook eiwitten
 die verkeerd gevouwen of gedenatureerd zijn of die polymeren vormen worden
 gemerkt met ubiquitine en vervolgens afgebroken door het proteasoom.
-
 proteasoom
 ubiquitine
-
- 132
-
 Hoofdstuk 8. Genregulatie
-
 Figuur 8.11: Ubiquitinatie en afbraak van proteı̈nen door het proteasoom.
-
  Hoofdstuk 9
-
 Ontwikkelingsgenetica
-9.1
-
 Inleiding
-
 Het menselijk lichaam is opgebouwd uit ongeveer 1014 cellen. Deze cellen zijn allemaal genetisch identiek (met uitzondering van enkele eventuele somatische mutaties). Het menselijk lichaam bestaat echter uit 210 verschillende types cellen.
 Deze cellen bezitten dezelfde genen, maar in elk celtype zijn andere combinaties
 van genen actief. Deze specifieke genen geven elk celtype een verschillende vorm
@@ -5430,18 +3414,8 @@ De zygote heeft de vorm van de eicel en is dus radiaal symmetrisch. Tijdens de o
 een voor- en achterkant, een boven- en onderzijde en een reeks segmenten
 (patroonvorming). In een volgend stadium zullen deze verschillende delen van
 het lichaam op een eigen manier ontwikkelen en vorm krijgen (morfogenese).
-
-9.2
-9.2.1
-
-celdifferentiatie
-
-patroonvorming
-morfogenese
-
 Celdeling
 Van zygote naar embryo
-
 De zygote is een bijzonder grote cel. Kort na de bevruchting zal de zygote talrijke celdelingen ondergaan zonder dat de cel in grootte toeneemt. De talrijke
 kleine cellen die ontstaan in dit vroege embryonale stadium worden blastomeren genoemd. Deze delingen van de zygote vinden kort na elkaar plaats,
 in sommige organismen soms met slechts enkele minuten tussen twee opeenvolgende celdelingen. De celcyclus verloopt dus bijzonder snel. Hierbij speelt
@@ -5451,30 +3425,19 @@ het cycline terug afgebroken. Daardoor kunnen de G1 en G2 fasen van de celcyclus
 te nemen. De sturing van de eerste delingen van de zygote is dus maternaal
 bepaald omdat ze gestuurd wordt door mRNA dat gevormd werd door de eicel
 voordat de eicel bevrucht was door de zaadcel.
-133
-
+celdifferentiatie
+patroonvorming
+morfogenese
 blastomeren
-
 cycline
-
- 134
-
-9.2.2
-
 Hoofdstuk 9. Ontwikkelingsgenetica
-
 Embryonale ontwikkeling in ongewervelden
-
 De cellen van het blastomeer zullen later onderdeel worden van verschillende delen van het lichaam. Bij de nematode Caenorhabditis elegans is de bestemming
 van elke cel gekend (zie figuur 9.1). C. elegans is slechts 1 mm lang en bestaat
 uit exact 959 cellen. Sommige cellen krijgen hun definitieve bestemming reeds
 na 8 celdelingen, andere pas na 14 celdelingen. Sommige cellen zijn voorbestemd
 om kort na hun ontstaan terug af te sterven.
-
-9.2.3
-
 stamcellen
-
 Bij gewervelde dieren ligt de bestemming van de blastomeren niet vast. Bij
 gewervelde dieren speelt de positie van een cel in het embryo een belangrijke
 rol bij de bestemming van deze cel. Cellen die vooraan gelegen zijn zullen deel
@@ -5490,49 +3453,28 @@ Bij gewervelde dieren vormen de blastomeren een holle sfeer die de blastocyst ge
 zich ontwikkelen tot de placenta, terwijl de cellen aan de binnenzijde zullen
 uitgroeien tot het embryo. Deze cellen binnenin de blastocyst worden de embryonale stamcellen genoemd (zie figuur 9.2). Deze zijn totipotent en kunnen
 zich ontwikkelen tot om het even welk weefseltype.
-
-9.2.4
 meristemen
-
 Embryonale ontwikkeling in gewervelden
-
 Ontwikkeling bij planten
-
 Bij planten vindt groei plaats in specifieke regio’s van de plant: de meristemen.
 Deze zijn gelegen in de wortel- en stengeltoppen. Planten kunnen blijven groeien
 ter hoogte van deze meristemen en kunnen zich daardoor aanpassen aan de
 omgeving. Typisch voor plantencellen is dat ze hun hele leven totipotent blijven.
 Bij verwonding kan een parenchymcel daardoor differentiëren tot een schorscel
 of tot vaatweefsel.
-
-9.3
-9.3.1
-
 Celdifferentiatie
 Celbestemming en celdifferentiatie
-
 Tijdens de ontwikkeling van het embryo zullen identieke cellen zich differentiëren
 in verschillende celtypes. Dit gebeurt doordat verschillende genen geactiveerd
 worden. Deze genen zullen de vorm en functie van de cel bepalen. Bij de mens
 kunnen daardoor 210 verschillende celtypes gevormd worden. Celbestemming
 en celdifferentiatie zijn in principe onomkeerbaar.
-
  9.3. Celdifferentiatie
-
 Figuur 9.1: Ontwikkeling van zygote tot volwassen individu bij C. elegans
-
 Figuur 9.2: Isolatie van embryonale stamcellen uit een blastocyst
-
-135
-
- 136
-
 celbestemming
-
 differentiëren
-
 Hoofdstuk 9. Ontwikkelingsgenetica
-
 Tijdens de ontwikkeling van het embryo krijgt elke cel een celbestemming.
 Dit gebeurt op moleculair niveau: bepaalde genen worden geactiveerd en andere
 worden geı̈nactiveerd. Dit proces vindt vaak in meerdere stappen plaats. Eerst
@@ -5546,11 +3488,7 @@ transplantatie-experimenten. Wanneer cellen achteraan het embryo uit een
 vroeg-gastrula stadium van een amfibie getransplanteerd worden naar de voorzijde van het embryo zullen ze zich ontwikkelen tot een deel van de kop (zie
 figuur 9.3). In het laat-gastrula stadium zullen ze zich echter verder ontwikkelen tot een staart, die dan ingeplant is op de kop. In een vroeg stadium zijn
 deze cellen niet gedifferentieerd, in een later stadium wel.
-
-9.3.2
-
 Moleculaire mechanismen van celbestemming en celdifferentiatie
-
 Tijdens de ontwikkeling zullen in bepaalde cellen transcriptiefactoren geactiveerd worden die de patronen van genexpressie zullen wijzigen. Het specifieke
 patroon van genexpressie zal de toekomstige bestemming van een cel bepalen.
 De genexpressie kan gestuurd worden door (1) bepaalde stoffen afkomstig van
@@ -5579,24 +3517,15 @@ de blastula een bepaald proteı̈ne uitscheiden: de ’fibroblast growth factor�
 FGF. Deze bindt aan receptoren in de plasmamembraan van naburige cellen.
 Cellen die deze FGF detecteren zullen in het 64-cellig stadium bestemd worden
 tot notochord (vooraan in het embryo, geen macho-1 ) of mesenchym (achteraan
-
  9.3. Celdifferentiatie
-
-137
-
 Figuur 9.3: Het bepalen van de celbestemming door middel van transplantatie experimenten
-
 in het embryo, wel macho-1 ). Niet-aangrenzende cellen binden geen FGF en
 differentiëren later in zenuwcellen (vooraan in het embryo, geen macho-1 ) of
 spiercellen (achteraan in het embryo, wel macho-1 ). De centrale cellen die FGF
 vormden vormen later het endoderm. De bestemming van een cel wordt hier
 dus zowel bepaald door de aanwezigheid van maternaal mRNA in de eicel als
 door de positie van de cel ten opzichte van andere cellen.
-
-9.3.3
-
 Klonen
-
 Bij planten blijven cellen totipotent. Daardoor kan een gedifferentieerde cel van
 een volgroeide plant opnieuw uitgroeien tot een nieuwe plant. Planten kunnen
 dus vrij eenvoudig gekloond worden.
@@ -5604,24 +3533,14 @@ Doordat differentiatie van cellen bij dieren in de regel onomkeerbaar is, is
 klonen van dieren of mensen niet vanzelfsprekend. Men kan bij dieren klonen vormen door blastomeren in een vroeg embryonaal stadium te scheiden.
 Daardoor worden identieke twee- of meerlingen gevormd. Al vroeg hebben wetenschappers getracht ook volwassen dieren te klonen. Wanneer een nucleus
 van een volwassen dierlijke cel ingeplant wordt in een eicel waaruit de nucleus
-
 Figuur 9.4: Celbestemming in een vroeg embryonaal stadium van een tunicaat
-
- 138
-
 reproductief klonen
-
 ’somatic
 transfer’
-
 cell
-
 nuclear
-
 therapeutisch klonen
-
 Hoofdstuk 9. Ontwikkelingsgenetica
-
 verwijderd werd, zal deze eicel zich ontwikkelen tot een embryo. Dit embryo
 sterft echter meestal in een vroeg stadium. Wanneer hetzelfde experiment uitgevoerd wordt met een nucleus van een cel uit een jong embryonaal stadium zal
 het embryo zich vaak wel normaal ontwikkelen.
@@ -5651,21 +3570,11 @@ klonen met behulp van embryonale stamcellen is in vele landen niet toegestaan
 naar klonen (China, Thailand, Zuid-Korea). Deze beperkingen belemmeren het
 ontwikkelen van stamceltherapie. Recente experimenten suggereren echter dat
 volwassen stamcellen een alternatief kunnen bieden voor embryonale stamcellen (vb. pluripotente stamcellen uit beenmerg). Hierdoor kan het gebruik van
-
 Figuur 9.5: Reproductief klonen door somatische cel transfer
-
  9.4. Patroonvorming
-
-139
-
 embryonale stamcellen in de toekomst misschien vermeden worden.
-
-9.4
-9.4.1
-
 Patroonvorming
 Ontwikkeling van een zygote tot larve in Drosophila
-
 Een eicel is in essentie een radiaal symmetrische cel en heeft dus geen voor- of
 achterzijde of boven- of onderzijde. Na de bevruchting dient de zygote zich echter te ontwikkelen tot een organisme dat wel een duidelijke voor- en achterzijde,
 en boven- en onderzijde bezit. Vele dieren ontstaan bovendien uit een bouwplan
@@ -5683,25 +3592,15 @@ met elk één nucleus. Van zodra aparte cellen gevormd worden spreekt men
 van een cellulair blastoderm stadium. De nuclei worden pas vanaf dit cellulair
 blastoderm stadium actief (d.w.z. dat ze pas vanaf het cellulaire blastoderm
 stadium RNA beginnen aan te maken).
-
-9.4.2
-
 Voor/achter as in Drosophila
-
 De voedingscellen rond het blastoderm geven mRNA van de Bicoid - en Nanosgenen door aan eicel (zie figuur 9.8). Het Bicoid -mRNA wordt door microtubuli
 in de eicel naar voorkant van eicel getransporteerd, dicht bij de voedingscellen. Het Nanos-mRNA wordt door microtubuli naar achterkant van de eicel
 getransporteerd, die gesitueerd is weg van de voedingscellen. Onmiddellijk na
 de bevruchting treedt translatie op van het Bicoid - en Nanos-mRNA en wor-
-
 Figuur 9.6: Therapeutisch klonen door middel van somatische cel transfer gevolgd
 door isolatie van embryonale stamcellen
-
- 140
-
 Hoofdstuk 9. Ontwikkelingsgenetica
-
 Figuur 9.7: Vervolg figuur 7.6
-
 den Bicoid- en Nanos-proteı̈nen gevormd. Deze proteı̈nen hebben geen rechtstreekse signaalfunctie. Het Bicoid-proteı̈ne inhibeert translatie van het Caudal -mRNA terwijl het Nanos-proteı̈ne de translatie inhibeert van Hunchback mRNA. Zowel Caudal - als Hunchback -mRNA zijn net als Bicoid - en NanosmRNA van maternale oorsprong. In het syncytiaal blastoderm stadium wordt
 het Hunchback-proteı̈ne vooraan de cel gevormd terwijl het Caudal-proteı̈ne
 achteraan de cel wordt gevormd. In het cellulair blastoderm stadium zullen cellen vooraan het embryo meer Hunchback-proteı̈ne bevatten terwijl cellen achtereen het embryo meer Caudal-proteı̈ne zullen bevatten. Hunchback-proteı̈ne
@@ -5710,11 +3609,7 @@ structuren zullen vormen. Aangezien het mRNA dat de voor-achter as in het
 embryo vastlegt afkomstig is van genen die in de voedingscellen geactiveerd worden, zijn het dus maternale genen die bepalen wat de voor- en achterkant van
 het embryo zal worden. Mutaties in deze genen komen tot expressie in het embryo wanneer de moeder mutant is, maar niet wanneer de vader of het embryo
 mutant zijn.
-
-9.4.3
-
 Boven/onder as in Drosophila
-
 Het Dorsal -gen speelt bij Drosophila een centrale rol bij de ontwikkeling van de
 dorsiventrale as. Het Dorsal mRNA wordt gevormd door de follikelcellen en is
 dus van maternale oorsprong. Het Dorsal -mRNA wordt in de eicel gebracht voor
@@ -5729,19 +3624,10 @@ geeft een signaal aan de follikelcellen. De follikelcellen aan de ventrale zijde
 die dit Gurken-signaal niet ontvangen hebben zullen op hun beurt proteı̈nen
 uitscheiden die een signaal geven aan de nuclei aan de ventrale zijde om het
 Dorsal-proteı̈ne op te nemen. Mutaties in het Gurken-gen resulteren net als
-
  9.4. Patroonvorming
-
-141
-
 Figuur 9.8: Verdeling van mRNA en proteı̈nen die bepalend zijn voor de differentiatie in een voor- en achterzijde in Drosophila
-
 mutatie in het Dorsal -gen in een embryo met enkel een ventrale zijde.
-
-9.4.4
-
 Segmentatie in Drosophila
-
 Een volwassen Drosophila is opgebouwd uit 14 segmenten die verdeeld zijn over
 drie delen: de kop, de thorax en het abdomen. De gap-genen zorgen voor
 een eerste onderverdeling van het embryo in kop, thorax en abdomen. Hunchback en Krüppel zijn bijvoorbeeld twee gap-genen. Deze gap-genen activeren
@@ -5750,25 +3636,15 @@ segmenten onderverdeelt. De ’pair-rule’-genen activeren op hun beurt segment
 polariteit genen. Deze bepalen de voor- en achterkant van deze segmenten. Een
 voorbeeld hiervan is het engrailed -gen. Elk segment wordt door deze segmentpolariteit-genen onderverdeeld in twee delen. Daardoor ontstaan uiteindelijk 14
 segmenten. 3 daarvan vormen de kop, 3 de thorax en 8 het abdomen.
-
-9.4.5
-
 Differentiatie van segmenten in Drosophila
-
 In deze fase van de ontwikkeling bestaat het embryo uit 14 gelijke segmenten.
 Elk segment moet vervolgens een eigen identiteit krijgen en specifieke aanhangsels ontwikkelen. Het eerste kopsegment zal bijvoorbeeld de kaken vormen, het
 tweede de antennes en het derde de ogen. Voor deze ontwikkelingen zijn de
 homeotische genen verantwoordelijk. Een mutatie in een homeotisch gen kan
 er bijvoorbeeld voor zorgen dat een bepaald segment tweemaal gevormd wordt.
-
 homeotische genen
-
- 142
-
 homeobox
-
 Hox-genen
-
 Een voorbeeld daarvan is het Ultrabithorax gen, dat in geval van mutatie resulteert in een Drosophila met twee paar vleugels.
 Deze homeotische genen hebben een sterk geconserveerde sequentie die codeert voor 65 aminozuren. Deze sequentie wordt de homeobox-sequentie genoemd en bindt aan DNA en activeert specifieke genen. Genen met deze geconserveerde sequentie worden Hox -genen genoemd (zie figuur 9.9). De homeotische
 genen of Hox-genen zijn bij Drosophila gegroepeerd op twee chromosomen.
@@ -5776,15 +3652,9 @@ Merkwaardig genoeg komt de volgorde van de genen op de chromosomen overeen met d
 dieren komen Hox -genen voor. Bij gewervelde dieren komen de Hox -genen voor
 in vier in plaats van twee clusters. Men vermoedt dat tijdens de evolutie een
 duplicatie van het genoom heeft plaatsgevonden. Bij planten komen geen Hox genen voor maar spelen MADS -box genen een belangrijke rol in de ontwikkeling.
-
-9.5
-
 morfogenese
-
 Hoofdstuk 9. Ontwikkelingsgenetica
-
 Morfogenese
-
 Celdifferentiatie en patroonvorming zijn de eerste stappen in de ontwikkeling
 van het embryo. In de volgende fase ontwikkelt het embryo zich van een relatief
 eenvoudige bolvormige of ellipsoı̈de bouw tot een organisme met complexe inwendige en uitwendige structuren. Het ontstaan van deze structuren wordt de
@@ -5814,20 +3684,11 @@ Sommige cellen bevinden zich in een extracellulaire matrix die bestaat uit
 collageen, elastine of fibronectine. Een voorbeeld daarvan zijn collageencellen.
 Deze cellen zijn verbonden met de extracellulaire matrix via integrines. Via deze
 integrines kunnen cellen zichzelf verplaatsen in de matrix. Het ontstaan van het
-
  9.6. Invloed van omgeving op de ontwikkeling
-
-143
-
 Figuur 9.9: Bepaling van de identiteit van segmenten in Drosophila door Hox-genen
-
 gastrula-stadium vindt bijvoorbeeld plaats door interacties van integrines met
 fibronectine.
-
-9.6
-
 Invloed van omgeving op de ontwikkeling
-
 De ontwikkeling van een organisme wordt niet alleen bepaald door de genen
 maar wordt ook beı̈nvloed door de omgeving. Dit is vooral belangrijk bij planten. Planten kunnen niet wegvluchten van ongunstige omgevingscondities en
 moeten zich dus aanpassen. Planten die in een kouder klimaat groeien zullen
@@ -5844,23 +3705,14 @@ uitsteeksels maken het moeilijker voor predatoren om de Daphnia op te nemen.
 Bij veel reptielen wordt het geslacht bepaald door de omgevingstemperatuur
 tijdens de ontwikkeling van de eieren.
 Bepaalde toxische stoffen in de omgeving kunnen de ontwikkeling van het em-
-
- 144
-
 Hoofdstuk 9. Ontwikkelingsgenetica
-
 bryo beı̈nvloeden. Dit fenomeen is vooral belangrijk bij endocriene verstoorders.
 Dit zijn chemische stoffen die de werking van endocriene hormonen verstoren,
 de hormonen die het geslacht bepalen. Voorbeelden van endocriene verstoorders
 zijn dioxines, zware metalen, PCB, pesticiden,. . . Ze veroorzaken vaak afwijkingen aan de voortplantingsorganen of een verminderde fertiliteit.
-
  Hoofdstuk 10
-
 Evolutie van ontwikkeling
-10.1
-
 Basisconcepten in evolutie van ontwikkeling
-
 Andere genen of andere ontwikkeling?
 Om verschillen tussen soorten te begrijpen moeten we begrijpen hoe verschillende soorten op een andere manier ontwikkelen. Soorten kunnen op een andere
 manier ontwikkelen omdat ze andere genen hebben, of omdat dezelfde genen
@@ -5872,7 +3724,6 @@ zich op een andere manier ontwikkelen.
 Dit kan verklaren waarom slechts 300 genen verschillend zijn tussen de mens
 en de muis: we hebben weliswaar dezelfde genen, maar deze genen worden op
 een andere manier tot expressie gebracht of hebben een andere functies.
-
 De rol van ontwikkelingsgenen
 De expressie van genen tijdens de ontwikkeling wordt gestuurd door ontwikkelingsgenen. Ontwikkelingsgenen zijn genen die andere genen activeren (transcriptiefactoren) of die een rol spelen in signaaltransductie. Ongeveer 10% van
 ons genoom bestaat uit dergelijke ontwikkelingsgenen. Omdat deze genen een
@@ -5883,20 +3734,11 @@ van het lichaamsplan. Ook MADS -box genen komen bij alle eukaryoten voor.
 Bij planten spelen ze een belangrijke rol in de ontwikkeling van de bloemen.
 Veel regulerende genen hebben een domein dat bindt aan de DNA-keten (vb.
 transcriptiefactoren).
-145
-
 ontwikkelingsgenen
-
- 146
-
 Hoofdstuk 10. Evolutie van ontwikkeling
-
 Mutaties in ontwikkelingsgenen leiden tot nieuwe fenotypes
-
 heterochronie
-
 homeosis
-
 Ontwikkelingsgenen bepalen op welk tijdstip en op welke plaats andere genen
 geactiveerd worden. Door mutaties in ontwikkelingsgenen zullen genen op een
 ander tijdstip of op een andere plaats geactiveerd worden. Dit geeft een andere
@@ -5920,41 +3762,23 @@ de transcriptiefactor door een mutatie bindt met nieuwe transcriptiefactoren sig
 • Het is ook mogelijk dat er een mutatie optreedt in de regulerende regio van
 de transcriptiefactor, waardoor de transcriptiefactor zelf niet geactiveerd
 wordt.
-
-10.2
-
 Hoe mutaties tot een nieuw fenotype kunnen leiden
-
 MADS-box genen en de ontwikkeling van bloemen
 Drie klassen van genen uit de MADS-box familie spelen een cruciale rol in de
 bloemontwikkeling bij bloeiende planten:
 • Klasse A: Apetala1, Apetala2
 • Klasse B: Pistillata, Apetala3
 • Klasse C: Agamous
-
  10.2. Hoe mutaties tot een nieuw fenotype kunnen leiden
-
 Figuur 10.1: Hoe mutaties
 beı̈nvloeden.
-
 in
-
 een
-
 transcriptiefactor
-
-147
-
 genregulatie
-
 kunnen
-
- 148
-
 ABC-model
-
 Hoofdstuk 10. Evolutie van ontwikkeling
-
 Samen bepalen deze klassen van genen de bloemontwikkeling volgens het
 ABC-model. Wanneer enkel klasse-A-genen actief zijn zal het apicaal meristeem van de stengel kelkbladen vormen. Wanneer A en B actief zijn worden
 kroonbladen gevormd. Wanneer B en C actief zijn worden meeldraden gevormd.
@@ -5964,7 +3788,6 @@ gevormd maar worden wel nog meeldraden en een stamper gevormd. Wanneer genen van
 gevormd. Wanneer genen van klasse-C-mutant zijn veranderen de meeldraden
 en de stamper in kroonbladen. Bij een ABC-mutant worden geen bloemdelen
 meer gevormd maar vormt het apicaal meristeem gewone blaadjes (zie figuur
-10.2).
 Mutaties en bloemmorfologie
 Tien verschillende koolgewassen - waaronder bloemkool, savooikool, spruitjes,
 broccoli,... - behoren eigenlijk allemaal tot één enkele soort: Brassica oleracea.
@@ -5994,31 +3817,18 @@ zout als in zoet water. Zoutwatersoorten hebben een pantser van schubben terwijl
 lagere predatiedruk in zoet water. De afwezigheid van een pantser is gelinkt aan
 het Eda-gen (Ectodysplasin). Het mutante allel dat zorgt voor het verlies van
 het pantser ontstond zo’n 2 miljoen jaar geleden. Dit mutante allel is het meest
-
  10.2. Hoe mutaties tot een nieuw fenotype kunnen leiden
-
-149
-
 Figuur 10.2: Mutaties in MADS -box genen en bloemontwikkeling bij Arabidopsis.
-
 Figuur 10.3: Mutaties in het CAL-gen resulteert in bloemkool en broccoli bij Brassica oleracea
-
- 150
-
 Hoofdstuk 10. Evolutie van ontwikkeling
-
 algemene allel in zoetwaterpopulaties maar is zeer zeldzaam in zoutwaterpopulaties (allelenfrequentie 1 %). Wanneer populaties van heterozygote zoutwater
 stekelbaarzen overgebracht werden naar een zoet water omgeving deden nakomelingen met het Eda-allel het veel beter dan nakomelingen zonder dit allel.
 Wellicht is dat omdat ze minder energie moesten investeren in de vorming van
 het pantser. Het Eda-gen komt ook bij de mens voor en is gelegen op het Xchromosoom. Een mutatie in dit gen resulteert bij de mens in afwijkingen in de
 huid, minder beharing, kleine en puntige tanden en een afwijkende bouw van
 het hoofd.
-
-10.3
-
 Hoe bestaande genen een nieuwe functie
 kunnen krijgen
-
 Genen kunnen in de loop van de evolutie compleet nieuwe functies krijgen. Een
 voorbeeld is Brachyury, een transcriptiefactor die behoort tot de T-box-familie.
 Dit gen komt voor in verschillende groepen van dieren maar vervult daar andere
@@ -6037,14 +3847,9 @@ evolutie nieuwe genen gaan aansturen. Bij de mens zorgt een mutatie in Tbx5 in
 het Holt-Oram-syndroom, gekenmerkt door armen die niet ontwikkelen, maar
 ook in afwijkingen aan het hart. Zoals vaak het geval is bij ontwikkelingsgenen,
 is dit een dominante afwijking.
-
-10.4
-
 convergente evolutie
-
 Convergente evolutie: mutaties in zelfde
 genen?
-
 Bepaalde kenmerken zijn meermaals in de evolutie ontstaan. Men spreekt in
 dat geval van homoplasieën of convergente evolutie. Soms is dergelijke convergente evolutie het gevolg van mutaties in dezelfde genen, soms van mutaties
 in verschillende genen.
@@ -6053,13 +3858,8 @@ Schubben op de vleugels van vlinders vormen vaak prachtige tekeningen of patrone
 bij het reguleren van de temperatuur. De schubben zijn afgeleid van borstels,
 maar hebben hun verbinding met een zenuwcel verloren. Bovendien bevatten de
 schubben pigmenten die ze een specifieke kleur geven. De initiatie van de vorming van een borstel en van een schub gebeurt door dezelfde transcriptiefactor.
-
  10.5. Duplicatie van genen en divergentie
-
-151
-
 Figuur 10.4: Rol van Tbx5 bij de ontwikkeling van de voorste ledematen bij tetrapoden.
-
 Bij de vorming van de typische ogen op de vleugels van vlinders speelt het
 gen Distal-les een rol. Dit gen is ook actief bij de ontwikkeling van de poten
 bij insecten. Wellicht heeft het bij vlinders een tweede functie gekregen. Nadat Distal -les geactiveerd is wordt de oogvlek gevormd. Nadien worden nog
@@ -6077,25 +3877,15 @@ naar een radiale symmetrie. Eén enkel gen kan dus een grondige wijziging
 in de morfologie van een bloem veroorzaken. Ook bij sommige andere bilateraal symmetrische bloemen veroorzaken mutaties in hetzelfde CYC -gen dezelfde
 verandering van zygomorfe naar een radiale symmetrie. Bij andere zygomorfe
 bloemen zijn andere genen actief in de bloem-morfogenese.
-
-10.5
-
 Duplicatie van genen en divergentie
-
 Tijdens de evolutie vinden vaak duplicaties van genomen of delen van genomen
 plaats. Dit kan het gevolg zijn van een duplicatie van een deel van een chromosoom of een gevolg van polyploı̈die. Bij een duplicatie kunnen twee kopieën
 van een gen ontstaan. Eén van de twee kopieën kan vervolgens muteren en
 een nieuwe functie krijgen. Men zegt dat twee genen in verschillende soorten
 ortologen zijn als ze afstammen van hetzelfde gen dat reeds bij de gemeen-
-
 ortologen
-
- 152
-
 paralogen
-
 Hoofdstuk 10. Evolutie van ontwikkeling
-
 schappelijke voorouder voorkwam. Men spreekt van paralogen als twee genen
 verwant zijn maar uit elkaar ontstaat zijn na een duplicatie.
 Bij de voorouders van de bloeiende planten kwam een MADS -box gen voor
@@ -6109,12 +3899,8 @@ door de C-terminus van PI worden wel enkele meldraden gevormd, maar geen
 kroonblaadjes. Met een normale C-terminus maakt een AP3 -mutant zowel meeldraden als kroonblaadjes. AP3 is dus wel degelijk essentieel voor de ontwikkeling van kroonblaadjes. AP3 blijkt een binding aan te gaan met PI via de
 C-terminus van beide proteı̈nen. Deze heterodimeer reguleert de vorming van
 kroonblaadjes.
-
-10.6
-
 Case-studie: verscheidenheid aan ogen in
 de dierenwereld
-
 Ogen zijn bijzonder complexe structuren. Als één onderdeel niet werkt, wordt
 het oog nutteloos. Darwin vondt het bijzonder moeilijk om te verklaren hoe een
 complex orgaan als het oog kon ontstaan door geleidelijke vernieuwing van een
@@ -6138,20 +3924,11 @@ onderdrukt. Het Pax6 -gen blijkt ook geactiveerd te worden in de veterworm
 (Lineus sanguineus) wanneer de ogen zich ontwikkelen. Platwormen (Planaria)
 hebben wel een Pax6 -gen, maar het inactiveren van Pax6 interfereert niet met
 de vorming van oogvlekken in platwormen.
-
  10.6. Case-studie: verscheidenheid aan ogen in de dierenwereld
-
-153
-
 Figuur 10.5: Rol van de C-terminus van Ap3 in de vorming van kroonblaadjes bij
 eudicotylen.
-
- 154
-
 Hoofdstuk 10. Evolutie van ontwikkeling
-
  Hoofdstuk 11
-
 Oefeningen
 1. Brachyfalangie bij de mens is een afwijking waarbij het middelbeen van de
 vingers sterk verkort is en vaak vergroeid is met het aangrenzende beentje.
@@ -6178,12 +3955,7 @@ die geen drager is. Men laat de nakomelingen met elkaar paren. Welke
 genotypes verwacht men en in welke verhoudingen?
 6. Drie kinderen van eenzelfde moeder hebben bloedgroepen 0, AB en B.
 Kunnen deze kinderen dezelfde vader hebben?
-155
-
- 156
-
 Hoofdstuk 11. Oefeningen
-
 7. In het bloedgroepensysteem MN zijn de allelen LM en LN co-dominant.
 Kan een kind met bloedgroep M en vader hebben met bloedgroep N?
 8. Hoeveel types gameten kunnen gevormd worden door een individu met
@@ -6221,9 +3993,6 @@ verwachten?
 19. Bij katten is een genotype BB zwart. Bb is geelbruin en bb geel. Het
 gen ligt op het X-chromosoom. Af en toe wordt een geelbruin katertje
 geboren. Hoe kan dat?
-
- 157
-
 20. Bij honden voorkomt het dominante allel I de expressie van een gen dat
 tot bruine (bb) of zwarte (Bb) vacht leidt. Dit leidt tot een witte hond.
 Geef de verhouding van fenotypes weer bij een kruising van twee honden
@@ -6246,51 +4015,25 @@ twee dove ouders een normaal kind kunnen voortbrengen.
 albino vacht (fenotype A, allel c). Kort haar (fenotype K, allel S ) is dominant over lang haar (fenotype L, allel s). De genen worden onafhankelijk
 van elkaar overgeërfd. Wat zijn de genotypes in de kruisingsexperimenten
 in figuur 11.1?
-
 Figuur 11.1
-
 24. Bij een kruising van (abc)/(ABC ) x (abc)/(abc) bleken de klassen (abC )/(abc)
 en (ABc)/(abc) het minst vertegenwoordigd te zijn onder de nakomelingen. De haakjes rond de symbolen voor de genen geven aan dat de genen
 gekoppeld zijn maar dat de volgorde niet gekend is. Wat is de werkelijke
 volgorde van de genen op het chromosoom?
 25. Individuen die homozygoot zijn voor de allelen x, y en z (alle drie recessief)
 worden gekruist met homozygote individuen die de drie dominante allelen
-
- 158
-
 Hoofdstuk 11. Oefeningen
-
 bezitten. De drie genen zijn niet noodzakelijk gekoppeld. F1 nakomelingen worden onderworpen aan een testkruising (gekruist met individuen
 die homozygoot zijn voor de recessieve allelen). Daaruit kwamen onderstaande fenotypes voort. Zijn deze genen gekoppeld of niet?
-• xyz: 42
-• Xyz: 44
-• xyZ: 6
-• xYz: 5
-• XYz: 4
-• xYZ: 46
-• XYZ: 48
-• XyZ: 5
 26. Bij maı̈s zijn de genen gl, va en v op één chromosoom gelegen. Onderstaande lijst geeft de fenotypes weer die het resultaat zijn van een testkruising tussen een heterozygoot voor de drie genen en een homozygoot voor
 de recessieve allelen. Leidt hieruit de volgorde en de onderlinge afstand
 van de genen op het chromosoom af.
-• GL Va V: 235
-• gl va v: 270
-• gl va V: 62
-• gl Va V: 7
-• GL va V: 40
-• gl Va v: 48
-• GL va v: 4
-• GL Va v: 60
 27. Bepaal zoveel mogelijk de genotypes voor de fenotypes in de stamboom
 in figuur 11.2. In de tweede generatie is de vader niet weergegeven - hij
 wordt verondersteld fenotypisch normaal te zijn. Gebruik symbool c voor
 kleurenblindheid en h voor hemofilie. Merk op dat zowel kleurenblindheid
 als hemofilie geslachtsgebonden overgeërfd worden.
-
 Figuur 11.2
-
- 159
-
 28. Een niervormig oog is het resultaat van een recessief allel k op het derde
 chromosoom van Drosophila. Oranje oogkleur, genoemd kardinaal, wordt
 geproduceerd door het recessieve allel cd op hetzelfde chromosoom. Op
@@ -6321,22 +4064,15 @@ genen? Welk gen ligt in het midden? Bepaal de kaartafstanden. Vrouwtjes
 waren allen wild type, mannetjes gaven:
 • 57 granaat, uitgerokken
 • 419 granaat, gevorkt
-• 60 gevorkt
 • 1 uitgerokken, gevorkt
 • 2 granaat
 • 439 uitgerokken
-• 13 wild type
 • 9 uitgerokken, granaat, gevorkt
 31. De recombinaties tussen loci (telkens per twee loci bekomen) in één van
 de Drosophila-chromosomen zijn in onderstaande tabel samengebracht (zie
 figuur 11.3). Stel de genetische kaart op.
-
- 160
-
 Hoofdstuk 11. Oefeningen
-
 Figuur 11.3
-
 32. De genen a en b zijn gekoppeld en hebben een recombinatiefrequentie van
 20%. De genen c en d zijn eveneens gekoppeld maar zijn op een ander
 chromosoom gelegen. Ze hebben een recombinatiefrequentie van 10%. Een
@@ -6348,10 +4084,6 @@ fenotypes die uit deze kruising voortkomen?
 een gekromde staart geven (Bn of ’bent’) en een gestreept lijf (Ta of ’tably’). Wijfjes die homozygoot zijn voor beide afwijkingen worden gekruist
 met wild type mannetjes. De F1 nakomelingen van deze kruising paarden onderling en leverden 200 nakomelingen met de volgende fenotype
 verhoudingen. Bereken de afstand tussen de twee loci.
-• 141 Bn Ta
-• 47 wild type
-• 7 Ta
-• 5 Bn
 34. In een bepaalde streek zijn evenveel mensen met blauwe ogen als met
 bruine ogen. Bruine ogen is toe te schrijven aan de dominant allel voor
 oogkleur. Wat is de frequentie van de allelen in de populatie?
@@ -6362,9 +4094,6 @@ oogkleur. Wat is de frequentie van de allelen in de populatie?
 36. In een populatie van 6000 koeien waren er 516 wit, 2856 rood en 2628
 roodbruin. Indien men uitgaat van Hardy-Weinberg evenwicht in deze
 populatie, is het dan mogelijk dat roodbruin veroorzaakt wordt door onvolledige dominantie?
-
- 161
-
 37. Stel dat in een populatie die voldoet aan Hardy-Weinberg evenwicht de
 allelen A en a even frequent voorkomen. Wat zijn de verhoudingen van de
 genotypes in deze populatie? Stel dat de volgende generatie door zelfbestuiving ontstaat? Wat is dan de verhouding van de allelen A en a? Wat
@@ -6392,7 +4121,6 @@ van de allelen IA, IB en i in de populatie?
 Voorspel de uitkomst van volgende kruisingen.
 • Een kip met gewone kam wordt gekruist met een kip uit een zuivere
 lijn met walnoot kam. Welke nakomelingen vinden we in de F1 en
-F2?
 • Een kruising van een walnoot kip met een roos kip geeft bij de nakomelingen de volgende fenotypes: 3/8 roos, 3/8 walnoot, 1/8 erwt
 en 1/8 gewone kam. Wat was het genotype van de ouders van de
 walnoot en roos kip?
@@ -6402,13 +4130,8 @@ genotype van de ouders van de walnoot en roos kip?
 • Welke verschillende genotypes kunnen een walnoot fenotype voortbrengen?
 43. Albino fenotypes worden veroorzaakt door recessieve mutaties doordat
 geen melanine pigment gevormd kan worden. Een vrouw heeft een vrouwelijke witte albino poedel. Ze wil graag witte puppy’s en laat haar poedel
-
- 162
-
 Hoofdstuk 11. Oefeningen
-
 Figuur 11.4
-
 paren met een andere witte poedel. De jongen zijn echter allemaal zwart.
 Wat zou hier de oorzaak kunnen zijn?
 44. Bij ene populatie kevers heeft 70% een fenotype met blinkende dekschilden
@@ -6437,38 +4160,25 @@ fenotypes (zie figuur 11.5). Verklaar deze resultaten.
 48. Bij maı̈s zijn de volgende genenparen op hetzelfde chromosoom gelegen:
 • plantkleur g: wild type “groen”; mutant “geel” (recessief)
 • endosperm v : wild type “vol”; mutant “gerimpeld” (recessief)
-
- 163
-
 Figuur 11.5
-
 • zaadkleur k : wild type “gekleurd”; mutant “kleurloos” (recessief)
 Een plant heterozygoot voor de 3 genenparen wordt onderworpen aan een
 testkruising, wat de volgende nakomelingen oplevert (zie figuur 11.6).
 • Bepaal welk van de drie genen in het midden ligt.
 • Geef het genotype van de ouders die hier gekruist zijn.
 • Bepaal de afstand tussen de genen.
-
 Figuur 11.6
-
 49. In onderstaande stamboom wordt een familie voorgesteld met een zeldzame ziekte (zie figuur 11.7). Wordt dit patroon het best verklaard door
 een X-gebonden recessief allel of door een autosomaal dominant allel waarvan de afwijking enkel bij mannen tot expressie komt?
-
 Figuur 11.7
-
- 164
-
 Hoofdstuk 11. Oefeningen
-
 50. De onderstaande stamboom toont de aanwezigheid van de ziekte van Huntington in een familie (zie figuur 11.8). De schuine strepen tonen aan dat
 de ziekte bij deze familieleden zich reeds vertoont. De verschijnselen van
 deze ziekte treden typisch op vanaf ongeveer 40 jaar. De ouders waren allen rond 25 jaar toen ze kinderen kregen. Via welk mechanisme wordt de
 ziekte van Huntington overgeërfd? Alan en Susan zijn pasgeboren. Zullen
 zij de ziekte ontwikkelen? Hou rekening met de huidige onzekerheden.
 Negeer voor deze oefening de zwarte of witte kleur van de symbolen.
-
 Figuur 11.8
-
 51. Dirks grootvader had galactosemie. Dit is een zeldzame autosomaal recessieve aandoening. Dirk woont nu samen met Kaatje, wiens nonkel ook
 galactosemie had. Kaatje is nu zwanger van haar eerste kindje. Teken
 eerst een stamboom zoals hierboven beschreven. Wat is de kans dat het
@@ -6482,20 +4192,13 @@ samen?
 van elkaar gelegen op hetzelfde chromosoom (peullengte: L is lang, l is
 kort; vruchtharen: H is veel haren en h is geen haren). De volgende
 kruisingen werden gemaakt:
-• LH /LH x lh/lh
-• Lh/Lh x lH /lH
 Als de F1’s worden gekruist, hoeveel kans hebben we op een lh/lh plant?
 En hoeveel kans hebben we op een Lh/lh plant?
-
- 165
-
 54. In onderstaande tabel worden de resultaten van 5 experimenten getoond
 (zie figuur 11.9). Recessieve fenotypes worden aangeduid met een kleine
 letter, dominante fenotypes worden aangeduid met een plusteken. Bepaal voor elk experiment de volgorde van de genen A, B en C, zonder de
 afstanden tussen de genen te berekenen.
-
 Figuur 11.9
-
 55. Het tweede chromosoom van Drosophila bevat 3 genen:
 • ’cinnaber’ (cn, helder rode ogen)
 • ’curved wings’ (c, gebogen vleugels )
@@ -6506,19 +4209,12 @@ de recombinatiefrequentie tussen cn en c, tussen c en px en tussen cn en
 px. Geef een verklaring voor het feit dat de recombinatiefrequentie tussen
 cn en px kleiner is dan de som van de frequenties tussen cn en c en tussen
 c en px.
-
-Figuur 11.10
-
 56. Kleurenblindheid wordt veroorzaakt door een geslachtsgebonden recessief
 allel. In een populatie is 1 op 10 mannen kleurenblind.
 • Hoeveel vrouwen zijn kleurenblind?
 • in hoeveel gezinnen kan kleurenblindheid de helft van de kinderen
 van ieder geslacht aantasten?
-
- 166
-
 Hoofdstuk 11. Oefeningen
-
 • In hoeveel gezinnen komen geen kinderen voor met kleurenblindheid?
 • In een nog niet evenwichtige populatie komt het allel voor kleurenblindheid voor met een frequentie van 0,2 bij vrouwen en 0,6 bij
 mannen. Hoeveel vrouwelijke nakomelingen zullen kleurenblind zijn
@@ -6541,9 +4237,6 @@ is tevens vermeld bij ieder familielid. Beide loci zijn autosomaal.
 • Wat is de best berekende recombinatiefrequentie?
 • Als de man III-1 een normale vrouw met bloedgroep O huwt, hoeveel
 bedraagt de kans dat hun eerste kind bloedgroep B en het nagelknieschijf-syndroom heeft?
-
-Figuur 11.11
-
 59. Twee zwarte hamsters werden meermaals gekruist en gaven over meerdere
 jaren in totaal 29 zwarte en 9 witte nakomelingen. Verklaar deze resultaten
 en geef het genotype van de ouders en de nakomelingen.
@@ -6552,9 +4245,6 @@ en kruist ze met wild type gisten. Onder de nakomelingen vindt hij 188
 wild type kolonies en 180 kleine kolonies. Verklaar deze resultaten.
 61. Bij een screening van duizenden kiemplanten van Arabidopsis werd één
 plantje waargenomen met drie in plaats van twee cotylen. Dit plantje
-
- 167
-
 werd gekruist met een wild type Arabidopsis. Uit de 600 zaadjes die uit
 deze kruising voortkwamen kiemden 298 plantjes met twee cotylen en 302
 plantjes met drie cotylen. Wat kan je zeggen over de overerving van drie
@@ -6564,25 +4254,15 @@ recessieve afwijking. Galactosemie veroorzaakt een ernstige intolerantie
 voor galactose, en dus voor alle melkproducten. Carlos’ broer heeft galactosemie en Maria’s overgrootmoeder eveneens. Maria heeft een zus met
 drie kinderen die alle drie geen galactosemie hebben. Wat is de kans dat
 het eerste kind van Carlos en Maria galactosemie heeft?
-
- 168
-
 Hoofdstuk 11. Oefeningen
-
-‘
-
  Index
-’gene flow ’, 87
 ’genome wide association studies’, 52
 ’monozygotic twins reared apart’, 31
 ’nature or nurture’, 31
 ’back mutation’, 69
-’cri du chat’, 56
 ’groene revolutie’, 24
-’missing link’, 98
 ’recapitulatie theorie’, 98
 ’somatic cell nuclear transfer’, 138
-’superbugs’, 105
 Ac en Ds elementen, 111
 P -elementen, 112
 SRY gen, 41
@@ -6592,7 +4272,6 @@ ABC model, 146
 activator, 119
 albinisme, 33
 algemene transcriptiefactoren, 124
-allelen, 8, 14
 allelenfrequentie, 85
 allopolyploı̈den, 63
 Ames test, 80
@@ -6610,9 +4289,6 @@ Barr lichaampje, 42
 base analogen, 79
 basenpaarsubstitutie, 65
 blastomeren, 133
-cAMP, 121
-
-CAP proteı̈ne, 120
 carcinogeen, 80
 celbestemming, 136
 celcyclus, 73
@@ -6637,25 +4313,18 @@ cytohets of heteroplasmons, 53
 cytokinese, 73
 cytoplasmatische overerving, 52
 degeneratie van de genetische code, 65,
-67
 deletie, 56
 derepressie, 123
 differentiëren, 136
 dihybride kruising, 20
-diploı̈d, 9
 directionele selectie, 95
 disassortatieve paring, 88
 disruptieve selectie, 95
-DNA, 8
 DNA transposons, 109
 domesticatie, 97
 dominant, 12
 dominante mutatie, 17
 doseringscompensatie, 42
-169
-
- 170
-
 Down syndroom, 55
 driepuntstestkruising, 49
 dubbele stukuitwisselingen, 46
@@ -6668,7 +4337,6 @@ epigenetica, 127
 epistasie, 37
 euchromatine, 9
 eukaryoten, 8
-euploı̈die, 61
 evolutie, 87
 excisie, 103
 exogenoot, 103
@@ -6676,13 +4344,11 @@ exons, 9
 expressiviteit, 28
 extragene suppressor, 71
 F-factor, 102
-faag, 107
 fenotype, 8, 14
 fenylketonurie, 33
 fitness, 91
 flessenhalseffect, 88
 gekoppelde genen, 45
-genen, 8, 14
 genenbalans, 42
 genetische code, 65
 genetische drift, 88
@@ -6697,14 +4363,11 @@ geslachtsgekoppelde afwijkingen, 41
 gespecialiseerde transductie, 109
 Gregor Mendel, 11
 groeifactoren, 75
-haploı̈d, 8
 haploinsufficiënte, 17
 haploinsufficiënte genen, 42
 haplosufficiënte, 17
 haplosufficiënte genen, 42
-
 Index
-
 haplotypes, 51
 hermafrodiet, 44
 heterochromatine, 9
@@ -6740,7 +4403,6 @@ intragene suppressor, 69
 introns, 9
 inversie, 57
 kaarteenheid, 46
-key, 1
 kiemlijncellen, 73
 Klinefelter syndroom, 55
 kruisingsexperimenten, 12
@@ -6752,12 +4414,9 @@ locus, 46
 lysogene bacteriën, 107
 lytische cyclus, 107
 maternaal, 52
-
  Index
-
 meristemen, 134
 metabole keten, 33
-miRNA, 128
 missense mutaties, 67
 mitochondriale Eva, 53
 mitotische recombinatie, 78
@@ -6786,14 +4445,12 @@ operator, 120
 operon, 118
 organellen, 8
 ortologen, 151
-paralogen, 57, 151
 parentale generatie, 12
 parthenogenese, 44
 partieel diploı̈d, 103
 patroonvorming, 133
 penetrantie, 28
 pi-cluster, 130
-pili, 102
 plaques, 107
 plasmide, 102
 pleiotroop, 28
@@ -6801,28 +4458,21 @@ polyadenylatie, 130
 polygenen, 30
 polymorfismen, 20
 populatiegenetica, 85
-
-171
-
 positie effect variëgatie, 125
 positieve controle, 119
 positieve frequentie-afhankelijke selectie, 93
 Prader Willi en Angelman syndroom,
-127
 principe van Hardy-Weinberg, 85
 principe van onafhankelijke overerving,
-22
 principe van segregatie, 14
 productregel, 24
 profaag, 107
 prokaryoten, 8
-promotor, 117, 118
 proteasoom, 131
 proto-oncogenen, 77
 prototroof, 101
 provirus, 109
 Punnett vierkant, 15
-punt O, 103
 puntmutatie, 65
 R plasmiden, 105
 recessief, 12
@@ -6838,22 +4488,16 @@ retrovirus, 109
 reverse transcriptase, 109
 RNA interferentie, 128
 Robertsonische translocatie, 59
-SCID, 115
 seksuele selectie, 92
 Siamese kat, 69
 sikkelcelanemie, 27, 94
-siRNA, 128
 Sleeping Beauty transposon, 112
-SNPs, 51
 somatische cellen, 73
 somregel, 24
 specifieke transcriptiefactoren, 125
 stabiliserende selectie, 95
 stamboomanalyse, 17
 stamcellen, 134
-
- 172
-
 stichter effect, 88
 stille mutatie, 67
 stukuitwisseling, 45
@@ -6872,7 +4516,6 @@ translatie repressor proteı̈nen, 130
 transposase, 109
 transversie, 65
 trinucleotide herhalingen, 79
-triploı̈d, 62
 trisomie, 54
 tumor-onderdrukkende genen, 77
 tumoren, 77
@@ -6890,13 +4533,8 @@ zelfbestuiving, 11
 zelfzuchtig DNA, 115
 ziekte van Huntington, 79
 zuivere lijnen, 12
-
 Index
-
   KU Leuven Kortrijk Kulak
 Wetenschap & Technologie
 Etienne Sabbelaan 53, 8500 Kortrijk
-Tel. +32 56 24 62 83
 koenraad.muylaert@kuleuven.be
-
- 

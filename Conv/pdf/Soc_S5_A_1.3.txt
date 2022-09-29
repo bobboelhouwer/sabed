@@ -1,92 +1,55 @@
 Methoden van het wetenschappelijk
 onderzoek: Deel 1
 Prof. Dr. Eva Van den Bussche
-
  Les 3: Participanten selecteren
 Handboek Hoofdstuk 5 (pp. 109-126)
 Prof. Dr. Eva Van den Bussche
-
  Overzicht
-•
-•
-•
-•
-
-Terugkoppeling oefening
-Empirische cyclus
-Steekproeftrekking
-Probability sampling
-▪
-▪
-▪
-▪
-▪
-
-Simple random sampling
-Systematische sampling
-Gestratificeerde random sampling
-Proportionele gestratificeerde random sampling
-Cluster sampling
-
+• Terugkoppeling oefening
+• Empirische cyclus
+• Steekproeftrekking
+• Probability sampling
+▪ Simple random sampling
+▪ Systematische sampling
+▪ Gestratificeerde random sampling
+▪ Proportionele gestratificeerde random sampling
+▪ Cluster sampling
 • Nonprobability sampling
 ▪ Convenience sampling
 ▪ Quota sampling
-
-3
-
 Faculteit Psychologie en Pedagogische Wetenschappen
-
  Terugkoppeling oefening vorige les
 • Beschouw de volgende hypothese: “Stress stijgt met toenemende leeftijd”
 • Wat zijn de variabelen/constructen?
 ▪ Afhankelijke variabele: stress → niet direct observeerbaar
 ▪ Onafhankelijke variabele: leeftijd → direct observeerbaar
-
 • Formuleer een operationele definitie van de variabelen/constructen
 ▪ Stress → totaalscore op een vragenlijst die stress meet, antwoord op een 5-punts
 beoordelingsschaal (variërend van helemaal geen tot extreme stress),
 fysiologische indices van stress meten (hartslag, zweten)
 ▪ Leeftijd → leeftijd in jaren (maar ook: maanden bij kinderen bijv.)
-
-4
-
 Faculteit Psychologie en Pedagogische Wetenschappen
-
  Terugkoppeling oefening vorige les
 • Welke meetschaal zal je gebruiken voor de metingen?
 ▪ Stress adhv 5-punts beoordelingsschaal → Interval
 ▪ Leeftijd adhv leeftijd in jaren → Ratio
-
 • Welke meetmodaliteit zal je gebruiken?
 ▪ Beoordelingsschaal = zelfrapportage
-
 • Reflecteer over de validiteit, betrouwbaarheid, sensitiviteit, artefacten, etc. van
 de bekomen metingen adhv jouw voorgestelde meetprocedure
 • Zelfrapportage: subjectief, sociale wenselijkheid, slechts 1 vraag (sensitiviteit?),
 → vragenlijst die valide en betrouwbaar is (e.g., Cohen Perceived Stress Scale)
-
-5
-
 Faculteit Psychologie en Pedagogische Wetenschappen
-
  Empirische cyclus
 • Vorige les:
 ▪ (STAP 1: Formuleren interessante vraag)
 ▪ STAP 2: Hypothesen formuleren
 ▪ STAP 3: Variabelen definiëren en meten
-
 • Vandaag:
 ▪ STAP 4: Identificeer en selecteer participanten (en plan een ethische aanpak →
 zie OO “Beroepsethiek”)
-
-6
-
 Faculteit Psychologie en Pedagogische Wetenschappen
-
- 7
-
 Faculteit Psychologie en Pedagogische Wetenschappen
-
  Steekproeftrekking
 • Zie ook OPO “Statistiek voor Psychologen I”
 • Hypothese: adolescenten vertonen vaker risicovol gedrag dan volwassenen
@@ -99,51 +62,33 @@ totale populatie
 STEEKPROEF) en we veralgemenen de bevindingen naar de hele populatie
 • Steeproef: subset van individuen uit de populatie die de populatie representeert in
 een studie
-
-8
-
 Faculteit Psychologie en Pedagogische Wetenschappen
-
  Steekproeftrekking
 POPULATIE
 Inferentiële statistiek
 Algemene conclusies
 “1st bach studenten hebben
 problemen met planning”
-
 steekproef
 Beschrijvende statistiek
 Specifieke conclusies
 “Jan en An (1st bach) hebben
 problemen met planning”
-
-9
-
 Faculteit Psychologie en Pedagogische Wetenschappen
-
  Steekproeftrekking
-
-10
-
 Faculteit Psychologie en Pedagogische Wetenschappen
-
  Steekproeftrekking
 • Als we uitspraken willen doen over de populatie adhv een steekproef, dan
 moet deze steekproef representatief zijn voor de populatie!
-
 • De steekproef moet dezelfde karakteristieken hebben dan de populatie
 • Voorbeeld:
 ▪ Hypothese: kinderen uit de lagere school lezen graag
 ▪ Steekproef: kinderen uit 3 scholen buiten de stad
 ▪ Kunnen we de bevindingen van deze studie dan veralgemenen naar ALLE
 Vlaamse lagere schoolkinderen?
-
 • Indien de steekproef andere karakteristieken heeft dan de populatie (e.g.,
 sneller, ouder, slimmer) = steekproef BIAS
-11
-
 Faculteit Psychologie en Pedagogische Wetenschappen
-
  Steekproeftrekking
 • Steekproef bias kan toevallig ontstaan
 • Steekproef bias is vaak het gevolg van selectiebias → individuen worden
@@ -153,104 +98,55 @@ gebiaste steekproef
 ▪ Populatie waarover we uitspraak willen doen = volwassenen
 ▪ Steekproef: universiteitsstudenten, Facebook gebruikers
 ▪ Zijn dit representatieve steekproeven?
-
 • Selectiebias komt vaak voort uit de procedure die gebruikt wordt om
 participanten te selecteren
-12
-
 Faculteit Psychologie en Pedagogische Wetenschappen
-
  Steekproeftrekking
-• LET OP!
 • Wees inclusief bij het trekken van een steekproef
 ▪ Nog te vaak: man-vrouw
 ▪ Verwarring tussen biologisch geslacht/sekse en gender
 ▪ Sekse: biologisch/genetisch geslacht, nl. XX, XY of andere (intersex)
 ▪ Gender: beleving of identiteit van een persoon, zoals man, vrouw, non-binair, transgender,
 genderfluïde, etc. = spectrum
-
 → beiden zijn meer complex dan louter man/vrouw!
-
-• DUS:
 • Wees specifiek in wat wil je bevragen (sekse VS gender)
 • Wees inclusief (man/vrouw dichotomie ≠ realiteit)
-13
-
 Faculteit Psychologie en Pedagogische Wetenschappen
-
  Steekproeftrekking
-
-14
-
 Faculteit Psychologie en Pedagogische Wetenschappen
-
  Steekproeftrekking
 • Grote populatie (N) → kleinere steekproef (n)
 • Hoe groot moet de steekproef zijn om representatief te zijn? =
 steekproefgrootte of sample size (n)
-
-15
-
 Faculteit Psychologie en Pedagogische Wetenschappen
-
  Steekproeftrekking
-
-16
-
 Faculteit Psychologie en Pedagogische Wetenschappen
-
  Steekproeftrekking
-
-17
-
 Faculteit Psychologie en Pedagogische Wetenschappen
-
  Steekproeftrekking
 • Hoe groot moet de steekproef zijn om representatief te zijn? =
 steekproefgrootte of sample size (n)
-
 • Geen eenvoudig antwoord
 • Algemeen: “hoe groter de steekproef, hoe accurater deze de populatie
 representeert”
-
 • MAAR: ook een zeer grote steekproef kan gebiast zijn!
 • Baseer je op wetenschappelijke literatuur over gelijkaardige studies
 • Bereken n (cf. online calculator G*Power)
-
-18
-
 Faculteit Psychologie en Pedagogische Wetenschappen
-
- 19
-
 Faculteit Psychologie en Pedagogische Wetenschappen
-
- 20
-
 Faculteit Psychologie en Pedagogische Wetenschappen
-
- 21
-
 Faculteit Psychologie en Pedagogische Wetenschappen
-
  Steekproeftrekking
 • Het “trekken” van een steekproef uit de populatie = steekproeftrekking of
 sampling
-
 • Twee categorieën van methoden van steekproeftrekking
 ▪ Probability sampling
 ▪ Nonprobability sampling
-
 • Doel is steeds om een representatieve steekproef te trekken uit een populatie
-
-22
-
 Faculteit Psychologie en Pedagogische Wetenschappen
-
  Probability sampling
 • De kans (“probability”) om een specifiek individu te selecteren is gekend en
 kan berekend worden
-
 • E.g.: N = 100, dan heeft elke individu 1/100 kans om geselecteerd te worden
 • 3 voorwaarden:
 ▪ De exacte grootte van de populatie is gekend en het moet (theoretisch) mogelijk
@@ -258,52 +154,29 @@ zijn om alle individuen op te lijsten
 ▪ Elk individu in de populatie heeft een gespecifieerde kans om geselecteerd te
 worden
 ▪ Selectie moet een random proces zijn gebaseerd op de kansen
-
-23
-
 Faculteit Psychologie en Pedagogische Wetenschappen
-
  Probability sampling
 • Random proces:
 ▪ Produceert een uitkomst uit een set van mogelijke uitkomsten
 ▪ De uitkomst moet elke keer opnieuw onvoorspelbaar zijn
 ▪ Elke mogelijke uitkomst moet een gelijke kans hebben om op te treden
-
-24
-
 Faculteit Psychologie en Pedagogische Wetenschappen
-
  Probability sampling
 • Methoden:
-1.
-2.
-3.
-4.
-5.
-
-25
-
 Simple random sampling
 Systematische sampling
 Gestratificeerde random sampling
 Proportionele gestratificeerde random sampling
 Cluster sampling
-
 Faculteit Psychologie en Pedagogische Wetenschappen
-
  1. Simple random sampling
 • Elk individu in de populatie heeft evenveel kans om geselecteerd te worden
 • Elke selectie is onafhankelijk van de andere selecties → de selectie van één
 individu heeft geen invloed op de kans om een ander individu te kiezen
-• 3 stappen:
 1. Definieer de populatie
 2. Lijst alle leden van de populatie op
 3. Gebruik een random proces om individuen uit de lijst te selecteren
-
-26
-
 Faculteit Psychologie en Pedagogische Wetenschappen
-
  1. Simple random sampling
 • Twee methoden van random steeproeftrekking:
 • Met teruglegging: individu dat geselecteerd wordt voor de steekproef wordt als
@@ -318,77 +191,46 @@ deel van de steekproef genoteerd, en dan verwijderd uit de populatie
 voorkomt
 → Maar: bij elke verwijdering van een individu, veranderen de kansen (e.g.,
 1/100, 1/99, 1/98, etc.) waardoor de selecties niet onafhankelijk zijn
-27
-
 Faculteit Psychologie en Pedagogische Wetenschappen
-
  1. Simple random sampling
 • Let op: kans bepaalt elke selectie
 • Bij vele selecties levert dit een representatieve steekproef op
 ▪ 1000 keer munt opgooien: gemiddeld 50% kop en 50% munt
 ▪ 1000 mensen uit populatie trekken: ongeveer helft mannen en helft vrouwen
-
 • MAAR: bij slechts enkele selecties is het mogelijk dat de steekproef niet
 representatief is
 ▪ slechts 5 keer munt opgooien: 5 keer kop is mogelijk (hoewel onwaarschijnlijk)
 ▪ 10 mensen uit populatie trekken: steekproef met 10 mannen is mogelijk
-
 • Oplossing: bijkomende restricties opleggen (zie methoden 3 en 4)
-
-28
-
 Faculteit Psychologie en Pedagogische Wetenschappen
-
  2. Systematische sampling
 • Gelijkaardig aan simple random sampling
 • Startpunt = random → zelfde procedure als simple random sampling om 1e
 individu te selecteren
 • Nadien: geen random proces meer om andere individuen uit de populatie te
 selecteren → elk kde individu wordt geselecteerd
-
-• k = N/n
 • Voorbeeld:
-▪ N = 100
-▪ n = 25
 ▪ k = 100/25 = 4 → elk 4e individu wordt geselecteerd
-29
-
 Faculteit Psychologie en Pedagogische Wetenschappen
-
  2. Systematische sampling
-
 Random startpunt
 Elk 5e individu
 wordt geselecteerd
-
-30
-
 Faculteit Psychologie en Pedagogische Wetenschappen
-
  2. Systematische sampling
 • Minder random
 • Garandeert hoge mate van representativiteit
-
-31
-
 Faculteit Psychologie en Pedagogische Wetenschappen
-
  3. Gestratificeerde random sampling
 • Populatie bestaat vaak uit subgroepen (“strata”)
 • Representatieve steekproef betekent vaak dat we willen garanderen dat elk
 van de subgroepen adequaat vertegenwoordigd is in de steekproef
-• 3 stappen:
 1. Identificeer de subgroepen
 2. Selecteer random steekproeven van vergelijkbare grootte uit elk van deze
-subgroepen (n1 ≈ n2 ≈ n3 ≈ …)
 3. Combineer de subgroep steekproeven tot 1 steekproef = gestratificeerde
 random steekproef
-
 • Nuttig wanneer je groepen uit de populatie wil bestuderen en vergelijken
-32
-
 Faculteit Psychologie en Pedagogische Wetenschappen
-
  3. Gestratificeerde random sampling
 • Voorbeeld:
 ▪ Hypothese: mannelijke 1e bachelor Psychologie studenten presteren beter op
@@ -397,69 +239,44 @@ Statistiek I examen dan vrouwelijke 1e bachelor Psychologie studenten
 onze steekproef gaan hebben
 ▪ Oplossing: gestratificeerde random sampling om een steekproef te bekomen met
 evenveel mannen en vrouwen
-
 • Nadelen:
 ▪ Vertekend beeld van de populatie (cf. voorb hierboven)
 ▪ Elk individu uit de populatie heeft niet meer evenveel kans om geselecteerd te
 worden (cf. voorb hierboven) ≠ random
-33
-
 Faculteit Psychologie en Pedagogische Wetenschappen
-
  4. Proportionele gestratificeerde random sampling
 • Garandeert dat samenstelling steekproef overeenstemt met samenstelling
 populatie
-
-• 4 stappen:
 1. Identificeer de subgroepen
 2. Identificeer welke proportie van de populatie correspondeert met elke subgroep
 3. Selecteer random steekproeven uit elk van deze subgroepen die de proporties
 respecteren van de populatie
 4. Combineer de subgroep steekproeven tot 1 steekproef = proportionele
 gestratificeerde random steekproef
-
 • MAAR: arbeidsintensief en vergelijking subgroepen soms niet meer mogelijk
-
-34
-
 Faculteit Psychologie en Pedagogische Wetenschappen
-
  5. Cluster sampling
 • Groepen selecteren ipv individuen
 • Voorbeeld: in plaats van 300 lagere schoolkinderen random te selecteren, 10
 klassen selecteren met telkens 30 kinderen
 • Snel en eenvoudig grote steekproef bekomen, metingen in groep ipv
 individueel
-
 • MAAR: onafhankelijkheid?
-
-35
-
 Faculteit Psychologie en Pedagogische Wetenschappen
-
  Nonprobability sampling
 • De kans om een specifiek individu te selecteren is NIET gekend
 • De grootte van de populatie niet gekend is en het is dus niet mogelijk om alle
 individuen op te lijsten
 • De methode van selectie is gebiast, waardoor de kans op het verkrijgen van
 een gebiaste steekproef groter is
-
 • Doel = representativiteit zo veel mogelijk behouden en bias zo veel mogelijk
 vermijden
-
-36
-
 Faculteit Psychologie en Pedagogische Wetenschappen
-
  Nonprobability sampling
 • Methoden:
 ▪ Convenience sampling
 ▪ Quota sampling
-
-37
-
 Faculteit Psychologie en Pedagogische Wetenschappen
-
  1. Convenience sampling
 • Vaak gebruikt in de psychologie
 • “Convenience”: we gebruiken de steekproef waar we toegang toe hebben, die
@@ -471,10 +288,7 @@ kinderen uit lokale school
 • Oproep om deel te nemen aan survey → wie antwoordt hierop?
 Representatief?
 • Maar: snel, goedkoop, minder tijdsintensief dan probability sampling
-38
-
 Faculteit Psychologie en Pedagogische Wetenschappen
-
  1. Convenience sampling
 • Hoewel geen garantie op representatieve steekproeven, strategieën om bias
 zo veel mogelijk te vermijden
@@ -484,11 +298,7 @@ doorsnede (leeftijd, sekse, gender, etc.): studenten KU Leuven ≈ studenten UGe
 stad VS platteland)
 ▪ Rapporteer grondig hoe de steekproef tot stand kwam zodat iedereen de
 representativiteit kan beoordelen!
-
-39
-
 Faculteit Psychologie en Pedagogische Wetenschappen
-
  2. Quota sampling
 • Cf. gestratificeerde sampling, maar NIET random
 • Methode om ervoor te zorgen dat subgroepen in gelijke mate gerepresenteerd zijn in
@@ -499,24 +309,15 @@ subgroep
 ▪ Convenience sample = eerste 30 kinderen uit het 1e leerjaar die bereid zijn deel te nemen
 ▪ Maar: quota van 15 meisjes en 15 jongens (quota jongens bereikt: geen bijkomende
 jongens geselecteerd)
-
 • Ook proportionele quota sampling (match populatie proporties) en technieken van
 systematische en cluster sampling gebruiken
-40
-
 Faculteit Psychologie en Pedagogische Wetenschappen
-
  Besluit
 • Doel = representatieve steekproef trekken uit de populatie en uitspraken doen
 over die populatie adhv een steekproef
-
 • Steekproeftrekking is onderhevig aan bias
 • Verschillende methoden met voor- en nadelen
-
-41
-
 Faculteit Psychologie en Pedagogische Wetenschappen
-
  Oefening tegen volgende les
 Je wil de gemiddelde score (op 20) op het vak Statistiek I van nieuwe studenten 1e bachelor
 Psychologie in Vlaanderen schatten. In 2020-2021 schreven 1731 studenten zich in voor deze
@@ -525,14 +326,9 @@ het gemiddelde gebruiken als een schatting van de gemiddelde score van de 1731 s
 bach Psychologie in Vlaanderen in 2020-2010.
 Vragen:
 1. Wat is de steekproef en wat is de populatie (vermeld N en n)?
-
 2. Hoe zou je een simple random sample kunnen selecteren?
 3. Hoe zou je een gestratificeerde random sample kunnen selecteren?
 4. Hoe zou je een systematische random sample kunnen selecteren?
 5. Hoe zou je een cluster sample van 200 studenten kunnen selecteren?
 6. Hoe zou je een convenience sample kunnen selecteren?
-42
-
 Faculteit Psychologie en Pedagogische Wetenschappen
-
- 

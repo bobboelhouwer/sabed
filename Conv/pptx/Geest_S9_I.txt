@@ -1,114 +1,284 @@
-Inleiding tot de
-filosofie
-Prof. dr. Benjamin De Mesel
-2021-2022
-
-1
-
- 1. Praktisch
-2. Wat is filosofie?
-3. Inhoud/structuur van de cursus
-
-2
-
- 1. Praktisch
-• 12 colleges van 2 uur
-• Communicatie: lessen, e-mail en Toledo
-• Opnames blijven beschikbaar
-• Stel bekijken niet uit, hou lesritme aan!
-• Studeer wat in de les uitgelegd is
-• Structuur lessen: slides Toledo
-• Cursusteksten als hulpmiddel
-
-3
-
- 1. Praktisch
-• Hoe leerstof verwerken?
-Notities nalezen, structureren
-Zorg dat je alles begrijpt voor de volgende les begint
-• Wat als je iets niet begrijpt?
-Vraag uitleg!
-Opname, cursustekst, medestudenten
-Discussieforum
-Docent: benjamin.demesel@kuleuven.be
-! Geen vragen aan docent tijdens examenperiode!
-4
-
- 1. Praktisch: examen
-• Meer uitleg en voorbeeldvragen na de paasvakantie
-• Niet enkel begrijpen, ook uitleggen
-• Schriftelijk examen, drie uur de tijd
-• Vragen:
-- 3 open vragen (1 of 0,5 bladzijde)
-- 4 stellingen beoordelen
-- 4 begrippen uitleggen
-• Algemene regel: studeer wat gezegd is in de les
-• Vragen?
-5
-
- 2. Wat is
-filosofie?
-• Oud-Grieks: liefde voor
-de wijsheid
-• Geen overeenstemming
-over definitie, taak en
-methode van de filosofie
-(metafilosofie)
-• Heel algemeen:
-rationeel kritisch denken
-over mens en wereld
-6
-
- 2. Wat is filosofie?
-• Deelgebieden:
-- Logica: regels van denken, redeneren, argumenteren
-- Metafysica: wat is bestaan/zijn? (wat boven de
-materie uitgaat)
-- Cultuurfilosofie: de mens in een veranderende
-maatschappij (antieke vs. moderne culturen)
-- Wijsgerige antropologie: wat is de mens? (lichaam,
-geest, ziel, zelf, identiteit)
-- Ethiek: filosofie van het juiste handelen. wat is het
-goede? hoe moet ik handelen?
-- Politieke en sociale filosofie: hoe moeten mensen
-7
-samenleven?
-
- 2. Wat is filosofie?
-• Deelgebieden:
-- Epistemologie: kennisleer. wat kunnen we
-kennen/weten? skepticisme
-- Taalfilosofie: wat is taal? hoe kunnen woorden/zinnen
-betekenis hebben?
-- Wetenschapsfilosofie: wat zijn natuurwetten? wat is
-het doel van de wetenschappen?
-- Filosofie van de kunst, milieufilosofie, rechtsfilosofie,
-etc.
-• Vaak overlap tussen deelgebieden
-• Overzicht: https://nl.wikipedia.org/wiki/Filosofie
-8
-
- 3. Inhoud/structuur van de cursus
-• Vier delen
-1. Leven in een moderne maatschappij
-1.1 Het moderne wereldbeeld
-1.2 De crisis van de moderniteit
-1.3 Het authentieke leven
-2. Ethiek
-2.1 Consequentialisme
-2.2 Deontologie
-2.3 Deugdenethiek
-2.4 Zorgethiek
-9
-
- 3. Inhoud/structuur van de cursus
-• Vier delen
-3. Epistemologie: hoe is ware kennis mogelijk?
-3.1 René Descartes
-3.2 David Hume
-3.3 Immanuel Kant
-4. Taalfilosofie: Ludwig Wittgenstein
-
-10
-
- 
+Aanvullingen
+Responsie op
+ingangssignalen en begintoestand
+Responsie berekenen
+• Gegeven toestandsbeschrijving (A, B, C, D) ,
+• Toestandsbeschrijving
+• Exhaustieve berekening van x[k] en y[k]
+Voorbeeld
+Gegeven
+“Oplossen” toestandsvergelijking
+• Gegeven toestandsbeschrijving, u[k] en x[0], wat zijn x[k] en y[k] ?
+• Toestandsbeschrijving
+A
+Algemeen:
+• Uitgangssignaal
+Nulingangs- en nultoestandsrespons
+Nulingangsresponsie
+Nultoestandsresponsie
+• Nulingangsresponsie: y[k] als u[k]
+• Nultoestandsresponsie: y[k] als x[0] = 0
+Toestandsbeschrijving en
+gelijkvormige matrices
+Toestandsbeschrijving is niet uniek
+, np] een nxn inverteerbare matrix
+– Is verandering van coördinaten: w[k] zijn de coordinaten van x[k] in de
+basis {p
+Toestandsbeschrijving is niet uniek
+• In de nieuwe toestandsvector w[k] hebben we een
+equivalente toestandsbeschrijving:
+A en zijn gelijkvormig
+• Beide systemen zijn equivalent. Let wel op initiële
+toestand. Nulingangsresponsie:
+Zorg ervoor dat P w[0] = x[0], dan is ook P w[k] = x[k]
+voor k>0, en dus y[k]=
+Voorbeeld
+D
+D
+Voorbeeld (2)
+Kies
+zodat x[k] = P w[k]
+D
+D
+Toestandsbeschrijving en
+matrixdiagonalisatie
+Diagonaalvorm
+• Veronderstel dat A diagonaliseerbaar is
+• Kies P =1,[v... , nv] met iveigenvector van A met
+eigenwaarde
+• Voor SISO systeem:
+• Toestand i beinvloedt toestand
+≠i niet
+j
+Diagonaalvorm voor SISO systeem
+• Som van
+eerste-orde
+systemen
+• Plus directe
+verbinding
+met winst̅+
+Voorbeeld
+D
+D
+Minimaliteit
+Voor sommige systemen kan een
+/ * = 0. De toestandsveranderlijke
+wi[k] kan dan niet beïnvloed
+worden. Het systeem is niet
+controleerbaar.
+Voor sommige systemen kan een
+0̅* = 0. De toestandsveranderlijke
+wi[k] kan de uitvoer niet
+beïnvloeden. Het systeem is niet
+observeerbaar.
+Een systeem dat niet observeerbaar
+en/of niet controleerbaar is heet
+niet-minimaal. Hetzelfde ingangsuitgangsgedrag kan gerealiseerd
+worden met een kleiner aantal
+geheugenelementen.
+Inwendige (interne) stabiliteit
+• Een systeem is inwendig stabiel →
+als0 x[k]
+als k
+k
+w λnk vn
+• Inwendig instabiel zodra één
+• Inwendig stabiel
+Nulingangsresponsie
+Nulingangsresponsie
+Nultoestandsresponsie
+• Ak x[0] bestuderen
+A
+(c = rijvector; SISO system)
+Nulingangsresponsie
+k
+w λnk vn
+basis {v
+= P-1 x[k] is de coördinatenvector van x[k] in de
+k
+basis {v
+is een gewogen som van exponentiële functies in k
+Nulingangsresponsie
+Bijdragen tot nulingangsresponsie
+Attractor / aantrekker
+Inwendig stabiel
+Repeller / afstoter
+Inwendig onstabiel
+Saddle point / zadelpunt
+Inwendig onstabiel
+Complexe eigenwaarden
+ω is genormaliseerde frequentie. 0 < 7 < 1
+• Eigenvectoren
+i en
+i
+• Neem complex toegevoegde termen samen in
+E
+een reële rijvector;
+ccis
+E
+Re
+G
+Complexe eigenwaarden (2)
+G
+• Bijdrage door complexe eigenwaarde in y[k] is
+product van:
+k - zie
+o Exponentieel verloop
+r reële eigenwaarde
+o Golvend verloop (K
+cos
+Complexe eigenwaarden
+Inwendig stabiel
+Bijdrage tot nulingangsresponsie
+Canonieke vorm en
+differentievergelijking
+Canonieke vorm
+• Zoek transformatiematrix 1Q
+q] zodat door de
+n
+M
+gelijkvormigheidstransformatie:
+M
+R
+Mnoemen we een compagnon-matrix
+Men A hebben dezelfde K.P. want gelijkvormig
+• Constructie van Q – zie later
+Waarom die Ã O
+en
+Constructie van Q
+2de vergelijking:T
+T
+Constructie van Q
+U
+T
+PQ
+PQ
+Waarom die Ã O
+en
+w
+w
+w
+w
+w
+w
+w
+Waarom die Ã O
+en
+Dus:
+Uitgangsvergelijking:
+Herschrijf:
+w1[k] elimineren
+Differentievergelijking
+O
+O
+f
+• Rechtstreeks verband tussen u[k] en y[k]
+• Dit heet een differentievergelijking
+• Alternatief voor de toestandsbeschrijving
+• Is een verband tussen differentievergelijking en canonieke vorm
+• M.a.w.: gegeven een differentievergelijking
+f
+f
+f
+Dan komen daarmee toestandsbeschrijvingen overeen die allemaal dezelfde K.P.
+hebben:%! + PQ
+R
+• Ook: gegeven een toestandsbeschrijving (A, b, c, d), dan komt daarmee een
+differentievergelijking overeen waarbij
+dedeã coëfficiënten van de K.P.
+i ook
+van A zijn
+Voorbeeld
+X
+Y
+X
+Y
+Z
+PQ
+PQ
+Voorbeeld
+O
+Met Q =
+, canonieke vorm:
+D
+D
+Voorbeeld
+PQ
+D
+D
+de differentievergelijking gehaald uit de canonieke vorm
+Impulsresponsie en convolutie
+Impulsresponsie
+• Doel: berekenen van de responsie. We hadden al:
+Exhaustief
+• Nultoestandsimpulsrespons (impulsrespons) h[k] van
+een SISO DTLTI systeem is y[k] wanneer
+k
+k
+k
+Verschoven impuls
+k
+k
+k
+k
+Ontbinding u[k]
+Lineair en tijdsinvariant
+Convolutie
+• Formeel
+d
+efd
+d
+b
+Lineair
+Tijdsinvariant
+• Voor een systeem dat uit de nultoestand vertrekt !
+• y[k] is de convolutie van u[k] en h[k]
+• Uitvoer is convolutie van invoer en impulsresponsie
+Convolutie
+Neutraal element: a[k]
+Lineair:
+• Enkelzijdige signalen a[k] = b[k] = 0 voor k<0 :
+d
+E
+=aPb
+efd
+efR
+• Causaal systeem: h[k] = 0 voor k<0
+Geen respons vóór de excitatie
+Impulsresponsie
+Nulingangsresponsie
+Nultoestandsresponsie
+2 term blijft enkel index j=0 staan
+de term:
+cA
+b
+Voorbeeld
+d
+E
+E
+E
+E
+steorde
+Impulsresponsie van
+1 systeem
+b
+D
+c
+k
+op
+E
+cb
+c
+q
+E
+E
+E
+Vorm impulsresponsie
+cAvoor k > 0
+• Zelfde bespreking als nulingangsresponsie
+steorde systeem:λk-1
+cb, zie boven
+• Voor diagonaliseerbare A, som van:
+o Exponentiëel verloop
+λ complex)
+o Schommelend exponentiëel verloop

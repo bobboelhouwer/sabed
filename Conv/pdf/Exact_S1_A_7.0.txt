@@ -1,12 +1,6 @@
 Algemene Scheikunde : Hfst. IX Evenwichten voor Oxidantia en Reductantia
-
-1
-
 Hoofdstuk IX Evenwichten voor Oxidantia en Reductantia
-1.
-
 Inleiding
-
 In hoofdstuk VIII werd beschreven hoe een H+-ion kan worden uitgewisseld tussen
 het zure en het basische deeltje van een geconjugeerd zuur-base paar. De zuurconstante is hierbij bepalend voor de plaats van het evenwicht en voor de zuursterkte
 van het beschouwde zuur.
@@ -22,12 +16,8 @@ naar hoofdstuk VIII want we zullen analoge aspecten behandelen als bij zuur-base
 evenwichten. Voor de student hoeft dit hoofdstuk geen totaal nieuwe redeneringen te
 omvatten. Integendeel, de principes van hoofdstukken VII en VIII komen opnieuw
 aan bod maar toegepast op een ander type van oplossingsreacties.
-2.
-2.1.
-
 Principe van een elektrochemische cel
 Afspraken en definities i.v.m. evenwichten
-
 Nemen we een Zn-plaatje of een Zn-draad en dompelen we dit in een oplossing die
 Zn2+-ionen bevat (b.v. door oplossen van ZnSO4). In het metaal (een vaste fase)
 komt het element Zn voor met een oxidatietrap 0, in de oplossingsfase (ionen) met
@@ -38,27 +28,10 @@ is het vooral de entropieterm die overheerst waardoor het evenwicht vooral geleg
 is naar de kant met de grootste wanorde. Het is duidelijk dat opgeloste Zn2+-ionen
 een grotere beweeglijkheid ervaren dan Zn-atomen opgesloten in hun metaalrooster.
 We schrijven dit evenwicht als
-Zn2+
-
-+
-
-2 e-
-
 Zn
-
 We zouden dit evenwicht uiteraard ook omgekeerd kunnen schrijven
 Zn
-
--
-
-2 e-
-
-Zn2+
-
  Algemene Scheikunde : Hfst. IX Evenwichten voor Oxidantia en Reductantia
-
-2
-
 We maken echter de afspraak dat voor een evenwicht tussen twee verschillende oxidatietrappen van eenzelfde element, de hoogste oxidatiegraad links en de laagste
 oxidatiegraad rechts wordt geplaatst zodat we van links naar rechts de evenwichtsreactie dienen te lezen als een opname van elektronen.
 Het opnemen van elektronen door een bestanddeel noemen we een reductie. De
@@ -68,39 +41,24 @@ ander bestanddeel oxideert (van elektronen berooft).
 Het verliezen van elektronen door een bestanddeel noemen we een oxidatie. De
 oxidatietrap van het deeltje wordt hierdoor verhoogd. Het deeltje dat elektronen verliest, is een reductans omdat het zelf iets anders reduceert (elektronen levert aan).
 OXIDANS
-
-+
-
 ELEKTRONEN
-
 neemt e- op en
 wordt gereduceerd
-
 REDUCTANS
 geeft e- af en
 wordt geoxideerd
-
 heeft hogere oxidatietrap
 en verlaagt in oxidatietrap
-
 heeft lagere oxidatietrap
 en verhoogt in oxidatietrap
-
 Hieruit blijkt opnieuw dat een oxidans en een reductans (net zoals een zuur en een
 base) met elkaar complementair zijn (zie paragraaf 2.2 van hoofdstuk VIII). In dit verband is het ook passend te spreken over een geconjugeerd reductie-oxidatiepaar
 of een geconjugeerd redoxpaar. De term ‘geconjugeerd’ is duidelijk ook hier op zijn
 plaats maar wordt behalve in deze cursus in de meeste vakliteratuur niet systematisch gebruikt. Een oxidans en een reductans horen echter bij elkaar en verschillen in
 eerste instantie (zie uitgebreider verder) enkel door een aantal elektronen wat resulteert in een hogere of lagere oxidatietoestand voor een bepaald chemisch element.
 Het evenwicht op de meest eenvoudige en meest algemene wijze geschreven, wordt
-
 Ox
-
-+
-
-n e-
-
 Red
-
 Bij dit evenwicht in oplossing hoort een evenwichtsconstante Kc. Een grote waarde
 voor Kc impliceert een evenwicht dat naar rechts gelegen is en in voorkomend geval
 hebben we te maken met een oxidans dat heel graag elektronen zal opnemen of met
@@ -112,33 +70,18 @@ Zn2+/Zn (met KZn <<) en kunnen nu besluiten dat Zn2+ een zwak oxidans is waardoo
 het weinig behoefte heeft om elektronen op te nemen tot vorming van Zn-metaal.
 Voor het Cu2+/Cu systeem (met KCu >>) is dit net andersom waardoor Cu2+-ionen een
 relatief grote affiniteit voor elektronen vertonen tot vorming van Cu-metaal.
-
  Algemene Scheikunde : Hfst. IX Evenwichten voor Oxidantia en Reductantia
-2.2
-
-3
-
 Elektrodepotentiaal in relatie tot de evenwichtsligging
-
 Bekijken we meer in detail het Zn2+/Zn systeem dat zich opbouwt wanneer we een
 Zn-plaatje in contact brengen (onderdompelen) in een oplossing van Zn2+-ionen. Een
 dergelijke combinatie van een metaal in evenwicht met ionen van dat metaal, noemen we een elektrode of zoals verder duidelijk wordt: een halfcel.
 Zn
-
-Zn2+ +
-
-2 e-
-
 Zn
-
-KZn2+/Zn <<
-
 Het evenwicht is naar links gelegen. Hierdoor zullen de Znatomen proberen in oplossing te gaan als Zn2+. Hiervoor
 moeten ze echter hun 2 buitenste elektronen achterlaten
 op de zinkelektrode die hierdoor negatief wordt opgeladen.
 Dit ladingsverschil tussen metaal en oplossing zorgt
 eveneens voor een potentiaalverschil. Naarmate meer
-2+
 Zn is opgelost en dit potentiaalverschil toeneemt, zullen de
 Zn
 Zn2+-ionen het steeds moeilijker krijgen om nog meer op te
@@ -148,29 +91,12 @@ evenwicht tussen Zn2+ en Zn volledig ingesteld. Tussen de draad en de oplossing
 heeft zich een evenwichtspotentiaalverschil ingesteld dat echter niet op een
 eenvoudige wijze praktisch kan gemeten worden. Dat is voorlopig ook niet de
 bedoeling maar we wensen de aandacht te vestigen op een heel belangrijk principe.
--
-
 Evenwichtsinstelling aan het oppervlak van een metaalelektrode waarvoor het
 evenwicht van het redoxsysteem naar links is gelegen (K <<), resulteert in een
 negatieve oplading van het elektrodemateriaal ten opzichte van de oplossing
 Hernemen we hetzelfde maar dit keer met het Cu2+/Cu systeem, dan doet zich precies het omgekeerde verschijnsel voor.
 Cu
-
-+
-+
-+
-+
-
-Cu2+
-
-Cu2+ +
-
-2 e-
-
 Cu
-
-KCu2+/Cu >>
-
 De Cu2+-ionen voelen zich ‘niet goed thuis’ in oplossing en
 proberen op het metaalrooster te binden waar ze een lagere Gibbs Vrije Energie bereiken. Hiertoe dienen ze echter
 hun positieve lading mee over te brengen op het metaal.
@@ -178,18 +104,11 @@ Het metaal wordt hierdoor positief opgeladen ten opzichte
 van de oplossing. Het potentiaalverschil dat hierdoor wordt
 opgebouwd is opnieuw niet praktisch meetbaar maar belangrijker is dit potentiaalverschil in relatie te brengen met
 de evenwichtsligging.
-
 Evenwichtsinstelling aan het oppervlak van een metaalelektrode waarvoor het
 evenwicht van het redoxsysteem naar rechts is gelegen (K >>), resulteert in een
 positieve oplading van het elektrodemateriaal ten opzichte van de oplossing
-
  Algemene Scheikunde : Hfst. IX Evenwichten voor Oxidantia en Reductantia
-2.3
-
-4
-
 Celpotentiaal
-
 We plaatsen vervolgens een Cu-elektrode en een Zn-elektrode naast elkaar in een
 gecombineerde opstelling (elektrochemische cel). Volgens afspraak plaatsen we de
 elektrode die positief wordt opgeladen rechts en de negatieve elektrode links.
@@ -197,26 +116,9 @@ Beide elektrolytoplossingen (CuSO4 en ZnSO4) verbinden we met een elektrolytbrug
 (een visceuze zoutoplossing die elektrische geleiding toelaat) zodat de twee oplossingen geleidend met elkaar verbonden worden zonder dat de oplossingen zelf hierdoor kunnen mengen. Tussen de Cu-elektrode en de Zn-elektrode plaatsen we een
 voltmeter en lezen voor deze combinatie een potentiaalverschil af van 1,1 V (de concentraties aan Cu2+ en Zn2+ bedragen in dit geval 1 M).
 V
-+ 1,1 V
-
 Zn
-
-+
-
--
-
 Cu
-
 elektrolytbrug
-
-Zn2+
-
-Cu2+
-
-SO42-
-
-SO42-
-
 Voor een andere combinatie met andere metaalelektroden (Fe of Ag) worden telkens
 andere potentiaalverschillen gemeten. Elk van de twee elektroden vormt een halfcel
 en door de combinatie van twee halfcellen bouwen we een elektrochemische cel
@@ -233,83 +135,31 @@ in deze opstelling nauwelijks stroom kan vloeien. Vervangen we de voltmeter door
 een kleinere weerstand (b.v. een lamp) dan zal het heersende potentiaalverschil tussen de geleiders aanleiding geven tot het vloeien van een elektrische stroom waarbij
 ook duidelijk chemische omzettingen zullen optreden. We spreken in dit verband van
 een elektrochemische reactie en de elektrochemische cel levert arbeid.
-
  Algemene Scheikunde : Hfst. IX Evenwichten voor Oxidantia en Reductantia
-2.4
-
-5
-
 Galvanische celwerking
-
 Nemen we opnieuw de opstelling uit vorige paragraaf maar vervangen we de voltmeter door een kleinere weerstand, dan treden de volgende fenomenen op
--
-
 De elektronen kunnen via de elektrische geleider nu wegvloeien vanuit de negatief geladen Zn-draad (minst positieve potentiaal) naar de positief geladen
 Cu-draad (meest positieve potentiaal). Er ontstaat een elektrische stroom.
-
--
-
 Doordat aan de Zn-elektrode elektronen verdwijnen, kunnen meer Zn-atomen
 elektronen vrijmaken en in oplossing gaan waarbij verdere omzetting optreedt
-Zn2+
-
-2 e-
-
-+
-
 Zn
-
 De optredende reactie is een oxidatie en de resulterende stroom noemen we een
 anodische oxidatiestroom. De elektrode waar deze oxidatie plaatsvindt, noemen
 we de anode (in dit geval de Zn-elektrode).
--
-
 Doordat aan de Cu-elektrode elektronen worden aangevoerd, kunnen meer
 Cu2+-ionen zich op de elektrode afzetten waarbij eveneens omzetting optreedt
-Cu2+
-
-2 e-
-
-+
-
 Cu
-
 De optredende reactie is een reductie en de resulterende stroom noemen we een
 kathodische reductiestroom. De elektrode (in dit geval de Cu-elektrode) waar de
 reductie plaatsvindt, noemen we de kathode.
 Uiteraard zijn kathodische reductiestroom en anodische oxidatiestroom even groot
 gezien ze betrekking hebben op eenzelfde stroomkring
-
--
-
 ANODE
-
 KATHODE
-
 Cu
-
 Zn
-e-
-
-+
-
 elektrolytbrug
-
-e-
-
-Zn2+
-
-Cu2+
-
-SO42-
-
-SO42-
-
  Algemene Scheikunde : Hfst. IX Evenwichten voor Oxidantia en Reductantia
--
-
-6
-
 Tot hiertoe werden enkel negatieve ladingen (elektronen) via de geleider en
 de lamp van links naar rechts verplaatst. De stroomkring is hierdoor nog niet
 gesloten. Om dit bereiken, dienen eveneens negatieve ladingen via de twee
@@ -317,48 +167,11 @@ oplossingen en de zoutbrug terug te vloeien van rechts naar links. De ionen
 die hiervoor in aanmerking komen zijn de negatieve SO42- ionen. Het spreekt
 voor zich dat eenzelfde resultaat wordt bereikt door positieve ionen over de
 zoutbrug van links naar rechts te laten lopen.
-
 De globale reactie die optreedt in deze galvanische cel is het verschil van de twee
-deelreacties [ ( ) – ( ) ]
-
-Cu2+
-
-Cu2+
-
-+
-
-2 e-
-
 Cu
-
-( )
-
-Zn2+
-
-+
-
-2 e-
-
 Zn
-
-(
-
-+
-
 Zn
-
 Cu
-
-+
-
-Zn2+
-
-KCu2+/Cu >>
-)
-
-KZn2+/Zn <<
-Kev >>>
-
 Gezien het evenwicht van de totale elektrochemische reactie ver naar rechts is gelegen, zal de elektrochemische cel zolang stroom leveren totdat nagenoeg alle producten links in de reactievergelijking zijn weg gereageerd. We onthouden voorlopig dat
 een elektrochemische reactie naar rechts evolueert wanneer Ecel = ER – EL > 0
 Uit hoofdstuk VII weten we dat een reactie die doorgaat naar rechts, wordt gekenmerkt door G < 0. Bovendien weten we eveneens uit hoofdstuk VII dat deze G de
@@ -376,14 +189,8 @@ en celpotentiaal eveneens kunnen gebruikt worden om een beschrijving te maken
 voor evenwichtsfactoren van redoxreacties die doorgaan in niet elektrochemische
 omstandigheden van een cel maar wel in zuivere chemische omstandigheden in één
 enkel reactievat of beker.
-
  Algemene Scheikunde : Hfst. IX Evenwichten voor Oxidantia en Reductantia
-2.5
-
-7
-
 Elektrolytische celwerking
-
 In de galvanische cel van vorige paragraaf stroomden de elektronen op spontane
 wijze van de meest negatieve naar de meest positieve elektrode waarbij chemische
 energie werd omgezet in elektrische arbeid.
@@ -391,101 +198,43 @@ Indien we de lamp (verbruiker) wegnemen en vervangen door een uitwendige spannin
 gemaakt aan de eigen celpotentiaal, dan worden de elektronen gedwongen in tegengestelde zin te stromen. Het gevolg hiervan is dat de richting van de twee halfreacties omkeert. Het Cu-metaal wordt tegen de spontane richting in gedwongen om in
 oplossing te gaan als Cu2+ terwijl Zn2+-ionen verplicht worden zich af te zetten als Znmetaal. Elektrische arbeid wordt hierbij opgeslagen als chemische energie, precies
 het omgekeerde als bij de spontane galvanische werking.
-Zn2+
-
-+
-
-2 e-
-
 Zn
-
-Cu2+
-
-+
-
-2 e-
-
 Cu
-
 kathodische reductie
 anodische oxidatie
-
 De voorwaarde waaronder de elektrolytische omzetting kan doorgaan is
 Vaangelegd < - Ecel
 Gezien we Ecel per definitie als positief hebben aangenomen, dient de aan te leggen
 tegenpotentiaal (in absolute waarde) groter te zijn maar uiteraard tegengesteld in
 teken, m.a.w. meer negatief dan de negatieve waarde van de celpotentiaal.
-Cu2+
-
-+
-
 Zn
-
 Cu
-
 KATHODE
-
--
-
-+
-
-+
-
-ANODE
++ ANODE
 Cu
-
 Zn
-e-
-
-Zn2+
-
 elektrolytbrug
-
-e-
-
-Zn2+
-
-Cu2+
-
-SO42-
-
-SO42-
-
 De elektrolyse van chemische bestanddelen en oplossingen wordt verder behandeld.
-
  Algemene Scheikunde : Hfst. IX Evenwichten voor Oxidantia en Reductantia
-3.
-3.1
-
-8
-
 Standaard elektrodepotentiaal
 De standaard waterstof elektrode
-
 De absolute potentiaal van een elektrode kan niet worden gemeten. Wel kan het potentiaalverschil tussen twee elektroden worden bepaald via het tussenplaatsen van
 een voltmeter. We weten intussen dat voor een geconjugeerd redoxpaar waarbij het
 evenwicht naar rechts gelegen is, het oxidans sterk is en het reductans zwak. Wanneer voor dit redoxsysteem een halfcel kan gebouwd worden, dan zal de elektrode
 positief worden opgeladen ten opzichte van de oplossing. We voelen aan dat de potentiaal van dergelijke elektrode iets te maken heeft met evenwichtsaspecten.
 E
 sterke oxidantia
-
 zwakke geconjugeerde
 reductantia
-
 matig sterke
 oxidantia
-
 arbitrair nulpunt
-E° = 0
 matig sterke
 reductantia
-
 zwakke
 oxidantia
-
 sterke geconjugeerde
 reductantia
-
 Aldus kunnen we een theoretische potentiaalas proberen op te stellen waarbij we de sterkere oxidantie meer
 bovenaan en de sterkere reductantia
 meer onderaan de as zullen aantreffen. Vergelijk dit met de rangschikking
@@ -501,19 +250,9 @@ nulpunt uitkiezen horende bij een bepaald redoxsysteem en zullen hieraan
 arbitrair een waarde 0 voor de absolute potentiaal toekennen.
 Per definitie plaatsen we dit nulpunt bij
 de standaard waterstofelektrode
-(SHE).
-
 In een dergelijke elektrode (zie tekening op volgende pagina) wordt een evenwicht
 ingesteld tussen de oxidatietrap +I (H+) en de oxidatietrap 0 (H2) van het element
 waterstof. Het volgende redoxsysteem bouwt zich hierbij op
-2 H+(opl.)
-
-+
-
-2 e-
-
-H2(g)
-
 Dit kan in de praktijk worden gebracht door waterstofgas te laten borrelen doorheen
 een oplossing van b.v. HCl. Gezien met geen van beide vormen (H+-ionen of H2-gas)
 een geleidende verbinding mogelijk is, maken we gebruik van een inerte Pt-draad om
@@ -523,59 +262,25 @@ Indien we standaard omstandigheden instellen (1 M voor de concentratie aan H+ en
 gelijk aan de standaard elektrodepotentiaal E°.
 Per definitie stellen we deze E°SHE gelijk aan 0 V en op deze wijze wordt een nulpunt
 gedefinieerd op de potentiaalas.
-
  Algemene Scheikunde : Hfst. IX Evenwichten voor Oxidantia en Reductantia
-3.2
-
-9
-
 Standaardpotentialen versus de SHE-elektrode
-
 Eens we beschikken over een referentie-elektrode, kunnen we de potentiaal van elke
 willekeurige elektrode experimenteel bepalen. In de volgende figuren is dit voorgesteld voor twee gevallen.
 V
 Pt
 Zn
-
 elektrolytbrug
-H2(g) 1 bar
-
-H+
-1M
-
-Zn2+ 1M
-
 We meten een Ecel = 0,763 V. Alle bestanddelen (ook Zn2+) komen voor in standaard
 hoeveelheden. In deze situatie is Ecel = E°cel = E°R – E°L = 0,763 V en gezien E°R =
 E°SHE = 0, bekomen we rechtstreeks de standaardpotentiaal E° van de Zn-elektrode.
-E ° Zn 2 + / Zn
-
-= − 0,763 V
-
 V
 Pt
 elektrolytbrug
 Cu
-H2(g) 1 bar
-
-H+
-1M
-
-Cu2+ 1M
-
 Voor dit geval (ook allemaal standaard hoeveelheden) meten we een Ecel = E°cel van
 0,337 V waaruit we analoog berekenen
-E ° Cu 2 + / Cu
-
-= 0,337 V
-
  Algemene Scheikunde : Hfst. IX Evenwichten voor Oxidantia en Reductantia
-3.3
-
-10
-
 Betekenis van de standaardpotentiaal
-
 Het voorgaande laat vermoeden dat potentialen en standaardpotentialen enkel betekenis hebben voor redoxsystemen waarvoor een elektrode kan worden gebouwd. De
 absolute standaard potentiaal (onder standaard hoeveelheden) en de absolute potentiaal (onder niet standaard voorwaarden) voor deze elektrode kan worden bepaald
 uit het gemeten potentiaalverschil (E°cel en Ecel) na combinatie met de SHE.
@@ -594,183 +299,56 @@ Uit hoofdstuk VII weten we dat G de hoeveelheid Gibbs Vrije Energie voorstelt di
 als nuttige arbeid (in dit geval elektrische arbeid) kan worden geleverd. Gezien G
 voor een spontane reactie intrinsiek negatief is en een geleverde arbeid als positief
 wordt gedefinieerd (zie ook hoofdstuk I) wordt
-− ∆G =
-
-A'
-
 Een elektrische arbeid A’ wordt geleverd wanneer een elektrische lading zich verplaatst over een potentiaalverschil.
 1 mol elementaire ladingen (zoals de elektronlading of de lading van een éénwaardig
 positief of negatief ion) correspondeert met 96.485 C(oulomb). Hierbij stelt de constante F (= 96.485 C.mol-1) de constante van Faraday voor. Voor de ontlading van
 1 mol van een n-waardig ion is er nF Coulomb aan lading nodig. Indien tussen twee
 elektroden met een potentiaalverschil E = Ecel een hoeveelheid lading stroomt afkomstig van de ontlading van 1 mol ionen, dan is de geleverde elektrische arbeid
-− ∆G = n F ∆E
-
 Voor een cel onder standaard voorwaarden wordt dit
-− ∆G ° = n F ∆E °
-
 E° stelt hierin het verschil voor in standaardpotentiaal van twee redoxsystemen.
 Indien we deze twee redoxsystemen zouden inbouwen in een elektrochemische cel
 onder standaard voorwaarden, dan bekomen we door een eenvoudige meting met
 een voltmeter E° = E°cel.
-
  Algemene Scheikunde : Hfst. IX Evenwichten voor Oxidantia en Reductantia
-
-11
-
 Passen we dit toe op een cel opgebouwd uit een Cu-elektrode rechts en een Znelektrode links en laten we zoals in paragraaf 2.4 een galvanische werking doorgaan.
 We zorgen ervoor dat Cu2+ en Zn2+ bij de aanvang aanwezig zijn in standaard concentraties van 1 M. Op dat moment bedraagt E° = E°cel = 1,1 V (gemeten).
 De volgende totale reactie treedt op
-Cu2+
-
-+
-
 Zn
-
 Cu
-
-+
-
-Zn2+
-
 Kev
-
 Bovendien weten we voor reacties dat
-∆G° = − RT ln K ev
 waardoor
-
-∆G° = − RT ln K ev
-∆E ° =
-
 RT
 nF
-
-= − n F ∆E °
 ln K ev
-
 Gezien we werken bij een constante temperatuur van 25 °C vereenvoudigt dit zich tot
-∆E ° =
-
-0,0591
 log K ev
 n
-
 In het gekozen voorbeeld van de cel opgebouwd uit een Cu-elektrode en een Znelektrode worden 2 elektronen uitgewisseld. Elke Cu2+ ontvangt 2 elektronen van
 elke Zn. De evenwichtsconstante die we aldus berekenen, bedraagt
-1,1 × 2
-= 37,2
-0,0591
-
-=
-
 log K ev
-
 en het evenwicht ligt extreem naar rechts
-
 Voor de individuele redoxsystemen kunnen we analoge betrekkingen opschrijven
-Zn2+
-E ° Zn 2 + / Zn
-
-=
-
-Cu2+
-E ° Cu 2 + / Cu
-
-=
-
-+
-
-2 e-
-
 Zn
-
 KZn2+/Zn
-
 Cu
-
 KCu2+/Cu
-
 Red
-
 KOx/Red
-
-0,0591
-log K Zn 2 + / Zn
-2
-
-+
-
-2 e-
-
-0,0591
-log K Cu 2 + / Cu
-2
-
 Voor een willekeurig redoxsysteem
 Ox
-E °Ox / Re d
-
-+
-=
-
-n e-
-
-0,0591
 log K Ox / Re d
 n
-
  Algemene Scheikunde : Hfst. IX Evenwichten voor Oxidantia en Reductantia
-
-12
-
 Belangrijke opmerking
 De evenwichten voor de beschouwde redoxsystemen Zn2+/Zn en Cu2+/Cu zijn heterogene evenwichten (zie hoofdstuk VII paragraaf 4.3). Niet-oplosbare en niet gasvormige componenten in een evenwichtsreactie worden niet opgenomen in de uitdrukking voor de evenwichtsconstante. Volgens de voorwaarden van standaard hoeveelheden worden opgeloste ionen ingevuld in eenheden van mol.l-1 en gasvormige
 componenten in eenheden van bar.
 De uitdrukkingen voor de evenwichtsconstanten op vorige pagina worden aldus
-K Zn 2 + / Zn
-
-=
-
-1
-
-K Cu 2 + / Cu
-
-[Zn ]
-2+
-
-=
-
-1
-
 K ev
-
-[Cu ]
-2+
-
-=
-
-[Zn ]
-[Cu ]
-2+
-
-2+
-
 Zo wordt ook duidelijk dat
-
 K ev
-
-3.4
-
-=
-
-K Cu 2 + / Cu
-K Zn 2 + / Zn
-
 in analogie met
-
-∆E ° = E ° Cu 2 + / Cu − E ° Zn 2 + / Zn
-
 Standaardpotentiaal voor willekeurige redoxsystemen
-
 In voorgaande paragraaf werden redoxsystemen besproken waarvoor de E°Ox/Red en,
 door combinatie van dergelijke redoxsystemen, E° of E°cel experimenteel meetbaar
 waren. Er bestaan echter ook redoxsystemen waarvoor geen praktisch bruikbare
@@ -788,339 +366,108 @@ ons louter concentreren op redoxreacties in chemische omstandigheden en hierbij
 elektrische begrippen hanteren voor de beschrijving van de evenwichtsinstelling.
 De meeste redoxsystemen bevatten links of rechts in hun halfreactie naast het oxidans en het reductans immers vaak ook nog andere componenten zoals H+, H2O e.a.
 Voorbeeld
-
-8 H+ +
-
 MnO4-
-
-+
-
-5 e-
-
-Mn2+
-
-+
-
-4 H2O
-
 Een tabel met halfreacties met de bijhorende E°-waarde is gegeven achteraan deze
 cursus maar is ook te vinden op de achterkant van het Periodiek Systeem.
 In het volgende overzicht zijn de belangrijkste gegevens samengevat voor het gebruik van E°-waarden voor individuele redoxsystemen en bij reacties tussen verschillende redoxsystemen.
-
  Algemene Scheikunde : Hfst. IX Evenwichten voor Oxidantia en Reductantia
-
-E° (in V)
-
 sterkte van het
 oxidans
-
 Ag+/Ag
-
-+ 0,800
-
 GECONJUGEERDE
 REDOX-SYSTEMEN
-
 Cu2+/Cu
-
-+ 0,337
-
 Ox
 ARBITRAIR
 NULPUNT
-
-13
-
-H+/H2
-
-n e-
-
-+
-
 Red
-
-0,000
-
-E °Ox / Re d
-
 Zn2+/Zn
-
-0,0591
 log KOx / Re d
 n
-
-=
-
-- 0,763
-
 sterkte van het
 reductans
-
 Voor een reactie tussen twee redox-systemen
 Ox1
-
-+
-
-n e-
-
 Red1
-
 Ox2
-
-+
-
-n e-
-
 Red2
-
 STERKSTE oxidans (grootste E°) reageert met STERKSTE reductans (kleinste E°)
 tot vorming van
-
-E°1
 ZWAKKER reductans
-
 en
-
-E°2
 ZWAKKER oxidans
-
 voor het geval E°1 > E°2
 Ox1
-
-+
-
 Red2
-
-E° = E°1 – E°2 = E°R – E°L > 0
-
 Red1
-
-+
-
 Ox2
-
 EVENWICHT naar RECHTS
-
 in een elektrochemische cel
 voor een chemische reactie
-
-∆E ° =
-
-0,0591
 log K ev
 n
-
  Algemene Scheikunde : Hfst. IX Evenwichten voor Oxidantia en Reductantia
-
-14
-
 Rekenvoorbeeld: Br2 en I2 worden in een oplossing gebracht met Br- en I-. Alle bestanddelen zijn aanwezig in standaardconcentraties (1 M). Welke reactie zal optreden in het mengsel?
 De volgende redoxsystemen zijn aanwezig
 Br2(vl)
-
-+
-
-2 e-
-
-2 Br-(opl)
-
-E° = 1,065 V
-
-I2(v)
-
-+
-
-2 e-
-
-2 I-(opl)
-
-E° = 0,535 V
-
 Br2 en I2 zijn beide behoorlijk oxiderend maar de E° voor Br2 is duidelijk groter dan
 die van I2. Bijgevolg zal Br2 elektronen afnemen van I- en ligt het evenwicht voor de
 volgende reactie naar rechts
 Br2(vl)
-
-2 I-(opl)
-
-+
-
-2 Br-(opl)
-
-E° = 1,065 – 0,535 = 0,530 V
-
 log K ev
-
-+
-=
-
-2 × 0,53
-0,0591
-
-I2(v)
-= 17,9
-
 Rekenvoorbeeld: In een oplossing bevinden zich Ag+-ionen en water onder standaard voorwaarden. Welk van de twee wordt het gemakkelijkst gereduceerd bij toevoegen van een sterk reductans?
 Door reductie worden Ag+-ionen omgezet tot Ag-metaal
 Ag+(opl)
-
-+
-
-e-
-
 Ag(v)
-
-E° = 0,800 V
-
 Door reductie wordt water omgezet in waterstofgas
-+ 2 e-
-
-2 H2O
-
-H2(g)
-
-+
-
-2 OH-(opl)
-
-E° = - 0,83 V
-
 Ag+ heeft de grootste E°, is dus het sterkste oxidans en wordt het gemakkelijkst gereduceerd.
 Rekenvoorbeeld: In een oplossing bevinden zich water en bromide-ionen onder
 standaard voorwaarden. Wat wordt eerst geoxideerd door toevoegen van een sterk
 oxidans?
 Door oxidatie wordt Br- omgezet in Br2 (reactie lezen van rechts naar links)
 Br2(vl)
-
-+
-
-2 e-
-
-2 Br-(opl)
-
-E° = 1,065 V
-
 Door oxidatie wordt water omgezet in zuurstofgas
-O2(g)
-
-+
-
-4 H+
-
-+
-
-4 e-
-
-2 H2O
-
-E° = 1,23 V
-
 O2 is een sterker oxidans dan Br2 (heeft grotere E°) en hierdoor is Br- een sterker
 reductans dan water en zal bijgevolg gemakkelijkst geoxideerd worden.
 Let er dus op dat de termen ‘sterk’ en ‘zwak’ relatief moeten beschouwd worden.
-
  Algemene Scheikunde : Hfst. IX Evenwichten voor Oxidantia en Reductantia
-4.
-
-15
-
 Potentiaalbetrekking van Nernst
-
 Tot hiertoe werden steeds opnieuw standaard omstandigheden gekozen. Onder die
 voorwaarden gelden
-∆G ° = − RT ln K ev
-
-= − n F ∆E °
-
 Wanneer we een cel bouwen met daarin willekeurige beginconcentraties (of beginpartieeldrukken voor gasvormige componenten), dan kunnen we schrijven
-
-∆G = RT ln Q
 waaruit
-
-= − n F ∆E
-
 K
-
 RT ln Q − RT ln K
-
 RT
 ln K
 nF
-
-∆E
-
-=
-
-∆E
-
-= ∆E ° +
-
-−
-
-= − n F ∆E
-
 RT
 ln Q
 nF
-
 RT
-1
 ln
 nF Q
-
 Bij een constante temperatuur van 25 °C herleidt zich dat tot
-∆E
-
-= ∆E ° +
-
-0,0591
-1
 log
 n
 Q
-
 Q stelt hierin het welbekende reactiequotient voor. Dit zijn de beginhoeveelheden
 (voor reactie is opgetreden) ingevuld in de uitdrukking voor de evenwichtsconstante.
 Wetende dat Q de verhouding voorstelt van het product van de concentraties (of indien nodig partieeldrukken) van de producten rechts (eventueel tot een macht gelijk
 aan het voorgetal) tot het product van de concentraties (partieeldrukken) links (eveneens tot een macht gelijk aan het voorgetal), kunnen we bovenstaande uitdrukking
 vervangen door
-
-∆E
-
-= ∆E ° +
-
 alles wat links staat
-0,0591
 log
 n
 alles wat rechts staat
-
 Dit is de potentiaalbetrekking van Nernst voor de reactie tussen twee redoxsystemen. Voor een evenwicht waarin enkel de twee oxidantia en twee reductantia voorkomen en geen andere opgeloste componenten (zoals b.v. H+), wordt dit
 Ox1
-
-+
-
-∆E
-
 Red2
-
-= ∆E ° +
-
 Red1
-0,0591
-(Ox1 ) (Re d 2 )
 log
-(Re d1 ) (Ox2 )
 n
-
-+
-
 Ox2
-
  Algemene Scheikunde : Hfst. IX Evenwichten voor Oxidantia en Reductantia
-
-16
-
 Belangrijke opmerkingen : We vestigen er nogmaals speciaal de aandacht op dat
 voor opgeloste stoffen concentraties in mol.l-1 worden ingevuld en voor gasvormige
 componenten partieeldrukken in bar. Voor alle andere reactiecomponenten (vloeibaar of vast) wordt een 1 geschreven in deze betrekking. De constante hoeveelheid
@@ -1133,153 +480,23 @@ We kunnen deze potentiaalbetrekking ook schrijven voor een enkelvoudig redoxsyst
 een elektrode kunnen bouwen of niet. In dit laatste geval heeft het begrip ‘potentiaal’
 dan opnieuw geen fysische betekenis. Voor het meest algemene geval bekomen we
 E Ox / Re d
-
-= E ° Ox / Re d
-
-+
-
-0,0591
-(Ox )
 log
 n
-(Re d )
-
 Voor een Cu-elektrode, respectievelijk een Zn-elektrode bekomen we
-
-(
-
-)
-
-(
-
-)
-
-E Cu 2 + / Cu
-
-= E ° Cu 2 + / Cu
-
-+
-
-0,0591
-Cu 2+
 log
-2
-1
-
-E Zn 2 + / Zn
-
-= E ° Zn 2 + / Zn
-
-+
-
-0,0591
-Zn 2+
 log
-2
-1
-
 De celpotentiaal Ecel van de cel opgebouwd door deze elektroden is dan
 E cel
-
-= E Cu 2 + / Cu − E Zn 2 + / Zn
-
 E cel
-
-= ∆E
-
-= E ° Cu 2 + / Cu − E ° Zn 2 + / Zn
-
-= ∆E ° +
-
-(
-(
-
-0,0591
-Cu 2+
 log
-2
-Zn 2+
-
-+
-
-(
-(
-
-0,0591
-Cu 2+
 log
-2
-Zn 2+
-
-)
-)
-
-)
-)
-
 In de volgende tabel valt op hoe de celpotentiaal van een combinatie van een Cuelektrode en een Zn-elektrode maar in geringe mate varieert voor een grote verandering in de verhouding (Cu2+)/(Zn2+).
-(Zn2+) mol.l-1
-1,0
-1,0
-1,0
-1,0
-1,0 10-1
-1,0 10-2
-1,0 10-3
-
-(Cu2+) mol.l-1
-1,0 10-3
-1,0 10-2
-1,0 10-1
-1,0
-1,0
-1,0
-1,0
-
-(Cu2+) / (Zn2+)
-1,0 10-3
-1,0 10-2
-1,0 10-1
-1
-1,0 10+1
-1,0 10+2
-1,0 10+3
-
-log (Cu2+) / (Zn2+)
--3
--2
--1
-0
-+1
-+2
-+3
-
 E (Volt)
-1,01
-1,04
-1,07
-1,10
-1,13
-1,16
-1,19
-
  Algemene Scheikunde : Hfst. IX Evenwichten voor Oxidantia en Reductantia
-
-17
-
 Op gelijkaardige wijze verandert de absolute potentiaal van een geconjugeerd redoxsysteem ook maar in beperkte mate met de verhouding oxidans tot reductans.
 E Ox / Re d
-
-= E ° Ox / Re d
-
-+
-
-0,0591
-(Ox )
 log
 n
-(Re d )
-
 Merk immers op hoe sterk deze uitdrukking lijkt op de bekende bufferformule uit
 hoofdstuk VIII.
 c
@@ -1291,19 +508,9 @@ het geconjugeerde reductans de potentiaal E van de oplossing in de omgeving houd
 begrip niet gebruikelijk is in de vakliteratuur.
 Zowel pK- als E°- waarden zijn logaritmische vormen van een evenwichtsconstante
 pK z
-
-= − log K z
-
 en
-
-E ° Ox / Re d
-
-=
-
-0,0591
 log K Ox / Re d
 n
-
 Het verschil in teken heeft te maken met het feit dat een zuur-base evenwicht werd
 gedefinieerd voor het afsplitsen van H+ en een redoxevenwicht voor het opnemen
 van elektronen.
@@ -1314,151 +521,34 @@ Rekenvoorbeeld: Een cel wordt opgebouwd met links een zinkelektrode (de concentr
 bedraagt 1 bar). We meten een celpotentiaal van 0,46 V. Bereken de H+-concentratie
 in deze cel.
 We stellen deze cel schematisch voor door
-Zn(v) / Zn2+ (1 M) / / H+ (? M) / H2(g) (1 bar) , Pt
 V
-
-0,46 V
 Zn
-
 Pt
-
 elektrolytbrug
-H2(g) 1 bar
-
-Zn2+ 1M
-
-H+
-?M
-
  Algemene Scheikunde : Hfst. IX Evenwichten voor Oxidantia en Reductantia
-
-18
-
 Gezien de cel in deze opstelling geen stroom kan leveren (de voltmeter kunnen we
 beschouwen als een oneindig grote weerstand) blijven de beginconcentraties onveranderd zoals we die hebben aangebracht.
-2 H+(opl.) +
-
 Voor de rechter halfcel R :
 ER
-
-= EH + / H
-
 ER
-
-= EH + / H
-
-2
-
-2
-
-= E° H + / H
-
-= 0 +
-
-Zn2+
-
 Voor de linker halfcel L :
-
-∆E
-
-2
-
-+
-
-H2(g)
-
-( )
-
-0,0591
-H+
 log
-2
 pH2
-
-0,0591
-(?)
 log
-2
-1
-
-+
-
-= E Zn 2 + / Zn
-
-= E ° Zn 2 + / Zn
-
 EL
-
-= E Zn 2 + / Zn
-
-= − 0,763 +
-
-= 0,46 = E R − E L
-
-2
-
-2 e-
-
 EL
-
 = E cel
-
-2 e-
-
-+
-
-2
-
-= 0,0591 log (?)
-
 Zn
-
-(
-
-0,0591
-Zn 2+
 log
-2
-1
-
-)
-
-0,0591
-1
 log
-= − 0,763
-2
-1
-
-(H )
-+
-
 waaruit
-
-= 7,3 10 −6 M
-
 Rekenvoorbeeld : Waarom is een HNO3-oplossing sterker oxiderend dan een oplossing met eenzelfde concentratie aan KNO3?
 Het gaat in dit geval over een oplossing zonder dat er een cel aan te pas komt. Er
 wordt geen fysische potentiaal opgebouwd en de potentaal die we zullen berekenen,
 is enkel een maat voor het oxiderend vermogen. Hoe groter deze potentiaal, hoe
 sterker het oxidans in kwestie.
 De reactie horende bij de reductie van het nitraation is de volgende
-NO3-
-
-+
-
-4 H+
-
-+
-
-3 e-
-
-2 H2O
-
-+
-
 NO(g)
-
 Opdat NO3- zich zou kunnen omzetten tot NO, dienen (behalve het opnemen van 3
 elektronen) ook nog twee van de drie zuurstofdeeltjes van het centrale stikstof verwijderd te worden. Deze zuurstoffen (met oxidatietrap –II) kunnen onmogelijk als O2ion worden losgemaakt. Wat wel kan, is dat zuurstof (-II) wordt vrijgesteld onder de
 vorm van H2O. Hiervoor is er nood aan 4 H+. Vandaar dat deze reactie des te beter
@@ -1466,258 +556,50 @@ zal kunnen doorgaan naarmate er meer H+ aanwezig is (dus in zuurder midden). Het
 oxiderend vermogen (doorgaan van deze reactie naar rechts waardoor elektronen
 worden opgenomen) wordt dus in belangrijke mate mee bepaald door de pH van de
 oplossing en niet enkel door de nitraatconcentratie.
-E NO − / NO
-3
-
-= E ° NO − / NO
-3
-
-+
-
-(
-
-)( )
-
-NO3− H +
-0,0591
 log
-3
 p NO
-
-4
-
  Algemene Scheikunde : Hfst. IX Evenwichten voor Oxidantia en Reductantia
-
-19
-
 HNO3 is een sterk zuur en een concentratie van b.v. 0,1 M levert een pH = 1. Een
 oplossing van KNO3 heeft naar analogie met NaCl een pH =7
 Voor HNO3
-E NO − / NO
-3
-
-E NO − / NO
-3
-
-= 0,96 +
-
-(
-
-)
-
-NO3− (0,1)
-0,0591
 log
 p NO
-3
-
-= 0,96 − 0,079 +
-
-4
-
-(
-
-NO3−
-0,0591
 log
-3
 p NO
-
-)
-
 Voor KNO3
-E NO − / NO
-
-= 0,96 +
-
-E NO − / NO
-
-= 0,96 − 0,552 +
-
-3
-
-3
-
-5.
-
-(
-
-)(
-
-NO3− 10 −7
-0,0591
 log
-3
 p NO
-
-)
-
-4
-
-(
-
-NO3−
-0,0591
 log
-3
 p NO
-
-)
-
 Relatie : evenwicht, thermochemische en elektrochemische reacties
-
 De principes i.v.m. richting van een reactie en evenwichtsligging worden samengevat
-
 Q/K
-
 G
-
 E
-
-<1
-
-<0
-
->0
-
->1
-
->0
-
-<0
-
-=1
-
-=0
-
-=0
-
 RT ln Q
-
 K
-
-K
-
 spontane reactie
-
 geen
-
-= ∆G = − n F ∆E
-G°
-
-E°
-
+K
 evenwichtsligging
-
->1
-
-<0
-
->0
-
 naar rechts
-
-<1
-
->0
-
-<0
-
 naar links
-
-=1
-
-=0
-
-=0
-
 in midden
-
-− RT ln K ev
-
-= ∆G° = − n F ∆E °
-
  Algemene Scheikunde : Hfst. IX Evenwichten voor Oxidantia en Reductantia
-
-20
-
 Te volgen logica bij het oplossen van oefeningen
 In een elektrochemische cel die nog geen stroom heeft geleverd
 ER
-
 EL
-
-= EOx1 / Re d1
-
-= EOx2 / Re d 2
-
-= E ° Ox1 / Re d1
-
-+
-
-= E ° Ox2 / Re d 2
-
-+
-
-(Ox1 )
-0,0591
 log
-n1
-(Re d1 )
-(Ox2 )
-0,0591
 log
-n2
-(Re d 2 )
-
-∆E = E cel
-
-∆E = 0
-
 In een cel die stroom heeft geleverd tot EVENWICHT
 ER = EL
-
-E ° Ox1 / Re d1
-
-=
-
-[Re d1 ]
-0,0591
 log
-n1
-[Ox1 ]
-
-E ° Ox2 / Re d 2
-
-∆E ° = E ° Ox1 / Re d1 − E ° Ox2 / Re d 2
-
-=
-
-[Re d 2 ]
-0,0591
 log
-n2
-[Ox2 ]
-
-=
-
-[Re d1 ] 2 [Ox2 ] 1
-0,0591
 log
-n1 . n2
-[Ox1 ]n2 [Re d 2 ]n1
 n
-
-= ER − EL
-
 n
-
-=
-
-0,0591
 log K ev
-n1 . n2
-
 Voor een reactie tussen 2 redoxsystemen die niet doorgaat in een
 cel maar in één enkele oplossing (chemische omstandigheden)
 Reactie evolueert steeds naar EVENWICHT
@@ -1725,7 +607,6 @@ Wanneer de reactie voldoende aflopend is : Kev >> 1 of E° >> 0
 Eerst zoeken naar het BEPERKEND REAGENS en de
 potentiaal van de oplossing berekenen a.d.h.v. het redoxsysteem
 waarvoor Ox en Red nog samen in oplossing overblijven
-
 Rekenvoorbeeld : We beschikken over 200 ml van een oplossing die 0,1 M Fe2+ en
 0,05 M Fe3+ bevat (bij pH = 0). Bereken de potentiaal van deze oplossing.
 Vervolgens voegen we aan deze oplossing 40 ml toe van een oplossing met 0,05 M
@@ -1736,80 +617,20 @@ Hoeveel ml van de MnO4- oplossing moet aan de oorspronkelijke oplossing met Fe(I
 en Fe(III) worden toegevoegd om de potentiaal van het mengsel op 0,77 V te brengen?
 Dit is een reactie in één enkele oplossing. Er is dus geen sprake van een elektrochemische cel en de berekende potentialen hebben enkel hun chemische betekenis.
 Hoe groter de potentiaal E, hoe groter het oxiderend vermogen van de oplossing.
-
  Algemene Scheikunde : Hfst. IX Evenwichten voor Oxidantia en Reductantia
-
-21
-
 De twee halfreacties die bij deze opgave in aanmerking komen zijn
-Fe3+
 MnO4-
-
-e-
-
-+
-+
-
-Fe2+
-8 H+
-
-+
-
-E° = 0,77 (V)
-
-5 e-
-
-Mn2+
-
-+
-
-4 H2O
-
-E° = 1,51 (V)
-
 Deel 1: We berekenen de potentiaal van een oplossing van 0,1 M Fe2+ (reductans)
 met 0,05 M Fe3+ (oxidans) door het invullen van de potentiaalbetrekking voor het
 Fe(III)/Fe(II) systeem. Net zoals een zuur niet reageert met de eigen geconjugeerde
 base (zie hoofdstuk VIII pagina 23) zal een oxidans ook niet reageren met het eigen
 geconjugeerde reductans
-
-+
-
-c 3+
-0,0591
 log Fe
-c Fe 2 +
-1
-
-E Fe ( III ) / Fe ( II )
-
-= E ° Fe ( III ) / Fe ( II )
-
-E Fe ( III ) / Fe ( II )
-
-= 0,77 + 0,0591 log
-
-0,05
-0;1
-
-= 0,75 (V )
-
 Deel 2: We voegen MnO4- toe. Dit is een oxidans van een ander redoxsysteem. Een
 oxidans en een reductans van verschillende systemen reageren met elkaar tot vorming van een zwakker reductans en een zwakker oxidans (controleer opnieuw de
 analogie met hoofdstuk VIII pagina 23). MnO4- (E° = 1,51) is in dit geval het sterkste
 Ox en Fe2+ (E° = 0,77) is het sterkste Red. De optredende reactie is
 MnO4-
-
-+
-
-Fe2+
-
-Mn2+
-
-Fe3+
-
-+
-
 Als we ervan uitgaan dat de pH van de oplossing gebufferd is (b.v. bij pH = 0), dan
 mogen we in goede benadering stellen dat de concentratie aan H+ slechts weinig zal
 veranderen, ook al wordt voor bovenstaande reactie eigenlijk H+ verbruikt. We maken
@@ -1817,225 +638,52 @@ het ons gemakkelijk door in de reactievergelijking H+ eenvoudig weg te laten.
 Waaraan we echter wel de nodige aandacht dienen te schenken, is voor dit geval de
 reactiestoechiometrie. Voor 1 MnO4- dat reduceert, dienen 5 keer zoveel Fe2+ geoxideerd te worden. De correcte reactie is dus
 MnO4-
-
-+
-
-5 Fe2+
-
-Mn2+
-
-+
-
-5 Fe3+
-
 We vragen ons vervolgens af of dit evenwicht voldoende naar rechts is gelegen, zodanig dat we de reactie mogen beschouwen als aflopend.
-
-∆E° =
-
-0,0591
 log K ev
-n1 . n2
-
-=
-
-0,0591
 log K ev
-1× 5
-
-= 1,51 − 0,77 = 0,74
-
-K ev = 10 62,6
-
 Dit is een zeer grote evenwichtsconstante zodat we zonder probleem de reactie als
 aflopend naar rechts mogen beschouwen. We gaan dus op zoek naar het beperkende reagens rekening houdend met de reactiestoechiometrie. Bovendien bekomen we
 door toevoegen van 40 ml aan 200 ml een totaal volume van 240 ml en we houden
 rekening met een verdunningsfactor.
-
  Algemene Scheikunde : Hfst. IX Evenwichten voor Oxidantia en Reductantia
-MnO4start
-
-0,05 × 40
-240
-
+MnO4-
+start
 einde
-
 weg
-
-+
-
-5 Fe2+
-
-Mn2+
-
-0,1 × 200
-240
-20 − (5 × 2 )
-240
-
-+
-
-22
-
-5 Fe3+
-
--
-
-0,05 × 200
-240
-
-2
-240
-
-10 + (5 × 2 )
-240
-
 Enkel van het redoxsysteem Fe(III)/Fe(II) blijven nog oxidans en reductans over en
 de potentiaal van de bekomen oplossing wordt door dit systeem bepaald
-= 0,77 + 0,0591 log
-
-E Fe ( III ) / Fe ( II )
-
-20 × 240
-10 × 240
-
-= 0,79 (V )
-
 Deel 3: We volgen een analoge redenering als in het voorgaande. We hebben nu in
 totaal 40 + 60 = 100 ml toegevoegd aan 200 ml
 MnO4-
-
-+
-
-5 Fe2+
-
-Mn2+
-
-+
-
-5 Fe3+
-
 start
-
-0,05 × 100
-300
-
-0,1 × 200
-300
-
--
-
-0,05 × 200
-300
-
 einde
-
-5 − (20 / 5)
-300
-
 weg
-
-20 / 5
-300
-
-10 + 20
-300
-
 De potentiaal van de oplossing wordt nu bepaald door het systeem Mn(VII)/Mn(II). Bij
 het invullen van de potentiaalbetrekking dienen we rekening te houden met de pH,
 doch gezien we die 0 verondersteld hebben, maakt het voor dit geval geen verschil.
-= 1,51 +
-
-E Mn (VII ) / Mn ( II )
-
-( )
-
-(1 × 300) H +
-0,0591
 log
-5
-4 × 300
-
-4
-
-= 1,50 (V )
-
 Deel 4: Doordat in deze situatie de E in de omgeving blijft van E° van het systeem
 Fe(III)/Fe(II) (E = 0,77 is zelfs perfect gelijk aan E°) weten we dat Fe(II) samen met
 Fe(III) zal overblijven en dat MnO4- opnieuw beperkend is.
-MnO4start
+MnO4-
+start
 einde
-
-E Fe ( III ) / Fe ( II )
-
-0,05 × ?
-200 + ?
-
 weg
-
-+
-
-5 Fe2+
-
-0,1 × 200
-200 + ?
-20 − (5 × 0,05 × ? )
-200 + ?
-
-= 0,77 + 0,0591 log
-
-Mn2+
-0,05 × ?
-200 + ?
-
-10 + (0,25 × ? )
-= 0,77 (V )
-20 − (0,25 × ? )
-
-+
-
-5 Fe3+
-
-0,05 × 200
-200 + ?
-10 + (5 × 0,05 × ? )
-200 + ?
 gegeven
-
-? = 20 ml
-
  Algemene Scheikunde : Hfst. IX Evenwichten voor Oxidantia en Reductantia
-6.
-6.1
-
-23
-
 Toepassingen van elektrochemische cellen
 Spanningsreeks van de metalen
-
 Wanneer we uit de tabel met halfreacties en E°-waarden (zie achteraan deze cursus
 en zie ook achterzijde van Periodiek Systeem) enkel de redoxsystemen overhouden
 waarin een metaal voorkomt in evenwicht met het metaalion (en waarmee we aldus
 een metaalelektrode kunnen construeren) en de rangschikking maken van de grootste tot de kleinste E°, dan bekomen we de spanningsreeks der metalen. Een sterk
 beperkte versie van deze tabel is hieronder weergegeven.
-Au3+ + 3 eAg+ + eCu2+ + 2 eNi2+ + 2 eFe2+ + 2 eZn2+ + 2 eNa+ + e-
-
-6.2
-
 Dit betekent dat ieder metaalion uit de
 reeks in staat is om ieder ander lager geplaatst metaal te oxideren. Anderzijds zal
 ieder metaal een hoger geplaatst metaalion kunnen reduceren. Hoe hoger in deze
 reeks, hoe meer edel het metaal in kwestie. Deze volgorde speelt een belangrijke
 rol bij de afzetting van metaallagen in de
 galvanische industrie en bij elektrolyse.
-
-1,50 V
-0,80 V
-0,34 V
--0,25 V
--0,44 V
--0,76 V
--2,71 V
-
 Au
 Ag
 Cu
@@ -2043,9 +691,7 @@ Ni
 Fe
 Zn
 Na
-
 Corrosie en beschermingsmethoden
-
 IJzer is een veel voorkomend element in de natuur. Het wordt dan ook heel dikwijls
 gebruikt voor de productie van constructiematerialen, machines en gebruiksvoorwerpen. Gezien het vrij laag staat in de spanningsreeks (E° = - 0,41) is het een weinig
 edel metaal en is het hierdoor sterk onderhevig aan corrosie (roesten).
@@ -2055,118 +701,37 @@ Het oppervlak van een staalplaat is nooit helemaal perfect vlak. Er komen micros
 krassen dat het fenomeen van corrosie optreedt.
 We stellen ons een bevochtigd metaaloppervlak voor zoals hieronder getekend.
 kathodisch oppervlak
-
-O2
-
 anodisch oppervlak
-
 roest
 H2O
-
 OH
-
--
-
 kathodische reductie
-O2 + 2H2O + 4e
 4OH
-
-2+
-
 Fe
 anodische oxidatie
-2+
-Fe – 2e
 Fe
-
--
-
--
-
 ee
-
 Fe
-
  Algemene Scheikunde : Hfst. IX Evenwichten voor Oxidantia en Reductantia
-
-24
-
 Aan het anodische oppervlak wordt Fe geoxideerd tot Fe2+
 Fe
-
-2 e-
-
--
-
-Fe2+
-
-(Fe2+
-
-+
-
-2 e-
-
 Fe)
-
-E° = - 0,44 V
-
 De vrijgemaakte elektronen migreren naar het oppervlak, precies naar de plaats waar
 de metaalfase, de waterige fase en de lucht met elkaar contact maken. De elektronen worden gretig opgenomen door de zuurstofmoleculen uit de lucht volgens
-O2
-
-+
-
-2 H2O +
-
-4 e-
-
-4 OH-
-
-E° = + 0,40 V
-
 De stroomkring wordt gesloten doordat de gevormde OH- ionen overgaan in de waterfase en de gevormde Fe2+-ionen migreren naar het metaaloppervlak. Samen vormen ze het weinig oplosbare Fe(OH)2
 De totale reactie wordt
-O2
-
-+
-
-2 H2O +
-
-2 Fe
-
-2 Fe2+
-
-+
-
-4 OH-
-
-E° = 0,84 V
-
-2 Fe(OH)2
 Door verdere rechtstreekse chemische inwerking (buiten de elektrochemische cel)
 van in water opgeloste O2 wordt vervolgens roest gevormd.
-4 Fe(OH)2(v) + O2 + 2 H2O
-
-4 Fe(OH)3(v)
-Fe3O4(v)
-
 FeO
 Fe2O3
-
 We kunnen de corrosie van Fe verhinderen door een elektrisch geleidende verbinding te realiseren met een minder edel metaal (b.v. Mg). Hierdoor zullen de elektronen die door de luchtzuurstof van Fe oorspronkelijk werden weggenomen, onmiddellijk worden aangevuld via het minder edele metaal. Het komt er in de praktijk op neer
 dat het Mg zich opoffert voor het Fe en dat Mg2+-ionen worden gevormd in plaats van
 Fe2+-ionen. We gebruiken daarom de term ‘opofferingsmetaal’. Dit wordt geïllustreerd
 in de volgende figuur.
-
 kathode ( ondergrondse pijpleiding in Fe )
 grondniveau
-
 anode ( magnesium )
-
  Algemene Scheikunde : Hfst. IX Evenwichten voor Oxidantia en Reductantia
-
-25
-
 Een andere mogelijkheid tot bescherming wordt geboden door het aanbrengen van
 een beschermlaag van een andere metaal. Dit kan gebeuren door bedekking met
 een meer edel metaal (elektroplating) zoals Cu, Sn of Cr die veel minder onderhevig
@@ -2176,64 +741,24 @@ corrosie opnieuw kan doorgaan. De aanwezige Cu2+ of Sn2+ ionen zullen het proces
 van de oxidatie van Fe bovendien bevorderen.
 Hoewel Zn (gebruikt bij galvaniseren) nog minder edel is dan Fe, heeft het als voordeel dat de gevormde ZnO-laag zeer goed hecht op het metaaloppervlak (in tegenstelling tot het sponsachtige ijzerroest) en het onderliggende metaal aldus afschermt
 van de luchtzuurstof. Bij een beschadiging herstelt de laag zich dadelijk door de vorming van vers ZnO. Ook aluminium (bijzonder onedel) heeft gelijkaardige eigenschappen en komt aldus in aanmerking als constructiemateriaal (o.a. in ramen).
-6.3
 Galvanische cellen
 6.3.1 De droge batterij of Leclanche element
 De cel is opgebouwd uit een cilindertje vervaardigd uit Zn dat een inwendig elektrolyt
 bevat bestaande uit een vochtige pasta van MnO2, ZnCl2 en NH4Cl. In het centrum
 van deze pasta wordt een koolstofstaafje (kathode) gebracht. Het zinken omhulsel
 speelt de rol van anode. Een aantal achtereenvolgende reacties treden op
-
-+
-
-e2 MnO2(v) + H2O + 2 eZn(v) - 2 e-
-
 H2O
-
-Mn2O3(v) + 2 OHZn2+
-
-(R)
-(L)
-
-2+
-
 Zn
-
 MnO2
-
 Totaalreactie:
 NH3
-
 Mn2O3
-
 OH
-
--
-
-2 MnO2(v) + H2O + Zn(v)
-NH4+ + OH-
-
-Mn2O3(v) + Zn2+ + 2 OH-
-
-NH3 + H2O
-
-+
-
 NH4
-
 C
 e
-
--
-
-Zn(NH3)42+
-
--
-
 Zn
-
 Zn2+ en NH3 vormen samen een complexe verbinding.
-
 In dit schema is duidelijk te zien hoe zowel Zn2+ als OH- door verdere omzettingen uit
 het reactiemengsel worden weggenomen en water opnieuw gevormd wordt. Het
 evenwicht van de elektrochemische reactie wordt hierdoor extreem ver naar rechts
@@ -2241,17 +766,12 @@ getrokken waardoor de reactie aflopend wordt. De batterij kan stroom leveren tot
 ofwel MnO2 (bij voorkeur) of Zn volledig opgebruikt zijn. Hierbij wordt ook duidelijk dat
 dit type batterij niet in aanmerking komt voor herlading daar deze reactiesequentie
 niet kan worden omgekeerd.
-
  Algemene Scheikunde : Hfst. IX Evenwichten voor Oxidantia en Reductantia
-
-26
-
 6.3.2. De loodaccumulator
 anode: loodraster gevuld met
 sponsachtig Pb
 kathode: loodraster gevuld
 met sponsachtig PbO2
-
 In de bijhorende figuur is een loodaccu
 schematisch voorgesteld. De batterij is
 opgebouwd uit een reeks platen (6 tot 12)
@@ -2266,63 +786,18 @@ Aan de anode treedt oxidatie op van Pbmetaal, aan de kathode reductie van vast
 PbO2. In de elektrolytoplossing wordt de
 elektrische geleiding verzekerd door de
 verplaatsing van H+ en SO4- ionen.
-
 H2SO4 – elektrolietoplossing
-
 Een afzonderlijke cel is schematisch voorgesteld in de volgende figuur evenals de
 optredende kathode- en anodereactie.
-(R)
-
-PbO2(v) + 4 H+ + SO42- + 2 e-
-
-(L)
-
-Pb(v) + SO4- - 2 e-
-
-PbSO4(v) + 2 H2O
-
 PbSO4(v)
-
-E° = - 0,12 V
-
-PbO2(v) + Pb(v) + 4 H+(opl) + 2 SO42- (opl)
-
-2-
-
-2 PbSO4(v) + 2 H2O
-
 Bij galvanische werking van de batterij wordt H2SO4 verbruikt.
 De celpotentiaal wordt bepaald door
-
--
-
 e
-
-SO4
-
-E° = 1,75 V
-
 PbO2
-
 E cel
-
-= ∆E ° +
-
-( ) (SO )
-
-0,0591
-log H +
-2
-
-4
-
-2− 2
-4
-
 Dit type batterij kan worden heropgeladen door het aanleggen
 van een tegenspanning groter dan en tegengesteld aan de
 eigen celpotentiaal. De reacties worden dan verplicht in de
-+
 H
 tegengestelde richting te verlopen (elektrolytische werking).
 Pb
@@ -2333,11 +808,7 @@ niet gebeurt met 100 % stroomrendement zal na verloop van tijd de concentratie a
 zwavelzuur in de cel afnemen waardoor ook de celpotentiaal daalt. Een verouderde
 en versleten batterij kan op het einde van haar levensduur nog kortstondig geholpen
 worden door extra H2SO4 bij te vullen om de Ecel te herstellen.
-
  Algemene Scheikunde : Hfst. IX Evenwichten voor Oxidantia en Reductantia
-
-27
-
 6.3.3 De brandstofcel
 De reactie tussen waterstofgas en zuurstofgas kan spectaculair verlopen waarbij de
 nodige warmte en druk-volume-arbeid worden vrijgesteld. Dezelfde reactie kan ook
@@ -2345,44 +816,18 @@ bij lage temperatuur onder katalytische omstandigheden beheerst doorgaan in een
 brandstofcel waarbij de chemische energie wordt vrijgemaakt onder de vorm van
 elektrische arbeid.
 De werking van dergelijke brandstofcel is hieronder schematisch voorgesteld.
-ee+
 H2O
-
-H2(g)
-
-H2
-+
 OH-
-
-eeH2O
-
-+
-O2
-
+H2O
 K+ OHH2O
-
 OH-
-
-O2(g)
-
-+
 H2O
-
 OH-
-
 stoom
 Twee kamers van poreuze koolstof zijn gedompeld in een waterige oplossing van
 KOH. H2-gas stroomt binnen in het anodecompartiment en O2-gas gelijktijdig in de
 kathodekamer. Het koolstof is behandeld met een dun laagje paraffine en geïmpregneerd met katalysatoren (Pt en Pd in de H2-elektrode en Ag2O en CoO in de O2elektrode). De volgende halfreacties treden op
-O2(g) + 2 H2O + 4 eH2(g) + 2 OH-(opl) - 2 e2 H2(g) + O2(g)
-
-4 OH-(opl)
-2 H2O
-
 2 maal
-
-2 H2O
-
 De totale stroomkring kan worden opgevolgd in de bijhorende figuur.
 Dergelijke cellen zijn in staat elektrische energie te produceren met een rendement
 van ongeveer 90 %. Dit is heel wat hoger dan de klassieke omzettingen die verlopen
@@ -2391,215 +836,63 @@ een rendement van 40 % toelaat.
 Een vrij gelijkaardig systeem bestaat in levende dierlijke cellen waarbij zich een gecontroleerd verbrandingsproces afspeelt via halfcellen en ingewikkelde biochemische
 halfreacties. Globaal komt de verbranding van glucose in een biochemische cel neer
 op de totale reactie
-6 CO2 + 6 H2O
-C6H12O6 + 6 O2
-
  Algemene Scheikunde : Hfst. IX Evenwichten voor Oxidantia en Reductantia
-
-28
-
-6.4
 Elektrolyse
 6.4.1 Elektrolyse vanuit gesmolten toestand
 Voor de bereiding van Na-metaal en Cl2-gas wordt NaCl verwarmd en in gesmolten
 toestand gebracht en vervolgens eletrolytisch ontbonden.
 In spontane richting zal Cl2 elektronen opnemen en Na elektronen afstaan.
-Cl2(g)
-
-+
-
-2 e-
-
-2 Cl-
-
-E° = 1,36 V
-
 Na+
-
-+
-
-e-
-
 Na(v)
-
-E° = - 2,71 V
-
-Cl2
-
 Na-metaal
-
-Na-metaal
-
-+
-
-Na Cl
-
--
-
-Cl
-
--
-
-Na
-
-+
-
-grafietelektrode
-
-ijzerelektrode
-
--
-
--
-
-+
-
 De cel die zich opbouwt door
 combinatie van deze twee
 halfreacties heeft een Ecel =
-1,36 – (- 2,71) = 4,07 V
 Via een uitwendige spanningsbron waarvoor het aangelegde
 potentiaalverschil
 kleiner is dan – 4,07 V kunnen we de reacties dwingen
 in niet spontane zin te verlopen waarbij elektrolyse optreedt en Na-metaal en Cl2
 worden gevormd.
-
+Cl2
+Na-metaal
+Na Cl
+Cl
+Na
+grafietelektrode
+ijzerelektrode
 6.4.2 Elektrolyse vanuit waterige oplossing
 Wanneer we NaCl oplossen in H2O en deze oplossing onderwerpen aan elektrolyse,
 moet rekening gehouden worden met de reductie van water aan de kathode en de
 oxidatie van water aan de anode. Een aantal bijkomende reacties kunnen optreden
-2 H2O
-
-+
-
-2 e-
-
-H2(g)
-
-+
-
-2 OH-
-
-E° = - 0,83 V
-
-Na+ + e-
-
 Wanneer we dit vergelijken met
-
 Na(v)
-
-E° = - 2,71 V
-
 dan blijkt water een sterker oxidans te zijn dan Na+ en zullen de elektronen bijgevolg
 opgenomen worden door water tot vorming van H2-gas.
-O2
-
-+
-
-4 H+
-
 Vergeleken met
-
-+
-
-4 eCl2(g)
-
-2 H2O
-+
-
-2 e-
-
-E° = 1,23 V
-2 Cl-
-
-E° = 1,36 V
-
 zijn O2 en Cl2 ongeveer vergelijkbare sterke oxidantia en bijgevolg zullen Cl- en water
 in ongeveer vergelijkbare mate onder dwang hun elektronen dienen af te geven.
 In de praktijk komt het er op neer dat in elk geval H2 wordt gevormd aan de kathode
 en afhankelijk van de concentratie aan NaCl, voor een geconcentreerde oplossing
 vooral Cl2 en voor een verdunde oplossing vooral O2 ontstaat bij elektrolyse.
-
  Algemene Scheikunde : Hfst. IX Evenwichten voor Oxidantia en Reductantia
-
-29
-
 6.4.3 Kwantitatieve aspecten van elektrolyse
 De hoeveelheid van een bestanddeel dat door elektrolyse kan worden afgezet, wordt
 beschreven door de wet van Faraday.
 Voor een stroom I die vloeit doorheen een elektrolysecel, wordt gedurende een bepaalde tijd t een hoeveelheid lading ter waarde van I x t getransporteerd. Hiermee
 wordt een aantal mol bestanddeel (meestal een metaal) afgezet gelijk aan
 aantal mol
-
-=
-
-I ∆t
 nF
-
 Dit geeft een aantal g bestanddeel
-= r.a.m ×
-
 aantal g
-
-I ∆t
 nF
-
 Rekenvoorbeeld: Hoeveel g Cu-metaal wordt afgezet uit een CuSO4-oplossing door
 een stroom van 1,50 A gedurende 1 uur?
 massa Cu
-
-1,50 A
-1
-×
-2
-96.485 C.mol −1
-
-= 63,55 g .mol −1 ×
-
-× 3.600 s = 1,78 g
-
 Rekenvoorbeeld: Welk volume zuurstofgas (bij 25 °C en een druk van 1 bar) wordt
 vrijgesteld door elektrolyse van een CuSO4-oplossing bij een stroom van 2,5 A gedurende 45 minuten?
 De oxidatie van water die bij de elektrolyse optreedt, levert
-2 H2O
-
-O2(g)
-
-+
-
-4 H+
-
-+
-
-4 e-
-
 Het aantal gevormde mol O2-gas wordt
 mol O2
-
-=
-
-2,5 A
-1
-×
-4
-96.485 C.mol −1
-
-× 2.700 s = 0,0175 mol
-
 Dit vertegenwoordigt een volume van
-
 V
-
-=
-
-mol O2 × R × T
 p
-
-=
-
-0,0175 mol × 8,314 × 298
-100 kPa
-
-= 0,434 liter
-
- 

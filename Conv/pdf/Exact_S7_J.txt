@@ -1,52 +1,20 @@
-8/22/2019
-
-Lay 5.1
-
 Lineaire transformatie
 • b = Ax kan je zien als een transformatie die
-x  n afbeeldt op b  n
 • A vierkant !
 • We noteren b = T(x)
-• Voorbeeld 2  2
-2x
 • T(x) is lineair :
 x
-1) T(u + v) = T(u) + T(v)
-2) T(cu) = c T(u)
-
-T(2x)=2Ax
 T(x)=Ax
-
-T(0)=A0=0
-
-1
-
- 8/22/2019
-
 Lineaire transformatie
-
-v2
-
-T(v2)=Av2=2v2
 x
 T(x)=Ax
-v1
-T(v1)=Av1=3.5v1
-
 Eigenvectoren
 • Sommige vectoren worden op een veelvoud van zichzelf
 afgebeeld: Ax =  x
 • In dit voorbeeld:
-x = v1 en 1=3.5
-x = v2 en 2=2
 • v1, v2 eigenvectoren
 1, 2 eigenwaarden
 • Lineariteit: idem x = v1
-A(v1)=1(v1)
 Eigenruimte horend bij v1
 • Er zullen maximaal n
 zulke richtingen zijn
-
-2
-
- 

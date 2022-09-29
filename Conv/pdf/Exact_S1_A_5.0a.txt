@@ -1,711 +1,145 @@
 Aanvullende voorbeelden bij Hoofdstuk VII
-H2(g)
-
-+
-
-Cl2(g)
-
-33
-
-2 HCl(g)
-
-25 °C
-
-G°v(HCl, g) = - 95,3 kJ mol-1
-H°v(HCl, g) = - 92,3 kJ mol-1
-
 (a) In welke richting gaat de reactie door wanneer gestart wordt met 2 kPa H2(g),
-2 kPa Cl2(g) en 4 kPa HCl(g) ?
 (b) Bepaal Kp bij 25 °C.
 (c) Bepaal Kc bij 25 °C.
-(d) Bepaal S° bij 25 °C.
 (e) Wat wordt de Kp-waarde als de reactie wordt uitgevoerd bij 100 °C?
 oplossing
 (a) Om de richting te weten waarin deze reactie doorgaat, moet de G waarde gekend zijn
-
-∆G = R T ln
-
 volgens
 G
 met
-
-G° =
-
 Q
 K
-
-= - R T lnK + R T ln Q
-=
-G° + R T ln Q
-
-( G°v) R -
-
-= 2 ∆Gvo( HCl , g )
-
-( G°v) L
-
-− ∆Gvo( H 2 , g )
-
-− ∆Gvo(Cl2 , g )
-
-= 2 (-95,3) kJ.mol-1 - 0 kJ.mol-1 - 0 kJ.mol-1
-= - 190,6 kJ.mol-1
-= - 190,6 103 J.mol-1
-R = 8,314 J.K-1.mol-1
-T = 25 °C = 298 K
-2
 PHCl
 ( start )
-
-Q =
-
 PH 2 ( start ) PCl2 ( start )
-
-=
-
-42
-2× 2
-
-=
-
 4 (in eenheden van kPa)
-
 De factor voor de omrekening van Q in eenheden van ‘kPa’ naar Q in eenheden van ‘bar’ is
 in dit geval 1 gezien de exponenten in teller en noemer dezelfde zijn
 zodat
-
 G
-
-= - 190,6 103 + 8,314 . 298 . ln 4
-= - 187.165,3 J.mol-1
-= - 187,2 kJ.mol-1
-
 Vermits G < 0 gaat de reactie door van links naar rechts
-(b)
-
-G° = - R T ln Kp
-
 ln K p
-
-= −
-
-∆G o
 RT
-
 met
-
-G° = - 190,6 103 J.mol-1
-
 opmerking: het evenwicht zal sterk naar rechts zijn gelegen gezien we hier te maken hebben
 met een sterk negatieve waarde van G°
-R = 8,314 J K-1 mol-1
-T = 298 K
-
  Aanvullende voorbeelden bij Hoofdstuk VII
-= −
-
 ln K p
-
-− 190,6 10 3
-8,314 × 298
-
-= 76,93
-
-Kp = 2,57 1033
-
-(c)
-
 We bekomen inderdaad een zeer grote Kp-waarde.
-
-= K c (R T )
-
 Kp
-
-∆n g
-
 Vermits ng = 0
-(d)
-
-34
-
 is
-
-Kp = Kc = 2,57 1033
-
 S°wordt berekend via de Gibbs-Helmholtz vergelijking
-G° =
-
-H° - T S°
-
-∆S ° = −
-
-∆G° − ∆H °
 T
-
 met
-
-G° = - 190,6 * 103 J.mol-1
-H° = ( H°v) R ( H°v) L
 o
-= 2 ∆H v ( HCl , g ) − ∆H vo( H 2 , g ) − ∆H vo(Cl2 , g )
-
-= 2 (-92,3) kJ.mol-1 - 0 kJ.mol-1 - 0 kJ.mol-1
-= - 184,6 kJ.mol-1
-= - 184,6 103 J.mol-1
-
-(
-
-− 190,6 10 3 − − 184,6 10 3
-∆S ° = −
-298
-
-)
-
-S° = 20,1 J.K-1 mol-1
 We bekomen een positieve S°(de wanorde neemt toe van links naar rechts) en een negatieve H° (de bindingssterkte neemt toe van links naar rechts). Beide factoren zijn gunstig en
 dit uit zich in een negatieve G°.
 (e) Om een Kp-waarde te vinden bij een hogere temperatuur wordt er gebruik gemaakt van
 de Van ’t Hoff vergelijking
-
 ln
-
-K p2
-
-=
-
-K p1
-
-∆H ° T2 − T1
 R
-T1 T2
-
 met
-
-K p2 = K p ( 373 K )
-
 en
-
-K p1 = K p ( 298 K ) = 2,57 10 33
-
-H° = -184,6 103 J.mol-1
-T2 = 100 °C = 373 K
-
 ln
 ln
-
-K p (373)
-2,57 10 33
-K p (373)
-
-2,57 10 33
-K p ( 373)
-
-2,57 10
-
-33
-
-=
-
 en
-
-T1 = 25 °C = 298 K
-
-− 184,6 10 3 373 − 298
-8,314
-298 × 373
-
-= − 14,98
-= 0,000000311 K p (373)
-
-= 8 10 26
-
 Bij verhogen van de temperatuur verschuift het evenwicht naar de endotherme kant.
-
  Aanvullende voorbeelden bij Hoofdstuk VII
 2 NOCl(g)
-
-2 NO(g)
-
-35
-
-+
-
-Cl2(g)
-
 (a) Bij 25 °C wordt 3 mol NOCl(g) in een vat van 10 l gebracht. Bij evenwicht is de
 totale druk in het vat 1000 kPa. Bepaal Kp.
 (b) Bepaal H° als gegeven is dat S (oNOCl g ) = 261,7 J.K-1 mol-1
-
-S (oNO , g )
-
-= 210,8 J.K-1 mol-1
-
-S (oCl2 , g ) = 223,1 J.K-1 mol-1
 Oplossing
 (a) start: NOCl: PNOCl
-
 n RT
 V
-
-=
-
-=
-
-3 mol × 8,314 J . K −1 . mol −1 × 298 K
-10 l
-
-= 743,3 kPa
-
 evenwicht: Ptotaal = 1000 kPa
-2 NOCl(g)
 start
 evenwicht
-
-743,3
--2 x
-743,3 – 2 x
-
+2 NOCl(g)
 = PNOCl
-
 Ptotaal
-
-2 NO(g)
-
-+
-
-+2 x
-2x
-
-+
-
-1000 = (743,3 -2x) +
-1000 = 743,3 + x
-x = 256,7 kPa
-
 PNO +
-2x
-
+PCl2
+x
 Kp
-(b)
-
-=
-
-2
 PNOCl
-
-=
-
-PCl2
-
-+
-
-x
-
-(513,4)2 (256,7 )
-(229,9)2
-
-G° = - R T ln Kp
-
-= - 8,314 . 298 . ln(12,8)
-= - 6.316,4 J.mol-1
-G° =
-
 (kPa)
-
-+x
 x
-
 waardoor de drukken bij evenwicht worden:
-
-2
 PNO
 PCl2
-
-Cl2(g)
-
 PNOCl
-
-= 743,3 − 2 x = 229,9 kPa
-
 PNO
-
-=
-
-2x
-
-= 513,4 kPa
-
 PCl2
-
-=
-
 x
-
-= 256,7 kPa
-
-= 1280 kPa
-
-met R = 8,314 J.K-1.mol-1
-T = 298 K
-Kp = 1280 kPa
-= 12,8 Bar
-(1 Bar = 100 kPa)
-
-H° - T S°
-
-G° = - 6316,4 J.mol-1
-S° = (S°) R (S°) L
-o
-o
-= 2 S ( NO , g ) + S (Cl2 , g ) − 2 S (oNOCl , g )
-S° = 2(210,8) J.K-1.mol-1 + 223,1 J.K-1.mol-1 – 2(261,7) J.K-1.mol-1 = 121,3 J.K-1.mol-1
-H° = -6.316,4 + 298 . 121,3
-= 29.831 J.mol-1
-= 29,8 kJ.mol-1
-
-H°= G° + T S°
-
 met
-
+o
+o
  Aanvullende voorbeelden bij Hoofdstuk VII
 NO(g)
-
-+
-
-O3(g)
-
-NO2(g)
-
-36
-+
-
-O2(g)
-
 Bij een temperatuur van 25 °C brengen we 200 kPa ozon en 2 mol stikstofmonoxidegas in een vat van 10 l. Bij evenwicht bedraagt de druk van het zuurstofgas 0,3 atm.
 Bijkomende gegevens: Hov (NO, g) = 91,3 kJ mol-1
-Hov (O3, g) = 142,7 kJ mol-1
-Hov (NO2, g) = 33,2kJ mol-1
-(a)
-(b)
-(c)
-(d)
-
-Bereken Kp.
-Bij welke temperatuur krijgen we een Kp-waarde van 0,9?
-Wat wordt de Kc-waarde bij 50 °C?
-Wanneer de temperatuur wordt opgedreven tot 50 °C, wat wordt na instellen
+(a) Bereken Kp.
+(b) Bij welke temperatuur krijgen we een Kp-waarde van 0,9?
+(c) Wat wordt de Kc-waarde bij 50 °C?
+(d) Wanneer de temperatuur wordt opgedreven tot 50 °C, wat wordt na instellen
 van het nieuwe evenwicht de druk van stikstofdioxide?
-
 oplossing
-
 n RT
-=
 V
-= 200 kPa
-=
-
 (a) start: NO: PNO
-O3: PO3
-
-= 0,3 atm = 30,4 kPa
-
 evenwicht: PO2
-
 NO(g)
 start
-
-en
-
-NO2(g)
-
-200
--x
-200 - x
-
-30,4 kPa
-
-=
-
-PNO2
-
-=
-
 x
-
-= 30,4 kPa
-
-x
-
-PNO
-
-= 495,5 − x
-
-= 465,1 kPa
-
-PO3
-
-= 200 − x
-
-= 169,6 kPa
-
-PNO2 PO2
-PNO PO3
-
-=
-
-+
-
-+x
-x
-
-=
-
-(30,4) (30,4 )
-(465,1) (169,6)
-
-= 0,0117
-
-(b) De Van ’t Hoff vergelijking:
-
-ln
-
-K p (2 )
-K p (1)
-
-=
-
-∆H ° T2 − T1
-R
-T1 T2
-
-met Kp (2) = Kp (T) = 0,9
-Kp (1) = Kp (298) = 0,0117
-H° =
-
-( H°v) R -
-
-= H°v(NO2 (g)) +
-
-( H°v) L
-H°v(O2 (g)) -
-
-= 495,5 kPa
-
-(1atm = 101,3 kPa)
-
-O3(g)
-
-PO2
-
-=
-
-Kp
-
-+
-
-495,5
--x
-495,5 – x
-
 evenwicht
-
-2 mol × 8,314 J K −1 mol −1 × 298 K
-10 l
-
-H°v(NO(g)) -
-
-H°v(O3, (g))
-
-O2(g)
-+x
+PO2
+PNO2
 x
-
-(kPa)
-
- Aanvullende voorbeelden bij Hoofdstuk VII
-
-37
-
-= 33,2 kJ mol-1 + 0 kJ mol-1 - 91,3 kJ mol-1 - 142,7 kJ mol-1
-= - 200,8 kJ mol-1
-= - 200,8 103 J mol-1
-T2 = T = ?
-T1 = 25 °C = 298 K
-waardoor
-
+PNO
+PO3
+en
+PNO2 PO2
+Kp
+PNO PO3
+x
+(b) De Van ’t Hoff vergelijking:
 ln
-
-0,9
-0,0117
-4,34
-
-=
-
-− 200,8 10 3 T − 298
-8,314
-298 T
-
-=
-
-− 200,8 10 3 T − 298
-8,314
-298 T
-
-T − 298
-298 T
-− 0,0536 T = T − 298
-298 = T + 0,0536 T
-298
-= 1,0536 T
-
-− 0,0001798 =
-
-T
-
-=
-
-298
-1,0536
-
-= 282,8 K
-
-= 9,8 °C
-
-(c) De Van ’t Hoff vergelijking:
-
-ln
-
-K p (2 )
-
-∆H ° T2 − T1
 R
-T1 T2
-
-=
-
-K p (1)
-
-Kp (2) = Kp (323) = ?
-Kp (1) = Kp (298) = 0,0117
-H° = - 200,8 103 J mol-1
-
-met
-
-ln
-
-ln
-
-K p (323)
-0,0117
-
-K p (323)
-0,0117
-
-K p (323)
-0,0117
-K p (323 )
-
-=
-
-T2 = 50 °C = 323 K
-
-− 200,8 10 3 323 − 298
-8,314
-298 × 323
-
-= − 6,27
-
-= 0,00189
-= 2,2 10 −5
-
-Kp = Kc (R T)
-
-ng
-
-Vermits ng = 0
-
-wordt
-
-Kp (323) = Kc (323) = 2,2 10-5
-
-T1 = 25 °C = 298 K
-
+x
+(kPa)
  Aanvullende voorbeelden bij Hoofdstuk VII
-
-38
-
+waardoor
+ln
+T
+(c) De Van ’t Hoff vergelijking:
+ln
+R
+met
+ln
+ln
+Vermits ng = 0
+wordt
+ Aanvullende voorbeelden bij Hoofdstuk VII
 (d) de druk verandert bij wijzigen van de temperatuur volgens
 NO(g)
 start
 evenwicht
-
-504,1
-+x
-504,1+ x
-
-+
-
-O3(g)
-
-NO2(g)
-
-183,8
-+x
-183,8+ x
-
-P2
-P1
-+
-
-32,9
--x
-32,9 - x
-
-=
-
-T2
-T1
-
-O2(g)
-
 (kPa)
-
-32,9
--x
-32,9 - x
-
 Volgens Le Châtelier verschuift bij temperatuursverhoging
-(25 °C
 50 °C) het evenwicht in de endotherme richting
 (in dit geval naar links omdat H° negatief is)
-
-K p (323)
-2,2 10 −5
-
 PNO2 PO2
-
-=
-
 PNO PO3
-=
-
-(32,9 − x ) (32,9 − x )
-(504,1 + x ) (183,8 + x )
-
 Na verder uitwerken wordt een vierkantsvergelijking bekomen: 0,99x2 - 65,8 x + 1080,4 = 0
 Bij het oplossen van deze vergelijking worden als x-waarden gevonden: 36,8 en 29,6. Enkel
 29,6 is een mogelijke oplossing en de evenwichtsdruk wordt
-
 PNO2
-
-= 32,9 − x = 3,3 kPa
-
 De onderstaande reactie gebeurt in een vat van 20l
 PCl5(g)
-PCl3(g) + Cl2(g)
-
-Kc = 4,22 10-2 bij 250 °C
-
 (a) Wanneer gestart wordt met 8 mol PCl5(g), wat worden de concentraties van
 PCl3(g) en Cl2(g) bij evenwicht?
 (b) Bereken de dissociatiegraad van PCl5(g).
@@ -714,215 +148,40 @@ vat. Wat wordt dan de concentratie van het Cl2(g)?
 (d) Nadien wordt nog eens het volume van het vat verdubbeld. Wat worden dan
 de nieuwe evenwichtsconcentraties?
 oplossing
-(a) start: PCl5: 8 mol per 20 l = 0,4 M
-
 start
 evenwicht
-
-K c ( 250 °C )
-
 PCl5(g)
-
 PCl3(g)
-
-0,4
--x
-0,4 – x
-
-+x
 x
-
-=
-
-[PCl3 ][Cl 2 ]
-[PCl5 ]
-
-+
-
-Cl2(g)
-+x
 x
-
-(M)
-
  Aanvullende voorbeelden bij Hoofdstuk VII
-4,22 10 − 2
-
-=
-
-39
-
 x x
-0,4 − x
-
-x = 0,11
-
 Na uitwerken wordt bekomen:
-x2 + 4,22 * 10-2 x - 0,0168 = 0
 Bij evenwicht worden de volgende concentraties verkregen:
-
-[PCl3 ]
-[PCl5 ]
-(b)
-
-=
-
-[Cl 2 ]
-
-= x = 0,11 M
-
-x = -0,15
-
-= 0,4 − x = 0,29 M
-
-α
-
-=
-
 omgezet [PCl 5 ]
 oorspronkelijke [PCl 5 ]
-
-α
-
-=
-
 x
-× 100 =
-0,4
-
-0,11
-× 100 = 27,5 %
-0,4
-
 (c) bijvoegen van PCl3: 4 mol per 20 l = 0,2 M
 bijvoegen van Cl2: 3 mol per 20 l = 0,15 M
 PCl5(g)
-
 PCl3(g)
-
-start
-
-0,29
-+x
 evenwicht 0,29 + x
-
-K c ( 250 °C )
-4,22 10 −2
-
-=
-
-Cl2(g)
-0,11 + 0,15
--x
-0,26 – x
-
-[PCl3 ][Cl 2 ]
-[PCl5 ]
-[0,31 − x][0,26 − x]
-=
-[0,29 + x]
-
+start
 Na uitwerken krijgen we:
 Bij evenwicht:
-
-[PCl5 ]
-[PCl3 ]
-[Cl 2 ]
-
-0,11 + 0,2
--x
-0,31 - x
-
-+
-
-x2 - 0,6122 x + 0,068362 = 0
-
-(M)
 Le Châtelier : PCl3
 en Cl2 toevoegen
 evenwicht verschuift
 naar links
-
-x = 0,15
-x = 0,46
-
-= 0,29 + x = 0,44 M
-= 0,31 − x = 0,16 M
-= 0,26 − x = 0,11 M
-
 (d) Verdubbelen van het volume van het vat, betekent dat de concentraties halveren.
-
-0,44 M
-= 0,22 M
-2
-0,16 M
 PCl3:
-= 0,08 M
-2
-0,11 M
-= 0,056 M
-Cl2:
-2
-
 start: PCl5:
-
  Aanvullende voorbeelden bij Hoofdstuk VII
-
 start
 evenwicht
-
 PCl5(g)
-
 PCl3(g)
-
-0,22
--x
-0,22 - x
-
-0,08
-+x
-0,08 + x
-
-40
-+
-
-Cl2(g)
-
-(M)
-
-0,056
-+x
-0,056 + x
-
 Volgens Le Châtelier zal bij volumetoename het evenwicht verschuiven in de richting
 met het grootste aantal gasmoleculen dus van links naar rechts.
-
-K c ( 250 °C )
-4,22 10 − 2
-
-=
-
-[PCl3 ][Cl 2 ]
-[PCl5 ]
-[0,08 + x][0,056 + x]
-=
-[0,22 − x]
-
-x = 0,023
-2
-
 Hieruit halen we een vierkantsvergelijking: x + 0,1802 x - 0,00462 = 0
 Bij evenwicht wordt dan bekomen:
-
-[PCl5 ]
-[PCl3 ]
-[Cl 2 ]
-
-= 0,22 − x = 0,2 M
-= 0,08 + x = 0,1 M
-
-= 0,056 + x = 0,08 M
-
-x = -0,2
-
- 

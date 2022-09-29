@@ -4,12 +4,15 @@
 
 use strict;
 use warnings;
+use lib '.';
+require filter;
 
 my @files = @ARGV;
 foreach my $file (@files) {
 #    printf STDERR "processing %s\n", $file; #REMOVE
     `unoconv -o tmp -d document -f txt $file`;
     my $newfile = `cat tmp.txt`;
+    $newfile = filter::formulas ($newfile);
     printResult ($file, $newfile);
 }
 

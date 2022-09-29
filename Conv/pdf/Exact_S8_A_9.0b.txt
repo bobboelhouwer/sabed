@@ -1,26 +1,17 @@
 14. Lipiden
 • wassen, vetten, zepen, detergenten, fosfolipiden
 • bevatten één of meer lange apolaire alkylketens
-
 14.1 Wassen
 • (mengsel) esters van hogere vetzuren met hogere alcoholen
-
 waaierpalm
-
 schedel potvis
 honingraat
-
 • apolaire, zachte vaste stoffen (~ ketenlengte)
 • diverse functies: waterafstotende beschermingslaag, voedselreserve, bouwstof
-
 Lipiden
-
-1
-
  14.2 Oliën en vetten
 • plantaardige of dierlijke producten
 • isoleringsmethode:
-
 ✓ uitpersen (olijfolie)
 ✓ inleiden van stoom
 ✓ extractie met organisch solvent
@@ -29,81 +20,33 @@ materiaal met apolair organisch solvent (ook terpenen…)
 • huidige definitie: triëster van glycerol en vetzuren
 • functie: brandstof, opslag energie, membraancomponent,
 warmte-isolator, schokdemper, oplosmiddel voor vitamines
-
 Lipiden
-
-2
-
  14.3 Structuur en nomenclatuur glyceriden
 • glyceride = ester van glycerol en vetzuren
-
 • vetten: vaste stoffen meestal van dierlijke afkomst
 • oliën: vloeibaar, meestal van plantaardige afkomst (Olea = olijf)
-
-Tm 43°
-
 Lipiden
-
-Tm 72°
-
-3
-
  • meestal drie OH-groepen veresterd: triglyceriden
-
 • grote variatie in vetzuren
 • algemene kenmerken vetzuren:
 ✓lange lineaire carbonzuren
 ✓even aantal C-atomen (meestal 12, 14, 16 en 18)
 ✓ 0 tot 3 dubbele bindingen
 ✓ cis-configuratie komt veruit het meest voor
-
 Lipiden
-
-4
-
  • nomenclatuur vetzuren (zoals carbonzuren)
-
-(
-(
-(
-(
-
-)
-)
-)
-)
-
-(
-
-)
-
-(
-
-)
-
 Lipiden
-
-5
-
  14.4 Onverzadigdheid van oliën en vetten
 • smeltpunt daalt bij stijgend aantal onverzadigdheden
 (oliën meer onverzadigde vetzuren)
 • knik in de lange alkylketen door starre cis-dubbele bindingen
 (laten geen vrije rotatie toe!) beletten compact stapelen van de
 alkylketens en verlagen zo de stabiliteit van de vaste fase
-
-
-
 • zoogdieren: verzadigd → onverzadigd: essentiële vetzuren
 • hydrogenering van plantaardige oliën (echte boter – margarine)
-
 Lipiden
-
-6
-
  14.5 Oxidatie van oliën en vetten - ranzigheid
 • vernetting via reactieve allylplaatsen: radicaalreactie met zuurstof
-
 O
 O
 CH2-CH3
@@ -112,28 +55,17 @@ O
 CH3-CH2
 O
 O
-
 toepassing: verharden verven en vernissen (lijnolie)
-
 Lipiden
-
-7
-
  • oxidatieve doorbraak
-
 ✓ vorming hydroperoxiden bij blootstelling aan de lucht
 ✓ splitsing in kleinere fragmenten
 ✓ vorming mengsels aldehyden en andere verbindingen
 met onaangename geur
 ✓ hoe vermijden? Donker, luchtdicht bewaren, antioxidantia toevoegen
-
 Lipiden
-
-8
-
  uitgewerkt mechanisme
 (ter illustratie)
-
 COOH
 H-abstractie
 COOH
@@ -147,261 +79,130 @@ O
 COOH
 -splitsing alkoxyradicaal
 O
-+
-
 Lipiden
-
 COOH
-
-9
-
  • biosynthese prostaglandines uit meervoudig onverzadigde
 vetzuren door oxidatie
-
 ✓ functie prostaglandines nog niet volledig gekend
 (regulatie bloeddruk, bloedstolling, regeling vruchtbaarheid…)
-
 Lipiden
-
-10
-
  14.6 Hydrolyse van oliën en vetten
 • gekatalyseerd door enzymen (lipasen) of o.i.v. bacteriën
 ✓ vetzuren komen vrij (onaangename geur van korte vetzuren)
 ✓ ranzigheid kan dus te wijten zijn aan oxidatie en/of hydrolyse
 • verzeping met NaOH of KOH, of onder invloed van zuur
-
 AEN
-
 Lipiden
-
-11
-
  14.7 Omestering van oliën en vetten
 • omestering met MeOH of EtOH (base of zuur gekatalyseerd)
 AEN
-
 overmaat MeOH gebruiken
-
 ‘biodiesel’
-
 • methylesters van vetzuren vluchtiger dan triglyceride
-
 Lipiden
-
-12
-
  14.8 Analyse van oliën en vetten
 • joodgetal: graad van onverzadigdheid olie of vet
 aantal gram dijood (molmassa I2 = 253,8 g/mol) dat aan 100 g
 olie of vet geaddeerd kan worden aan de aanwezige C=C
-100 x n x 253,8
 Joodgetal =
-
 M
 Werkwijze:
-
 n = aantal dubbele bindingen
 M = molmassa vet
-
 overmaat broom gebruiken i.p.v. jood
-−CH=CH−
-
-+ Br2 →
-
-−CHBr−CHBr−
-
 resterend broom laten reageren met iodide
-
 Br2 + 2 I- → I2 + 2 Brtitratie met natriumthiosulfaat (zetmeel als indicator)
-
-I2 + 2 S2O32- → 2 I- + S4O62-
-
 Lipiden
-
-13
-
  • verzepingsgetal: maat voor molmassa olie of vet
 (gemiddelde ketenlengte vetzuren)
 aantal mg KOH dat nodig is om in 1 gram olie of vet te verzepen
-
 Opgelet: hoe groter de gemiddelde ketenlengte, hoe kleiner het
 verzepingsgetal!
 Werkwijze: overmaat KOH toevoegen en verwarmen
 resterende KOH titreren met HCl met fenolftaleïne
 als indicator: omslag van roos naar kleurloos
 Voorbeeld:
-
-tristearine (3 maal 18:0, M = 891,5 g/mol)
 molmassa KOH
-
 joodgetal: 0
-
-3 x 56,1 x 1000 mg
 verzepingsgetal =
-
-= 188,8
-
-891,5
 (geeft geen informatie over exacte chemische samenstelling)
-
 Lipiden
-
-14
-
  14.9 Biosynthese van vetzuren
 • vetzuren worden opgebouwd uit acetyleenheden
 aangebracht als thioëster
 • Claisen-type condensatie via Acyl Carrier Protein (ACP)
 • eerst omzetten in enolaatanion:
 sterk basisch milieu
-
 neutraal milieu
-
 stap 1
-
 extra carboxylgroep aanbrengen met biotine
-
 malonylCoA
 acetylCoA
-
 Lipiden
-
-15
-
  stap 2
-
 malonylcoënzym A en acetylcoënzym A
 via omestering met thiolgroepen aan ACP binden
-
 stap 3
 condensatiereactie
-
 Lipiden
-
-16
-
  stap 4
-
 reductie tot (R)--hydroxyacylgroep
-
 stappen 5, 6
-
 dehydratatie en reductie
 trans
-
 stappen 7, 8, 9 omestering, Claisen-type condensatie
-
 Lipiden
-
-17
-
  • na 7 cycli wordt palmitaat verwijderd
 • snelheidsbepalende stap wordt gekatalyseerd door
 acetylcoënzym A carboxylase (stap 1)
 • vetzuursynthetase complex:
-
 Lipiden
-
-18
-
  14.10 Afbraak van vetzuren
-
 -oxidatie
-
 • afbraak tot acetyl-CoA (in Krebs cyclus verder tot CO2)
 ATP
-
-
-
 wordt omgeësterd met
 CoA-SH voor verdere afbraak
-
 Lipiden
-
-19
-
  • in grote lijnen omgekeerd aan synthese vetzuren
 • verschillen:
 afbraak
-
 opbouw
-
 plaats
-
 mitochondriën
-
 cytoplasma
-
 substraat gebonden aan
-
 Coënzym A
-
 ACP
-
 enzymen
-
 afzonderlijk
-
 complex
-
 verandering ketenlengte
-
 - C2 als acetyl-CoA
-
 + C2 als malonylACP)
-
 oxidans/reductans
-
 FAD, NAD+
-
 NADPH
-
 • energiewinst bij verbranding 1 mol (258 g) palmitinezuur (C16)
 ✓ vorming thioëster
--1 ATP
 ✓ per vorming acetyl-CoA: 1 NADH, 1 FADH2
-+5 ATP x7
 ✓ per oxidatie acetyl-CoA (Krebs)
-+12 ATP x8
 ✓ Totaal
-+130 ATP
 equivalent aan 3965 kJ (lamp 100 W 10 uur laten branden)
-
 Lipiden
-
-20
-
  14.11 Fosfolipiden en fosfoglyceriden
 • naast apolair vetzuurgedeelte (twee vetzuren) ook hydrofiel
 gedeelte (via fosfaatester)
-
 ethanolamine
 serine
-
 choline
-
 lecithines
 inositol
-
 Lipiden
-
-21
-
  • vorming micel, dubbellaag
 • membranen: 40-50% fosfoglyceriden, 50-60% eiwitten
 • functie: afscheiding, transport
-
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-
 Lipiden
-
 Eiwit
 Fosfoglyceride
 Cholesterol
@@ -409,117 +210,63 @@ Glycolipiden
 Helixstructuur
 Glycoproteinen
 Suikerketens
-
-22
-
- 14.12 Zepen
 • Na+, K+ of NH4+ zouten van vetzuren via verzeping
 • zachte zepen (vloeibare zepen en shampoos):
 kaliumzouten (houden meer water vast, beter oplosbaar)
 • harde zepen: natriumzouten
-
 • detergenten: synthetische producten met lange apolaire
 alkylketen en polaire, geladen eindgroep
 voorbeelden: - natriumdodecylsulfaat (SDS, anionisch)
 - quaternair ammoniumzout (kationisch)
-
 Lipiden
-
-23
-
  • industriële bereiding zeep:
 ✓ gesmolten vet verhitten met lichte overmaat NaOH
 ✓ afkoelen en NaCl toevoegen om zeep neer te slaan
-
 neerslag = ruwe zeep
 (verder zuiveren door
 oplossen en neerslaan)
-
 waterlaag bevat glycerol
 (zuiveren via vacuümdestillatie)
-
 • reinigende werking van zeep berust op opname van hydrofobe
 vuildeeltjes in micellen
-
 Lipiden
-
-24
-
  14.0 Enkele aanvullingen
 • omega-3-vetzuren: drie of meer dubbele bindingen in
 cis-configuratie, eerste dubbele binding tussen C3 en C4
 (bij nummering vanaf uiteinde:  is laatste letter Grieks alfabet !)
 H
 H
-
 H
-
-cis C 15
 C
-
 C cis H
-C12
-
 H
-18
-
 cis
 H
-
 linoleenzuur
-
 C
 C
-9
-
 COOH
-1
-
 • omega-6-vetzuren: minimum twee dubbele bindingen in
 cis-configuratie, eerste dubbele binding tussen C6 en C7
 H
 C cis H
-C12
-
-18
-
 linolzuur
-
 H
-
 ideale opname via de voeding
-3:6  2,5:1
-
 Lipiden
-
 cis
 H
-
 C
 C
-9
-
 COOH
-1
-
-25
-
  • omega-9-vetzuren: dubbele binding tussen C9 en C10
 H
 cis
 H
-
-18
-
 C
 C
-9
-
 oliezuur
-
 COOH
-1
-
 • harden of hydrogeneren van vetten
 ✓ H2 onder druk, Ni katalysator
 ✓ smelttemperatuur stijgt: goedkope olie
@@ -527,81 +274,43 @@ omzetten in dure margarine
 ✓ gedeeltelijk vorming trans-vetzuren
 (verhogen LDL-cholesterolgehalte)
 COOH
-
 H
 C cis H
-C12
 H
 cis
 H
-
 C
 C
-9
-
-1
-
-H2
-
-9
-
-1
 COOH
-
 cholesterol
-
-12
-
 Lipiden
-
-26
-
  • conjugated linolic acids (CLA): 18 C-atomen en 2
 geconjugeerde dubbele bindingen (cis of trans),
 heilzame effecten?
 • diacylglyceriden (DAG): slechts 2 vetzuren veresterd met
 glycerol, verhogen HDL-cholesterol
-
 • HDL-cholesterol
 ✓ high density lipoprotein cholesterol
 ✓ « goede » cholesterol
-✓ d = 1,063-1,210 g/ml
-✓ diameter 5-12 nm
 ✓ eiwit 33%, triacylglyceride 8%,
 cholesterol 30%, fosfolipiden 29%
 ✓ transporteert surplus cholesterol
 naar lever voor afbraak
-
 Lipiden
-
-27
-
  • LDL-cholesterol
-
 Lipiden
-
 ✓ low density lipoprotein cholesterol
 ✓ « slechte » cholesterol
-✓ d = 1,019-1,063 g/ml
-✓ diameter 18-25 nm
 ✓ eiwit 25%, triacylglyceride 10%,
 cholesterol 46%, fosfolipiden 22%
 ✓ transporteert cholesterol door lichaam
 ✓ atherosclerose (of arteriosclerose)
-
-28
-
  • arteriosclerose
 en hartinfarct
-
 Lipiden
-
-29
-
  • fyto- of plantensterolen: gelijken op cholesterol,
 verlagen LDL-cholesterol
 -sitostanol
-
 • Olestra (Olean®, vetvervanger)
 ✓ sucrose polyester
 ✓ sucrose met acht vetzuren
@@ -610,12 +319,7 @@ vetten (ook frituren)
 ✓ stabiel bij hoge temperaturen
 ✓ niet afbreekbaar door lipasen
 ✓ levert geen caloriën op
-
 (andere vetvervangers zijn gebaseerd op koolhydraten of eiwitten
 en kunnen niet gebruikt worden voor frituren)
-
 Lipiden
-
 Aminozuren en eiwitten 30
-
- 

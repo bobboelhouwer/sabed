@@ -1,356 +1,284 @@
-Genetica
-
- Opbouw cursus: theorie lessen
-• Patronen van erfelijkheid: experimenten van
-Mendel en aanvullingen hierop
-• Chromosomen
-• Mutaties
-• Genetica van bacteria en virussen
-• Populatiegenetica en evolutie
-• Genregulatie
-• Ontwikkelingsgenetica
-• Evolutie van ontwikkeling
-
- Opbouw cursus: oefeningen
-• voorspelling experimenten erfelijkheid
-• analyse van stambomen
-• genkartering
-• bepaling van allelen- en
-fenotypefrequentie in populaties
-Arne Sinnesael
-oefeningensessies
-
- Opbouw cursus: lesmateriaal
-• Uitgeschreven cursus (Acco)
-• Presentaties (Toledo)
-• Opnames lessen (Toledo)
-
- Opbouw cursus: opdrachten
-presentatie populariserend artikel:
-- kies artikel (overzicht op Toledo) – 11.10.2021
-- lees dit artikel grondig en zoek extra informatie op
-- ga indien mogelijk op zoek naar de wetenschappelijke
-publicatie waarop het artikel gebaseerd is (indien van
-toepassing)
-- zoek extra informatie om onderwerp goed te begrijpen
-
-- maak korte presentatie van 5-tal slides – 20.12.2021
-- inleiding
-- proefopzet
-- resultaten
-- conclusie
-
- mRNA vaccines
-Genetically modified
-rotifers
-Origin of watermelon
-Genetic origin of Basques
-Origin of land animals
-Sweet taste in birds
-Environmental DNA
-Mitochondria 2.0
-African genomes
-Nitrogen fertilisation
-Gay gene
-Genomes and privacy
-Pigs as organ donors
-Recent human evolution
-Gene drives
-Horizontal gene transfer
-Extramarital children
-
- Opbouw cursus: opdrachten
-discussieforum:
-- drie topics:
-- genoomscreening
-- designerbabies
-- GGO’s
-
-- geef input in discussieforum – 17.12.2021
-- geen activiteit = 0
-- deelname = +1
-- unieke inbreng van informatie = +2
-- sterke tegenargumenten tegen eerdere argumentatie =
-+3
-
- Puntenverdeling
-- examen: theorie + oefeningen
-- presentatie
-- discussieforum
-
-2/20
-1/20
-
-17/20
-
- Wat is genetica?
-Studie van de variatie in kenmerken en de erfelijkheid
-van deze variatie
-• pre-historie: veredelen van landbouwgewassen, besef van
-doorgeven kenmerken van ouders naar nakomelingen, besef
-van link inteelt-afwijkingen
-• 19e eeuw: model voor erfelijkheid (Mendeliaanse genetica)
-• 20e eeuw: ontdekking van mechanismen van erfelijkheid
-(moleculaire genetica)
-• 21e eeuw: razendsnelle ontwikkeling van technologiën om
-erfelijkheid te bestuderen en te manipuleren (klonen,
-gentherapie, genetische modificatie, genoomkartering)
-
- Maatschappelijke relevantie
-
-Heb ik risico op bepaalde ziektes? Wie is mijn verre
-familie?
-
- Maatschappelijke relevantie
-Erfelijke afwijkingen
-corrigeren?
-Landbouwgewassen
-verbeteren?
-
- Maatschappelijke relevantie
-
-Vermijden van ernstige erfelijke afwijkingen?
-Selectie van embryo’s op basis van esthetische
-eigenschappen?
-
- DNA deoxyribonucleïnezuur
-• DNA = keten van
-nucleotiden die
-verbonden zijn via
-fosfaatbindingen
-• Nucleotide = fosfaat +
-suiker (deoxyribose) +
-stikstofhoudende base
-(adenine, thymine,
-guanine, cytosine)
-
- DNA deoxyribonucleïnezuur
-• stikstofhoudende basen
-binden met elkaar tot
-basenparen:
-• adenine – thymine
-• guanine – cytosine
-• twee DNA ketens binden
-met elkaar via
-complementaire
-basenparen (de twee
-ketens zijn elkaars
-spiegelbeeld)
-• de twee DNA ketens
-lopen in
-tegenovergestelde
-richting (5’ → 3’)
-• de twee DNA ketens
-vormen een helix met
-een smalle en brede
-groeve
-
- De genetische code
-• de vier basen (A, T, G, C)
-vormen ‘letters’
-• drie basen vormen een
-codon, een ‘woord’
-• er zijn 24 = 64 codons
-mogelijk
-• elk codon codeert voor
-een aminozuur
-• er zijn 20 aminozuren,
-wat betekent dat
-sommige codons voor een
-zelfde aminozuur coderen
-• de vertaling van codons
-naar aminozuren noemen
-we de genetische code
-
- Gen en proteïne
-• een gen bestaat uit een
-reeks van basenparen die
-overeenkomt met een
-reeks aminozuren
-• de ‘vertaling’ van DNA
-naar aminozuren gebeurt
-in twee stappen:
-• de basenparen
-worden eerst omgezet
-naar een
-overeenkomstige
-reeks RNA basen door
-RNA polymerase
-• deze RNA basen
-worden omgezet naar
-een reeks aminozuren
-door ribosomen
-
- Gen en proteïne
-• transcriptie: RNA
-polymerase kopieert DNA
-naar RNA
-• codons in DNA komen
-overeen met codons in
-RNA
-
- Gen en proteïne
-• translatie: ribosomen
-‘vertalen’ een reeks
-codons naar een keten
-van aminozuren RNA
-
- Gen en proteïne
-• de keten van aminozuren vormt een
-driedimensionele structuur, het
-proteïne
-• de vorm en functie van het proteïne
-wordt bepaalt door de
-eigenschappen van de aminozuren
-• proteïnen kunnen heel veel
-verschillende functies hebben:
-• enzymen (voeren chemische
-reacties uit)
-• signalen geven aan cellen
-• structuur (vb. keratine)
-• transport van moleculen
-• replicatie van DNA, transcriptie
-van DNA naar RNA, translatie
-van RNA naar proteïne
-
- Mutaties
-• wanneer één of enkele
-basenparen in de DNA keten
-wijzigen zegt men dat er een
-mutatie opgetreden is
-• mutatie in gen:
-• codon(s) in DNA gewijzigd
-• codon(s) in RNA gewijzigd
-• aminozuren gewijzigd
-• functie van proteïne gaat
-verloren of is gewijzigd
-• elk base in een gen kan
-muteren, waardoor
-verschillende varianten van
-genen kunnen ontstaan
-• deze varianten van genen
-noemen we allelen van een
-gen
-
- Het menselijke genoom
-• 3 miljard (3 000 000 000)
-basenparen
-• 750 MB aan informatie
-• komt overeen 10 000 boeken
-Game of Thrones, 95 jaar nodig
-om alles te lezen
-• geprint in 130 dikke volumes
-
- Het menselijke genoom
-• slechts 6.5 % van het
-genoom bestaat uit de
-eigenlijke genen
-• het resterende deel is nietcoderend
-• transposons
-• DNA dat een rol speelt in
-genregulatie (activeren of
-inactiveren van genen)
-
- Het menselijke genoom
-• genen bestaan uit exons die
-coderen voor aminozuren en
-introns die niet coderen voor
-aminozuren
-• de introns worden weggeknipt uit
-het RNA vooraleer de translatie
-plaatsvindt (splicing)
-• dit betekent dat slechts 1.5 % van
-ons genoom codeert voor
-aminozuren
-• je kan het genoom bekijken als een
-heel dik boek dat weinig inhoud
-heeft, met slechts hier en daar
-verspreide paragrafen die effectief
-betekenis hebben
-
- Chromosomen
-• het totale menselijke genoom
-is 2 meter lang; dit past niet
-in een cel die slechts 100 µm
-groot is
-• het DNA is sterk
-opgevouwen:
-• nucleosoom: DNA is 2
-keer gewikkeld rond 8
-histonen (proteïnen)
-• chromatine: een keten
-van nucleosomen
-• het chromatine vormt een
-solenoïde
-• een solenoïde wordt
-opgevouwen tot een
-chromosoom
-
- Chromosomen
-• het genoom is opgedeeld in
-meerdere chromosomen die
-variëren in grootte
-• elke cel bevat twee kopieën
-van het genoom; van elk
-chromosoom zijn er dus twee
-exemplaren: de homologe
-chromosomen
-• in totaal bevat de cel 46
-chromosomen
-• 2 x 22 autosomen
-• 2 geslachtschromosomen
-• XY bij mannen
-• XX bij vrouwen
-
- Chromosomen
-• autosomen komen voor in
-paren van homologe
-chromosomen
-• na replicatie van het DNA
-bestaat elk chromosoom uit
-twee chromatiden; deze
-zijn verbonden met elkaar ter
-hoogte van het centromeer
-• de uiteinden van het
-chromosoom zijn de
-telomeren
-
- Chromosomen
-• de homologe
-chromosomen bezitten de
-zelfde genen maar kunnen
-verschillende allelen van
-deze genen bezitten (cf.
-dezelfde boeken maar met
-verschillende drukfouten)
-• de chromatiden zijn
-identieke kopieën en bezitten
-dezelfde genen en dezelfde
-allelen van elk gen
-
- Wat is genetica?
-genotype
-DNA
-↓
-mRNA
-↓
-proteïne
-↓
-fenotype
-
-mutant gen
-
-mutant fenotype
-genen zijn vaak
-vernoemd naar
-mutante fenotype
-
- Prokayroot versus eukaryoot
-prokaryoot
-
-eukaryoot
-mens = 1014 cellen
-
- Seksuele voortplanting
-
- 
+Aanvullingen
+Responsie op
+ingangssignalen en begintoestand
+Responsie berekenen
+• Gegeven toestandsbeschrijving (A, B, C, D) ,
+• Toestandsbeschrijving
+• Exhaustieve berekening van x[k] en y[k]
+Voorbeeld
+Gegeven
+“Oplossen” toestandsvergelijking
+• Gegeven toestandsbeschrijving, u[k] en x[0], wat zijn x[k] en y[k] ?
+• Toestandsbeschrijving
+A
+Algemeen:
+• Uitgangssignaal
+Nulingangs- en nultoestandsrespons
+Nulingangsresponsie
+Nultoestandsresponsie
+• Nulingangsresponsie: y[k] als u[k]
+• Nultoestandsresponsie: y[k] als x[0] = 0
+Toestandsbeschrijving en
+gelijkvormige matrices
+Toestandsbeschrijving is niet uniek
+, np] een nxn inverteerbare matrix
+– Is verandering van coördinaten: w[k] zijn de coordinaten van x[k] in de
+basis {p
+Toestandsbeschrijving is niet uniek
+• In de nieuwe toestandsvector w[k] hebben we een
+equivalente toestandsbeschrijving:
+A en zijn gelijkvormig
+• Beide systemen zijn equivalent. Let wel op initiële
+toestand. Nulingangsresponsie:
+Zorg ervoor dat P w[0] = x[0], dan is ook P w[k] = x[k]
+voor k>0, en dus y[k]=
+Voorbeeld
+D
+D
+Voorbeeld (2)
+Kies
+zodat x[k] = P w[k]
+D
+D
+Toestandsbeschrijving en
+matrixdiagonalisatie
+Diagonaalvorm
+• Veronderstel dat A diagonaliseerbaar is
+• Kies P =1,[v... , nv] met iveigenvector van A met
+eigenwaarde
+• Voor SISO systeem:
+• Toestand i beinvloedt toestand
+≠i niet
+j
+Diagonaalvorm voor SISO systeem
+• Som van
+eerste-orde
+systemen
+• Plus directe
+verbinding
+met winst̅+
+Voorbeeld
+D
+D
+Minimaliteit
+Voor sommige systemen kan een
+/ * = 0. De toestandsveranderlijke
+wi[k] kan dan niet beïnvloed
+worden. Het systeem is niet
+controleerbaar.
+Voor sommige systemen kan een
+0̅* = 0. De toestandsveranderlijke
+wi[k] kan de uitvoer niet
+beïnvloeden. Het systeem is niet
+observeerbaar.
+Een systeem dat niet observeerbaar
+en/of niet controleerbaar is heet
+niet-minimaal. Hetzelfde ingangsuitgangsgedrag kan gerealiseerd
+worden met een kleiner aantal
+geheugenelementen.
+Inwendige (interne) stabiliteit
+• Een systeem is inwendig stabiel →
+als0 x[k]
+als k
+k
+w λnk vn
+• Inwendig instabiel zodra één
+• Inwendig stabiel
+Nulingangsresponsie
+Nulingangsresponsie
+Nultoestandsresponsie
+• Ak x[0] bestuderen
+A
+(c = rijvector; SISO system)
+Nulingangsresponsie
+k
+w λnk vn
+basis {v
+= P-1 x[k] is de coördinatenvector van x[k] in de
+k
+basis {v
+is een gewogen som van exponentiële functies in k
+Nulingangsresponsie
+Bijdragen tot nulingangsresponsie
+Attractor / aantrekker
+Inwendig stabiel
+Repeller / afstoter
+Inwendig onstabiel
+Saddle point / zadelpunt
+Inwendig onstabiel
+Complexe eigenwaarden
+ω is genormaliseerde frequentie. 0 < 7 < 1
+• Eigenvectoren
+i en
+i
+• Neem complex toegevoegde termen samen in
+E
+een reële rijvector;
+ccis
+E
+Re
+G
+Complexe eigenwaarden (2)
+G
+• Bijdrage door complexe eigenwaarde in y[k] is
+product van:
+k - zie
+o Exponentieel verloop
+r reële eigenwaarde
+o Golvend verloop (K
+cos
+Complexe eigenwaarden
+Inwendig stabiel
+Bijdrage tot nulingangsresponsie
+Canonieke vorm en
+differentievergelijking
+Canonieke vorm
+• Zoek transformatiematrix 1Q
+q] zodat door de
+n
+M
+gelijkvormigheidstransformatie:
+M
+R
+Mnoemen we een compagnon-matrix
+Men A hebben dezelfde K.P. want gelijkvormig
+• Constructie van Q – zie later
+Waarom die Ã O
+en
+Constructie van Q
+2de vergelijking:T
+T
+Constructie van Q
+U
+T
+PQ
+PQ
+Waarom die Ã O
+en
+w
+w
+w
+w
+w
+w
+w
+Waarom die Ã O
+en
+Dus:
+Uitgangsvergelijking:
+Herschrijf:
+w1[k] elimineren
+Differentievergelijking
+O
+O
+f
+• Rechtstreeks verband tussen u[k] en y[k]
+• Dit heet een differentievergelijking
+• Alternatief voor de toestandsbeschrijving
+• Is een verband tussen differentievergelijking en canonieke vorm
+• M.a.w.: gegeven een differentievergelijking
+f
+f
+f
+Dan komen daarmee toestandsbeschrijvingen overeen die allemaal dezelfde K.P.
+hebben:%! + PQ
+R
+• Ook: gegeven een toestandsbeschrijving (A, b, c, d), dan komt daarmee een
+differentievergelijking overeen waarbij
+dedeã coëfficiënten van de K.P.
+i ook
+van A zijn
+Voorbeeld
+X
+Y
+X
+Y
+Z
+PQ
+PQ
+Voorbeeld
+O
+Met Q =
+, canonieke vorm:
+D
+D
+Voorbeeld
+PQ
+D
+D
+de differentievergelijking gehaald uit de canonieke vorm
+Impulsresponsie en convolutie
+Impulsresponsie
+• Doel: berekenen van de responsie. We hadden al:
+Exhaustief
+• Nultoestandsimpulsrespons (impulsrespons) h[k] van
+een SISO DTLTI systeem is y[k] wanneer
+k
+k
+k
+Verschoven impuls
+k
+k
+k
+k
+Ontbinding u[k]
+Lineair en tijdsinvariant
+Convolutie
+• Formeel
+d
+efd
+d
+b
+Lineair
+Tijdsinvariant
+• Voor een systeem dat uit de nultoestand vertrekt !
+• y[k] is de convolutie van u[k] en h[k]
+• Uitvoer is convolutie van invoer en impulsresponsie
+Convolutie
+Neutraal element: a[k]
+Lineair:
+• Enkelzijdige signalen a[k] = b[k] = 0 voor k<0 :
+d
+E
+=aPb
+efd
+efR
+• Causaal systeem: h[k] = 0 voor k<0
+Geen respons vóór de excitatie
+Impulsresponsie
+Nulingangsresponsie
+Nultoestandsresponsie
+2 term blijft enkel index j=0 staan
+de term:
+cA
+b
+Voorbeeld
+d
+E
+E
+E
+E
+steorde
+Impulsresponsie van
+1 systeem
+b
+D
+c
+k
+op
+E
+cb
+c
+q
+E
+E
+E
+Vorm impulsresponsie
+cAvoor k > 0
+• Zelfde bespreking als nulingangsresponsie
+steorde systeem:λk-1
+cb, zie boven
+• Voor diagonaliseerbare A, som van:
+o Exponentiëel verloop
+λ complex)
+o Schommelend exponentiëel verloop

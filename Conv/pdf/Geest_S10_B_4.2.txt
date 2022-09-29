@@ -5,488 +5,46 @@ Techniek #1: Constituentstype
 Techniek #2: Valentie en weglaatbaarheid
 Techniek #3: Vervangbaarheid
 Techniek #4: Verplaatsbaarheid
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
  Techniek #2: Valentie en weglaatbaarheid: De valentie
 van het gezegde
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
  Techniek #2: Valentie en weglaatbaarheid: De valentie
 van het gezegde
-(24)
-
-a.
-b.
-c.
-
 __ slaapt
 __ begrijpt __
-__ geeft (aan)__ __
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
  Techniek #2: Valentie en weglaatbaarheid: De valentie
 van het gezegde
-(24)
-
-a.
-b.
-c.
-
 __ slaapt
 __ begrijpt __
-__ geeft (aan)__ __
-
-(25)
-
-a.
-b.
-
 Yannis slaapt.
 Yannis heeft geslapen.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
  Techniek #2: Valentie en weglaatbaarheid: De valentie
 van het gezegde
-(24)
-
-a.
-b.
-c.
-
 __ slaapt
 __ begrijpt __
-__ geeft (aan)__ __
-
-(25)
-
-a.
-b.
-
 Yannis slaapt.
 Yannis heeft geslapen.
-
-(26)
-
-a.
-b.
-
 Elias springt op de trampoline.
 Elias springt in de bres voor Quinten.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
  Techniek #2: Valentie en weglaatbaarheid: De valentie
 van het gezegde
-(24)
-
-a.
-b.
-c.
-
 __ slaapt
 __ begrijpt __
-__ geeft (aan)__ __
-
-(25)
-
-a.
-b.
-
 Yannis slaapt.
 Yannis heeft geslapen.
-
-(26)
-
-a.
-b.
-
 Elias springt op de trampoline.
 Elias springt in de bres voor Quinten.
-
-(27)
-
 [Met je mond open] zie je er dom uit.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
  Techniek #2: Valentie en weglaatbaarheid: De valentie
 van het gezegde
-(28)
-
-a.
-b.
-c.
-
 __ slaapt
 __ begrijpt __
-__ geeft (aan)__ __
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
  Techniek #2: Valentie en weglaatbaarheid: De valentie
 van het gezegde
-(28)
-
-a.
-b.
-c.
-
 __ slaapt
 __ begrijpt __
-__ geeft (aan)__ __
-
-(29)
-
-a.
-b.
-c.
-
 iemand slaapt
 iemand begrijpt iets (of iemand)
 iemand geeft (aan) iemand iets
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
  Techniek #2: Valentie en weglaatbaarheid: De valentie
 van het gezegde
 nulplaatsig
@@ -496,7 +54,6 @@ tweeplaatsig
 tweeplaatsig
 drieplaatsig
 drieplaatsig
-
 onpersoonlijk
 intransitief
 transitief
@@ -504,7 +61,6 @@ pseudotransitief
 intransitief
 ditransitief
 transitief
-
 regenen, sneeuwen
 slapen, verdwijnen
 vermoorden, verwoesten
@@ -512,51 +68,6 @@ eten, lezen
 streven (naar), hopen (op)
 geven, vertellen
 belasten (met), beschuldigen (van)
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
  Techniek #2: Valentie en weglaatbaarheid: De valentie
 van het gezegde
 nulplaatsig
@@ -566,7 +77,6 @@ tweeplaatsig
 tweeplaatsig
 drieplaatsig
 drieplaatsig
-
 onpersoonlijk
 intransitief
 transitief
@@ -574,7 +84,6 @@ pseudotransitief
 intransitief
 ditransitief
 transitief
-
 regenen, sneeuwen
 slapen, verdwijnen
 vermoorden, verwoesten
@@ -582,317 +91,30 @@ eten, lezen
 streven (naar), hopen (op)
 geven, vertellen
 belasten (met), beschuldigen (van)
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
  Techniek #2: Valentie en weglaatbaarheid: Essentiële vs.
 niet-essentiële zinsdelen
-(30)
-
 De storm verwoestte verleden week de burcht.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
  Techniek #2: Valentie en weglaatbaarheid: Essentiële vs.
 niet-essentiële zinsdelen
-(30)
-
 De storm verwoestte verleden week de burcht.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
  Techniek #2: Valentie en weglaatbaarheid: Essentiële vs.
 niet-essentiële zinsdelen
-(30)
-
 De storm verwoestte verleden week de burcht.
-
 ∈ valentie
-
 ∈/ valentie
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
  Techniek #2: Valentie en weglaatbaarheid: Essentiële vs.
 niet-essentiële zinsdelen
-(30)
-
 De storm verwoestte verleden week de burcht.
-
 ∈ valentie
 essentieel zinsdeel
-
 ∈/ valentie
 niet-essentieel zinsdeel
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
  Techniek #2: Valentie en weglaatbaarheid: Essentiële vs.
 niet-essentiële zinsdelen
-(30)
-
 De storm verwoestte verleden week de burcht.
-
 ∈ valentie
 essentieel zinsdeel
 participant
-
 ∈/ valentie
 niet-essentieel zinsdeel
 omstandigheid
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
- 

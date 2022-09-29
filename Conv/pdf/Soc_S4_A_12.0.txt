@@ -3,16 +3,11 @@ Firm behaviour and market
 structures
 Market structures II: Monopolistic
 Competition
-
  Chapter 15
 Market structures II:
 Monopolistic
 Competition
-
  Introduction
-
-287
-
 • In dit hoofdstuk wordt een marktstructuur bestudeerd met enerzijds
 kenmerken van concurrentie door de vele aanbieders en anderzijds
 kenmerken van een monopolie omdat elke producent zijn goed op
@@ -26,42 +21,24 @@ het product: elke producent is een prijszetter.
 o Gemakkelijk differentieerbare producten (heterogene producten)
 met lage toetredingskosten: diensten (bvb. restaurants),
 consumentengoederen (bvb. kleding, wasproducten, games), …
-.
-
  Overzicht
-
 1. Competition with differentiated products (p.288-292)
 2. Advertising and branding (p.292-295)
 3. Contestable markets (p.295- 296)
-4. Conclusion (p. 297 - 298)
-
-/
-
  1. Competition with
 differentiated products
-
-/
-
 Winstmaximalisatie op KT: Wat is het verschil met een monopolie?
 p, MO, GO
 MK, GK
 MK
-
 GK
-
 pmc
-
 Vi = GOi
 MOi
 qmc
-
 q
-
  The monopolistically competitive
 firm in the short run
-
-288
-
 • Omwille van het aanbieden van een heterogeen product is een
 onderneming in een marktvorm van monopolistische concurrentie
 in vele opzichten een monopolist:
@@ -73,19 +50,11 @@ bepaalt de bijhorende prijs via de vraagcurve naar zijn product.
 • Enkel op korte termijn verloopt het winstmaximalisatieproces
 gelijkaardig voor een monopolist en een ondernemer in een
 marktvorm van monopolistische concurrentie.
-
  Monopolistic competitors in the
 short run
-
-289
-
 Fig. 15.1. Waarom maakt de ondernemer in de linkse figuur winst
 en de ondernemer in de rechtse figuur verlies?
-
  The long-run equilibrium
-
-289
-
 • Zolang op korte termijn winst wordt gemaakt door de individuele
 ondernemers, lokt dit in de lange termijn toetreding uit van
 nieuwkomers.
@@ -99,57 +68,32 @@ substituten: de vraagcurves van individuele ondernemers
 worden vlakker.
 • Dit proces van toetreding zal tot stilstand komen indien er geen
 economische winstmogelijkheden meer zijn.
-
  Winstmaximalisatie op lange termijn
-
-/
-
 Door toetreding is de winst tot nul herleid (GOi’ = GK)
 maar GOi’ = p’ > MK, dus elke ondernemer heeft nog marktmacht
-(mark-up > 0).
 p, MO, GO
 MK, GK
 MK
-
 GK
-
 pmc
-
 p'mc
-
-MO’i
 MOi
 q'mc
-
-V’i = GO’i
 Vi = GOi
 q
-
  The long-run equilibrium
-
-289
-
 • As in a monopoly, price exceeds marginal cost:
 Winstmaximalisatie leidt tot MO = MK en omdat de vraagcurve
 van een ondernemer in monopolistische concurrentie een dalend
 verloop kent, zal MO < p waardoor bij winstmaximalisatie ook
-MK < p.
-
 • As in a competitive market, price equals average total cost:
 Vrije toe- en uittreding drijft de economische winst op lange
 termijn naar nul.
-
  Monopolistic versus perfect competition
 Fig. 15.3 vergelijkt het LT-marktevenwicht bij monopolistische
 concurrentie (links) met het LT-marktevenwicht bij perfecte
 concurrentie (rechts): Wat zijn de twee belangrijke verschillen ?
-
-290
-
  Monopolistic versus perfect competition
-
-290
-
 1) Excess Capacity (overcapaciteit)
 In een markt van monopolistische concurrentie leidt toe- en
 uittreding tot nul winsten dus GO = GK
@@ -160,21 +104,16 @@ minimum GK
 geproduceerd.
 • Indien de ondernemer meer zou produceren, zouden de GK dalen maar de
 gevraagde hoeveelheid naar zijn productvariant is te klein.
-
 Bij perfecte concurrentie wordt ook op lange termijn winst noch
 verlies gemaakt
 • maar toe- en uittreding zorgt ervoor dat de ondernemer gedreven wordt te
 produceren op zijn minimum efficiënte schaal dus GO = minimum GK.
-
  Monopolistic versus perfect competition
 2) Mark-up over marginal cost (p > MK)
 In een markt van monopolistische concurrentie behoudt elke
 ondernemer marktmacht, ook op lange termijn.
 Bij perfecte concurrentie heeft geen enkele ondernemer
 marktmacht, niet op korte en niet op lange termijn.
-
-291
-
  Monopolistic competition and the
 welfare of society
 Bij perfecte concurrentie is de markt efficiënt en leidt tot
@@ -186,46 +125,27 @@ MK1 = MK2= … en productie tegen minimale GK
 Bij marktmacht:
 o p > MK, dus geen allocatieve efficiëntie
 o GK > min GK dus geen productieve efficiëntie
-
-291
-
  Monopolistic competition and the
 welfare of society
 Allocatieve en productieve inefficiëntie
 p, MO, GO
 MK, GK
-
 MK
 GK
-
 Productie gebeurt
 tegen hogere GK
-
 GKmc = pmc
 GKpc = ppc
-
 MOi
-
 Vi = GOi
-
 qmc
-
 qpc
-
 onderproductie
-
 Productief
 efficiënt
-
 q
-
-/
-
  Monopolistic competition and the
 welfare of society
-
-291
-
 • A monopolistically competitive market has the deadweight loss of
 monopoly pricing.
 • Because monopolistic competitors are making already zero profits,
@@ -239,11 +159,7 @@ product variety.
 o Business-stealing externality: entry of a new firm imposes a
 negative externality on existing firms since they lose customers
 and profit.
-
  2. Advertising and branding
-
-292
-
 • When firms sell differentiated products and charge prices above
 marginal cost, each firm has an incentive to advertise or develop
 brands in order to attract more buyers to its particular product or
@@ -253,26 +169,16 @@ revenue firms spend for advertising (perfumes, soft drinks,
 breakfast cereals, ..)
 • Advertising takes many forms: newspapers, magazines, TV, radio
 and via the internet.
-
  The debate over advertising
-
-292
-
 Critique of advertising :
-
 • Advertising manipulates people’s tastes, is more psychological
 rather than informational and impedes competition.
 • Fostering brand loyalty makes buyers less concerned with
 price differences among similar goods.
 • With a less elastic demand, each firm charges a larger mark-up
 over marginal cost.
-
  The debate over advertising
-
-293
-
 Defence of advertising :
-
 • Providing information which allows customers to make better
 choices and thus enhances the ability of markets to allocate
 resources efficiently.
@@ -281,11 +187,7 @@ advantage of price differences.
 • Each firm has less market power.
 • Advertising allows new firms to enter more easily because it
 gives entrants a means to attract customers from existing firms.
-
  Advertising as a signal of quality
-
-293
-
 • Ondernemingen die veel geld spenderen aan reclame geven een
 geloofwaardig signaal aan consumenten dat hun product
 kwalitatief is.
@@ -297,11 +199,7 @@ dure reclamespot voor ontbijtgranen).
 • Niet de informatie maar wel de kost van reclame is van belang
 voor de geloofwaardigheid van de reclame (bvb. gebruik van
 beroemdheden in een reclamespot)
-
  Branding and brand names
-
-295
-
 • Branding (merkbekendheid) : de manier waarop een
 onderneming een identiteit creëert voor zichzelf en benadrukt op
 welke manier zij verschilt van haar concurrenten.
@@ -312,11 +210,7 @@ hun product.
 o Onbekende ondernemingen die geen reclame maken en geen
 merkbekendheid genieten maar vaak aanbieden via het
 huismerk van een warenhuis.
-
  Branding and brand names
-
-295
-
 • Critique of brand names (merknamen) :
 o Consumenten nemen via reclame verschillen waar die niet echt
 bestaan en gedragen zich dus irrationeel door teveel te betalen
@@ -330,11 +224,7 @@ o Merknamen geven de betreffende ondernemingen een prikkel
 om aan de behoeften van klanten te voldoen om hun goede
 reputatie en het vertrouwen van klanten te behouden (bvb.
 internationale hotelketen).
-
  3. Contestable markets
-
-295
-
 • Vaak grote verschillen tussen de theorie en het waargenomen
 gedrag van ondernemingen. Dit leidde tot de ontwikkeling van
 een nieuwe theorie door W. Baumol, J. Panzar en R.Willig in
@@ -347,50 +237,31 @@ markt.
 toetredingsbelemmeringen zijn in deze markt.
 • Deze dreiging van nieuwe toetreding resulteert in een ander
 gedrag van ondernemingen dan louter winstmaximalisatie.
-
  3. Contestable markets
-
-296
-
 • Entry limit pricing: Bestaande ondernemingen beperken hun
 winst door lage prijzen (lager dan de prijs waarbij hun winst
 maximaal is) te hanteren om nieuwe toetreding af te schrikken.
 Bestaande (grotere) ondernemingen kunnen daarbij vaak
 genieten van schaalvoordelen terwijl nieuwe ondernemingen
 vaak nog kampen met leerkosten.
-
 • Predatory or destroyer pricing: Bestaande ondernemingen
 gaan tijdelijk de prijs lager zetten dan de gemiddelde kost
 (tijdelijk verlies) om aldus concurrenten uit de markt te
 verdrijven of de dreiging van nieuwe toetreding tegen te gaan.
-
  3. Contestable markets
-
-296
-
 • Andere strategieën om concurrentie te verhinderen:
 o Tijdelijk produceren met overcapaciteit waardoor prijzen dalen
-o
-o
-
-o
-o
-
 (door overaanbod).
-Agressieve marketingstrategieën.
-Hoe meer concurrentie, hoe meer druk om zo efficiënt mogelijk
+o Agressieve marketingstrategieën.
+o Hoe meer concurrentie, hoe meer druk om zo efficiënt mogelijk
 te produceren en aldus een competitief voordeel te verwerven.
 Competitief voordeel: specifieke en verdedigbare voordelen
 van een onderneming ten opzichte van haar concurrenten.
-Hit-and-run tactics: toetreding waarbij ondernemingen snel
+o Hit-and-run tactics: toetreding waarbij ondernemingen snel
 winsten vergaren om dan weer de markt te verlaten.
-Cream-skimming: ondernemingen zoeken bepaalde niches
+o Cream-skimming: ondernemingen zoeken bepaalde niches
 (specialisatie) in een markt met hoge toegevoegde waarde.
-
  4. Conclusie
-
-297
-
 • Monopolistische concurrentie is een marktvorm met
 karakteristieken van enerzijds een monopolie en anderzijds
 perfecte concurrentie.
@@ -404,106 +275,51 @@ winnen.
 allocatieve en productieve inefficiëntie maar hoe meer
 contesteerbaar de markt is , hoe efficiënter de marktuitkomst
 wordt.
-
  Monopolistic competition between
 perfect competition and monopoly
-Table 15.2
 Perfect competition
-
 Monopolistic
 competition
-
 Monopoly
-
 Goal of firms
-
 Maximize profits
-
 Maximize profits
-
 Maximize profits
-
 Rule for maximizing
-
 MR = MC
-
 MR = MC
-
 MR = MC
-
 Can earn economic profits in the short run?
-
 Yes
-
 Yes
-
 Yes
-
 Price taker?
-
 Yes
-
 No
-
 No
-
 Price
-
-P = MC
-
-P > MC
-
-P > MC
-
 Produces welfare-maximizing level of output?
-
 Yes
-
 No
-
 No
-
 Number of firms
-
 Many
-
 Many
-
 One
-
 Entry in long run?
-
 Yes
-
 Yes
-
 No
-
 Can earn economic profits in the long run?
-
 No
-
 No
-
 Yes
-
 Similarities among all market structures
-
 Similarities only between monopoly and
 monopolistic competition
-
 Similarities only between perfect competition
 and monopolistic competition
-
-297
-
  Recommended excercises
-
 Chapter 15:
-
 - Questions for review p. 299: 1-3-4
 - Problems and applications p. 299-300: 1-2-3-4
-
-299-300
-
- 

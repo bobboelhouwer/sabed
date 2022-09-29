@@ -1,492 +1,284 @@
-Chromosomen
-
- Experimenten van Morgan
-• Drosophila melanogaster
-
- Genen liggen op chromosomen
-Bepaalde mutaties zijn ♂
-geslachtsgebonden; dit is niet
-omdat mutaties letaal zijn voor ♀
-
- Genen liggen op chromosomen
-• Resultaten verschillen wanneer ♀ of ♂ ouder drager is
-van mutatie
-
- Geslachtschromosomen
-SRY gen op Y
-chromosoom (sex
-determining region on Y
-chromosome) is
-bepalend voor
-ontwikkeling embryo als
-♂
-XY is ♂ behalve:
-• Translocatie SRY naar X
-• Mutatie in SRY of in
-receptor voor SRY
-
- X-gekoppelde afwijking
-• Geslachtsgebonden erfelijke afwijkingen (vb. hemofilie)
-
- X-gekoppelde afwijking
-
- Genenbalans en
-doseringscompensatie
-Bij haploïnsufficiënte genen
-is de hoeveelheid
-genproduct dat gevormd
-wordt belangrijk!
-Om genenbalans tussen ♀ of
-♂ in evenwicht te brengen
-wordt bij ♀ een X
-chromosoom geïnactiveerd
-(doseringscompensatie): het
-Barr lichaampje (na 4
-dagen, embryo 100 cellen)
-
- Genetische mozaïek
-• Het geïnactiveerde X
-chromosoom kan verschillen
-tussen verschillende delen van
-lichaam, waardoor
-genexpressie verschillend kan
-zijn
-vb: lapjeskatten:
-• X-inactivatie: ofwel wordt oranje
-(mutant) ofwel zwart (wild type)
-pigment gevormd door X
-chromosoom
-• ander gen zorgt ervoor dat
-pigment in vlekkenpatroon wordt
-
- Genetische mozaïek bij de mens
-• ♀ hebben weliswaar slechts één X chromosoom net als
-♂, maar ze hebben twee types cellen waarin telkens
-ander X chromosoom actief is
-• X-gekoppelde mutaties die letaal zijn bij ♂ kunnen
-leiden tot afwijkingen die enkel bij ♀ voorkomen
-
- Geslachtsbepaling
-Bij zoogdieren en
-insekten zijn ♂
-heterogametisch
-geslacht
-Bij vogels zijn♀
-heterogametisch
-geslacht
-
- Ongeslachtelijke voortplanting
-• celdeling, sporenvorming of fragmentatie:
-• ééncellige organismen, gisten
-• schimmels, wieren
-• planten, wormen, zeesterren
-
-• parthenogenese
-• ontwikkeling van een onbevruchte eicel
-• automixis: vorming van eicel door meiose, maar
-verdubbeling van aantal chromosomen (voor of na de meiose)
-• apomixis: vorming van eicel via mitose (algemeen bij
-zaadplanten en varens)
-
- Mannelijk of vrouwelijk gedrag
-Is geslacht een sociaal
-construct?
-• geboren Bruce Reimer
-• na foute besnijdenis,
-chirurgisch geslachtscorrectie
-en opgevoed als Brenda Reimer
-• werd opgevolgd door Prof. John
-Money, sterk gemediatiseerd
-• vanaf 12 jaar, terug David
-Reimer
-
- Homosexualiteit
-• tweelingen:
-• genetisch: 0.34 – 0.39
-• gemeenschappelijke omgeving:
-• individuele omgeving: 0.61 – 0.66
-
-0.00
-
-• genen:
-• X-gekoppeld: regio Xq28
-
-• immuun-respons van moeder op Ygekoppelde genen bij foetus
-• grotere kans op homosexualiteit bij oudere
-broers
-
- Hybriden
-• Hybriden: chromosomen
-afkomstig van twee
-soorten
-• Soms niet leefbaar
-• Soms leefbaar, maar
-steriel (probleem tijdens
-meiose)
-
- Koppeling tussen genen
-Wanneer genen op hetzelfde
-chromosoom gelegen zijn
-kunnen ze in principe niet
-onafhankelijk van elkaar
-overgeërfd worden
-
- Stukuitwisseling
-Uitwisseling van allelen
-tussen homologe
-chromosomen tijdens
-eerste meiotische deling
-
- Chiasmata
-Bij mens: gemiddeld 1
-chiasma per
-chromosomenpaar
-Belangrijk voor correcte
-paring van homologe
-chromosomen tijdens
-eerste meiotische deling
-
- Stukuitwisseling
-Aangetoond door relatie
-tussen
-• uitwisseling allelen
-• uitwisseling van fysische
-afwijkingen aan
-chromosomen
-
- Recombinatiefrequentie
-Hoe verder genen uit elkaar
-liggen, hoe groter kans op
-uitwisseling van allelen tussen
-homologe chromosomen door
-stukuitwisseling
-Recombinatie treedt op bij
-vorming van gameten bij dubbel
-heterozygote ouder. Gebruik
-van testkruising om genotype
-van gameten te bepalen.
-
- Recombinatiefrequentie
-~ afstand tussen genen op
-chromosoom
-% recombinanten = ‘map
-units’, centimorgan (cM)
-Relatie tussen cM en Mb, maar
-variatie tussen organismen of
-tussen ♀ en ♂ (mens: 1 cM/Mb)
-
-Log cM/Mb
-
-Recombinatiefrequentie
-
- Genkartering
-• Koppeling: op welk chromosoom ligt een gen?
-• Recombinatiefrequentie van gekoppelde genen:
-hoe ver liggen genen uit elkaar op een chromosoom?
-
- Volgorde van genen op chromosoom
-
- Driepuntstestkruising
-P
-
-v+ cv ct / v+ cv ct
-
+Aanvullingen
+Responsie op
+ingangssignalen en begintoestand
+Responsie berekenen
+• Gegeven toestandsbeschrijving (A, B, C, D) ,
+• Toestandsbeschrijving
+• Exhaustieve berekening van x[k] en y[k]
+Voorbeeld
+Gegeven
+“Oplossen” toestandsvergelijking
+• Gegeven toestandsbeschrijving, u[k] en x[0], wat zijn x[k] en y[k] ?
+• Toestandsbeschrijving
+A
+Algemeen:
+• Uitgangssignaal
+Nulingangs- en nultoestandsrespons
+Nulingangsresponsie
+Nultoestandsresponsie
+• Nulingangsresponsie: y[k] als u[k]
+• Nultoestandsresponsie: y[k] als x[0] = 0
+Toestandsbeschrijving en
+gelijkvormige matrices
+Toestandsbeschrijving is niet uniek
+, np] een nxn inverteerbare matrix
+– Is verandering van coördinaten: w[k] zijn de coordinaten van x[k] in de
+basis {p
+Toestandsbeschrijving is niet uniek
+• In de nieuwe toestandsvector w[k] hebben we een
+equivalente toestandsbeschrijving:
+A en zijn gelijkvormig
+• Beide systemen zijn equivalent. Let wel op initiële
+toestand. Nulingangsresponsie:
+Zorg ervoor dat P w[0] = x[0], dan is ook P w[k] = x[k]
+voor k>0, en dus y[k]=
+Voorbeeld
+D
+D
+Voorbeeld (2)
+Kies
+zodat x[k] = P w[k]
+D
+D
+Toestandsbeschrijving en
+matrixdiagonalisatie
+Diagonaalvorm
+• Veronderstel dat A diagonaliseerbaar is
+• Kies P =1,[v... , nv] met iveigenvector van A met
+eigenwaarde
+• Voor SISO systeem:
+• Toestand i beinvloedt toestand
+≠i niet
+j
+Diagonaalvorm voor SISO systeem
+• Som van
+eerste-orde
+systemen
+• Plus directe
+verbinding
+met winst̅+
+Voorbeeld
+D
+D
+Minimaliteit
+Voor sommige systemen kan een
+/ * = 0. De toestandsveranderlijke
+wi[k] kan dan niet beïnvloed
+worden. Het systeem is niet
+controleerbaar.
+Voor sommige systemen kan een
+0̅* = 0. De toestandsveranderlijke
+wi[k] kan de uitvoer niet
+beïnvloeden. Het systeem is niet
+observeerbaar.
+Een systeem dat niet observeerbaar
+en/of niet controleerbaar is heet
+niet-minimaal. Hetzelfde ingangsuitgangsgedrag kan gerealiseerd
+worden met een kleiner aantal
+geheugenelementen.
+Inwendige (interne) stabiliteit
+• Een systeem is inwendig stabiel →
+als0 x[k]
+als k
+k
+w λnk vn
+• Inwendig instabiel zodra één
+• Inwendig stabiel
+Nulingangsresponsie
+Nulingangsresponsie
+Nultoestandsresponsie
+• Ak x[0] bestuderen
+A
+(c = rijvector; SISO system)
+Nulingangsresponsie
+k
+w λnk vn
+basis {v
+= P-1 x[k] is de coördinatenvector van x[k] in de
+k
+basis {v
+is een gewogen som van exponentiële functies in k
+Nulingangsresponsie
+Bijdragen tot nulingangsresponsie
+Attractor / aantrekker
+Inwendig stabiel
+Repeller / afstoter
+Inwendig onstabiel
+Saddle point / zadelpunt
+Inwendig onstabiel
+Complexe eigenwaarden
+ω is genormaliseerde frequentie. 0 < 7 < 1
+• Eigenvectoren
+i en
+i
+• Neem complex toegevoegde termen samen in
+E
+een reële rijvector;
+ccis
+E
+Re
+G
+Complexe eigenwaarden (2)
+G
+• Bijdrage door complexe eigenwaarde in y[k] is
+product van:
+k - zie
+o Exponentieel verloop
+r reële eigenwaarde
+o Golvend verloop (K
+cos
+Complexe eigenwaarden
+Inwendig stabiel
+Bijdrage tot nulingangsresponsie
+Canonieke vorm en
+differentievergelijking
+Canonieke vorm
+• Zoek transformatiematrix 1Q
+q] zodat door de
+n
+M
+gelijkvormigheidstransformatie:
+M
+R
+Mnoemen we een compagnon-matrix
+Men A hebben dezelfde K.P. want gelijkvormig
+• Constructie van Q – zie later
+Waarom die Ã O
+en
+Constructie van Q
+2de vergelijking:T
+T
+Constructie van Q
+U
+T
+PQ
+PQ
+Waarom die Ã O
+en
+w
+w
+w
+w
+w
+w
+w
+Waarom die Ã O
+en
+Dus:
+Uitgangsvergelijking:
+Herschrijf:
+w1[k] elimineren
+Differentievergelijking
+O
+O
+f
+• Rechtstreeks verband tussen u[k] en y[k]
+• Dit heet een differentievergelijking
+• Alternatief voor de toestandsbeschrijving
+• Is een verband tussen differentievergelijking en canonieke vorm
+• M.a.w.: gegeven een differentievergelijking
+f
+f
+f
+Dan komen daarmee toestandsbeschrijvingen overeen die allemaal dezelfde K.P.
+hebben:%! + PQ
+R
+• Ook: gegeven een toestandsbeschrijving (A, b, c, d), dan komt daarmee een
+differentievergelijking overeen waarbij
+dedeã coëfficiënten van de K.P.
+i ook
+van A zijn
+Voorbeeld
 X
-
-v cv+ ct+/ v cv+ ct+
-
-F1
-
-v+ cv ct / v cv+ ct+
-
+Y
 X
-
-v cv ct / v cv ct
-
-=
-
-v+ ct cv / v ct+ cv+ X v ct cv / v ct cv
-
-v – 13.2 mu – ct – 6.4 mu - cv
-recombinant voor loci
-v en cv v en ct ct en cv
-
-gameten:
-P
-P
-
-switch cv/cv
-
-+
-
-switch v/v+
-switch ct/ct+
-
-v cv+ ct+
-v+ cv ct
-v cv ct+
-v+ cv+ ct
-v cv ct
-v+ cv+ ct+
-v cv+ ct
-v+ cv ct+
-
-580
-592
-45
-40
-89
-94
-3
-5
-1448
-
-R
-R
-R
-R
-
-268
-
-R
-R
-R
-R
-R
-R
-191
-
-R
-R
-93
-
-RF (v en cv) = 268/1448 = 18.5 %
-RF (v en ct) = 191/1448 = 13.2 %
-RF (ct en cv) = 93/1448 = 6.4 %
-
- Welk gen ligt in midden?
-
- Meervoudige stukuitwisselingen
-Maximale recombinatiefrequentie is 50 cM. Genkartering
-is betrouwbaar tot op 20 cM.
-
- Karteren X chromosoom
-• heterozygoot ♀ kruisen met
-wild type ♂:
-recombinatiefrequentie kan
-afgeleid worden uit
-fenotypefrequentie van ♂
-nakomelingen
-
-X a + b+ c + / X a b c
-X a+ b+ c+ Y
-X a b c Y
-X a+ b + c Y
-X a b c+ Y
-X a b+ c + Y
-X a+ b c Y
-X a b+ c Y
-X a+ b c + Y
-
-X
-
-X a + b+ c + / Y
-
- Chromosoomkartering bij mens
-Stamboomonderzoek:
-fenotypische kartering (vb.
-families waarin twee
-erfelijke afwijkingen samen
-worden overgeërfd)
-Makkelijkst voor X chromosoom
-
- Chromosoomkartering bij mens
-Stamboomonderzoek:
-moleculaire merkers (vb.
-restrictieenzymen,
-microsatellieten, SNP’s)
-
- Moleculaire merkers
-Verwantschap bepalen door
-middel van microsatellieten
-vb. (CA)n, (TCA)n
-
- Genkartering d.m.v. moleculaire
-merkers
-SNPs – single nucleotide
-polymorphism
-• in coderende of niet-coderende
-regio’s
-• ongeveer 1000 /Mb
-• naburige SNPs blijven honderden
-generaties bijeen (= haplotype)
-• eenvoudiger te karteren dan
-volledig genoom
-• HapMap project
-
-  Genome-wide association studies GWAS
-
- Fenotype linken aan gen
-Haplotype zoeken dat gelinkt is aan het fenotype (voor
-het eerst gerealiseerd voor Huntington gen)
-
- Fenotype linken aan gen
-Voor het eerst gerealiseerd voor Huntington gen in 1983
-(dankzij onderzoek door Nancy Wexler in Maracaibo,
-Venezuela)
-
- Cytoplasmatische aggregatie
-• heteroplasmon of cytohet:
-cel met mutante en wildtype organellen
-(mitochondria en/of
-chloroplasten)
-• Cytoplasmatische
-segregatie
-
- Cytoplasmatische overerving
-Mitochondria worden enkel doorgegeven via maternale
-lijn
-
- Mitochondriale ‘Eva’
-mtDNA haplotypes
-
-   Aneuploïdie
-Eén chromosoom te veel of te weinig
-• monosomie (2n – 1): genetische
-last + genenbalans verstoord
-• trisomie (2n + 1): genenbalans
-verstoord
-Bij mens:
-• enkel trisomie 21 leefbaar (Down
-Syndroom)
-• trisomie 13 en 18 levensduur slechts
-enkele maanden
-
- Down syndroom
-• foute meiose: eicel of
-spermatozoïde met extra
-chromosoom 21 (vaker eicel)
-• leeftijd van moeder is bepalend
-• Down syndroom als
-somatische mozaïek (foute
-mitose)
-
- Aneuploïdie van
-geslachtschromosomen
-• XXY: Klinefelter
-syndroom
-• XO: Turner syndroom
-• OY: letaal
-• XXX: vrijwel normaal
-• XYY: normaal
-
- Klinefelter syndroom
-XXY
-
- Turner syndroom
-XX
-
- Wijzigingen in chromosoomstructuur
-oorzaken:
-• verkeerd
-herstel van
-breuken
-• foute crossingover
-
- Deleties
-• set genen gaat verloren
-(genetische last,
-genenbalans)
-• verkeerde crossing-over
-ter hoogte van
-herhalingen leidt tot
-weerkerende deleties die
-syndromen veroorzaken
-
- Deleties: syndromen
-• William’s syndroom
-• karakteristiek uiterlijk
-• bijzonder goed ontwikkeld
-gevoel voor muziek
-
- Deleties: syndromen
-• Cri du chat syndroom
-• karakteristiek uiterlijk
-• baby’s maken karakteristiek
-geluid
-
- Duplicaties
-
-paralogen: genen kunnen na duplicatie nieuwe functie krijgen
-
- Inversie
-• vaak onopgemerkt
-• probleem bij meiose
-(gameten met deleties ~
-verminderde
-vruchtbaarheid)
-
- Translocatie
-• vaak niet opgemerkt
-• probleem bij meiose
-(deleties of duplicaties in
-helft van gameten;
-semisteriliteit)
-
- Robertsonische translocatie
-
- Risico op erfelijke afwijkingen
-• spontane abortus vaak gevolg
-van ernstige erfelijke afwijking
-
- Genetisch advies
-• analyse van stambomen op
-erfelijke afwijkingen bij beide
-partners
-• risico Down syndroom gelinkt
-aan leeftijd
-• genetische tests (indien kans
-afwijking > risico test)
-
- Ethische aspecten van genetische
-tests
-Abortus op basis van erfelijke afwijking:
-• Down syndroom?
-• meisje?
-• drager BRCA1 gen?
-Consensus:
-(1)genen met hoge penetrantie (bijna 100%
-kans om afwijking te hebben)
-(2)zeer ernstige afwijking (menselijk leiden)
-(3)vrije keuze (abortus, mastectomie)
-
- Monoploïdie
-•n
-• parthenogenese (♂sociale
-insekten)
-• planten: weefselcultuur
-haploïd weefsel (vb.
-meeldraden)
-
- Tetraploïdie
-• 4n
-• gebruik van colchicine (inhibeert microtubuli)
-• 4n is groter, sterker dan 2n
-
- Triploïdie
-• 3n
-• ontstaat spontaan of door kruising diploïd en tetraploïd
-• onvruchtbaar (vruchten zonder zaden, vb. banaan of
-watermeloen)
-
- Triploïdie
-
- Allopolyploïdie
-• 2n1 + 2n2
-• hybriden, maar niet steriel!
-• vorming nieuwe soorten in plantenwereld
-
- Allopolyploïdie
-• domesticatie van gewassen (vb. tarwe)
-
- 
+Y
+Z
+PQ
+PQ
+Voorbeeld
+O
+Met Q =
+, canonieke vorm:
+D
+D
+Voorbeeld
+PQ
+D
+D
+de differentievergelijking gehaald uit de canonieke vorm
+Impulsresponsie en convolutie
+Impulsresponsie
+• Doel: berekenen van de responsie. We hadden al:
+Exhaustief
+• Nultoestandsimpulsrespons (impulsrespons) h[k] van
+een SISO DTLTI systeem is y[k] wanneer
+k
+k
+k
+Verschoven impuls
+k
+k
+k
+k
+Ontbinding u[k]
+Lineair en tijdsinvariant
+Convolutie
+• Formeel
+d
+efd
+d
+b
+Lineair
+Tijdsinvariant
+• Voor een systeem dat uit de nultoestand vertrekt !
+• y[k] is de convolutie van u[k] en h[k]
+• Uitvoer is convolutie van invoer en impulsresponsie
+Convolutie
+Neutraal element: a[k]
+Lineair:
+• Enkelzijdige signalen a[k] = b[k] = 0 voor k<0 :
+d
+E
+=aPb
+efd
+efR
+• Causaal systeem: h[k] = 0 voor k<0
+Geen respons vóór de excitatie
+Impulsresponsie
+Nulingangsresponsie
+Nultoestandsresponsie
+2 term blijft enkel index j=0 staan
+de term:
+cA
+b
+Voorbeeld
+d
+E
+E
+E
+E
+steorde
+Impulsresponsie van
+1 systeem
+b
+D
+c
+k
+op
+E
+cb
+c
+q
+E
+E
+E
+Vorm impulsresponsie
+cAvoor k > 0
+• Zelfde bespreking als nulingangsresponsie
+steorde systeem:λk-1
+cb, zie boven
+• Voor diagonaliseerbare A, som van:
+o Exponentiëel verloop
+λ complex)
+o Schommelend exponentiëel verloop

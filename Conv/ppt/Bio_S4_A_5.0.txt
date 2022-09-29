@@ -1,840 +1,284 @@
-MENDELIAANSE OVERERVING
-
- Mendeliaanse erfelijkheid
-- Monogeen
-- autosomaal dominant
-- autosomaal recessief
-- X-gebonden
-- Polygeen/multifactorieel
-
-Niet-Mendeliaanse erfelijkheid
-- Mosaicisme
-- Genomische imprinting & epigenetische erfelijkheid
-- Uniparentele disomie
-- Mitochondriële erfelijkheid
-- Onstabiele trinucleotide repeats
-
- DNA
-
-mRNA
-
-kern
-*locus
-*gen
-
-eiwit
-cytoplasma
-& organellen
-
-kenmerk
-weefsels
-& organen
-
-GENOTYPE
-
-organisme
-
-FENOTYPE
-
-elk gen : 2 exemplaren = 2 allelen
-Variatie : - variant <1%
-- polymorfisme >1%
-Mutatie : - ontstaansmechanisme van variatie
-- variatie met negatief effect
-
-SAMENSTELLING 2 ALLELEN
-
-EFFECT OP FENOTYPE
-
-•homozygoot
-•heterozygoot
-•hemizygoot
-
-dominant
-recessief
-co-dominant
-
-: 2 allelen hetzelfde
-: 2 allelen verschillend
-: slechts 1 allel
-
-continuum
-
- DNA
-
-mRNA
-
-kern
-*locus
-*gen
-
-eiwit
-cytoplasma
-& organellen
-
-kenmerk
-weefsels
-& organen
-
-GENOTYPE
-
-organisme
-
-FENOTYPE
-
-elk gen : 2 exemplaren = 2 allelen
-Variatie : - variant <1%
-- polymorfisme >1%
-Mutatie : - ontstaansmechanisme van variatie
-- variatie met negatief effect
-
-SAMENSTELLING 2 ALLELEN
-
-EFFECT OP FENOTYPE
-
-•homozygoot
-•heterozygoot
-•hemizygoot
-
-dominant
-recessief
-[co-dominant]
-
-: 2 allelen hetzelfde
-: 2 allelen verschillend
-: slechts 1 allel
-
- Familie
-
- Familie
-
- Symbolen gebruikt in een stamboom
-
-man
-
-heterozygoot voor ARecessief
-
-vrouw
-
-draagster X-gebonden
-
-koppel
-
-overleden
-
-Ouders en 2 kinderen
-(zoon en dochter, in
-volgorde van geboorte)
-
-Abortus of miskraam - geslacht =?
-
-Dizygote 2-ling
-
-Nummering in een stamboom :
-hier is de index patient II;2
-of het tweede kind in de
-tweede generatie
-
-Monozygote 2-ling
-
-Index patient / proband
-
-Geslacht niet gekend
-Aantal kinderen met
-bepaald geslacht
-
-Aangetaste personen
-
-Consanguiniteit
-(bloedverwantschap)
-
- Graad van bloedverwantschap
-
-2
-
-2
-1
-
-1
-
-2
-
-1
-2
-
-2
-
-2
-
-2
-3
-
-1
-
-1
-
-4
-2
-
- Voorbeeld: erfelijke doofheid
-
-Autosomaal dominant
-Autosomaal recessief
-X-gebonden
-
-?
-
- MENDELIAANSE OVERERVING
-1.Autosomaal recessief
-2.Autosomaal dominant
-3.X-gebonden
-
-  AUTOSOMAAL RECESSIEF
-*
-
-*
-
-=
-25%
-
-*
-
-*
-
-*
-
-*
-
-Ouders = heterozygoot = drager of carrier = ziek
-Aangetast kind = homozygoot = ziek
-
- RISICOBEREKENING VOOR
-AUTOSOMAAL RECESSIEVE AANDOENINGEN:
-
- Populatie risico mucoviscidose
-
-Kans
-dragerschap
-1/22
-
-Kans
-dragerschap
-1/22
-Risico ?
-
-A priori = 1/2000
-
-(1/22 x 1/22 x 1/4)
-
-Na DNA test die +/- 90% van de mutaties opspoort
-* beiden negatief : 1/193.600 (1/220 x 1/220 x 1/4)
-* één drager, één negatief : 1/880 (1/220 x 1x 1/4 )
-
- MUCOVISCIDOSE
-
-2/3
-
-Risico ?
-
- MUCOVISCIDOSE
-
-1/1
-
-2/3
-Kans
-dragerschap
-1/22
-Risico ?
-
-= 1/132
-(2/3 X 1/22 X 1/4)
-
- AUTOSOMAAL RECESSIEF
-Risico op dragerschap
-in de familie
-
-1/4
-
-1/2
-
-1/2
-
-1/2
-
-1/2
-
-1/1
-
-2/3
-
-1/2
-
-1/2
-
-1/4
-
-1/4
-
- ZELDZAME AUTOSOMAAL RECESSIEVE AANDOENING
-
-Risico ?
-
- ZELDZAME AUTOSOMAAL RECESSIEVE AANDOENING
-
-2/3
-
-Risico
-dragerschap
-1/100
-Risico ?
-
-1/600
-(2/3 X 1/100 X 1/4 = 1/600)
-
- ZELDZAME AUTOSOMAAL RECESSIEVE AANDOENING
-voorbeeld
-
- Sikkelcelanemie
-voorbeeld
-
-sikkelcelanemie
-
-malaria
-
- normaal
-
-sikkelcel
-
- Wanneer gelden populatierisico’s niet ?
-
-bloedverwantschap
-
- zeker drager
-1/2
-
-1/4
-
-2/3
-risico?
-
-2/3 x ¼ x ¼ = 1/24
-
-San Fillippo syndroom
-(1/40.000)
-
- bloedverwantschap
-verwantschap
-
-risico
-
-niet-verwant
-
-2-3%
-
-broer-zus
-ouder-kind
-
-30-50%
-(incest)
-
-neef-nicht
-
-4-6% (x2)
-
-achterneefachternicht
-
-3-4.5% (x1.5)
-
-  MENDELIAANSE OVERERVING
-1.Autosomaal recessief
-2.Autosomaal dominant
-3.X-gebonden
-
- AUTOSOMAAL DOMINANT
-N/M
-
-N/M
-
-N/M
-
-N/N
-
-N/N
-N/M
-
-N/M
-
-N/M
-
-N/M
-
- Autosomaal dominant syndroom
-
- *
-
-*
-
-*
-
-Man = vrouw
-50%
-opeenvolgende generaties
-
- Bijzondere aspecten van autosomaal dominante overerving
-“ Complicerende processen (hfdst 9) ”
-1.
-2.
-3.
-4.
-5.
-6.
-
-De novo mutaties
-Onvolledige penetrantie
-Variabele expressie
-Gonadaal mosaicisme
-Homozygoten voor dominante aandoening
-Heterogeniteit
-
- Bijzondere aspecten van autosomaal dominante overerving
-“ Complicerende processen (hfdst 9) ”
-1.
-2.
-3.
-4.
-5.
-6.
-
-De novo mutaties
-Onvolledige penetrantie
-Variabele expressie
-Gonadaal mosaicisme
-Homozygoten voor dominante aandoening
-Heterogeniteit
-
- AUTOSOMAAL DOMINANT
-
-de novo mutatie
-
- Bijzondere aspecten van autosomaal dominante overerving
-“ Complicerende processen (hfdst 9) ”
-1.
-2.
-3.
-4.
-5.
-6.
-
-De novo mutaties
-Onvolledige penetrantie
-Variabele expressie
-Gonadaal mosaicisme
-Homozygoten voor dominante aandoening
-Heterogeniteit
-
- AUTOSOMAAL DOMINANT
-Onvolledige penetrantie en variabele expressie
-
-Voorbeeld: hand en voet-spleet
-
- AUTOSOMAAL DOMINANT
-Onvolledige penetrantie en variabele expressie
-
- N/M
-
-*onvolledige penetrantie
-variabele expressie
-
-*
-N/M
-
-N/M
-
-N/M
-
-N/M
-
- AUTOSOMAAL DOMINANT
-Onvolledige penetrantie en variabele expressie
-
-*
-
-*
-*
-
- AUTOSOMAAL DOMINANT
-Onvolledige penetrantie en variabele expressie
-voorbeeld: holoprosencefalie
-
-ernst
-
- Bijzondere aspecten van autosomaal dominante overerving
-“ Complicerende processen (hfdst 9) ”
-1.
-2.
-3.
-4.
-5.
-6.
-
-De novo mutaties
-Onvolledige penetrantie
-Variabele expressie
-Gonadaal mosaicisme
-Homozygoten voor dominante aandoening
-Heterogeniteit
-
- Kiembaanmozaicisme of gonadaal mozaicisme
-
-GONADAAL MOSAICISME
-N/N
-
-N/N
-
-voorbeeld : drie kinderen met achondroplasia en normale ouders
-
-  Paternal age effect
-
- Augustus 2012, studie Iceland
-
-New mutations in the child: about 63. That
-number, however, varies widely—and the
-main factor involved in this variation is the
-age of the father. Mothers transmitted an
-average of 14 mutations to their children,
-regardless of age. Fathers showed a much
-wider range: 20-year-olds passed on an
-average of 29 mutations; 30-year-olds (the
-average age of fatherhood in Dr
-Stefansson’s sample) passed on 49; and
-40-year-olds passed 69.
-
-  Bijzondere aspecten van autosomaal dominante overerving
-“ Complicerende processen (hfdst 9) ”
-1.
-2.
-3.
-4.
-5.
-6.
-
-De novo mutaties
-Onvolledige penetrantie
-Variabele expressie
-Gonadaal mosaicisme
-Homozygoten voor dominante aandoening
-Heterogeniteit
-
- Éénzelfde autosomaal dominante aandoening bij beide ouders
-*
-
-*
-
-*
-
-*
-
-*
-
-*
-
-Homozygoot voor dominante mutatie: vaak lethaal of heel ernstig
-
- Bijzondere aspecten van autosomaal dominante overerving
-“ Complicerende processen (hfdst 9) ”
-1.
-2.
-3.
-4.
-5.
-6.
-
-De novo mutaties
-Onvolledige penetrantie
-Variabele expressie
-Gonadaal mosaicisme
-Homozygoten voor dominante aandoening
-Heterogeniteit
-
- AUTOSOMAAL DOMINANT
-Genetische heterogeniteit
-
-1. Allelische heterogeniteit
-2. Locus heterogeniteit
-
- AUTOSOMAAL DOMINANT
-Genetische heterogeniteit
-
-1. Allelische heterogeniteit (kan ook voor recessieve en X-gebonden)
-2. Locus heterogeniteit
-
- Allelische heterogeniteit
-voorbeeld: FBN1 gen verantwoordelijk voor Marfan syndroom
-
- AUTOSOMAAL DOMINANT
-Genetische heterogeniteit
-
-1. Allelische heterogeniteit (kan ook voor recessieve en X-gebonden)
-2. Locus heterogeniteit
-
- Contractiele eiwitten
-in de hartspier
-
- Hypertrofische cardiomyopathie (Autos. Dominant)
-
-Locus heterogeniteit
-
- MENDELIAANSE OVERERVING
-1.Autosomaal recessief
-2.Autosomaal dominant
-3.X-gebonden
-
- Ik wil graag duizend
-keer sterker
-zijn
-
- Mortaliteit bij man is groter dan bij vrouw
-– op elk ogenblik van het leven
-
-sex ratio (man/vrouw)
-vroege miskramen
-160/100
-derde trimester miskramen 140/100
-neonatale mortaliteit
-122/100
-
-Ook later in het leven : mortaliteit man > vrouw
-
- Structuur van de bevolking op 1 januari 2017
-per leeftijdsgroep van 5 jaar en per 1.000 inwoners
-
-  In welke van deze drie famillies is de aandoening
-zeker niet X-gebonden?
-
-1
-
-2
-
-3
-
- X-GEBONDEN RECESSIEVE OVERERVING
-*
-
-X Y
-
-*
-
-X X
-
-*
-
- X-gebonden hemofilie
-
- voorbeeld: Duchenne spierziekte
-
- X-GEBONDEN DOMINANTE OVERERVING
-
-*
-
-X Y
-
-*
-
-X X
-
-*
-
- voorbeeld: Rett syndroom
-
- X-GEBONDEN
-
-Man
-(& 45,X)
-
-Vrouw
-(en 47,XXY)
-
-100% cellen
-afwijkend
-
-50% cellen
-afwijkend
-
-recessief
-
-Ziek
-
-gezond
-
-dominant
-
-Lethaal
-
-Mineure Manifestaties
-
-Ziek
-
-Intermediar fenotype
-- bv. milde spierklachten & Duchenne
-- bv. langere bloedstolling & Hemofilie A
-
-100% cellen
-normaal
-
-gezond
-
-gezond
-
- X-GEBONDEN OVERERVING
-Belangrijke concepten:
-- X-inactivatie
-- Pseudo-autosomale regio
-
- X-inactivatie
-blastocyst
-
-Inactivatie van
-Inactivatie van
-
-Random
-inactivatie
-
- BARR CHROMATINE
-
-46,XY
-
-46,XX
-
- *
-
-*
-
+Aanvullingen
+Responsie op
+ingangssignalen en begintoestand
+Responsie berekenen
+• Gegeven toestandsbeschrijving (A, B, C, D) ,
+• Toestandsbeschrijving
+• Exhaustieve berekening van x[k] en y[k]
+Voorbeeld
+Gegeven
+“Oplossen” toestandsvergelijking
+• Gegeven toestandsbeschrijving, u[k] en x[0], wat zijn x[k] en y[k] ?
+• Toestandsbeschrijving
+A
+Algemeen:
+• Uitgangssignaal
+Nulingangs- en nultoestandsrespons
+Nulingangsresponsie
+Nultoestandsresponsie
+• Nulingangsresponsie: y[k] als u[k]
+• Nultoestandsresponsie: y[k] als x[0] = 0
+Toestandsbeschrijving en
+gelijkvormige matrices
+Toestandsbeschrijving is niet uniek
+, np] een nxn inverteerbare matrix
+– Is verandering van coördinaten: w[k] zijn de coordinaten van x[k] in de
+basis {p
+Toestandsbeschrijving is niet uniek
+• In de nieuwe toestandsvector w[k] hebben we een
+equivalente toestandsbeschrijving:
+A en zijn gelijkvormig
+• Beide systemen zijn equivalent. Let wel op initiële
+toestand. Nulingangsresponsie:
+Zorg ervoor dat P w[0] = x[0], dan is ook P w[k] = x[k]
+voor k>0, en dus y[k]=
+Voorbeeld
+D
+D
+Voorbeeld (2)
+Kies
+zodat x[k] = P w[k]
+D
+D
+Toestandsbeschrijving en
+matrixdiagonalisatie
+Diagonaalvorm
+• Veronderstel dat A diagonaliseerbaar is
+• Kies P =1,[v... , nv] met iveigenvector van A met
+eigenwaarde
+• Voor SISO systeem:
+• Toestand i beinvloedt toestand
+≠i niet
+j
+Diagonaalvorm voor SISO systeem
+• Som van
+eerste-orde
+systemen
+• Plus directe
+verbinding
+met winst̅+
+Voorbeeld
+D
+D
+Minimaliteit
+Voor sommige systemen kan een
+/ * = 0. De toestandsveranderlijke
+wi[k] kan dan niet beïnvloed
+worden. Het systeem is niet
+controleerbaar.
+Voor sommige systemen kan een
+0̅* = 0. De toestandsveranderlijke
+wi[k] kan de uitvoer niet
+beïnvloeden. Het systeem is niet
+observeerbaar.
+Een systeem dat niet observeerbaar
+en/of niet controleerbaar is heet
+niet-minimaal. Hetzelfde ingangsuitgangsgedrag kan gerealiseerd
+worden met een kleiner aantal
+geheugenelementen.
+Inwendige (interne) stabiliteit
+• Een systeem is inwendig stabiel →
+als0 x[k]
+als k
+k
+w λnk vn
+• Inwendig instabiel zodra één
+• Inwendig stabiel
+Nulingangsresponsie
+Nulingangsresponsie
+Nultoestandsresponsie
+• Ak x[0] bestuderen
+A
+(c = rijvector; SISO system)
+Nulingangsresponsie
+k
+w λnk vn
+basis {v
+= P-1 x[k] is de coördinatenvector van x[k] in de
+k
+basis {v
+is een gewogen som van exponentiële functies in k
+Nulingangsresponsie
+Bijdragen tot nulingangsresponsie
+Attractor / aantrekker
+Inwendig stabiel
+Repeller / afstoter
+Inwendig onstabiel
+Saddle point / zadelpunt
+Inwendig onstabiel
+Complexe eigenwaarden
+ω is genormaliseerde frequentie. 0 < 7 < 1
+• Eigenvectoren
+i en
+i
+• Neem complex toegevoegde termen samen in
+E
+een reële rijvector;
+ccis
+E
+Re
+G
+Complexe eigenwaarden (2)
+G
+• Bijdrage door complexe eigenwaarde in y[k] is
+product van:
+k - zie
+o Exponentieel verloop
+r reële eigenwaarde
+o Golvend verloop (K
+cos
+Complexe eigenwaarden
+Inwendig stabiel
+Bijdrage tot nulingangsresponsie
+Canonieke vorm en
+differentievergelijking
+Canonieke vorm
+• Zoek transformatiematrix 1Q
+q] zodat door de
+n
+M
+gelijkvormigheidstransformatie:
+M
+R
+Mnoemen we een compagnon-matrix
+Men A hebben dezelfde K.P. want gelijkvormig
+• Constructie van Q – zie later
+Waarom die Ã O
+en
+Constructie van Q
+2de vergelijking:T
+T
+Constructie van Q
+U
+T
+PQ
+PQ
+Waarom die Ã O
+en
+w
+w
+w
+w
+w
+w
+w
+Waarom die Ã O
+en
+Dus:
+Uitgangsvergelijking:
+Herschrijf:
+w1[k] elimineren
+Differentievergelijking
+O
+O
+f
+• Rechtstreeks verband tussen u[k] en y[k]
+• Dit heet een differentievergelijking
+• Alternatief voor de toestandsbeschrijving
+• Is een verband tussen differentievergelijking en canonieke vorm
+• M.a.w.: gegeven een differentievergelijking
+f
+f
+f
+Dan komen daarmee toestandsbeschrijvingen overeen die allemaal dezelfde K.P.
+hebben:%! + PQ
+R
+• Ook: gegeven een toestandsbeschrijving (A, b, c, d), dan komt daarmee een
+differentievergelijking overeen waarbij
+dedeã coëfficiënten van de K.P.
+i ook
+van A zijn
+Voorbeeld
 X
-
-X Y
-
-Alle cellen
-abnormaal
-
-X
-
-50% cellen normaal
-50% cellen abnormaal
-
- OCULAIR ALBINISME
-X-gebonden recessief
-
- 100 %
-
-50/50%
-Inactivatie X-chromosoom 1
-Inactivatie X-chromosoom 2
-
-100%
-
- Random X-inactivatie
-
- Skewing: >90 % van de cellen houdt
-dezelfde X actief
-- toeval (random)
-- draagster van een mutatie die reeds vroeg
-embryonaal een rol speelt
-- draagster van X-autosoom translokatie
-
-100 %
-
-50/50%
-Inactivatie X-chromosoom 1
-Inactivatie X-chromosoom 2
-
-100%
-
- voorbeeld: draagster gebalanceerde X;15 translocatie
-
-X
-
-(X;15) = aktief
-X = inactief
-
-15
-(X;15)
-
-X
-
-(X;15) = inaktief
-X = actief
-X
-X;15
-
-(X;15)
-
-X
-
- (X;15)
-
-X
-
-(X;15) = aktief
-X = inactief
-
-Selectie na random
-X-inactivatie
-
-&
-
-(X;15) = inaktief
-X = actief
-(X;15)
-
-X
-
-= inactivatie deel 15q
-= partiële monosomie 15q
-
- Paren van X en Y-chromosoom tijdens de meiose :
-met de pseudo-autosomale regio’s.
-
- PAR = pseudo-autosomale regio
-op het Y- en X-chromosoom
-
 Y
-Bv. SHOX: short stature homeobox - gen
-* gelegen in de PAR
-* mutatie --> kleine gestalte
-
 X
-
- Gestalte en aantal SHOX-genen
-
 Y
-
-X
-MAN
-
-Y
-
-Y
-
-X
-
-X
-
-VROUW
-
-X
-Turner
-Kleine
-gestalte
-
-X
-
-X
-47,XYY
-
-Klinefelter
-Grote
-gestalte
-
-Y
-
- 
+Z
+PQ
+PQ
+Voorbeeld
+O
+Met Q =
+, canonieke vorm:
+D
+D
+Voorbeeld
+PQ
+D
+D
+de differentievergelijking gehaald uit de canonieke vorm
+Impulsresponsie en convolutie
+Impulsresponsie
+• Doel: berekenen van de responsie. We hadden al:
+Exhaustief
+• Nultoestandsimpulsrespons (impulsrespons) h[k] van
+een SISO DTLTI systeem is y[k] wanneer
+k
+k
+k
+Verschoven impuls
+k
+k
+k
+k
+Ontbinding u[k]
+Lineair en tijdsinvariant
+Convolutie
+• Formeel
+d
+efd
+d
+b
+Lineair
+Tijdsinvariant
+• Voor een systeem dat uit de nultoestand vertrekt !
+• y[k] is de convolutie van u[k] en h[k]
+• Uitvoer is convolutie van invoer en impulsresponsie
+Convolutie
+Neutraal element: a[k]
+Lineair:
+• Enkelzijdige signalen a[k] = b[k] = 0 voor k<0 :
+d
+E
+=aPb
+efd
+efR
+• Causaal systeem: h[k] = 0 voor k<0
+Geen respons vóór de excitatie
+Impulsresponsie
+Nulingangsresponsie
+Nultoestandsresponsie
+2 term blijft enkel index j=0 staan
+de term:
+cA
+b
+Voorbeeld
+d
+E
+E
+E
+E
+steorde
+Impulsresponsie van
+1 systeem
+b
+D
+c
+k
+op
+E
+cb
+c
+q
+E
+E
+E
+Vorm impulsresponsie
+cAvoor k > 0
+• Zelfde bespreking als nulingangsresponsie
+steorde systeem:λk-1
+cb, zie boven
+• Voor diagonaliseerbare A, som van:
+o Exponentiëel verloop
+λ complex)
+o Schommelend exponentiëel verloop

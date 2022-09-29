@@ -1,108 +1,46 @@
 8. Ethers, epoxiden en sulfiden
-
-R-O-R’
-R-S-R’
-
 cyclisch ether
 gespannen driering
 THF
-
 soms
 thioëthers
 genoemd
-
 Ethers, epoxiden en sulfiden
-
-1
-
  tert-Bu
-
 O
-
 O
 H
-
 H
-
 CH3
-
-105°
-
-108.5°
-
 « pentaan »
-
 Ethers, epoxiden en sulfiden
-
 H
-
 O
-
 tert-Bu
-
 CH3
-
 CH3
-112°
-
-132°
-
 « cyclohexaan »
-
-2
-
  8.1 Nomenclatuur
-
 radicofunctionele naamgeving
-
 • Namen beide alkylgroepen + -ether of -sulfide
-
 • Meer complexe ethers: eenvoudigste stuk als alkoxysubstitutieve naamgeving
 substituent van rest keten
-
 Ethers, epoxiden en sulfiden
-
-3
-
  • Epoxiden: 1,2-epoxy als voorvoegsel
-
 y
-
 8.2 Fysische eigenschappen
 • Kookpunt: ethers gelijken sterker op alkanen dan op alcoholen
 geen onderlinge H-bruggen mogelijk
-
 OH
-
 O
-36°C
-
 Ethers, epoxiden en sulfiden
-
-35°C
-
-117°C
-
-4
-
  • Oplosbaarheid in water: ethers gelijken sterker op alcoholen
 dan op alkanen, H-bruggen mogelijk
-
 O
-<<
-
-7,5 g/100 mL
-
 OH
-9 g/100 mL
-
 H-brugacceptor,
 maar geen donor
-
 Ethers, epoxiden en sulfiden
-
-5
-
  8.3 Diëthylether
 • veel gebruikt solvent met gemiddelde polariteit
 • laag kookpunt (35°C) – gemakkelijk af te dampen
@@ -114,232 +52,103 @@ Ethers, epoxiden en sulfiden
 (ether lost op in lipoïde omgeving
 van het zenuwweefsel, prikkels
 worden niet meer doorgegeven)
-
 Ethers, epoxiden en sulfiden
-
-6
-
  8.4 Chemische eigenschappen
 • ethers veel minder reactief dan alcoholen, dus geschikt als solvent !
 • in aanwezigheid van sterk zuur:
-
 • reacties enkel na protonering in zuur milieu
 te vgl. met alcohol
-
 SN
-
 Etherdoorbraak met HI of HBr
-
 Ethers, epoxiden en sulfiden
-
-7
-
  • Idem bij grotere cyclische ethers (THF, …)
-
-••
-
 ICH2CH2CH2CH2I
-
 O
 HI
-•• –
-•• I •
-•
-••
-
-••
-
 HI
-••
-
-••
-
-O+
-
 H
-
-•I
-•
-••
-
-••
-•• O
-
 H
-
 • Ethers stabiel in basisch milieu
-
 Ethers, epoxiden en sulfiden
-
-8
-
  8.5 Epoxiden
 • gespannen driering (109° → 60°), extra reactief
 • ringopening na nucleofiele aanval (geen protonering nodig)
-2
-
 • gemakkelijk te polymeriseren: polyoxyethyleenethers
-
-2
-
-2
-
 detergent
 cf. zeep hfdst. 14
-
 Ethers, epoxiden en sulfiden
-
-9
-
  • ook zuurgekatalyseerde ringopening (milder dan bij gewone ethers)
 SN2
-
 trans
 Wel te zien bij epoxycycloalkaan!
-
 Ethers, epoxiden en sulfiden
-
-10
-
  • epoxiden spelen in natuur belangrijke rol bij afbraak aromaten
-
 gevormde epoxide kan met amino- of thiolgroep
 reageren (DNA, RNA, eiwitten)
-
 → initiatie carcinogenese
-
 Ethers, epoxiden en sulfiden
-
-11
-
  ✓ gevormd epoxide kan onschadelijk worden gemaakt door
 ringopening met water en afgevoerd via de urine door
 koppeling aan glucuronzuur:
-
 of door ringopening met het thiolaatanion van glutathion:
-
 via enzym glutathion-S-epoxide transferase
-
 Ethers, epoxiden en sulfiden
-
-12
-
  8.6 Chemische reacties van sulfiden
 • protonatie gemakkelijker dan bij ethers (S minder EN)
-
 • trialkylsulfoniumzouten stabiel, bereiding:
-
 • trialkylsulfoniumzouten reageren vlot met Nu-:
-
 zie S-adenosylmethionine
-
 Ethers, epoxiden en sulfiden
-
-13
-
  0.8 Dioxines
 • tot 1979 was 2,4,5-trichloorfenoxy-azijnzuur (2,4,5-T) een
 frequent gebruikt herbicide
 • synthese:
 Cl
-
 Cl
-
 Cl
-
 OH
-
 NaOH
-
 Cl
-
 OCH 2COOH
-
 ClCH2COOH
-
-150°C
 Cl
-
 Cl
-
 Cl
-
 1,2,4,5-tetrachloorbenzeen
-
 Cl
-
 Cl
-
-2,4,5-T
-
 2,4,5-trichloorf enol
-
 + variant: Agent Orange
 bevat ~ 2 ppm dioxine
-
-T > 180°C
-
 Cl
-
 O
-
 Cl
-
 Cl
-
 2000 x giftiger dan
 strychnine
 Cl
-
 O
-
 2,3,7,8-tetrachloordibenzo-p-dioxine
-
 Ethers, epoxiden en sulfiden
-
 Cl
-
 150.000 x giftiger dan
 NaCN
-
-14
-
  • bijkomende bron: verbranding polygechloreerde bifenyls (PCB’s)
-
 Clm
-
-500-750°C
-O2
 Clm
-
 O
-
 Cln
-
 dibenzofuranen
-
 Cln
-
 dibenzodioxines
 O
-
 Clm
-
 O
-
 Cln
-
 Zeer stabiele verbindingen,
 verbrandingstemperatuur > 1000°C
-
 • dioxines worden typisch in kleine hoeveelheden gevormd bij de
 verbranding van organisch materiaal, vandaar dus het verbod op
 het verbranden van afval in tuinen
-
 Ethers, epoxiden en sulfiden
-
 Koolhydraten
-
-15
-
- 

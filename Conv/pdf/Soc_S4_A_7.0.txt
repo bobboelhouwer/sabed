@@ -2,40 +2,24 @@ Part 6
 Firm behaviour and market
 structures
 Firms’ production decisions
-
  Chapter 13
 Firms’ production
 decisions
-
  Introduction
-
-251
-
 • In hoofdstuk 6 werden kosten en ontvangsten alsook de
 winstmaximalisatie van een onderneming beschouwd waarbij het
 aanbod werd afgeleid in de veronderstelling dat de onderneming
 actief is in een markt van perfecte concurrentie.
-
 • In dit hoofdstuk worden de productiebeslissingen en het gedrag van
 de producent bestudeerd waarbij de veronderstelling van perfecte
 concurrentie niet meer hoeft op te gaan maar geldig zijn voor alle
 marktvormen, nl. alle ondernemers streven in de eerste plaats
 naar het maximaliseren van hun productieniveau tegen
 minimale kost.
-.
-
  Overzicht
-
 1. Isoquants and isocosts (p. 251-256)
 2. The least-cost input combination (p. 256-258)
-3. Conclusion (p. 258)
-
-/
-
  Voorbeeld pralineproducent
-
-/
-
 • De tabel op volgende slide geeft een overzicht van de
 productiemogelijkheden van pralines met twee inputs:
 arbeid (hier uitgedrukt in aantal uren) en kapitaal (hier uitgedrukt in
@@ -45,218 +29,20 @@ pralinedoosjes).
 • Op de corresponderende rij en kolom kan je het daarvoor benodigde
 aantal machines (verticale as) en arbeidsuren (horizontale as) aflezen.
 We noemen dit de inputmix.
-
- /
-
 Voorbeeld pralineproducent
 Productie van doosjes pralines in functie van arbeid en machines.
 (Figuur vergelijkbaar met Fig. 13.1)
-15
-14
-13
-12
-11
-10
-9
-8
-7
-6
-5
-4
-3
-2
-1
-0
-
-4
-4
-4
-3
-3
-3
-3
-3
-3
-2
-2
-2
-2
-1
-1
-100
-
-5
-5
-5
-5
-5
-4
-4
-4
-4
-3
-3
-3
-2
-2
-1
-200
-
-7
-6
-6
-6
-6
-5
-5
-5
-5
-4
-4
-3
-3
-2
-2
-300
-
-8
-7
-7
-7
-7
-6
-6
-6
-5
-5
-4
-4
-3
-3
-2
-400
-
-9
-8
-8
-8
-7
-7
-7
-6
-6
-5
-5
-4
-4
-3
-2
-500
-
-9
-9
-9
-8
-8
-8
-7
-7
-6
-6
-5
-5
-4
-3
-2
-600
-
-10
-10
-10
-9
-9
-8
-8
-7
-7
-6
-6
-5
-5
-4
-3
-700
-
-11
-11
-10
-10
-9
-9
-8
-8
-7
-7
-6
-6
-5
-4
-3
-800
-
-12
-11
-11
-10
-10
-9
-9
-8
-8
-7
-7
-6
-5
-4
-3
-900
-
-12
-12
-11
-11
-10
-10
-9
-9
-8
-8
-7
-6
-5
-4
-3
-1000
-
  Voorbeeld pralineproducent
-
-/
-
 • Meeropbrengsten van input arbeid lees je af in een rij,
 meeropbrengsten van kapitaal in een kolom.
 o De wet van de dalende meeropbrengsten is zichtbaar in het feit
 dat je steeds grotere sprongen in input nodig hebt om de output
 nog eens met 1000 doosjes op te voeren.
 o Dit geldt zowel voor arbeid (rijen) als kapitaal (kolommen).
-
 • De vetgedrukte lijn is de productie-isokwant: een lijn waarlangs
 de geproduceerde hoeveelheid steeds dezelfde blijft.
 o Bvb. de isokwant q = 4000 als verbinding van de grijze cellen.
-
  1. Isoquants and isocosts
-
-253
-
 Production isoquant: a function which represents all the possible
 combinations of factor inputs that can be used to produce a given
 level of output Qi.
@@ -266,61 +52,36 @@ van arbeid (=L) en kapitaal (=K)
 weergeeft waarmee een gegeven
 niveau van output geproduceerd
 kan worden bvb. Q1 of Q2 of Q3
-
  Kenmerken / eigenschappen
 isokwanten
-
-/
-
 Vergelijkbaar met concept indifferentiecurven:
 • The axiom of comparison: een producent is altijd in staat om voor 2 willekeurige
 inputmixen A & B te beslissen of hij A verkiest boven B, B verkiest boven A of
 indifferent is tussen beide => output is dezelfde (q=100) maar productiekost
 verschilt afhankelijk van de kost van arbeid en de kost van kapitaal.
-
  Kenmerken / eigenschappen
 isokwanten
-
-/
-
 Vergelijkbaar met concept indifferentiecurven:
 • The axiom of transitivity: als een producent inputmix A boven
 inputmix B verkiest, en daarnaast inputmix B boven inputmix C
 verkiest, dan moet hij ook inputmix A boven inputmix C verkiezen.
-
  Kenmerken / eigenschappen
 isokwanten
-
-/
-
 Productievoorkeuren:
 • De producent is wat betreft productieniveau indifferent tussen A, B en C omdat
-•
-
-.
-
 het productieniveau bij deze inputmix hetzelfde is.
 De producent verkiest D, E of F boven A, B of C omdat dit een hoger
 productieniveau oplevert.
-
  Kenmerken / eigenschappen
 isokwanten
-
-/
-
 • Indifference curves are downward sloping.
  Omdat de producent beide inputs nodig heeft, moet om hetzelfde
 productieniveau te handhaven minder gebruik van arbeid altijd
 gecompenseerd worden door meer gebruik van kapitaal.
-
  Kenmerken / eigenschappen
 isokwanten
-
-/
-
 • Isokwanten van een producent
 kunnen niet snijden:
-
 o Producent is indifferent tussen inputs A en B
 (zelfde Q)
 o Producent is indifferent tussen inputs B en C
@@ -332,48 +93,28 @@ tot een hoger productieniveau dan A en zal
 dus altijd verkozen worden.
 o Axioma van transitiviteit is bijgevolg niet
 meer voldaan.
-
 L
-
  Marginale technische substitutievoet
-
-253
-
 Marginale technische substitutievoet (MTSV) of Marginale Graad (“rate”)
 van Technische Substitutie van arbeid door kapitaal (MRTSL,K) :
 de graad waarmee de hoeveelheid kapitaal kan verminderd worden voor elke
 extra eenheid arbeid, bij een constant gehouden outputhoeveelheid (∆Q = 0)
-
  Marginale technische substitutievoet
-
-253
-
  Marginale technische substitutievoet
-
-253
-
 Bvb. MTSV = 2 betekent dat één eenheid arbeid twee eenheden
 kapitaal vervangt bij dezelfde productiehoeveelheid.
-
 • De waarde van MTSV is niet constant op een isokwant maar hangt
 af van waar je je bevindt op de isokwant.
 Bvb. wanneer reeds veel arbeid wordt ingezet, zal het resterende
 kapitaal steeds moeilijker te substitueren zijn door arbeid
  wet van de afnemende meeropbrengsten van arbeid.
  MTSV daalt, net zoals de helling van de isokwant
-
  Marginale technische substitutievoet
 Bij de isokwant q = 10 neemt MTSV af van A naar B want de
 marginale productiviteit van arbeid daalt terwijl de marginale
 productiviteit van kapitaal toeneemt.
-
-/
-
  Kenmerken / eigenschappen
 isokwanten
-
-/
-
 • Isokwanten zijn bol tegenover de
 oorsprong:
 Producenten kunnen gemakkelijker een
@@ -389,15 +130,9 @@ kan 1 computer het werk van 1
 secretaresse vervangen. Als gevolg
 daarvan zijn de isokwanten bol tegenover
 de oorsprong.
-
 K
-
 L
-
  Isokostlijn: definitie
-
-254
-
 De isokostenlijn is de set van combinaties van arbeid en kapitaal die
 leiden tot dezelfde totale kosten (TK) voor de onderneming
 TK = wL + rK met
@@ -406,79 +141,42 @@ L = hoeveelheid arbeid = qA
 r = kost kapitaal = PK => gegeven
 K = hoeveelheid kapitaal = qK
 TK = totale kosten = > gegeven
-
 Verband tussen arbeid L en kapitaal K :
 K = TK/r – (w/r)L met -w/r = helling van de isokostenlijn
-
  Isokostlijn: grafisch
-K = TK/r – (w/r)L
-
-255
-
  Voorbeeld
-
-254
-
 Stel r = kost kapitaal = PK = 10 (per uur dat de machine draait)
 en w = kost arbeid = PL = 6
 (per uur arbeid)
 en TK = budgetbeperking = 84
-
- invullen in K = TK/r – (w/r)L
- K = 84/10 – (6/10) L
- K = 8,4 – 0,6L
 Deze rechte geeft alle combinaties van K en L onder de gegeven
 budgetbeperking van 84 euro.
-
  Voorbeeld
-
-254
-
- K = 8,4 – 0,6L
 0,6 = waarde van de helling van de isokostenlijn
 = verhouding van kost arbeid ten opzicht van kost kapitaal
 = een constante
 0,6 = om de kosten niet te verhogen moet voor elk extra uur arbeid
 de machine 0,6 uur minder draaien.
-
  2. Least- cost input combination
 De kostenminimaliserende inputcombinatie is waar de isokwant
 raakt aan een gegeven isokostenlijn.
-
-256
-
  2. Least- cost input combination
-
-257
-
 De kostenminimaliserende inputcombinatie is
 … waar de isokwant raakt aan de gegeven isokostenlijn.
-
 of
-
 … of waar MRTS gelijk is aan de verhouding van de factorprijzen
-
  2. Least- cost input combination
-
-257
-
 • De kostenminimaliserende inputcombinatie is waar de verhouding
 van de productiviteit van de laatst ingezette eenheid arbeid tot de
 arbeidskost gelijk is aan de productiviteit van de laatst ingezette
 eenheid kapitaal tot de kapitaalkost.
-.
-
 • … of de volgende euro die je uitgeeft aan arbeid moet precies evenveel
 extra output opleveren als de euro die je zou steken in kapitaal, zoniet
 moet je je budget herschikken en meer inzetten van de productiefactor
 met een hogere productiviteit..
 • De kostenminimaliserende inputcombinatie wijzigt wanneer de
 factorprijzen wijzigen.
-
  De optimale inputmix
-
-/
-
 • De kromming van de isokwant zegt hoe gemakkelijk het is één input
 (arbeid) door een andere input (kapitaal) te vervangen.
 • De keuze van de optimale inputmix hangt af van de mate waarin de
@@ -492,26 +190,14 @@ ofwel vervangen door kapitaalsintensieve processen (bvb.
 autoassemblage en chemiesector), ofwel gedelokaliseerd naar
 landen waar arbeid veel goedkoper is (bvb. textielsector naar
 China, India, Cambodja).
-
  3. Conclusion
-
-258
-
 • De prijs van de productiefactoren en de budgetbeperking van de
 onderneming bepalen de hoeveelheid inputs die gebruikt worden
 om een gegeven output tegen minimale kosten te produceren.
-
 • Winstmaximaliserende ondernemingen zullen steeds de mogelijke
 inputcombinaties herbekijken in functie van wijzigende
 factorprijzen en wijzigingen in de productiviteit van elke
 productiefactor.
-
- 260-261
-
 Recommended excercises
 Chapter 13:
-
-- Questions for review p. 260: 3-4-5-6
 - Problems and applications p. 260-261: 2-3-5-8
-
- 

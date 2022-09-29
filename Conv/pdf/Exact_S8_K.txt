@@ -5,440 +5,189 @@ polysacchariden, eiwitten, nucleïnezuren
 • monomeren = nucleotiden
 • twee typen: ✓ DNA (desoxyribonucleic acid)
 ✓ RNA (ribonucleic acid)
-
 transcriptie
-
 replicatie
-
 Nucleotiden en nucleïnezuren
-
 translatie
-
 centraal dogma
-
-1
-
  • nucleotide = fosfaatgroep + monosaccharide + stikstofbase
-
-5’
-1’
-2’
-
 ✓ monosaccharide: 2’-desoxy-D-ribose of D-ribose
 ✓ stikstofbase: pyrimidine- of purinebase
 ✓ nucleotiden komen ook voor als cofactor en fosforylerend
 reagens
-
 Nucleotiden en nucleïnezuren
-
-2
-
  21.2 Pyrimidine- en purinebasen
 • vijf stikstofbasen: 3 pyrimidines en 2 purines
 A
-
 A
-
 D
 A
-
 D
 A
-
 D
 A
-
 A
-
 • bij fysiologische pH: ketovorm (invloed op Acceptor/Donor)
-
 Nucleotiden en nucleïnezuren
-
-3
-
- D
-
 A
-
 A
-
 D
-
 D
-
 • bij fysiologische pH: ketovorm (invloed op Acceptor/Donor)
-
 Nucleotiden en nucleïnezuren
-
-4
-
  • vorming basenparen door waterstofbruggen
-
 Nucleotiden en nucleïnezuren
-
-5
-
  21.3 Nucleosiden en nucleotiden
 • nucleoside = suikerring + stikstofbase
-
 b
-
 Nucleotiden en nucleïnezuren
-
-6
-
  • nomenclatuur
-
 • nucleotide = één OH-groep suikerrest omgezet in fosfaatester
-
 desoxy
-
 Nucleotiden en nucleïnezuren
-
-geen nummer  5’
-
 d
-
-7
-
  21.4 De adeninenucleotiden ATP en cAMP
 Adenosine-5’-trifosfaat ATP
 • ‘energierijke verbinding’, speelt sleutelrol in metabolisme,
 transport, biosynthese…
 • niet-reactieve verbindingen omzetten in reactieve tussenprodukten
-
-
-
 b
-
-
-
 fosfaatester
-
 (vroeger reeds andere voorbeelden gezien)
-
 Nucleotiden en nucleïnezuren
-
-8
-
  Cyclisch adenosinemonofosfaat cAMP
 • fosfaatgroep gebonden met zowel 5’- als 3’-hydroxylgroep
-
 regulatie
 metabolisme
-
 Nucleotiden en nucleïnezuren
-
-9
-
  • regulatie metabolisme via 1° en 2° boodschappers
-
 Nucleotiden en nucleïnezuren
-
-10
-
  21.5 Primaire structuur en reactiviteit van DNA
 • primaire structuur: volgorde nucleotiden (5’ → 3’, sense)
-
 begin
-
 sterk zuur
-
 d(pGpCpApTp)
 in zuur milieu:
 volledige hydrolyse
 in basisch milieu:
 vrij stabiel
-
 kationen
 water
-
 einde
-
 Nucleotiden en nucleïnezuren
-
-11
-
  21.6 Secundaire structuur en replicatie van DNA
 Historisch overzicht
-
-1869
-
-1944
-
-1947
-
 Nucleotiden en nucleïnezuren
-
-1950
-
-1950
-
-12
-
- 1951
-
-1952
-
-1953
-
 Nucleotiden en nucleïnezuren
-
 • foto’s Franklin
 • regel Chargaff
 • structuur nucleosiden
 • correcte tautomeren
 • antiparallele dubbele helix
 • complementaire basenparen
-
-13
-
  DNA families
-
 A-DNA
-
 B-DNA
-
 Z-DNA
-
 stabilisatie via...
 • H-bruggen
 • stapeling basenparen
 • hydrofobe interactie
 • (andere interacties)
-
 Nucleotiden en nucleïnezuren
-
-14
-
  (illustratie)
 A
-
 # bp/omwenteling
-‘twist’ (°)
-‘rise’ (Å)
-‘inclination’ (°)
 ‘propeller twist’ (°)
 diameter (Å)
 suikerconformatie
-
 Rise
-
-~11
-33,6
-2,3
-+19
-+18
-26
-C3’-endo
-
-Twist
-
-Nucleotiden en nucleïnezuren
-
 B
-
 Z
-
-~10
-35,9
-3,3
--1
-+16
-20
-C2’-endo
-
-~12
-30,0
-3,8
--9
-0
-18
-C2’-endo (Py)
-C3’-endo (Pu)
-
+Twist
 Inclination
-
 Propeller
-
-15
-
+Nucleotiden en nucleïnezuren
  (illustratie)
-
 suikerconformatie en invloed op P…P-afstand
-
 Nucleotiden en nucleïnezuren
-
-16
-
  (illustratie)
-
 foutieve linksdraaiende structuren…
-
 http://users.fred.net/tds/leftdna/
-
 Nucleotiden en nucleïnezuren
-
-17
-
  mogelijke interacties met DNA
-
 Nucleotiden en nucleïnezuren
-
 • water, ionen
 • eiwitten
 • geneesmiddelen
-
-18
-
  minorgleufbinders
 netropsine
 antiviraal, antibacterieel
-
 intercalatoren
-
 O
-
 OH
 COCH 3
 H
-
 O
-
 daunomycine
 (antitumor)
-
 Nucleotiden en nucleïnezuren
-
 OH
-
 O
 O
-
-NH 2
-
 OH
-
-19
-
  replicatie DNA
-3’ A…T 5’
-A…T
-C…G
-T…A
-G…C OH 3’
-•
 T
 O
 A
-5’ G
-
 P
-
--O
 O
--O
-
 P
-
 O
-
 O
--O
-
 P
-
 O
-
-O-
-
 met behulp van DNA-polymerase
-
 Nucleotiden en nucleïnezuren
-
-20
-
  21.7 De structuur en reacties van RNA
 • variabele structuur: enkelstrengig, dubbelstrengig, loops…
 • niet erg stabiel in basisch milieu (en zeker niet in zuur milieu)
-
 of
-
 intramoleculaire katalyse
-
 Nucleotiden en nucleïnezuren
-
-21
-
  • soorten RNA:
-
 ribosomaal RNA
 boodschapper-RNA (mRNA)
 transport-RNA (tRNA)
-
 klaverblad-voorstelling (2°)
 aminozuur-arm
-
 ongeveer 80 tRNA geïsoleerd
 70-90 nucleotiden
 bevat ook andere basen
 aminozuur gekoppeld via esterbinding aan
 3’-einde van CCA-residu
-
--arm
-
 D-arm
-
 ester
 variabele-arm
-
 Nucleotiden en nucleïnezuren
-
-22
-
  driedimenionale structuur transport-RNA (3°)
 Elke lus heeft eigen functie!
-
 anticodon-lus
-
 CCA
-
 Nucleotiden en nucleïnezuren
-
-23
-
  21.8-9 Genetische code en eiwitsynthese
 • volgorde van 3 basen (codon) bepaalt aangebracht aminozuur
-
 RNA-polymerase
-
 anticodon
-
 codon
-
 • Tabel 21.3 geeft 64 codons voor 20 aminozuren
-
 Nucleotiden en nucleïnezuren
-
-24
-
  • synthese van amino-acyl-tRNA
-
 • omzetting weinig reactieve carboxylgroep in reactief acylfosfaat (ATP nodig)
 • reactie acylfosfaat met 3’-OH van tRNA (A-EN)
 carbonzuur → anhydride → ester
-
 Nucleotiden en nucleïnezuren
-
-25
-
  • reacties van de eiwitsynthese op het ribosoom
-
 • A-EN reactie van amine en ester door peptidyltransferase
 carbonzuur → anhydride → ester → amide
-
 Nucleotiden en nucleïnezuren
-
-26
-
- 

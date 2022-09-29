@@ -1,289 +1,43 @@
-8/22/2019
-
-Lay 2.1
-
-p
-
-n
-y = S(x) = Bx
-
 x
-S(x) = Bx
-
-m
-
-T(y) = Ay
-
-T(y) = Ay
-T(S(x)) = (AB)x
-
 Matrixbewerkingen
-•
-•
-•
-•
-•
-
-m×n matrix A = [a1 a2 … an], B = [b1 b2 … bn]  m×n
-u  n
-Matrixproduct Au = u1 a1 + u2 a2 + … + un an  m
-A+B  [(a1+b1) (a2+b2) … (an+bn)]  m×n
-c  : cA  [ca1 ca2 … can]
-
-• A + B = B + A ; (A+B)+C = A+(B+C) ; A + 0 = A
-• r(A+B) = rA + rB ; (r+s)A = rA + sA ; r(sA) = (rs)A
-r, s  
-
-1
-
- 8/22/2019
-
 Matrixproduct
 • Definitie en interpretatie van AB
-
 Samengestelde lineaire transformatie
 • Beschouw lineaire transformatie
-T: n  m met standaardmatrix A  m×n
-n
-
-• T(y) = Ay
-
-m
-
 y
-
-T(y) = Ay
-
 • Beschouw lineaire transformatie
-S: p  n met standaardmatrix B  n×p
-• S(x) = Bx
-
-p
-
-n
+p
 x
-
-S(x) = Bx
-
-2
-
- 8/22/2019
-
 Samengestelde
 lineaire
 transformatie
-
-
 p
-
-m
-
 n
-
-y = S(x) = Bx
-
 x
-S(x) = Bx
-
-T(y) = Ay
-T(y) = Ay
-
-T(S(x)) = (AB)x
-
-• T(S(x)) = T(y) = Ay = A(Bx)
-
-= A ([b1 b2 … bp]x) = A (x1 b1 + x2 b2 + … + xp bp)
-= x1 Ab1 + x2 Ab2 + … + xp Abp
-= [Ab1 Ab2 … Abp]x
- (AB) x
-
 • T(S(x)) is ook lineair en heeft standaardmatrix AB  m×p
-• AB  BA
-
 AB berekenen
 • Noteer de elementen van A  m×n als aij : (A)ij = aij
 • Noteer de elementen van B  n×p als bij : (B)ij = bij
-• AB  [Ab1 … Abj … Abp]
-= [a1 a2 … an]bj
-= b1j a1 + b2j a2 + … + bnj an
-• (AB)ij = b1j ai1 + b2j ai2 + … + bnj ain
-= ai1 b1j + ai2 b2j + … + ain bnj
-i=1…m,j=1…p
-𝐀𝐁
-∗
-
-∗ = 𝑎
-∗
-∗
-
-𝑎
-∗
-
-𝑎
-∗
-
-𝑏
-𝑏
-𝑏
-
-∗
-∗
-∗
-
-∗
-∗
-
-𝐀𝐁
-∗
-
-=
-
-𝑎
-∗
-
-𝑎
-∗
-
-𝑎
-∗
-
-∗
-∗
-∗
-
-𝑏
-𝑏
-𝑏
-
-∗
-𝐀𝐁
-
-∗
-∗
-∗ = 𝑎
-
-∗
-𝑎
-
-∗
-𝑎
-
-𝑏
-𝑏
-𝑏
-
-∗
-∗
-∗
-
-∗
-∗
-
-∗
-𝐀𝐁
-
-∗
-= 𝑎
-
-∗
-𝑎
-
-∗
-𝑎
-
-∗
-∗
-∗
-
-𝑏
-𝑏
-𝑏
-
-3
-
- 8/22/2019
-
 Eigenschappen van het product van
 matrices
-•
-•
-•
-•
-•
-•
-•
-
-Gevolg van AB = [Ab1 Ab2 … Abp]
-A, B, C matrices van geschikte afmeting
-r is scalair
-(AB)C = A(BC)
-A(B+C) = AB + AC
-(B+C)A = BA + CA
-r(AB) = (rA)B = A(rB)
-
+• A, B, C matrices van geschikte afmeting
+• r is scalair
 Aanvullingen
-
-4
-
- 8/22/2019
-
 Getransponeerde matrix
 • A een mxn matrix, dan is AT een nxm matrix gevormd
 door de rij- en kolomindex om te wisselen
-𝑎 𝑏
-𝑎 𝑐 𝑒
-• 𝐀 = 𝑐 𝑑 en 𝐀 = 𝑏 𝑑 𝑓
-𝑒 𝑓
 z
-x2
-
 A
-
-2
-
 y
-
-a2
-0
-
-x1
 Bereik z  ATz
-= 2
-
-a1
-
 Bereik x  y = Ax
-(x  2)
-= Span{a1, a2}
-
-3
-
 AT
-
 Getransponeerde: eigenschappen
 r een scalair, A en B matrices van geschikte
 afmetingen
-• (AT)T = A
-• (A + B)T = AT + BT
-• (rA)T = rAT
-• (AB)T = BT AT
 Volgorde omwisselen !
-
-5
-
- 8/22/2019
-
 Diagonaalmatrix
 • Een nxn matrix (vierkant) is diagonaal als alle
-aij = 0 voor i  j
 • aii noemen we de diagonaalelementen
-𝑎 0 0
-• voorbeeld 𝐀 = 0 𝑏 0
-0 0 𝑐
 • Eenheidsmatrix In = diagonaalmatrix met aii =
-1 voor i = 1 ... N
 Voor B een mxn matrix: B In = B = Im B
-
-6
-
- 

@@ -1,340 +1,158 @@
 18. Aromaten
 18.1 Benzeen en aromaticiteit
-• benzeen, C6H6, kp 80°C, Faraday (1825)
 • aromatisch: aangename geur
-• Kekulé (1865): 1,3,5-cyclohexatrieen
 • later: hybride van twee grensstructuren
 • delokalisatie -elektronen
 • C-C afstand 1,39 Å, vlakke structuur
-
 Kekulé
-
 Regel van Hückel:
 Verbinding is aromatisch indien…
 ✓cyclisch, vlak geconjugeerd systeem
-✓(4n+2) -elektronen (n = 0, 1, 2…)
-Indien 4n -elektronen (n = 1, 2…) is
 de verbinding anti-aromatisch
-
 Aromaten
-
-1
-
  • hydrogeneringswarmte voor:
 cyclohexeen
-
 cyclohexadieen
-
 benzeen
-
-360
-
 Resonantie-energie of mesomere energie:
 ✓extra stabilisatie of energiewinst ten gevolge van
 mesomerie (anti-aromaten integendeel zeer onstabiel!)
 ✓hybride heeft lagere energie dan grensstructuren
-
 Aromaten
-
-2
-
  18.2 Nomenclatuur
-
 veel triviale namen…
-
 o
-
 m
-
 p
-
 • bij substitutie: naam substituent + benzeen
 • twee substituenten: ortho, meta of para, beter nummering
-
 Aromaten
-
-3
-
  • meer dan twee substituenten: nummering gebruiken
-
 • benzeenring als substituent:
-
--Ph of -
-
 Aromaten
-
 aryl
-
-4
-
  18.3 De elektrofiele aromatische substitutie
 • alkenen + elektrofiel: additiereactie
 • aromaten + elektrofiel: substitutiereactie
-
 SEAr
-
 intermediair gestabiliseerd door mesomerie
-
 Additie-eliminatie-mechanisme:
 1. aanval E+ op -wolk (additie)
 2. afsplitsing ringproton (eliminatie)
-
 Aromaten
-
-5
-
  • enkele belangrijke elektrofiele aromatische substituties:
-
 Friedel-Crafts
-
 Aromaten
-
-6
-
  Halogenering
-
 Nitrering
-
 katalyse met lewiszuur meestal noodzakelijk
-
 Nitreerzuur (HNO3 + H2SO4) meestal noodzakelijk
-
 (solvent!)
-
 Aromaten
-
-7
-
  Sulfonering
-
 rokend zwavelzuur (oleum, H2SO4 en SO3)
-
 synthese aromatische sulfonzuren
 ✓ belangrijke klasse (anionische) detergenten
 ✓ zijn sterke zuren
 ✓ sulfonzuurgroep wordt soms ingebouwd om aromaten
 wateroplosbaar te maken (o.a. kleurstoffen, detergenten)
-
 Aromaten
-
-8
-
  Alkylering
-
 alkylcarbokation genereren
-
-(1)
-(2)
-
 Friedel-Crafts alkylering
-
-(3)
-
 Aromaten
-
 isomerisatie mogelijk bij
 langere ketens!
-
-9
-
  zuurchloride + AlCl3
-
 Acylering
-
 geen beperkingen!
-
 Friedel-Crafts acylering
-
 intermediair acylkation gestabiliseerd door mesomerie:
 R
-
 C
-
 O
-
 R
-
 C
-
 O
-
 lange alkylketen introduceren? C=O reduceren met Zn/HCl
-
 Aromaten
-
-10
-
  18.3’ Invloed substituenten op elektrof. arom. substitutie
 • wat indien uitgangsstof reeds substituent bevat?
-
 vlot
-
 langzaam
-
 Effect te verklaren door elektronenzuigend of -gevend effect substituent!
-
 Aromaten
-
-11
-
  Ortho-para-richtende substituenten
-
 • elektronengever (+I of +M) activeert benzeenring
-
 Aanval op ortho of para
 (ook rekening houden met sterische hinder: 96% para – 4% ortho)
-
 Aanval op meta
-
 Aromaten
-
 Activerende ortho-para-richters
-+M > -I
--OH, -NH2, -OR, -NHR
 +I (hyperconjugatie!) -CH3, -C2H5, …
-
-12
-
  • halogeenaromaten:
 -I, minder gevoelig voor elektrofiele aanval
 +M, maar zwak wegens hoge EN (F) of slechte overlap van
 2p-orbitaal van C en p-orbitaal van hogere schil bij Cl, Br, I
 • dus minder reactief dan benzeen, maar toch o-p-richters
-
 Desactiverende ortho-para-richters
--I > +M
--F, -Cl, -Br, -I
-
 Aromaten
-
-13
-
  Meta-richtende substituenten
 • elektronenzuiger (-I of -M) desactiveert benzeenring
-
 Aanval op ortho of para
-
 Aanval op meta
-
 Aromaten
-
 Desactiverende meta-richters
--I , -M
--NO2, -COR, -CN, -SO3H
 -I (hyperconjugatie!) -CCl3, -CF3, …
-
-14
-
  Globale reactiviteitsvolgorde in functie van substituent en plaats
 OH
-
 OH
->
-
 NO2
-
 X
->
-
->
-
->
-
 NO2
->
-
 X = halogeen
-
 Alternatieve uitleg:
 Welke positie is voordeligst
 voor aanval E+?
-
 Aromaten
-
-15
-
  18.4 Reacties aan de zijketen
 • d.m.v. krachtige oxidatiemiddelen kan alkylgroep
 weggeoxideerd worden tot enkel carbonzuurgroep overblijft
 • voorwaarde: koolstof direct aan ring heeft H-atoom
 • benzeenring is goed bestand tegen oxidatiemiddelen
-
 • ook andere radicalaire reacties mogelijk op alkylgroep
 bijvoorbeeld radicalaire halogenering
-
 Aromaten
-
-16
-
  18.5 Polycyclische aromaten
 • gecondenseerde of polycyclische aromaten
-
 naftaleen
-10
-
 antraceen
-14
-
 fenantreen
-14
-
 • elke ring apart 6 -elektronen
 • bij stijgend aantal ringen: hoger smeltpunt
-
 In de limiet:
 grafiet!
-
-Aromaten
-
 diamant
-
-17
-
+Aromaten
  18.6 Polycyclische aromaten en kanker
 • sinds 1775 gekend dat roet carcinogeen is
 • in het bijzonder benz[a]pyreen en dibenz[a,h]antraceen
 • polyaromatische koolwaterstoffen (PAKs)
-
 • worden gevormd bij onvolledige verbranding
 • weinig reactief, waarschijnlijk in lichaam omgezet tot
 reactievere verbindingen die o.a. met DNA reageren
-
 Aromaten
-
-18
-
  • in microsomen: vorming reactief areenoxide
-
-H350
-
 benzeen
-
 Aromaten
-
-19
-
  • areenoxide of carbokation reageert met nucleofiele groepen
 in biomoleculen, covalente bindingen moeilijk te verbreken
-
 Aromaten
-
-20
-
  illustratief
-
 • benz[a]pyreen
 eerst epoxidatie 7,8-positie, hydrolyse, detoxificatie
 eventueel ook 9,10-positie, minder snel detoxificatie
-
-..
-
 HO
 HO
-
 Aromaten
-
 Fenolen en anilinen
-
-21
-
- 

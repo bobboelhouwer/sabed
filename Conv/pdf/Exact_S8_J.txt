@@ -1,16 +1,10 @@
 20. Heteroaromaten
 • Carbocyclisch tegenover heterocyclisch
 • Belangrijkste verzadigde heterocyclische verbindingen:
-
 • Aromatische heterocyclische verbindingen of heteroaromaten:
-
 • Reacties analoog aan gewone aromaten:
 Invloed heteroatoom: elektronegatiever en vrij elektronenpaar
-
 Heteroaromaten
-
-1
-
  • Vijfring-heteroaromaten
 ✓elektronenrijk in vergelijking met benzeen (6 -e- voor 5 atomen)
 ✓ondergaan gemakkelijk elektrofiele aromatische substitutie
@@ -20,103 +14,55 @@ zuigt e- naar zich toe wegens hogere EN)
 ✓ondergaan moeilijk elektrofiele aromatische substitutie
 ✓eerder nucleofiele substitutiereacties
 ✓(indien goede vertrekkende groep aanwezig is!)
-
 Heteroaromaten
-
-2
-
  20.1 De aromaticiteit in heteroaromaten
 • stikstofhoudende heteroaromaten:
 mesomere stabilisatie (92-117 kJ/mol)
 > cyclisch dieen of trieen (12-25 kJ/mol)
 < benzeen (152 kJ/mol)
 • pyridine:
-2p
-
 ✓hybridisatie N: sp2
-✓vrij e-paar in sp2 ⊥ -wolk (6 e-)
-
 vrij
 elektronenpaar
 N
-
-••
-
 Heteroaromaten
-
-3
-
  • pyrrool:
-
 ✓hybridisatie N: sp2
 ✓vrij e-paar in 2p
-✓-wolk = 6 e-
-
-2p
-
-••
 N
 H
-
 • imidazool en pyrimidine:
 pyridinetype
-
 N
-
 N
-
-••
 N
-
 pyrrooltype
 H
-
 Heteroaromaten
-
 pyridinetype
-
 N
-
-••
-
-4
-
  20.2 Heteroaromatische vijfringen
 • voornaamste voorbeelden:
-
 nummering
-
 ✓ bevatten zes -elektronen (4+2)
 ✓ ondergaan gemakkelijker elektrofiele aromatische
 substitutiereacties dan benzeen
 ✓ -posities (= 2- en 5-posities) zijn het reactiefst voor pyrrool,
 furaan en thiofeen (zie opgave slide 8 bis)
-
 Heteroaromaten
-
-5
-
  pyrrool
-
 ✓ N-atoom is niet basisch (verbreekt aromaticiteit)
-
 ✓ protonering gebeurt op -plaats
-
 ✓ zwak zuur (pKa = 16,5), maar veel sterker dan aminen
 ✓ porfirine is opgebouwd uit vier pyrroolringen
 ✓buitengewoon stabiel: 18 -e- (4n+2)
 ✓twee extra dubbele bindingen zijn reactief
 ✓bindt gemakkelijk metaalion
-
 Heteroaromaten
-
-6
-
  ijzerion in heemgroep:
 twee normale Fe-N bindingen
 twee coördinatiebindingen
 nog twee extra mogelijk!
-
 O2 los gebonden
 → makkelijke
 overdracht naar
@@ -124,75 +70,42 @@ myoglobine
 CO en CN- binden
 sterker!
 (NIET bij chlorofyl)
-
 Heteroaromaten
-
 hemoglobine
-
-7
-
  imidazool
 ✓ in zijketen aminozuur histidine
 ✓ vrij elektronenpaar op N-atoom kan als base fungeren
-
-pKb = 7
-
 beide N-atomen equivalent
 ✓ katalysator bij hydrolyse van esters in neutraal milieu
-
 ✓ protonenpendel bij enzymatische hydrolysereacties
-
 Heteroaromaten
-
-8
-
  Welke positie wordt vooral gesubstitueerd bij de
 elektrofiele aromatische substitutie van
 pyrrool?
-
-2
 N
 H
-
 E
-
 E
-
 E
 N
 H
-
 H
-
 N
 H
-
 H
-
 H
-
 H
-
-3
 N
 H
-
 E
-
 E
-
 N
 H
-
 H
-
  20.3 Heteroaromatische zesringen
 • voornaamste voorbeelden:
-
 nummering
-
 (DNA, RNA)
-
 ✓ elektronenpaar op N geen deel aromatische -wolk
 ✓ vrij beschikbaar als nucleofiel en base (toch zwakkere base
 dan alifatisch amine - Reden?)
@@ -200,81 +113,35 @@ dan alifatisch amine - Reden?)
 ✓ ondergaan minder gemakkelijk elektrofiele aromatische
 substitutiereacties dan benzeen
 ✓ aanval nucleofiele reagentia verloopt vlot
-
 Heteroaromaten
-
-9
-
  pyridine
-
 ✓ - en -plaatsen positief gepolariseerd (I, M)
-
 SEAr?
 ✓ reactie met elektrofiel: ook mogelijk op nucleofiele N
-
 ✓ reactie met alkylhalogeniden
-
 Heteroaromaten
-
-10
-
  pyridiniumverbindingen
-
 ✓ - en -plaatsen nog sterker positief gepolariseerd
-
 ✓ deze plaatsen ondergaan vlot additie van nucleofielen
-
 Heteroaromaten
-
-11
-
  ✓ nicotinamidegroep in NAD+
-
 opname hydride op - of 4-plaats
-
 Heteroaromaten
-
-12
-
  20.4 Hydroxypyridinen, hydroxypyrimidinen
 • 2- en 4-hydroxypyridinen komen voornamelijk voor als
 pyridon tautomeer:
-en 3?
-4
-2
-
 ✓ aromaticiteit gaat niet volledig verloren bij pyridon
 ✓ gemakkelijk te zien in dipolaire grensstructuren
-
 Heteroaromaten
-
-13
-
  • pyridon heeft eigenschappen cyclisch amide (lactam):
-
 • hydroxypyrimidinen komen voornamelijk voor als
 pyrimidon tautomeer:
-
-( )
-
 (uracil)
-
 Heteroaromaten
-
-14
-
  20.5 Gecondenseerde heteroaromaten
 • ringsystemen met twee gemeenschappelijke atomen
 • heteroaromaat + benzeen:
-
-4n+2
-
 serotonine
-
 • purine = pyrimidine + imidazool:
-
 Heteroaromaten
-
 Nucleotiden en nucleïnezuren 15
-
- 

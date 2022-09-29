@@ -1,95 +1,22 @@
-30/10/2019
-
-Lay 6.1
-
-W⊥
-v2
-
 W
-v1
-
-v3
-
 Inwendig product
-• u, v ∈ Rn : u.v = u1v1 + ... + unvn = uTv ∈ R
-• u, v, w ∈ Rn, c ∈ R
-u.v = v.u
-(u+v).w = u.w+v.w
-(cu).v = c(u.v) = u.(cv)
-u.u = u1u1 + ... + unun ≥ 0 ; u.u = 0 ⇔ u = 0
 •  u  = u.u norm of lengte van u
- cu =|c|  u 
 u normeren is u delen door  u 
-
-1
-
- 30/10/2019
-
 Orthogonale vectoren
-• Afstand tussen u en v d(u,v) =  u-v  =  v-u 
-• u ⊥ v ⇔ u.v = 0
-u
-⇔ d(u,v) = d(u,-v)
-v
-• cos ߠ =
-
-‫ܝ‬.‫ܞ‬
-‫ܞ ܝ‬
-0
-
--v
 u
 v
-θ
-
+u
+v
 Orthogonale vectoren
-• Afstand tussen u en v d(u,v) =  u-v  =  v-u 
-• u ⊥ v ⇔ u.v = 0
-u
-⇔ d(u,v) = d(u,-v)
-• cos ߠ =
-
-‫ܝ‬.‫ܞ‬
-‫ܞ ܝ‬
-
-v
-0
-
--v
-
 u
 v
-θ
-
-2
-
- 30/10/2019
-
+u
+v
 Orthogonaal complement
 • W deelruimte van Rn
 z ∈ Rn heet orthogonaal op W als z.w=0 ∀ w ∈ W
 • W⊥ = {vectoren die orthogonaal zijn op W}
 W⊥ heet orthogonaal complement van W
-• W = Span{v1, ... , vp} dan is z ∈ W⊥
-⇔ z.vi = 0 voor i = 1 ... p
-W⊥
-v2
-
 W
-v1
-
-v3
-
 Voorbeeld
 • A is m x n matrix:
-(Row A) ⊥ = Nul A
-(Col A) ⊥ = Nul AT
-
-• x ∈ Nul A ⇔ Ax=0 ⇔ x ⊥ ri voor i = 1 ... m (rij ri)
-⇔ x ⊥ Span{r1, ... , rm} ⇔ x ⊥ Row A
-⇔ x ∈ (Row A) ⊥
-• Vervang A door AT: Nul AT = (Row AT) ⊥ =(Col A) ⊥
-
-3
-
- 

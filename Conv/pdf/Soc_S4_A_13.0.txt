@@ -2,15 +2,10 @@ Part 6
 Firm behaviour and market
 structures
 Market structures III: Oligopoly
-
  Chapter 16
 Market structures III:
 Oligopoly
-
  Introduction
-
-301
-
 • In dit hoofdstuk wordt een marktstructuur van imperfecte
 concurrentie bestudeerd die gedomineerd wordt door slechts enkele
 aanbieders: een oligopolie.
@@ -23,11 +18,7 @@ spelers (interdependency of onderlinge afhankelijkheid).
 • In een oligopolie is er een risico op kartelvorming of collusie waarbij
 afspraken worden gemaakt door enkele ondernemingen om de
 gezamenlijke winst te maximaliseren.
-
  Introduction
-
-301
-
 • Oligopoly : competition amongst the few, a market structure in which
 only a few sellers offer similar or identical products and dominante
 the market:
@@ -41,72 +32,41 @@ o A two-firm concentration ratio of 90%: twee ondernemingen
 realiseren 90% van de totale omzet in de markt.
 o A five-firm concentration ratio of 75%: vijf ondernemingen
 realiseren 75% van de totale omzet in de markt.
-
  Marktclassificatie via concentratiemaatstaven
-
-/
-
 • C4 maatstaf
 Som van de marktaandelen (in procenten) van de vier grootste
 ondernemingen in de markt.
-• Monopolie: C4 = 100
 • Duopolie (slechts 2 ondernemingen) met gelijke
 marktaandelen: C4 = 100
 • Herfindahl-Hirschman (HHI) maatstaf
 o Som van de gekwadrateerde marktaandelen (in procenten)
 van alle ondernemingen in de markt.
-• Monopolie: HHI = 100² = 10.000
 • Duopolie met gelijke marktaandelen: HHI = 5.000
 o
-
  Marktclassificatie via concentratiemaatstaven
-
-/
-
 • Concentratiemaatstaven kunnen gebruikt worden om markten te
 classificeren.
 o
-
 monopolie – oligopolie – monopolistische concurrentie – perfecte
 concurrentie
-
 • Worden soms gebruikt in het mededingingsbeleid om
 fusieplannen en dominante marktposities te onderzoeken (vaak
-vanaf een HHI > 1.800).
 C4-ratio
 Perfecte concurrentie
 Monopolistische concurrentie
 Tussensituaties
 Oligopolie
 Monopolie
-
 Bijna nul
-< 40%
-tussen 40 en 60 %
-> 60%
-100 %
-
 Herfindahl-Hirschman index
 (HHI)
 Bijna nul
-< 1.000
-tussen 1.000 en 1.800
-> 1.800
-10.000
-
  Overzicht
 1. Characteristics of oligopoly (p.301-306)
 2. Game theory and the economics of cooperation (p.307-315)
 3. Entry barriers in oligopoly (p.315 - 316)
 4. Public policy toward oligopolies (p. 316 - 319)
-5. Conclusion (p. 319)
-
-/
-
  1. Characteristics of oligopoly
-
-301
-
 • Een klein aantal dominante spelers is het belangrijkste kenmerk
 van een oligopolie:
 Voorbeelden
@@ -118,11 +78,7 @@ o Supermarktketens in Europa, elektriciteitsleveranciers, Gsmoperatoren, …
 spreekt men van een duopolie.
 Voorbeeld:
 o Boeing en Airbus: producenten van passagiersvliegtuigen
-
  Differentiation
-
-302
-
 • Differentiatie: ondernemingen in een oligopolie trachten zich te
 onderscheiden van concurrenten via productdifferentiatie.
 • Vaak biedt eenzelfde onderneming gedifferentieerde maar
@@ -135,18 +91,8 @@ with similar buying habits or characteristics.
 • Voorbeeld:
 o Procter & Gamble biedt verschillende wasproducten aan zoals
 Dash, Ariel, Bonux en Lenor.
-
  Interdependence
-
-302
-
 • Onderlinge afhankelijkheid: Het resultaat van een onderneming
-•
-•
-•
-
-•
-
 wordt beïnvloed door de beslissingen van haar concurrenten.
 Elke onderneming overweegt haar eigen acties maar haar gedrag
 wordt beïnvloed door wat zij denkt dat de concurrenten gaan doen.
@@ -159,19 +105,11 @@ prijsafspraken te maken.
 Aangezien kartelleden enkel rekening houden met de eigen winst
 kunnen er prikkels aanwezig zijn om af te wijken van gemaakte
 kartelafspraken.
-
  A duopoly example
-
-303
-
 Table 16.1: Jacques en Joelle verkopen water. De marginale kost om water op te
 pompen bedraagt 0 euro (totale ontvangst is dan gelijk aan totale winst). De kolom
 links is de gezamenlijke hoeveelheid water aangeboden door Jacques en Joelle.
-
  Competition, Monopolies and Cartels
-
-303
-
 • Uitkomst bij perfecte concurrentie:
 o De prijs wordt gedreven naar de MK.
 o De evenwichtsprijs is dus 0 euro en de evenwichtshoeveelheid
@@ -183,12 +121,7 @@ o De monopolist maximaliseert zijn winst bij 60 eenheden (q
 waarbij MO = MK = 0) tegen een prijs van 60 euro.
 o De prijs is hoger dan de MK en de marktuitkomst is inefficiënt
 want de evenwichtshoeveelheid is te laag (q < 120) en de prijs
-te hoog (p > 0) .
-
  Competition, Monopolies and Cartels
-
-303
-
 • Uitkomst bij collusie/ kartel:
 o Jacques en Joelle komen een productiehoeveelheid en een prijs
 overeen waarbij de gezamenlijke winst wordt gemaximaliseerd.
@@ -198,11 +131,7 @@ gelijk of ongelijk wordt verdeeld.
 o Zelfde inefficiënte marktuitkomst als bij een monopolie.
 o Kartelvorming is bij wet verboden en vaak onstaat er
 onenigheid tussen kartelleden over de verdeling van de winst.
-
  The equilibrium for an oligopoly
-
-304
-
 • Uitkomst voor een oligopolie zonder collusie: monopolieuitkomst is niet stabiel want als Jacques verwacht dat Joelle 30
 eenheden gaat produceren (de helft van het marktaanbod),
 kan Jacques:
@@ -213,11 +142,7 @@ o maar Jacques kan ook 40 eenheden aanbieden tegen een prijs van
 50 euro per eenheid (totaal aanbod bedraagt 70 eenheden). De
 winst van Jacques stijgt dan tot 2000 euro maar de gezamenlijke
 winst daalt.
-
  The equilibrium for an oligopoly
-
-304
-
 • Omwille van de onderlinge afhankelijkheid kan Joelle dezelfde
 redenering toepassen als Jacques en:
 o ook 40 eenheden aanbieden tegen een prijs van 40 euro per
@@ -229,11 +154,7 @@ winst van Joelle slechts 1500 euro zou bedragen.
 • Door eigenbelang zal het marktevenwicht bij een oligopolie zonder
 collusie leiden tot een evenwichtshoeveelheid hoger dan en een
 evenwichtsprijs lager dan de monopolie-uitkomst.
-
  The equilibrium for an oligopoly
-
-304
-
 • Het marktevenwicht van een oligopolie wordt echter niet
 gedreven naar de marktuitkomst van perfecte concurrentie:
 o als elke speler 40 eenheden aanbiedt, zal het verhogen van de
@@ -247,18 +168,13 @@ een Nash-evenwicht: een combinatie van strategieën die voor
 elke speler zijn beste resultaat oplevert, gegeven de strategieën
 van zijn tegenspeler. Geen enkele speler kan zich verbeteren
 door eenzijdig af te wijken van dit evenwicht.
-
  The equilibrium for an oligopoly
-
-304
-
 • Nash-equilibrium:
 o a situation in which economic actors interacting with one another each choose
 their best strategy given the strategies that all the other actors have chosen.
 o named after economic theorist John Nash (mathematician who gained the
 Nobel Prize for economics in 1994) whose life was portrayed in the book and
 the film “A Beautiful Mind”.
-
 • In een Nash-evenwicht wordt individuele winstmaximalisatie
 nagestreefd wat vaak niet overeen komt met de karteluitkomst waar
 de grootste gezamenlijke winst wordt gerealiseerd.
@@ -266,27 +182,15 @@ de grootste gezamenlijke winst wordt gerealiseerd.
 dan de gezamenlijke winst bij kartelvorming.
 • In tegenstelling tot de marktuitkomst van perfecte concurrentie ligt
 voor ondernemingen in een oligopolie de prijs hoger dan de MK.
-
  The equilibrium for an oligopoly
 competitive output
-
-non-cooperative oligopoly output
-
-monopoly output = cartel output
-
-/
-
 competitive price: P = MK
-
+non-cooperative oligopoly output
 non-cooperative oligopoly price
-
+monopoly output = cartel output
 monopoly price
-
  How the size of an oligopoly affects
 the market outcome
-
-305
-
 • Veronderstel dat naast Jacques en Joelle ook Monika en Liesel
 water aanbieden.
 • De vraag naar water blijft gelijk maar hoe zal de aangeboden
@@ -299,12 +203,8 @@ elke speler een vierde van de markt bedient.
 o De karteluitkomst wordt minder stabiel wanneer het aantal
 leden toeneemt want een overeenkomst sluiten in een groep
 wordt moeilijker naarmate de groep groter wordt.
-
  How the size of an oligopoly affects
 the market outcome
-
-305
-
 • Uitkomst zonder kartel: elke aanbieder heeft de optie een extra
 eenheid water aan te bieden. Hij zal daarbij twee effecten afwegen:
 o Het hoeveelheidseffect: omdat de prijs boven de MK ligt, zal een
@@ -317,12 +217,8 @@ o Wanneer het hoeveelheidseffect groter is dan het prijseffect zal
 de aanbieder een extra eenheid aanbieden.
 o Wanneer het prijseffect groter is dan het hoeveelheidseffect zal
 de aanbieder geen extra eenheid meer aanbieden.
-
  How the size of an oligopoly affects
 the market outcome
-
-305
-
 • Uitkomst zonder kartel:
 o hoe meer ondernemingen aanbieden op een oligopoliemarkt, hoe
 minder impact elke individuele onderneming zal hebben op de
@@ -336,11 +232,7 @@ marktuitkomst zal gedreven worden naar de efficiënte
 marktuitkomst van perfecte concurrentie.
 o Op deze manier worden de baten van vrije handel (veel spelers
 globaal i.p.v. enkele spelers lokaal) geïllustreerd.
-
  Oligopolies and kinked demand curves
-
-306
-
 • Interdependence can cause price rigidities or price stickiness in
 oligopolistic markets.
 • Prijsrigiditeit kan voorkomen wanneer de aangeboden producten
@@ -355,11 +247,7 @@ het aangeboden product van beide spelers homogeen is, zal
 Jacques marktaandeel verliezen.
 o Dit leidt tot een individuele vraagcurve voor Jacques die zeer
 elastisch wordt boven een prijs van 40 euro.
-
  Oligopolies and kinked demand curves
-
-306
-
 o Veronderstel terug de situatie waarbij Jacques en Joelle 40 euro
 per eenheid vragen.
 o Indien Jacques nu de prijs zou verlagen naar 30 euro per eenheid
@@ -373,21 +261,13 @@ van de gevraagde hoeveelheid.
 o De proportionele toename in de gevraagde hoeveelheid is veel
 kleiner dan de verlaging van de prijs waardoor de inkomsten voor
 Jacques sterk dalen.
-
  Oligopolies and kinked demand curves
-
-306
-
 Fig. 16.1: Vraagcurve is geknikt door het strategisch prijsgedrag van de concurrentie.
 • In het elastische deel van de vraagcurve is een prijsverhoging niet interessant want
 het prijseffect is kleiner dan het hoeveelheidseffect.
 • In het inelastische deel van de vraagcurve is een prijsverlaging niet interessant
 want het hoeveelheidseffect is kleiner dan het prijseffect.
-
  Oligopolies and kinked demand curves
-
-306
-
 • Om toch marktaandeel proberen in te pikken, zullen ondernemingen
 in een oligopolie vaak streven naar vormen van niet-prijs
 concurrentie.
@@ -401,12 +281,8 @@ o Focus op kwaliteit, dienstverlening en leveringstijd
 o Verpakking, stijl en ontwerp van de producten
 o Bereikbaarheid en gemak van aankoop
 o Reclame en promotie en gebruik van merken
-
  2. Game theory and the economics of
 cooperation
-
-307
-
 • Speltheorie: de studie van strategische interactie tussen “spelers”.
 Economie, politieke wetenschappen, …
 o Met “strategisch” wordt een situatie bedoeld waarin elke persoon
@@ -420,23 +296,15 @@ o Resultatenmatrix (payoff matrix vb. Fig. 16.2)
 de spelers gekozen zal worden onder de veronderstelling dat elke
 speler zijn eigenbelang nastreeft.
 o
-
  2. Game theory and the economics of
 cooperation
 Voorbeeld van een resultatenmatrix:
 • Resultaat voor Jill staat linksonder in de cel, voor Jack rechtsboven.
 • Is er een Nash-evenwicht?
 Fig. gelijkaardig aan 16.2
-
-/
-
  The prisoners’ dilemma
-
-308
-
 Prisoners’ dilemma: a particular ‘game’ between two captured prisoners that
 illustrates why cooperation is difficult to maintain even when it is mutually beneficial.
-
 • Twee criminelen Bonnie en Clyde worden opgepakt door de politie en krijgen één
 jaar gevangenisstraf wegens verboden wapenbezit.
 • De politie vermoedt echter dat zij beiden een bankoverval hebben gepleegd maar
@@ -449,16 +317,11 @@ o Indien jouw partner echter ook bekent, krijgen jullie beiden een celstraf van 
 jaar.
 • Bonnie en Clyde hebben de keuze tussen 2 strategieën: bekennen of niet bekennen.
 • Wat is de uitkomst van dit gevangenendilemma?
-
  The prisoners’ dilemma
-
-309
-
 • Bekennen is een dominante strategie.
 • Dominant strategy: a strategy that is best for a player in a game regardless of the
 strategies chosen by the other players.
 Fig. gelijkaardig aan 16.3
-
 • Beide spelers zullen
 bekennen en krijgen
 elk 8 jaar.
@@ -472,18 +335,13 @@ celstraf.
 vanuit individueel
 standpunt
 irrationeel.
-
  Oligopolies as a prisoners’ dilemma
-
-310
-
 • De spanning tussen eigenbelang en coöperatie (samenwerking) geïllustreerd door
 het gevangenendilemma is gelijkaardig aan de spanning tussen ondernemingen in
 een oligopolistische marktstructuur.
 • Veronderstel 2 landen die olie verkopen: zij sluiten een overeenkomst om de
 olieproductie te beperken om zo de prijs hoog te houden.
 • Beide spelers
-Fig. 16.4
 hebben er
 individueel belang
 bij om af te wijken
@@ -494,11 +352,7 @@ dominante strategie
 voor elke speler?
 • Wat is de uitkomst
 van dit spel?
-
  Oligopolies as a prisoners’ dilemma
-
-310
-
 • De spanning tussen eigenbelang en coöperatie maakt dat een
 overeenkomst aangegaan door ondernemingen in een
 oligopoliemarkt met als doel het nastreven van de maximale
@@ -508,12 +362,8 @@ maar irrationeel vanuit een individueel standpunt.
 • Nochtans gaat door het nastreven van het eigenbelang elke
 onderneming uiteindelijk een slechter resultaat bereiken dan indien
 elke onderneming zich aan de afspraak hadden gehouden.
-
  Other examples of the prisoners’
 dilemma
-
-310
-
 • Advertising: Elke bedrijf verkiest reclame te maken. Nochtans zou elk bedrijf
 meer winst maken door geen reclame te maken.
 • Vraag: De overheid verbiedt reclame voor tabak. Hierdoor spaart elke
@@ -521,21 +371,13 @@ tabaksproducent de kosten voor reclame uit zonder marktaandeel te verliezen.
 Is dit een goede
 Fig. gelijkaardig aan 16.5
 zaak voor de tabaksproducenten?
-
  Other examples of the prisoners’
 dilemma
-
-311
-
 • Common resources: Vaak worden natuurlijke bronnen teveel uitgeput en is er
-•
-
 overbezetting (niet efficiënt).
 Elk bedrijf zou voldoende hebben aan één oliebron (de kost om een put te
 boren, bedraagt 1 miljoen) en zo zijn winst maximaliseren.
-
 Fig. gelijkaardig aan 16.6
-
 • Twee putten
 boren, is echter
 een dominante
@@ -547,324 +389,55 @@ gezamenlijke
 winst én een
 lagere individuele
 winst.
-
  Nash-equilibrium
-
-/
-
 Productievolume pralineproducent 2
-2.000
-
-3.000
-815
-
 Productievolume pralineproducent 1
-
-6.000
-
-11.330
-10.515
-
-4.000
-
-5.000
-
-6.000
-
-1.615
-1.915
-1.715
-1.015
-10.630
-9.430
-7.730
-5.530
-9.015
-7.515
-6.015
-4.515
-
-5.000
-
-1.315
-2.365
-2.915
-2.965
-2.515
-12.080
-11.880
-11.180
-9.980
-8.280
-10.765
-9.515
-8.265
-7.015
-5.765
-
-4.000
-
-1.815
-3.115
-3.915
-4.215
-4.015
-11.800
-12.100
-11.900
-11.200
-10.000
-9.985
-8.985
-7.985
-6.985
-5.985
-
-3.000
-
-2.315
-3.865
-4.915
-5.465
-5.515
-10.545
-11.345
-11.645
-11.445
-10.745
-8.230
-7.480
-6.730
-5.980
-5.230
-
-2.000
-
-2.815
-4.615
-5.915
-6.715
-7.015
-8.030
-9.330
-10.130
-10.430
-10.230
-5.215
-4.715
-4.215
-3.715
-3.215
-
  Nash-equilibrium
-
-/
-
 • De resultatenmatrix geeft in elke cel de winst voor elke
-•
-•
-
-•
-
-•
-
 pralineproducent weer bij verschillende productievolumes.
 Uitzonderlijk staat in elk cel ook de gezamenlijke winst in het vet
 weergegeven in het midden van de cel.
 De gezamenlijke winst (kartelsituatie) is maximaal 12.100€.
-o Bij q1 = 4.000 en q2 = 3.000,
-o prijs = 5,25€ en w1 = 8.985 en w2 = 3.115
 De karteluitkomst is echter niet houdbaar omdat elke speler een
 prikkel heeft om af te wijken van de overeenkomst om zo de
 individuele winst te verhogen.
 De karteluitkomst of de groepsoptimale uitkomst is dus geen Nashevenwicht.
-
  Nash-equilibrium
-
-/
-
 Productievolume pralineproducent 2
-2.000
-
-3.000
-
 Productievolume pralineproducent 1
-
-815
-6.000
-
-11.330
-10.515
-
-4.000
-
-5.000
-
-6.000
-
-1.715
-1.915
-1.015
-1.615
-9.430
-7.730
-5.530
-10.630
-7.515
-6.015
-4.515
-9.015
-
-5.000
-
-2.365
-2.915
-2.965
-2.515
-1.315
-11.880
-11.180
-8.280
-12.080
-9.980
-5.765
-10.765
-9.515
-8.265
-7.015
-
-4.000
-
-1.815
-3.115
-3.915
-4.215
-4.015
-11.800
-12.100
-11.900
-11.200
-10.000
-9.985
-8.985
-7.985
-5.985
-6.985
-
-3.000
-
-2.315
-3.865
-5.515
-4.915
-5.465
-10.545
-10.745
-11.345
-11.645
-11.445
-8.230
-5.230
-7.480
-6.730
-5.980
-
-2.000
-
-2.815
-4.615
-5.915
-6.715
-7.015
-8.030
-9.330
-10.130
-10.430
-10.230
-5.215
-4.715
-4.215
-3.715
-3.215
-
  Nash-equilibrium
 • Kartelvorming levert hoogste gezamenlijke winst op.
-q1 = 4.000, q2 = 3.000 en w1+w2 = 12.100
 • Maar eenzijdig afwijken door producent 1 levert hem nog meer
 individuele winst op:
-o q1 = 5.000, q2 = 3.000, w1 = 9.515 > 8.985
 • Ook producent 2 kan zich individueel verbeteren door meer te
-produceren dan 3.000 (indien q1 = 5.000):
-o q1 = 5.000, q2 = 5.000, w2 = 2.965 > 2.365
 • Enkel in het punt q1 = 5.000, q2 = 5.000 heeft geen van beide
 producenten nog belang bij afwijken.
 o Dit is het Nash evenwicht.
 o Gezamenlijke winst is lager in het Nash evenwicht dan in de
-karteloplossing (9.980 < 12.100).
 o
-
-/
-
  Extra oefening(1): Nash-evenwicht
-
-/
-
 • Wat is het Nash-evenwicht in onderstaande resultatenmatrix gegeven
 dat het resultaat in elke cel het aantal bezoekers weergeeft?
 • Is dit Nash-evenwicht groepsoptimaal?
-
 W alib i
-
 Alle andere Belgische pretparken
 Investeren
 Niet investeren
-330.000
-300.000
 Investeren
-100.000
-
-110.000
-310.000
-
-325.000
 Niet investeren
-75.000
-
-90.000
-
  Extra oefening(2): Nash-evenwicht
-
-/
-
 • Wat is het Nash-evenwicht in onderstaande resultatenmatrix gegeven
 dat het resultaat in elke cel het nut weergeeft van Yoko en John die
 verliefd zijn?
 • Is dit het enige Nash-evenwicht?
 • Wat is het verwachte resultaat?
 John
-
 Yoko
-
 Trektocht
 Trektocht
 Citytrip
-
 Citytrip
-0
-
-5
-3
-
-0
-3
-
-2
-2
-
-5
-
  Extra oefening(3): Nash-evenwicht
-
 • Veronderstel dat jij met jouw buurman het spel “schaar, steen,
 papier” speelt. Teken de resultatenmatrix van dit spel met de
 mogelijke strategieën gegeven dat:
@@ -873,24 +446,14 @@ o Papier wint van steen.
 o Steen wint van schaar.
 • Is er een Nash-evenwicht?
 • Wat is het verwachte resultaat?
-
-/
-
  Besluit extra oefening Nash-evenwicht
-
-/
-
 • Een spel kan geen, één of meerdere Nash-evenwichten hebben.
 • In geval van geen of meerdere Nash-evenwichten is er geen
 verwacht resultaat maar is de uitkomst vaak afhankelijk van
 randcondities zoals de gelijktijdigheid van beslissen.
 • Een Nash-evenwicht kan samenvallen met de monopolie-uitkomst
 maar is echter vaak niet groepsoptimaal.
-
  Nash-equilibrium
-
-311
-
 • The definition of a Nash equilibrium is a point where no player can
 improve their position by selecting any other available strategy
 whilst others are also playing their best option and not changing their
@@ -900,12 +463,8 @@ be the best option in the long term.
 • Two questions arise from this:
 o Can any such agreement be enforced?
 o What happens if the game is repeated many times over?
-
  Cooperative and non-cooperative
 games
-
-312
-
 • Wanneer het spel herhaaldelijk gespeeld wordt, verhoogt de kost bij
 afwijken.
 • Het voordeel van de tijdelijk hogere winst bij afwijken weegt niet
@@ -918,12 +477,8 @@ winsten nl. een daling van 1800 naar 1600 euro)
 o handelsoorlogen, prijsoorlogen,
 o onderhandelingen over budgetten en lonen,
 o discussies over de milieu-problematiek, …
-
  The prisoners’ dilemma and the
 welfare of society
-
-313
-
 • A lack of cooperation is bad for the players but is it bad for society?
 • Answer depends on circumstances:
 o In the common resources game, the non-cooperative equilibrium
@@ -933,11 +488,7 @@ o In the case of oligopolists trying to maintain monopoly profits,
 lack of cooperation is good for the society since the more
 competitive outcome increases consumer surplus and the
 production quantity is closer to the efficient level.
-
  Why people sometimes cooperate
-
-314
-
 • Tacit collusion (stilzwijgende samenwerking): when firm
 behaviour results in a market outcome that appears to be anticompetitive but has arisen because firms acknowledge that they are
 interdependent.
@@ -947,27 +498,14 @@ hoog te houden.
 • Bvb. Warenhuis X signaleert met zijn promotie “de laagste prijs” aan
 andere supermarktketens dat als zij de prijs lager zetten, warenhuis X
 onmiddellijk zal volgen. Dit is een vorm van tacit collusion.
-
  3. Entry barriers in oligopoly
-
-316
-
 • Bespreek volgende toetredingsbelemmeringen in een oligopolie
-
-
-
-
-
 schaalvoordelen
 risico van hoge gezonken kosten cfr. reclame
 bestaan van patenten
 brand proliferation : cfr. Procter & Gamble die verschillende
 merken wasproducten aanbiedt
-
  4. Public policy toward oligopolies
-
-316
-
 • Soms kan de overheid bepaalde marktuitkomsten verbeteren zeker
 wanneer het samenspannen van oligopolisten leidt tot een nietallocatief efficiënte productie (onderproductie).
 • Concurrentiewetgeving: Wettelijk toezicht op vrije handel en
@@ -979,11 +517,7 @@ de EU-lidstaten.
 • Voorbeeld: In 2012 werden Philips en zes andere tv-fabrikanten
 beboet voor verboden prijsafspraken over televisieonderdelen.
 Philips moest honderden miljoenen euro's betalen.
-
  Controversies over competition policy
-
-317
-
 • Welk gedrag moet de concurrentiewetgeving verbieden?
 • De meerderheid gaat akkoord dat prijsafspraken tussen
 concurrerende ondernemingen illegaal is.
@@ -996,11 +530,7 @@ o roofprijszetting
 (predatory pricing)
 o bindingsprijzen
 (tying)
-
  Resale price maintenance
-
-317
-
 • Een producent stelt een leveringscontract op met de kleinhandelaar
 op voorwaarde dat de kleinhandelaar zich aan de opgelegde vaste
 verkoopprijs houdt, opgelegd door de producent.
@@ -1012,11 +542,7 @@ kleinhandelaars beschermd die dit promotiemateriaal en de
 dienstverlening aanbieden tegenover kleinhandelaars die dit niet
 aanbieden en aldus het product goedkoper zouden kunnen
 aanbieden. Het voorkomt free-riding tussen kleinhandelaars.
-
  Predatory pricing
-
-318
-
 • Een bedrijf met veel marktmacht kan de prijs substantieel hoger
 zetten dan de marginale kost.
 • Tegelijkertijd kan zo een bedrijf bij mogelijke toetreding door een
@@ -1030,11 +556,7 @@ die bedrijven met het grootste marktaandeel.
 • Economisten hebben geen eenduidig beeld over het feit of een lage
 prijszetting eerder een roofprijszetting is dan wel een concurrerende
 prijs is.
-
  Tying
-
-318
-
 • De producent vraagt één prijs voor het aanbod van twee of meerdere
 producten samen = bundeling.
 • Kritiek: manier om een weinig gevraagd product te koppelen met een
@@ -1048,7 +570,6 @@ bundel enkel hun betalingsbereidheid voor de twee producten
 afwegen. Aldus kan de producent geen hogere prijs vragen voor de
 bundel van twee producten dan de prijs van één product indien de
 consument niet bereid is te betalen voor het tweede product.
-
  Bundeling als een vorm van
 prijsdiscriminatie
 • Zuivere bundeling:
@@ -1064,49 +585,23 @@ In België is bundeling op de rand van het toelaatbare.
 o Koppelverkoop (vb. GSM én abonnement) was enkele jaren
 geleden bij wet verboden.
 o
-
-•
-•
-•
-•
-
-/
-
  Bundeling als een vorm van
 prijsdiscriminatie
-
-/
-
 • Voorbeeld bundeling van hotelkamer en taxirittenkaart: citytrips naar Brussel
-
-•
-
 voor levensgenieters en kunstliefhebbers.
 o Kunstliefhebbers hebben een hogere waardering voor een taxirittenkaart
 en een lagere waardering voor een (zelfde) hotelkamer.
 o Levensgenieter andersom.
 Een bundel aanbieden voor 125€ leidt tot meer inkomsten dan apart een
 hotelkamer voor 85€ en een taxirittenkaart voor 20€ aanbieden.
-o 2x125 = 250 > 210 = 2x85 + 2x20
-
 Type toerist
 Kunstliefhebber
 Levensgenieter
-
 Betalingsbereidheid voor een
 hotelkamer
-85
-120
-
 Betalingsbereidheid voor een
 taxirittenkaart
-40
-20
-
  5. Conclusion
-
-319
-
 • Een oligopoliemarkt kan zich gedragen als een monopolie maar
 eigenbelang drijft de marktuitkomst naar een meer competitieve
 marktuitkomst
@@ -1118,14 +613,6 @@ nadeel van ondervinden.
 • De overheid probeert het gedrag van oligopolisten te controleren via
 concurrentiewetgeving waarbij er soms vaak discussie ontstaat tussen
 wat legaal of illegaal is.
-
  Recommended excercises
-
 Chapter 16:
-
-- Questions for review p. 321: 1-2-3-4
 - Problems and applications p. 321-323: 1-4-5-7
-
-321-323
-
- 

@@ -1,298 +1,284 @@
-Theorie & praktijk
-v/h grammaticaal
-onderzoek
-I. Bronnen voor de
-studie van de
-syntaxis
-1
-
- A. Twee
-belangrijke
-grammatica’s
-
-2
-
- Algemene Nederlandse
-Spraakkunst (ANS)
-
-
-Referentiegrammatica v/h
-hedendaagse
-Standaardnederlands
- 1984: eerste uitgave (ANS1)
- 1997: tweede, volledig
-herziene uitgave (ANS2)
- sinds 2002: ANS2 gratis
-online beschikbaar, via
-https://ans.ruhosting.nl/
-
-3
-
- Algemene Nederlandse
-Spraakkunst (ANS)
-
-
-20 april 2021: lancering van ANS3
-
-volledig vernieuwde digitale omgeving
- eerste drie inhoudelijk volledig herziene
-hoofdstukken
- periode 2021-2026: inhoudelijke herwerking
-resterende hoofdstukken
-
-4
-
- Waarom een nieuwe ANS?
-1) Grammatica zelf verandert
- Voorbeeld: een nieuw zelfstandig gebruik van het
-adjectief
-
-
-Bekende gebruiken:
-
-
-
-Je hebt heel slimme voetballers en ook heel domme.
-A. Wil je me dat boek eens geven? B. Dat rode? A. Nee, dat
-blauwe.
-
-+
-
-
-
-Dat is nu het dwaze van de hele zaak.
-Doe altijd het goede.
-
-Zie ANS2, par. 6.3.1.3 & par. 12.3.1.4
-5
-
- Waarom een nieuwe ANS?
-
-
-
-
-Je bent ook dichter. Schrijf je je poëzie op vaste tijden? Er
-zijn dichters die er een vaste routine van maken, maar
-anderen moeten het dan weer hebben van ‘het juiste
-moment’. Hoe zit dat bij jou?
-Ja, dat is een lastige. Bij mij is het tot nog toe zo dat
-gedichten komen als ze komen…
-(https://www.gentleest.be/, gepubliceerd op 5/12/2020)
-Maar dat gebrek aan slaap is wel een moeilijke. 's
-Morgens denk je toch: weer een paar dagen van mijn leven
-afgeknabbeld.
-(www.kw.be, gepubliceerd op 8/4/2020)
-
-6
-
- Waarom een nieuwe ANS?
-
-
-Maar geestelijk wel: ik had het idee dat ik actief aan mijn
-blessure werkte.
-Ja, dat is een belangrijke, ja - ik wil ook graag wat dóen
-zelf altijd.
-(www.triathlonforum.nl, 16/11/2019)
-
-7
-
- Waarom een nieuwe ANS?
-2) Kennis over grammatica neemt toe
- Bv. 14/04/2021:
-Web of Science, trefwoorden “Dutch” + “Grammar”
-OR “Grammatical” OR “Syntax” OR “Syntactic” in
-periode 1997-2021: 1,008 relevante publicaties
-(enkel in toonaangevende internationale
-wetenschappelijke tijdschriften)
-
-8
-
- Waarom een nieuwe ANS?
-3) Visies op de status van allerlei verschijnselen
-evolueren
-
-
-
-
-bv. een constructie die in 1997 nog als “informeel” werd
-gelabeld, kan in 2021 als deel van de neutrale
-standaardtaal worden aangevoeld
-bv. een typisch Belgisch verschijnsel dat in 1997 nog als
-“regionaal” werd gelabeld, kan in 2021 als deel van de
-Belgische variëteit van de standaardtaal worden gezien
-(meer over pluricentrisme in college 3/5)
-
-9
-
- Syntax of Dutch (SoD)
-
-
-Engelstalige grammatica in
-acht delen, 2012-2019
-
-
-
-
-
-
-
-
-
-Nouns and Noun Phrases, 2 delen
-Verbs and Verb Phrases, 3 delen
-Adjectives and Adjective Phrases
-Adpositions and Adpositional
-Phrases
-Coordination and Ellipsis
-
-Volledig online beschikbaar via
-taalportaal.org
-10
-
- Verschillende grammatica’s
-ANS
-
-SoD
-
-Nederlandstalig
-
-Engelstalig
-
-breed doelpubliek: leerders,
-leraren, vertalers,
-eindredacteurs, enz.
-
-academisch doelpubliek
-(incl. Nederlandsonkundigen)
-
-(zo) theorieneutraal
-(mogelijk)
-
-vanuit het perspectief van
-de generatieve grammatica
-
-weinig of geen
-literatuurverwijzingen in
-lopende tekst
-
-verwijzingen naar relevante
-wetenschappelijke literatuur
-
-Hedendaags
-Standaardnederlands,
-inclusief variatie binnen de
-ST
-
-systematische beschrijving
-van (westelijke)
-Nederlandse Nederlands,
-uitstappen over andere
-variëteiten
-
-ook fonologie en morfologie
-
-alleen syntaxis
-11
-
- B. Korte demo:
-werken
-met een
-taalkundig
-corpus
-12
-
- Wat is een corpus?
-Brede zin: om het even welke selectie van
-authentieke geschreven of gesproken tekst
- Specifiekere zin: een grote, elektronisch
-doorzoekbare verzameling tekst die speciaal met
-het oog op taalkundig onderzoek is samengesteld
-“[…] a corpus is a collection of (1) machinereadable (2) authentic texts (…) which is (3)
-sampled to be (4) representative of a particular
-language or language variety.” (McEnery et al.
-2006:5)
-
-
-13
-
- Enkele Nederlandse
-corpora
-
-
-
-
-Corpus Gesproken Nederlands (CGN):+/- 10
-miljoen woorden gesproken
-Standaardnederlands uit NL en VL van in het
-begin van de 21ste eeuw
-SoNaR-corpus: +/- 500 miljoen woorden
-geschreven Standaardnederlands uit NL en
-VL (uit allerlei teksttypes) van het eind van
-de 20ste en begin 21ste eeuw
-
-14
-
- Taalkundige verrijking
-(“annotatie”)
-
-
-Corpora zijn vaak voorzien van automatische
-taalkundige annotatie:
-
-
-
-
-
-
-lemmatisering: alle (vervoegde, verbogen, enz.) vormen
-zijn gekoppeld aan een lexeem
-bv. zoeken naar alle vormen van verkopen of slim
-POS-tagging: aan alle vormen is een woordsoort
-toegekend
-bv. zoeken naar alle voorkomens van zijn als
-voornaamwoord
-(veel minder vaak): syntactische annotatie (“treebanks”)
-bv. zoeken naar zinnen met een nominaal object plus een
-prepositioneel object
-15
-
- Waarom?
-
-
-
-
-Corpora bieden toegang tot informatie over het
-daadwerkelijke taalgebruik
-Bijvoorbeeld: drie taalkundige vragen
-
-
-
-
-
-
-Boris komt in een hedendaagse roman (Een honger van Jamal
-Ouariachi) het woord schoftocratie tegen en vraagt zich af of er nog
-zulke creatieve nieuwvormingen op -cratie voorkomen.
-Bart is benieuwd of Vlamingen als ze standaardtaal spreken soms de
-constructie met dubbel deelwoord in “Ik ben geslagen geweest”
-gebruiken
-Brenda wil weten of er na “een aantal N” in het hedendaagse
-verzorgde taalgebruik nu vaker een meervoudige of vaker een
-enkelvoudige persoonsvorm wordt gebruikt.
-
-16
-
- Zelf doen?
-
-
-
-
-
-Toegang (van binnen het Ugentdomein) via
-opensonar.inl.nl
-Ghent University aanklikken als instelling
-Veel plezier!
-
-17
-
- 
+Aanvullingen
+Responsie op
+ingangssignalen en begintoestand
+Responsie berekenen
+• Gegeven toestandsbeschrijving (A, B, C, D) ,
+• Toestandsbeschrijving
+• Exhaustieve berekening van x[k] en y[k]
+Voorbeeld
+Gegeven
+“Oplossen” toestandsvergelijking
+• Gegeven toestandsbeschrijving, u[k] en x[0], wat zijn x[k] en y[k] ?
+• Toestandsbeschrijving
+A
+Algemeen:
+• Uitgangssignaal
+Nulingangs- en nultoestandsrespons
+Nulingangsresponsie
+Nultoestandsresponsie
+• Nulingangsresponsie: y[k] als u[k]
+• Nultoestandsresponsie: y[k] als x[0] = 0
+Toestandsbeschrijving en
+gelijkvormige matrices
+Toestandsbeschrijving is niet uniek
+, np] een nxn inverteerbare matrix
+– Is verandering van coördinaten: w[k] zijn de coordinaten van x[k] in de
+basis {p
+Toestandsbeschrijving is niet uniek
+• In de nieuwe toestandsvector w[k] hebben we een
+equivalente toestandsbeschrijving:
+A en zijn gelijkvormig
+• Beide systemen zijn equivalent. Let wel op initiële
+toestand. Nulingangsresponsie:
+Zorg ervoor dat P w[0] = x[0], dan is ook P w[k] = x[k]
+voor k>0, en dus y[k]=
+Voorbeeld
+D
+D
+Voorbeeld (2)
+Kies
+zodat x[k] = P w[k]
+D
+D
+Toestandsbeschrijving en
+matrixdiagonalisatie
+Diagonaalvorm
+• Veronderstel dat A diagonaliseerbaar is
+• Kies P =1,[v... , nv] met iveigenvector van A met
+eigenwaarde
+• Voor SISO systeem:
+• Toestand i beinvloedt toestand
+≠i niet
+j
+Diagonaalvorm voor SISO systeem
+• Som van
+eerste-orde
+systemen
+• Plus directe
+verbinding
+met winst̅+
+Voorbeeld
+D
+D
+Minimaliteit
+Voor sommige systemen kan een
+/ * = 0. De toestandsveranderlijke
+wi[k] kan dan niet beïnvloed
+worden. Het systeem is niet
+controleerbaar.
+Voor sommige systemen kan een
+0̅* = 0. De toestandsveranderlijke
+wi[k] kan de uitvoer niet
+beïnvloeden. Het systeem is niet
+observeerbaar.
+Een systeem dat niet observeerbaar
+en/of niet controleerbaar is heet
+niet-minimaal. Hetzelfde ingangsuitgangsgedrag kan gerealiseerd
+worden met een kleiner aantal
+geheugenelementen.
+Inwendige (interne) stabiliteit
+• Een systeem is inwendig stabiel →
+als0 x[k]
+als k
+k
+w λnk vn
+• Inwendig instabiel zodra één
+• Inwendig stabiel
+Nulingangsresponsie
+Nulingangsresponsie
+Nultoestandsresponsie
+• Ak x[0] bestuderen
+A
+(c = rijvector; SISO system)
+Nulingangsresponsie
+k
+w λnk vn
+basis {v
+= P-1 x[k] is de coördinatenvector van x[k] in de
+k
+basis {v
+is een gewogen som van exponentiële functies in k
+Nulingangsresponsie
+Bijdragen tot nulingangsresponsie
+Attractor / aantrekker
+Inwendig stabiel
+Repeller / afstoter
+Inwendig onstabiel
+Saddle point / zadelpunt
+Inwendig onstabiel
+Complexe eigenwaarden
+ω is genormaliseerde frequentie. 0 < 7 < 1
+• Eigenvectoren
+i en
+i
+• Neem complex toegevoegde termen samen in
+E
+een reële rijvector;
+ccis
+E
+Re
+G
+Complexe eigenwaarden (2)
+G
+• Bijdrage door complexe eigenwaarde in y[k] is
+product van:
+k - zie
+o Exponentieel verloop
+r reële eigenwaarde
+o Golvend verloop (K
+cos
+Complexe eigenwaarden
+Inwendig stabiel
+Bijdrage tot nulingangsresponsie
+Canonieke vorm en
+differentievergelijking
+Canonieke vorm
+• Zoek transformatiematrix 1Q
+q] zodat door de
+n
+M
+gelijkvormigheidstransformatie:
+M
+R
+Mnoemen we een compagnon-matrix
+Men A hebben dezelfde K.P. want gelijkvormig
+• Constructie van Q – zie later
+Waarom die Ã O
+en
+Constructie van Q
+2de vergelijking:T
+T
+Constructie van Q
+U
+T
+PQ
+PQ
+Waarom die Ã O
+en
+w
+w
+w
+w
+w
+w
+w
+Waarom die Ã O
+en
+Dus:
+Uitgangsvergelijking:
+Herschrijf:
+w1[k] elimineren
+Differentievergelijking
+O
+O
+f
+• Rechtstreeks verband tussen u[k] en y[k]
+• Dit heet een differentievergelijking
+• Alternatief voor de toestandsbeschrijving
+• Is een verband tussen differentievergelijking en canonieke vorm
+• M.a.w.: gegeven een differentievergelijking
+f
+f
+f
+Dan komen daarmee toestandsbeschrijvingen overeen die allemaal dezelfde K.P.
+hebben:%! + PQ
+R
+• Ook: gegeven een toestandsbeschrijving (A, b, c, d), dan komt daarmee een
+differentievergelijking overeen waarbij
+dedeã coëfficiënten van de K.P.
+i ook
+van A zijn
+Voorbeeld
+X
+Y
+X
+Y
+Z
+PQ
+PQ
+Voorbeeld
+O
+Met Q =
+, canonieke vorm:
+D
+D
+Voorbeeld
+PQ
+D
+D
+de differentievergelijking gehaald uit de canonieke vorm
+Impulsresponsie en convolutie
+Impulsresponsie
+• Doel: berekenen van de responsie. We hadden al:
+Exhaustief
+• Nultoestandsimpulsrespons (impulsrespons) h[k] van
+een SISO DTLTI systeem is y[k] wanneer
+k
+k
+k
+Verschoven impuls
+k
+k
+k
+k
+Ontbinding u[k]
+Lineair en tijdsinvariant
+Convolutie
+• Formeel
+d
+efd
+d
+b
+Lineair
+Tijdsinvariant
+• Voor een systeem dat uit de nultoestand vertrekt !
+• y[k] is de convolutie van u[k] en h[k]
+• Uitvoer is convolutie van invoer en impulsresponsie
+Convolutie
+Neutraal element: a[k]
+Lineair:
+• Enkelzijdige signalen a[k] = b[k] = 0 voor k<0 :
+d
+E
+=aPb
+efd
+efR
+• Causaal systeem: h[k] = 0 voor k<0
+Geen respons vóór de excitatie
+Impulsresponsie
+Nulingangsresponsie
+Nultoestandsresponsie
+2 term blijft enkel index j=0 staan
+de term:
+cA
+b
+Voorbeeld
+d
+E
+E
+E
+E
+steorde
+Impulsresponsie van
+1 systeem
+b
+D
+c
+k
+op
+E
+cb
+c
+q
+E
+E
+E
+Vorm impulsresponsie
+cAvoor k > 0
+• Zelfde bespreking als nulingangsresponsie
+steorde systeem:λk-1
+cb, zie boven
+• Voor diagonaliseerbare A, som van:
+o Exponentiëel verloop
+λ complex)
+o Schommelend exponentiëel verloop

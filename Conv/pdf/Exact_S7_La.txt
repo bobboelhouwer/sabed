@@ -1,116 +1,25 @@
-9/09/2017
-
 Kwadratische vormen
 Een kwadratische vorm op »n is een functie Q(x) =
 xTAx ∈ » met A een symmetrische n×n matrix
-   
-A=    
-   
-Q(x)=ax12+ dx22 +fx32+2bx1x2+2cx1x3+2ex2x3
-
-1
-
- 9/09/2017
-
 Kwadratische vormen
 Diagonaliseer A = PDPT ⇒ Q(x) = xTPDPTx = yTDy
-o y = [x]U (ga over op basis U={u1 , ... , un} ): x = Py met
 P=[u1 ... un] orthogonaal en dus y = P-1x = PTx
 o yTDy = λ1y12 + ... + λnyn2 heeft geen kruistermen
 o u1 , ... , un zijn de hoofdassen van de kwadratische vorm
-
 Voorbeeld 1
-Q(x) = xT
-
-5
- 2
-
- 2
 x
-5
-
-= xT
-
-3
-0
-
-0
-7
-
 x
-
-= yTDy = 3 y12 + 7 y22
 Hoofdassen volgens e.v.
-
-,
-
 Q(x)=c is de vergelijking van een ELLIPS
-
-2
-
- 9/09/2017
-
 Voorbeeld 2
-Q(x) = xT
-
-= xT
-
-1  4
 x
- 4  5
- 
- 
-
- 
- 
-
-3
-0
-
-0
- 7
-
- 
-
- 
-
- 
-
 x
-
- 
-
-= yTDy = 3 y12 - 7 y22
 Hoofdassen volgens e.v.
-
- 
- 
-
-,
-
- 
- 
-
 Q(x)=c is de vergelijking van een HYPERBOOL
-
 Nomenclatuur
 Kwadratische vorm Q(x) is:
-• Positief definiet: Q(x) > 0 ∀ x≠0, alle λi > 0
-• Negatief definiet: Q(x) < 0 ∀ x ≠0, alle λi < 0
-• Positief semi-definiet: Q(x) ≥ 0 ∀ x, alle λi ≥ 0
-• Negatief semi-definiet: Q(x) ≤ 0 ∀ x, alle λi ≤ 0
 • Indefiniet anders, positieve en negatieve λi
 • Hetzelfde wordt gezegd van A (symmetrisch)
-
-3
-
- 9/09/2017
-
 Voorbeelden
 Pos. def. ; Pos. semidef.
-
 Indef. ; Neg. Def.
-
-4
-
- 

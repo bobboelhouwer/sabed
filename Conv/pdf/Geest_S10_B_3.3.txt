@@ -17,1377 +17,179 @@ Telwoorden
 Bijwoorden
 Tussenwerpsels
 Dwarsverbanden
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
  De gesloten woordsoorten: Lidwoorden
-
-./
-
-.
-
 de tafel
 het kind
-
 de tafels
 de kinderen
-
 ∅ tafels
 ∅ kinderen
-
 een tafel
 een kind
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
  De gesloten woordsoorten: Lidwoorden
-
-./
-(11)
-
-.
-
 de tafel
 het kind
-
 de tafels
 de kinderen
-
 ∅ tafels
 ∅ kinderen
-
 een tafel
 een kind
-
 a. *Er loopt de vrouw/het kind over het plein.
 b. *Er lopen de vrouwen/de kinderen over het plein.
 c. Er loopt een vrouw/een kind over het plein.
 d. Er lopen vrouwen/kinderen over het plein.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
  De gesloten woordsoorten: Lidwoorden
-
-./
-(11)
-
-.
-
 de tafel
 het kind
-
 de tafels
 de kinderen
-
 ∅ tafels
 ∅ kinderen
-
 een tafel
 een kind
-
 a. *Er loopt de vrouw/het kind over het plein.
 b. *Er lopen de vrouwen/de kinderen over het plein.
 c. Er loopt een vrouw/een kind over het plein.
 d. Er lopen vrouwen/kinderen over het plein.
-
-(12)
-a.
-b.
-
 Een/De dino was een zoogdier.
 Dino’s/?De dino’s waren zoogdieren.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
  De gesloten woordsoorten: Lidwoorden
-
-./
-(11)
-
-.
-
 de tafel
 het kind
-
 de tafels
 de kinderen
-
 ∅ tafels
 ∅ kinderen
-
 een tafel
 een kind
-
 a. *Er loopt de vrouw/het kind over het plein.
 b. *Er lopen de vrouwen/de kinderen over het plein.
 c. Er loopt een vrouw/een kind over het plein.
 d. Er lopen vrouwen/kinderen over het plein.
-
-(12)
-a.
-b.
-
 Een/De dino was een zoogdier.
 Dino’s/?De dino’s waren zoogdieren.
-
-(13)
 a. De/*Een dino is uitgestorven.
 b. ?Dino’s/De dino’s zijn uitgestorven.
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
  De gesloten woordsoorten: Pronomina
-▶
-
-pro + nomen // voor + naamwoord
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
+▶ pro + nomen // voor + naamwoord
  De gesloten woordsoorten: Pronomina
-▶
-
-pro + nomen // voor + naamwoord
-(14)
-
+▶ pro + nomen // voor + naamwoord
 Jan zegt dat hij moe is.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
  De gesloten woordsoorten: Pronomina
-▶
-
-pro + nomen // voor + naamwoord
-(14)
-
+▶ pro + nomen // voor + naamwoord
 Jan zegt dat hij moe is.
-
-(15)
-
 Ik ben moe.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
  De gesloten woordsoorten: Pronomina
-▶
-
-pro + nomen // voor + naamwoord
-(14)
-
+▶ pro + nomen // voor + naamwoord
 Jan zegt dat hij moe is.
-
-(15)
-
 Ik ben moe.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
  De gesloten woordsoorten: Pronomina
-▶
-
-pro + nomen // voor + naamwoord
-(14)
-
+▶ pro + nomen // voor + naamwoord
 Jan zegt dat hij moe is.
-
-(15)
-
 Ik ben moe.
-
-(14)
-(15)
-
-✓
-*
-
-✓
-✓
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
  De gesloten woordsoorten: Pronomina
-▶
-
-pro + nomen // voor + naamwoord
-(14)
-
+▶ pro + nomen // voor + naamwoord
 Jan zegt dat hij moe is.
-
-(15)
-
 Ik ben moe.
-
-(14)
-(15)
-?
-
-✓
-*
-✓
-
-✓
-✓
-*
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
  De gesloten woordsoorten: Pronomina
-▶
-
-pro + nomen // voor + naamwoord
-(14)
-
+▶ pro + nomen // voor + naamwoord
 Jan zegt dat hij moe is.
-
-(15)
-
 Ik ben moe.
-
-(14)
-(15)
-?
-?
-
-✓
-*
-✓
-*
-
-✓
-✓
-*
-*
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
  De gesloten woordsoorten: Pronomina
-▶
-
-pro + nomen // voor + naamwoord
-(14)
-
+▶ pro + nomen // voor + naamwoord
 Jan zegt dat hij moe is.
-
-(15)
-
 Ik ben moe.
-
-(14)
-(15)
-?
-?
-(16)
-
-✓
-*
-✓
-*
-
-✓
-✓
-*
-*
-
 Harry Potter zegt dat hij moe is.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
  De gesloten woordsoorten: Pronomina
-▶
-
-pro + nomen // voor + naamwoord
-(14)
-
+▶ pro + nomen // voor + naamwoord
 Jan zegt dat hij moe is.
-
-(15)
-
 Ik ben moe.
-
-(14)
-(15)
-?
-?
-
-✓
-*
-✓
-*
-
-✓
-✓
-*
-*
-
-(16)
-
 Harry Potter zegt dat hij moe is.
-
-(17)
-
 Niemand zegt dat hij moe is.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
  De gesloten woordsoorten: Pronomina
-▶
-
-pro + nomen // voor + naamwoord
-(14)
-
+▶ pro + nomen // voor + naamwoord
 Jan zegt dat hij moe is.
-
-(15)
-
 Ik ben moe.
-✓
-*
-✓
-*
-
-(14)
-(15)
-?
-?
-
-✓
-✓
-*
-*
-
-(16)
-
 Harry Potter zegt dat hij moe is.
-
-(17)
-
 Niemand zegt dat hij moe is.
-
-(18)
-
 Het regent.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
  Persoonlijke voornaamwoorden
-
-.
-
-1°
-2°
-3°
-
-.
-.
-.
-
-.
-
-1°
-2°
-3°
-
 ik
 jij/u
 hij
 zij
 het
-
-‘k
 je
 ie
 ze
-’t
-
 mij
 jou/u
 hem
 haar
 het
-
 me
 je
-’m
-ze/d’r/’r
-’t
-
 wij
 jullie/u
 zij
-
 we
-—
 ze
-
 ons
 jullie/u
 hen/hun
-
-—
-—
 ze
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
  Bezittelijke voornaamwoorden
-
-.
-
-.
-
-1°
-2°
-3°
-1°
-2°
-3°
-
-./
-.
-
-.
-
 mijn
 jouw/uw
 zijn
 haar
-
-m’n
 je
-z’n
-d’r/’r
-
 de/het mijne
 de/het jouwe/uwe
 de/het zijne
 de/het hare
-
 ons/onze
 jullie/uw
 hun
-
-—
 je
-—
-
 de/het onze
 de/het uwe
 de/het hunne
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
  Aanwijzende voornaamwoorden
-+
 degene/diegene
 datgene
-—
-
-—
-
 deze/dit
 die/dat
 zulk(e)
 die-/datzelfde
 de-/het-/eenzelfde
 zoveel/evenveel
-
-.
-
-—
 zo’n, soortgelijk(e)
 dergelijk(e)
 dusdanig(e)
 zoveelste
-
-.
-
-.
-
-.
-
-.
-
-.
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
  Vragende voornaamwoorden
-+
 wie, wat
 wat, wat voor één
-—
-
 welk(e)
-—
 hoeveel
-
 wiens
 wat voor (een)
 de/het hoeveelste
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
  Betrekkelijke voornaamwoorden
-
-./
-
-.
-
 de vrouw
-
-.
-
 al
 het boek
 al
 diegene
-
-.
-./
-
 die ik zie
 met wie ik sprak
 wie mij lie eeft
 dat ik lees
 wat ik lees
 wiens naam me ontsnapt
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
  Betrekkelijke voornaamwoorden
-(19)
-a.
-b.
-
-c.
-d.
-
 Wie het weet, mag het zeggen.
 = Diegene die het weet, mag het zeggen.
 Ik heb wat je geschreven hebt nog niet gelezen.
@@ -1397,49 +199,3 @@ Wie mij lie eeft volge mij.
 = Iedereen die mij lie eeft volge mij.
 Wat jij schrijft lees ik onmiddellijk.
 = Alles wat jij schrijft lees ik onmiddellijk.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
- 

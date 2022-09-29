@@ -13,6 +13,7 @@ foreach my $file (@files) {
     my $newfile = `pdftotext tmp.pdf -`;
     #    my $newfile = `perl pptx2txt.pl $file -`;
     $newfile = filter::contrchr ($newfile);
+    $newfile = filter::formulas ($newfile);
     printResult ($file, $newfile);
 }
 

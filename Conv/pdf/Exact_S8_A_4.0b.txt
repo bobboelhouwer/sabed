@@ -1,442 +1,202 @@
 6. Nucleofiele substitutie en eliminatie
 ✓ twee belangrijke reactietypen (ook biologisch)
 ✓ geïllustreerd aan de hand van halogeenalkanen
-
 6.1 Nomenclatuur van halogeenalkanen
 • halogeen = substituent op alkaanketen (voorvoegsel)
 • plaats met nummer aangeven
 • triviaalnamen voor eenvoudige halogeenalkanen
-
 Nucleofiele substitutie en eliminatie
-
-1
-
  ✓ primair, secundair, tertiair halogeenalkaan
-
 ✓ halogeenalkanen veel gebruikt als industriële
 oplosmiddelen (zeer goede oplosmiddelen en weinig
 brandbaar)
 ✓ halogeenalkanen komen weinig voor in natuur
 (algemene giftigheid!)
-
 Nucleofiele substitutie en eliminatie
-
-2
-
  6.2 Nucleofiele substitutie (SN) en eliminatie (E)
 • polaire C-X binding, heterolytische doorbraak
-
 • nucleofiel (kernminnend): :Z-, :Nu-, :Blewisbase, elektronenpaardonor
-
 Nucleofiele substitutie en eliminatie
-
-3
-
  6.3 De nucleofiele substitutie
 • vervanging X- door Nu-
-
 • voorbeelden nucleofiele substitutiereacties:
-
 Nucleofiele substitutie en eliminatie
-
-4
-
  • voorbeelden nucleofiel:
-
 Elektronenrijk deeltje
-
 Goed nucleofiel ? (Een ‘goed’ nucleofiel reageert sneller.)
-
 :Nu-  als basiciteit 
-
 als solvatatie 
 als polariseerbaarheid 
-
-OH- > H2O
-Cl- > I- (*)
-I- > F-
-
 (*) Cloride is meer gesolvateerd dan jodide, dus
-
 jodide is sterker nucleofiel
-
 Nucleofiele substitutie en eliminatie
-
-5
-
  Relatieve reactiesnelheid van SN
-:Nu- + MeI → …
 (* MeOH als referentie)
-
 Volgorde
-
 Nucleofiel
-
 sterk
 goed
-
-I-, HS-, RSBr-, HO-,
-RO-, CN-, N3NH3, Cl-, F-, RCO2H2O, ROH
 RCO2H
-
 matig
 zwak
 zeer zwak
-
 Nucleofiele substitutie en eliminatie
-
 Relatieve
 snelheid*
->105
-104
-103
-1
-10-2
-
-6
-
  • vertrekkende groep:
-
 slechte
-
 Goede vertrekkende groep ?
-
 Meestal een zwakke base…
-
 BrCH2CH2CH2Cl + NaCN
 ethanol aq.
-
-:N
-
 C
-
 CH2CH2CH2Cl + NaBr
-
 Nucleofiele substitutie en eliminatie
-
-7
-
  Reactiemechanismen voor substituties aan sp3 atomen
 OPGELET!! Substituties aan sp2 atomen volgen later (hfdst 13)
-
 • het SN1 mechanisme
 carbokation
-
-1
-
-2
 ✓ Tweestapsreactie
 ✓ Snelheid van vorming alcohol wordt bepaald door trage stap:
-S1 = k1 [RCl]
 ✓ Eerste orde reactie, monomoleculair
-
 Nucleofiele substitutie en eliminatie
-
-8
-
  ✓ Energieverloop
 Activeringsenergie eerste stap
 veel groter dan tweede stap
-
 snelheidsbepalend
-
 Nucleofiele substitutie en eliminatie
-
-9
-
- +
-
--
-
 ✓ Solvatatie < oriëntatie van solventmoleculen
-
-1
 Stabilisatie
 door iondipoolinteractie
-X-
-
-C+
-
-2
 Nucleofiele substitutie en eliminatie
-
 Solvent
 verwijderen
-
-10
-
  • het SN2 mechanisme
-
 ✓ Eénstapsreactie
 ✓ Snelheidsbepalende stap = botsing tussen alkylchloride en
 hydroxide
 ✓ Snelheid van vorming alcohol:
-S2 = k2 [RCl] [OH-]
 ✓ Tweede orde reactie, bimoleculair
 ✓ Geen intermediair
-
 Nucleofiele substitutie en eliminatie
-
-11
-
  ✓ Energieverloop
-
 Geen intermediair !!
 Enkel overgangstoestand
-
 Nucleofiele substitutie en eliminatie
-
-12
-
  6.4 De stereochemie van de SN aan sp3 atomen
 • SN1 met optisch actieve verbinding
-
 racemisatie
-
 50/50 racemisch mengsel
-
 S
-
 Nucleofiele substitutie en eliminatie
-
 R
-
-13
-
  inversie
-
 • SN2 met optisch actieve verbinding
-
 jood
-
 Omklappen paraplu
-
-6
-
 Nucleofiele substitutie en eliminatie
-
-14
-
  6.5 Factoren die het reactiemechanisme bepalen
 • SN1: structuur van het halogeenalkaan
 ✓ betere stabilisatie carbokation, snellere SN1 reactie
-
--
-
--
-
 Stabilisatie carbokation door mesomerie
-
 Nucleofiele substitutie en eliminatie
-
-16
-
  3° carbokation stabieler dan 2°, 1°
-
 snelheid SN1 reactie
-
 • SN1: aard solvent
 ✓ polair, protisch solvent
 stabiliseert carbokation,
 snellere SN1 reactie
 (protisch solvent bevat
 H-brugdonoren vb. OH, NH)
-
 Nucleofiele substitutie en eliminatie
-
 Solvent
-
 diëlektrische
 constante
 Azijnzuur
-6
 Methanol
-33
 Mierezuur
-58
 Water
-78
-
 relatieve
 snelheid
-1
-4
-5000
-150000
-
-17
-
  • SN2: structuur halogeenalkaan
-
 ✓ weinig sterische hinder nadering Nu-, snellere SN2 reactie
-
 snelheid SN2 reactie
 Precies omgekeerd aan SN1 reactie !
-
 Nucleofiele substitutie en eliminatie
-
-18
-
  • Verbindingen met halogeenatomen in allyl- of benzylpositie
 ✓ naast vlot SN1 mechanisme, ook snelle SN2 reactie !
-
 2p--overlap heeft stabiliserende invloed op overgangstoestand
-
 Nucleofiele substitutie en eliminatie
-
-19
-
  ✓ gevoeligheid voor substitutie via SN2 mechanisme:
-
 Indien zowel SN1 als SN2 mogelijk zijn, wordt het mechanisme
 mede bepaald door reactieomstandigheden:
-
 ✓ Goed nucleofiel geeft SN2
 ✓ Matig of slecht nucleofiel en polair solvent geven SN1
-
 Nucleofiele substitutie en eliminatie
-
-20
-
  6.6 Nucleofiele substitutie in biologische systemen
 • biologische methyleringsreactie
-
 in labo vaak met methyljodide
-
 in natuur via AZ
-
 SN2
-
 Nucleofiele substitutie en eliminatie
-
-21
-
  Vorming adrenaline uit noradrenaline
 SN2
-
 sulfoniumion
-
 • halogeenalkanen meestal giftig voor levende organismen
-
 Gealkyleerde enzymen verliezen
 biologische acitiviteit
-
 Nucleofiele substitutie en eliminatie
-
-22
-
  • bekend alkylerend reagens: mosterdgas
 (1,1-thiobis(2-chloorethaan) of yperiet)
-
 intramoleculair
-
 • alkylerende agentia worden ook gebruikt in de
 bestrijding van kanker
-
 Nucleofiele substitutie en eliminatie
-
-23
-
  6.7 De eliminatiereactie
 Afsplitsen HX o.i.v. base
-
 -eliminatie
-
 ✓ onttrekken proton van -plaats door nucleofiel
 ✓ SN en eliminatie kunnen naast elkaar optreden
 (afhankelijk van reactieomstandigheden en structuur
 halogeenalkaan)
 ✓ monomoleculair (E1) of bimoleculair (E2) proces
-
 Nucleofiele substitutie en eliminatie
-
-24
-
  • Het E1-mechanisme
-
 verwant aan SN1 mechanisme
 carbokation
-
-
-
 ✓ Tweestapsreactie
 ✓ Snelheid van vorming alkeen wordt bepaald door trage stap:
-S1 = k1 [RCl]
 ✓ Eerste orde reactie, monomoleculair
 ✓ volgorde reactiviteit halogeenalkanen:
 tertiair > secundair > primair
 ✓ Polair solvent bevordert E1-reactie
-
 Nucleofiele substitutie en eliminatie
-
-25
-
  ✓ Tertiaire halogeenalkanen + polair solvent: E1 + SN1
-
->
 Zwakke base
-
 Twee mogelijkheden
 voor afsplitsen proton
-
 Regel van ZAITSEV
 Het meest gesubstitueerde alkeen
 wordt bij voorkeur gevormd. REDEN?
-
 Nucleofiele substitutie en eliminatie
-
-26
-
  • Het E2-mechanisme
-
 verwant aan SN2 mechanisme
-
-
 Betrokken atomen moeten in één vlak liggen, anti-periplanair
-
 ✓ Eénstapsreactie
 ✓ Snelheid van vorming alkeen:
-S2 = k2 [RCl] [OH-]
 ✓ Tweede orde reactie, bimoleculair
 ✓ Ladingsverschuiving tijdens reactie van base naar
 vertrekkende groep
 ✓ Stereospecifiek
 ✓ Sterische factoren verschillend voor E2 en SN2 !
-
 Nucleofiele substitutie en eliminatie
-
-27
-
  • Vergelijking SN2- en E2-mechanisme
-
-E2
-
 CH3CH2
-
-•• –
-O ••
-••
-
 Nucleofiele substitutie en eliminatie
-
 Br
-
-28
-
  • Vergelijking SN2- en E2-mechanisme
-
 SN2
-
 CH3CH2
-
-•• –
-O ••
-••
-
 Nucleofiele substitutie en eliminatie
-
 Br
-
 Alcoholen en thiolen 29
-
- 

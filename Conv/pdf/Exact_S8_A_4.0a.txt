@@ -2,323 +2,161 @@
 • Chirale molecule: molecule niet tot
 dekking te brengen met haar spiegelbeeld
 • Chirale moleculen zijn optisch actief
-
 Cl
-
 «cheir»
-
 Cl
-
 Br
-
 Br
 H
 F
-
 Stereochemie
-
 H
-
 F
-
 180° draaien
-
-1
-
  • Ruimtelijke structuur van een (bio)molecule belangrijk voor
 eigenschappen en activiteit
 Interactie glyceraldehyde met enzym
-
 Stereochemie
-
-2
-
  5.1 Stereo-isomeren
 • Isomeren: twee verschillende verbindingen met zelfde
 brutoformule
-
 Isomeren
-
 Structuurisomeren
-
 Stereo-isomeren
-
 atomen op verschillende manier
 aan elkaar gebonden
-
 Zelfde skelet, maar ruimtelijk verschillend
-
 • Ketenisomeren
 • Plaatsisomeren
 • Functie-isomeren
-
 Geometrische
 isomeren
 • cis-trans-isomeren
-
 • Aantal definities en conventies
-
 Stereochemie
-
 Optische isomeren
 • Enantiomeren
 • Diastereomeren
 (Mesovorm)
-
-3
-
  5.2 Symmetrie en enantiomeren
 • Moleculen met een symmetrievlak en/of symmetriecentrum
 zijn gelijk aan hun spiegelbeeld (en dus niet-chiraal)
-
 Twee gelijke
 substituenten
-
 Voorbeelden: 2-propanol, cyclohexaan, …
-
 Stereochemie
-
-4
-
  • Asymmetrisch koolstofatoom
 → chirale molecule
-(van ‘t Hoff, 1874)
-
 H
 CH3
-
-C*
-
 CH2CH3
-
 OH
-
 • Twee stereo-isomeren die elkaars spiegelbeeld zijn worden
 enantiomeren of genoemd
 ✓ Zelfde fysische eigenschappen (Bp, Tm, oplosbaarheid…) en
-
 chemische reactiviteit t.o.v. niet-chirale verbindingen
 ✓ Verschillende reactiviteit t.o.v. chirale verbindingen
 ✓ Verschillende interactie met gepolariseerd licht
-
 Stereochemie
-
-5
-
  Polarimeter
-
 Rechtsdraaiend
-
 (+) of d (dextrorotatory)
-
-(Biot, 1815)
-
 Linksdraaiend
-
 (-) of l (levorotatory)
-
 Polarisator
-
 Lichtbron
-
 Testbuis
-
 Rotatie
-
 Analysator
-
 Specifieke Rotatie
-20
-
-[a]D =
 Stereochemie
-
 a
-
 cxl
-
 a
 c
 l
-
 rotatie in graden
 concentratie in g/ml
 lengte cel in dm
-
-6
-
  racemic acid (1819)
 meso-wijnsteenzuur
-[a] = 0°
-
 • Racemisch mengsel of racemaat:
 ✓ gelijke hoeveelheid van beide enantiomeren
 ✓ niet optisch actief, [a] = 0°
-✓ notatie: (d,l) of ()
 Rekenvoorbeeld:
-
 Br
-
-(+)-2-broombutaan heeft [a] = +23,1°
-(-)-2-broombutaan heeft dus [a] = -23,1°
 een 50:50 mengsel heeft dus [a] = 0°
-
 Stereochemie
-
-7
-
  • Optische zuiverheid (%):
 specifieke rotatie staal
-
-OZ =
-
-X
-
-100
-
 specifieke rotatie puur enantiomeer
 ✓ nul voor racemisch mengsel
 ✓ hieruit samenstelling mengsel te bepalen!
 Rekenvoorbeeld:
-
 We meten [a] = -9,2° voor mengsel 2-broombutanen.
-OZ = (-9,2°/-23,1°) x 100 = 40%
 D.w.z. 40% overmaat van (-) ten opzichte van (+) of
 60% is mengsel van evenveel (+) en (-).
-In totaal hebben we dus 40% + 30% = 70% (-).
-
 Stereochemie
-
-8
-
  • Een molecuul kan soms chiraal zijn zonder een
 asymmetrisch koolstofatoom te bevatten!!
 alleen
 H
-
 H
 C
-
 C
-
 C
-
 H
-
 H
-
 Cl
-
 Cl
-
 C
-
-C
-
-Cl
-
 C
 Cl
-
+C
+Cl
 CH3
-
-H 3C
-NO 2
-
-O2 N
-
 CH3
-
-H3 C
 NO2
-
-O 2N
-
 bifenyl
-
 Stereochemie
-
-9
-
  5.3 Configuratie van enantiomeren
 • Configuratie = wijze waarop substituenten aan asymmetrisch
 koolstofatoom gebonden zijn
 • Geen relatie tussen teken [a] en absolute configuratie !
-(Bijvoet, 1951)
 • R,S-nomenclatuursysteem – Cahn, Ingold, Prelog regels (1966)
 Robinson:"You know, Prelog, your and Ingold's
 configurational notation is all wrong."
-
-R. S. C. K.
-V.
 Cahn Ingold Prelog
 Stereochemie
-
 Prelog:"Sir Robert, it can't be wrong. It is just a convention.
 You either accept it or not."
 Robinson:"Well then, if it is not wrong, it is
 absolutely unnecessary."
-
-10
-
  1. Vier atomen rangschikken
 volgens afnemend atoomnummer
 (hoogste rangnummer = 4,
 laagste rangnummer = 1)
-
-2
-3
-
-1
-
-1
-
-3
-
-4
-
-4
-
-2
 ✓ Twee gelijke atomen: neem volgend atoom
 ✓ Dubbele bindingen:
-
 Stereochemie
-
-11
-
  2. Asymmetrisch koolstofatoom
 draaien tot laagste rangnummer
 naar achter wijst
-3. Draai van 4 → 3 → 2
 Wijzerzin = R (rectus)
 Tegenwijzerzin = S (sinister)
-
 Verschillende driedimensionale
 structuurformules
-
 Stereochemie
-
-12
-
  Bijvoet (1951) Na,Rb-zout
 via röntgendiffractie
-
 • Alkenen: cis-trans- soms vervangen door E,Z-nomenclatuur
 Rangnummer (2 en 1) geven aan substituenten
-
 Entgegen
-
 Stereochemie
-
 Zusammen
-
-13
-
  5.4 Eigenschappen van enantiomeren
 • Fysische eigenschappen enantiomeren zijn gelijk
 • Tegengesteld teken [a] !
-
 • Zelfde eigenschappen in reacties met symmetrische reagentia
 • Verschillend bij reacties met andere chirale verbindingen
 Penicillium glaucum zet
@@ -326,190 +164,84 @@ enkel D-wijnsteenzuur om
 Enkel Dglucose bij
 dierlijk
 metabolisme
-
 Stereochemie
-
-14
-
  • Bij geur- en smaakstoffen, farmaca soms sterke verschillen
 door intereactie met chirale bouwstenen van het lichaam !
-CH 3
-
-CH 3
-
 O
-
 O
-
 H
-H 3C
-
 (R)-carvon
 hertsmunt
-
 Stereochemie
-
 H
-H 3C
-
 (S)-carvon
 karwijzaad
-
-15
-
- S
-
 R
-
-H1
-
 H3C
-2
-4
-
 HO
 Stereochemie
-
-3
-
 C
-
 C
 O
-
 CH2CH(CH3)2
 Anti-inflammatoire pijnstiller
 Ibuprofen enkel S actief !
-
-16
-
  5.5 Diastereomeren en mesoverbindingen
 • Twee asymmetrische koolstofatomen:
 Zelfde
 substituenten,
 3 stereo-isomeren
-
 Verschillende
 substituenten,
 4 stereo-isomeren
-
 treose
-
 diastereomeren
-
 enantiomeren
-
 Stereochemie
-
-17
-
- Pasteur (1847)
 Na+NH4+tartraat
-
 wijnsteenzuur
-
 Mesovorm,
 bevat
 symmetrievlak
-
-
-
 Fysische
 eigenschappen
-
 • n asymmetrische koolstofatomen: maximaal 2n stereo-isomeren
-
 Stereochemie
-
-18
-
  5.6 D,L-nomenclatuur (Emil Fischer)
 • Enkel nog gebruikt bij suikers en aminozuren
 (Rest: vervangen door R,S-nomenclatuur)
 • Gebaseerd op projectieformule (Fischer projectie):
-1.
-2.
-3.
-4.
-
 Hoofdketen vertikaal, C1 bovenaan (C met hoogste OG)
 Vertikale bindingen naar achter, horizontale naar voor
 Projectie maken
 Positie functionele groep aan horizontale binding:
 rechterkant → D, linkerkant → L
-
 Stereochemie
-
-19
-
  CO2H
 H
-
 OH
-
 H
-
 OH
 CH3
-
 Stereochemie
-
-20
-
  • Bij suikers met meerdere asymmetrische koolstofatomen:
 kijk naar configuratie hoogstgenummerde asymmetrisch
 koolstofatoom
-
 Spiegelbeeld
 geheel molecuul
-
 Stereochemie
-
-21
-
  • Geen verband tussen D,L- en R,S-nomenclatuur !
-
 Stereochemie
-
-22
-
  5.7 Racemaatsplitsing
-
-R1
-
 enantiomeren
-R1
-
-S1
-
-R2
 gefractioneerde
 kristallisatie
-
-R1R2
-
-2R2
-S1R2
-R1R2
-
-S1R2
-
 diastereomeren
 Stereochemie
-
-R2
-S1
-23
-
  Voorbeeld
 racemaatsplitsing of
 resolutie
-
 Ook enzymen kunnen helpen bij scheiding !
 Pasteur: () → (-)-wijnsteenzuur door Penicillium glaucum
-
 Stereochemie
-
 Nucleofiele substitutie en eliminatie 24
-
- 

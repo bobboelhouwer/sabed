@@ -1,133 +1,13 @@
-9/09/2017
-
-A = P D PT = λ  u1 u1 +...+ λ unun
-
 Definitie
 • A n x n, reëel is symmetrisch ⇔ A = AT
-
-•
-•
-
-•
-•
-
-    
-     ; BTB
-   
-De e.w. van een symmetrische matrix zijn reëel
-λ1 en v1 e.w./e.v. van A symmetrisch
-λ2 en v2 e.w./e.v. van A symmetrisch, λ1 ≠ λ2
-λ1(v1T v2) = (λ1v1)T v2 = (Av1)Tv2= v1T ATv2
-= v1T (Av2)= λ2(v1T v2)
-⇒ (λ1- λ2)(v1Tv2)=0 ⇒ v1Tv2=0 ⇒ v1 ⊥ v2
-Dus niet enkel l.o., maar zelfs ⊥
-De eigenruimten v.e. symm. matrix zijn orthogonaal
-
-1
-
- 9/09/2017
-
+• De e.w. van een symmetrische matrix zijn reëel
+• λ1 en v1 e.w./e.v. van A symmetrisch
+• Dus niet enkel l.o., maar zelfs ⊥
+• De eigenruimten v.e. symm. matrix zijn orthogonaal
 Voorbeeld
-2
-= 0
-1
-2−λ
-0
-• K.P. det 0
-2−λ
-1
-1
 • Diagonaliseer
-
-0 1
-2 1
-1 1
-1
-1 =(2-λ)2(1-λ)-2(2-λ)=(2-λ)(λ2-3λ)
-1−λ
-
-= -λ(λ-2)(λ-3)
-controle: 0+2+3 = spoor(A) = 2+2+1 ok
-2 0 1
-1 1
-1
-1 1 1
-λ1=0: 0 2 1 ∼ 0 2
-1 ∼ 0 2 1
-1 1 1
-0 −2 −1
-0 0 0
-1
-1
- 
-⇒ v1= 1 ⇒ u1=   1
-−2
-−2
-
 Voorbeeld
-0 0 1
-λ2=2: 0 0 1 ∼
-1 1 −1
-−1 0
-1
-λ3=3: 0 −1 1
-1
-1 −2
-
-1
-0
-0
-
-1 −1
-0 1 ⇒ v2=
-0 0
-−1 0
-1
-∼ 0 −1 1
-0
-1 −1
-
-1
- 
-−1 ⇒ u2= 
-0
-−1 0
-∼ 0 −1
-0
-0
-
-1
-−1
-0
-1
-1
-1
- 
-1 ⇒ v3= 1 ⇒ u3=   1
-0
-1
-1
-
-Controle: u1T u2 = u1.u2 = 0 ; u1T u3 = u1.u3 = 0 ; u2T u3 = u2.u3 = 0
 P = [u1 u2 u3] is een orthogonale matrix:
-   
-1
-PTP =            = 0
-0
-   
-
-0
-1
-0
-
-0
-0 . Dus P-1 = PT
-1
-
-2
-
- 9/09/2017
-
 Orthogonaal diagonaliseerbaar
 • Als mi = 1, alle e.v. ⊥; normaliseer tot ui
 • P = [u1 ... un] is dus orthogonale matrix
@@ -139,36 +19,11 @@ heet orthogonaal diagonaliseerbaar ⇔ AT = A
 bewijs). Men kan dus steeds mi orthogonale
 basisvectoren kiezen in elke eigenruimte, of:
 A is orthogonaal diagonaliseerbaar ⇔ A=AT
-
 Spectrale ontbinding
-λ  ⋯ 0
-• A = P D PT = [u1 ... un] ⋮ ⋱ ⋮ [u1 ... un]T
-0 ⋯ λ
-
-u1
-= [λ  u1 ... λ un] ⋮ =λ  u1 u1 +...+ λ unun
-un
+un 
 • Dit is de spectrale ontbinding van A
 • De verzameling van e.w. noemt men het
 spectrum van een matrix
-
-3
-
- 9/09/2017
-
 Voorbeeld
-2 0 1
-0 2 1 = λ  u1 u1 +λ u2 u2 + λ  u3u3
-1 1 1
-1
-1
-= −1 1 −1 0 + 1 1 1 1
-0
-1
 Merk op dat A singulier is (λ1=0). Dim(Nul A) = 1
-(=d1), dus Rank A = 3 – 1 = 2. We hebben A ook als
 de som van 2 rang-1 matrices geschreven.
-
-4
-
- 

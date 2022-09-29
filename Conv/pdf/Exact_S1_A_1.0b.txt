@@ -1,83 +1,30 @@
 Aanvullende oefeningen bij Hoofdstuk 1
 Oefening1
 Bereken de molaire massa van:
-•
 Lood
-•
 Zwaveldioxide
-•
 Waterstofsulfaat
-•
 Natriumthiosulfaatpentahydraat
-•
 Chloorgas
-•
 Kaliumchloraat
-•
 Magnesiumjodide
-•
 Zilverdichromaat
 Oplossing:
-•
-207,2
-•
-64,1
-•
-98,1
-•
-248,2
-•
-71
-•
-122,6
-•
-278,1
-•
-431,7
 Oefening 2
 a) Bereken het aantal mol en het aantal atomen in:
-•
 34 g nikkel
-•
 27,6 kg natrium
 b) Bereken de atoommassa uit de volgende gegevens:
-•
 3,12 mmol atomen weegt 625,8 mg
-24
-•
-2,10 * 10 atomen wegen 54 g
 oplossing:
-23
-a)
-0,58 mol Ni
-;
-3,5 10 atomen
-3
-26
-1,2 10 mol Na
-;
-7,23 10 atomen
-b)
-200,6
-15,5
 Oefening 3
 a) Hoeveel mol vertegenwoordigen:
-•
 879,85 g dinatriumsulfiet
-•
 62,5 kg calciumcarbonaat
 b) Hoeveel gram vertegenwoordigen:
-•
 2,5 mol kaliumpermanganaat
-•
 13 mol ammoniak
 oplossing:
-a) 6,98 mol
-625 mol
-2
-b) 4,0 * 10 g
-2
-2,2 * 10 g
 Oefening 4
 Hoeveel gram zink bevatten hetzelfde aantal atomen als 5,6 g koper?
 Oplossing: 5,8 g
@@ -86,67 +33,23 @@ Hoeveel gram (di)broom bevatten evenveel mol als 7,1 g chloorgas?
 Oplossing: 16 g
 Oefening 6
 Bereken het aantal mol opgeloste stof aanwezig in:
-•
 125 ml 2,5 M NaOH-oplossing
-•
 0,6 l 12 M HCl-oplossing
--1
-•
 250 ml H2SO4-oplossing van 94,72%(G/G) met dichtheid 1,83 g.ml
--1
-•
 0,75 l NH3-oplossing van 30%(G/G) met dichtheid 0,88 g.ml
-•
 350 ml FeSO4-oplossing van 10%(G/V)
-•
 2,5 l NaOH-oplossing van 40%(G/V)
 oplossing:
-•
-0,31 mol
-•
-7,2 mol
-•
-4,39 mol
-•
-11,65 mol
-•
-0,23 mol
-•
-25 mol
-
-47
-
  Aanvullende oefeningen bij Hoofdstuk 1
-
-48
-
 Oefening 7
 Bereken hoeveel gram men moet afwegen voor het maken van:
-•
 2,5 l 0,02 M NaCl-oplossing
-•
 450 ml 1,25 M NaOH-oplossing
-•
 5 l NaNO2-oplossing van 20%(G/V)
-•
 250 ml Na2CO3-oplossing van 5%(G/V)
-•
 een 10% KOH-oplossing(G/G) met 750 ml water
-•
 een 25% NH4Cl-oplossing(G/G) met 2 l water
 oplossing:
-•
-2,92 g
-•
-22,5 g
-•
-1000 g
-•
-12,5 g
-•
-83,3 g
-•
-667 g
 Oefening 8
 Kwantitatieve analyse van een verbinding toont aan dat ze samengesteld is uit 50,9% N en 43,6% C, de rest is H.
 Geef de brutoformule als je weet dat de molaire massa 110 is.
@@ -160,7 +63,6 @@ en druk eveneens 1 l is.
 Oplossing: C4H10
 Oefening 10
 Kwalitatieve analyse van een stof bij 0°C en 101,3 kPa toont C, H, N en S aan. Uit 1 g van de stof wordt 1,2055 g
-CO2 en 0,3700 g H2O gevormd. 0,219 g stof levert 33,3 ml N2 op. Uit 0,365 g ontstaat 1,167 g BaSO4. 65,7 mg
 neemt als damp een volume in van 20 ml bij 0°C en 101,3 kPa. Geef de brutoformule van de verbinding.
 Oplossing: C2H3NS
 Oefening 11
@@ -173,7 +75,6 @@ reactieproducten: 0,733 g CO2; 0,600 g H2O en 0,467 g N2. Bepaal de empirische f
 Oplossing: CH4N2O
 Oefening 13
 0,04 mol van een organische verbinding, opgebouwd uit C, H, Cl, N en O, weegt 9,56 g en verbrandt met 8,96 g
-O2. Men bekomt 10,56 g CO2; 1,44 g H2O; 2,84 g Cl2 en 3,68 g N2O4. Bepaal de brutoformule.
 Oplossing: C6H4Cl2N2O4
 Oefening 14
 Wat is de atoommassa van het metaal M indien 0,75 g M wordt verbrand in zuurstof en 1,62 g M2O7 geeft.
@@ -185,8 +86,6 @@ Oplossing: Fe3O4
 Oefening 16
 Hoeveel zwavel kan verbonden worden met 28 g ijzervijlsel, en hoeveel ijzersulfide wordt er bekomen?
 Oplossing: 16 g S
-;
-44 g FeS
 Oefening 17
 Hoeveel loodsulfide wordt bekomen door een oplossing van 20 g loodnitraat te verzadigen met waterstofsulfide?
 Oplossing: 14,35 g PbS
@@ -194,120 +93,51 @@ Oefening 18
 Bij 0°C en 101,3 kPa wordt 20 g zwavel in een fles, waarin zich 10 l zuurstof bevindt, aangestoken. Welke stoffen
 en hoeveel van elk bevinden zich na afloop in de fles?
 Oplossing:
-0,446 mol SO2 of 9,99 l
-;
-5,68 g S
 Oefening 19
 Er wordt juist 2 g magnesium verbrand in een kolf, waarin zich 2,5 l zuurstof bij 0°C en 101,3 kPa bevindt. Welke
 stoffen en hoeveel van elk bevinden zich na afloop in de kolf?
 Oplossing:
-3,22 g MgO
-;
-1,57 l O2
-
  Aanvullende oefeningen bij Hoofdstuk 1
-
-49
-
 Oefening 20
 3,1 g fosfor (P4) en 76,2 g jood reageren samen. Hoeveel gram PI3 kan er maximaal gevormd worden?
 Oplossing: 41,17 g PI3
 Oefening 21
 Gegeven de reactie:
-2C3H8 + 7O2
-6CO + 8H2O
-•
 Hoeveel g O2 is er nodig om 1 g C3H8 te oxideren?
-•
 Hoeveel g CO wordt er gevormd als 3,42 g C3H8 verbrand wordt?
-•
 Hoeveel g H2O zal er gevormd worden als er 3,43 g CO gevormd wordt?
-•
 Als 2 g C3H8 en 7 g O2 reageren, hoeveel gram CO wordt dan gevormd?
 Oplossing:
-•
-2,54 g O2
-•
-6,53 g CO
-•
-2,94 g H2O
-•
-3,81 g CO
 Oefening 22
 Fosfortrijodide reageert met water. Hoeveel gram waterstofjodide kan maximaal bereid worden uitgaande van 5 g
 fosfortrijodide? Hoeveel ml water is daarvoor nodig? Hoeveel moleculen H3PO3 bekomen we?
 Oplossing:
-•
-4,66 g HI
-•
-0,648 ml H2O
-21
-•
-7,23 * 10 moleculen H3PO3
 Oefening 23
 We laten bij 0°C en 101,3 kPa 20 g Cu reageren met 80 ml 6M HNO3 volgens de reactie:
-3Cu(NO3)2 + 4H2O + 2NO
-3Cu + 8HNO3
-•
 Hoeveel gram Cu(NO3)2 wordt gevormd?
-•
 Hoeveel liter NO-gas wordt gevormd?
-•
 Is er na reactie nog koper aanwezig; indien ja, hoeveel gram?
 Oplossing:
-•
-33,76 g Cu(NO3)2
-•
-2,69 l NO
-•
-8,6 g Cu
 Oefening 24
 SO2 ondergaat in zuur midden de volgende reactie:
-2+
-2+
-5SO2 + 2MnO4 + 2H2O
-2Mn + 5SO4 + 4H
 Hoeveel mol SO2 heeft men nodig om 50 ml KMnO4-oplossing 5,2%(G/V) te reduceren?
 Oplossing: 0,0411 mol SO2
 Oefening 25
 Gegeven de reactie:
-Cu + 2H2SO4
-CuSO4 + 2H2O + SO2
 We willen 20 l SO2-gas vormen bij 0°C en 101,3 kPa.
-•
 Hoeveel gram Cu hebben we nodig?
-•
 Hoeveel ml 18 M H2SO4 is daarvoor nodig?
-•
 Hoeveel gram CuSO4 maken we, en hoeveel moleculen vertegenwoordigt dit?
 Oplossing:
-•
-56,7 g Cu
-•
 98,8 ml H2SO4-oplossing
-23
-;
-5,36 * 10 moleculen
-•
-142 g CuSO4
 Oefening 26
 N2 wordt gevormd in de volgende reactie:
-K2Cr2O7 + 2NH4Cl + 6HCl
-N2 + KCl + CrCl3 + H2O
 Hiertoe worden bijeengevoegd: 50 ml K2Cr2O7-oplossing 0,05 M
--1
 80 ml NH4Cl-oplossing van 107 g.l
--1
 100 ml HCl-oplossing van 20%(G/G) met d=1,1 g.ml
-•
 Hoeveel ml N2 wordt er gevormd bij 0°C en 101,3 kPa?
-•
 Hoeveel ml H2O wordt er gevormd?
 Oplossing:
-•
-56 ml N2
-•
-0,315 ml H2O
 Oefening 27
 Zinksulfaatheptahydraat en magnesiumsulfaatheptahydraat hebben hetzelfde uitzicht. Bij verhitten boven 200°C
 verliezen beide hun kristalwater. Men verhit 10 g van een van de verbindingen op 200°C en men houdt 5,6 g over
@@ -316,52 +146,27 @@ Oplossing: ZnSO4.7H2O
 Oefening 28
 5 g Na2B4O7.xH2O bevatten 2,644 g Na2B4O7. Bepaal x.
 oplossing: x = 10
-
  Aanvullende oefeningen bij Hoofdstuk 1
-
-50
-
 Oefening 29
 In welk volume water moet men 500 g MnSO4.7H2O oplossen om een 25%(G/G) oplossing te bekomen?
 Oplossing: 590 ml
 Oefening 30
-•
 Hoeveel g Na2S2O3.5H2O moet men oplossen in water om 2,5 l 10%(G/V) natriumthiosulfaatoplossing te
 bekomen?
-•
 Hoeveel g Na2S2O3.5H2O moet men oplossen in 2,5 l water om een 10%(G/G)
 natriumthiosulfaatoplossing te bekomen?
-•
 Hoeveel g Na2S2O3.5H2O moet men oplossen in water om 2,5 l 0,05M natriumthiosulfaatoplossing te
 bekomen?
 Oplossing:
-•
-391,8 g
-•
-465,5 g
-•
-31 g
 Oefening 31
 Hoeveel gram Cu2O en Cu worden gevormd als men uitgaat van 0,6 g H2 en 31,8 g CuO?
-Cu2O + H2O
-2CuO + H2
-Cu2O + H2
-2Cu + H2O
 Oplossing:
-;
-12,7 g Cu
-14,3 g Cu2O
 Oefening 32
 Hoeveel gram PbO en hoeveel gram PbO2 worden gevormd als men uitgaat van 14,49 g lood en 1,92 g
 zuurstofgas?
-2Pb + O2
 2PbO
-2PbO + O2
 2PbO2
 Oplossing:
-4,46 g PbO
-;
-12 g PbO2
 Oefening 33
 Zwaveldioxide wordt geleid door 1000 ml van een aangezuurde kaliumpermanganaat-oplossing, die 2,5%(G/V)
 sterk is. Het zwaveldioxide komt voort van de reactie van H2SO4 met kaliumsulfiet. Hoeveel kaliumsulfiet is er
@@ -373,214 +178,89 @@ Hoeveel gram koolstof is hier minstens voor nodig?
 Hoeveel l molair H2SO4 zou minstens nodig zijn om het verkregen Zn om te zetten en hoeveel liter H2 ontstaat er
 dan?
 Hoeveel l molair NaOH is nodig om met behulp van Zn dezelfde hoeveelheid H2 te bereiden?
-2ZnS + 3O2
-2ZnO + 2SO2
-2ZnO + C
-2Zn + CO2
-Zn + H2SO4
-ZnSO4 + H2
 Zn + 2NaOH
-Na2ZnO2 + H2
 Oplossing:
-•
-2,4 g C
-•
-0,4 l H2SO4 1 M
-•
-8,96 l H2
-•
-0,8 l NaOH 1 M
 Oefening 35
 Hoeveel g Cl2 en hoeveel ml KOH-oplossing 5 M moet men gebruiken om 34,65 g KClO4 te vormen volgens de
 reactie:
-Cl2 + 2KOH
 KCl + KClO + H2O
 3KClO
 KClO3 + 2KCl
 4KClO3
 3KClO4 + KCl
 oplossing:
-•
-71 g Cl2
-•
 400 ml KOH-oplossing
 Oefening 36
 25,8 g kaliumchloraat van 95% zuiver wordt verhit en in de ontwijkende zuurstof wordt fosfor van 80% zuiver
 volledig verbrand. Het gevormde fosforoxide wordt in veel water geleid en een tijdje gekookt. Vervolgens wordt
 zoveel oplossing van natriumhydroxide toegevoegd, tot het normale zout gevormd is.
 KClO3
-KCl + O2
-O2 + P4
-P2O5
-P2O5 + H2O
 H3PO4
 H3PO4 + NaOH
-Na3PO4 + H2O
--1
-(NaOH d=1,27 g.ml en 24,6%(m/m)).
-•
 Hoeveel g fosfor kan verbrand worden?
-
  Aanvullende oefeningen bij Hoofdstuk 1
-
-51
-
-•
 Hoeveel l NaOH oplossing wordt toegevoegd?
-•
 Hoeveel l zuurstof is er bij de verhitting ontweken (T = 0°C, P = 101,3 kPa)?
 Oplossing:
-•
-9,3 g P4
-•
 0,0922 l NaOH-oplossing
-•
-6,7 l O2
 Oefening 37
-Hoeveel weegt 1 l lucht (23% O2 + 77% N2), 1 l NH3-gas en 1 l H2S-gas bij:
-•
-0°C en 101,3 kPa
-•
-293 K en 1041 hPa
-•
-253 K en 1013 hPa
 oplossing:
-•
-1,286 g lucht
-;
-0,7589 g NH3
-;
-1,522 g H2S
-•
-1,231 g lucht
-;
-0,7265 g NH3
-;
-1,457 g H2S
-•
-1,388 g lucht
-;
-0,8193 g NH3
-;
-1,643 g H2S
 Oefening 38
 Hoeveel liter lucht is er nodig voor de oxidatie van 900 g natriumsulfiet-oplossing van 7%(G/G)?
 Oxidatie:
-2Na2SO3 + O2
 2Na2SO4
-•
-bij 0°C en 101,3 kPa
--3
--3
-•
 als de dichtheid van lucht 1,2 * 10 g.cm is
 oplossing:
-•
 28 l lucht
-•
 30 l lucht
 Oefening 39
 Ter bereiding van waterstof laat men 150 g zinkkorrels, met een zuiverheid van 85%, reageren met
 waterstofsulfaat.
--3
-•
 Hoeveel ml waterstofsulfaat-oplossing van 48,42%(G/G) met dichtheid van 1,3 g.cm is er nodig voor de
 bereiding van juist 18,2 liter waterstof bij 20°C en 1030 hPa?
-•
 Hoeveel gram korrels blijft er over?
-•
 Hoeveel liter waterstof zou men daaruit nog kunnen bereiden (bij gelijke omstandigheden), mits
 toevoegen van de nodige hoeveelheid waterstofsulfaat?
 Oplossing:
-•
-118,3 ml
-•
-100,3 g
-•
-28,1 l
 Oefening 40
 Hoeveel ml HCl-oplossing 3,5 M is er nodig om 67,2 liter Cl2 te vormen bij 1045 hPa en 52°C volgens de reactie:
-PbCl2 + 2H2O + Cl2
 PbO2 + 4HCl
 Het gevormde Cl2 leiden we door 500 ml Na2S2O3-oplossing:
-4Cl2 + Na2S2O3 + 5H2O
-8HCl + Na2SO4 + H2SO4
 Wat moet de concentratie zijn in %(G/V) van de Na2S2O3-oplossing om alle Cl2 te reduceren tot Cl ?
 Oplossing:
-•
-2971 ml HCl
-•
-20,54%(G/V) Na2S2O3
 Oefening 41
 100 ml 0,18 M CaCl2-oplossing wordt gevoegd bij 50 ml Na2CO3-oplossing 0,45 M. Het gevormde CaCO3neerslag wordt gezuiverd en afgezonderd door filtratie. Hoeveel ml HCl 0,6 M is juist nodig om alle neerslag terug
 in oplossing te brengen en hoeveel liter CO2 wordt daarbij gevormd (1012 hPa en 18°C)?
 Oplossing: 60 ml HCl
-;
-0,43 l CO2
 Oefening 42
 SO2 kan bereid worden uit de reactie van geconcentreerd H2SO4 met Cu. Men laat 15,89 g Cu reageren met een
 4 M H2SO4-oplossing. Welk volume neemt het gevormde SO2 in bij 1055 hPa en 35°C?
 Het gevormde SO2 leidt men in een 2 M NaOH-oplossing. Hoeveel ml NaOH-oplossing is er minstens nodig voor
 een volledige neutralisatie van het SO2?
-Cu + 2H2SO4
-CuSO4 + 2H2O + SO2
 SO2 + NaOH
 NaHSO3
 Oplossing: 6,044 l SO2
-;
 124,5 ml NaOH-oplossing
 Oefening 43
 Men bereid O2 door ontbinding van 29,48 g KMnO4 dat 67% zuiver is. In de gevormde O2 wordt 3,35 g Fe
 verbrand. Hoeveel gram Fe2O3 wordt daarbij gevormd? Het overblijvende O2 wordt met H2 omgezet tot H2O.
 Hoeveel ml H2 (bij 1035 hPa en 55°C) is hiervoor nodig, hoeveel ml H2O wordt gevormd?
 2KMnO4
-K2MnO4 + MnO2 + O2
-4Fe + 3O2
-2Fe2O3
-2H2 + O2
-2H2O
 Oplossing:
-4,788 g Fe2O3
-;
-922 ml H2
-;
-0,63 ml H2O
-
  Aanvullende oefeningen bij Hoofdstuk 1
-
-52
-
 Oefening 44
 We bereiden Cl2-gas door de reactie van KMnO4 met 12 M HCl. Het gevormde Cl2 laten we inwerken op een
 5%(G/V) KI-oplossing tot vorming van I2.
-2MnCl2 + 5Cl2 + 8H2O + 2KCl
-2KMnO4 + 16HCl
-2KI + Cl2
-I2 + 2KCl
-•
 Hoeveel g KMnO4 is er nodig om 14,63 l Cl2 te vormen bij 1015 hPa en 35°C?
-•
 Hoeveel ml KI-oplossing is er nodig om alle Cl2 te reduceren tot Cl ?
 Oplossing:
-•
-36,34 g KMnO4
-•
 3851 ml KI-oplossing
 Oefening 45
 Men laat 50 g Cu-Zn legering (80% Cu) reageren met een H2SO4-oplossing 12 M.
-•
 Hoeveel ml H2SO4-oplossing is er nodig om alle Cu en Zn te laten wegreageren?
-•
 Wat is het volume van het gevormde gas bij 1030 hPa en 35°C?
-Cu + 2H2SO4
-CuSO4 + 2H2O + SO2
-Zn + H2SO4
-ZnSO4 + H2
 oplossing:
-•
 117,5 ml H2SO4-oplossing
-•
-19,39 l gas (SO2 + H2)
 Oefening 46
 In een gesloten vat bij 25 °C bevindt zich CO2-rijke lucht bij een druk van 1013 kPa. Het vat wordt afgekoeld tot –
 100°C waardoor CO2 volledig sublimeert. De druk in het vat is hierdoor gedaald tot 560 kPa. Neem aan dat het
@@ -591,18 +271,12 @@ Oefening 47
 In een vat van 10 l bevindt zich zuurstofgas bij een druk van 10 atm en een temperatuur van 127°C. Er is
 eveneens voldoende fosfor aanwezig om al het zuurstofgas te laten wegreageren. Het gevormde P2O5 reageert
 op zijn beurt met calciumcarbonaat volgens:
-P2O5(g) + CaCO3(v)
-Ca3(PO4)2(v) + CO2(g)
 Door de reactiewarmte stijgt de temperatuur in het vat met 100°C. Bereken de einddruk in het vat evenals het
 aantal gram gevormd calciumfosfaat.
 Oplossing:
-P =1521,5 kPa
-;
-378 g Ca3(PO4)2
 Oefening 48
 Een verbinding bevat C, H, O en S. Voor de verbranding van 2 g van deze verbinding tot vorming van CO2(g),
 H2O(vl) en SO2(g) is 0,0886 mol O2 nodig. Deze hoeveelheden van beide componenten worden in een vacuüm vat
--1
 van 10 l gebracht. Na de reactie en na afkoeling tot een temperatuur van 50°C is 0,686 ml water (d=0,997 g.ml )
 gevormd en bedraagt de druk in het vat 0,235 atm. Het CO2 wordt dan selectief uit het vat weggenomen en om dit
 CO2 volledig om te zetten tot Na2CO3 en H2O is 6,076 g NaOH nodig. Wat is de empirische formule van de
@@ -610,265 +284,78 @@ verbinding?
 Oplossing: C6H6SO3
 Oefening 49
 Bereken H° in kJ voor elk van de volgende reacties:
-•
-C2H2(g) + H2(g)
-C2H4(g)
-•
 2NaHCO3(v)
-Na2CO3(v) + H2O(g) + CO2(g)
-0
--1
 bijkomend gegeven: H v van NaHCO3 = - 947,7 kJ.mol
 oplossing:
-•
-
-0
-
-H = -175 kJ
-0
-
-•
-H = 129,4 kJ
 Oefening 50
 De verbranding van 1 g benzeen C6H6(vl) in zuurstof geeft CO2(g) en H2O(vl) als verbrandingsprodukten. Hierbij
 komt 41,84 kJ aan warmte vrij. Schrijf de thermochemische reactievergelijking. Hoeveel warmte zal vrijkomen bij
-0
 de verbranding van 1 mol benzeen (bereken dus H ) ?
 Oplossing:
-•
-C6H6(vl) + 15/2 O2(g)
-6CO2(g) + 3H2O(vl)
-0
--1
-•
-H = -3268 kJ.mol
 Oefening 51
-0
 Gegeven:
-2NH3(g) + 3N2O(g)
-4N2(g) + 3H2O(vl)
-H = -1010,4 kJ
-•
 Hoeveel warmte wordt vrijgesteld bij de reactie van 50 g N2O(g) met een overmaat aan NH3(g) (m.a.w.
 wat is H)?
-•
 Hoeveel warmte wordt vrijgesteld wanneer tijdens de reactie 50 g N2(g) wordt gevormd (m.a.w. wat is
-H)?
 Oplossing:
-•
-H = -382,6 kJ
-•
-H = -454,7 kJ
-
  Aanvullende oefeningen bij Hoofdstuk 1
-
-53
-
 Oefening 52
 Gegeven de reactie:
-10N2O(g) + C3H8(g)
-10N2(g) + 3CO2(g) + 4H2O(g)
 Bereken H bij de reactie van 66 g N2O(g) met 15,5 g C3H8(g).
 Oplossing: H = -429 kJ
 Oefening 53
-0
 De verbrandingswarmte ( H ) per mol bedraagt voor
--1
-•
 1,3-butadieen (C4H6(g))
--2543,6 kJ.mol
--1
-•
 normaal butaan (C4H10(g)) -2878,6 kJ.mol
--1
-•
 waterstof (H2(g))
--285,85 kJ.mol
 Gebruik deze gegevens om de hydrogenatiewarmte te berekenen van 1,3-butadieen tot n-butaan volgens de
-0
 reactie:
-C4H6(g) + 2H2(g)
-C4H10(g)
-H =?
-0
-Oplossing: H = -236,7 kJ
 Oefening 54
 Methanol (CH3OH) kan synthetisch bekomen worden door, onder druk, koolstofmonoxide en waterstof te
 verwarmen in de aanwezigheid van een katalysator.
-0
 CH3OH(vl)
-H =?
-CO(g) + 2H2(g)
-0
 Gebruik de volgende gegevens om H van deze reactie te berekenen.
--1
-•
 Verbrandingsenthalpie van CH3OH(vl) = -725,69 kJ.mol
--1
-•
-C(grafiet) + ½ O2(g)
 CO(g)
-H = -110,54 kJ.mol
--1
-•
 C(grafiet) + O2(g)
-CO2(g)
-H = -393,5 kJ.mol
--1
-•
-H2(g) + ½ O2(g)
 H2O(vl)
-H = -285,8 kJ.mol
 Oplossing:
-0
--1
-H = -128,7 kJ.mol
 Oefening 55
 Gegeven:
--1
 NH4NO3(v)
-H = -145,6 kJ.mol
-•
-NH3(g) + HNO3(vl)
--1
-•
 NH4NO3(v)
-N2O(g) + 2H2O(vl)
-H = -124,4 kJ.mol
--1
-•
-3NO(g)
-N2O(g) + NO2(g)
-H = -159,1 kJ.mol
--1
-•
-4NH3(g) + 5O2(g)
-4NO(g) + 6H2O(vl)
-H = -1166 kJ.mol
--1
-NO2(g)
-H = -58,1 kJ.mol
-•
-NO(g) + ½ O2(g)
-0
 Bereken H voor de volgende reactie:
-3NO2(g) + H2O(vl)
-2HNO3(vl) + NO(g)
 Oplossing:
--1
-H = -71,4 kJ mol
 Oefening 56
 Bereken de standaard-vormingsenthalpie van fosgeen (COCl2) uitgaande van volgende gegevens:
--1
-•
 De verbrandingswarmten ( H°) van C(grafiet) en CO(g) bedragen respectievelijk: -393,58 kJ.mol en
--1
 282,97 kJ.mol . In beide gevallen wordt er CO2(g) gevormd.
--1
 COCl2(g)
-H° = -108 kJ.mol
-•
-CO(g) + Cl2(g)
 Oplossing:
-
-∆H V0
-
-= -218,61 kJ.mol
-
--1
-
 Oefening 57
 Schrijf de reactievergelijking voor de verbranding van 1 mol ureum, CO(NH2)2(v) in O2(g). De reactieprodukten zijn
--1
 N2(g), CO2(g) en H2O(vl). H° voor deze reactie bedraagt –632 kJ mol . Bereken de standaard-vormingsenthalpie
 van ureum.
 Oplossing:
-
-∆H V0
-
--1
-
-= -333,1 kJ.mol
-
 Oefening 58
 Gegeven:
-
-2ClF3(g) + 2NH3(g)
-
-Gevraagd: Bereken
-
-∆H
-
-0
+Gevraagd: Bereken ∆H
 V
-
--1
-
-N2(g) + 6HF(g) + Cl2(g)
-
-H° = -1195,6 kJ.mol
-
 van ClF3.
-
 Oplossing:
-
-∆H V0
-
--1
-
-= -176,2 kJ.mol
-
 Oefening 59
 Gegeven:
-•
 C(grafiet) + H2O(g)
-2H2(g) + CO(g)
-•
-
-∆H V0
-∆H V0
-
-CO(g) + H2(g)
 CH3OH(g)
--1
-
-van H2O(g) = -241,8 kJ.mol
-
--1
-
-van CH3OH(vl) = -239,2 kJ.mol
-°
-
 Bereken de H voor de condensatie van 1 mol CH3OH(g)
 Oplossing:
-°
--1
-H = -38,52 kJ.mol
-
-°
-
--1
-
-H = 131,3 kJ.mol
-°
--1
-H = -90,18 kJ.mol
-
  Aanvullende oefeningen bij Hoofdstuk 1
-
-54
-
 Oefening 60
 Bij de verbranding onder constante druk van 1 l (0°C en 101,3 kPa) van een gasmengsel bestaande uit CH4(g) en
 C2H6(g) komt 43,6 kJ warmte vrij. De reactieprodukten zijn CO2(g) en H2O(vl). Bereken de samenstelling van dit
 gasmengsel in vol%.
 Oplossing:
-87 vol% CH4
-;
-13 vol% C2H6
 Oefening 61
--1
--1
 Magnesium heeft een specifieke warmte van 1,04 J g °C . 70 g magnesium, op een temperatuur van 99,8 °C,
 wordt in een beker gebracht, waarin zich 50 g water bevindt op een temperatuur van 30 °C. De eindtemperatuur
 van het water bedraagt 47,2 °C. Zijn deze gegevens mogelijk, in verband met de wet op het behoud van energie?
@@ -877,141 +364,59 @@ Oplossing:
 Neen
 Oefening 62
 1,45 g azijnzuur (CH3COOH) wordt in een calorimeter verbrand in een overmaat aan zuurstof. De calorimeter
--1
 bevat 0,75 kg water en heeft een warmtecapaciteit van 2,67 kJ °C . Na de verbranding stijgt de temperatuur van
 de calorimeter van 24,32 °C tot 27,95 °C. Hoeveel warmte zou worden vrijgesteld bij de verbranding van 1 mol
 azijnzuur?
 Oplossing:
--1
--878 kJ mol
 Oefening 63
 2,3 g quinone (C6H4O2) wordt in een calorimeter verbrand in een overmaat aan zuurstof. De calorimeter bevat 1
--1
 kg water en heeft een warmtecapaciteit van 3,27kJ °C . Na de verbranding stijgt de temperatuur van de
 calorimeter van 19,22 °C tot 27,07 °C. Hoeveel warmte zou worden vrijgesteld bij de verbranding van 1 mol
 quinone?
 Oplossing:
-3
--1
--2,75 * 10 kJ mol
 Oefening 64
-3
 De verbranding van 1 mol glucose (C6H12O6) zet 2,82 * 10 kJ warmte vrij. Wanneer 1,25 g glucose in een
 calorimeter wordt verbrand, dan stijgt de temperatuur van 20,10 °C tot 23,25 °C. Bereken de warmtecapaciteit
 van de calorimeter. De calorimeter bevatte 0,95 kg water.
 Oplossing:
--1
-C = 2,24 kJ °C
 Oefening 65
-3
 De verbranding van 1 mol sucrose (C12H22O11) levert 5,65 * 10 kJ warmte. Hoeveel gram sucrose moet men
 verbranden in een calorimeter, die 0,6 kg water bevat en een warmtecapaciteit heeft van 1,23 kJ °C, om de
 temperatuur van de calorimeter op te voeren van 23 °C tot 27 °C.
 Oplossing:
-0,905 g
 Oefening 66
 Wanneer 2 mol H2(g) en 1 mol O2(g) reageren ter vorming van 2 mol H2O(g), wordt 484,5 kJ warmte vrijgesteld.
 Begin- en eindprodukten bevinden zich op 100 °C bij een constante druk van 101,3 kPa. Bereken H en E voor
 de vorming van 1 mol H2O(g).
 Oplossing:
--1
--1
-H = -242,2 kJ mol
-;
-E = -240,7 kJ mol
 Oefening 67
 In een calorimetrische bom wordt 0,1 mol propaan verbrand.
-C3H8(g) + 5O2(g)
-3CO2(g) + 4H2O(vl)
--1
 De totale warmtecapaciteit van de calorimetrische bom is 97,1 kJ °C . De temperatuur van de calorimeter stijgt
-van 25 °C tot 27,282 °C.
-•
 Hoeveel joule aan warmte wordt vrijgesteld bij deze verbranding?
--1
-•
 Bereken E voor de reactie, uitgedrukt in kJ mol C3H8.
--1
-•
 Bereken H voor de reactie, uitgedrukt in kJ mol C3H8.
 Oplossing:
-•
-qr = -221,6 kJ
-3
--1
-•
-E = -2,22 * 10 kJ mol
-3
--1
-•
-H = -2,23 * 10 kJ mol
 Oefening 68
 Bij 25 °C en bij een constante druk van 101 kPa reageert 0,5 mol OF2 met waterdamp. Hierbij wordt 162 kJ
 warmte vrijgesteld.
-OF2(g) + H2O(g)
-O2(g) + 2HF(g)
--1
 Bereken E en H in kJ mol OF2.
 Oplossing:
--1
--1
-E = -326,5 kJ mol OF2
-;
-H = -324 kJ mol OF2
 Oefening 69
 1 mol CaO reageert met water bij 25 °C en bij een constante druk van 101 kPa met vrijstelling van 62,3 kJ.
-CaO(v) + H2O(vl)
-Ca(OH)2(v)
-
  Aanvullende oefeningen bij Hoofdstuk 1
--1
-
-55
-
 Bereken H en E in kJ mol CaO.
--3
 Gegeven: dichtheid bij 25 °C van CaO(v) = 3,25 g cm
--3
-H2O(vl) = 0,997 g cm
--3
-Ca(OH)2(v) = 2,24 g cm
--2
-(opm.: 1 Pa = 1 Nm
-1 J = 1 Nm)
 Wat kan men besluiten?
 Oplossing:
--1
--1
-;
-E = -62,3 kJ mol
-H = -62,3 kJ mol
 Oefening 70
 Door verbranding van 0,2 mol H2(g) en 0,1 mol O2(g) bij 25 °C wordt in een calorimetrische bom H2O(vl) gevormd.
 De temperatuur van de calorimetrische bom stijgt met 0,88 °C. Wanneer 0,01 mol tolueen (C7H8) in deze
 calorimetrische bom wordt verbrand, stijgt de temperatuur met 0,615 °C.
-C7H8(vl) + 9O2(g)
-7CO2(g) + 4H2O(vl)
--1
 Bereken E voor deze reactie in kJ mol C7H8.
 Oplossing:
-3
--1
-E = -3,94 * 10 kJ mol
 Oefening 71
 De verbranding van 1,01 g sucrose (C12H22O11) in een calorimetrische bom doet de temperatuur stijgen van 24,92
--1
 °C tot 28,33 °C. De calorimetrische bom bevat 980 g water en heeft een warmtecapaciteit van 785 J °C .
--1
-•
 Bereken de verbrandingswarmte van sucrose in kJ mol C12H22O11.
-•
 Bereken E en H voor deze reactie.
 Oplossing:
--1
-•
--5643 kJ mol
--1
-•
-E = H = -5643 kJ mol
-
- 

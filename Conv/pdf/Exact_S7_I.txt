@@ -1,188 +1,56 @@
-8/22/2019
-
-Lay 4.1 – 4.5
-
-+
-
-=
-
 Definities
-
-1
-
- 8/22/2019
-
 Vectorruimte: definitie
 V is een niet-ledige verzameling van objecten,
 vectoren, met 2 bewerkingen: optelling (+) en
 vermenigvuldiging met scalairen, die voldoen aan:
- u, v, w  V en c, d scalairen
-1) u+v  V
-3) (u+v)+w= u+(v+w)
-5)  u  V,  -u  V: u+(-u)=0
-7) c(u+v)=cu+cv
-9) c(du)=(cd)u
-
-2) u+v=v+u
-4)  0  V: u+0=u
-6) cu  V
-8) (c+d)u=cu+du
-10) 1u=u
-
 Voorbeeld
-• V = n ; [x1 x2 … xn]T
-𝑎
-⋯ 𝑎
-⋱
-⋮
-• V = mxn ; ⋮
-𝑎
-⋯ 𝑎
 • V = Pn = verzameling van veeltermen van
-graad n of lager ; antn + an-1tn-1 + … + a1t + a0
-
-2
-
- 8/22/2019
-
 Span en voortbrengend deel
-
 Definities
-• Net als in n:
-
-– Lineaire combinatie (l.c.): ci  , vi  V
-x = c1 v1 + ... + cp vp  V
 – vi  V zijn lineair afhankelijk (l.a.)   ci niet allen
-nul zodat 0 = c1 v1 + ... + cp vp
 – Of negatie: vi  V zijn lineair onafhankelijk (l.o.) 
 0 = c1 v1 + ... + cp vp heeft enkel de triviale
 oplossing ci = 0 voor i = 1 ... p
-
-3
-
- 8/22/2019
-
 Herinner (Lay 4.3, stelling 4)
-
 V
-
-a1, … , an  m l.a. (n2; a1 0)
-  j > 1 zodat aj = c1 a1 + … + cj-1 aj-1
 Bewijs
- x=
-
-c1
-⁞
-cj-1
--1
-0
-⁞
-0
-
 is een oplossing van [a1 a2 … an]x = 0
-
-  x1, x2 … xn niet allen 0 zodat x1 a1 + x2 a2 + … + xn an = 0
 Neem j de hoogste index waarvoor xj  0
-aj = (-x1/xj) a1 + … + (-xj-1/xj) aj-1
-
 Sterker: er bestaat zelfs een vector die een l.c. is van voorgaande l.o.
 vectoren  test op lineaire afhankelijkheid in V
-
 Deelruimte
 • Een deelruimte H van V is een
 deelverzameling van V waarvoor
- u, v  H, c scalair
-1) 0  H
-2) u+v  H
-3) cu  H
 • Span{v1, ... , vp}, met vi  V, is een deelruimte
 van V
 • Een voortbrengend deel voor H is een
-{v1, ... , vp} zodat Span{v1, ... , vp} = H
-
-4
-
- 8/22/2019
-
 Stelling (5a): voortbrengend deel
-• v1, ... , vp  V en Span{v1, ... , vp} = H
 • Als vk een lineaire combinatie van v1, ... , vk-1 ,
-vk+1, ... , vp dan H= Span{v1, ... , vk-1 , vk+1, ... , vp}
 Bewijs
 hernummer k=p
-l.c.  a1 ... ap-1 : vp = a1 v1 + ... + ap-1 vp-1
- x  H,  c1 ... cp : x = c1 v1 + ... + cp vp
-x = (c1 + cp a1) v1 + ... + (cp-1 + cp ap-1) vp-1
- H  Span{v1, ... , vp-1} ; Span{v1, ... , vp-1}  H
-
 Bases, coördinaten en dimensie
-
-5
-
- 8/22/2019
-
 Basis
-
 • b1, ... , bp  V is een basis voor H (deelruimte
-van V) 
-(1) b1, ... , bp l.o.
-(2) Span{b1, ... , bp} = H
-
 Stelling (Lay 4.3, stelling 5b): basis
-• S= {v1, ... , vp} met vi  V en Span{v1, ... , vp} = H
 • Als H{0} dan  deelverzameling B van S die een
 basis is van H
 Bewijs
 Stel B = S
-1. Als vi  B l.o., B is basis
-2. Als vi  B l.a.,  vj die l.c. v.d. andere 
 verwijder uit B en check of in geval 1.
 Stopt als B minstens 1 vector  0 bevat, want
 die is steeds l.o.
-
-6
-
- 8/22/2019
-
 Coördinaten
-• B = {b1, ... , bp} is basis voor V
- x  V, ! c1 ... cp : x = c1 b1 + ... + cp bp
 Bewijs
-Veronderstel  d1 ... dp : x = d1 b1 + ... + dp bp
- 0 = (c1 - d1) b1 + ... + (cp - dp) bp
- b1, ... , bp l.a. 
 • c1 ... cp zijn coördinaten van x  V in basis B
-[x]B =
-
-c1
-c2
-⁞
 cp
-
 • T: V  p : x  [x]B heet coördinatentransformatie
 Is lineair, 1-op-1 en surjectie op p
-
 Dimensie
-• B = {b1, ... , bn} is basis voor V
- u1, ... , up  V met p > n zijn l.a.
 Bewijs
 [u1]B , ... , [up]B zijn p vectoren in n en dus l.a.
-  c1 ... cp niet alle 0: c1 [u1]B + ... + cp [up]B = 0
-[c1 u1 + ... + cp up]B = 0  n
- c1 u1 + ... + cp up = 0 b1 + ... + 0 bn = 0  V
- u1, ... , up l.a.
-• Als B1 = {b1, ... , bn} is basis voor V |B2| = n
 Bewijs
-Noem |B2| = p, dan p  n, zoniet l.a.
-Maar B2 is basis, dus moet |B1|=n  p  n = p
 • Dimensie van V is het aantal basisvectoren
 Eindig-dimensionale vectorruimte als |B| eindig
-dim({0})=0
-
-7
-
- 8/22/2019
-
 Deelruimte van eindig-dimensionale V
 • Elke verz. S van l.o. vectoren kan aangevuld
 worden tot een basis B
@@ -192,7 +60,6 @@ Er zijn 2 gevallen
 – B niet voortbrengend voor V  voeg een vector 
 span B toe. Elementen in nieuwe B zijn l.o.
 Herhaal tot |B| = dim V
-
 Deelruimte van eindig-dimensionale V
 • Elke verz. S van l.o. vectoren kan aangevuld
 worden tot een basis
@@ -201,12 +68,6 @@ Bewijs
 Neem B een basis voor H. Dan is |B|= dim H.
 De elementen van B liggen in V en zijn l.o.
  aanvullen tot basis C voor V
-|C|  |B|  dim V  dim H
-
-8
-
- 8/22/2019
-
 Deelruimte van eindig-dimensionale V
 • Elke verz. S van l.o. vectoren kan aangevuld
 worden tot een basis
@@ -218,7 +79,6 @@ Bewijs: indien niet voortbrengend, vul aan tot
 basis B. Maar dan |B|>p   voortbrengend
 b. Elke verzameling van p vectoren die V
 opspannen zijn l.o. en vormen dus een basis
-
 Deelruimte van eindig-dimensionale V
 • Elke verzameling l.o. vectoren kan aangevuld
 worden tot een basis
@@ -231,34 +91,19 @@ opspannen zijn l.o. en vormen dus een basis
 Bewijs: indien l.a.  elimineer een vector
 zonder span te veranderen  basis met p-1
 vectoren 
-
-9
-
- 8/22/2019
-
 Lineaire transformatie
 • Van vectorruimte V naar vectorruimte W
-• (eerder van n naar m)
-
 Lineaire transformatie
 • Lineaire transformatie T van vectorruimte V naar
 vectorruimte W is een regel die voor elke v in V een
 uniek beeld T(v) in W definieert met
-T(u+v) = T(u) + T(v) u, v in V
 en T(cu) = c T(u) c een scalar
-
 • De kern (kernel) of nulruimte (null space) van T is de
 verzameling vectoren v in V die op 0 in W worden
 afgebeeld: T(v) = 0
 • Het bereik (range) van T is de verzameling vectoren w
 in W die het beeld zijn van een (of meerdere) v in V:
-w=T(v)
 • Veralgemening van definities V=n naar W=m
-
-10
-
- 8/22/2019
-
 Voorbeeld
 • V = verzameling van veeltermen van graad 2 of
 lager
@@ -271,51 +116,15 @@ eerste graad of lager = deelruimte van W
 • Kern = verzameling van de constante veeltermen
 = veeltermen van de nulde graad = deelruimte
 van V
-
 Matrix v.e. lineaire transformatie
 revisited (Lay 5.4)
 • T: V  W een lineaire transformatie
 • Neem basis B in V (dim n) en basis C in W (dim m)
 Vector x in V heeft coördinaten [x]B  n
 Vector y = T(x) in W heeft coördinaten [y]C  m
-
-• Wat wordt M in [y]C = M [x]B ?
 • M is matrix van T t.o.v. bases B en C
-
-11
-
- 8/22/2019
-
 Matrix v.e. lineaire transformatie
 revisited (Lay 5.4)
-• x = r1 b1 + ... + rn bn met [r1 ... rn]T = [x]B
-• y = T(x) = r1 T(b1) + ... + rn T(bn)
-
 Wat zijn de coördinaten van deze vector in basis C ?
-
-• [T(x)]C = [y]C = r1 [T(b1)]C + ... + rn [T(bn)]C
-• [y]C = [ [T(b1)]C ... [T(bn)]C ] [x]B
-• [y]C = M [x]B
-
 Voorbeeld
-•
-•
-•
-•
-•
-•
-
-Basis voor V = {1, t, t2} (keuze)
-Basis voor W = {1, 1+t, 1-t2} (keuze)
-T: VW is afgeleide naar t nemen
-T(b1) = 0  [T(b1)]C = [0 0 0]T
-T(b2) = 1  [T(b2)]C = [1 0 0]T
-T(b3) = 2t  [T(b3)]C = [-2 2 0]T
-
-0 1 −2
-• 𝐌= 0 0 2
-0 0 0
-
-12
-
- 
+• T: VW is afgeleide naar t nemen

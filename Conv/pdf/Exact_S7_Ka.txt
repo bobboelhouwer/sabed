@@ -1,239 +1,83 @@
-30/10/2019
-
-Lay 6.2, 6.3
-
 Orthogonale basis, orthogonale
 projectie, orthogonale matrix
-
-UT = U-1
-
 Orthogonale bases
 • Opmerking: vectoren en matrices van reële
 getallen !
 • Veralgemening: zie tekst aanvullingen
-
-1
-
- 30/10/2019
-
 Orthogonale basis
-• S = {u1, ... , up} heet orthogonaal
-⇔ ui.uj = 0 voor i, j = 1 ... p maar i ≠ j
-• S = {u1, ... , up} heet orthonormaal
-⇔ S orthogonaal en  ui  = 1 voor i = 1 ... p
-• S = {u1, ... , up} orthogonaal met ui ≠ 0
-⇒ u1, ... , up l.o. en dus basis voor Span{u1, ... , up}
-Bewijs: 0 = c1 u1 + ... + cp up
-0 = c1(u1.ui) + ... + cp(up.ui) ⇒ 0 = ci(ui.ui) ⇒ ci=0
 • Orthogonale/orthonormale basis van deelruimte
 W van Rn = basis die ook
 orthogonale/orthonormale verzameling is
-
 Coordinaten in orthogonale basis
 S = {u1, ... , up} is orthogonale basis van W
 y = c1 u1 + ... + cp up ∈ W heeft als coordinaten in
- .  
-basis S:   =
-met j = 1 ... p
-   .  
-
-y=
-
 y.u
-y.u 
-u + ⋯+
-u ∈W
-u  .u 
-u .u
-
-2
-
- 30/10/2019
-
 Orthogonale projecties
 • Op een vector
 • Op een deelruimte
-
 Orthogonale projectie op een vector
 Gegeven u ∈ Rn, schrijf elke y ∈ Rn als
-y =  +z met  =αu en z ⊥ u
-α berekenen: z.u=(y- ).u=y.u- .u=y.u-αu.u=0
 y.u
 y.u
-  = u.u ⇒   = u.u u
-Merk op: projecteren op v = cu (c≠0) geeft zelfde  
+Merk op: projecteren op v = cu (c≠0) geeft zelfde   
 y.v
-y.(cu)
 y.u
-  = v.v v =
-(cu) = u.u u
-(cu).(cu)
-  is de projectie van y op L = Span{u}
- =ProjL(y)
-
+   is de projectie van y op L = Span{u}
+  =ProjL(y)
 y
-z2
 z
-z1
-
-α2u
-y=αu
-
-  ∈ L, z ∈
-
-L⊥
 u
-
-α1u
-
-0
-
-3
-
- 30/10/2019
-
 Orthogonale projectie op een
 deelruimte W van Rn
-∀ y ∈ Rn: y =  +z (uniek) met   ∈ W, z ∈ W⊥
 Als {u1, ... , up} een orthogonale basis van W is:
 y.u
 y.u
-  = u .u  u  + ⋯ + u .u u =ProjW(y)
-   
 Bewijs
-  ∈ W is triviaal
+   ∈ W is triviaal
 y.u
-i = 1 ... p: z.ui=(y- ).ui=y.ui- .ui=y. ui-  u  .u  =0
 u
- .u
-⇒ z ∈ W⊥
 Uniek ?
-y =  +z =  1+z1 met  1 ∈ W, z1 ∈ W⊥
-v =  - 1= z1–z ligt in W en W⊥ ⇒v.v=0 ⇒ v=0 ⇒ uniek
-
 Orthogonale decompositie
-∀ y ∈ Rn: y =  +z (uniek) met   ∈ W, z ∈ W⊥
 y
-
 y
-
-W⊥
-
-W⊥
-
 z
-
 W
-
 W
- 
-
- 
-0
-0
-
-  is uniek, dus onafhankelijk van de basis in W
-
-4
-
- 30/10/2019
-
+   is uniek, dus onafhankelijk van de basis in W
 Beste benadering
 y
-
 W deelruimte van Rn
-y ∈ Rn,   = ProjW(y)
-
 W
 v
-
- −
-  <   −   ∀ v ≠   ∈ W
-
-Bewijs: v -   ∈ W en   −   ∈ W⊥
-y - v = y -   +   −   is som
-0
 van ⊥ vectoren
-y − v   = y −     +   −  
-
- 
-
- 
-
->0
-
 Orthogonale projectie op een
 deelruimte W van Rn
-∀ y ∈ Rn: y =  +z (uniek) met   ∈ W, z ∈ W⊥
 Als {u1, ... , up} een orthonormale basis van W is:
-  = (y.u )u + ⋯ + (y.u )u =ProjW(y)
 u1Ty
 u2Ty
-
-y.ui = uiTy ⇒
-
-
-
 u1T
 u2T
-
-=
-
 upTy
-
- y = UTy
 upT
-
-met U = [u1 ... up] (n×p matrix)
-  = ProjW(y)=U(UTy) = UUTy
+   = ProjW(y)=U(UTy) = UUTy
 Merk op:
 a) UUT (n×n matrix) is de standaardmatrix van de orthogonale projectie op
 W
 b) UTU = Ip wegens orthonormaliteit van {u1, ... , up}
-
-5
-
- 30/10/2019
-
 Matrix met orthonormale kolommen
-•
-•
-•
-•
-•
-•
-•
-
 U m x n met orthonormale kolommen
-UT U = I n
-n≤m
 (Ux
-Ux).
-Uy)=
 Ux)
 Uy)
 Ux .(Uy
 Uy (Ux
 Ux T (Uy
-Uy = xT UT Uy = xTy = x . y
- =
 (Ux
-Ux).
-Uy)=0
-⇔ x . y=0
 Ux .(Uy
 Uy
 y
 (Ux
 Ux)
 Uy)
-Ux ⊥ (Uy
-Uy ⇔ x ⊥ y
-
 • Orthogonale matrix: m=n en orthonormale kolommen
-• UTU = In ⇒ UT = U-1
 • ⇒ UUT = UU-1 = In ⇒ rijen en kolommen orthonormaal !
-
-6
-
- 

@@ -1,613 +1,89 @@
-8/22/2019
-
-Lay 3.1, 3.2, 3.3
-
-s2+ q s1
-
-s2
-s1
-0
-
 Definitie
-det A = (-1)i+1 ai1 det Ai1 + (-1)i+2 ai2 det Ai2 + … + (-1)i+n ain det Ain
-= (-1)1+j a1j det A1j + (-1)2+j a2j det A2j + … + (-1)n+j anj det Anj
 (-1)i+j det Aij = Cij de cofactor van aij
 Je mag de rij of kolom waarlangs je de determinant ontwikkelt
 zelf kiezen !
-2 1 0 −3
-0 −1 3 2
-det 0 0 2 3
-0 0 0 5
-0 0 0 4
-
-6
-7
-−4 = 2 −1 2 25 − 24 = −4
-6
-5
-
-1
-
- 8/22/2019
-
 Eigenschap 1: driehoeksmatrix
 • det(driehoeksmatrix) = product
 diagonaalelementen
-2 1 0 −3
-0 −1 3 2
-det 0 0 2 3
-0 0 0 5
-0 0 0 0
-
-6
-7
-−4 = 2 −1 2 25 = −100
-6
-5
-
 Eigenschap 2: det A = det AT
-∗
-∗
-
-n=2: det A = a11a22 – a12a21 = det AT
-
-∗
-∗
-
 Inductie op n: (als geldig voor n-1, bewijs voor n)
 Ontwikkel det A langs rij i, det AT langs kolom i:
-det A = (-1)i+1 ai1 det Ai1 + (-1)i+2 ai2 det Ai2 + … + (-1)i+n ain det Ain
-det AT = (-1)1+i ai1 det AT1i + (-1)2+i ai2 det AT2i + … + (-1)n+i ain det Atni
 ATij = (Aji)T ( (n-1)x(n-1)-matrices), waarvoor de eigenschap geldt:
 det ATij = det (Aji)T = det Aji dus zijn beide ontwikkelingen gelijk.
-
 A
-
-1
-1
-1
-1
-1
-1
-
-2
-2
-2
-2
-2
-2
-
-3
-3
-3
-3
-3
-3
-
-4
-4
-4
-4
-4
-4
-
-5
-5
-5
-5
-5
-5
-
-6
-6
-6
-6
-6
-6
-
 AT
-
-1
-2
-3
-4
-5
-6
-
-1
-2
-3
-4
-5
-6
-
-1
-2
-3
-4
-5
-6
-
-1
-2
-3
-4
-5
-6
-
-1
-2
-3
-4
-5
-6
-
-1
-2
-3
-4
-5
-6
-
-2
-
- 8/22/2019
-
 Eigenschap 3
 Laat B = E A
 met E een elementaire rij-operatie,
-
 dan is det B =  det A
 met  = k, -1 of 1 voor schaling, omwisseling of
 vervanging
-
 Elementaire rijoperaties (ER)
 • Wat is het effect van rijoperaties op de determinant ?
 • Drie soorten elementaire matrices
-1
-– Schaling 3de rij met k: E= 0
-0
-1
-– Omwisselen rij 2 en 3: E= 0
-0
-
-0
-1
-0
-0
-0
-1
-
-0
-0
-𝑘
-0
-1
-0
-
-1
 – Rij 3 vervangen door k(rij 1)+(rij 3): E= 0
-𝑘
-
 • B = E A past de ER toe op A
-
-0 0
-1 0
-0 1
-
-3
-
- 8/22/2019
-
-n=2
-𝑎
-𝑏
-= 𝑎𝑘𝑑 − 𝑏𝑘𝑐
-𝑘𝑐 𝑘𝑑
-𝑎 𝑏
-= 𝑘 𝑎𝑑 − 𝑏𝑐 = 𝑘 det
-𝑐 𝑑
-𝑎 𝑏
-𝑐 𝑑
 • Omwisseling: det
-= −det
-𝑐 𝑑
-𝑎 𝑏
-𝑎
-𝑏
 • Vervanging: det
-𝑐 + 𝑘𝑎 𝑑 + 𝑘𝑏
-𝑎 𝑏
-= 𝑎𝑑 + 𝑎𝑘𝑏 − 𝑏𝑐 − 𝑏𝑘𝑎 = 𝑎𝑑 − 𝑏𝑐 = det
-𝑐 𝑑
-• Algemeen: det B =  det A met  = k, -1 of 1 voor
 schaling, omwisseling of vervanging
 • Schaling: det
-
 Inductiestap
 • det B =  det A geldt voor n-1; geldt ook voor n ?
-• B=EA
 • Voor elk van de ER is er steeds minstens 1 rij i die niet
 aangetast wordt (rij 1 in vb.)
-bij = aij voor j = 1 … n
 • ontwikkel langs die rij i
-det A = (-1)i+1 ai1 det Ai1 + (-1)i+2 ai2 det Ai2 + … + (-1)i+n ain det Ain
-det B = (-1)i+1 ai1 det Bi1 + (-1)i+2 ai2 det Bi2 + … + (-1)i+n ain det Bin
 met Bij de (n-1)x(n-1) matrix bekomen door de ER op Aij uit te
 voeren, waarvoor det Bij =  det Aij
-• Dus: det B =  det A
-
-4
-
- 8/22/2019
-
-Wat is  ?
 • Bereken det E
-1
 – Schaling det E=det 0
-0
-
-0
-1
-0
-1
-– Omwisseling: det E=det 0
-0
-1
-– Vervanging: det E=det 0
-𝑘
-
-0
-0
-𝑘
-0
-0
-1
-0
-1
-0
-
-•  = det E
-• B = E A  det B = det E det A
-
-= 𝑘 (driehoeksmtx)
-0
-1 = −1
-0
-
-0
-0 = 1 (driehoeksmtx)
-1
-
+– Vervanging: det E=det 0 1 0 = 1 (driehoeksmtx)
 Eigenschap 4
 • Aanvulling matrixinverstiestelling
-
-5
-
- 8/22/2019
-
 A inverteerbaar  det A  0
 • Breng A naar zijn echelonvorm U door p rijoperaties:
-U = Ep Ep-1 … E1 A
-det U = det (Ep Ep-1 … E1 A) = det Ep det (Ep-1 … E1 A)
-= … = det Ep … det E1 det A
 • Dit kan zonder schalingen (cfr rijreductie)
-det U = (-1)r det A
 met r = aantal omwisselingen
 • U is een bovendriehoeksmatrix
-
 A inverteerbaar
-
-U:
-
- * * * * *
-0  * * * *
-0 0 * * *
-0 0 0 * *
-0 0 0 0 *
-0 0 0 0 0
-
 n pivotposities
 Elke rij bevat een pivot
 det U = product diag-elem.
-0
-
 A niet inverteerbaar
-
-U:
-
- * * * * *
-0  * * * *
-0 0 0 * *
-0 0 0 0 0
-0 0 0 0 0 0
-0 0 0 0 0 0
-
 <n pivotposities
  rijen zonder pivot = nulle rij
 det U = product diag-elem.
-=0
-
-A inverteerbaar  det U  0  det A  0
-
-6
-
- 8/22/2019
-
 Eigenschap 5
 det (AB) = det A det B
- A, B  nn
-
 det (AB) = det A det B
 • A niet interteerbaar, dan is AB ook niet
 inverteerbaar, dus 0 = 0 det B
 • A inverteerbaar  A  In
- Ep, Ep-1, … , E1 zodat Ep Ep-1 … E1 A = In
- A = E1-1 … Ep-1-1 Ep-1
- det (AB) = det(E1-1 … Ep-1-1 Ep-1 B)
-= det(E1-1) … det(Ep-1-1) det(Ep-1) det B
-= det(E1-1 … Ep-1-1 Ep-1) det(B)
 = det A det B
-• Gevolg stel B = A-1 : det(A) det(A-1) = 1
-det(A-1) = 1/det(A)
-
-7
-
- 8/22/2019
-
 Regel van Cramer
 • Om stelsels op te lossen
 • Om matrices te inverteren
-
 Regel van Cramer voor Ax=b
-• Notatie: A = [a1 … an] dan is
-Ai(x) = [a1 … ai-1 x ai+1 … an]
-• A [e1 … ei-1 x ei+1 … en] = [Ae1 … Aei-1 Ax Aei+1 … Aen]
-= [a1 … ai-1 Ax ai+1 … an] = [a1 … ai-1 b ai+1 … an] = Ai(b)
-• det (A [e1 … ei-1 x ei+1 … en]) = det Ai(b)
-• det A det([e1 … ei-1 x ei+1 … en]) = det Ai(b)
-
-Ii(x) :
-
-1
-0
-0
-0
-0
-0
-
-0
-1
-0
-0
-0
-0
-
-0
-0
-1
-0
-0
-0
-
-x1
-x2
-x3
-x4
-x5
-x6
-
-0
-0
-0
-0
-1
-0
-
-0
-0
-0
-0
-0
-1
-
 (det A) xi = det Ai(b)
-𝑥 =
-
 det Ai(b)
-det 𝐀
-
-8
-
- 8/22/2019
-
 Regel van Cramer voor A-1
-• A A-1 = I ; A D = I
-• A [d1 … dn] = [Ad1 … Adn] = [e1 … en]
 • n stelsels oplossen Adj = ej
-• 𝐝
-
-𝐀 (𝐞 )
-
-=
-
-𝐀
-
-• det Ai(ej) = (-1)i+j det Aji = Cji
-A4(e5) :
-
-*
-*
-*
-*
-*
-*
-
-*
-*
-*
-*
-*
-*
-
-*
-*
-*
-*
-*
-*
-
-0
-0
-0
-0
-1
-0
-
-*
-*
-*
-*
-*
-*
-
-*
-*
-*
-*
-*
-*
-
-𝐀
-
-𝟏
-
-𝐀
-
-𝟏
-
-1
 C
-det 𝐀
-1
-=
-adj 𝐀
-det 𝐀
-=
-
 Toepassingen
-
-9
-
- 8/22/2019
-
 Toepassing: oppervlakte en volume
-x2
-
 • Oppervlakte = |ad|
-𝑎 0
 = det
-0 𝑑
-
-0
-𝑑
-𝑎
-0
-
-x1
-
-x2
-𝑐
-𝑑
-
-𝑎 𝑐
-• det
 = ad-bc
-𝑏 𝑑
-= hk(cos2  + sin2 ) = hk
-𝑎 𝑐
 Oppervlakte = det
-𝑏 𝑑
-
-𝑎
-𝑏
-
 k
-
- h
-
-x1
-
 Zelfde oppervlakte, zelfde determinant
-det [s1 s2]
-= det [s1 s2+p s1]
-= det [s1 s2+q s1]
-
-s2+ p s1
-s2
-
-s2+ q s1
-
-s1
-
 Oppervlakte=|det [s1 s2]|
-
-0
-x1
-
-𝑐
-𝑑
-x1
-
 Oppervlakte = det
-
-𝑎
-𝑏
-
-𝑐
-𝑑
-
-𝑎
-𝑏
-
-10
-
- 8/22/2019
-
 Oppervlakte onder lineaire
 transformatie T: parallellopipedum
-
 • S zijn punten op een parallellopipedum in n
-S = {y = x1 s1 + x2 s2 + … + xn sn; si  n, xi  [0,1] }
-s2
-x2s2
-
-0
-
-•
-•
-•
-•
-
-1 s1 + 1 s2
-x1s1
-
-s1
-
-T(S) = {z = T(y) = Ay; y  S}
-T(y) = x1 T(s1) + x2 T(s2) + … + xn T(sn)
 T(S) is een parallellopipedum
-Volume(T(S)) = |det [T(s1) T(s2) … T(sn)] |
-= |det([As1 … Asn])| = |det(A[s1 … sn]) |
-= |det A | |det [s1 … sn] |
 = |det A| Volume(S)
-
 Oppervlakte onder lineaire
 transformatie T: willekeurige figuur
 • Opvullen met parallellopipeda
-
 • Volume(T(R)) = |det A| Volume(R)
-
-11
-
- 

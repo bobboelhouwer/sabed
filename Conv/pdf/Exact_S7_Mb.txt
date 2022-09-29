@@ -1,13 +1,5 @@
-9/09/2017
-
 John Rupert Firth
 “You shall know a word by the company it keeps”
-•
-•
-•
-•
-•
-
 Hoe kunnen we automatisch gerelateerde woorden opsporen ?
 Hoe kunnen we automatisch gerelateerde documenten opzoeken ?
 Neem een verzameling documenten, genummerd d = 1 ... D
@@ -18,103 +10,30 @@ A : WxD matrix awd = aantal voorkomens van w in d
 31 aug: sportkatern
 2 sept: sportkatern
 parlement
-
-4
-
-3
-
-0
-
-1
-
 minister
-
-5
-
-8
-
-0
-
-0
-
-0 0
-
-4
-
-9
-
-1
-
-8
-
-7
-
 bergetappe
 Vuelta
-
-0
-
-1
-
- 9/09/2017
-
 Gelijkaardigheid
 • Document-vector = kolom uit A
-
-  A = [d1 ... dD] ; di ∈ RW
   In documenten over gelijkaardige onderwerpen hebben
 dezelfde woorden een hoge frequentie
-  cos ߠ௜௝ =
-
-‫܌‬೔ ೅ ‫܌‬ೕ
-‫܌‬೔
-
-‫܌‬ೕ
-
 is dan groot: diTdj = di1dj1 + ... + diWdjW
-
 • Woord-vector = rij uit A
-
-  A = [w1 ... wW]T ; wi ∈ RD
   Gerelateerde woorden zullen vaak voorkomen in
 documenten met een gelijkaardig onderwerp
-  cos ߮௜௝ =
-
-‫ܟ‬೔ ೅ ‫ܟ‬ೕ
-‫ܟ‬೔
-
-‫ܟ‬ೕ
-
 is dan groot
-
 Beste rang-k benadering
 • Normalisatie: vermenigvuldig elke rij met
 log(D/Ni) met Ni het aantal verschillende
 documenten waarin een woord voorkomt
-• A ≈ U k D Vk T
   Uk is Wxk matrix met orthonormale kolommen
   Vk is Dxk matrix met orthonormale kolommen
   D is kxk diagonale matrix met grootste s.w. van A
-
   wiT ≈ uiT D VkT met ui de i-de rij van Uk
-
 uiTD VkT Vk D uj
-D ui ୘ D uj
-cos ߮௜௝ ≈
-=
 V k D ui V k D uj
 D ui D uj
-
-2
-
- 9/09/2017
-
 Voorbeeld
-•
-•
-•
-•
-
 3 jaargangen van “De Standaard”
 90 000 documenten
 41.8 miljoen woorden
@@ -122,13 +41,10 @@ Voorbeeld
   Enkel woorden die minstend 10 keer voorkomen
   400 meest frequente woorden verwijderd (lidwoorden,
 hulpwerkwoorden, voorzetsels, …)
-
-• Maak de 95000x90000 matrix A
 • Bereken k = 100 grootste sing. waarden met sing. vectoren
 • Voor elk testwoord i, neem de 10 woorden j met kleinste ϕij
   Vereist inwendig product van 100-dim vectoren i.p.v. 90000-dim
 vectoren
-
 'wapen'
 'wapenarsenaal'
 'afkondigen'
@@ -139,7 +55,6 @@ vectoren
 'vredesinspanningen'
 'wapenstilstand'
 'bestand'
-
 'bier'
 'gerstenat'
 'pils'
@@ -150,7 +65,6 @@ vectoren
 'biersoorten'
 'bierverbruik'
 'bierindustrie'
-
 'fiets'
 'fietsen'
 'tweewieler'
@@ -161,7 +75,6 @@ vectoren
 'mountainbikers'
 'bicycle'
 'autoluw'
-
 'professor'
 'hoogleraar'
 'doctoraat'
@@ -169,10 +82,8 @@ vectoren
 'emeritaat'
 'vakgroep'
 'fakulteit'
-'ku'
 'academisch'
 'doceren'
-
 'pater'
 'priester'
 'etenorde'
@@ -183,7 +94,6 @@ vectoren
 'moloka'
 'damiaans'
 'melaatse'
-
 'chirurg'
 'chirurgisch'
 'radioloog'
@@ -194,7 +104,6 @@ vectoren
 'kransslagader'
 'anestesie'
 'hartritmestoornissen'
-
 'dna'
 'celmachinerie'
 'spiercel'
@@ -205,7 +114,6 @@ vectoren
 'rna'
 'receptor'
 'liposomen'
-
 'airbus'
 'boeing'
 'burgerluchtvaart'
@@ -216,7 +124,3 @@ vectoren
 'passagiersvliegtuig'
 'vliegtuig'
 'toestel'
-
-3
-
- 

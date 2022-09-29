@@ -1,52 +1,31 @@
 17. Enzymen, coënzymen en vitaminen
 • eiwitten die op specifieke wijze de omzetting van een
 substraat katalyseren
-
 10 miljoen maal sneller!
 60000 moleculen CO2
 omzetten per seconde
-
 Enzymen, coënzymen en vitaminen
-
-1
-
  17.1 Enzymstructuur
 • grote variëteit in grootte en structuur:
-
 ribonuclease
-13.700 u
 één keten
-
 aldolase
-156.000 u
 vier subeenheden
-
 Enzymen, coënzymen en vitaminen
-
 pyruvaatdehydrogenase
-~10.000.000 u
 minstens 42 ketens
-
-2
-
  17.2 Enzymcofactoren
 • niet-proteinecomponent noodzakelijk voor activiteit
-
 organisch reagens
 komt tussen bij oxidatie, reductie, alkylering, …
 niet specifiek!
-
 • prosthetische groep: covalent gebonden cofactor
 (voorbeeld heemgroep in hemoglobine)
 • (co)enzymen hebben beperkte levensduur
 • er moeten voldoende essentiële aminozuren, metaalionen
 en vitaminen (organische moleculen) aanwezig zijn
 (dagelijkse opname via voedsel noodzakelijk)
-
 Enzymen, coënzymen en vitaminen
-
-3
-
  17.3 Nomenclatuur en indeling enzymen
 • ‘gekatalyseerd proces’ + uitgang –ase
 • indeling in zes hoofdgroepen:
@@ -56,7 +35,6 @@ Enzymen, coënzymen en vitaminen
 ✓ lyasen
 ✓ isomerasen
 ✓ ligasen
-
 katalyseren…
 redoxprocessen
 groepsoverdracht
@@ -64,39 +42,24 @@ hydrolyse
 splitsen binding
 isomerisatie
 vorming binding
-
 voorbeeld coënzym
 NAD+ en FAD
 pyridoxalfosfaat
 coënzym A
 coënzym A
-
 • EC-nummer (enzymclassificatienummer):
 lactaatdehydrogenase EC 1.1.1.27
 systematische naam: L-lactaat-NAD-oxidoreductase
-
 Enzymen, coënzymen en vitaminen
-
-4
-
  17.4-5 Werking en specificiteit van enzymen
 • vorming enzym-substraat-complex:
-
 • katalytische activiteit gelokaliseerd in actieve plaats
 chymotrypsine: imidazool His57, carboxylgroep Asp102,
 hydroxylgroep Ser195
-
 Enzymen, coënzymen en vitaminen
-
-5
-
  reactiespecifiek: katalyseert hydrolyse van peptiden, amiden
 en esters
-
 Enzymen, coënzymen en vitaminen
-
-6
-
  substraatspecifiek: katalyseert reactie voor één bepaald
 substraat (urease: hydrolyseert enkel ureum)
 • verklaring specificiteit:
@@ -104,186 +67,89 @@ substraat (urease: hydrolyseert enkel ureum)
 ✓ specifieke interacties
 • dikwijls uitgesproken pH-optimum (pepsine 1,5; trypsine 7,7)
 • meestal zeer stereospecifiek (sleutel-slot-theorie)
-
 Enzymen, coënzymen en vitaminen
-
-7
-
  • bij brede substraatspecificiteit: ‘induced-fit’-theorie
 ✓ verschillende substraten binden door zwakke interacties
 ✓ induceren conformatieveranderingen enzym
 ✓ katalytische groepen komen in gepaste oriëntatie
 • symmetrische moleculen selectief omzetten in welbepaald
 stereo-isomeer van het product
-
 fumarase: anti-additie van water geeft uitsluitend S-appelzuur
 specifieke
 oriëntatie
 katalytische
 groepen
-
--NH3+
-
 -COO-
-
 Enzymen, coënzymen en vitaminen
-
-8
-
- 17.6 Coënzymen
 Coënzym A – CoA-SH
-
 essentieel
-
 cysteamine
-
 vitamine
-B5
-
 ✓ goede bindingsinteracties aan diverse enzymen via lang CoA-gedeelte
 ✓ thiolaatanion (voldoende aanwezig bij cellulaire pH) zeer goed
 Nu en vertrekkende groep: ideaal bij omesteringsreacties
-
 fosfotransacetylase
 acetyloverdracht
-
 Enzymen, coënzymen en vitaminen
-
-9
-
  Nicotinamide-Adenine-Dinucleotide – NAD+
-
 vitamine
-B3
-
 ✓ belangrijkste elektronen+2
-
-0
--1
-+1
-
--2
-0
-
 acceptor bij oxidaties
 ✓ belangrijkste deel:
 pyridiniumring, neemt Hop 4-plaats op H
--1
-+1
 H
 N
-
 geoxideerde vorm
-
 gereduceerde vorm
-
 Enzymen, coënzymen en vitaminen
-
 R
-
 H
-
 H
--2
-
-H 0 N
 R
-
-10
-
  ✓ NADH wordt via elektronentransportketen weer
 geoxideerd, gelijktijdig vorming van ATP
 ✓ bij anabole processen:
 extra fosfaatgroep op 2’-positie, = NADPH
 ✓ biosynthese van vetzuren (zie Lipiden):
 reductie carbonyl- tot methyleengroep via 2 NADPH
-
-0
-+2
-
--1
-
 Enzymen, coënzymen en vitaminen
-
 t
-
--2
-
-11
-
  Flavine-Adenine-Dinucleotide – FAD
 (Flavine-Mononucleotide – FMN)
 ✓ riboflavine → FMN → FAD
-
 flavine + ribitol
-
 vitamine
-B2
-
 ✓ belangrijk coënzym in enzymatische redoxreacties
 ✓ belangrijkste deel: flavine-ring (Lat. geel)
 ✓ strikt genomen geen dinucleotide (geen glycosidebinding)!
-
 Enzymen, coënzymen en vitaminen
-
-12
-
  ✓ kan H-/H+ opnemen of stapsgewijs elektron en H+ opnemen
-
 ✓ FAD is elektronenacceptor bij oxidatie alkaan naar alkeen
-
 Enzymen, coënzymen en vitaminen
-
-13
-
  Thiaminepyrofosfaat
-
 vitamine
-B1
-
 ✓ bevat pyrimidine- en thiazoliumring
 ✓ pyrofosfaatgroep voor bindingsinteracties met enzym
 ✓ komt tussen bij decarboxylering a-ketozuren
 Pyridoxalfosfaat
-
 vitamine
-B6
-
 Enzymen, coënzymen en vitaminen
-
-14
-
  ✓ coënzym voor enzymen betrokken bij chemische
 veranderingen op de a, b, of g-plaats van a-aminozuren
 ✓ voorbeeld: decarboxylatie van aminozuren
 carbanion gestabiliseerd door mesomerie
 Beter schema – Hoofdstuk 15 – slide 21
-
 Enzymen, coënzymen en vitaminen
-
-15
-
  ✓ andere mogelijkheden (illustratief):
-
 Coënzym B12 en Tetrahydrofolaat - NIET
-
 Enzymen, coënzymen en vitaminen
-
-16
-
  Biotine (vitamine H)
-
 ✓ coënzym bij overdragen CO2
 ✓ aangemaakt door bacteriën in dikke darm
 ✓ coënzym in acetyl-CoA-carboxylase bij biosynthese vetzuren:
-
 stap 1
 O
-
 Enzymen, coënzymen en vitaminen
-
-17
-
  17.7 Vitaminen
 • verzameling organische verbindingen van uiteenlopende
 structuur en biologische functie
@@ -292,16 +158,11 @@ hoeveelheden - micronutriënt) wegens niet of onvoldoende
 door het organisme aangemaakt
 • gebruikt als katalysator (als onderdeel coënzym) bij
 stofwisselingsreacties of als redox-actief membraanbestanddeel
-
 • ingedeeld op basis van vetoplosbaarheid:
 ✓ vetoplosbare vitaminen: A, D, E en K
 (soms tot lipiden gerekend)
 ✓ wateroplosbare vitaminen: B, C, foliumzuur en biotine
-
 Enzymen, coënzymen en vitaminen
-
-18
-
  • hypovitaminose:
 specifieke storingen in stofwisseling door tekort aan vet- of
 wateroplosbare vitaminen
@@ -311,698 +172,353 @@ vitamine D
 (wateroplosbare vitaminen worden via metabolisme
 omgezet en uitgescheiden)
 • enkel vitaminen A en C worden industriëel geproduceerd
-
 Vitamine C (ascorbinezuur)
 ✓ rol bij stofwisseling aminozuren, vorming rode bloedlichaampjes, opname ijzer door darmwand, synthese
 adrenalinehormonen, vorming collageen
 ✓ relatief hoge dagelijkse behoefte: > 45 mg
-
 Enzymen, coënzymen en vitaminen
-
-19
-
  Vitamine C (ascorbinezuur)
-
 Enzymen, coënzymen en vitaminen
-
-19
-
  ✓ biosynthese in planten en lever van veel gewervelde
 dieren (maar niet mens!):
-
 ✓ bevat lacton en een-diol
 ✓ reducerende eigenschappen (een-diol draagt elektronenpaar over), anti-oxidans
-
-+1
-
-+2
-
 Enzymen, coënzymen en vitaminen
-
-21
-
  10.13 De glycolyse
 ✓ lysis = splitsing
 ✓ glucose omzetten in pyrodruivenzuur en chemische energie
-
 ✓ enolisatie, tautomerie en aldolsplitsing (= retro-aldolreactie)
 spelen belangrijke rol
 ✓ afhankelijk van organisme: verdere omzetting tot melkzuur,
 kooldioxide of ethanol
-
 Aldehyden en ketonen
-
-22
-
  Stap 1: fosforylering glucose door hexokinase EC 2.7.1.1
-
 H
-
 O
-
 H
-
 C
-
 O
 C
-
 H
-
 C
-
 OH
-
 OH
-
 C
-
 H
-
 H
-
-C
-
 H
-
 C
-
+OH
 H
-
-C
-
 OH
-
-OH
-
 C
-
 H
-
-OH
-
-H
-
 C
-
 OH
-
-OH
-
 H
-
 C
-
 OH
-
+C
+OH
+H
+C
+OH
 ATP
-
 ADP
-
 CH2 OH
-
 glucose (1)
-
 CH2 OPO3H 2
-
 glucose-6-fosfaat (2)
-
 Keq = 5700, indien voldoende ATP, goede vorming (2)
-
 Aldehyden en ketonen
-
-23
-
  Stap 2: tweemaal keto-enol-tautomerie door
 glucose-6-fosfaatisomerase E.C. 5.3.1.9
 H
-
 O
 C
-
 CH2 OH
-
 H
-
 C
-
 OH
-
 OH
-
 C
-
 H
-
 H
-
 C
-
 H
-
 C
-
 C
-
 O
-
 OH
-
 C
-
 H
-
 OH
-
 H
-
 C
-
 OH
-
 OH
-
 H
-
 C
-
 OH
-
 CH2 OPO3H2
-
 glucose-6-fosfaat (2)
-
 Aldehyden en ketonen
-
 CH2 OPO3H 2
-
 fructose-6-fosfaat (3)
-
-24
-
  Stap 3: tweede fosforylering door fosfofructokinase EC 2.7.1.11
-
 CH2 OH
 C
-
 O
-
 OH
-
 C
-
 H
-
 H
-
 C
-
 H
-
 C
-
 CH2 OPO3H 2
 ATP
-
 ADP
-
 C
-
 O
-
 OH
-
 C
-
 H
-
 OH
-
 H
-
 C
-
 OH
-
 OH
-
 H
-
 C
-
 OH
-
 CH2 OPO3H2
-
 fructose-6-fosfaat (3)
-
 CH2 OPO3H 2
-
 fructose-1,6-difosfaat (4)
-
 Aldehyden en ketonen
-
-25
-
  Stap 4: splitsing in twee C3-fragmenten door aldolase EC 4.1.2.13
 dihydroxyacetonfosfaat (5)
 CH2 OPO3H 2
-
 CH2 OPO3H2
 C
-
 O
-
 OH
-
 C
-
 H
-
 H
-
 C
-
 OH
-
 H
-
 C
-
 OH
-
 C
-
 CH2 OH
 H
-
 O
 C
-
 H
-
 CH2 OPO3H2
-
 fructose-1,6-difosfaat (4)
-
 O
-
 C
-
 OH
-
 CH2 OPO3H 2
-
 glyceraldehyde-3-fosfaat (6)
-
 Retro-aldolreactie !
 Enzym zet ook fructose-1-fosfaat om
 (fructose ook te gebruiken als energiebron)
 Waarom is eerst isomerisatie tot fructosederivaat nodig ?
 (En is er m.a.w. geen retro-aldol mogelijk op glucose?)
-
 Aldehyden en ketonen
-
-26
-
  Stabilisatie anders niet mogelijk!
-
 Aldehyden en ketonen
-
-27
-
  Stap 5: isomerisatie door triosefosfaatisomerase (TIM) EC 5.3.1.1
-
 H
-
 CH 2 OH
 C
-
 O
 C
-
 O
-
 H
-
-CH 2 OPO3H2
-
 C
-
 OH
-
+CH 2 OPO3H2
 CH2 OPO3H2
-
 dihydroxyacetonfosfaat (5)
-
 glyceraldehyde-3-fosfaat (6)
-
 OH
 H
 H
-
 O
-
 C
-
 H
-
 C
-
 C
-
 O
-
 C
-
 CH 2 OPO3H2
-
 H
-
 H
-
 O
 C
-
 OH
-
 CH2 OPO 3H2
-
 H
-
 C
-
 OH
-
 CH2 OPO 3H2
-
 Waarschijnlijk meest efficiënte enzym dat gekend is…
-
 Aldehyden en ketonen
-
-28
-
  Stap 6: gelijktijdige oxidatie en fosforylering van aldehyde door
 glyceraldehyde-3-fosfaatdehydrogenase EC 1.2.1.12
-
 H
-
 O
 C
-
 H
-
 C
-
 Pi
 NAD +
-
-H+
 NADH
-
 OH
-
 CH2 OPO3H2
-
 glyceraldehyde-3-fosfaat (6)
-
 O
-
 OPO 3H2
 C
-
 H
-
 C
-
 OH
-
 CH2 OPO 3H2
-
 1,3-difosfoglycerinezuur (7)
-
 Vorming eerste energierijke verbinding
 (acylfosfaatgroep)
-
 Aldehyden en ketonen
-
-29
-
- O
-
 ✓ vereist moeilijke verwijdering hydride-ion
 ✓ eerst nucleofiel aan carbonylgroep adderen
-
 R
-
 C
-
 O
 O
-
 P
-
 OH
-
--O
-
 O
--O
-
 P
-
 OH
-
--O
-
-(3)
-
-(1)
 Aldehyden en ketonen
-
-(2)
-
-30
-
  Stap 7: overdracht fosfaatgroep naar ADP door
 fosfoglyceraatkinase EC 2.7.2.3
-
 O
-
-OPO 3H 2
 C
-
 H
-
 C
-
 ADP
-
 OH
-
 ATP
-
 O
+OH
+C
 H
-
+C
+OH
 CH2 OPO 3H2
-
+CH2 OPO 3H2
 1,3-difosfoglycerinezuur (7)
-
-OH
-C
-C
-
-OH
-
-CH2 OPO 3H2
-
 3-fosfo-glycerinezuur (8)
-
 Eerste vorming ATP! (break-even)
-
 Aldehyden en ketonen
-
-31
-
  Stap 8: omestering fosfaatgroep door
 fosfoglyceraatmutase EC 5.4.2.1
-
 O
-
 OH
-
 O
-
 C
 H
-
 C
-
 OH
-
 H
-
 CH2 OPO 3H2
-
 O
-
 OH
 C
 C
-
 OH
-
 OH
-
 CH2 O
-
 P
-
 C
-
 OPO 3H2
-
 CH2 OH
-
 2-fosfo-glycerinezuur (9)
-
 3-fosfo-glycerinezuur (8)
-
 H
-
 OH
 C
-
 fosfaatgroep verhuist van
-C-3 naar C-2
-
 O
 OH
-
 ! fout in boek: p. 181 isomerisatie weergegeven
 op het aldehyde ipv het carbonzuur !
-
 Aldehyden en ketonen
-
-32
-
  Stap 9: dehydratatie door enolase of
 fosfopyruvaathydratase EC 4.2.1.11
-
 O
-
 OH
-
 O
-
 C
 H
-
 C
-
 OH
 C
-
 OPO 3H2
-
 CH2 OH
-
 C
-H2 O
-
 2-fosfo-glycerinezuur (9)
-
 OPO 3H2
-
 CH2
-
 fosfoënolpyrodruivenzuur
-(10)
-
 Mg2+ noodzakelijk voor activiteit enzyme
 synthese tweede energierijke verbinding
 (geblokkeerd enol)
-
 Aldehyden en ketonen
-
-33
-
  Stap 10 en 11: transfer fosfaatgroep naar ADP en enol-ketotautomerisatie door pyruvaatkinase EC 2.7.1.40
-
 O
-
 ADP
-
 OH
 C
-
 ATP
-
 O
-
 OH
 C
-
 C
-
 OPO 3H2
-
 C
-
 CH2
-
 OH
-
 CH2
-
 fosfoënolpyrodruivenzuur
-(10)
 O
-
 enolpyrodruivenzuur
-(11)
-
 OH
 C
 C
-
 O
-
 CH3
-
 pyrodruivenzuur
-(12)
-
 Aldehyden en ketonen
-
 tweede vorming ATP
 spontane tautomerisatie drijft reactie
 naar rechts
-
-34
-
  Cumulatieve verandering vrije energie (kJ mol-1)
-
-G° versus G
-G°
 (verschil in stabiliteit
 tussen producten en
 uitgangsstoffen)
-
 vorming of breken energetische fosfaatbindingen
-
-G = -72,3 kJ mol-1
 < 0: reactie spontaan
 = 0: evenwicht
 > 0: energie toevoegen
-
 Reactiestap glycolyse
-
 Aldehyden en ketonen
-
-35
-
  12.6 De citroenzuurcyclus
 • Krebs cyclus of TCA (tricarboxylic acid) cyclus
 • in mitochondriën
@@ -1010,385 +526,166 @@ Aldehyden en ketonen
 • koppeling naar citroenzuurcyclus via pyruvaatdehydrogenase complex:
 pyruvaat → acetyl CoA + NADH + CO2
 • citroenzuurcyclus: acetyl CoA → CO2 + energie
-acetyl CoA + 3 NAD+ + FAD + ADP + Pi + 3 H2O
-
-3 NADH + FADH2 + CoA-SH + ATP + 2 CO2
-
 Carbonzuren
-
-36
-
  Stappen 1 en 2: isomerisatie citraat door aconitase
-H 2C
-
 COO -
-
 HO
-
 C
-
 H
-
 C
-
-H 2C
-
 COO -
-
 COO -
-
 C
-
 COO -
-
 COO -
-
 HC
-
 COO -
-
 H2O
-
 dehydratatie
-
-H 2C
-
 COO-
-
 H
-
 C
-
 COO-
-
 H
-
 C
-
 COO-
-
 H2O
-
 hydratatie
-
 H
-
 OH
-
 citraat
-
 cis-aconitaat
-
 D-isocitraat
-
 tertiair alcohol omzetten in secundair alcohol
 (nodig voor verdere oxidatie)
-
-G°’ = 6,3 kJ/mol
-
 Carbonzuren
-
-37
-
  Stappen 3 en 4: dehydrogenatie isocitraat en spontane
 decarboxylatie door isocitraatdehydrogenase
-H 2C
-
 COO-
-
 H
-
 C
-
 COO-
-
 H
-
 C
-
 COO-
-
 NAD +
-
 NADH + H+
-
-H 2C
-
 COO-
-
 H
-
 C
-
 COO-
-
 O
-
 C
-
 COO-
-
 dehydrogenatie
-
 CO2
-
-H 2C
-
 COO-
-
 CH2
-
-H+
-
 O
-
 C
-
 COO-
-
 OH
-
 D-isocitraat
-
 oxalosuccinaat
-
 a-ketoglutaraat
-
 oxidatieve decarboxylatie m.b.v. mangaanionen (zie hfdst. 12 slide 17)
-
-G°’ = -20,9 kJ/mol
-
 Carbonzuren
-
-38
-
  Stap 5: tweede oxidatieve decarboxylatie door
 a-ketoglutaraatdehydrogenase complex
-
-H 2C
-
 COO -
-
 NAD + + CoASH
-
-H 2C
-
 NADH + CO2
-
 CH2
 O
-
 C
-
 COO -
-
 CH2
 COO -
-
 a-ketoglutaraat
-
 O
-
 C
-
 SCoA
-
 succinyl-CoA
-
 m.b.v. coënzym thiaminepyrofosfaat (zie 12.5)
-G°’ = -33,5 kJ/mol
-
 Carbonzuren
-
-39
-
  Stap 6: dehydrogenatie door succinyl-CoA synthetase
 en succinaatdehydrogenase
 COOH 2C
-
 COO -
-
 ADP + Pi
-
 ATP + CoA-SH
-
 CH2
 O
-
 C
-
 CH2
-
 COO-
-
 FAD
-
 CH2
 SCoA
-
-COO-
-
 succinyl-CoA
-
-succinaat
-
-G°’ = -2,9 kJ/mol
-
 Carbonzuren
-
 FADH2
-
 CH
 HC
 COO-
-
+COO-
+succinaat
 fumaraat
-
-G°’ = 0,0 kJ/mol
-
-40
-
  Stap 7: additie van water door fumarase
 COOC
 H
-
 COO H
-
 H2O
-
 HO
-
 CH
-
 C
-
 CH2
-
 COO-
-
 COO -
-
 fumaraat
-
 L-malaat
-
 opnieuw oxideerbare hydroxylgroep in het molecuul
-
-G°’ = -3,8 kJ/mol
-
 Carbonzuren
-
-41
-
  Stap 8: oxidatie hydroxylgroep door malaatdehydrogenase
-
 COO HO
-
 C
-
 COO H
-
 O
-
 C
-
-+ NAD +
 CH2
-
 CH2
-
 COO -
-
 COO -
-
 L-malaat
-
-+ NADH + H +
-
 oxaloacetaat
-
 → omdat [oxaloacetaat] zeer laag gehouden wordt
-G°’ = 29,7 kJ/mol
-
 Carbonzuren
-
-42
-
  Stap 9: nucleofiele additie van acetyl CoA aan
 carbonylgroep door citraatsynthase
 O
 COOO
-
-H 3C
-
 C
-
-H2 O
-
 C
-
 S
-
 CoA
 HO
-
-H 2C
-
 COO -
-
 C
-
 COO -
-
-+ CoA-SH + H+
-
-C4
-
 CH2
-
 CH2
-
 COO-
-
 COO -
-
 oxaloacetaat
-
 citraat
-
 analoog aan aldolcondensatie
-
 Carbonzuren
-
-C6
-
-G°’ = -32,2 kJ/mol
-
-43
-
  Energiebalans
-
-pyruvaat + 4 NAD+ + FAD + ADP + Pi + 2 H2O
-4 NADH + FADH2 + 2 H+ + ATP + 3 CO2
 elektronentransportketen
-12 ATP
-
 2 ATP
-
 Totaal: 15 ATP
-
 Ligging evenwichten in voorafgaande slides is aangegeven
 met een kleur:
 grote Keq
-
 Carbonzuren
-
-Keq  1
-
-Keq  10-5
-
 Heteroaromaten
-
-44
-
- 

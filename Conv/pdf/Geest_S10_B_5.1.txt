@@ -5,332 +5,32 @@ Techniek #1: Constituentstype
 Techniek #2: Valentie en weglaatbaarheid
 Techniek #3: Vervangbaarheid
 Techniek #4: Verplaatsbaarheid
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
  Techniek #4: Verplaatsbaarheid: Het tweepolenschema
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
  Techniek #4: Verplaatsbaarheid: Het tweepolenschema
-(62)
-
-a.
-b.
-
 Stef heeft toen tot laat staan praten met Bo.
 dat Stef toen tot laat heeft staan praten met Bo.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
  Techniek #4: Verplaatsbaarheid: Het tweepolenschema
-(62)
-
-a.
-b.
-
 Stef heeft toen tot laat staan praten met Bo.
 dat Stef toen tot laat heeft staan praten met Bo.
-
 Stef
-
-1
 heeft
 dat
-
 toen tot laat
 Stef toen tot laat
-
-2
 staan praten
 heeft staan praten
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-. . . .
-
 met Bo.
 met Bo.
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
  Techniek #4: Verplaatsbaarheid: Het tweepolenschema
-(63)
-
-a.
-
 Als
-
 Kylie mij roept, dan kom ik meteen.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
  Techniek #4: Verplaatsbaarheid: Het tweepolenschema
-(63)
-
-a.
-b.
-
 Als
 Roept
-
 Kylie mij roept, dan kom ik meteen.
 Kylie mij
 , dan kom ik meteen.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
  Techniek #4: Verplaatsbaarheid: Het tweepolenschema
-(63)
-
 a. Als
 Kylie mij roept, dan kom ik meteen.
 b. Roept
@@ -338,54 +38,7 @@ Kylie mij
 , dan kom ik meteen.
 c. *Als roept Kylie mij
 , dan kom ik meteen.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
  Techniek #4: Verplaatsbaarheid: Het tweepolenschema
-(63)
-
 a. Als
 Kylie mij roept, dan kom ik meteen.
 b. Roept
@@ -393,54 +46,7 @@ Kylie mij
 , dan kom ik meteen.
 c. *Als roept Kylie mij
 , dan kom ik meteen.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
  Techniek #4: Verplaatsbaarheid: Het tweepolenschema
-(63)
-
 a. Als
 Kylie mij roept, dan kom ik meteen.
 b. Roept
@@ -448,323 +54,57 @@ Kylie mij
 , dan kom ik meteen.
 c. *Als roept Kylie mij
 , dan kom ik meteen.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
  Techniek #4: Verplaatsbaarheid: De twee polen
 Stef
-
-1
 heeft
 dat
-
 toen tot laat
 Stef toen tot laat
-
-2
 staan praten
 heeft staan praten
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-. . . .
-
 met Bo.
 met Bo.
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
  Techniek #4: Verplaatsbaarheid: De twee polen
 Stef
-
-(64)
-
-1
 heeft
 dat
-
 toen tot laat
 Stef toen tot laat
-
-2
 staan praten
 heeft staan praten
-
 met Bo.
 met Bo.
-
 Tom probeert [om Niel te overhalen].
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
  Techniek #4: Verplaatsbaarheid: De twee polen
 Stef
-
-1
 heeft
 dat
-
 toen tot laat
 Stef toen tot laat
-
-2
 staan praten
 heeft staan praten
-
-(64)
-
 Tom probeert [om Niel te overhalen].
-
-(65)
-
 Tom probeert [Niel te overhalen].
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-. . . .
-
 met Bo.
 met Bo.
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
  Techniek #4: Verplaatsbaarheid: De twee polen
-a.
-b.
-c.
-d.
-e.
-
 VV
 Dirk
 Dirk
 Dirk
-
-P1
 eet
 dat
 wil
 wil
 dat
-
 MV
 pasta.
 Dirk pasta
 pasta
 pasta
 Dirk pasta
-
-P2
-
 AV
-
 eet.
 eten.
 kunnen blijven eten.
 wil kunnen blijven eten.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
- 

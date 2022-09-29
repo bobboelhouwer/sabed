@@ -1,1186 +1,284 @@
-MUTATIES & POLYMORFISMES
-Effecten en ontstaan
-
- Variatie: wijziging in de samenstelling van het DNA
--
-
-Op niveau van chromosoom : copij variaties (CNV)
-Op niveau van DNA
-
-Lichaamscellen
-Voortplantingscellen (erfelijk)
-
- Variatie in het humaan genoom
-1. Lokalisatie: intragenisch buiten een gen
-2. Frequentie: variatie (<1%)
-polymorfisme (>1%)
-3. Type wijziging:
-- SNP (single nucleotide polymorfisme)
-- enkele baseparen
-- variabel aantal repeats :
-* microsatellieten: dinucleotide, trinucleotide; tetranucleotide ..
-- insertie, deletie, inversie
-- copij aantal (CNV)
-
-4. Functionele gevolgen: silent
-functioneel
-5. Gunstig versus ongunstig (mutatie)
-
- DINUCLEOTIDE REPEAT
-
-bv. CA-repeat : variabel aantal (CA) copies
-
- DINUCLEOTIDE REPEAT
-
-10 X CA
-Allel 1
-
-catgactgtcaattgcctga cacacacacacacacacaca cgtatgctagctagctgct
-gtactgacagttaacggact gtgtgtgtgtgtgtgtgtgt gcatacgatcgatcgacga
-
-13 X CA
-Allel 2
-
-catgactgtcaattgcctga cacacacacacacacacacacacaca cgtatgctagctagctgct
-gtactgacagttaacggact gtgtgtgtgtgtgtgtgtgtgtgtgt gcatacgatcgatcgacga
-
-Amplificatie van de CA-repeat regio dmv PCR
-
- DNA
-
-Allel 10
-
-electroforese
-
-PCR
-
-10 X CA
-
-catgactgtcaattgcctga cacacacacacacacacaca cgtatgctagctagctgct
-gtactgacagttaacggact gtgtgtgtgtgtgtgtgtgt gcatacgatcgatcgacga
-
-DNA product 1
-= lengte 10 CA’s
-
-Allel 13
-
-13 X CA
-
-catgactgtcaattgcctga cacacacacacacacacacacacaca cgtatgctagctagctgct
-gtactgacagttaacggact gtgtgtgtgtgtgtgtgtgtgtgtgt gcatacgatcgatcgacga
-
-DNA product 2
-= lengte 13 CA’s
-oligonucleotide primers :
-= specifiek voor elke microsatelliet locus
-
- Resultaat :
-
-start
-- groot
-Hoeveelheid
-DNA
-Allel 13
-
-Allel 10
-klein
-+
-
-allel
-10
-
-allel
-13
-
-lengte
-
- Polymorfe locus : bv (CA)repeat
-Kind
-
-Moeder
-
-Vader1
-
-Vader2
-
-24/13
-
-22/8
-
-Allel 24
-Allel 22
-Allel 19
-
-Allel 13
-Allel 8
-Genotype : 19/13
-
-24/19
-
-   Forensisch DNA onderzoek
-
-  VARIATIE/MUTATIE
-Negatief effect
-
-Geen effect
-(polymorfisme)
-
-Bijv :
-- ziekte van Huntington
-- achondroplasie
-- …
-
-Bijv :
-- silent substituties
-- meeste CA-repeats
-- …
-
-Positief effect
-
-Bijv :
-- sikkelcel anemie
-- …
-
-“FUNCTIONEEL POLYMORFISME”
-Gewijzigde genfunctie maar fenotypisch effect
-is afhankelijk van bijkomende genetische
-en omgevingsfactoren.
-Bijv : MTHFR C/T allel
-
- 1. Hoe kan men aantonen dat een variant = mutatie
-en de ziekte veroorzaakt?
-1.
-
-Familie onderzoek
-Segregatie van de mutatie met de aandoening in de familie
-de novo mutatie (bij dominante of X-gebonden aandoening)
-
-2.
-
-Controle populatie
-wijziging die bij gezonde personen wordt aangetroffen is waarschijnlijk een
-variant/polymorfisme
-
-3.
-
-Functionele gevolgen
-voorspellen van effect op eiwit aan de hand van wijziging
-evolutionair geconserveerd?
-In vitro studies naar functie van gewijzigd eiwit (research)
-
- 2. Ontstaan van mutaties/variaties
-
-Spontaan
-DNA replicatie
-Invloed van paternele leeftijd op frequentie van monogene aandoeningen
-Mutagenen
-Ioniserende stralingen
-Niet-ioniserende stralingen (UV)
-Toxische stoffen (ook alcohol en roken)
-
-human intergeneration mutation rate
-of ~1.1 × 10−8 per position per
-haploid genome
-
- 3. Meest voorkomende type mutaties
-
- intron
-
-NORMAAL
-
-exon
-
-intron
-
-nnnnag … GGA TCC CCT GGA … gtnnnn
-… Gly Ser Pro Gly …
-
-PUNTMUTATIES
-Substitutie
-
-silent
-
-nnnnag … GGT TCC CCT GGA … gtnnnn
-… Gly Ser Pro Gly …
-
-Substitutie
-
-nnnnag … CGA TCC CCT GGA … gtnnnn
-… Arg Ser Pro Gly …
-missense
-Substitutie
-
-nnnnag … GGA TCC CCT TGA … gtnnnn
-… Gly Ser Pro STOP …
-nonsense
-
- intron
-
-NORMAAL
-
-exon
-
-intron
-
-nnnnag … GGA TCC CCT GGA … gtnnnn
-… Gly Ser Pro Gly …
-
-MICRODELETIES / MICRO-INSERTIES
-insertie
-in frame
-
-nnnnag … GGA TCC GCA CCT GGA … gtnnnn
-… Gly Ser Ala Pro Gly …
-
-deletie
-in frame
-
-nnnnag … GGA TCC GGA … gtnnnn
-… Gly Ser Gly …
-
-insertie
-frameshift
-
-nnnnag … GGA TTC CCC TGG A … gtnnnn
-… Gly Phe Pro Trp …
-
-Verkeerde mRNA processing
-substitutie
-nnnnag … GGA TCC CCT GGA … atnnnn
-splice mutatie
-… Gly Ser Pro Gly …
-
- Onstabiele trinucleotide repeats- dynamische mutatie
-
-1. Ziekte van Huntington
-2. Myotone dystrofie of
-Ziekte van Steinert
-
-3. Fragiele X syndroom
-
- 4. Hoe veroorzaakt een mutatie een ziekte
-(effecten van gen mutatie op de werking van het eiwit)
-
- ►effect mutatie op de werking van het eiwit: loss-of-function
-
-Gen sequentie is aangetast er wordt geen of een abnormaal eiwit
-gevormd dat niet langer zijn functie kan uitoefenen
-
-LOSS-OF-FUNCTION mutatie die leidt tot HAPLO-INSUFFIENTIE
-
- ►effect mutatie op de werking van het eiwit: gain-of-function
-
-Achondroplasie
-> 95% van de personen met achondroplasia hebben
-dezelfde mutatie glycine380arginine in FGFR3 gen.
-Hierdoor wordt het eiwit =FGFR3-receptor geactiveerd met
-sneller omzetten van kraakbeen naar bot en uiteindelijk kleine gestalte
-
- Voor sommige genen kan zowel loss-of-function als gain-offunction voorkomen.
-Voorbeeld COL2A1 : een van de collageen coderende genen
-
-Collageen II normaal
-
-Loss-of-function:
-Verminderde hoeveelheid
-collageen
-Gain-of-function:
-abnormale structuur
-
- Voor sommige genen kan zowel loss-of-function als gain-offunction voorkomen.
-Voorbeeld COL2A1
-
-Loss-of-function:
-Verminderde hoeveelheid
-collageen
-Stickler syndroom
-
-Gain-of-function:
-abnormale structuur
-Achondrogenese type 2
-
- DNA onderzoek
-Sequentie bepalen van een gen
-Opsporen van mutaties
-
- Klassieke (Sanger) sequencing
-
-Human genome
-project (HGP)
-
-1990-2003: sequence the human (haploid) genome
-3.000.000.000 bp @ $ 2.700.000.000
-
-   Next generation (massive)
-sequencing (NGS)
-
-•
-
-Roche GS FLX (454 Life Sciences)
-– James Watson, 4.5 months, $ 1.500.000
-
-•
-
-Illumina Genome Analyzer II (Solexa)
-– Marjolein Kriek, 6 months, € 40.000
-
-•
-
-Applied Biosystems SOLiD 3 (Agencourt)
-
-•
-
-Illumina HiSeq2000
-
-•
-
-PacBio
-
-•
-
-NovaSeq
-
-  NGS sequencer
-
-  Illumina: sequence by synthesis
-T
-T
-T
-
-Patiënt
-DNA
-TT
-
-T
-T
-T
-
-T
-
-DNA
-fragmentatie
-
-T
-T
-T
-
-T
-TT
-
-33
-
-Miljoenen korte DNA fragmentjes
-
-TTT
-
- Illumina: sequence by synthesis
-
+Aanvullingen
+Responsie op
+ingangssignalen en begintoestand
+Responsie berekenen
+• Gegeven toestandsbeschrijving (A, B, C, D) ,
+• Toestandsbeschrijving
+• Exhaustieve berekening van x[k] en y[k]
+Voorbeeld
+Gegeven
+“Oplossen” toestandsvergelijking
+• Gegeven toestandsbeschrijving, u[k] en x[0], wat zijn x[k] en y[k] ?
+• Toestandsbeschrijving
 A
+Algemeen:
+• Uitgangssignaal
+Nulingangs- en nultoestandsrespons
+Nulingangsresponsie
+Nultoestandsresponsie
+• Nulingangsresponsie: y[k] als u[k]
+• Nultoestandsresponsie: y[k] als x[0] = 0
+Toestandsbeschrijving en
+gelijkvormige matrices
+Toestandsbeschrijving is niet uniek
+, np] een nxn inverteerbare matrix
+– Is verandering van coördinaten: w[k] zijn de coordinaten van x[k] in de
+basis {p
+Toestandsbeschrijving is niet uniek
+• In de nieuwe toestandsvector w[k] hebben we een
+equivalente toestandsbeschrijving:
+A en zijn gelijkvormig
+• Beide systemen zijn equivalent. Let wel op initiële
+toestand. Nulingangsresponsie:
+Zorg ervoor dat P w[0] = x[0], dan is ook P w[k] = x[k]
+voor k>0, en dus y[k]=
+Voorbeeld
+D
+D
+Voorbeeld (2)
+Kies
+zodat x[k] = P w[k]
+D
+D
+Toestandsbeschrijving en
+matrixdiagonalisatie
+Diagonaalvorm
+• Veronderstel dat A diagonaliseerbaar is
+• Kies P =1,[v... , nv] met iveigenvector van A met
+eigenwaarde
+• Voor SISO systeem:
+• Toestand i beinvloedt toestand
+≠i niet
+j
+Diagonaalvorm voor SISO systeem
+• Som van
+eerste-orde
+systemen
+• Plus directe
+verbinding
+met winst̅+
+Voorbeeld
+D
+D
+Minimaliteit
+Voor sommige systemen kan een
+/ * = 0. De toestandsveranderlijke
+wi[k] kan dan niet beïnvloed
+worden. Het systeem is niet
+controleerbaar.
+Voor sommige systemen kan een
+0̅* = 0. De toestandsveranderlijke
+wi[k] kan de uitvoer niet
+beïnvloeden. Het systeem is niet
+observeerbaar.
+Een systeem dat niet observeerbaar
+en/of niet controleerbaar is heet
+niet-minimaal. Hetzelfde ingangsuitgangsgedrag kan gerealiseerd
+worden met een kleiner aantal
+geheugenelementen.
+Inwendige (interne) stabiliteit
+• Een systeem is inwendig stabiel →
+als0 x[k]
+als k
+k
+w λnk vn
+• Inwendig instabiel zodra één
+• Inwendig stabiel
+Nulingangsresponsie
+Nulingangsresponsie
+Nultoestandsresponsie
+• Ak x[0] bestuderen
 A
-A
-
-34
-
-A
-A
-A
-
- Illumina: sequence by synthesis
-
-T A
-T A
-T A
-
-35
-
-T
-T
-T
-
-A
-A
-A
-
- Illumina: sequence by synthesis
-
-C
-
-T
-A
-
+(c = rijvector; SISO system)
+Nulingangsresponsie
+k
+w λnk vn
+basis {v
+= P-1 x[k] is de coördinatenvector van x[k] in de
+k
+basis {v
+is een gewogen som van exponentiële functies in k
+Nulingangsresponsie
+Bijdragen tot nulingangsresponsie
+Attractor / aantrekker
+Inwendig stabiel
+Repeller / afstoter
+Inwendig onstabiel
+Saddle point / zadelpunt
+Inwendig onstabiel
+Complexe eigenwaarden
+ω is genormaliseerde frequentie. 0 < 7 < 1
+• Eigenvectoren
+i en
+i
+• Neem complex toegevoegde termen samen in
+E
+een reële rijvector;
+ccis
+E
+Re
 G
-
-C
-
-C
-
-T
+Complexe eigenwaarden (2)
 G
-A
-
-G
-A
-
-A
-
-G
-
-G
-
-A
-
-C
-
-C
-
-A
+• Bijdrage door complexe eigenwaarde in y[k] is
+product van:
+k - zie
+o Exponentieel verloop
+r reële eigenwaarde
+o Golvend verloop (K
+cos
+Complexe eigenwaarden
+Inwendig stabiel
+Bijdrage tot nulingangsresponsie
+Canonieke vorm en
+differentievergelijking
+Canonieke vorm
+• Zoek transformatiematrix 1Q
+q] zodat door de
+n
+M
+gelijkvormigheidstransformatie:
+M
+R
+Mnoemen we een compagnon-matrix
+Men A hebben dezelfde K.P. want gelijkvormig
+• Constructie van Q – zie later
+Waarom die Ã O
+en
+Constructie van Q
+2de vergelijking:T
 T
-
-A
-
-G
-
-A
-
-G
-
-A
-
+Constructie van Q
+U
 T
-
-T
-
-T
-
-G
-C
-
-36
-
-C
-
-T
-
- Illumina: sequence by synthesis
-Picture
-
-T
-G
-
-A
-
-C
-
-C
-
-G
-
-A
-
-G
-A
-
-T
-
-A
-
-C
-
-G
-
-A
-
-C
-
-C
-
-A
-
-G
-
-G
-
-A
-
-T
-
-T
-A
-
-T
-
-A
-
-C
-
-T
-
-G
-
-C
-
-A
-
-T
-G
-
-C
-
-C
-
-37
-
- Illumina: sequence by synthesis
-Picture
-C
-
-T
-A
-
-T
-
-C
-
-C
-G
-
-A
-
-G
-
-C
-
-A
-
-A
-
-G
-
-A
-
-C
-
-C
-
-A
-
-A
-G
-
-G
-
-G
-
-T
-
-T
-A
-
-G
-A
-
-T
-
-A
-
-T
-
-A
-
-C
-
-T
-
-A
-
-G
-
-C
-
-A
-C
-
-38
-
- Illumina: sequence by synthesis
-Picture
-C
-
-T
-A
-
-G
-
-C
-
-C
-
-T
-G
-A
-
-G
-A
-
-C
-A
-
-G
-
-G
-
-A
-
-C
-
-C
-
-A
-G
-
-C
-
-T
-
-A
-
-T
-
-A
-
-A
-
-T
-
-G
-
-A
-T
-C
-
-A
-
-T
-
-T
-
-A
-
-G
-
-C
-
-T
-
-A
-C
-
-39
-
- Illumina: sequence by synthesis
-Picture
-C
-G
-
-A
-
-C
-
-C
-A
-
-G
-
-G
-
-A
-
-G
-
-T
-
-A
-
-C
-A
-
-C
-
-G
-
-A
-
-C
-
-C
-
-T
-A
-
-A
-
-T
-
-G
-
-C
-
-G
-
-C
-
-A
-
-T
-
-T
-
-A
-
-T
-
-A
-
-T
-
-A
-
-G
-
-C
-
-T
-
-C
-
-C
-T
-A
-C
-
-40
-
- Illumina: sequence by synthesis
-Picture
-
-A
-
-T
-
-C
-
-C
-G
-
-C
-
-A
-
-G
-
-C
-
-A
-
-A
-T
-
-G
-C
-
-G
-
-A
-
-T
-
-G
-
-C
-
-T
-T
-
-G
-
-G
-
-A
-
-A
-C
-
-G
-
-G
-
-C
-
-A
-
-T
-
-A
-
-T
-
-A
-
-A
-
-G
-
-C
-
-T
-C
-
-A
-
-C
-T
-
-T
-
-A
-C
-
-41
-
- Illumina: sequence by synthesis
-Picture
-
-A
-
-G
-
-C
-
-C
-
-T
-
-G
-
-G
-A
-
-G
-A
-
-T
-
-C
-
-T
-
-C
-A
-
-G
-
-G
-
-C
-
-A
-
-T
-
-C
-
-G
-
-C
-
-G
-
-A
-
-T
-
-G
-
-C
-
-G
-
-C
-
-A
-
-T
-
-T
-
-A
-
-T
-
-A
-
-T
-
-A
-
-G
-
-C
-
-A
-T
-C
-
-A
-
-C
-T
-
-T
-
-A
-C
-
-42
-
- Reconstruction DNA-sequencing
-
-Aligneren van miljoenen korte sequenties (150 bp) :
-Referentie
-sequentie
-
-……..CCTATATAGTCCAAGTACATACCTAGTAAACGCCGGTATACCCTAGC……….
-
-CCTATATAGGCCAAGTACATA
-AGGCCAAGTACATACC
-GCCAAGTACATACCTAG
-GTACATACCTAGTAAATG
-ATACCTAGTAAATGCCGGTATA
-AGTAAATGCCGGTATACCCTAGC
-
-CCTATATAGGCCAAGTACACA
-AGGCCAAGTACACACC
-GCCAAGTACACACCTAG
-GTACACACCTAGTAAATG
-ACACCTAGTAAATGCCGGTATA
-AGTAAATGCCGGTATACCCTAGC
-
-43
-
-Diepte
-(5 X )
-
-  Bio-informatica pipeline
-
-  EXOOM SEQUENCING ~1.5-2 % van ganse genoom
-
-DNA gefragmenteerd
-Elk fragment krijgt een “linker”
-
-Hybridisatie met exoom array
-
-Elueren van het gecapteerde DNA
-
-Sequeneren van gecapteerde DNA
-
- Capture/Exoom/Genoom
-ATTGCTGCT
-ATTGCTGCT
-GCAATCGATG
-GCAATCGATG
-ATGTTTGAGAT
-ATGTTTGAGAT
-TCTCTAAGCTC
-TCTCTAAGCTC
-CCTGGTACCT
-CCTGGTACCT
-GGATATCGTCT
-GGATATCGTCT
-CTCGAAACAC
-CTCGAAACAC
-ACTTTGCCGC
-ACTTTGCCGC
-GGGAGTATAA
-GGGAGTATAA
-AGCCCGATT
-AGCCCGATT
-TTTCAGGGA
-TTTCAGGGA
-
-Filters
-
-• Zygositeit
-• Linkage
-• Prioritisatie
-• Functionele
-data
-• Effect/
-conser-vatie
-• Pathway
-
-Causale mutatie
-ATTGCTGCT
-ATTGCTGCT
-GCAATCGATG
-GCAATCGATG
-ATGTTTGAGAT
-ATGTTTGAGAT
-TCTCTAAGCTC
-TCTCTAAGCTC
-CCTGGTACCT
-CCTGGTACCT
-GGATATCGTCT
-GGATATCGTCT
-CTCGAAACAC
-CTCGAAACAC
-ACTTTGCCGC
-ACTTTGCCGC
-GGGAGTATAA
-GGGAGTATAA
-AGCCCGATT
-AGCCCGATT
-TTTCAGGGA
-TTTCAGGGA
-
-Functionele analyse
-
-• Additionele
-• Additionele
-families /
-families
-/
-Cohortes
-•Cohortes
-Diermodel
-• • Diermodel
-Cel Biologie
-• Cel•Biologie
-iPSC
-• iPSC
-
-    ATTGTACGTGATGACCAGTGGAAT
-ACCGTAAGGTAAAGTACCGTGTAC
-TTGGTTGGAACGTAGACTGAATGC
-CAACCCTGGTATTGGTGTCCCGTG
-TACAAGGTTAGTAATGTACCATTGA
-TTCCGTAATACGTGTGGCGCGTGC
-GTAACACACTGACTGACCATCCTG
-GTAGCTAGTCAAGTCGTAGCTGTC
-GTGACGTAACGTATATGACACACG
-TCAGTACGGTCAGTACACACATGC
-TGTGGTGCAGTACAGATACAGTAC
-AGATTAGCAGAAATGCAGATTTAGT
-
- Multifactorieel
-
-Monogeen
-
-Variatie in
-ziekte
-
-gespleten lip
-
-obesitas
-
-mucoviscidose
-
-dementie
-
-albinisme
-
- variatie
-in
-kenmerken
-
-schoonheid
-
-lengte
-
-intelligentie
-
-fysieke uithouding
-
-personaliteit
-
- ATTGTACGTGATGACCAGTGGAAT
-ACCGTAAGGTAAAGTACCGTGTAC
-TTGGTTGGAACGTAGACTGAATGC
-CAACCCTGGTATTGGTGTCCCGTG
-ATTGTACGTGATGACCAGTGGAAT
-ACCGTAAGGTAAAGTACCGTGTAC
-TTGGTTGGAACGTAGACTGAATGC
-CAACCCTGGTATTGGTGTCCCGTG
-TACAAGGTTAGTAATGTACCATTGA
-TTCCGTAATACGTGTGGCGCGTGC
-GTAACACACTGACTGACCATCCTG
-GTAGCTAGTCAAGTCGTAGCTGTC
-GTGACGTAACGTATATGACACACG
-TCAGTACGGTCAGTACACACATGC
-TGTGGTGCAGTACAGATACAGTAC
-AGATTAGCAGAAATGCAGATTTAGT
-TACAAGGTTAGTAATGTACCATTGA
-TTCCGTAATACGTGTGGCGCGTGC
-GTAACACACTGACTGACCATCCTG
-GTAGCTAGTCAAGTCGTAGCTGTC
-GTGACGTAACGTATATGACACACG
-TCAGTACGGTCAGTACACACATGC
-TGTGGTGCAGTACAGATACAGTAC
-AGATTAGCAGAAATGCAGATTTAGT
-
-variatie
-in
-kenmerken
-
-schoonheid
-lengte
-
-intelligentie
-
-interpretatie?
-
-personaliteit
-
-fysieke uithouding
-
-Variatie in
-ziekte
-
- Informed consent
-
- “Incidental finding”
-DEFINITION
-
-Pro- and Anti-disclosure
-
- Statement
-Total genome analysis for minors
-is only justifiable if the interests
-of the minor in question
-are given priority.
-
- Screening
-• Prevention
-• Longer and healthier
-life
-
-• Overestimation
-benefits screening
-• Over-medicalization
-
- Testen via internet
-
-          Total genome analysis as instrument for screening?
-gezondheidsvoordeel-klinisch zinvol?
-
-Risico type 2 diabetes
-
- Genome analysis via the internet
-Statement
-A total genome analysis from a personal or life style interest is of very low
-utility to the consumer (today).
-Statement
-Even though people pay themselves, it is not clear who controls the
-quality of the data/interpretation. There is a need for an (inter) national
-regulator that controls the quality of what is offered via the internet.
-
-  
+PQ
+PQ
+Waarom die Ã O
+en
+w
+w
+w
+w
+w
+w
+w
+Waarom die Ã O
+en
+Dus:
+Uitgangsvergelijking:
+Herschrijf:
+w1[k] elimineren
+Differentievergelijking
+O
+O
+f
+• Rechtstreeks verband tussen u[k] en y[k]
+• Dit heet een differentievergelijking
+• Alternatief voor de toestandsbeschrijving
+• Is een verband tussen differentievergelijking en canonieke vorm
+• M.a.w.: gegeven een differentievergelijking
+f
+f
+f
+Dan komen daarmee toestandsbeschrijvingen overeen die allemaal dezelfde K.P.
+hebben:%! + PQ
+R
+• Ook: gegeven een toestandsbeschrijving (A, b, c, d), dan komt daarmee een
+differentievergelijking overeen waarbij
+dedeã coëfficiënten van de K.P.
+i ook
+van A zijn
+Voorbeeld
+X
+Y
+X
+Y
+Z
+PQ
+PQ
+Voorbeeld
+O
+Met Q =
+, canonieke vorm:
+D
+D
+Voorbeeld
+PQ
+D
+D
+de differentievergelijking gehaald uit de canonieke vorm
+Impulsresponsie en convolutie
+Impulsresponsie
+• Doel: berekenen van de responsie. We hadden al:
+Exhaustief
+• Nultoestandsimpulsrespons (impulsrespons) h[k] van
+een SISO DTLTI systeem is y[k] wanneer
+k
+k
+k
+Verschoven impuls
+k
+k
+k
+k
+Ontbinding u[k]
+Lineair en tijdsinvariant
+Convolutie
+• Formeel
+d
+efd
+d
+b
+Lineair
+Tijdsinvariant
+• Voor een systeem dat uit de nultoestand vertrekt !
+• y[k] is de convolutie van u[k] en h[k]
+• Uitvoer is convolutie van invoer en impulsresponsie
+Convolutie
+Neutraal element: a[k]
+Lineair:
+• Enkelzijdige signalen a[k] = b[k] = 0 voor k<0 :
+d
+E
+=aPb
+efd
+efR
+• Causaal systeem: h[k] = 0 voor k<0
+Geen respons vóór de excitatie
+Impulsresponsie
+Nulingangsresponsie
+Nultoestandsresponsie
+2 term blijft enkel index j=0 staan
+de term:
+cA
+b
+Voorbeeld
+d
+E
+E
+E
+E
+steorde
+Impulsresponsie van
+1 systeem
+b
+D
+c
+k
+op
+E
+cb
+c
+q
+E
+E
+E
+Vorm impulsresponsie
+cAvoor k > 0
+• Zelfde bespreking als nulingangsresponsie
+steorde systeem:λk-1
+cb, zie boven
+• Voor diagonaliseerbare A, som van:
+o Exponentiëel verloop
+λ complex)
+o Schommelend exponentiëel verloop

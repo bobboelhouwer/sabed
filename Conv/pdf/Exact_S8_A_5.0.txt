@@ -1,8 +1,6 @@
 7. Alcoholen en thiolen
-
 R-O-H alcohol
 R-S-H thiol of mercaptaan
-
 ✓ afgeleid van H2O of H2S
 ✓ eigenschappen alcoholen vooral door –OH groep bepaald
 ✓ fenolen (-OH direct aan benzeen gebonden) aparte klasse !
@@ -10,101 +8,38 @@ R-S-H thiol of mercaptaan
 industriële en farmaceutische toepassingen
 ✓ opvallendste fysische eigenschap thiolen: geur
 ajuin: 1-propaanthiol, look: 2-propeen-1-thiol, aardgas
-
 stinkdier
-
 Alcoholen en thiolen
-
-1
-
  7.1 Nomenclatuur
 • uitgang –aan vervangen door –anol
 of
 alkylrest + alcohol
 • plaats –OH met nummer aangeven
-
 Alcoholen en thiolen
-
 substitutieve naamgeving
 radicofunctionele naamgeving
-
-2
-
  • diolen en triolen hebben resp. twee of drie –OH
 groepen: geminaal (2 OH op zelfde C) – vicinaal (2 OH op
 naburige C)
 • indien hogere functie: voorvoegsel –hydroxy
-
 antivries
-
 • thiolen: –aan → –thiol of alkylrest + mercaptaan
-
 Alcoholen en thiolen
-
-3
-
  7.2 Fysische eigenschappen van alcoholen
 • lagere en meervoudige alcoholen volledig mengbaar met water
-
 Kookpunten Alcoholen en Alkanen
-
-°C
-250
-200
-150
-
 Alcoholen
-
-100
-
 Alkanen
-
-50
-0
--50 1
-
-2
-
-3
-
-4
-
-5
-
--100
-
-6
-
-7
-
-8
-
 aantal C's
-
--150
--200
-
 • hoog Tk i.v.m. andere verbindingen met vergelijkbare MM
 Reden: waterstofbrugvorming
-
 Alcoholen en thiolen
-
-+ R
 O
-
-9
-
-+
 H
-
-4
-
  7.3 Methanol en ethanol
 methanol
-
 • vroegere bereiding: droge destillatie van hout (houtgeest)
 • huidige bereiding: hydrogenering koolmonoxide
-
 • goedkope basisgrondstof organische chemie
 • kleurloze, brandbare vloeistof
 • in alle verhoudingen mengbaar met H2O
@@ -114,383 +49,186 @@ in organisme geoxideerd tot methanal, blokkeert in oognetvlies het enzyme
 hexokinase
 Hexokinase (glycolyse) is nodig voor stofwisseling netvlies  blindheid
 (dosis van 30 mL kan dood tot gevolg hebben)
-
 Alcoholen en thiolen
-
-5
-
  ethanol
-
 • bereiding: alcoholische gisting (tot max. ~15%)
 • mogelijke verzuring door enzymatische oxidatie
 (enkel bij relatief laag-alcoholische dranken)
-
 • hoger alcoholpercentage door destillatie (tot max. 96%, tot
 100% via droogmiddel, bvb. CaO)
 • industriële synthese: zuurgekatalyseerde elektrofiele
 additie van H2O aan etheen (afk. van kraakgassen…)
-• brandstof: C2H5OH + 3 O2 → 2 CO2 + 3 H2O + warmte
 (bioethanol uit suikerriet of mais)
-
 Alcoholen en thiolen
-
-6
-
  ethanol
-
 Alcoholen en thiolen
-
-7
-
  • afbraak ethanol in lever door alcoholdehydrogenase (8 g/uur):
 ADH
-
 ethanol
-
 aceetaldehyde
-
-*
-
-CO2 + H2O
-
 Zink
 HN
-
 Ethanol
-
 N
 Cys
-
 S
--
-
-Zn2+ S
--
-
 Cys
-
 O
 H
-
 H
-
 O
 H
-
 Ser
-
 NAD+
 analoog
-
 ADH
 • ontwenningsmiddel disulfiram: blokkeert *
-
 Alcoholen en thiolen
-
-8
-
  Twee types reacties van alcoholen
-
 zuur
 nucleofiel
-
 substitutie
 eliminatie
-
 7.4 Zure en basische eigenschappen
 • alcoholen als zuur
-
 Amfotere eigenschappen
-
-••
-••
 alkoxide, alcoholaat
 Zeer hevig !
-
 bereiding
-
 Alcoholen en thiolen
-
-9
-
  ✓ meeste alcoholen zwakker zuur dan water
-••
-••
-
 Reden: • e--gevend karakter alkylgroep
 • minder solvatatie door
 aanwezigheid alkylgroep
-
 Gevolg:
-
 ✓ Uitzondering: R draagt sterk
 e- -zuigende groep: alcohol is
 sterker zuur dan water
-
 Alcoholen en thiolen
-
-10
-
  • thiolen als zuur
-••
-••
-
-25
 NaOH geconc.
-
 ✓ zuurder dan alcoholen door delocalisatie negatieve lading over
 groot zwavelatoom
 ✓ thiolen vormen onoplosbare zouten met Pb-, Hg- en andere zware
 metaalionen, gevaarlijke (toxische) reactie bij thiolbevattende enzymen !
-
-H 2C
-
 • alcoholen als base
-
 OH
-
 H
 C
-
 CH2
-
 SH
-
 SH
-
 algemeen: alkoxoniumion
-
 Alcoholen en thiolen
-
-11
-
  7.5 Nucleofiele eigenschappen
 • vrij elektronenpaar O- of S-atoom (Nu-) valt aan op
 elektronen-arm (E+) centrum
 • vorming -binding en afstaan van H+
 • thiolen sterkere nucleofielen dan alcoholen wegens grotere
 polariseerbaarheid en lagere solvatatie
-
 Alcoholen en thiolen
-
-12
-
  Alcoholen en thiolen
-
-13
-
  7.6 Reacties met halogeenalkanen
 • alcohol is zwak nucleofiel, trage SN2-reactie met RX
 • met alkoxide wel snel ! Williamson-synthese ethers
-
 • thiolen en thiolaten nog betere nucleofielen, dus nog
 vlottere SN2-reactie met RX
 vorming sulfiden
-
 Alcoholen en thiolen
-
-14
-
  7.7 Vorming van anorganische esters
 • reactie alcohol met anorganische zuren
-
 Nucleofiele
 additie vgl. 10.3
-
 ✓ S-atoom is elektrofiel centrum
 ✓ (rokend) zwavelzuur bevat vrij SO3
-
 zwavelzuur
-
 fosforzuur
-
 Nucleofiele
 substitutie
-vgl. 16.3
-
 ✓Omzetting hydroxylgroep in goede vertrekkende groep
-
 Alcoholen en thiolen
-
-15
-
  7.8 Substitutiereacties in alcoholen
 • hydroxylgroep vervangen door andere groep
-
 slechte
 vertrekkende
 groep
-
 • hydroxylgroep eerst omzetten tot betere vertrekkende
 (1) groep door protonering
 > Polarisatie C-O
-
 • primaire alcoholen + HX: SN2-mechanisme
 • secundaire en tertiaire alcoholen + HX: SN1-mechanisme
-
 Alcoholen en thiolen
-
-16
-
  • hydroxylgroep eerst omzetten tot betere vertrekkende
 (2) groep door omzetting in ester van sterk anorganisch zuur (§7.7)
-(3)
-
 • hydroxylgroep eerst omzetten tot sulfonaatgroep
-
 Nucleofiele substitutie
 aan meervoudige
 binding, vgl. 13.2
-
 goede vertrekkende
 groep door
 mesomerie
-
 Alcoholen en thiolen
-
-17
-
  7.9 Eliminatie van water uit alcoholen
 • eliminatiereactie nadat hydroxylgroep omgezet is tot betere
 vertrekkende groep door protonering
 • kan verlopen via een E1- of E2-mechanisme
-
 dehydratatie
-
 Alcoholen en thiolen
-
-18
-
  • in feite omgekeerde reactie van additie water aan alkenen
-
-
-
-
 H2O
-
 Evenwicht beïnvloeden door:
 → water onttrekken bij dehydratatie
  overmaat water bij additie water aan alkenen
-
 • meest gesubstitueerd alkeen als hoofdproduct
-
 Regel van
 ZAITSEV
-
 Alcoholen en thiolen
-
-19
-
  7.10 Oxidatie van alcoholen
-
 (eventueel afbraak tot
 kleinere moleculen)
 Welke oxidatiemiddelen ?
-
 Alcoholen en thiolen
-
-20
-
  • meest gebruikte oxidatiemiddelen: K2Cr2O7 en CrO3
 (telkens CrVI), echter zeer toxisch
 • primaire alcoholen: eerst aldehyde, oxideert gemakkelijk
 verder tot carbonzuur in aanwezigheid van water, ev.
 aldehyde afdestilleren
-
 enkel indien
 H2O aanwezig
-
 • mechanisme:
-
 CrIII
-
 Alcoholen en thiolen
-
-21
-
  • alcoholtest:
-
 blaaspijpjes
-
 digitaal
-
 Elektrochemische oxidatie:
-(+) C2H5OH + H2O
-(-) O2 + 4H+ + 4e-
-
-C2H5OH + O2
-
 Alcoholen en thiolen
-
-→ CH3COOH + 4H+ + 4e→ 2H2O
-
-→ CH3COOH + H2O
-
-22
-
  • in biologische processen is NAD+ een belangrijke oxidator:
-
 H- transfer
-
 geoxideerde
 vorm
-
 gereduceerde
 vorm
-
 NAD+/NADH-koppel is voor veel enzymen een noodzakelijk
 hulpreagens bij oxido-reductiereacties (coënzym)
 Voorbeeld: melkzuur oxideren tot pyrodruivenzuur
-
 Alcoholen en thiolen
-
-23
-
  0.12 Oxidatie van thiolen
 • bij oxidatie alcohol stijgt oxidatiegetal van naburige koolstof
 • bij oxidatie thiol stijgt oxidatiegetal van zwavelatoom
 • thiol wordt omgezet in disulfide (nog verdere oxidatie mogelijk)
-2 R
-
 SH
-
-+
-
--I
-
-I2
-0
-
 R
-
 S
-
 S
-
 R
-
-+
-
-0
-
-2 HI
--I
-
 Vorming disulfidebrug
 tussen cysteïneresidu’s
 oxidatie
-
 Belangrijke reactie bij het
 bakken van brood:
 cysteïne aanwezig in
 gluten in tarwebloem
-
 Alcoholen en thiolen
-
 reductie
-
 Aldehyden en ketonen
-
-24
-
- 

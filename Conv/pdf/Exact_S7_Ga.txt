@@ -1,16 +1,5 @@
-8/22/2019
-
-Lay 2.2, 2.3
-
 y=Ax
-x = A-1 y
-
 Definitie en toepassingen
-
-1
-
- 8/22/2019
-
 Inverse matrix: definitie
 • De nn matrix A is inverteerbaar  er een
 nn matrix C bestaat waarvoor geldt:
@@ -18,185 +7,27 @@ CA = In en AC = In
 • C is dan dé inverse van A, genoteerd als A-1
 Als B en C beide inverse zijn van A, dan is B = B In =
 BAC = In C = C  inverse is uniek
-
 • Een niet inverteerbare A noemen we singulier
-
 Oplossen van Ax = b
 • A een inverteerbare nn matrix, dan is voor
 alle b  n de oplossing gegeven door x = A-1b
- want A(A-1b) = b
-
 • Elke andere oplossing u zodat Au=b voldoet
 aan A-1Au = A-1b dus Inu = A-1b dus u = x
-
-2
-
- 8/22/2019
-
 Enkele rekenregels (A, B inverteerbaar)
-• (A-1)-1 = A
-
 A voldoet aan de vwdn om de inverse van A-1 te zijn:
-A A-1 = In = A-1A
-
-• (AB)-1 = B-1 A-1
-
 B-1 A-1 voldoet aan de vwdn om de inverse van AB te
-zijn: (AB)(B-1 A-1 ) = A(BB-1)A-1 = A A-1 = In
-en: (B-1 A-1 ) (AB) = B-1(A-1A)B = B-1B = In
-• (AT)-1 = (A-1)T
--1A)T
-A A-1 = IT = TA-1A  (A
-A-1)TT = In T = (A
 T
 T
- (A-1) A = In = A (A-1)  (A-1) is inverse van AT
 • Merk op dat A-1, AB en AT inverteerbare matrices zijn
-
 Constructie van de inverse matrix
-
-3
-
- 8/22/2019
-
 Elementaire matrices
 • Links vermenigvuldigen met een elementaire matrix voert een
 elementaire rij-operatie (ER) uit
-1
 – Rijschaling: 0
-0
-
-0
-1
-0
-1
-– Rijomwisseling: 0
-0
-1
-– Rijvervanging: 0
-𝑘
-
-0
-0
-𝑘
-0
-0
-1
-0
-1
-0
-
-𝑎
-𝑑
-𝑔
-0
-1
-0
-0
-0
-1
-
-𝑏
-𝑒
-ℎ
-𝑎
-𝑑
-𝑔
-𝑎
-𝑑
-𝑔
-
-𝑐
-𝑓
-𝑖
-𝑏
-𝑒
-ℎ
-𝑏
-𝑒
-ℎ
-
-𝑎
-𝑏
-𝑐
-𝑒 𝑓
-= 𝑑
-𝑘𝑔 𝑘ℎ 𝑘𝑖
-𝑐
-𝑎 𝑏 𝑐
-𝑓 = 𝑔 ℎ 𝑖
-𝑖
-𝑑 𝑒 𝑓
-𝑐
-𝑎
-𝑏
-𝑓 =
-𝑑
-𝑒
-𝑖
-𝑔 + 𝑘𝑎 ℎ + 𝑘𝑏
-
-𝑐
-𝑓
-𝑖 + 𝑘𝑐
-
 Inverse van elementaire matrices
 • ER zijn omkeerbaar
-1
 – Rijschaling: E= 0
-0
-
-0
-1
-0
-1
-– Rijomwisseling: E= 0
-0
-1
-– Rijvervanging: E= 0
-𝑘
-
-0
-0
-𝑘
-0
-0
-1
-0
-1
-0
-
-0
-0
-;
-1/𝑘
-0
-1 0 0
--1
-1 ; E =E= 0 0 1
-0
-0 1 0
-0
-1 0 0
-0 ; E-1= 0 1 0
-1
-−𝑘 0 1
-E-1=
-
-1
-0
-0
-
-0
-1
-0
-
 • Bewijs: nagaan dat E-1E=EE-1=I
-
-4
-
- 8/22/2019
-
 A-1 berekenen
 A inverteerbaar  A  In
 Als A inverteerbaar is geldt: [A In]  [In A-1]
@@ -204,34 +35,11 @@ Bewijs
  A inverteerbaar  b  n unieke oplossing
  geen vrije variabelen  n pivotkolommen
  n pivots op diagonaal  In is GEV
-
- A  In  Ep Ep-1 … E1A = In
- Ep-1 Ep Ep-1 … E1A = Ep-1 In = Ep-1
- Ep-1 … E1A = Ep-1  …  A = E1-1 … Ep-1 invertb
- A-1 = Ep … E1
- A-1 = Ep … E1 In (dus [A In]  [In A-1] )
-
 Matrixinversiestellingen
-
-5
-
- 8/22/2019
-
 Inverteerbare matrices
 a. A nn matrix is inverteerbaar
- b. A  In
  c. A heeft n pivot-posities
  d. Ax=0 heeft enkel de triviale oplossing
  e. A heeft lineair onafhankelijke kolommen
- f. T: x  Ax is 1-op-1
  g. Ax=b heeft minstens 1 oplossing b  n
- h. Span{a1, a2, … an } = n
- i. T: x  Ax beeldt n af op n
- j.  C zodat CA=In
- k.  D zodat AD=In
-
  l. AT is inverteerbaar
-
-6
-
- 

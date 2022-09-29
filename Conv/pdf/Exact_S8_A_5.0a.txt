@@ -1,340 +1,165 @@
 10. Aldehyden en ketonen
 • bevatten carbonylgroep
-o-
-
 • beide atomen sp2-hybridisatie:
 vlakke structuur
 • gepolariseerde dubbele binding
 • C=O bindingsafstand ~ 1,22 Å
-(< 1,34 Å voor C=C)
 • bindingshoeken ~ 120°
-
 Aldehyden en ketonen
-
-1
-
  • enkel H, alkyl- of arylgroepen op C van carbonylgroep
-
 • carbonylgroep ook aanwezig bij carbonzuren en hun derivaten
-
 Directe invloed aanwezigheid elektronegatieve
 groep met vrij electronenpaar op reactiepatroon
-
 Aldehyden en ketonen
-
-2
-
  10.1 Nomenclatuur
 • aldehyden: stamnaam langste keten + -al
 bij nummering heeft aldehydekoolstofatoom # 1
 triviaalnamen: formaldehyde, aceetaldehyde
-1
-
 triviaalnaam
-
 Naam aldehyde komt van «alcoholus dehydrogenatus» !
-
 Aldehyden en ketonen
-
-3
-
  • ketonen:
 stamnaam langste keten + -on (-dion, -trion) substitutief
 plaats carbonylgroep met (laagste) nummer aangeven
 alternatief: twee alkyl- of arylgroepen + -keton radicofunctioneel
 indien hogere functionele groep: voorvoegsel oxo-
-
 triviaalnamen !
-
 Aldehyden en ketonen
-
-4
-
  10.2 Fysische eigenschappen
 • polaire moleculen → dipool-dipool-interacties
 • kookpunt hoger dan alkanen … met vergelijkbare MM
 • kookpunt lager dan vergelijkbare alcoholen
 • lagere homologen goed oplosbaar in water
 • lagere homologen goede solventen (polaire en apolaire stoffen)
-
 Aldehyden en ketonen
-
 Verbinding
-
 M (g/mol)
-
-tk (°C)
-
 Butaan
 Propanal
 Propanon
 1-propanol
-
-58,0
-58,0
-58,0
-60,0
-
--0,5
-+49
-+56
-+97
-
 Pentaan
 Butanal
 Butanon
 1-butanol
-
-72,0
-72,0
-72,0
-74,0
-
-+36
-+76
-+80
-+117
-
-5
-
  Reacties van aldehyden en ketonen
 nucleofiele additie (AN - 10.3 t/m 10.8)
-
 Reacties aan -koolstofatoom (10.9 - 10.10)
-
 Stabilisatie door mesomerie
-
 Aldehyden en ketonen
-
-6
-
  10.3 Nucleofiele additie aan de carbonylgroep
 • reactiemechanisme afhankelijk van omstandigheden
 • onder neutrale of basische omstandigheden
-
 sterke base, zal proton abstraheren
 van solvent, andere protondonor of na
 aanzuren
-
 Aldehyden en ketonen
-
-7
-
  • onder zure omstandigheden
-
 reversibel
-
 Carbonylkoolstof wordt sterker elektrofiel door protonering
 • bij beide: grote invloed sterische en elektronische factoren !
 ✓ kleinere subsituenten: grotere reactiviteit
-
 Aldehyden en ketonen
-
-8
-
  ✓ alkylgroepen zwak ladingsstuwend (+I):
 + op koolstofatoom vermindert, reactiviteit daalt
-3
-
 ✓ R  R’: equimolaire hoeveelheden beide configuraties
 prochirale C
-
 Aldehyden en ketonen
-
-9
-
  10.4 Additie van water
 evenwicht, 
 ✓ base gekatalyseerd
-
 ✓ zuur gekatalyseerd
-
 Aldehyden en ketonen
-
 hydraat
 geminaal diol
-
-10
-
  Enkel bij sterk + koolstofatoom evenwicht naar kant hydraat
-
-+
-
-+
 Aldehyden en ketonen
-
-11
-
  10.5 Additie van alcoholen (halfacetalen)
 evenwicht, 
 R mag H zijn
-
 Intramoleculaire reactie: vorming cyclische verbinding
-
 evenwicht, →
-
 Aldehyden en ketonen
-
-12
-
  10.6 Reductie van de carbonylgroep
 10.6.1 Additie van waterstof
 H2/Raney Ni
 of
-
 ✓ te vergelijken met katalytische hydrogenering alkenen
 ✓ keuze gepaste katalysator
-
 Aldehyden en ketonen
-
-13
-
  10.6.2 Reductie met NaBH4 of LiAlH4
 ✓ zijn hydridedonoren (H-)
-
->
-
 ✓ overdracht H- en vorming boraat of aluminaat
-
 AN
-
 ✓ hydrolyse en vorming alcoholen
 ✓ NaBH4 is minder krachtig, ook toepasbaar in protische
 solventen als MeOH, en om carbonylgroep in suikers te reduceren
 ✓ voordeel: C=C wordt niet gereduceerd!
 ✓ aanzuren na eigenlijke reductiestap: ‘opwerken’
-
 Aldehyden en ketonen
-
-14
-
  10.6.3 Reductie in biologische systemen
-
 ✓ coënzym NADH levert hydride-ion
-
 ✓ reductie carbonylgroep naast methyleengroep
 (onderdeel biosynthese vetzuren)
-
 Aldehyden en ketonen
-
-15
-
  einde glycolyse
 lactaatdehydrogenase
 ✓ enzymatische reducties met NADH stereoselectief !
-
 Aldehyden en ketonen
-
-16
-
  AN onder zure omstandigheden
-
 10.7 Vorming van acetalen
-
 → overmaat alcohol, water afvoeren
  verdund zuur, overmaat water
-
 ✓ reversibel !
 ✓ te gebruiken als schutgroep voor carbonylgroep
-
 OR"
 R
-
 C
-
 O
-
-R' + H2O
-
 OR"
 Aldehyden en ketonen
-
 C
 R
-
-+ 2R"OH
-R'
-17
-
  halfacetaal kan in zuur milieu
 verder reageren tot acetaal
-
 Aldehyden en ketonen
-
-18
-
  10.8 Additie van ammoniak en aminen
 ✓ nucleofiel stikstofatoom
-
 onstabiel
-
 stabiel
-
 ✓ zuur gekatalyseerd, pH optimum 4-5
 ✓ Schiff-basen belangrijk in vele biologische processen
 ✓ Schiff-basen kunnen gemakkelijk gehydrogeneerd worden
 tot de overeenkomstige aminen
-
 Aldehyden en ketonen
-
-19
-
  Reacties aan het -koolstofatoom van aldehyden en ketonen
-
 10.9 Enolisatie van aldehyden en ketonen
 ✓ -waterstofatomen hebben zuur karakter
-
 ✓ reden: elektronenzuigend effect carbonyl + mesomerie
-
 ✓ keto-enol-tautomerie
 ✓ ketovorm overheerst bij eenvoudige aldehyden en ketonen
-
 Aldehyden en ketonen
-
-20
-
  10.10 Aldolcondensatie van aldehyden - ketonen
 ✓ condensatie van twee moleculen geeft -hydroxyaldehyde
 of -hydroxyketon
 ketenverlenging!
-
 AN
-
-
-
 Aldehyden en ketonen
-
-21
-
  ✓ aldol: samentrekking aldehyde en alcohol
 ✓ evenwichtsreactie:
-
 ✓ ook mogelijk tussen twee verschillende moleculen
 ✓ enzymatische retro-aldolreactie belangrijk in biologische
 processen (glycolyse, metabolisme suikers)
-
 Aldehyden en ketonen
-
-22
-
  10.11 Oxidatie van aldehyden en ketonen
 ✓ oxidatie aldehyden zeer gemakkelijk met dichromaat
 (analoog aan alcoholen, ook reeds met luchtzuurstof)
-
 chromaatester
-
 Testreactie aldehyde
 (oranje → groen)
-
 ✓ ketonen enkel met sterke oxidantia, met doorbraak C-C
 industriële bereiding van
 adipinezuur
 (grondstof voor nylon-66)
-
 Aldehyden en ketonen
-
 Ethers
-
-23
-
- 

@@ -1,143 +1,31 @@
 Aanvullende oefeningen bij Hoofdstuk VIII
-
-52
-
 Oefening 1
 Bereken H + en OH − , pH en pOH van de volgende sterke zuren en sterke basen.
-• 0,001 M HCl
-• 2,1 10-4 M HClO4
-• 0,012 M Ba(OH)2
-• 4,8 10-2 M KOH
 oplossing:
-• pH = 3
-pOH = 11
-• pH = 3,7
-pOH = 10,3
-• pH = 12,4
-pOH = 1,6
-• pH = 12,7
-pOH = 1,3
-
-[ ]
-
-[
-
-]
-
 Oefening 2
 Bereken de H + en OH − van een oplossing met een pH waarde van:
-• 1,30
-• 7,80
-• 4,00
-• 12,61
 oplossing:
-•
-H + = 0,0501 M
-OH − = 2 ∗ 10 −13 M
-
-[ ]
-
-•
-•
-•
-
-[
-[H
-[H
-[H
-
-+
-+
-+
-
-]
-]
-]
-]
-
-[
-
-]
-
-[
-
-[OH ]
-[OH ]
-[OH ]
-
-= 1,58 10 −8 M
-= 1 10 −4 M
-= 2,455 10 −13 M
-
-−
-
-−
-
-−
-
-]
-
-= 6,25 10 −7 M
-= 1 10 −10 M
-= 0,04074 M
-
 Oefening 3
 Een 0,1 M azijnzuur-oplossing heeft een pH van 2,88. Bereken Kz en % ionisatie.
-Kz = 1,77 10-5
-;
-% ionisatie = 1,32 %
 oplossing:
 Oefening 4
 Wat is de concentratie aan H+, CH3COO- en CH3COOH in een oplossing, bereid door het
 oplossen van 0,1 mol CH3COONa en 0,2 mol CH3COOH, in voldoende water om 1 liter
 oplossing te bekomen.
 oplossing:
-
-[H ]
-+
-
-= 3,6 * 10 −5 M
-
-[CH COO ]
-3
-
-−
-
-= 0,1 M
-
-[CH 3COOH ]
-
-= 0,2 M
-
 Oefening 5
 Bereken het procent ionisatie van volgende azijnzuur-oplossingen:
-• 1M
-• 0,1 M
-• 0,01 M
 oplossing:
-• 0,42%
-• 1,34%
-• 4,24%
 Oefening 6
 Het maagvocht heeft een pH van 1 te wijten aan het sterke zuur HCl. Hoeveel mg van een
 500 mg vitamine C tablet (vitamine C: H2C6H6O6
 Kz = 7,9 10-5) zal gedissocieerd worden
 als het volume van het maagvocht gelijk is aan 200 ml.
-oplossing: 3,95 10-4 g
-
  Aanvullende oefeningen bij Hoofdstuk VIII
-
-53
-
 Oefening 7
 Bepaal de pH van elk van de volgende oplossingen:
-• 1 10-3 M CH3COONa
-• 0,125 M NH4Cl
 • 5 ml 2 M CH3COOH, aangelengd tot 100 ml.
 oplossing:
-• pH = 7,9
-• pH = 5,1
-• pH = 2,8
 Oefening 8
 Een poeder bestaat uit een mengsel van twee vaste stoffen. De ene stof is NaCl en de
 andere een eenwaardig zwak zuur. Men lost 0,5 g van het poeder op in een totaal volume
@@ -145,123 +33,54 @@ van 500 ml en men meet een pH van 3,2. Men voegt aan de oplossing 10 ml NaOH (0,
 toe zodat de pH gelijk wordt aan 4,3. Als de MM van het zuur 102 bedraagt, wat is dan de
 pKz van het zuur en de % samenstelling van het poeder?
 oplossing:
-pKz = 3,83
-;
-27% zuur
 Oefening 9
 2,5 g NH4Ac wordt opgelost in 400 ml (totaal volume). Wat wordt de pH na toevoegen van
 100 ml 0,2 M HCl? Hoeveel ml NaOH (0,2 M) dient men toe te voegen aan de
 oorspronkelijke oplossing om de pH op 9 te brengen?
 oplossing:
-pH = 4,55
-;
 63 ml NaOH
 Oefening 10
 We beschikken over 250 ml H2SO4 (0,02 M). Wat wordt de pH als men aan deze oplossing
 respectievelijk toevoegt:
-• 750 ml water
-• 350 ml NaOH (0,02 M)
-• 400 ml NH3 (0,03 M)
-• 150 ml NaCl (0,1 M)
-• 500 ml NaAc (0,02 M)
 oplossing:
-• pH = 2
-• pH = 2,3
-• pH = 8,5
-• pH = 1,6
-• pH = 3,34
 Oefening 11
-Oplossing A: 100 ml H2SO3 (0,05 M)
-B: 100 ml NaHSO3 (0,02 M)
-C: 250 ml HCl (0,01 M)
-D: 150 ml KOH (0,05 M)
 • Wat is de pH van de afzonderlijke oplossingen?
 • Wat wordt de pH na mengen van de vier oplossingen?
 • Hoeveel ml geconcentreerd HCl (20% (m/m); d = 1,3 g.cm-1) dient men toe te voegen
 om de pH van het mengsel met 2 te verlagen?
 oplossing:
-• A: pH = 1,55
-B: pH = 4,5
-C: pH = 2
-
  Aanvullende oefeningen bij Hoofdstuk VIII
-
-•
-•
-
-54
-
-D: pH = 12,7
-pH = 4,5
-0,159 ml HCl
-
 Oefening 12
 Oplossing A: 50 ml Na2CO3 (1 g.l-1)
-B: 100 ml NaHCO3 (2 g.l-1)
-C: 250 ml NaCl (0,5 g.l-1)
-D: 100 ml NaOH (0,4 M)
 • Wat is de pH van de afzonderlijke oplossingen?
 • Wat wordt de pH na mengen van de vier oplossingen?
 oplossing:
-• A: pH = 11,2
-B: pH = 8,4
-C: pH = 7
-D: pH = 13,6
-• pH = 12,9
 Oefening 13
 We beschikken over 100 ml H3PO4 (0,05 M). Wat wordt de pH als men aan deze oplossing
 respectievelijk toevoegt:
-• 100 ml 0,075 M NaOH
-• 100 ml 0,1 M NaOH
-• 200 ml water
-• 200 ml 0,1 M HCl
-• 100 ml 10 g.l-1 NaH2PO4
 oplossing:
-• pH = 7,2
-• pH = 9,55
-• pH = 1,94
-• pH = 1,18
-• pH = 2,32
 oefening 14
 Een poeder bestaat uit een vast mengsel van NaCl, NaHCO3 en Na2CO3. Men lost 10 g van
 het poeder op in een volume van 1 liter. Men meet een pH van 10,4. Vervolgens voegt men
 9,43 ml HCl 1 M toe waardoor de pH op 6,4 komt. Wat is de procentuele samenstelling van
 het poeder?
 oplossing:
-;
-Na2CO3: 5%
-NaCl: 91%
-;
-NaHCO3: 4%
 Oefening 15
 10 g van een monofunctionele zwakke base wordt opgelost in een totaal volume van 500 ml.
 De pH van de oplossing bedraagt 11,3. Aan 100 ml van deze oplossing wordt 100 ml 0,05 M
 HCl toegevoegd, waardoor de pH gelijk wordt aan 9,4. Bereken de MM van de base en de
 pKz van het geconjugeerde zuur.
 oplossing:
-MM = 278
-;
-pKz = 9,74
 Oefening 16
 Aan 200 ml van een CH3COOH–oplossing worden 200 ml H2O en 100 ml NaOH-oplossing
 van 0,1 M toegevoegd. De pH bedraagt dan 4,7. Wat is de pH van de oorspronkelijke
 CH3COOH-oplossing?
 oplossing: pH = 2,86
-
  Aanvullende oefeningen bij Hoofdstuk VIII
-
-55
-
 Oefening 17
 Bereken de pH van de volgende oplossingen:
-• 200 ml HF 0,1 M
-• 200 ml KF 0,05 M
-• 100 ml NaOH 0,025 M
 Bereken de pH wanneer we deze drie oplossingen bij elkaar voegen.
 oplossing:
-• pH = 2,1
-• pH = 7,95
-• pH = 12,4
 samenvoegen: pH = 3,05
 Oefening 18
 We beschikken over 20 ml NaHCO3-oplossing. Wanneer we hierbij 10 ml HCl-oplossing van
@@ -270,11 +89,6 @@ de oorspronkelijke NaHCO3-oplossing toevoegen om de pH op 10 te brengen?
 oplossing: 3,22 ml NaOH
 Oefening 19
 We beschikken over de volgende oplossingen:
-• 20 ml Na3PO4 van 0,1 M
-• 50 ml HCl van 0,1 M
-• 20 ml NaOH van 0,1 M
 We mengen deze drie oplossingen met mekaar en we lengen aan tot 100 ml met H2O.
 Bereken de pH.
 oplossing: pH = 7,2
-
- 

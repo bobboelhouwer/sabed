@@ -1,21 +1,6 @@
-8/22/2019
-
-Lay 5.1 - 5.5
-
 Lineaire transformatie
-
-v2
-
-T(v2)=Av2=2v2
 x
 T(x)=Ax
-v1
-T(v1)=Av1=3.5v1
-
-1
-
- 8/22/2019
-
 Definitie
 • Een eigenvector van nxn matrix A is een vector x  0 zodat Ax =  x
 voor een scalair 
@@ -24,17 +9,14 @@ x is een eigenvector horende bij eigenwaarde 
 een veelvoud van zichzelf
 afgebeeld door T: x  Ax
 • Lineariteit: idem x = v1
-A(v1)=1(v1)
 => is v1 een eigenvector,
 dan is v1 dat ook
 • Lineariteit: zijn v1 … vk l.o.
 eigenvectoren met e.w. ,
 dan zijn alle l.c. ook eigenvectoren
 met e.w.  => eigenruimte
-
 Eigenvectoren vinden
 • Gegeven de eigenwaarde 
-• Ax = x  Ax = Ix  (A- I)x = 0
 • Oplossingen van homogeen stelsel vormen een
 deelruimte van n
 • Aangezien  een eigenwaarde is bestaat er een x0 die
@@ -44,584 +26,122 @@ oplossingen, incl. 0)
 In de eigenruimte van  wordt elke vector op een
 veelvoud van zichzelf afgebeeld door T: x  Ax
 • Eigenruimte kan 1 … n dimensionaal zijn
-
-2
-
- 8/22/2019
-
 Voorbeeld 1: twee ééndimensionale
 eigenruimten
-3
-−1
-−0.5 2.5
-• 1 = 2
 Homogeen stelsel: (A-2I)x=0
-1
-−1
-1 −1
-
-−0.5 0.5
-0 0
-1
-𝐯 =
-1
-• 2 = 3.5
 Homogeen stelsel: (A-3.5I)x=0
-−0.5 −1
-−0.5 −1
-
-−0.5 −1
-0
-0
-2
-𝐯 =
-−1
-• 𝐀=
-
 Voorbeeld 2: één tweedimensionale
 eigenruimte
-2 0
-0 2
-• 1 = 2
 Homogeen stelsel: (A-2I)x=0
-0 0
-0 0
-1
-0
-𝐯 =
-;𝐯 =
-0
-1
 • Eigenruimte is heel 2
-• 𝐀=
-
-3
-
- 8/22/2019
-
 Voorbeeld 3: één ééndimensionale
 eigenruimten
-3 −1
-1 1
-• 1 = 2
 Homogeen stelsel: (A-2I)x=0
-1 −1
-1 −1
-
-1 −1
-0 0
-1
-𝐯 =
-1
-• 𝐀=
-
 Complexe eigenwaarden
-3 1
-−1
-3
-• 1 = 3+i
 Homogeen stelsel: (A-( 3+i)I)x=0
-−𝑖 1
-−𝑖 1
-
-−1 −𝑖
-0 0
-−𝑖
-𝐯 =
-1
-• 2= 3 −i
 Homogeen stelsel: (A-( 3 −i)I)x=0
-𝑖 1
-𝑖 1
-
-−1 𝑖
-0 0
-𝑖
-𝐯 =
-1
-• 𝐀=
-
-4
-
- 8/22/2019
-
 Verschillende eigenwaarden
 • v1 … vr zijn eigenvectoren overeenkomstig
 verschillende eigenwaarden 1 ... r
 Dan zijn v1 … vr l.o.
 • Bewijs: veronderstel dat ze l.a. waren, dan
 bestaat er een vp+1 die l.a. van de voorgaande l.o.:
-c1 v1 + … + cp vp = vp+1
-c1 Av1 + … + cp Avp = Avp+1
-c1 1 v1 + … + cp p vp = p+1 vp+1
-c1 (1- p+1) v1 + … + cp (p - p+1) vp = 0
 v1 … vp l.o., dus alle gewichten nul, sommige ewaarden gelijk 
-
 e.w. vinden: karakteristieke vergelijking
 • We zoeken x zodat (A-I)x=0 een oplossing x0 heeft
  A-I niet-inverteerbaar is, singulier is,
 geen volle rang heeft, …
- det(A-I)=0
 Dit is de karakteristieke vergelijking.
 • det(A-I) is een polynoom in  van de n-de graad
-det 𝐀 − 𝜆𝐈 = (−1) 𝜆 + 𝑎 𝜆
-+ ⋯+ 𝑎 𝜆 + 𝑎
 Dit is de karakteristieke polynoom.
 • Er zijn dus STEEDS precies n oplossingen (eigenwaarden)
 – Mogelijk complex
 – Mogelijk samenvallend
-
-det 𝐀 − 𝜆𝐈 = (𝑝 − 𝜆) … (𝑝 − 𝜆)
-met 𝑚 + ⋯ + 𝑚 = 𝑛
 mi is algebraïsche multipliciteit van pi
-
-5
-
- 8/22/2019
-
 Voorbeeld 1
-−1
-2.5
-3−𝜆
-−1
-det 𝐀 − 𝜆𝐈 =
-= 7.5 −
-−0.5 2.5 − 𝜆
-5.5𝜆 + 𝜆 − 0.5 = 𝜆 − 5.5𝜆 + 7
-d=121/4-28=(121-112)/4=9/4
-p1=(11/2-3/2)/2=2; m1=1
-p2=(11/2+3/2)/2=7/2=3.5; m2=1
-
-• 𝐀=
-•
-•
-•
-•
-
-3
-−0.5
-
 Voorbeeld 2
-• 𝐀=
-
-3
-−1
-
-1
-3
-
-3−𝜆
-1
-−1
-3−𝜆
-= 𝜆 − 2 3𝜆 + 4
-= ( 3 + 𝑖 − 𝜆)( 3 − 𝑖 − 𝜆)
-
-• det 𝐀 − 𝜆𝐈 =
-
-6
-
- 8/22/2019
-
 Voorbeeld 3
-2 2312 −21
-• 𝐀 = 0 −5
-−9
-0
-0
-2
-2 − 𝜆 2312
-−21
-• det 𝐀 − 𝜆𝐈 =
-0
-−5 − 𝜆 −9
-0
-0
-2−𝜆
-= − 2 − 𝜆 (5 + λ)
-• p1=2, m1=2 ; p2=-5, m2=1
 • De eigenwaarden van een driehoeksmatrix staan op de
 hoofddiagonaal
-
 Opmerking eigenwaarde nul
 A heeft een eigenwaarde 0
-det 𝐀 − 𝜆𝐈 = 0 met =0
-det(A) = 0
 A is singulier, niet inverteerbaar
 Inverteerbare matrices hebben nul niet als
 eigenwaarde.
-
-7
-
- 8/22/2019
-
 Gelijkvormigheid en
 diagonaliseerbaarheid
-
 Gelijkvormigheid: inleiding
 • A kan je zien als een lineaire transformatie
-T: x  y=Ax met x, y  n
-• Druk x nu uit in basis B = {𝐛 … 𝐛 }, dan is
-x = [𝐛 … 𝐛 ] [x]B = P [x]B
-[x]B = [𝐛 … 𝐛 ]-1 x = P-1 x
-met P = [𝐛 … 𝐛 ] inverteerbaar
 • Wat wordt de standaardmatrix van T in de basis B ?
-[y]B = [Ax]B = P-1 Ax = P-1 A P [x]B = [A]B [x]B
 • In B uitgedrukt wordt de standaardmatrix P-1 A P
-met P = [𝐛 … 𝐛 ]
-
-8
-
- 8/22/2019
-
 Voorbeeld
-3 −1
-1 1
-
-•
-
-𝐀=
-
-•
-
-𝐏 = 𝐛𝟏
-
-•
-•
-•
-•
-•
-
-1 1
-1 0
 Merk op: b1 is eigenvector
-0 1
-𝐏 =
-1 −1
-𝐛𝟐 =
-
-2 1
-[A]B =
-AP=
-0 2
 Voorbeeld 1: het beeld van b1 met
 coordinaat [1 0]T in B is [2 0]T in B
 (eigenwaarde is 2)
 Voorbeeld 2: het beeld van b2 met
 coordinaat [0 1]T in B is [1 2]T in B
-
-T(b1)
-b1
-
-T(b2)
-
-b2
-
-P-1
-
 Gelijkvormigheid
 nxn-matrices A en C zijn gelijkvormig (similar)
  inverteerbare nxn-matrix P zodat:
-C = P-1 A P of A = P C P-1
 • Zij drukken dezelfde lineaire transformatie uit, maar in
 een andere basis
 • Gelijkvormige matrices hebben dezelfde karakteristieke
 polynoom en dus dezelfde eigenwaarden:
-det(C-I) = det(P-1 A P -  P-1 P)
-= det(P-1(A-I)P) = det(P-1) det(A-I) det(P)
-= det(A-I)
-
-9
-
- 8/22/2019
-
 Diagonaliseerbaarheid
-•
-•
-•
-•
-
-•
-•
-
 Gegeven A (nxn) met n l.o. eigenvectoren 𝐯 … 𝐯 met bijhorende
-eigenwaarden 1 ... n
-Kies bijzondere basis B = {𝐯 … 𝐯 }
-P = [𝐯 … 𝐯 ] inverteerbaar
 In B wordt de standaardmatrix van A:
-[A]B = P-1 A P = P-1 [𝐀𝐯 … 𝐀𝐯 ]
-1 ⋯ 0
-= P-1 [1𝐯 … n𝐯 ] = P-1[𝐯 … 𝐯 ] ⋮ ⋱ ⋮
-0 ⋯ n
-1 ⋯ 0
-= ⋮ ⋱ ⋮ =D
-0 ⋯ n
 Een dergelijke matrix heet diagonaliseerbaar want gelijkvormig met een
 diagonale matrix:
-D = P-1 A P ; A = P D P-1
 maw  basis, nl. de n l.o. eigenvectoren, waarin de lineaire transformatie
 diagonaal wordt: elke basisvector wordt afgebeeld op een veelvoud van
 zichzelf
-
 Voorbeeld
-3
-−1
-−0.5 2.5
-
-•
-
-𝐀=
-
-•
-•
-
-1 = 2
-1
-𝐯 =
-1
-2 = 3.5
-2
-𝐯 =
-−1
-
-•
-
-𝐏 = 𝐯𝟏
-
-•
-•
-•
-
-𝐯𝟐 = 1 2
-1 −1
-1 2
-𝐏 =
-1 −1
-2
-7
-AP =
-2 −3.5
-6
-0
-2
-[A]B = P-1 A P =
-=
-0 10.5
-0
-
-v1
-v2
-
-0
-3.5
-
-10
-
- 8/22/2019
-
 l.o. eigenvectoren ?
 • Eigenwaarden zijn nulpunten van een veelterm
-det 𝐀 − 𝜆𝐈 = (𝜆 − 𝜆) … (𝜆 − 𝜆)
-met 𝑚 + ⋯ + 𝑚 = 𝑛
 mi is algebraïsche multipliciteit van 𝜆i
 • Voor elk van de k verschillende eigenwaarden kan je het homogene
 stelsel (A- 𝜆iI)x = 0 oplossen  eigenruimte (oplossingenruimte)
 van dimensie di  mi
 • di wordt ook de geometrische multipliciteit van 𝜆i genoemd
 • A is diagonaliseerbaar  di = mi voor i = 1 … k
- 𝑑 + ⋯+ 𝑑 = 𝑛
-
  Als Bi een basis is voor de eigenruimte van 𝜆i dan zijn B1  …  Bk n l.o.
 vectoren in n en dus een (eigen)basis voor n
  P maak je door de elementen van Bi op te nemen als kolommen
  D is de diagonale matrix met eigenwaarden di = mi maal herhaald
-
 Voorbeeld
-• 𝐀=
-
-3 −1
-1 1
-
-3−𝜆
-−1
-1
-1−𝜆
-= 3 − 4𝜆 + 𝜆 + 1 = 2 − 𝜆
-𝜆1= 2, m1 =2
 Eigenvectoren: los op
-1 −1
-𝐱=𝟎
-1 −1
-1
 eigenruimte = Span{ }
-1
-d1 = 1 terwijl m1 =2
 NIET DIAGONALISEERBAAR
-
-• det 𝐀 − 𝜆𝐈 =
-•
-•
-
-•
-•
-
-11
-
- 8/22/2019
-
 Complexe eigenwaarden
-• det 𝐀 − 𝜆𝐈 = (𝜆 − 𝜆) … (𝜆 − 𝜆)
 • als A reëel is, komen 𝜆i voor in complex
 toegevoegde paren.
-• Ax= 𝜆 x  Ax = 𝜆 x  Ax = 𝜆 x Ax = 𝜆 x
-• is x een e.v. van A met e.w. 𝜆, dan is x een e.v.
-van A met e.w. 𝜆
-
 Interpretatie complexe e.w.
-•
-•
-
 Reële e.w. (en e.v.): in de eigenbasis { xi } is het effect van x  Ax een schaling van
-xi met 𝜆i
 Analyse in 2:
-– e.w. a+ib en a-ib met a,b  
-– e.v. p+iq en p-iq met p, q  2
-
 – dus A(p+iq)=Ap+iAq=(a+ib)(p+iq)=(ap-bq)+i(bp+aq)
 of Ap= ap-bq en Aq=bp+aq
-
-•
-
 Neem basis B={p, q}, dan wordt de standaardmatrix van A in B uitgedrukt:
-[A]B = P-1 A P met P = [p q]
-
-•
-
-𝑎 𝑏
-Bereken AP=A[p q]=[Ap Aq]=[ap-bq bp+aq]= 𝐩 𝐪
 =PC
-−𝑏 𝑎
-𝑎
-𝑏
-of AP=PC of C = [A]B = P-1 A P met 𝐂 =
-−𝑏 𝑎
-Schrijf 𝑎 = 𝑟 cos 𝜑 en b = 𝑟 sin 𝜑 dan is
-𝑎⁄
-𝑏
-sin 𝜑
-𝑟
-𝑟 = 𝑟 0 cos 𝜑
-𝐂=r
-−𝑏
-𝑎⁄
-0 𝑟 − sin 𝜑 cos 𝜑
-𝑟
-𝑟
-
-•
-
-•
-
 In de basis {p, q} wordt A een rotatie over  (=arg v.d. e.w.) van
 q naar p, gevolgd door een schaling met r (=modulus vd e.w.)
-
-r sin 𝜑
-r cos 𝜑
-0
-1
-
-sin 𝜑
-cos 𝜑
-
-
-
-1
-0
-
-cos 𝜑
-−sin 𝜑
-r cos 𝜑
-−r sin 𝜑
-
-12
-
- 8/22/2019
-
 Voorbeeld
-• 𝐀=
-
-3
-−1
-
-1
-3
-
-• 1 = 3+i ; 𝐯 =
-
-−𝑖
-1
-
-𝑖
-• 2= 3 −i ; 𝐯 =
-1
-−1
-0
-• a= 3, b=1; p=
-;q=
-1
-0
-• r=2; =/6
-
 p
 q
-
 Enkele nuttige resultaten
-• Stel 𝜆=0 in det 𝐀 − 𝜆𝐈 = (𝜆 − 𝜆) … (𝜆 − 𝜆)
-det 𝐀 = 𝜆
-…𝜆
 De determinant van een matrix is het product van zijn
 eigenwaarden.
 • Som van de eigenwaarden = som van de
 diagonaalelementen = spoor(A) = trace(A)
 – Bewijs: n-1-de graadsterm uitwerken
-
-3
-−1
-met 1 = 2 en 2 = 3.5
-−0.5 2.5
-• det(A) = 7.5-0.5=7= 1 2
-• Spoor(A)=3+2.5=5.5=1 + 2
-• Voorbeeld 𝐀 =
-
-13
-
- 8/22/2019
-
 Misvattingen
-•
-
 L.o. van eigenvectoren en kolommen van A zijn verschillende
 eigenschappen
 o
 o
-
-•
-•
-
-1 −1
-1
-1
 heeft l.a. kolommen, maar l.o. e-vectoren
 en
-−1 1
-−1
-1
-1 1
-1
 heeft l.o. kolommen, maar geen 2 l.o. e-vectoren, enkel
-0 1
-0
-
 Elementaire rij/kolomoperaties veranderen eigenwaarden en
 eigenvectoren
 Diagonaliseerbaarheid en inverteerbaarbeid zijn verschillende concepten
@@ -629,29 +149,7 @@ o
 o
 o
 o
-
-1
-0
-1
-1
-0
-0
-1
-−1
-
-1
 is niet diagonaliseerbaar, wel inverteerbaar
-1
-1
 is wel diagonaliseerbaar, niet inverteerbaar
-1
-1
 is niet diagonaliseerbaar, niet inverteerbaar
-0
-1
 is wel diagonaliseerbaar, wel inverteerbaar
-1
-
-14
-
- 

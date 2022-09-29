@@ -1,165 +1,62 @@
-9/09/2017
-
 Singuliere waarden: definities
 A m×n reële matrix
 v1, ... , vn orthonormale eigenvectoren van ATA met
-λ1 ≥ λ2 ≥ ... ≥ λn. Dan voor i = 1 ... n :
-a) λi ≥ 0 want 0 ≤  Avi 2 = (Avi)TAvi = viTATAvi = viT(λivi)
-= λi vi 2 = λi
 b) σi = λi heet singuliere waarde.
 T: x → Ax beeldt vi af op een vector Avi met length σi.
 Avi is een vector in Col A
 Noem r de hoogste index waarvoor σi ≠ 0, m.a.w.
-σ1 ≥ ... ≥ σr > 0 en σr+1 = ... =σn = 0
-
-1
-
- 9/09/2017
-
 Col A
 S = {Av1, ... , Avr} vormen een orthogonale basis voor Col A
 en dus rang A = r.
 Bewijs
-i ≠ j : (Avi).(Avj) = (Avi)TAvj = viT(ATA)vj = λj (viTvj) = 0
 1 ≤ i ≤ r: Avi zijn niet-nulle ⊥ vectoren in Col A
 S voortbrengend voor Col A ?
-y ∈ Col A ⇒ ∃ x ∈ n : y=Ax
-x = c1v1 + ... + cnvn ⇒
-y = Ax = c1Av1 + ... + crAvr + cr+1Avr+1 + ... + cnAvn
-= c1 Av1 + ... + cr Avr want r+1 ≤ i :  Avi  = σi = 0 ⇒ Avi = 0
 ⇒ S is voortbrengend + l.o. ⇒ basis voor Col A
-
 Singuliere waardenontbinding
-1 ≤ i ≤ r: Avi zijn ⊥ vectoren met lengte σi > 0
 Avi
 Avi
 m
 Normaliseer: ui =
-Avi = σi ∈  ⇒ Avi = σi ui
 {u1, ... , ur} orthonormale basis voor Col A
 Construeer orthonormale basis {ur+1, ... , um} voor (Col A)⊥ = Nul AT
 Dimensiestelling: m = dim(Row AT) + dim(Nul AT)
-Vorm U = [u1 ... um], V = [v1 ... vn] orthogonaal
-σ1 ⋯ 0
-   
-m×n,   = ⋮ ⋱ ⋮
- =
-   
-0 ⋯ σr
-AV = [Av1 ... Avr 0 ... 0] = [σ1u1 ... σrur 0 ... 0]
-   
-UΣ
-Σ = [u1 ... um] 
-= [[u1 ... ur]Σ
-Σr 0] = [σ1u1 ... σrur 0 ... 0]
-   
-AV = UΣ
-Σ ⇒ A = UΣ
 ΣVT is de SWO
-
-2
-
- 9/09/2017
-
 Orthonormale bases
 • {u1, ... , ur} orthonormale basis voor Col A
 • {ur+1, ... , um} orthonormale basis voor (Col A)⊥ = Nul AT
-• r+1 ≤ i ≤ n:  Avi  = σi = 0 ⇒ Avi = 0 en dus zijn vi n-r
 orthonormale (l.o.) vectoren in Nul A
 Dimensiestelling: n = dim(Row A) + dim(Nul A)
 {vr+1, ... , vn} orthonormale basis voor Nul A
-• 1 ≤ i ≤ r:
 vi ∈ (Nul A)⊥ = Col AT = Row A en orthonormaal
 {v1, ... , vr} orthonormale basis voor Row A
-
 Grafische illustratie
-
-3
-
- 9/09/2017
-
 Gereduceerde SWO
-Ur = [u1 ... ur], Um-r = [ur+1 ... um], U = [Ur Um-r]
-Vr = [v1 ... vr], Vn-r = [vr+1 ... vn], V= [Vr Vn-r]
-   
- = 
-   
-    Vr
-A = UΣ
-ΣVT = [Ur Um-r] 
-= Ur Σ r Vr T
-    Vn−r
 A = Ur Σr VrT is de gereduceerde SWO
-v1
-A = UrΣrVrT = [u1 ... ur] ΣrVrT = [σ1u1 ... σrur] ⋮
 vr
 T
 T
-A = σ1u1v1 + ... + σrurvr
-
 Pseudo-inverse
 • Ook Moore-Penrose inverse genoemd
 • Gereduceerde SWO: A = Ur Σr VrT
-•
-= Vr Σr  UrT is nxm matrix
-Merk op dat Σr  steeds bestaat (r≥1) en dus ook
-•
-= Ur Σr VrT Vr Σr  UrT = Ur Σr Ir Σr  UrT
+= Vr Σr   UrT is nxm matrix
+Merk op dat Σr   steeds bestaat (r≥1) en dus ook
 = Ur UrT projectie op Col A
 Als r=m is Ur orthogonaal en
-= Ur Ur T = I m
-•
-= Vr Σr  UrTUr Σr VrT= Vr Σr  Ir Σr VrT
 =  r VrT projectie op Row A
 Als r=n is Vr orthogonaal en
-= V r Vr T = In
 • Als r=m=n, m.a.w. A is vierkant en inverteerbaar, dan is
-= 
-
-4
-
- 9/09/2017
-
 K.K.O. en pseudo-inverse
-• Voorstel   =   is een k.k.o. van Ax = b
 • Bereken (ATA)   = VrΣrUrT UrΣrVrT VrΣr-1 UrTb
-= VrΣrUrT b = ATb dus voldoet   aan de normaalverlijking
-• Alle k.k.o. vinden:   +   met v ∈ Nul A
-Σr-1 UrTb) ∈ Row A
-• Merk op dat   =   =Vr (Σ
-•   =   is bijzonder: v ∈ Nul A = (Row A)⊥ en   ∈ Row A
-zodat v ⊥  
+= VrΣrUrT b = ATb dus voldoet    aan de normaalverlijking
 x+v
-Dus is   +   minimaal als v = 0,
+Dus is    +   minimaal als v = 0,
 Row A
 v
-m.a.w.   is de k.k.o. met de kleinste lengte.
+m.a.w.    is de k.k.o. met de kleinste lengte.
 x
-
-0
 Nul A
-
 Beste rang-k benadering
 • Gegeven A mxn matrix van rang r. Wat is de mxn matrix
-
-B van rang k ≤ r, zodat ∑"
- ! ∑!(    −   )
 minimaal is ?
-   
-• A = U Σ VT (swo) met   = 
 m×n en
-   
-σ1 ⋯ 0
-  = ⋮ ⋱ ⋮
-0 ⋯ σr
-   
 m×n en
-• Dan is B = U Σ’ VT met  ′ = $
-   
-σ1 ⋯ 0
- $ = ⋮ ⋱ ⋮
-0 ⋯ σk
-
-5
-
- 

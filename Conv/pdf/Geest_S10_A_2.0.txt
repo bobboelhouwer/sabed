@@ -1,54 +1,7 @@
 Nederlandse Taalkunde I
 Hoofdstuk 11 (deel I)
-Handboek pp.319–361
 (zonder het naamwoordelijk gezegde)
-
 Jeroen van Craenenbroeck
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
  Overzicht
 Inleiding
 Het werkwoordelijk gezegde
@@ -60,1086 +13,152 @@ Het voorwerp van plaats/richting/maat/wijze/duur
 De bijwoordelijke bepaling
 De bijvoeglijke bepaling
 De interne bijwoordelijke bepaling
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
  Inleiding
-→
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
  Inleiding
-→
 constituent
 valentie
 vervangbaarheid
 verplaatsbaarheid
 extra
-
 NP
 eerste participant in het valentieschema (agens)
 Type I-paradigmata (persoon/zaak)
-AL, VV, MV1, ?MV2, ?MV3, *AV, UL
 bepaalt congruentiekenmerken van de PV
 kan in een door-PP verschijnen in nominaliseringen
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
  Inleiding
-→
 constituent
 valentie
 vervangbaarheid
 verplaatsbaarheid
 extra
-(1)
-
 NP
 eerste participant in het valentieschema (agens)
 Type I-paradigmata (persoon/zaak)
-AL, VV, MV1, ?MV2, ?MV3, *AV, UL
 bepaalt congruentiekenmerken van de PV
 kan in een door-PP verschijnen in nominaliseringen
-
 Die man vermoordt de gijzelaars.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
  Inleiding
-→
 constituent
 valentie
 vervangbaarheid
 verplaatsbaarheid
 extra
-(1)
-a.
-b.
-c.
-d.
-e.
-f.
-g.
-
 NP
 eerste participant in het valentieschema (agens)
 Type I-paradigmata (persoon/zaak)
-AL, VV, MV1, ?MV2, ?MV3, *AV, UL
 bepaalt congruentiekenmerken van de PV
 kan in een door-PP verschijnen in nominaliseringen
-
 Die man vermoordt de gijzelaars.
 Die man, die vermoordt de gijzelaars.
 Die man vermoordt de gijzelaars.
 Vermoordt die man de gijzelaars?
-*Heeft vaak die man de gijzelaars vermoord?
-*Heeft de gijzelaars vaak die man vermoord?
+*Heeft vaak die man de gijzelaars vermoord? (*MV2)
+*Heeft de gijzelaars vaak die man vermoord? (*MV3)
 *dat de gijzelaars vermoordt die man.
 Die vermoordt de gijzelaars, die man.
-.
-
-(AL)
-(VV)
-(MV1)
-(*MV2)
-(*MV3)
-(*AV)
-(UL)
-.
-
-.
-
-.
-
-.
-
-.
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
  Inleiding
-→
 constituent
 valentie
 vervangbaarheid
 verplaatsbaarheid
 extra
-(2)
-
-a.
-b.
-
 NP
 eerste participant in het valentieschema (agens)
 Type I-paradigmata (persoon/zaak)
-AL, VV, MV1, ?MV2, ?MV3, *AV, UL
 bepaalt congruentiekenmerken van de PV
 kan in een door-PP verschijnen in nominaliseringen
-
 Die man vermoordt de gijzelaars.
 Die mannen vermoorden de gijzelaars.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
  Inleiding
-→
 constituent
 valentie
 vervangbaarheid
 verplaatsbaarheid
 extra
-
 NP
 eerste participant in het valentieschema (agens)
 Type I-paradigmata (persoon/zaak)
-AL, VV, MV1, ?MV2, ?MV3, *AV, UL
 bepaalt congruentiekenmerken van de PV
 kan in een door-PP verschijnen in nominaliseringen
-
-(2)
-
-a.
-b.
-
 Die man vermoordt de gijzelaars.
 Die mannen vermoorden de gijzelaars.
-
-(3)
-
 het vermoorden van de gijzelaars door de mannen
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
  Inleiding
-→
 constituent
 valentie
 vervangbaarheid
 verplaatsbaarheid
 extra
-
 NP
 eerste participant in het valentieschema (agens)
 Type I-paradigmata (persoon/zaak)
-AL, VV, MV1, ?MV2, ?MV3, *AV, UL
 bepaalt congruentiekenmerken van de PV
 kan in een door-PP verschijnen in nominaliseringen
-
-(2)
-
-a.
-b.
-
 Die man vermoordt de gijzelaars.
 Die mannen vermoorden de gijzelaars.
-
-(3)
-
 het vermoorden van de gijzelaars door de mannen
-
-(4)
-
-a.
-b.
-
 De man lacht.
 Het lachen van/door de man.
-
-(5)
-
-a.
-b.
-
 De soldaten sneuvelen.
 Het sneuvelen van/*door de soldaten.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
  Inleiding
-→
 constituent
 valentie
 vervangbaarheid
 verplaatsbaarheid
 extra
-(6)
-
 NP
 eerste participant in het valentieschema (agens)
 Type I-paradigmata (persoon/zaak)
-AL, VV, MV1, ?MV2, ?MV3, *AV, UL
 bepaalt congruentiekenmerken van de PV
 kan in een door-PP verschijnen in nominaliseringen
-
 De gijzelaars worden vermoord door die man.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
  Inleiding
-→
 constituent
 valentie
 vervangbaarheid
 verplaatsbaarheid
 extra
-
 NP
 eerste participant in het valentieschema (agens)
 Type I-paradigmata (persoon/zaak)
-AL, VV, MV1, ?MV2, ?MV3, *AV, UL
 bepaalt congruentiekenmerken van de PV
 kan in een door-PP verschijnen in nominaliseringen
-
-(6)
-
 De gijzelaars worden vermoord door die man.
-
-(7)
-
 Er staat een man in de tuin.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
  Inleiding
-→
 constituent
 valentie
 vervangbaarheid
 verplaatsbaarheid
 extra
-
 NP
 eerste participant in het valentieschema (agens)
 Type I-paradigmata (persoon/zaak)
-AL, VV, MV1, ?MV2, ?MV3, *AV, UL
 bepaalt congruentiekenmerken van de PV
 kan in een door-PP verschijnen in nominaliseringen
-
-(6)
-
 De gijzelaars worden vermoord door die man.
-
-(7)
-
 Er staat een man in de tuin.
-
-▶
-
-→
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
  Inleiding
-▶
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
  Inleiding
-▶
-
-(8)
-
-a.
-b.
-
 Die man, die ziet jou niet.
 Hij ziet jou niet, die man.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
  Inleiding
-▶
-
-(9)
-
-a.
-
 Die man, die ziet jou niet.
-
-b.
-
 Hij ziet jou niet, die man.
-
-10
-
-10+
-
-10+
-
-10
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
  Inleiding
-▶
-
-(9)
-
-a.
-
 Die man, die ziet jou niet.
-
-b.
-
 Hij ziet jou niet, die man.
-
-10
-
-10+
-
-10
-
-10+
-
-(10)
-
-a.
-
 Die man, die ken ik niet.
-
-b.
-
 Ik ken hem niet, die man.
-
-30
-
-30+
-
-30+
-
-30
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
  Inleiding
-▶
-
-(9)
-
-a.
-
 Die man, die ziet jou niet.
-
-b.
-
 Hij ziet jou niet, die man.
-
-10
-
-10+
-
-10
-
-10+
-
-(10)
-
-(11)
-
-a.
-
 Die man, die ken ik niet.
-
-b.
-
 Ik ken hem niet, die man.
-
-a.
-
 Aan die man, daaraan geef ik een boek.
-
-b.
-
 Aan die man, daar geef ik een boek daar.
-
-c.
-
 Ik ken daar een boek aan, aan die man.
-
-30
-
-30+
-
-30+
-
-40
-40
-
-40+
-
-30
-
-40+
-
-40+
-
-40+
-
-40+
-
-40
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
  Inleiding
 PV
 niet-ﬁniet werkwoordelijk deel
@@ -1164,99 +183,9 @@ bwb. van wijze
 bwb. van tijd/duur
 bijvoeglijke bepaling
 interne bijwoordelijke bepaling
-
-eigenlijk/
+eigenlijk/ voorlopig/
 loos
-20
-21
-22
-23
-10
-10+
-30
-30+
-40
-50
-61
-62
-63
-64
-65
-70
-71
-72
-73
-74
-75
-90
-91
-.
-
-voorlopig/
 herhalend
-21+
-22+
-
-.
-
-.
-
-10+
-10+
-30+
-30+
-40+
-50+
-61+
-62+
-63+
-64+
-65+
-70+
-71+
-72+
-73+
-74+
-75+
-90+
-. . . .
-
-.
-
-.
-
-. . . .
-
-.
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
  Overzicht
 Inleiding
 Het werkwoordelijk gezegde
@@ -1268,588 +197,61 @@ Het voorwerp van plaats/richting/maat/wijze/duur
 De bijwoordelijke bepaling
 De bijvoeglijke bepaling
 De interne bijwoordelijke bepaling
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
  Het werkwoordelijk gezegde
-(12)
-
 Jan lacht luid.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
  Het werkwoordelijk gezegde
-(12)
-
 Jan lacht luid.
-
-(13)
-
 Jan heeft luid gelachen.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
  Het werkwoordelijk gezegde
-(12)
-
 Jan lacht luid.
-
-(13)
-
 Jan heeft luid gelachen.
-
-(14)
-
 Jan vergist zich vaak.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
  Het werkwoordelijk gezegde
-(12)
-
 Jan lacht luid.
-
-(13)
-
 Jan heeft luid gelachen.
-
-(14)
-
 Jan vergist zich vaak.
-
-(15)
-
 Jan belt Marie op.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
  Het werkwoordelijk gezegde
-(12)
-
 Jan lacht luid.
-
-(13)
-
 Jan heeft luid gelachen.
-
-(14)
-
 Jan vergist zich vaak.
-
-(15)
-
 Jan belt Marie op.
-
-(16)
-
 Jan bracht mij op de hoogte van het nieuws.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
  Het werkwoordelijk gezegde
 werkwoordelijk gezegde
-
 werkwoordelijk deel
-
 ﬁniet
 werkwoordelijk
 deel
-(PV)
-20
-
 niet-ﬁniet
 werkwoordelijk
 deel
-21
-
 niet-werkwoordelijk
 deel
-22
-
 vnw. bij
 verplicht
 wederkerend
 ww.
-
 scheidbaar
 deel van
 samenkoppeling
-
 niet-ww. deel
 van werkwoordelijke
 uitdrukking
-
 niet-ww. deel van
 vaste verbinding
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-. . . .
-
-. . . .
-
 niet-ww. deel
 van idiomatische
 verbinding
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
  Het werkwoordelijk gezegde
-(17)
-
 Jan lacht luid.
-
-(18)
-
 Jan heeft luid gelachen.
-
-(19)
-
 Jan vergist zich vaak.
-
-(20)
-
 Jan belt Marie op.
-
-(21)
-
 Jan bracht mij op de hoogte van het nieuws.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
  Het werkwoordelijk gezegde
-(22)
-
 Ze gaat mij helpen.
-
-(23)
-
 Ze wil mij helpen.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
  Het werkwoordelijk gezegde
-(24)
-
 Hij steekt de draak met Piet.
-
-(25)
-
 Hij heeft belang bij een snelle a andeling.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
- 

@@ -1,67 +1,21 @@
-8/22/2019
-
 Eigenvector van een bijzondere matrix
-• Neem A = 1 1T met 1T = [1 1 … 1]  n
  1 is een eigenvector van A met eigenwaarde n
- A 1 = 1 1T 1 = n 1
-
  Alle andere n-1 eigenwaarden zijn 0
-
 • Eigenvector van blokdiagonaalmatrix:
- Laat Av=v
-𝐀 𝟎
-dan is 𝟎 𝐁
-𝟎 𝟎
-
-𝐯
-𝟎 𝐯
-𝐀𝐯
-𝐯
-𝟎 𝟎 = 𝟎 = 𝟎 = 𝟎
-𝟎
-𝐂 𝟎
-𝟎
-𝟎
-
-1
-
- 8/22/2019
-
 Sociale netwerken
 • Beschouw een groep van n=250 studenten
 – zij zijn bevriend overeenkomstig hun hobby
-– basket (80), voetbal (120), lopen (50)
-
 • We construeren een nxn matrix A:
-
 elke rij/kolom is een persoon
 aij=1 als personen i en j bevriend zijn, nul anders
-
 Eigenvectoren
 • 3 eigenvectoren hebben e.w.  0:
-𝟏
-𝟎
-𝟎
-𝟎 met e.w. 120, 𝟏 met e.w. 80, 𝟎 met e.w. 50
-𝟎
-𝟎
-𝟏
 • Maw, de e.v. zegt in
 welke kliek je zit !
 Elk element vd eigenvector is een persoon.
-
-2
-
- 8/22/2019
-
 Maar de werkelijkheid is anders …
 • Sommige personen zijn vrienden over kliekjes heen
 3000 extra “like”-paren over kliekjes heen
 • Sommige personen in een kliek houden niet van elkaar
 1000 “dislike”-paren in de kliekjes
-
 Eigenvectoren met grootste e.w.
-
-3
-
- 

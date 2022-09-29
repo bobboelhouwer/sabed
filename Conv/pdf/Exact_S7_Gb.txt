@@ -1,150 +1,21 @@
-8/22/2019
-
-Lay 2.4
-
 Definitie
 • Opdelen van de matrix (tabel) in blokjes
-• 𝐀=
-• 𝐀=
-
-3 0 -1
--5 2 4
--8 -6
-
-𝐀
-𝐀
-
-3
-
-5 9 -2
-0 -3 1
-1 7 -4
-
-𝐀
-𝐀
-
-𝐀
-𝐀
-
-• Met 𝐀 = 3
-𝐀
-
-0 −1
-−2
-5 9
-;𝐀 =
-; 𝐀 =
-−5 2 4
-1
-0 −3
-= −8 −6 3 ; 𝐀 = 1 7 ; 𝐀 = −4
-
-1
-
- 8/22/2019
-
 Bewerkingen
 • Optelling: blokjes van gelijke afmeting optellen
-𝐀
-𝐀
-𝐁
-𝐁
-+
-𝐀
-𝐀
-𝐁
-𝐁
 o Bekijk elementsgewijs
 o
-
-=
-
-𝐀
-𝐀
-
-+𝐁
-+𝐁
-
-𝐀
-𝐀
-
-+𝐁
-+𝐁
-
 • Vermenigvuldiging: alsof het scalaire elementen betrof
-𝐀
-𝐀
-𝐁
-𝐀 𝐁 +𝐀 𝐁
-=
-𝐀
-𝐀
-𝐁
-𝐀 𝐁 +𝐀 𝐁
 o Blokjes moeten conforme afmetingen hebben
 o Niet commutatief !
 o Waarom: is maar haakjes verplaatsen:
 distributiviteit/associativiteit
 o
-
 Speciaal geval: vectoren (Theorem 10)
 • A = [a1 a2 … an] de n blokjes zijn één kolom lang
-b1
 • B = ⋮ de n blokjes zijn één rij breed
 bn
-• AB = a1 b1 + … + an bn = de som van n matrices
 = som van i-de kolom van A met i-de rij van B
 = som van n matrices van zelfde afmeting als AB
-
-2
-
- 8/22/2019
-
 Inverse van gepartitioneerde matrix
-𝐀
-𝐀
-𝟎 𝐀
 • 𝐀 is pxp en 𝐀 is qxq ; A inverteerbaar
-𝐁
-𝐁
-• Zoek 𝐁 =
-=𝐀
-𝐁
-𝐁
-𝐈
-𝟎
-𝐀
-𝐀
-𝐁
-𝐁
-•
-=
-𝐁
-𝐁
-𝟎 𝐀
-𝟎 𝐈
 • Blok-bovendriehoeksmatrix: 𝐀 =
-
-• 𝐀 𝐁
-• 𝐁
-𝐁
-
-+𝐀
-𝐀 𝐁
-=𝐀 𝟏
-= −𝐀
-
-𝐁 =𝐈
-; 𝐀 𝐁 +𝐀 𝐁 =𝟎
-=𝟎
-;
-𝐀 𝐁 =𝐈
-; 𝐁 =𝟎 ;𝐀 𝐁 =𝐈 ⇒ 𝐁 =𝐀
-𝟏
-𝐀 𝐀 𝟏
-
-𝟏
-
-3
-
- 

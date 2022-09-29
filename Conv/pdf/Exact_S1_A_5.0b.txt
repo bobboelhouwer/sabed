@@ -1,120 +1,42 @@
 Aanvullende oefeningen bij Hoofdstuk VII
-
-41
-
 Oefening1
 Als 0,06 mol SO3(g) gebracht wordt in een kolf van 1 l bij 1000 K, is 36,7% van SO3 gedissocieerd wanneer evenwicht bereikt is.
-2SO3(g)
-•
-•
-
-2SO2(g) + O2(g)
-
 Wat zijn de concentraties van SO3, SO2 en O2 bij evenwicht?
 Wat is Kc?
-
 Oplossing:
-• [SO3 ] =
-
-•
-
-0,038 mol.l −1
-
-[SO2 ] = 0,022 mol.l −1
-[O2 ] = 0,011 mol.l −1
-Kc = 3,69 10-3 mol.l-1
-
 Oefening 2
 Gegeven de reactie:
-
-2SO2(g) + O2(g)
-
-2SO3(g)
-
-Kc = 36,9 l.mol-1 bij 827°C
-
 Als 0,05 mol SO2(g), 0,03 mol O2(g) en 0,125 mol SO3(g) samen gebracht worden in een kolf
 van 1 l bij 827°C, in welke richting zal de reactie dan doorgaan?
 Oplossing:
-
 Van rechts naar links.
-
 Oefening 3
 Gegeven de reactie:
-
-H2(g) + CO2(g)
-
-H2O(g) + CO(g)
-
-Kc = 0,771 bij 750°C
-
 Als 0,01 mol H2 en 0,01 mol CO2 gemengd worden in een 1 liter kolf bij 750°C, wat zijn dan
 de concentraties bij evenwicht?
 Oplossing:
-
-[H 2 ] = [CO2 ]
-[H 2 O ] = [CO]
-
-= 0,0053 mol.l −1
-= 0,0047 mol.l −1
-
 Oefening 4
 De reactie
-2SO3(g)
-2SO2(g) + O2(g)
 Wat is Kp bij deze temperatuur?
-
-gaat door bij 1100 K en Kc = 0,0271mol.l-1
-
 Oplossing: Kp = 2,478 bar
 Oefening 5
 Vast NH4HS wordt bij 24°C in een vacuümruimte gebracht.
 NH4HS(v)
-
-NH3(g) + H2S(g)
-
 De totale druk bij evenwicht is 0,62 bar. Geef de waarde van Kp.
 Oplossing: Kp = 0,0961 bar2
 Oefening 6
 PCl5(g) wordt bij 250°C in een vacuümruimte gebracht tot druk = 1,013 bar.
 PCl5(g)
-
-PCl3(g) + Cl2(g)
-
  Aanvullende oefeningen bij Hoofdstuk VII
-
-42
-
 De druk is bij evenwicht binnenin 1,74 bar.
 • Wat zijn de partieeldrukken van PCl5(g), PCl3(g) en Cl2(g) in het evenwichtsmengsel?
 • Wat is Kp bij evenwicht?
 Oplossing:
-• PPCl5
-•
-
-= 0,286 bar
-
-;
-
 PPCl3
-
-= PCl2
-
-= 0,727 bar
-
-Kp = 1,85 bar
-
 Oefening 7
 Bereken de dissociatiegraad van SO3 voor het onderstaand evenwicht
-2SO3(g)
-
-2SO2(g) + O2(g)
-
 Nadat evenwicht zich heeft ingesteld, is de partieeldruk van zuurstofgas 0,253 bar. De totaaldruk is dan 5,065 bar.
 Oplossing:
-
-= 10,51%
-
 Oefening 8
 In een vat van 2 liter inhoud bevindt zich 32 g SO3 in dampvorm. Men verhit deze damp tot
 zo hoge temperatuur, dat de dissociatiegraad in de evenwichtstoestand 0,5 bedraagt. Bereken de evenwichtsconstante.
@@ -122,566 +44,154 @@ Bij dezelfde temperatuur perst men nu zoveel zuurstof in het vat dat de concentr
 gas in de nieuwe evenwichtstoestand 0,2 mol.l-1 bedraagt. Hoe groot is nu de concentratie
 van het SO3 geworden en welke waarde heeft nu de dissociatiegraad?
 Oplossing:
-• Kc = 0,05 mol.l-1
-• [SO3 ] = 0,133 mol.l −1 en
-
-= 33,3%
-
 Oefening 9
 Bij een bepaalde temperatuur is Kc = 7,5 voor de reactie
-
-2 NO2 (g)
-
-N2O4(g)
-
 Wanneer 2 mol NO2 in een 2 liter vat gebracht worden en reageren, wat zijn dan de evenwichtsconcentraties van NO2 en N2O4? Wat zijn de evenwichtsconcentraties als bij dezelfde
 temperatuur het volume nadien verdubbeld wordt?
 Oplossing:
-• [NO2 ] =
-•
-
-[NO2 ]
-
-0,22 mol.l −1
-= 0,15 mol.l −1
-
-;
-;
-
-[N 2 O4 ]
-[N 2 O 4 ]
-
-= 0,39 mol.l −1
-= 0,17 mol.l −1
-
 Oefening 10
 Bij een bepaalde temperatuur brengt men in een reactieruimte van 2 liter 18,34 g NOCl(g). Dit
 gas dissocieert volgens de reactie
 2 NOCl(g)
-Cl2(g) + 2NO(g)
 Na instelling van het evenwicht bevat het gasmengsel 0,12 mol Cl2. Bereken Kc.
 In welk volume moeten we bij dezelfde temperatuur dezelfde hoeveelheid NOCl brengen
 opdat bij evenwicht 0,11 mol chloorgas zou bekomen worden?
 Oplossing:
-• Kc = 2,16 mol.l-1
-• V = 0,685 l
-
  Aanvullende oefeningen bij Hoofdstuk VII
-
-43
-
 Oefening 11
 In een ruimte van 0,5 liter brengen we 0,008 mol SO2(g) en 0,0225 mol NO2(g). Bij een bepaalde temperatuur heeft zich in het gasmengsel 0,005 mol SO3(g) gevormd volgens
-SO2(g) + NO2(g)
-•
-•
-
-SO3(g) + NO(g)
-
 Bereken Kc.
 Hoeveel NO2 had men oorspronkelijk moeten nemen om 0,006 mol SO3 te bekomen?
-
 Oplossing:
-• Kc = 0,4762
-•
-
-(NO2 )
-
-= 0,0438 mol
-
 Oefening 12
 Voor de reactie
-
-0,5 l
-
-N2(g) + 3 H2(g)
-
-2 NH3(g)
-
 is
-
-H° = - 92,4 kJ.
-
-Bij 400°C is Kc = 0,47 l2.mol-2. Wat is de waarde van Kc bij 25°C?
-Oplossing: Kc = 9,7 107 l2.mol-2
 Oefening 13
 Voor de reactie
-
-H2(g) + I2(g)
-
-2HI(g)
-
 werden volgende evenwichtsconstanten bepaald: Kc = 50,0 bij 448°C
 Bereken H° voor deze reactie.
 Oplossing:
-
-Kc = 66,9 bij 350°C
-
-H° = -11,1 kJ.mol-1
-
 Oefening 14
 Men verhit HI tot 600 K. Bij deze temperatuur is Kc = 1,44 10-2 voor de reactie
-2HI(g)
-
-I2(g) + H2(g)
-
 De totaaldruk in het evenwichtsmengsel is 5,065 bar. Bereken:
 • De dissociatiegraad .
 • De samenstelling van het gasmengsel in mol.l-1
 • De partieeldrukken in het evenwichtsmengsel.
 Oplossing:
-•
-= 18,95%
-• [HI ] = 0,0819 mol.−1
-•
-
 PHI
-
-= 4,1 bar
-
-;
-;
-
-[I 2 ]
-PI 2
-
-=
-
-[H 2 ]
-
-= PH 2
-
-= 0,00985 mol.l −1
-= 0,48 bar
-
 Oefening 15
 Het Deaconproces ter bereiding van Cl2 verloopt als volgt:
-4HCl(g) + O2(g)
-
-2Cl2(g) + 2H2O(g)
-
 Men gaat uit van stoichiometrische hoeveelheden HCl en O2. Bij een totaaldruk van 1,013
 bar bij evenwicht en 870 K, verkrijgt men voor Cl2 een druk van 0,241 bar. Bereken
 • De partieeldrukken bij evenwicht.
-• Kp en Kc.
-
  Aanvullende oefeningen bij Hoofdstuk VII
 Oplossing:
-• PHCl
-•
-
-= 0,425 bar ;
-
 PO2
-
-44
-
-= 0,106 bar ;
-
 PCl2
-
-= PH 2O
-
-= 0,241 bar
-
-Kp = 0,975 bar-1
-Kc = 70,5 l.mol-1
-
 Oefening 16
 Voor het evenwicht
-
-2H2(g) + CO(g)
-
 CH3OH(g)
-
 is Kp = 2 106 (kPa-2) bij 100°C. In een vat van 5 liter brengt men een hoeveelheid CH3OH. Bij
 evenwicht is de CH3OH-concentratie 2 mol.l-1.
 • Hoeveel mol H2 en CO werden gevormd?
 • Hoeveel mol zou gevormd worden bij 300°C, wanneer bij evenwicht de CH3OHconcentratie 2 mol.l-1 is.
-H°V van CH3OH(g) = - 201 kJ.mol-1
-van CO(g) = - 110,5 kJ.mol-1
 Oplossing:
-• H2: 30 10-5 mol
-• H2: 9,5 10-3 mol
-
-CO: 15 10-5 mol
-CO: 4,7 10-3 mol
-
-;
-;
-
 Oefening 17
 Hoe zal de entropie veranderen (stijgen, dalen of gelijk blijven) in volgende reacties:
 PCl5(g)
-(-)
-• PCl3(g) + Cl2(g)
-• SO2(g) + CaO(v)
 CaSO3(v)
-(-)
-• CO2(g) + H2O(vl)
 H2CO3(opl)
-(-)
-H2(g) + NiCl2(opl)
-(+)
-• Ni(v) + 2HCl(opl)
-• I2(v)
-I2(g)
-(+)
-• NH3(g) + HCl(g)
 NH4Cl(v)
-(-)
-Ca(OH)2(v)
-(-)
-• CaO(v) + H2O(vl)
-• 2 HCl(g)
-H2(g) + Cl2(g)
 (ongeveer 0)
 Oefening 18
 Bereken S° voor de volgende reacties. Gaan deze reacties spontaan door bij standaardvoorwaarden?
-• N2(g) + 3 H2(g)
-2 NH3(g)
-• CO(g) + 2 H2(g)
 CH3OH(vl)
-• Ca(OH)2(v) + H2SO4(vl)
-CaSO4(v) + 2 H2O(vl)
-H°V (kJ.mol-1)
-
-N2(g)
-H2(g)
-NH3(g)
--45,9
 CO(g)
--110,5
 CH3OH(vl)
--239,2
 Ca(OH)(v)
--985,2
 H2SO4(vl)
--814,0
 CaSO4(v)
--1434,5
 H2O(vl)
--285,8
 Oplossing:
-• - 198,1 J.mol-1.K-1
-• - 332,3 J.mol-1.K-1
-•
-6,2 J.mol-1.K-1
-
-;
-;
-
-S°(J.mol-1.K-1)
-191,6
-130,7
-192,8
-197,7
-126,8
-83,4
-156,9
-106,5
-70,0
-
-;
-
 spontaan
 spontaan
 spontaan
-
  Aanvullende oefeningen bij Hoofdstuk VII
-
-45
-
 Oefening 19
 Bereken G° in kJ.mol-1 voor volgende reacties a.h.v. tabel met G°V -waarden
-• 2 HCl(g) + CaO(v)
-CaCl2(v) + H2O(g)
-2 HNO3(vl) + NO(g)
-• 3 NO2(g) + H2O(vl)
-CaCl2(v) + 2 Ag(v)
-• 2 AgCl(v) + Ca(v)
 Oplossing:
-• - 183,5 kJ.mol-1
-•
-9,4 kJ.mol-1
-• - 529,2 kJ.mol-1
 Oefening 20
 • Bereken de standaard entropieverandering S° bij de vorming van 1 mol HgO(v) uitgaande van zijn samenstellende elementen.
 • Bereken G°V bij de vorming van 1 mol HgO(v) bij 25°C.
-S°(Hg (vl)) = 75,9 J.mol-1.K-1
-Gegeven: S°(HgO(v)) = 70,3 J.mol-1.K-1
-S°(O2(g)) = 205,2 J.mol-1.K-1
-H°V(HgO(v)) = - 90,8 kJ.mol-1
 Oplossing:
-•
-S° = -108,2 J.mol-1.K-1
-•
-G°V(HgO) = - 58,5 kJ.mol-1
 Oefening 21
 Beschouw volgende reactie:
 NH4Cl(v)
-NH3(g) + HCl(g)
-• Gegeven: S° = 285 J.mol-1.K-1
-H° = 177 kJ.mol-1
-G° = 91,9 kJ.mol-1 bij 25°C
 • Gaat deze reactie spontaan door onder standaardvoorwaarden?
 • In de veronderstelling dat H° en S° niet veranderen met de temperatuur, bereken
 dan de temperatuur waarbij deze reactie spontaan begint door te gaan.
 Oplossing:
-• neen
-• T = 348°C
 Oefening 22
 Ureum, CO(NH2)2, hydrolyseert in waterig midden langzaam tot vorming van CO2 en NH3.
 CO(NH2)2(opl)
 CO(NH2)2(opl)
 H2O(vl)
-CO2(g)
-NH3(g)
-
-+ H2O(vl)
-H°V (kJ.mol-1)
-- 319,2
-- 285,8
-- 393,5
-- 45,9
-
-CO2(g) + 2 NH3(g)
-S°(J.mol-1.K-1)
-173,8
-70,0
-213,8
-192,8
-
 Bereken S° en G°wanneer 1 mol ureum hydrolyseert bij 25 °C.
 Oplossing:
-•
-S° = 355,6 J.mol-1.K-1
-•
-G° = 13,73 kJ.mol-1
-
  Aanvullende oefeningen bij Hoofdstuk VII
-
-46
-
 Oefening 23
 Bereken Kp voor volgende reactie bij 25°C.
-2SO2(g) + O2(g)
-
-2SO3(g)
-
-Gegeven: G°V(SO2(g)) = -300,1 kJ.mol-1
-G°v(SO3(g)) = -371,1 kJ.mol-1
 Oplossing:
-Kp = 7,78 1024 bar-1
 Oefening 24
 Bereken Kp voor volgende reactie bij 25°C:
 ZnCO3(v)
-
-ZnO(v) + CO2(g)
-
-Gegeven: G°V(ZnO(v)) = -320,5 kJ.mol-1
-G°V(CO2(g)) = -394,4 kJ.mol-1
-G°V(ZnCO3(v)) = -731,5 kJ.mol-1
-Oplossing: Kp = 1,2 10-3 bar
 Oefening 25
 Voor de verdamping van H2O bij 25°C is G° = 8,58 kJ.
 H2O(vl)
-
-H2O(g)
-
 Bereken de dampdruk van water bij 25°C in kPa.
 Oplossing: PH 2O
-
-= 3 kPa
-
 Oefening 26
 Voor volgende reactie: N2(g) + O2(g)
-
-2NO(g)
-
-is bij 2000 K: Kp = 4,08 10-4
-2500 K: Kp = 3,60 10-3
 • Bereken H° voor dit temperatuursgebied.
 • Bereken Kp voor deze reactie bij 2250 K.
 Oplossing:
-•
-H° = 181030,9 J.mol-1
-• Kp = 1,37 10-3
 Oefening 27
 Beschouw de reactie tussen stikstofgas en waterstofgas tot vorming van ammoniak (gas). Bij
 een temperatuur van 300°C wordt evenveel N2 als H2 samengebracht in een vat van 100 l
 (Ptotaal = 1013 kPa). Nadat evenwicht is ingesteld bedraagt PNH 3 = 120 kPa .
-•
-•
-•
-
 Bereken Kc voor deze reactie.
 Wanneer H°V van NH3(g) gelijk is aan – 45,9 kJ.mol-1 bereken Kp bij 500°C.
 Bereken eveneens S° voor de reactie bij 500°C.
-
 Oplossing:
-
  Aanvullende oefeningen bij Hoofdstuk VII
-•
-•
-•
-
-47
-
-Kc = 21,03 l2.mol-2
-Kp = 6 * 10-9 kPa-2
-S° = -199,6 J.mol-1.K-1
-
 Oefening 28
 Beschouw de volgende evenwichtsreactie
-
-CO(g) + Cl2(g)
-
 COCl2(g)
-
 Bij een temperatuur van 25°C is Kp = 1,2 10-3 kPa-1. In een vat van 100 liter brengt men CO(g)
-(PCO = 500 kPa) en 10 mol Cl2(g).
-•
-
 Wat is PCOCl2 bij evenwicht?
-
-•
-
 Bereken Kp bij 150°C als
-
-•
-
 Bereken ook S° bij 150°C.
-
-H°V(CO) = -110,5 kJ.mol-1 en
-
-∆H V° (COCl2 )
-
-.
-
 Oplossing:
-• PCOCl2
-•
-•
-
-= − 219,1 kJ .mol −1
-
-= 82,7 kPa
-
-Kp(423) = 2 10-9 kPa-1
-S° = - 423,3 J.mol-1.K-1
-
 Oefening 29
 Voor het evenwicht
-
-SO2(g) + NO2(g)
-
-NO(g) + SO3(g)
-
 worden bij een temperatuur van 400°C de volgende hoeveelheden samengebracht in een
 volume van 100 liter: 10 mol SO2, 8 mol NO2 en 3 mol NO. Bij evenwicht is 7 mol SO3 gevormd. Bereken [SO3 ] , G° en S° bij een temperatuur van 600°C als
-H°V van NO = 91,3 kJ.mol-1
-NO2 = 33,2 kJ.mol-1
-SO3 = -395,7 kJ.mol-1
-SO2 = -296,8 kJ.mol-1
 Oplossing:
-•
-•
-•
-
-[SO3 ]
-
-= 0,056 mol.l −1
-
-G°= -10737 J.mol-1
-S° = -34,4 J.mol-1.K-1
-
 Oefening 30
 De volgende reactie gaat door bij een temperatuur van 25°C:
-H2(g) + CO2(g)
-
-H2O(g) + CO(g)
-
-G°V voor CO2 = - 394,4 kJ.mol-1
-H°V voor CO2 = - 393,5 kJ.mol-1
--1
-CO = - 137,2 kJ.mol
-CO = - 110,5 kJ.mol-1
--1
-H2O = - 228,6 kJ.mol
-H2O = - 241,8 kJ.mol-1
 Bereken de standaard-entropieverandering bij deze reactie. Als bij 200°C 1 mol H2 en 2 mol
 CO2 samengebracht worden in een vat van 2 l, bereken dan de partieeldrukken van H2O en
 CO bij evenwicht.
 Oplossing:
-•
-S° = 42,3 J.mol-1.K-1
-• PH 2O = PCO = 174 kPa
-
  Aanvullende oefeningen bij Hoofdstuk VII
-
-48
-
 Oefening 31
 Bij een temperatuur van 125°C wordt 10 mol H2 en 5 mol I2 samengebracht in een vat van 10
 l. Wanneer evenwicht is ingesteld, wordt 8 mol HI aangetroffen in het vat. Vervolgens wordt
 10 mol H2 en 5 mol I2 bijgeperst in het vat. Wat wordt nu de concentratie aan HI bij evenwicht? Wat wordt de concentratie wanneer vervolgens het volume gehalveerd wordt? Bereken H°als S°(H2) = 130,7 J.mol-1.K-1, S°(I2) = 260,7 J.mol-1.K-1 en S°(HI) = 206,7 J.mol-1.K-1
 Oplossing:
-• [HI ] = 1,72 M
-•
-•
-
-[H 2 ]
-
-= 2,28 M
-
-;
-
--1
-
-[I 2 ]
-
-= 0,28 M
-
-;
-
-[HI ]
-
-= 3,44 M
-
-H° = 922 J.mol
-
 Oefening 32
-Gegeven: H°V(HI) = 26,5 kJ.mol-1
-H°(subl I2)
-
-S°(HI) = 206,7 J.mol-1.K-1
-S°(H2) = 130,7 J.mol-1.K-1
-S°(I2) = 260,7 J.mol-1.K-1
-
-0
-
 Indien men bij een temperatuur van 400°C in een vat van 100 liter 10 mol HI brengt, wat
 wordt dan PH 2 en PI 2 bij evenwicht? Als men vervolgens het volume van het vat verdubbelt,
 wat worden dan de partieeldrukken bij evenwicht?
 Oplossing:
-• PH 2
-•
-
-PH 2
-
-= PI 2
-
-= 1,3 kPa
-
-= PI 2
-
-= 0,65 kPa
-
-;
-
 PHI
-
-= 278,7 kPa
-
- 

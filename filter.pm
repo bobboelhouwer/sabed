@@ -24,7 +24,7 @@ sub formulas {
     foreach my $next (@txt) {
 	my $len = length ($next);
 	my $letters = cntLetters ($next);
-	if (($len / 2) <= $letters) {# minder letters dan andere tekens
+	if (($len / 2) < $letters) {# minder letters dan andere tekens
 	    $result .= sprintf "%s\n", $next;
 	}
     }

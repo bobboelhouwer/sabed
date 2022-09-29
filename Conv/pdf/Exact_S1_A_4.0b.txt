@@ -1,389 +1,110 @@
 Aanvullende oefeningen bij Hoofdstuk VI
 Oefening 1
 Voor de reactie
-
-29
-
-2 NO(g) + O2(g)
-
-2 NO2(g)
-
 beschikken we over volgende gegevens:
 initiële NO conc. (mol.l-1)
-1
-1
-1
-2
-3
-•
-•
-
 initiële O2 conc. (mol.l-1)
-
-10-3
-10-3
-10-3
-10-3
-10-3
-
-1
-2
-3
-3
-3
-
 initiële RS (mol.l-1s -1)
-
-10-3
-10-3
-10-3
-10-3
-10-3
-
-7 10-6
-14 10-6
-21 10-6
-84 10-6
-189 10-6
-
 Bepaal de orde van de reactie.
 Bereken k
-
 Oplossing:
 • 3de orde (2de orde in NO)
-• k = 7 103 l2.mol-2s-1
 Oefening 2
 Gegeven de volgende reactie:
-
-•
-•
-
-2 NO(g) + Cl2(g)
-
 2 NOCl(g)
-
 Initiële NO conc (mol.l-1)
-
 Initiële Cl2 conc (mol.l-1)
-
 Initiële RS (mol.l-1s -1)
-
-0,1
-0,1
-0,2
-0,3
-
-0,1
-0,2
-0,1
-0,1
-
-2,53 10-6
-5,06 10-6
-10,10 10-6
-22,80 10-6
-
 Geef de snelheidsvergelijking.
 Geef de waarde en de eenheden van de snelheidsconstante.
-
 Oplossing:
-• RS = k (NO)2 (Cl2)1
-• k = 2,5 10-3 l2.mol-2s-1
 Oefening 3
 De reactie
-
-2 N2O(g)
-
-2 N2(g) + O2(g)
-
 is 2de orde in N2O.
-
 Bij 900 K en een beginconcentratie van N2O(g) van 2 10-2 M duurt het 4500 seconden vooraleer een concentratie aan N2O van 1 10-2 M bereikt wordt. Bereken k bij 900 K.
 Oplossing:
-• k = 0,0111 l.mol-1s-1
 Oefening 4
 De reactie
-
 C2H5Cl(g)
-
-C2H4(g) + HCl(g)
-
 is 1ste orde in C2H5Cl.
-
 k = 1,6 * 10-6 s-1 bij 650 K en de initiële concentratie van C2H5Cl bedraagt 0,165 M
-•
-•
-•
-
 Wat zal de concentratie zijn van C2H5Cl na 125 uur?
 Hoeveel uur duurt het voor de concentratie van C2H5Cl gedaald is tot 0,1 M?
 Hoeveel uur duurt het voor 75% van C2H5Cl is ontbonden?
-
  Aanvullende oefeningen bij Hoofdstuk VI
-
-30
-
 Oplossing:
-• 0,0803 mol.l-1
-• 87 uur
-• 241 uur
 Oefening 5
 De ontbinding van HI is tweede orde. Bij 500°C bedraagt de halveringstijd van HI 2,11 min.
 voor een beginconcentratie van 0,1 M. Wat is de halveringstijd voor een beginconcentratie
-van 0,01 M?
 Oplossing:
-t1/2 = 21 min.
 Oefening 6
 De snelheidsconstante voor de reactie tussen ICl en H2
-2 ICl + H2
-
-I2 + 2 HCl
-
 bedraagt 0,163 l.mol-1s-1 bij 230°C en 0,348 l.mol-1s-1 bij 240°C. Wat zijn de waarden voor de
 activeringsenergie Ea en A (constante uit de Arrheniusvergelijking) voor de reactie?
 Oplossing:
-• Ea = 1,6 105 J.mol-1
-
-A = 1,36 1016 l.mol-1s-1
-
-;
-
 Oefening 7
 De activeringsenergie voor de ontbinding van HI
-2 HI(g)
-
-H2(g) + I2(g)
-
 bedraagt 182 kJ.mol-1. De snelheidsconstante voor de reactie bij 700°C is 1,57 10-3 l.mol-1s-1.
 Wat is de waarde van deze snelheidsconstante bij 600°C?
 oplossing:
-• k2 = 1,19 10-4 l.mol-1s-1
 Oefening 8
 De snelheid van de reactie:
-2 HgCl2 + C2O42-
-
-2 Cl- + 2 CO2(g) + Hg2Cl2(v)
-
 wordt gevolgd door meten van het aantal mol Hg2Cl2 vrijgesteld per liter oplossing en per
 minuut.
-
-•
-•
-•
-
-(HgCl2)0 (mol.l-1)
-
-(C2O42-)0 (mol.l-1)
-
-0,105
-0,105
-0,052
-0,052
-
-0,15
-0,30
-0,30
-0,15
-
 Initiële RS (mol.l-1min-1)
-1,8
-7,1
-3,5
-8,9
-
-10-5
-10-5
-10-5
-10-6
-
 Bepaal de orde van de reactie in HgCl2, in C2O42-.
 Wat is de waarde van de snelheidsconstante k?
 Wat zou de beginsnelheid van de reactie zijn in het geval (HgCl2)0 = 0,02 mol.l-1 en
-(C2O42-)0 = 0,22 mol.l-1
-
  Aanvullende oefeningen bij Hoofdstuk VI
-
-31
-
 oplossing:
 • 1ste orde in HgCl2
-;
-2de orde in C2O42-3 2
--2
--1
-• k = 7,6 * 10 l .mol min
-• RS0 = 7,4 * 10-6 mol.l-1min-1
 Oefening 9
 Voor de reactie
-
-2A
-
-;
-
 3de orde in totaal
-
-B + C
-
 werden volgende gegevens opgetekend voor (A) in functie van de tijd
 Tijd (min)
-00
-08
-24
-40
-•
-•
-•
-
-(A) (mol.l-1)
-0,80
-0,60
-0,35
-0,20
-
 Bepaal de orde van de reactie.
 Bepaal de waarde van k.
 Bereken de snelheid voor de vorming van B na 30 minuten.
-
 Oplossing:
 • 1ste orde
-• 3,5 10-2 min-1
-• 4,9 10-3 mol.l-1min-1
 Oefening 10
-
-2 NO(g) + 2 H2(g)
-
-N2(g) + 2 H2O(g)
-
 De reactie is 2de orde in NO en de snelheidsconstante wordt weergegeven in l2.mol-2s
-•
-•
-•
-
 Wat is de orde in H2
 Schrijf een snelheidsvergelijking voor de vorming van N2
 Geef een verband tussen de snelheidsconstanten van N2 en NO
-
 Oplossing:
 • 1ste orde
 • k van N2 is ½ van k van NO
 Oefening 11
 De ontbinding van Cl2O7 bij 100 °C levert een aantal meetresultaten
-2 Cl2O7(g)
-Cl2O7 (mol.l-1)
 tijd (minuten)
-•
-•
-
-0,0600
-0
-
-2 Cl2(g)
-0,0482
-15,5
-
-+
-0,0421
-25,0
-
-7 O2 (g)
-0,0295
-50,0
-
-0,0256
-60,0
-
-0,0214
-72,5
-
 Wat is de orde van de reactie
 Bereken de reactiesnelheid voor de vorming van O2 na 60 minuten reactietijd
-
 Oplossing:
 • 1ste orde
-• 1,27 10-3 mol.l-1 min-1
-
  Aanvullende oefeningen bij Hoofdstuk VI
-
-32
-
 Oefening 12
 De initiële ontbinding van acetaldehyde wordt gemeten bij verschillende concentraties
 CH3CHO
 CH3CHO (mol.l-1)
-RS (mol.l-1s-1)
-•
-
 CH4
-0,10
-0,020
-
-+
-
-O2
-
-0,20
-0,081
-
-0,30
-0,182
-
-0,40
-0,318
-
 Bepaal de orde van de reactie en de waarde van k
-
 Oplossing:
-• 2de orde
-
-;
-
-2,0 l.mol-1s-1
-
 Oefening 13
 De ontbinding van NO2 is een 2de orde reactie en heeft waarde voor k van 0,755 l.mol-1s-1 bij
 330 °C. Bij deze temperatuur wordt gestart met een concentratie van 0,00650 mol.l-1 NO2.
-2 NO2(g)
-•
-•
-
-2 NO(g) +
-
-O2(g)
-
 Wat is de concentratie van NO2 na 125 s?
 Wat is de tijd nodig om een concentratie aan NO2 van 0,0010 mol.l-1 te bekomen?
-
 Oplossing:
-• 0,00403 mol.l-1
-• 1,12 103 s
 Oefening 14
 De 1ste orde snelheidsconstante k (in min-1) voor de ontbinding van CH3CH2Br(g) wordt gegeven door
-
 log k
-
-99,96 10 3
-= 14,58 −
 RT
-
 Bereken de fractie van het uitgangsproduct dat nog overblijft na behandeling bij 427 °C gedurende 30 minuten.
 Oplossing:
-• 0,928
 Oefening 15
-
-C4H8(g)
-
-2 C2H4(g)
-
 De activeringsenergie voor deze reactie bedraagt 262 kJ.mol-1 en de waarde van k bij 327 °C
-is 6,07 10-8 s-1.
-•
-•
-
 Wat is de snelheidsconstante bij 527 °C
 Hoe groot is RS bij 527 °C voor een startconcentratie van 0,2 mol.l-1 C4H8
-
 Oplossing:
-• 3,06 10-2 s-1
-• 6,12 10-4 mol.l-1s-1
-
- 

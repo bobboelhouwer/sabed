@@ -1,199 +1,68 @@
 Nederlandse Taalkunde I
 Hoofdstuk 11 (deel I)
-Handboek pp.319–361
 (zonder het naamwoordelijk gezegde)
-
 Jeroen van Craenenbroeck
-
  Inleiding
-→
 constituent
 valentie
 vervangbaarheid
 verplaatsbaarheid
 extra
-(1)
-a.
-b.
-c.
-d.
-e.
-f.
-g.
-
 NP
 eerste participant in het valentieschema (agens)
 Type I-paradigmata (persoon/zaak)
-AL, VV, MV1, ?MV2, ?MV3, *AV, UL
 bepaalt congruentiekenmerken van de PV
 kan in een door-PP verschijnen in nominaliseringen
-
 Die man vermoordt de gijzelaars.
 Die man, die vermoordt de gijzelaars.
 Die man vermoordt de gijzelaars.
 Vermoordt die man de gijzelaars?
-*Heeft vaak die man de gijzelaars vermoord?
-*Heeft de gijzelaars vaak die man vermoord?
+*Heeft vaak die man de gijzelaars vermoord? (*MV2)
+*Heeft de gijzelaars vaak die man vermoord? (*MV3)
 *dat de gijzelaars vermoordt die man.
 Die vermoordt de gijzelaars, die man.
-
-(AL)
-(VV)
-(MV1)
-(*MV2)
-(*MV3)
-(*AV)
-(UL)
-
  Inleiding
-→
 constituent
 valentie
 vervangbaarheid
 verplaatsbaarheid
 extra
-
 NP
 eerste participant in het valentieschema (agens)
 Type I-paradigmata (persoon/zaak)
-AL, VV, MV1, ?MV2, ?MV3, *AV, UL
 bepaalt congruentiekenmerken van de PV
 kan in een door-PP verschijnen in nominaliseringen
-
-(2)
-
-a.
-b.
-
 Die man vermoordt de gijzelaars.
 Die mannen vermoorden de gijzelaars.
-
-(3)
-
 het vermoorden van de gijzelaars door de mannen
-
-(4)
-
-a.
-b.
-
 De man lacht.
 Het lachen van/door de man.
-
-(5)
-
-a.
-b.
-
 De soldaten sneuvelen.
 Het sneuvelen van/*door de soldaten.
-
  Inleiding
-→
 constituent
 valentie
 vervangbaarheid
 verplaatsbaarheid
 extra
-
 NP
 eerste participant in het valentieschema (agens)
 Type I-paradigmata (persoon/zaak)
-AL, VV, MV1, ?MV2, ?MV3, *AV, UL
 bepaalt congruentiekenmerken van de PV
 kan in een door-PP verschijnen in nominaliseringen
-
-(6)
-
 De gijzelaars worden vermoord door die man.
-
-(7)
-
 Er staat een man in de tuin.
-
-▶
-
-→
-
  Inleiding
-▶
-
-(8)
-
-a.
-b.
-
 Die man, die ziet jou niet.
 Hij ziet jou niet, die man.
-
  Inleiding
-▶
-
-(9)
-
-a.
-
 Die man, die ziet jou niet.
-
-b.
-
 Hij ziet jou niet, die man.
-
-10
-
-10+
-
-10
-
-10+
-
-(10)
-
-(11)
-
-a.
-
 Die man, die ken ik niet.
-
-b.
-
 Ik ken hem niet, die man.
-
-a.
-
 Aan die man, daaraan geef ik een boek.
-
-b.
-
 Aan die man, daar geef ik een boek daar.
-
-c.
-
 Ik ken daar een boek aan, aan die man.
-
-30
-
-30+
-
-30+
-
-40
-40
-
-40+
-
-30
-
-40+
-
-40+
-
-40+
-
-40+
-
-40
-
  Inleiding
 PV
 niet-ﬁniet werkwoordelijk deel
@@ -218,159 +87,55 @@ bwb. van wijze
 bwb. van tijd/duur
 bijvoeglijke bepaling
 interne bijwoordelijke bepaling
-
 eigenlijk/
 loos
-20
-21
-22
-23
-10
-10+
-30
-30+
-40
-50
-61
-62
-63
-64
-65
-70
-71
-72
-73
-74
-75
-90
-91
-
 voorlopig/
 herhalend
-21+
-22+
-10+
-10+
-30+
-30+
-40+
-50+
-61+
-62+
-63+
-64+
-65+
-70+
-71+
-72+
-73+
-74+
-75+
-90+
-
  Het werkwoordelijk gezegde
-(12)
-
 Jan lacht luid.
-
-(13)
-
 Jan heeft luid gelachen.
-
-(14)
-
 Jan vergist zich vaak.
-
-(15)
-
 Jan belt Marie op.
-
-(16)
-
 Jan bracht mij op de hoogte van het nieuws.
-
  Het werkwoordelijk gezegde
 werkwoordelijk gezegde
-
 werkwoordelijk deel
-
 ﬁniet
 werkwoordelijk
 deel
-(PV)
-20
-
 niet-ﬁniet
 werkwoordelijk
 deel
-21
-
 niet-werkwoordelijk
 deel
-22
-
 vnw. bij
 verplicht
 wederkerend
 ww.
-
 scheidbaar
 deel van
 samenkoppeling
-
 niet-ww. deel
 van werkwoordelijke
 uitdrukking
-
 niet-ww. deel van
 vaste verbinding
-
 niet-ww. deel
 van idiomatische
 verbinding
-
  Het werkwoordelijk gezegde
-(17)
-
 Jan lacht luid.
-
-(18)
-
 Jan heeft luid gelachen.
-
-(19)
-
 Jan vergist zich vaak.
-
-(20)
-
 Jan belt Marie op.
-
-(21)
-
 Jan bracht mij op de hoogte van het nieuws.
-
  Het werkwoordelijk gezegde
-(22)
-
 Ze gaat mij helpen.
-
-(23)
-
 Ze wil mij helpen.
-
  Het werkwoordelijk gezegde
-(24)
-
 Hij steekt de draak met Piet.
-
-(25)
-
 Hij heeft belang bij een snelle a andeling.
-
  Het subject of onderwerp
-▶
-
 onderwerp
 lijdend voorwerp
 meewerkend voorwerp
@@ -380,31 +145,10 @@ voorwerp van richting
 voorwerp van maat
 voorwerp van wijze
 voorwerp van duur
-
 eigenlijk/
 loos
-10
-30
-40
-50
-61
-62
-63
-64
-65
-
 voorlopig/
 herhalend
-10+
-30+
-40+
-50+
-61+
-62+
-63+
-64+
-65+
-
  Het subject of onderwerp
 code
 constituent
@@ -412,58 +156,17 @@ valentie
 vervangbaarheid
 verplaatsbaarheid
 extra
-(26)
-
-10
 NP
 eerste participant in het valentieschema (agens)
 Type I-paradigmata (persoon/zaak)
-AL, VV, MV1, ?MV2, ?MV3, *AV, UL
 bepaalt congruentiekenmerken van de PV
 kan in een door-PP verschijnen in nominaliseringen
-
-a.
-
 Die man, die ziet jou niet.
-
-b.
-
 Hij ziet jou niet, die man.
-
-10
-
-10+
-
-10+
-
-(27)
-
-(28)
-(29)
-
-a.
-
 Het sneeuwt.
-
-b.
-
 Het is vijf uur.
-
-10
-
-10
-10
-
 Er stond gisteren een paard in de gang
-
-10+
-
-10
-
 Er werd gisteren veel gedanst op het feest.
-
-10+
-
  Het direct object of lijdend voorwerp
 code
 constituent
@@ -471,45 +174,18 @@ valentie
 vervangbaarheid
 verplaatsbaarheid
 extra
-(30)
-
-30
 NP
 tweede participant in het valentieschema
 (patiens/thema)
 Type I-paradigmata (persoon/zaak)
-AL, VV, *MV1, MV2, MV3, *AV, UL
 wordt subject van passieve zin
 verschijnt in een van-PP in nominaliseringen
-
-a.
-
 Die taalkundige heeft verschillende romans geschreven.
-
-b.
-
 Die taalkundige heeft die geschreven.
-
-c.
-
 Verschillende romans heeft die taalkundige geschreven.
-
-30
-
-30
-
-30
-
 d. *Die taalkundige heeft geschreven verschillende romans
-30
-
-e.
-
 Verschillende romans werden door die taalkundige
-10
-
 geschreven.
-
  Het direct object of lijdend voorwerp
 code
 constituent
@@ -517,40 +193,18 @@ valentie
 vervangbaarheid
 verplaatsbaarheid
 extra
-(31)
-
-30
 NP
 tweede participant in het valentieschema
 (patiens/thema)
 Type I-paradigmata (persoon/zaak)
-AL, VV, *MV1, MV2, MV3, *AV, UL
 wordt subject van passieve zin
 verschijnt in een van-PP in nominaliseringen
-
 a. De man heeft een hond.
 b. *De hond wordt gehad door de man.
 c. het hebben van een hond
-
  Het direct object of lijdend voorwerp
-(32)
-
-a.
-
 Die man, die ken ik niet.
-
-b.
-
 Ik ken hem niet, die man.
-
-30
-
-30+
-
-30+
-
-30
-
  Het indirect object of meewerkend voorwerp
 code
 constituent
@@ -558,44 +212,16 @@ valentie
 vervangbaarheid
 verplaatsbaarheid
 extra
-(33)
-
-(34)
-
-40
 NP of PP (aan/voor/van)
 derde participant in het valentieschema
 (ontvanger/bron/belanghebbende)
 Type I-paradigma (persoon)
-PP: AL, VV, *MV1, MV2, MV3, AV, UL
-NP: AL, VV, *MV1, MV2, *MV3, *AV, UL
 verschijnt in een aan/voor/van-PP in
 nominaliseringen
-
-a.
-
 Ik geef Jan een boek.
-
-b.
-
 Ik geef aan Jan een boek.
-
-a.
-
 Mojgan verkocht een taalkundeboek aan Mansour.
-
-b.
-
 Mansour kocht een taalkundeboek van Mojgan.
-
-40
-
-40
-
-40
-
-40
-
  Het indirect object of meewerkend voorwerp
 code
 constituent
@@ -603,93 +229,35 @@ valentie
 vervangbaarheid
 verplaatsbaarheid
 extra
-(35)
-
-40
 NP of PP (aan/voor/van)
 derde participant in het valentieschema
 (ontvanger/bron/belanghebbende)
 Type I-paradigma (persoon)
-PP: AL, VV, *MV1, MV2, MV3, AV, UL
-NP: AL, VV, *MV1, MV2, *MV3, *AV, UL
 verschijnt in een aan/voor/van-PP in
 nominaliseringen
-
-a.
-
 Zal ik je een glas wijn inschenken?
-
-b.
-
 Zal ik een glas wijn voor je inschenken?
-
-a.
-
 het verkopen van een taalkundeboek door Mojgan aan
 Mansour
 het kopen van een taalkundeboek door Mansour van Mojgane
 het inschenken van een glas wijn door jou voor Olivier
-
-40
-40
-
-(36)
-
-b.
-c.
-
  Het indirect object of meewerkend voorwerp
 code
 constituent
 valentie
-
-40
 NP of PP (aan/voor/van)
 derde participant in het valentieschema
 (ontvanger/bron/belanghebbende)
 Type I-paradigma (persoon)
-PP: AL, VV, *MV1, MV2, MV3, AV, UL
-NP: AL, VV, *MV1, MV2, *MV3, *AV, UL
 verschijnt in een aan/voor/van-PP in
 nominaliseringen
-
 vervangbaarheid
 verplaatsbaarheid
 extra
-(37)
-
-a.
-
 Haar vriendin heeft zij haar ﬁets geleend.
-
-b.
-
 Aan haar vriendin heeft zij haar ﬁets geleend.
-
-c.
-
 Zij heeft haar vriendin haar ﬁets geleend.
-
-d.
-
 Zij heeft aan haar vriendin haar ﬁets geleend.
-
-40
-
-30
-
-40
-
-30
-
-40
-
-30
-
-40
-
-30
-
  Het indirect object of meewerkend voorwerp
 code
 constituent
@@ -697,42 +265,16 @@ valentie
 vervangbaarheid
 verplaatsbaarheid
 extra
-(38)
-
-40
 NP of PP (aan/voor/van)
 derde participant in het valentieschema
 (ontvanger/bron/belanghebbende)
 Type I-paradigma (persoon)
-PP: AL, VV, *MV1, MV2, MV3, AV, UL
-NP: AL, VV, *MV1, MV2, *MV3, *AV, UL
 verschijnt in een aan/voor/van-PP in
 nominaliseringen
-
 a. *Zij heeft haar ﬁets haar vriendin geleend.
-30
-
-b.
-
-40
-
 Zij heeft haar ﬁets aan haar vriendin geleend.
-30
-
-40
-
 c. *Zij heeft haar ﬁets geleend haar vriendin
-30
-
-d.
-
-40
-
 Zij heeft haar ﬁets geleend aan haar vriendin
-30
-
-40
-
  Het indirect object of meewerkend voorwerp
 code
 constituent
@@ -740,213 +282,72 @@ valentie
 vervangbaarheid
 verplaatsbaarheid
 extra
-
-40
 NP of PP (aan/voor/van)
 derde participant in het valentieschema
 (ontvanger/bron/belanghebbende)
 Type I-paradigma (persoon)
-PP: AL, VV, *MV1, MV2, MV3, AV, UL
-NP: AL, VV, *MV1, MV2, *MV3, *AV, UL
 verschijnt in een aan/voor/van-PP in
 nominaliseringen
-
-(39)
-
 a. Ik heb het mijn zus gegeven.
 b. *Ik heb mijn zus het gegeven.
-
-(40)
-
 a. Ik heb haar dat boek gegeven.
 b. *Ik heb dat boek haar gegeven.
-
-(41)
-
 a. Ik heb het haar gegeven.
 b. *Ik heb haar het gegeven.
-
  Het indirect object of meewerkend voorwerp
-(42)
-
-(43)
-
-a.
-
 Ik heb hem ook een boek gegeven, die student
-
-b.
-
 Ik heb daar ook een boek aan gegeven, aan die student
-
-a.
-
 Die student die/daaraan heb ik ook een boek gegeven.
-
-b.
-
 Aan die student daaraan heb ik ook een boek gegeven.
-
-c.
-
 Die student daar heb ik ook een boek aan gegeven.
-
-d.
-
 Aan die student daar heb ik ook een boek aan gegeven.
-
-40+
-
-40
-
-40+
-
-40+
-
-40
-
-40
-
-40+
-
-40
-
-40
-
-40+
-
-40+
-
-40
-
-40+
-
-40+
-
-40+
-
  Het indirect object of meewerkend voorwerp
-(44)
-
-(45)
-
-a.
-
 Een ongeluk kan iedereen overkomen.
-
-b.
-
 Dat voorstel bevalt me wel.
-
-c.
-
 Dat schilderij is ons veel waard.
-
-d.
-
 Het spijt me dat ik te laat ben.
-
-40
-
-40
-
-40
-
-40
-
 a. De voorstellen bevallen de meeste studenten.
 b. *het bevallen van de meeste studenten door de voorstellen
 c. het bevallen van de voorstellen aan de meeste studenten
-
  Het indirect object of meewerkend voorwerp
-(46)
-
-a.
-b.
-
 Zijn gedrag bevalt me.
 Zijn gedrag ergert me.
-
-(47)
-
 a. iets bevalt iemand
 b. *iemand wordt (door iets) bevallen
 c. iemand is bevallen
-
-(48)
-
 a. iets ergert iemand
 b. ??iemand wordt (door iets) geërgerd
 c. iemand is geërgerd
-
-(49)
-
 a. Sommige studenten bevallen de docent.
 b. *het bevallen van de docent door sommige studenten
 c. het bevallen aan de docent van sommige studenten
-
-(50)
-
 a. Sommige studenten ergeren de docent.
 b. ?het ergeren van de docent door sommige studenten
 c. *het ergeren aan de docent van sommige studenten
-
  Het indirect object of meewerkend voorwerp
-(51)
-
-a.
-
 De wind blies ons in het gezicht.
-
-b.
-
 Die opmerking schoot hem in het verkeerde keelgat.
-
-40
-
-40
-
  Het prepositioneel object of voorzetselvoorwerp
 code
 constituent
 valentie
-
-50
 PP
 tweede (of derde participant) in het valentieschema
 geen speciﬁeke thematische rol
 Type IV-paradigmata
-AL, VV, *MV1, ?MV2, MV3, AV, UL
 vaste P
 P verliest spatiale betekenis
 P niet beklemtoonbaar
-
 vervangbaarheid
 verplaatsbaarheid
 extra
-
-(52)
-
 Ik hoop op wereldvrede.
-
-(53)
-
 Ik beschuldig hem van diefstal.
-
-(54)
-
 a. *omdat ik op wereldvrede nog steeds hoop.
 b. *omdat ik hem van diefstal gisteren beschuldigde.
-
-(55)
-
 a. *Ik beschuldig hem daar.
 b. *Ik beschuldig hem dat.
 c. *Ik beschuldig hem zo.
-
-50
-50
-
  Het prepositioneel object of voorzetselvoorwerp
 Type IV
 persoonlijk
@@ -956,9 +357,6 @@ betrekkelijk
 kwantiﬁcationeel (exis.)
 kwantiﬁcationeel (univ. neg.)
 kwantiﬁcationeel (univ. pos.)
-
-‘
-’
 met hem/ermee
 daarmee
 met wie?
@@ -966,35 +364,15 @@ met wie/waarmee
 met iemand
 met niemand
 met iedereen
-
-(56)
-
-a.
-b.
-c.
-d.
-e.
-f.
-
 Ik beschuldig hem ervan/daarvan.
 Waarvan beschuldig je hem?
 de diefstal waarvan ik hem beschuldig
 Ik beschuldig hem van iets/ergens van.
 Ik beschuldig hem van niets/nergens van.
 Ik beschuldig hem van alles/overal van.
-
-(57)
-
-a.
-b.
-c.
-
 Je kan erop rekenen, op Moniek.
 Op Moniek, daarop kan je altijd rekenen.
 Moniek is iemand waarop je kan rekenen.
-
-‘
-’
 ermee
 daarmee
 waarmee?
@@ -1002,301 +380,111 @@ waarmee
 met iets/ergens mee
 met niets/nergens mee
 met alles/overal mee
-
  Het prepositioneel object of voorzetselvoorwerp
-(58)
-
-(59)
-
-a.
-
 Ik heb eraan gedacht, aan die mogelijkheid.
-
-b.
-
 Ik heb er ook aan gedacht, aan die mogelijkheid.
-
-a.
-
 (Op) dat resultaat, daarop ben ik trots.
-
-b.
-
 (Op) dat resultaat, daar ben ik trots op .
-
-c.
-
 (Aan) die mogelijkheid, daaraan heb ik ook gedacht.
-
-d.
-
 (Aan) die mogelijkheid, daar heb ik ook aan gedacht.
-
-50+
-
-50+
-
-50
-50+
-
-50
-
-50
-50+
-50+
-
-50
-50
-50
-
-50+
-50+
-
-50+
-
-50+
-
  Het voorwerp van plaats/richting/maat/wijze/duur
-/
-/
-
-/
-
-/
-
 code
 constituent
 valentie
-
-61, 62, 63, 64, 65
 NP, PP, AP, AdvP
 tweede of derde participant in het
 valentieschema
 plaats: Type II-paradigmata
 richting: Type II- en Type IV-paradigmata
 maat/wijze/duur: Type III-paradigmata
-AL, VV, *MV1, *MV2, MV3, (*)AV, UL
-
 vervangbaarheid
-
 verplaatsbaarheid
-(60)
-
-a.
-
 Ze heeft lange tijd in Leuven gewoond.
-
-b.
-
 Hij legt de bal op de kast.
-
-61
-
-61
-
-(61)
-
-a.
-
 Hij gaat naar huis.
-
-b.
-
 Ik breng hem naar huis.
-
-62
-
-62
-
  Het voorwerp van plaats/richting/maat/wijze/duur
-/
-/
-
-/
-
 code
 constituent
 valentie
 vervangbaarheid
-
 verplaatsbaarheid
-(62)
-
-a.
-b.
-c.
-
-/
-61, 62, 63, 64, 65
 NP, PP, AP, AdvP
 tweede of derde participant in het
 valentieschema
 plaats: Type II-paradigmata
 richting: Type II- en Type IV-paradigmata
 maat/wijze/duur: Type III-paradigmata
-AL, VV, *MV1, *MV2, MV3, (*)AV, UL
-
 *Hij heeft in New Delhi vorig jaar gewoond.
 Hij heeft vorig jaar in New Delhi gewoond.
 *Hij heeft vorig jaar gewoond in New Delhi.
-
 MV2
 MV3
 AV
-
  Het voorwerp van plaats/richting/maat/wijze/duur
-/
-/
-
-/
-
-/
-
 code
 constituent
 valentie
 vervangbaarheid
-
 verplaatsbaarheid
-
-61, 62, 63, 64, 65
 NP, PP, AP, AdvP
 tweede of derde participant in het
 valentieschema
 plaats: Type II-paradigmata
 richting: Type II- en Type IV-paradigmata
 maat/wijze/duur: Type III-paradigmata
-AL, VV, *MV1, *MV2, MV3, (*)AV, UL
-
-(63)
-
-a.
-b.
-
 Hij heeft in het water gelopen.
 Hij is in het water gelopen.
-
-(64)
-
 a. Hij heeft gelopen.
 b. *Hij is gelopen.
-
-(65)
-
 a. Hij heeft gelopen in het water.
 b. *Hij is gelopen in het water.
-
  Het voorwerp van plaats/richting/maat/wijze/duur
-/
-/
-
-/
-
-/
-
 code
 constituent
 valentie
-
-61, 62, 63, 64, 65
 NP, PP, AP, AdvP
 tweede of derde participant in het
 valentieschema
 plaats: Type II-paradigmata
 richting: Type II- en Type IV-paradigmata
 maat/wijze/duur: Type III-paradigmata
-AL, VV, *MV1, *MV2, MV3, (*)AV, UL
-
 vervangbaarheid
-
 verplaatsbaarheid
-(66)
 Het pak weegt 20 kilo.
-63
-
-(67)
 Hij ging voorzichtig te werk.
-64
-
-(68)
 De tocht duurde 10 dagen.
-65
-
  Het voorwerp van plaats/richting/maat/wijze/duur
-/
-/
-
-/
-
 code
 constituent
 valentie
 vervangbaarheid
-
 verplaatsbaarheid
-(69)
-
-/
-61, 62, 63, 64, 65
 NP, PP, AP, AdvP
 tweede of derde participant in het
 valentieschema
 plaats: Type II-paradigmata
 richting: Type II- en Type IV-paradigmata
 maat/wijze/duur: Type III-paradigmata
-AL, VV, *MV1, *MV2, MV3, (*)AV, UL
-
 a. Het feestje heeft geduurd tot middernacht.
 b. *Het feestje heeft geduurd 3 uur.
 c. ??dat het feestje tot middernacht vaak duurde.
-
  De bijwoordelijke bepaling
-▶
-
-71
-72
-73
-74
-75
-70
-
  De bijwoordelijke bepaling
 code
 constituent
 valentie
 vervangbaarheid
 verplaatsbaarheid
-
-70, 71, 72, 73, 74, 75
 AdvP, PP, AP, NP
 niet in valentie (omstandigheid)
 Type II-, Type III- en Type IV-paradigmata
-AL, VV, *MV1, MV2, MV3, (*)AV, UL
-
-(70)
-
 a. Nora heeft de som snel/foutloos/keurig opgelost.
 b. *Nora heeft de som opgelost snel/foutloos/keurig.
-
-(71)
-
-a.
-b.
-
-(72)
-
 Morgen, dan gaat hij het uitleggen.
-
 Hij heeft me gisteren/waarschijnlijk uitgenodigd.
 Hij heeft me uitgenodigd gisteren/waarschijnlijk.
-75
-
-75+
-
  De bijwoordelijke bepaling
-
-/
-
 [Morgenvroeg]70 wordt het mistig.
 Ik heb hem [al vier keer]70 uitgelegd hoe het moet.
 Dat heeft ons [in hoge mate]70 verbaasd.
@@ -1315,18 +503,9 @@ Iedereen droeg bij [naar godsvrucht en vermogen]70
 [Ondanks/niettegenstaande de pech]70 bereikten we ons doel.
 Het boek werd [door alle kinderen]70 gelezen.
 Dat was [je/me]70 daar een drukte!
-
  De bijvoeglijke bepaling
-▶
-
-(73)
-
 bijvoeglijke bepaling
 interne bijwoordelijke bepaling
-
-90
-91
-
  De bijvoeglijke bepaling
 code
 constituent
@@ -1334,19 +513,13 @@ valentie
 vervangbaarheid
 verplaatsbaarheid
 extra
-(74)
-
-90
 AP, PP
 niet in valentie (zinsdeelstuk)
 AP: niet-vervangbaar
 PP: Type IV-paradigmata
 AP: niet-verplaatsbaar
-PP: AL, VV, *MV1, MV2, MV3, AV, UL
 nooit op N1
-
 Ik zag de mooie tekening van Helena.
-
  De interne bijwoordelijke bepaling
 code
 constituent
@@ -1354,16 +527,9 @@ valentie
 vervangbaarheid
 verplaatsbaarheid
 extra
-(75)
-
-91
 AP, AdvP, PP
 niet in valentie (zinsdeelstuk)
 Type III-paradigmata
 AP/AdvP: niet-verplaatsbaar
-PP: *AL, *VV, *MV1, *MV2, *MV3, AV, *UL
 nooit op N1
-
 Julia werkt veel harder dan Hugo.
-
- 

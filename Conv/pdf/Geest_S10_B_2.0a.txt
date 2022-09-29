@@ -1,5 +1,4 @@
 Hoofdstuk 2
-
 Woordsoorten
 In dit hoofdstuk schetsen we een beeld van de
 of
@@ -16,12 +15,10 @@ die uit de klassieke grammatica (van Griekse of Latijnse oorsprong). Zo spreken 
 over het ‘zelfstandig naamwoord’, maar tegelijk ook over het ‘substantief’ of het ‘nomen’. Hoewel deze termen precies hetzelfde betekenen en dus inwisselbaar zijn, is het cruciaal om beide
 soorten terminologie goed te beheersen. Verderop in dit boek, zowel bij woordontleding in
 deel II als bij zinsontleding in deel III, zullen we ze immers door elkaar hanteren.
-
 2.1 Open versus gesloten woordsoorten
 Het onderscheid tussen open en gesloten woordsoorten is nauw verwant met dat tussen en
 . In de tabel in (1) plaatsen we deze twee grote types
 woorden tegenover elkaar:
-(1)
 inhoudswoorden
 (lexicale woorden)
 concepten buiten de taal
@@ -29,24 +26,15 @@ ja
 nee
 kind, bang, rijden
 I
-
 functiewoorden
 (grammaticale woorden)
 verbindingsfunctie binnen de taal
 nee
 ja
 de, ik , als
-
 hebben rijke lexicale betekenissen die beschreven worden in woordenboe19
-
- 20
-
 B
-
 T
-
-:M
-
 ken, en die verwijzen naar dingen, handelingen of eigenschappen in de buitentalige werkelijkheid. Omdat die werkelijkheid voortdurend verandert (dingen verdwijnen en/of komen erbij)
 is het doodnormaal dat we aan deze categorieën frequent nieuwe leden toevoegen (bv. door
 woordvorming of ontlening). Het is dan ook onmogelijk om alle leden van deze categorieën op
@@ -69,101 +57,52 @@ bevat dan de drie zgn.
 – met name de telwoorden, de bijwoorden
 en de tussenwerpsels (§ 2.4) – die elk om hun eigen reden een tussenpositie in de classiﬁcatie
 innemen.
-(2)
-
 zelfstandig naamwoord
-§ 2.2.1
-
 telwoord
-§ 2.4.1
-
 lidwoord
-§ 2.3.1
-
 bijvoeglijk naamwoord
-§ 2.2.2
-
 bijwoord
-§ 2.4.2
-
 voornaamwoord
-§ 2.3.2
-
 werkwoord
-§ 2.2.3
-
 tussenwerpsel
-§ 2.4.3
-
 voorzetsel
-§ 2.3.3
 voegwoord
-§ 2.3.4
-
 Om de woordsoorten van elkaar te onderscheiden zijn drie soorten eigenschappen van belang,
 die corresponderen met drie centrale modules uit de taalkunde, met name de betekenisleer
 (semantiek), de zinsleer (syntaxis) en de woordleer (morfologie):
-(3)
-
 waar verwijst de woordsoort naar?
 met welke elementen kan de woordsoort gecombineerd worden
 tot grotere gehelen?
 welke vormelijke varianten van de woordsoort zijn er mogelijk?
-
- W
-
-21
-
 Bij de detailbespreking van de verschillende woordsoorten in de volgende secties zal de nadruk vooral op hun semantische en morfologische eigenschappen liggen, omdat de syntaxis
 uitgebreid aan bod komt in deel III van het boek.
-
-2.2
-
 Open woordsoorten
-
 In deze sectie komen de drie open woordsoorten aan bod, namelijk het zelfstandig naamwoord
-(§ 2.2.1), het bijvoeglijk naamwoord (§ 2.2.2) en het werkwoord (§ 2.2.3).
-
-2.2.1
-
 Zelfstandig naamwoord
-
 Een
-
 noemen we ook wel een
 of een
 (meervoud:
 ). We bespreken eerst de belangrijkste semantische en syntactische kenmerken van
 het zelfstandig naamwoord (§ 2.2.1.1), en vervolgens de morfologische kenmerken (§ 2.2.1.2),
 onder meer de ﬂexievormen (het meervoud en de naamval).
-2.2.1.1
-
 Semantische en syntactische kenmerken
-
 De tabel in (4) geeft een overzicht van de betekeniscategorieën van het zelfstandig naamwoord.
-(4)
 zus, bakker
 hond
 warenhuis
 groep, kudde
 fruit, vee
 regen, koﬃe
-
 Harry
 Lassie
 Delhaize
-K3
-
 goedheid
-
 januari
-
 Fanta
-
 Een eerste belangrijk betekenisonderscheid dat we binnen de zelfstandige naamwoorden maken is dat tussen
 en
 (in de kolommen van (4)). Een
-–
 zoals bakker – verwijst naar een soort entiteiten, terwijl een
 – zoals Harry – verwijst
 naar iets unieks (en vaak ook met een hoofdletter wordt geschreven). Zoals de rijen in (4) laten
@@ -174,7 +113,6 @@ die naar tastbare of waarneembare entiteiten verwijzen, en
 (enkelvoud:
 ) zoals goedheid, die dat niet doen. Binnen de concreta maken we een verdere opsplitsing
 in
-,
 en
 . Tot de categorie
 behoren de namen voor personen, dieren en zaken. Binnen de categorie van de
@@ -183,15 +121,8 @@ onderscheiden we het
 ) zoals groep of kudde van
 de
 zoals fruit of vee. Beide subtypes verwijzen naar verzamelingen van elementen, maar bij de collectiva wordt de verzameling zelf als een eenheid gepercipieerd, wat
-
- 22
-
 B
-
 T
-
-:M
-
 niet zo is bij de aggregaatsnamen. Het verschil blijkt wanneer we het zelfstandig naamwoord
 met een adjectief modiﬁceren: een grote kudde bevat een collectivum kudde, dat als een eenheid gepercipieerd wordt. Het adjectief grote slaat op de omvang van die eenheid, waarbij die
 eenheid uit kleine dieren kan bestaan. Daarentegen bevat groot vee een aggregaatsnaam vee,
@@ -228,10 +159,7 @@ naar een unieke entiteit in de buitenwereld verwijzen. Halverwege staan de
 , zoals water, waarvan de
 referenten al veel minder duidelijk identiﬁceerbaar of individualiseerbaar zijn. In (5) geven we
 deze hiërarchie weer van links (= hoog) naar rechts (= laag):
-(5)
-
 eigennaam > soortnaam > stofnaam
-
 We kunnen nu op verschillende manieren een verschuiving teweegbrengen op deze hiërarchie
 van referentialiteit. Ten eerste kan een eigennaam, zoals Picasso, verschuiven naar het domein van de soortnamen, met als betekenis ‘product gemaakt door die persoon’ of ‘familielid
 van die persoon’. Dit heeft meteen als formeel eﬀect dat het nomen telbaar wordt, zodat de
@@ -240,11 +168,6 @@ Eigennamen kunnen zelfs verder doorschuiven naar de niet-telbare stofnamen: als 
 veel tegen een Picasso heb staan leunen kan ik vervolgens zeggen: Er hangt wat Picasso aan
 mijn mouw. Binnen de soortnamen zien we bv. een verschuiving van de stofnamen koﬃe/water
 naar de zaaknamen koﬃe/water, met als betekenis ‘een prototypische portie van de materie in
-
- W
-
-23
-
 een prototypische verpakking’. Ook hier is het formele eﬀect dat de combinatie met een lidwoord of telwoord nu wel mogelijk is: een watertje (‘een glaasje water’), twee koﬃes (‘twee
 kopjes koﬃe’). Ook omgekeerd kunnen we schuiven van de zaaknaam bloemkool/kip voor de
 groente of het beest naar de stofnaam bloemkool/kip voor het gerecht. Van abstract concept de
@@ -263,77 +186,43 @@ of het
 de keuze van het lidwoord en de voornaamwoorden die naar het nomen in kwestie verwijzen.
 Klassiek maakt men binnen het woordgeslacht een onderscheid tussen
 (of
-),
 (of
-) en
 (of
 ). Onzijdig zijn in het Nederlands
 de
 ; binnen de maken we een onderscheid tussen de en de . Cruciaal in dit verband is het begrip
 : dit is een vormelijke
 overeenkomst tussen het nomen en andere woordsoorten (in het bijzonder voornaamwoorden) op andere posities in de zin:
-(6)
-
-.
-.
-1
-2
-3
-4
-
 de
 de
 het
 het
-
-.
 man
 vrouw
 meisje
 geluk
-
-die …
-die …
-dat…
-dat…
-
-.
-.
 Hij
 Zij
 Zij/??Het
 Het
-
-.
-.
 leest
 leest
 leest
 heeft
-
 zijn
 haar
 haar
 zijn
-
 boek.
 boek.
 boek.
 nadelen.
-
 Het genusonderscheid tussen een de-woord en een het-woord bepaalt niet alleen de vormkeuze die men voor het bepaald lidwoord moet maken vlak vóór het nomen, maar ook de verschillende vormkeuzes die men verderop moet maken bij de verschillende soorten voornaamwoorden die naar dat nomen terugverwijzen: het betrekkelijk voornaamwoord (zie § 2.3.2.5),
 het persoonlijk voornaamwoord (zie § 2.3.2.1) en het bezittelijk voornaamwoord (zie § 2.3.2.2).
 Bemerk dat er bij vormkeuze 3 in (6) bij het meisje een spanning ontstaat tussen het grammaticale genus, namelijk onzijdig, en het biologische geslacht, wat de keuze voor de vrouwelijke
 variant verklaart bij de persoonlijke en de bezittelijke voornaamwoorden.
-
- 24
-
 B
-
 T
-
-:M
-
 2.2.1.2 Morfologische kenmerken
 In de vorige sectie hebben we soorten zelfstandige naamwoorden van elkaar onderscheiden
 op grond van hun semantische en syntactische kenmerken. In deze sectie gaan we dieper in op
@@ -346,7 +235,6 @@ toe te voegen (zie
 de vormvariatie die ze vertoont. Zo kunnen we aan de stam van een nomen zoals boek het sufﬁx -en toevoegen om er de meervoudsvorm van het nomen mee te bouwen: boeken. De twee
 ﬂexievormen van het zelfstandig naamwoord zijn het
 en de
-.
 Bij de nomina die een onderscheid tussen enkelvoud en meervoud vertonen – de zgn.
 uit de vorige sectie – kiest de grote meerderheid ofwel voor een
 op
@@ -363,7 +251,6 @@ Duits, het Engels of de Scandinavische talen. Tot het
 rekenen we dan woorden van vooral Franse, Latijnse of Griekse oorsprong. Die behoren doorgaans tot de geleerde
 woordenschat van het Nederlands. Patronen waarbij de meervoudsvorming nog extra vormelijke aanpassingen met zich meebrengt, zoals in schip/schepen komen aan bod onder de noemer
 -erin § 8.2. In gevallen zoals kind/kinderen is er sprake van een
-(zie § 3.3.4).
 Het tweede type ﬂexie of vormvariatie bij het nomen is de
 of
 . Het gaat
@@ -382,31 +269,15 @@ of het
 ): bv. boek/boek-je. Voor een behandeling van de derivationele eigenschappen van het diminutivum verwijzen we naar § 4.2.1. Vormvariatie van de stam (schip/scheep-je)
 of het diminutiefsuﬃx zelf (boom-pje, bomm-etje) wordt behandeld in respectievelijk § 8.2 en
 § 8.1.2. Bemerk dat een aantal woorden in het Nederlands alleen maar in de verkleinvorm voorkomen: meisje/*meis of sprookje/*sprook. Dergelijke vormen noemen we
-
- W
-
-25
-
 (enkelvoud:
-
-2.2.2
-
-).
-
 Bijvoeglijk naamwoord
-
 De tweede grote open woordsoort is die van het
 of het
-(
 , meervoud:
 ). Op morfologisch vlak zien we dat we een adjectief
 meestal trappen van vergelijking heeft. Syntactisch staat het vaak bij een nomen, en semantisch verwijst het naar een eigenschap of hoedanigheid. We bespreken eerst de belangrijkste
 semantische en syntactische kenmerken (§ 2.2.2.1) en vervolgens de morfologische kenmerken
-(§ 2.2.2.2).
-2.2.2.1
-
 Semantische en syntactische kenmerken
-
 Binnen de eigenschappen die we met adjectieven kunnen benoemen zien we een waaier aan
 mogelijkheden, zoals bv. permanente eigenschappen (vierkante tafels) tegenover tijdelijke eigenschappen (blije gezichten), eigenschappen die iets zeggen over de herkomst (Vlaamse boeken), de materie (houten stoelen) of de tijd (verleden week), of modale adjectieven van emotioneel oordeel (stomme reacties) of (on)zekerheid (vermoedelijke daders).
 Op een iets abstracter niveau maken we traditioneel een onderscheid tussen de
@@ -426,26 +297,15 @@ opnieuw verband houdt met de
 , betreft adjectieven – zoals
 breugeliaans, freudiaans of bourgondisch – die oorspronkelijk naar een persoon (Breugel/Freud)
 of plaats (Bourgondië) verwijzen, maar naderhand de betekenis van een gewoon adjectief krijgen in (7):
-(7)
-
 een breugeliaans spektakel
 een freudiaanse verspreking
 een bourgondische mentaliteit
-
 ‘met een bonte menigte en dorpstaferelen’
 ‘voortkomend uit het onderbewustzijn’
 ‘genietend van de goede dingen des levens’
-
 In termen van de semantische subtypes van adjectieven die we hierboven hebben geïntroduceerd, gaat het bij de subklasseverschuiving in (7) dus om een overgang van een
-
- 26
-
 B
-
 T
-
-:M
-
 – dat in zijn oorspronkelijke eigennaamsbetekenis niet gradeerbaar is – naar een – dat in zijn nieuwe betekenis wel degelijk gradeerbaar is. We kunnen immers
 in absolute zin niet spreken van *het erg Bourgondische hof, maar in relatieve zin wel van een
 erg bourgondische mentaliteit. Bemerk dat dit soort subklasseverschuiving doorgaans gepaard
@@ -458,35 +318,19 @@ gebruik staat dan het
 . Daarbij geeft het adjectief een eigenschap van een
 nomen zonder dat het deel uitmaakt van de nominale constituent van dat nomen. Dat is het
 geval in zinnen van (8), die verderop in de syntaxis uitgebreid aan bod zullen komen (zie § 11.4
-en § 11.9):
-(8)
-
-a.
-b.
-
 De vraag was moeilijk.
 Hij verfde de poort groen.
-
 Wanneer we een adjectief gebruiken als bijwoordelijke bepaling bij een werkwoord (zoals in
 (9a)), dan spreken we van een
 . In het geval van (9b) krijgen we een
 : het adjectief nieuwe wordt weliswaar niet gevolgd door een substantief, maar dat laatste kunnen we wel elders in de zin terugvinden of in
 de voorafgaande context, namelijk boeken.
-(9)
-
-a.
-b.
-
 Hij had zich grondig voorbereid.
 Hij kocht oude boeken en nieuwe.
-
 Bemerk dat de situatie in (9b) fundamenteel verschilt van die in (10), waar de vormen armen en
 rijken niet langer adjectieven zijn maar door middel van een woordvormingsregel (zie § 4.2.1.2)
 naar de categorie van de nomina zijn overgegaan.
-(10)
-
 De armen en de rijken worden gelijk behandeld.
-
 Bij dergelijke gevallen is het immers niet langer mogelijk om nomina aan de zin toe te voegen:
 *de armen (mensen) en de rijken (mensen).
 2.2.2.2 Morfologische kenmerken
@@ -498,137 +342,73 @@ De keuze tussen de onverbogen en de verbogen vorm van het adjectief is opnieuw e
 , m.a.w. ze is a ankelijk van de context waarin het adjectief voorkomt.
 Congruentie treedt alleen op bij het
 gebruikte adjectief, d.w.z. wanneer het voorafgaat aan een zelfstandig naamwoord waar het een constituent mee vormt, zoals in de oude
-
- W
-
-27
-
 vrouw. De verbogen vorm verschijnt in de overgrote meerderheid van de gevallen, zoals blijkt
 uit de tabel in (11):
-(11)
-./
-
 een
 de/die
-
-.
-
 oude
 oude
-
 man
 man
-
 een
 oud vrouwtje
 het/dat oude vrouwtje
-
 oude
 de/die oude
-
 mannen
 mannen
-
 oude vrouwtjes
 de/die oude vrouwtjes
-
 We gebruiken de onverbogen vorm van het attributief adjectief alleen wanneer het voorafgaat
 aan een onzijdig woord in het enkelvoud in een onbepaalde nominale constituent met een. Bij
 het
 en
 in respectievelijk (12a-b) en (12c)
 krijgen we altijd de onverbogen vorm:
-(12)
-
-a.
-b.
-c.
-
 De vraag was moeilijk/*moeilijke.
 Hij verfde de poort groen/*groene.
 Hij had zich grondig/*grondige voorbereid.
-
 Bij het
 gebruikt adjectief, tot slot, hangt de keuze voor de onverbogen of verbogen vorm af van welk substantief we (op basis van eerdere informatie in de zin of de voorafgaande context) kunnen aanvullen, zoals blijkt uit de voorbeelden in (13a-c), waar we respectievelijk boek, boeken en ﬁets kunnen toevoegen:
-(13)
-
-a.
-b.
-c.
-
 Hij kocht een oud boek en een nieuw/*nieuwe.
 Hij kocht een oud boek en een paar *nieuw/nieuwe.
 Hij kocht een oude ﬁets en een *nieuw/nieuwe.
-
 Een tweede belangrijke ﬂexievorm van het adjectief zijn de
 . Zoals
 besproken in de vorige sectie kunnen
 (of
-/
 ) verschillende graden van een kwaliteit aangeven. Doorgaans doen we dat op vormelijk vlak door aan de grondvorm van het adjectief de ﬂexie-aﬃxen -er of -st toe te voegen.
 Bij adjectieven van vreemde oorsprong, minder frequente adjectieven, of meerlettergreppige
 adjectieven kunnen we ook voor de zgn.
 kiezen, waarbij we de comparatief en de superlatief uitdrukken door toevoeging van resp. meer en meest. Dat laatste is erg
 ongebruikelijk, zoniet uitgesloten bij simpele eenlettergrepige adjectieven zoals groot:
-(14)
-(
-
-)
-(
-(
-
 groot
-)
 groter
 ) grootst
-
 elitair
 elitairder *meer groot
 elitairst *meest groot
-
 meer elitair
 meest elitair
-
 Net als bij de nomina vormt naamval meer marginale ﬂexievorm van het adjectief. In combinatie met onder meer iets, niets, allerlei, meer/minder of veel/weinig krijgt de grondvorm van het
 adjectief een extra ﬂexie-suﬃx -s, dat de
 aanduidt:
-
- 28
-(15)
-
 B
-
-T
-
-:M
-
 (n)iets/veel groens/geks/lekkers
-
+T
 Tot slot wijzen we er nog op dat de verschillende types van adjectivale ﬂexie met elkaar kunnen
 combineren: zowel de ﬂexievariant als de omschreven variant van de trappen van vergelijking
 kunnen zelf ook nog eens verschijnen in een verbogen gedaante zoals in (16a) of in de genitiefvorm zoals in (16b):
-(16)
-
-2.2.3
-
-a.
-b.
-
 de grotere/grootste vereniging, de meer/meest elitaire vereniging.
 iets groters, iets meer elitairs
-
 Werkwoord
-
 De derde en laatste open woordsoort is die van het
 of het
 (meervoud:
 ). We bespreken eerst de belangrijkste semantische en syntactische kenmerken
 (§ 2.2.3.1) en vervolgens de morfologische kenmerken (§ 2.2.3.2), m.a.w. de ﬂexievormen voor
 de vervoeging van het werkwoord.
-2.2.3.1
-
 Semantische en syntactische kenmerken
-
 We introduceren hier kort een aantal basiscategorieën van het werkwoord. De deﬁnities combineren daarbij heel vaak semantische en syntactische eigenschappen. Betekenistypes van
 werkwoorden hangen immers nauw samen met de aard van de elementen waarmee we die
 werkwoorden in een zin kunnen combineren. Een diepgaandere studie van deze categorieën
@@ -654,23 +434,12 @@ of zichzelf zien, kan weliswaar met zich(zelf) voorkomen, maar net zo goed ook m
 object. We kunnen immers net zo goed iemand (anders) wassen/scheren/zien. Het
 of
 , zoals zich vergissen/zich haasten, daarentegen, kan alleen maar met een wederkerend voornaamwoord gecombineerd worden, want we kunnen helemaal niet *iemand (anders) vergissen/haasten.
-
- W
-
-29
-
 Een derde betekenisonderscheid binnen de werkwoorden is dat tussen een
 en een
 . Een persoonlijk werkwoord kan met een
 hele waaier aan verschillende onderwerpen gecombineerd worden, zoals in (17a). Een onpersoonlijk werkwoord kan alleen het voornaamwoord het als onderwerp krijgen, zoals in (17b):
-(17)
-
-a.
-b.
-
 Zij/Miet/de buurvrouw leest de krant/koopt het boek.
 Het/*Miet/*de buurvrouw regent/sneeuwt/hagelt/onweert/dondert/bliksemt.
-
 Een
 is een combinatie van een werkwoord en een ander,
 niet-werkwoordelijk element in de zin die samen een betekeniseenheid vormen en een handeling of toestand beschrijven (zie ook § 11.3.3.3). We onderscheiden twee soorten van werkwoordelijke uitdrukkingen. Ten eerste is er de
@@ -682,9 +451,6 @@ de draak steken met iemand/iets. De idee dat een groep woorden in een zin sterk 
 als geheel een functie vervult die doorgaans door een enkel woord wordt opgenomen komt ook
 bij andere woordsoorten verderop nog terug. We zullen met name een analoog onderscheid
 maken tussen voorzetsel en
-(§ 2.3.3), voegwoord en
-(§ 2.3.4) en bijwoord en
-(§ 2.4.2).
 Een onderscheid dat zowel vanuit semantisch als syntactisch perspectief erg belangrijk is,
 is dat tussen een
 en een
@@ -693,43 +459,24 @@ werkwoord dat als enig werkwoord in de zin kan voorkomen. Hulpwerkwoorden kunnen
 als enig werkwoord in de zin voorkomen. Hoofdwerkwoorden vallen uiteen in zelfstandige
 werkwoorden en koppelwerkwoorden. We kunnen de relatie tussen zelfstandige, koppel- en
 hulpwerkwoorden schematisch als volgt weergeven:
-(18)
-
 werkwoorden
 hoofdwerkwoorden
 zelfstandige
 werkwoorden
-
 hulpwerkwoorden
-
 koppelwerkwoorden
-
 We onderscheiden in dit boek drie
 , met name zijn, worden en blijven.
 Deze werkwoorden hebben als kenmerk dat ze weinig bijdragen tot de betekenis van de zin, en
 dat de kern van de betekenis wordt uitgedrukt door een niet-werkwoordelijke constituent. In
 de voorbeelden in (19) zijn dat respectievelijk de nominale constituent een toponderhandelaar,
 de adjectivale constituent interessant, en de voorzetselconstituent van plan:
-(19)
-
-a.
-b.
-c.
-
 Ze is een toponderhandelaar.
 Het voorstel wordt stilaan interessant.
 Ze blijft van plan om het voorstel te steunen.
-
 De werkwoorden schijnen, lijken en blijken worden in grammatica’s van het Nederlands vaak
-
- 30
-
 B
-
 T
-
-:M
-
 ook als koppelwerkwoord beschouwd. In dit boek behandelen we ze echter als hoofdwerkwoorden van (epistemische) modaliteit (zie verderop in deze sectie).
 We willen hier even dieper ingaan op een aantal types van hulpwerkwoorden. Traditioneel
 worden in de Nederlandse grammatica de werkwoorden hebben, zijn en zullen de
@@ -751,66 +498,33 @@ aandacht voor de interne structuur tussen begin- en eindpunt. De gewone tegenwoo
 in (20a-b) drukt dan een
 uit, terwijl de hulpwerkwoorden hebben en zijn in
 (20c-d) precies zorgen voor een
-:
-(20)
-
-a.
-b.
-c.
-d.
-
 Hij breit een trui.
 Het glas valt.
 Hij heeft een trui gebreid.
 Het glas is gevallen.
-
 Binnen de categorie van het onvoltooid aspect maken we dan een verder onderscheid tussen
 een
 en een
 . Duratief aspect stelt een handeling voor als
 aan de gang zijnd. We drukken het uit met hulpwerkwoorden van duratief aspect zoals liggen, staan, hangen, zitten, lopen in (21a), het hulpwerkwoord blijven in (21b) of de constructie
 aan+het+V+zijn in (21c):
-(21)
-
-a.
-b.
-c.
-
 Hij ligt/staat/hangt/zit/loopt al urenlang te wenen.
 Hij blijft roepen.
 Hij is een trui aan het breien.
-
 Bij inchoatief aspect benadrukken we het begin van een handeling of een verandering van toestand. De inchoatieve hulpwerkwoorden zijn gaan, komen en raken.
-(22)
-
-a.
-b.
-
 Ze ging/kwam kijken.
 Ze gaan/raken aan het vechten.
-
 Naast de hulpwerkwoorden van tijd en aspect, onderscheiden we traditioneel ook de
 of de
-(
 ), namelijk
 worden en zijn:
-
- W
-(23)
-
-31
-a.
-b.
-
 Het huis wordt verkocht.
 Ze is door de vergadering tot voorzitter verkozen.
-
 Bij de vorming van het passief krijgen we in de onvoltooide tijd het hulpwerkwoord worden
 zoals in (23a) en in de voltooide tijd het hulpwerkwoord zijn, zoals in (23b). We zien de drie
 types hulpwerkwoorden – van tijd, aspect en passief – uitgebreid terug in de volgende sectie
 (§ 2.2.3.2) bij de ﬂexievormen van het werkwoord. De tabel in (24) geeft een overzicht van de
 hulpwerkwoorden.
-(24)
 zullen + inﬁnitief
 worden/zijn + voltooid deelwoord
 hebben/zijn + voltooid deelwoord
@@ -828,122 +542,65 @@ Een semantische categorie die in grammatica’s vaak in één adem wordt genoemd
 en aspect is die van
 . Het concept van modaliteit duikt op in verschillende categorieën binnen de grammatica. Zo hebben we naast modale werkwoorden ook modale bijwoorden en adjectieven. Met een modale zin drukt de spreker een houding uit tegenover de
 inhoud van de taaluiting. Een eerste onderscheid daarbinnen is dat tussen
-in (25a-b), en
-in (25c-d):
-(25)
-
-a.
-b.
-c.
-d.
-
 Gelukkig/hopelijk zijn we niet te laat.
 Het project dreigt te mislukken.
 Het belooft een mooie dag te worden.
 We zijn zeker/waarschijnlijk/misschien te laat.
 Hij lijkt/blijkt zich vergist te hebben.
-
 Bij gevoelsmodaliteit drukt de spreker een zeker gevoel uit over de stand van zaken in de
 zin: de spreker vindt die stand van zaken als een geluk of een goede zaak in (25a), of als
 iets bedreigends of beloftevols in (25b). Bij werkelijkheidsmodaliteit drukt de spreker een
 oordeel uit over de zin: in het oordeel van de spreker in (25c-d) is de stand van zaken zeker/waarschijnlijk/blijkbaar het geval. In (25a) en (25c) zijn het de bijwoorden die de modaliteit
 uitdrukken, terwijl dat in (25b) en (25d) door de werkwoorden gebeurt. In het vervolg van deze
-
- 32
-
 B
-
 T
-
-:M
-
 sectie beperken we ons tot een bespreking van de werkwoorden met een modale betekenis.
 We beschouwen die allemaal als hoofdwerkwoorden.
 Binnen de werkelijkheidsmodaliteit maken we een verder onderscheid tussen epistemische, deontische en dynamische modaliteit. De
 heeft betrekking op
 de graad van zekerheid van de spreker over zijn kennis, in het bijzonder hoe (on)zeker de spreker is van een stand van zaken:
-(26)
-
 Ik zie dat Marie erg boos is.
 a. Karel moet haar erg beledigd hebben.
 b. Karel zou haar wel eens erg beledigd kunnen hebben.
-
 In (26a) drukt het modale werkwoord moeten uit dat de spreker zeker is van de stand van zaken
 in kwestie, nl. dat Karel Marie beledigd heeft. In (26b) is de spreker niet zo zeker, wat uitgedrukt
 wordt door de modale werkwoorden zou kunnen. Naast de prototypisch modale werkwoorden
 moeten en kunnen in (26) is er nog een hele reeks andere werkwoorden die ook epistemische
 modaliteit uitdrukken, te weten: schijnen, lijken, blijken, (wel eens) willen, zullen, mogen:
-(27)
-
-a.
-b.
-c.
-d.
-e.
-f.
-
 Hij schijnt het gedaan te hebben.
 Zij lijkt opgetogen te zijn.
 Zij blijkt met haar werk klaar te zijn.
 Het wil wel eens gebeuren.
 Hij zal zich wel vergist hebben.
 Hij mag dan wel rijk zijn, gelukkig is hij niet.
-
 Merk op dat bij de werkwoorden schijnen en lijken soms ook een voornaamwoord van de eerste
 persoon opduikt, wat aantoont dat deze werkwoorden een eigen valentie hebben:
-(28)
-
-a.
-b.
-
 Hij schijnt mij (toe) een goed zanger te zijn.
 Ze lijkt me een nuttige aanvulling van het team te zijn.
-
 Met
 verwijzen we naar een gezagsautoriteit (persoon, institutie, principes of regels), die extern is aan het subject, en die een bepaald handelen verplicht, toelaat of
 verbiedt. Bemerk dat die autoriteit soms expliciet in de zin aanwezig is, zoals met de prepositieconstituent van mijn vader in (29a) het geval is:
-(29)
-
-a.
-b.
-
 Ik moet van mijn vader voor 22u thuis zijn.
 Je mag voor dit examen 2u werken.
-
 De
 , tot slot, is intern aan het subject van de zin, dat een innerlijke
 verplichting of wil kan voelen, of een vermogen of onvermogen tot een bepaald handelen:
-(30)
-
-a.
-b.
-
 Ik moet je zien voor ik vertrek of ik word doodongelukkig.
 Hij kan 100m zwemmen in minder dan een minuut.
-
 We vatten de betrokken concepten van epistemische, deontische en dynamische modaliteit
 samen in de tabel in (31):
-
- W
-
-33
-
-(31)
 noodzaak
 geen noodzaak
 mogelijkheid
 onmogelijkheid
-
 verplichting
 geen verplichting
 toelating
 verbod
-
 innerlijke dwang
 geen innerlijke dwang
 vermogen
 onvermogen
-
 De epistemische notie van
 op de eerste rij van (31) is duidelijk verwant met de deontische notie van
 en de dynamische notie van
@@ -952,30 +609,20 @@ op de derde rij voor de verwantschap tussen epistemische
 , deontische
 en dynamisch
 . Bovendien interageert modaliteit ook sterk met
-. Zo
 zijn de begrippen op de tweede rij de negaties van die op de eerste rij (noodzaak versus geen
 noodzaak), en de begrippen op de vierde rij de negaties van die op de derde rij (mogelijkheid
 versus onmogelijkheid).
 Bemerk, tot slot, dat de categorie van de modale hoofdwerkwoorden intern nog grote variatie vertoont, niet alleen op het vlak van de valentie (zie onder meer § 1.5 en § 10.3), maar ook
 op het vlak van de interactie met de hulpwerkwoorden van het voltooid aspect:
-(32)
-
-a.
-b.
-
 Jan heeft vis moeten/kunnen eten.
 Jan moet/kan vis gegeten hebben.
-
 Met het hulpwerkwoord van aspect als PV (heeft in (32a)) hebben de modale werkwoorden
 moeten en kunnen wel een deontische of dynamische lezing maar geen epistemische. Met hebben in het niet-ﬁniet werkwoordelijk deel in (32b) daarentegen is het net andersom, en hebben
 moeten en kunnen alleen de epistemische lezing. Een andere – iets abstractere – manier om
 deze feiten samen te vatten is door te stellen dat epistemische modaliteit typisch ‘hoger’ in de
 structuur zit dan het voltooid aspect, en dynamische of deontische modaliteit typisch ‘lager’ zit
 dan voltooid aspect.
-2.2.3.2
-
 Morfologische kenmerken
-
 Met de termen
 of
 verwijzen we naar de grote verzameling van ﬂexievormen van het werkwoord. De tabel in (33) geeft het overzicht van de twee grote categorieën
@@ -983,36 +630,14 @@ van verbale ﬂexie, namelijk de
 of
 en de
 of
-:
-(33)
-
-(
 Ze leeft haar eigen leven
-(
 Leef je eigen leven!
-(
 Leve de koning!
-
-)
-
-(
 leven
-
-)
 levend(e)
-)
 geleefd
-
-)
-
- 34
-
 B
-
 T
-
-:M
-
 Typisch voor de
 werkwoordsvormen is dat ze
 vertonen met het onderwerp. Voor de
@@ -1028,7 +653,6 @@ in het Nederlands een archaïsche vorm, die een
 wens, twijfel of onzekerheid uitdrukt. We vinden hem in zinnen als Moge(n) zij rusten in vrede,
 of in vaste formules zoals Leve de koning!. Een werkwoord zoals buikspreken, dat niet over alle
 vormen in de vervoeging beschikt (*ik buikspreek/*ik spreek buik), noemen we een
-.
 De eerste
 is de
 of
@@ -1036,7 +660,6 @@ of
 het kleine groepje van gaan, staan, slaan, doen en zien (en werkwoorden afgeleid van deze
 werkwoorden, zoals vergaan, bestaan, ontslaan, ontzien), vormen we de inﬁnitief door aan de
 stam het onbeklemtoonde ﬂexie-suﬃx -en toe te voegen. Het
-— ook
 wel
 genoemd — vormen we door aan de stam het ﬂexie-aﬃx (e)nd(e) toe te voegen: zak/zakkend(e), begin/beginnend(e) of zie/ziend(e). De vorming van het
 (of
@@ -1044,47 +667,30 @@ genoemd — vormen we door aan de stam het ﬂexie-aﬃx (e)nd(e) toe te voegen:
 om een regelmatig of een onregelmatig werkwoord.
 We kunnen werkwoorden indelen in
 of
-,
 of
-, en
 . Daarvoor kijken we
 naar de zgn.
 of
 van het werkwoord: dat zijn de inﬁnitief, de onvoltooide verleden tijd en het voltooid deelwoord. De tabel in (34) toont een aantal voorbeelden
 van de stamtijden voor de drie soorten werkwoorden:
-(34)
-
-...
-
--
-
 zakken
 leggen
-
 zakte
 legde
-
 gezakt
 gelegd
-
 lachen
 vragen
-
 lachte
 vroeg
-
 gelachen
 gevraagd
-
 beginnen
 zien
-
 begon
 zag
-
 begonnen
 gezien
-
 Bij de regelmatige werkwoorden verloopt de vorming van de onvoltooid verleden tijd volgens
 een aantal eenvoudige en voorspelbare basispatronen (zie de zogenaamde regel van ’t kofschip
 en
@@ -1094,11 +700,6 @@ een onregelmatig werkwoord in het voltooid deelwoord het circumﬁx ge-…-en (b
 dat bovenop een eventuele verandering in de stam van het werkwoord (bv. begonnen) komt. In
 het voltooid deelwoord verdwijnt bij heel wat gelede werkwoorden de ge-, of komt hij op een
 andere plaats terecht. Dit is met name het geval bij aﬂeidingen (behaald § 6.1.2), samenkoppe-
-
- W
-
-35
-
 lingen (binnengehaald § 5.1.1) en pseudo-samenstellingen (achterhaald § 5.1.2). De middelste
 rij in (34) maakt duidelijk dat het Nederlands, tussen de twee extremen in, nog over de overgangscategorie van de
 beschikt, die een gedeeltelijk onvoorspelbare vervoeging vertoont. Bij werkwoorden zoals lachen is de verleden tijd regelmatig
@@ -1115,14 +716,8 @@ een
 of
 is de uitvoerder van de handeling niet langer het onderwerp,
 maar kan deze rol optioneel uitgedrukt worden in een door-bepaling.
-(35)
-
-a.
-b.
-
 Het boek werd door slechts twee studenten gelezen.
 Er werd hard gelachen in de zaal door bijna alle toeschouwers.
-
 Het onderscheid actief–passief is ook een kwestie van een verschillend perspectief op één en
 dezelfde handeling. In de actieve zin wordt de handeling voorgesteld vanuit het perspectief
 van degene die de handeling verricht, terwijl dat bij de passieve niet zo is.
@@ -1142,123 +737,69 @@ binaire (of tweeledige) opposities weer tussen een
 en een
 . Het algemene idee daarbij is dat de gemarkeerde variant een grotere vormelijke complexiteit vertoont dan de ongemarkeerde variant. De voltooide tijd is dus bv. complexer dan
 de onvoltooide, en de verleden tijd complexer dan de tegenwoordige:
-(36)
 [–voltooid]
 [–verleden]
 [–toekomstig]
 [–passief]
-
 [+voltooid]
 [+verleden]
 [+toekomstig]
 [+passief]
-
 De tabellen in (37) en (38) geven een overzicht van respectievelijk de
 en de
 van het Nederlands, zowel met hun traditionele Nederlandse benaming als met de terminologie uit de klassieke grammatica’s:
-
- 36
-
 B
-
-(37)
-
 T
-
 [–voltooid][–verleden]
-
 [–passief]
-
 [+passief]
-
 koopt
 zal
 kopen
-
 wordt
 gekocht
 zal worden
 gekocht
-
 [–passief]
-
 [+passief]
-
 kocht
-
-( . . . .)
-
 zou
 kopen
-
 werd
 gekocht
 zou worden
 gekocht
-
 [+voltooid][–verleden]
-
 [–passief]
-
 [+passief]
-
 heeft gekocht
 is gebleven
 zal hebben gekocht
 zal zijn gebleven
-
 is
 gekocht
 zal zijn
 gekocht
-
 [–passief]
-
 [+passief]
-
 had gekocht
 was gebleven
 zou hebben gekocht
 zou zijn gebleven
-
 was
 gekocht
 zou zijn
 gekocht
-
 [–toekomst]
-
-( . . .)
-
 [+toekomst]
-
-( . . . .)
 [–voltooid][+verleden]
-
-[–toekomst]
-
-(o.v.t.)
-
-[+toekomst]
-
-(38)
 [–toekomst]
 [+toekomst]
-
-/
-
-(v.t.t.)
-( . . . .)
+[–toekomst]
+[+toekomst]
 [+voltooid][+verleden]
-
 [–toekomst]
 [+toekomst]
-
-:M
-
-( . . .)
-( . . . .)
-
 Bemerk dat zowel bij de onvoltooide als bij de voltooide tijden het hulpwerkwoord voor de
 toekomende tijd een vorm van zullen is. Voor de voltooide tijden in (38) gebruiken we bij de
 actieve vormen ofwel hebben ofwel zijn als hulpwerkwoord, terwijl bij de passieve vormen alleen zijn verschijnt. Dat laatste hangt samen met een ander belangrijk verschil wat betreft het
@@ -1266,28 +807,13 @@ hulpwerkwoord voor de passieve vormen: de onvoltooide tijden krijgen systematisc
 van worden, terwijl we bij de voltooide tijden een vorm van zijn gebruiken. Bij de vier passieve
 vormen in de rechterkolom van (38) zijn sprekers soms geneigd om hier nog een extra voltooid
 deelwoord geweest of geworden aan toe te voegen:
-(39)
-
 a. Het huis is vorig jaar verkocht.
 b. %Het huis is vorig jaar verkocht geweest.
 c. %Het huis is vorig jaar verkocht geworden.
-
-2.3
-
 Gesloten woordsoorten
-
 In deze sectie komen de vier
 aan bod, namelijk het lidwoord
-(§ 2.3.1), het voornaamwoord (§ 2.3.2), het voorzetsel (§ 2.3.3) en het voegwoord (§ 2.3.4).
-
- W
-
-2.3.1
-
-37
-
 Lidwoord
-
 Met hooguit drie of vier leden is de woordsoort van het
 of
 verreweg de kleinste van alle (gesloten) woordsoorten. Morfologisch is het lidwoord onveranderlijk en syntactisch staat het vóór een zelfstandig naamwoord. Semantisch is het centrale onderscheid dat
@@ -1304,23 +830,14 @@ of
 referent normaal gesproken niet identiﬁceren. In de zin Er staat een vrouw buiten nemen we
 aan dat de spreker en toehoorder niet weten over welke (vrouwelijke) referent het gaat. De
 tabel in (40) geeft het overzicht van de verschillende lidwoorden:
-(40)
-./
-
-.
-
 de tafel
 het kind
-
 de tafels
 de kinderen
-
 een tafel
 een kind
-
 ∅ tafels
 ∅ kinderen
-
 Bij het
 lidwoord in het enkelvoud krijgen we de
 met het genus van
@@ -1332,52 +849,29 @@ een zelfstandig naamwoord combineert, spreken we van een
 (bepaalde NP) en een
 (onbepaalde NP). De bepaalde
 NP’s in (41a-b) klinken iets natuurlijker op de eerste zinsplaats dan de onbepaalde in (41c-d):
-(41)
-
 a. De vrouw/het kind loopt over het plein.
 b. De vrouwen/de kinderen lopen over het plein.
 c. ??Een vrouw/een kind loopt over het plein.
 d. ??Vrouwen/kinderen lopen over het plein.
-
 Het onderscheid is nog scherper wanneer de zinnen beginnen met een zgn. plaatsonderwerp
 er (zie § 11.5.1). De bepaalde naamwoordgroepen zijn uitgesloten in (42a-b), terwijl de onbepaalde perfect normaal klinken in (42c-d):
-(42)
-
 a. *Er loopt de vrouw/het kind over het plein.
 b. *Er lopen de vrouwen/de kinderen over het plein.
 c. Er loopt een vrouw/een kind over het plein.
 d. Er lopen vrouwen/kinderen over het plein.
-
 Wanneer we niet naar speciﬁeke (al dan niet identiﬁceerbare) entiteiten verwijzen, maar naar
 een willekeurig lid van de categorie (en dus indirect naar de hele categorie), spreken we van een
 van het bepaald en onbepaald lidwoord:
-
- 38
-(43)
-
 B
-a.
-b.
-
 T
-
-:M
-
 Een/De dino was een zoogdier.
 Dino’s/?De dino’s waren zoogdieren.
-
 Verwijzen we daarentegen rechtstreeks naar de hele soort, en niet zozeer meer naar de individuele leden van de soort, dan spreken we van een
 van het lidwoord. De
 mogelijkheden zijn hier een stuk beperkter, met name bij het onbepaald lidwoord in het enkelvoud:
-(44)
-
-2.3.2
-
 a. De/*Een dino is uitgestorven.
 b. ?Dino’s/De dino’s zijn uitgestorven.
-
 Voornaamwoord
-
 Het basisidee bij de categorie van het
 of
 (meervoud:
@@ -1399,51 +893,24 @@ uiteindelijk naar dezelfde referent verwijst als het pronomen. In de zin in (45a
 voor de interpretatie van het pronomen ze eerst in het voorafgaande stuk van de zin op zoek
 gaan naar het antecedent (in dit geval de NP de chirurg) om zo in twee stappen bij de referent
 terecht te komen:
-(45)
-
-a.
-b.
-
 De chirurg zei dat ze de operatie zo spoedig mogelijk wilde uitvoeren.
 Zodra ze de opdracht gekregen hadden, gingen de leerlingen aan het werk.
-
 Zin (45b) is dan als het ware het spiegelbeeld van (45a): het pronomen ze komt eerst voor, en
 het antecedent, namelijk de NP de leerlingen, staat verderop in de zin. We spreken in dat geval
 niet meer van een terugverwijzende
 , maar wel van een vooruitverwijzende
-.
 De categorie van de voornaamwoorden heeft een hele waaier aan subtypes, die we samenbrengen in de tabel in (46), en die we in de volgende secties stap voor stap zullen bespreken.
-
- W
-
-39
-
-(46)
 persoonlijk vnw.
 bezittelijk vnw.
 aanwijzend vnw.
 vragend vnw.
 betrekkelijk vnw.
-2.3.2.1
-
-§ 2.3.2.1
-§ 2.3.2.2
-§ 2.3.2.3
-§ 2.3.2.4
-§ 2.3.2.5
-
 wederkerend vnw.
-§ 2.3.2.6
 wederkerig vnw.
-§ 2.3.2.7
 kwantiﬁcationeel vnw. § 2.3.2.8
 uitroepend vnw.
-§ 2.3.2.9
 R-pronomen
-§ 2.3.2.10
-
 Persoonlijk voornaamwoord
-
 Bij het
 of
 in (47) zijn drie parameters
@@ -1454,64 +921,30 @@ of vormelijke overeenkomst met andere elementen in de zin, namelijk het
 en het
 (mannelijk versus vrouwelijk versus onzijdig). Deze drie parameters komen voor
 in de eerste drie kolommen van de tabel in (47).
-(47)
-
-.
-
-1°
-2°
-3°
-
-.
-.
-.
-
-.
-
-1°
-2°
-3°
-
 ik
 jij/u
 hij
 zij
 het
-
-‘k
 je
 ie
 ze
-’t
-
 mij
 jou/u
 hem
 haar
 het
-
 me
 je
-’m
-ze/d’r/’r
-’t
-
 wij
 jullie/u
 zij
-
 we
-—
 ze
-
 ons
 jullie/u
 hen/hun
-
-—
-—
 ze
-
 De syntactische functie bepaalt het onderscheid tussen de
 en de
 . De onderwerpsvorm is voorbehouden voor het onderwerp van een ﬁniet werkwoord, en op alle andere posities treﬀen we de voorwerpsvorm aan. Zo krijgen we wel Zij ziet
@@ -1520,9 +953,7 @@ de noemer
 , zoals we dat kennen uit het Latijn, het Grieks of het Duits. Ook bij de persoonlijke voornaamwoorden in (47) zouden we dus in het geval van de onderwerpsvorm kunnen
 spreken van een
 en bij de voorwerpsvorm van een
--,
 of
-.
 De tegenstelling tussen de
 en de
 van de pronomina hangt
@@ -1531,27 +962,13 @@ heeft ze niet gezien, maar de gereduceerde vorm niet: *Me heeft ze niet gezien. 
 tussen jij/je/jou/jullie enerzijds en u anderzijds is dan weer een kwestie van
 tegenover
 of beleefd taalgebruik.
-
- 40
-
 B
-
 T
-
-:M
-
 In (48) geven we nog een aantal aparte gebruiksmogelijkheden van het persoonlijk voornaamwoord:
-(48)
-
-a.
-b.
-c.
-
 In het volgend hoofdstuk bespreken we de samenkoppeling.
 Je kan nooit voorzichtig genoeg zijn.
 Het regende urenlang.
 Ik had het verschrikkelijk koud.
-
 In (48a) zien we het
 , dat in wetenschappelijke teksten vaak gebruikt wordt om het ik van de auteur op de achtergrond te houden. Het onderwerp je in (48b)
 heeft een
@@ -1560,10 +977,7 @@ vergelijkbaar met iedereen. De twee voorkomens van het in
 : er is geen iets dat ‘regent’ of dat ‘ik koud heb’.
 Een persoonlijk voornaamwoord dat alleen met generische referentie gebruikt kan worden is
 men:
-(49)
-
 In Italië eet men pasta als voorgerecht.
-
 2.3.2.2 Bezittelijk voornaamwoord
 Net als het persoonlijk voornaamwoord in de vorige sectie, heeft ook het
 of
@@ -1571,78 +985,31 @@ in (50) drie dimensies van
 , namelijk het
 (enkelvoud versus meervoud), de
 (eerste, tweede of derde persoon) en het (mannelijk/onzijdig versus vrouwelijk):
-(50)
-
-.
-
-.
-
-1°
-2°
-3°
-
-./
-.
-
-1°
-2°
-3°
-
-.
-
 mijn
 jouw/uw
 zijn
 haar
-
-m’n
 je
-z’n
-d’r/’r
-
 (de/het) mijne
 (de/het) jouwe/uwe
 (de/het) zijne
 (de/het) hare
-
 ons/onze
 jullie/uw
 hun
-
-—
 je
-—
-
 (de/het) onze
 (de/het) uwe
 (de/het) hunne
-
 Op syntactisch vlak maken we een onderscheid tussen een
 , zoals in
 mijn/hun boeken, waarbij het bezittelijk voornaamwoord bij een nomen staat, en een
 . Bij dat laatste verschijnt wel een (bepaald) lidwoord maar geen nomen:
-(51)
-
-a.
-b.
-
 jouw boek en het mijne
 zijn ouders en de hare
-
 Een bijzonder gebruik van de zelfstandige bezittelijke voornaamwoorden krijgen we in de voorbeelden in (52), waarbij een meervoudsaanduidend ﬂexie-aﬃx -en toegevoegd is:
-(52)
-
-a.
-
 Luther en de zijnen brachten een ware omwenteling teweeg.
-
- W
-
-41
-b.
-
 Zij is een van de onzen.
-
 Hier gaat het in feite om aﬂeidingen met een speciﬁeke betekenis: de mijnen zijn de personen
 die met mij geassocieerd zijn, de onzen de personen die met ons geassocieerd zijn, etc. De beperking tot personen wijst erop dat we hier te maken hebben met een morfologische regel die
 persoonsnamen aﬂeidt, analoog aan de regel die persoonsnamen aﬂeidt van adjectieven (bv.
@@ -1658,20 +1025,9 @@ of
 (in de middelste kolom in (53)) kennen zowel een
 als een
 , en kunnen dus al dan niet onmiddellijk worden gevolgd door een nomen:
-
--
-
-+
-
-(53)
 degene/diegene
 datgene
-—
-
-—
-
 deze/dit
-—
 die/dat
 zo’n/zulk(e)
 soortgelijk(e)
@@ -1680,7 +1036,6 @@ dergelijk(e)
 de-/het-/eenzelfde dusdanig(e)
 zoveel/evenveel
 zoveelste
-
 De drie grote semantische categorieën die we onderscheiden in (53) komen overeen met drie
 types van vragen die we kunnen stellen. Bij
 gaat het om de vraag welke?, en is het
@@ -1691,56 +1046,31 @@ brengen, en bij
 , tot slot, om de vraag hoeveel?, en is het zaak om een hoeveelheid aan te duiden. Niet toevallig komen we met de categorie van de kwantiﬁcatie in de buurt
 van de woordsoort van de telwoorden (zie § 2.4.1).
 De zelfstandige vormen degene/diegene/datgene worden typisch gevolgd door een relatiefzin, zoals in (54a):
-(54)
-
-a.
-b.
-
 Diegene die het antwoord kent, mag de vraag beantwoorden.
 Datgene dat/wat het lekkerst is moet je laten liggen.
-
 Op betekenisvlak sluiten de meeste aanwijzende voornaamwoorden in de twee linkerkolommen van (53) nauw aan bij het bepaald lidwoord, in die zin dat ze ook het idee van
 of
 uitdrukken: het is in de context duidelijk naar welke, wat voor of hoeveel entiteiten het pronomen verwijst. De elementen uit de rechterkolom in (53) daarentegen
-
- 42
-
 B
-
 T
-
-:M
-
 kunnen we combineren met een onbepaald lidwoord, zoals in een dergelijk/soortgelijk/zoveelste
 probleem, en ze lijken eerder verwant met de gewone adjectieven.
-2.3.2.4
-
 Vragend voornaamwoord
-
 Net als bij het aanwijzend voornaamwoord in de vorige sectie, kunnen we bij het
 of
 in (55) drie subtypes onderscheiden op basis
 van een
 , een
 , of een combinatie van beide. Bovendien treﬀen we ook hier, net als in (53), de drie betekeniscategorieën van
-,
 en
 aan:
-(55)
-
-+
 wie/wat?
 wat/wat voor één?
-—
-
 welk(e)?
-—
 hoeveel?
-
 wiens?
 wat voor (een)?
 de/het hoeveelste?
-
 Bij de zelfstandige vormen in de linkerkolom van (55) (die nauw verwant zijn met het persoonlijk voornaamwoord) gaat het bij wie om identiﬁcatie, en bij wat om identiﬁcatie of kwaliﬁcatie.
 In de rechterkolom is de bijvoeglijke vorm wiens (nauw verwant met het bezittelijk voornaamwoord) een identiﬁcerend vraagwoord, en wat voor een kwaliﬁcerend vraagwoord. Bemerk
 dat we de vormen wat voor? en wat voor een/één? kunnen beschouwen als
@@ -1748,7 +1078,6 @@ dat we de vormen wat voor? en wat voor een/één? kunnen beschouwen als
 hier immers een groep woorden die sterk samenhoren (omdat ze samen een betekeniseenheid vormen) en als geheel een functie vervullen die doorgaans door een enkel vragend woord
 wordt opgenomen. Net als bij het aanwijzende zoveel(ste) in de vorige sectie, komen we met
 de vragende vormen van kwantiﬁcatie in (55)– namelijk hoeveel(ste) – in het vaarwater van de
-telwoorden (zie § 2.4.1).
 2.3.2.5 Betrekkelijk voornaamwoord
 De hoofdfunctie van een
 of
@@ -1760,34 +1089,12 @@ of
 bijvoeglijke wiens, dat een bezitsrelatie uitdrukt, komt alleen voor bij antecedenten die naar
 een enkelvoudige persoon verwijzen: de vrouw/het kind wiens naam …. In dat geval zijn er bovendien nog twee alternatieven, namelijk van wie en waarvan. Alleen die laatste vorm kunnen
 we gebruiken als het om een (bezits)relatie met een voorwerp gaat:
-
- W
-
-43
-
-(56)
-./
-
-.
-
 al
 het boek
-
-.
-
-./
-
-.
-
 de vrouw
-
-.
-
 al
 diegene
-
 datgene
-
 die ik zie
 met wie ik sprak
 waarmee ik sprak
@@ -1802,25 +1109,11 @@ waarvan de naam me ontsnapt
 *wiens titel me ontsnapt
 *van wat de titel me ontsnapt
 waarvan de titel me ontsnapt
-
 In sommige gevallen is het antecedent van de relatiefzin geen nomen of een voornaamwoord
 zoals diegene, maar wel een volledige zin:
-(57)
-
 Hij heeft zich overslapen, wat/hetgeen wel vaker gebeurt.
-
 Een heel bijzondere relatiefconstructie is die waarbij het antecedent
 blijft. Het relativum zelf verschijnt dan in de gedaante van wie of wat en kan een deﬁniete (58a,b) of universele
-betekenis (58c,d) krijgen (zie § 2.3.2.8):
-(58)
-
-a.
-b.
-c.
-d.
-
-2.3.2.6
-
 Wie het weet, mag het zeggen.
 = Diegene die het weet, mag het zeggen.
 Ik heb wat je geschreven hebt nog niet gelezen.
@@ -1829,9 +1122,7 @@ Wie mij lie eeft volge mij.
 = Iedereen die mij lie eeft volge mij.
 Wat jij schrijft lees ik onmiddellijk.
 = Alles wat jij schrijft lees ik onmiddellijk.
-
 Wederkerend voornaamwoord
-
 Van het
 of
 – ook wel
@@ -1839,44 +1130,20 @@ of
 ) genoemd – vormen we de lange vorm in de rechterkolom van (59) door
 aan de korte vorm uit de linkerkolom het bijwoordelijke element zelf toe te voegen. Het wederkerend voornaamwoord heeft doorgaans als antecedent het onderwerp van de zin: ik vergis
 me; jij haat jezelf.
-
- 44
-
 B
-
 T
-
-:M
-
-(59)
-.
-
-.
-
-1°
-2°
-3°
-
 me/mij
 je, u/zich
 zich
-
 mezelf/mijzelf
 jezelf, uzelf/zichzelf
 zichzelf
-
-1°
-2°
-3°
-
 ons
 je, u/zich
 zich
-
 onszelf
 jezelf, uzelf/zichzelf
 zichzelf
-
 Bij de beleefdheidsvorm van de tweede persoon, namelijk u, zijn er twee reﬂexiva mogelijk,
 namelijk u en zich. Dit hangt samen met het feit dat de congruentie met het werkwoord ofwel met de tweede persoon gebeurt (U hebt u vergist) ofwel met de derde persoon (U heeft
 zich vergist). Een
@@ -1889,7 +1156,6 @@ actieve rol van onderwerp en een passieve rol van voorwerp, terwijl bij de verpl
 voornaamwoord zien als onderdeel van het gezegde (zie § 11.3.3.1).
 2.3.2.7 Wederkerig voornaamwoord
 Bij het
-/
 of
 moet er sprake
 zijn van
@@ -1900,58 +1166,37 @@ voornaamwoord dus altijd meervoudig zijn. De wederkerige voornaamwoorden komen i
 varianten voor, a ankelijk van de
 of het
 van het taalgebruik:
-(60)
 elkaar
 mekaar
-
 elkaars
 mekaars
-
 2.3.2.8 Kwantiﬁcationeel voornaamwoord
 Met de term
 verwijzen we in dit boek naar elementen
 zoals niemand of iedereen, die in de standaardgrammatica’s doorgaans
 worden genoemd. Die traditionele benaming is echter erg ongelukkig omdat ze verwarring kan oproepen met het onderscheid bepaald/onbepaald zoals we dat in eerste instantie
 introduceren voor de categorie van het lidwoord en vervolgens voor het corresponderende onderscheid tussen bepaalde (of deﬁniete) en onbepaalde (of indeﬁniete) nominale constituenten
-
- W
-
-45
-
 (zie § 2.3.1). Binnen de categorie van het
 semantisch vlak een drievoudig onderscheid tussen
 vormen. De drie types hebben zowel
-
-,
 als
-
 maken we op
-, en
 varianten:
-
-(61)
-
 ieder/iedereen
 alles/allemaal
 eenieder/allen
-
 iemand, de een of ander, menigeen
 een en/of ander
 om het even wie/wat, wie/wat … ook
-
 niemand
 niets
-
 ieder(e)
 al(le)
 elk(e)
-
 enkele/sommige/een paar
 enig(e)/menig(e)/ettelijke/genoeg
 verscheidene/verschillende/voldoende
-
 geen
-
 Bemerk dat de existentiële vormen (de) een of ander, om het even wie/wat en wie/wat … ook
 woordgroepen zijn die een betekeniseenheid vormen, en in hun geheel de functie van een
 kwantiﬁcationeel voornaamwoord vervullen. We kunnen ze dan ook het statuut toekennen
@@ -1962,13 +1207,10 @@ tussen
 en
 (naam)woordgroepen. De universele vormen zijn deﬁniet en
 zijn dus uitgesloten in zinnen die beginnen met het plaatsonderwerp er zoals in (62b) en (62d):
-(62)
-
 a. Er staat iemand/niemand/een of andere man voor de deur.
 b. *Er staat iedereen/elke man voor de deur.
 c. Er ligt iets/niets/een of ander pakje op de tafel.
 d. *Er ligt alles/ieder pakje op de tafel.
-
 Tot slot blijkt uit het meest uitgebreide subtype van de existentiële kwantiﬁcationele voornaamwoorden – in de middelste kolom van (61) – dat we vaak erg dicht in de buurt komen
 van de categorie van de telwoorden (zie § 2.4.1).
 2.3.2.9 Uitroepend voornaamwoord
@@ -1976,60 +1218,34 @@ Het centrale element binnen de categorie van het
 of
 is wat (een). Dat combineert met een nomen in (63a), een adjectief in (63b) of
 een handeling (gezegde) in (63c), en heeft daarbij als basisbetekenis ‘in hoge mate’:
-(63)
-
-a.
-b.
-c.
-
 Wat een vervelende vent is me dat!
 Wat schattig toch, zo’n puppy!
 Wat kun jij het toch moeilijk maken!
-
 Bemerk dat de wat in (63b-c) fundamenteel verschilt van het vragend voornaamwoord wat.
 Dat laatste kent immers geen bijvoeglijk gebruik — in tegensteling tot (63b) — en verwijst naar
 een voorwerp of abstractum — in tegensteling tot (63c). Bovendien is de combinatie wat een
-
- 46
-
 B
-
 T
-
-:M
-
 (zoals in (63a)) nooit vragend, enkel uitroepend. In combinatie met een adjectief kan bovendien
 ook hoe voorkomen:
-(64)
-
 Hoe schattig toch, zo’n puppy!
-
-2.3.2.10
-
 R-pronomina
-
 We ronden dit overzicht van de voornaamwoorden af met een bijzonder type, namelijk de R. Vergelijk daartoe de volgende zinnen:
-(65)
-
 a. We hebben de/die boeken gelezen
 ⇒ We hebben ze/die gelezen.
 b. We hebben boeken gelezen
 ⇒ We hebben er gelezen.
 c. We hebben drie/veel boeken gelezen ⇒ We hebben er drie/veel gelezen.
-
 Een zin met een deﬁniete NP de/die boeken in (65a) kunnen we herformuleren met een gewoon
 persoonlijk of aanwijzend voornaamwoord, respectievelijk ze en die. We noemen dit soort omzettingsoperatie
 . In het geval van de indeﬁniete NP boeken in (65b) gebeurt die pronominalisering met behulp van het element er. Komt het nomen in een indeﬁniete NP voor in combinatie met een telwoord zoals drie of veel in (65c) dan verschijnen die
 telwoorden ook in de pronominalisering met er.
 Een tweede context waar we een pronominaal er-element zien opduiken is die van pronominalisering met voorzetsels:
-(66)
-
 a. *We hebben lang aan het gedacht
 ⇒ We hebben er lang aan gedacht.
 b. *We hebben lang aan dat gedacht
 ⇒ We hebben daar lang aan gedacht.
 c. *Aan wat hebben we lang gedacht? ⇒ Waar hebben we lang aan gedacht?
-
 Alhoewel de elementen er, daar en waar op zich de (bijwoordelijke) semantiek van plaatsaanduiding hebben, is er bij hun gebruik in de pronominaliseringen in (66) helemaal geen sprake
 van het idee van plaats. We gebruiken ze hier immers – net zoals de persoonlijke en aanwijzende voornaamwoorden in (65a) – om naar dingen te verwijzen. We noemen deze elementen in deze patronen dan ook R(enkelvoud: R): het zijn echte pronomina met als formele bijzonderheid dat ze de slotklank /r/ bevatten. Bemerk dat de categorie
 van de R-pronomina haaks staat op die van de prototypische pronomina, omdat we het onderscheid tussen bijvoorbeeld persoonlijke, aanwijzende en vragende voornaamwoorden ook
@@ -2040,32 +1256,18 @@ R. We
 kunnen deze onderverdeling trouwens ook nog uitbreiden naar de drie subtypes van kwantiﬁcationele voornaamwoorden in (67). Het enige verschil met de pronominaliseringen in (66) is
 dat de omzettingsoperatie in (67) niet langer verplicht is. De vormen links van de pijl zijn m.a.w.
 in (67) niet ongrammaticaal, terwijl ze dat in (66) wel zijn:
-(67)
-
 a. We hebben lang aan iets gedacht
 ⇒ We hebben ergens lang aan gedacht.
 b. We hebben lang aan niets gedacht ⇒ We hebben nergens lang aan gedacht.
 c. We hebben lang aan alles gedacht ⇒ We hebben overal lang aan gedacht.
-
- W
-
-47
-
 We komen nog uitgebreid terug op deze bijzondere categorie van R-pronomina in de context
 van de bijwoorden (§ 2.4.2) en in de afsluitende sectie over dwarsverbanden (§ 2.5).
-
-2.3.3
-
 Voorzetsel
-
 Het basiskenmerk van een
 of
 , zoals naast, is dat we het vóór een naamwoordgroep, zoals de kast, kunnen plaatsen om er een prepositionele woordgroep, zoals naast
 de kast, mee te vormen. Binnen de grote groep voorzetsels in (68) maken we een onderscheid
 tussen de ‘gewone’ vormen van type A en de meer ‘marginale’ of archaïsche vormen van type
-B:
-(68)
-
 A
 aan, achter, beneden,
 bij, boven, buiten
@@ -2074,7 +1276,6 @@ omtrent, onder, rondom,
 tegen, tegenover, tot,
 tussen, van, vanaf,
 vanuit, voor, zonder
-
 B
 aangaande, behoudens, betreﬀende,
 blijkens, conform, contra, dankzij,
@@ -2084,7 +1285,6 @@ namens, niettegenstaande, nopens,
 omstreeks, ondanks, overeenkomstig,
 per, qua, sinds, sedert, te, tijdens,
 vanwege, via, volgens, wegens
-
 Dit onderscheid tussen de vormen van type A en die van type B zal ook een rol blijken te spelen binnen de categorie van het bijwoord in sectie § 2.4.2. Een klein groepje voorzetsels, zoals
 uit, vertoont een grotere mate van ﬂexibiliteit, in die zin dat we ze zowel vóór als ná de naamwoordgroep kunnen plaatsen: Ze liep uit de kamer maar ook Ze liep de kamer uit. In dat laatste
 geval spreken we ook soms van het gebruik als
@@ -2093,15 +1293,11 @@ of
 vormen van
 C in (69), die zowel prepositioneel als postpositioneel kunnen zijn, en die van
 type D die alleen als achterzetsel gebruikt kunnen worden:
-(69)
-
 C
 binnen, door, in, langs, om
 op, over, rond, uit, voorbij
-
 D
 af, mee, toe
-
 De naam van de woordsoort voorzetsel is niet ideaal gekozen in het licht van het bestaan van de
 achterzetsels in (69). Om die reden wordt soms de term
 gebruikt; een Nederlands
@@ -2109,46 +1305,27 @@ equivalent zou
 kunnen zijn. Toch wordt de term prepositie of voorzetsel vaak als
 hyperoniem (overkoepelende term) gebruikt voor voor- en achterzetsels.
 Daarnaast is er nog een hele waaier aan combinatiemogelijkheden waarbij we een naamwoordgroep tegelijk laten voorafgaan door een voorzetsel en volgen door een achterzetsel:
-(70)
-
 door de eeuwen (heen), met de klok (mee), onder de afsluiting (door), tegen het dorp
 (aan), tussen de lezingen (door), voor de stoet (uit), uit de kooi (vandaan)
-
- 48
-
 B
-
 T
-
-:M
-
 Het achterzetsel is in deze gevallen doorgaans weglaatbaar en vervult een versterkende functie
 bij het voorzetsel. In dit opzicht verschillen ze van patronen van het type op een paar uitzonderingen na, waar voor- en achterzetsel allebei essentieel zijn, en samen een eenheid vormen die
 we een
 noemen.
 Bovendien combineren voorzetsels niet alleen met naamwoordgroepen, maar ook bv. met
 bijwoorden in (71a), voorzetselgroepen in (71b) en zelfs bijzinnen in (71c):
-(71)
-
-a.
-b.
-c.
-
 vanaf hier, tot straks, na vanavond
 tot na de wedstrijd, voor bij de koﬃe
 voor wanneer je honger krijgt.
-
 In § 2.2.3.1 hebben we het onderscheid geïntroduceerd tussen een werkwoord en een werkwoordelijke uitdrukking – zoals aanspraak maken (op iets) – waarbij we die laatste deﬁniëren als
 een groep woorden in een zin die sterk samenhoren en als geheel de functie vervullen die doorgaans door een enkelvoudig werkwoord wordt opgenomen. Volledig analoog kunnen we hier
 nu een onderscheid maken tussen een voorzetsel en een
 . De combinaties in (72) bestaan immers weliswaar uit verschillende woorden, maar die vormen een vaste
 verbinding die in zijn geheel de functie van een voorzetsel vervult:
-(72)
-
 aan de hand van, door middel van, in plaats van, in verband met, met het oog op, met
 uitzondering van, naar aanleiding van, op grond van, ten aanzien van, ter gelegenheid
 van
-
 Merk op dat in alle voorbeelden tot nu toe het voorzetsel of achterzetsel systematisch met een
 andere woordgroep gecombineerd wordt om een voorzetselgroep (PP) te bouwen. We kunnen
 dit het
@@ -2158,16 +1335,9 @@ een
 en systematisch mogelijk bij de achterzetsels van type C. We treﬀen dit intransitief gebruik aan
 in predicatieve patronen met een koppelwerkwoord, zoals in (73a-b), en bij patronen met zgn.
 scheidbare werkwoorden in (73c):
-(73)
-
-a.
-b.
-c.
-
 Het licht is aan/uit. De bal is binnen/buiten/naast.
 De tijd is om/uit/voorbij. Het werk is af.
 Hij loste het probleem op. Ze hield het plan tegen.
-
 In de literatuur spreekt men bij dit intransitieve gebruik van het voorzetsel ook wel van de
 woordsoort van het
 . In dit boek doen we dat niet, omdat de term ten
@@ -2176,15 +1346,7 @@ De categorie van de voorzetsels speelt een prominente rol zowel in de morfologie
 als in de syntaxis in deel III. Zo kunnen we verschillende categorieën van nieuwe werkwoorden
 vormen op basis van voorzetsels (zoals bv. overhálen tegenover óverhalen; zie § 5.1), en zijn ze
 essentieel bij de zinsdeelfunctie van voorzetselvoorwerp (zie § 11.5.4).
-
- W
-
-2.3.4
-
-49
-
 Voegwoord
-
 Wanneer een
 of
 twee (of meer) elementen verbindt op eenzelfde niveau – d.w.z. in een relatie van gelijkwaardigheid – dan spreken we van
@@ -2192,56 +1354,27 @@ twee (of meer) elementen verbindt op eenzelfde niveau – d.w.z. in een relatie 
 is er daarentegen sprake van een hiërarchische relatie tussen twee constituenten, waarbij de ene vervat zit in de andere. Met
 kunnen
 we in eerste instantie een hele waaier aan woordgroepen aaneenschakelen: bv. adjectiefgroepen zoals in (74a), naamwoordgroepen zoals in (74b), voorzetselgroepen zoals in (74c), of telwoordconstituenten zoals in (74d):
-(74)
-
-a.
-b.
-c.
-d.
-
 [erg arm] maar [vrij proper]
 [de bakker] en [de slager]
 [op de tafel] of [onder de kast]
 met [minder dan drie] of [meer dan vier] gezellen
-
 Ook woorden kunnen door nevenschikking met elkaar verbonden worden, bv. lidwoorden zoals in (75a) of voorzetsels zoals in (75b):
-(75)
-
-a.
-b.
-
 [de] of [het] idee
 argumenten [voor] en [tegen] die stelling
-
 Uiteraard gebruiken we nevenschikkende voegwoorden ook om verschillende soorten zinnen
 op voet van gelijkheid aan elkaar te knopen, onder meer gewone mededelende hoofdzinnen
 zoals in (76a), vragende hoofdzinnen zoals in (76b), of bijzinnen zoals in (76c):
-(76)
-
-a.
-b.
-c.
-
 [Hij ging zitten] en [hij begon de krant te lezen].
 [Ga je mee] of [blijf je liever thuis]?
 Ik dacht [dat zij vertrokken was] en [dat jij zou thuisblijven].
-
 Een nevenschikkend voegwoord staat doorgaans tussen de twee (of meer) elementen die het
 verbindt. Met andere woorden, normaal zijn er meer verbonden elementen dan verbindingswoorden. Er bestaat echter ook een speciale categorie van
 . Dat zijn nevenschikkende elementen die ‘in paren’ of vaste combinaties voorkomen, zoals ofwel A ofwel B of
 zowel A als B, waarbij er bij elk van de verbonden elementen een verbindingswoord staat. De
 tabel in (77) geeft een overzicht van de verschillende betekenisrelaties die de nevenschikkende
 voegwoorden en de reeksvormers tot stand kunnen brengen:
-
- 50
-(77)
-
 B
-
 T
-
-:M
-
 en
 noch
 of
@@ -2249,16 +1382,8 @@ ofwel
 maar / (?doch)
 want
 dus
-
-en … en … / noch … noch …
-zowel … als … / evenmin … als …
 niet alleen … maar ook
-of … of … / ofwel … ofwel …
-hetzij … hetzij … / hetzij … of …
 niet zozeer … maar wel …
-—
-—
-
 Een
 leidt een ondergeschikte zin of bijzin in. Een bijzin maakt
 deel uit van een groter geheel, een hoofdzin. We maken een verder onderscheid tussen een
@@ -2271,7 +1396,6 @@ deze tabel niet alleen de enkelvoudige onderschikkende voegwoorden bevat, maar o
 hele reeks voorbeelden van
 – dat wil zeggen vaste verbindingen van verschillende woorden, van het type op voorwaarde dat, die samen de functie van
 voegwoord vervullen:
-(78)
 voor(dat), eer(dat), tot(dat), alvorens, vooraleer,
 terwijl, zolang, zo gauw, zodra, sinds, sedert, toen, nu, als,
 na(dat), wanneer
@@ -2287,18 +1411,8 @@ behalve dat, uitgezonderd, voor zover (dat), in zoverre (dat)
 naargelang, naarmate, hoe … des te …, hoe … hoe …
 of, als, alsof, zoals, evenals, dan
 De bijzin die door het voegwoord dan wordt ingeleid is vaak elliptisch:
-(79)
-
 Zij is sneller dan ik (ben).
-
- W
-
-2.4
-
-51
-
 Halfopen woordsoorten
-
 In secties § 2.2 en § 2.3 hebben we respectievelijk de
 en de
 besproken. Alhoewel het (met name bij de voorzetsels in § 2.3.3 en de voegwoorden in § 2.3.4)
@@ -2314,11 +1428,7 @@ Hierdoor importeren we het open karakter van de adjectieven als het ware naar de
 De tussenwerpsels (§ 2.4.3), tot slot, zijn om te beginnen een erg marginale woordsoort, maar
 omdat ze vaak met creatief taalgebruik samenhangen zijn ze iets makkelijker uitbreidbaar dan
 de echt gesloten woordsoorten.
-
-2.4.1
-
 Telwoord
-
 De grote tweedeling binnen de categorie van het
 of
 (meervoud:
@@ -2326,35 +1436,22 @@ of
 , die een hoeveelheid aangeven, en de
 , die een plaats in een rangorde of volgorde aanduiden. In beide subtypes geeft het precieze informatie over hoeveelheid of plaats in de rangorde, terwijl het
 daar contexta ankelijke informatie over verschaft:
-(80)
 een/twee/…
 honderd/duizend
 beide/allebei
-
 eerste/tweede
 honderdste/duizendste
-
 veel/weinig
 meer/minder
 meest/minst
-
 middelste
 volgende
 laatste
-
 Bemerk dat het onderscheid tussen de absolute en de relatieve telwoorden doorgaans benoemd wordt als een onderscheid tussen respectievelijk de bepaalde en de onbepaalde telwoorden. Net zoals we dat eerder in de context van het kwantiﬁcationeel voornaamwoord (zie
 § 2.3.2.8) hebben gedaan, willen we die traditionele benaming niet langer hanteren. Ze is immers niet compatibel met het onderscheid bepaald/onbepaald zoals we dat in eerste instantie
 introduceren voor de categorie van het lidwoord en vervolgens voor het corresponderende onderscheid tussen bepaalde (of deﬁniete) en onbepaalde (of indeﬁniete) nominale constituenten
-(zie § 2.3.1).
-
- 52
-
 B
-
 T
-
-:M
-
 Los van deze terminologische kwestie stellen we vast dat de absolute hoofdtelwoorden
 in een aantal vaste verbindingen ook een meervoudsvorm kunnen aannemen, zoals bv. iets
 in vieren scheuren of met z’n zessen aan tafel zitten. Op syntactisch vlak zijn de telwoorden
@@ -2365,45 +1462,21 @@ van het telwoord
 aantreﬀen. Bij het
 van de telwoorden in (81c) kunnen we het verzwegen
 nomen eerder in de zin terugvinden.
-(81)
-
-2.4.2
-
-a.
-b.
-c.
-
 mijn twee boeken, mijn tweede boek, allebei mijn boeken
 Mijn banden zijn allebei/beide lek.
 Heb je honden? Ik heb er drie. Los de eerste oefening op en de laatste.
-
 Bijwoord
-
 Zoals de naam van de woordsoort
 of
 (meervoud:
 ) al aangeeft,
 gaat het om een erg ﬂexibele woordsoort die met een hele waaier aan elementen kan combineren, zoals een werkwoord in (82a), een bijwoord of een adjectief in (82b), een telwoord of
 een voorzetsel in (82c) of een voegwoord in (82d):
-(82)
-
-a.
-b.
-c.
-d.
-
 We hebben ons uitermate verveeld.
 We zien hem uiterst zelden; uitermate vervelende opmerkingen
 Ik zie uiterst weinig verschil; vlak naast de voordeur
 Vlak nadat hij vertrokken was, rinkelde de telefoon.
-
 Net als bij de betekenisdragende voegwoorden in sectie § 2.3.4, krijgen we ook bij de bijwoorden een heel scala aan betekeniscategorieën:
-(83)
-/
-
-/
-/
-
 er, opzij, bergop, elders
 pas, vandaag, straks
 soms, vaak, telkens, doorgaans
@@ -2411,7 +1484,6 @@ nogal, enigszins, zeer, uitermate
 bijna, volkomen, helemaal, vrijwel, nauwelijks
 anders, zachtjes
 niet, misschien, wellicht, inderdaad, weliswaar
-
 Net zoals we eerder al spraken van werkwoordelijke, voorzetsel- of voegwoordelijke uitdrukkingen, krijgen we ook hier bij de bijwoorden het fenomeen van de
 : vormen zoals af en toe of zeker en vast zijn vaste verbindingen van meerdere woorden,
 die als geheel de functie van een bijwoord vervullen.
@@ -2419,14 +1491,7 @@ Typisch voor de bijwoorden in (83) is dat ze de
 beschrijven van de handeling in de zin waarin ze voorkomen. Een ander subtype van de bijwoorden heeft echter als
 functie om een betekenisrelatie tot stand te brengen met een andere zin. In dat opzicht zijn ze
 verwant met de voegwoorden, en we noemen ze dan ook
-. De
-
- W
-
-53
-
 betekenisverbanden in (84) corresponderen zowel met nevenschikkende als met onderschikkende voegwoorden:
-(84)
 bovendien, daarenboven, eveneens, evenmin, ook, zelfs
 enerzijds … anderzijds, daarentegen, (desal)niettemin,
 desondanks, echter, evenwel, integendeel, nochtans, toch
@@ -2434,7 +1499,6 @@ bijgevolg, derhalve, dus, dientengevolge, daarom,
 immers, namelijk
 althans, overigens, trouwens
 Een volgend subtype van de bijwoorden vertoont een grote verwantschap met de voornaamwoorden, omdat ze een eerder vage, verwijzende betekenis uitdrukken, en vaak ook voorkomen in een aanwijzende, vragende, betrekkelijke en kwantiﬁcationele variant:
-(85)
 hier/daar
 nu/dan/toen
 waar?
@@ -2442,57 +1506,31 @@ wanneer?
 waar
 wanneer/toen
 (n)ergens/overal (n)ooit/altijd
-
 hierom/daarom
 waarom?
 waarom
-
 zo
 hoe?
-
 Tot slot van deze sectie over de woordsoort van het bijwoord willen we het nog hebben over
 een apart type bijwoord dat in de literatuur opduikt, met name het zogenaamde
 . In de syntaxis blijken de combinaties in (86) van het voorzetsel aan en
 een erop volgend onzijdig voornaamwoord, nl. het, dit, dat of wat, op zijn minst problematisch,
 zoniet uitgesloten:
-(86)
-
 a. *Ik denk nog altijd aan het/dit/dat.
 b. *Aan wat denk je nog altijd?
-
 Doorgaans treedt er in dat geval een omzettingsoperatie op, die vormen van het type er(…)aan,
 hier(…)aan, daar(…)aan of waar(…)aan oplevert, ofwel in ongesplitste — aan elkaar geschreven
 — variant in (87), ofwel in gesplitste variant in (88):
-(87)
-
-a.
-b.
-
 Ik denk eraan/hieraan/daaraan.
 Waaraan denk je nog altijd?
-
-(88)
-
-a.
-b.
-
 Ik denk er/hier/daar nog altijd aan.
 Waar denk je nog altijd aan?
-
 Bij de omzettingsoperatie in (87) en (88) verandert het voorzetsel van plaats, en wordt het dus
 een achterzetsel (sommigen spreken ook hier van een ‘voorzetselbijwoord’ zie § 2.3.3). Complexer is echter de omzetting van de voornaamwoorden. De vormen er, hier, daar en waar in
 (87) en (88) lijken heel erg op bijwoorden van plaats, maar hebben nog altijd de betekenis van
 een voornaamwoord. Deze discrepantie is net de aanleiding voor de term
--
-
- 54
-
 B
-
 T
-
-:M
-
 , die zou moeten uitdrukken dat de vorm eruitziet als een bijwoord maar de
 waarde heeft van een voornaamwoord. Bovendien wordt de term doorgaans niet gebruikt om
 naar de vormen er, hier, daar of waar op zichzelf te verwijzen, maar eerder naar de volledige
@@ -2510,12 +1548,7 @@ een voornaamwoord en een achterzetsel. Vormen zoals er(…)aan, hier(…)aan, da
 waar(…)aan beschouwen we in dit boek dus als voorzetselconstituent (PP). Om recht te doen
 aan de bijzondere vorm van het voornaamwoord – namelijk die van R-pronomen – noemen we
 ze voortaan R-PP’s. Ze spelen als constituent een belangrijke rol in de context van de syntactische functie van voorzetselvoorwerp, en zullen daar dan ook in meer detail worden behandeld
-(zie § 11.5.4).
-
-2.4.3
-
 Tussenwerpsel
-
 Binnen de woordsoort van het
 of de
 onderscheiden we een betekenisdragend subtype, en een niet-betekenisdragend of klanknabootsend subtype. Betekenisdragende tussenwerpsels geven commentaar op de communicatieve situatie – mededelend
@@ -2525,7 +1558,6 @@ Bij tussenwerpsels met
 betreft het geluiden van mensen (haha), dieren (miauw), voorwerpen (tiktak, tingeling) of bewegingen (hop, vlam). We gebruiken tussenwerpsels
 vaak in isolatie, d.w.z. los van andere taaluitingen, maar als ze toch combineren met een zin,
 dan staan ze doorgaans helemaal vooraan of helemaal achteraan.
-
 2.5 Dwarsverbanden
 Bij wijze van afronding van dit hoofdstuk over de woordsoorten willen we nog even stilstaan
 bij een drietal dwarsverbanden die de individuele woordsoorten overstijgen. Ten eerste laat
@@ -2533,65 +1565,43 @@ de tabel in (89) duidelijk zien dat de basisindeling in de linkerkolom – die w
 associëren met de verschillende subtypes van de prototypische voornaamwoorden (§ 2.3.2) –
 ook relevante subtypes oplevert binnen de woordsoorten van de R-pronomina (§ 2.3.2.10) en de
 bijwoorden (§ 2.4.2). De typische (anaforische of deiktische) verwijsrelatie van de voornaamwoorden naar personen en objecten, geldt immers op analoge wijze voor de verwijzing naar
-
- W
-
-55
-
 plaatsen en tijdstippen. Bemerk dat de tabel in (89) ook heel mooi het bijzondere statuut van
 de R-pronomina weerspiegelt: op betekenisvlak corresponderen ze met de prototypische voornaamwoorden in de kolom links ervan, maar op formeel vlak zijn ze identiek aan de bijwoorden
 van plaats in de kolom rechts ervan:
-(89)
 Rik/jij/hij
 die/dit/dat/zoveel
 wie?/wat?/hoeveel?
 die/dat
-
 er
 hier/daar
 waar?
 waar
-
 er
 hier/daar
 waar?
 waar
-
 dan
 nu/dan/toen
 wanneer?
 wanneer
-
 iemand/iets
 niemand/niets
 iedereen/alles
-
 ergens
 nergens
 overal
-
 ergens
 nergens
 overal
-
 ooit
 nooit
 altijd
-
 Een tweede dwarsverband betreft de syntactische combinatiemogelijkheden van verschillende
 woordsoorten. Uit de tabel in (90) blijkt dat het onderscheid binnen de adjectieven tussen een
 en een
 – als voorbepaling bij een zelfstandig naamwoord – ook opduikt bij een hele waaier aan voornaamwoorden:
-(90)
 de oude
-.
-.
-.
-.
-.
-
 oude
-
 de mijne/jouwe
 mijn/jouw
 die/dat/zoveel
@@ -2601,43 +1611,21 @@ die/dat
 wiens
 alles/iedereen
 alle/iedere
-
 Een derde en laatste dwarsverband betreft de formele verwantschap tussen de voorzetsels
 waarmee we PP’s als bijwoordelijke bepaling inleiden enerzijds en de betekenisdragende voegwoorden waarmee we bijwoordelijke bijzinnen introduceren anderzijds. De tabel in (91) illustreert dit verband met de voegwoorden zowel in ﬁniete bijwoordelijke bijzinnen (zie § 12.2.3.1)
 als in beknopte bijwoordelijke bijzinnen (zie § 12.2.7.3):
-(91)
-
-—
-
 dat/of
-
 om
-
 zonder
 na
 door
-
 zonder dat
 nadat
 doordat
-
 zonder
 na
 door
-
- 56
-
-2.6
-
 B
-
 T
-
-:M
-
 Verwijzingen
-
 De woordsoorten worden onder meer behandeld in de ANS (hoofdstukken 2 t.e.m. 11) en in
-Vandeweghe (2000:156-163).
-
- 

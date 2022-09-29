@@ -2,237 +2,122 @@
 • één of meer H-atomen in NH3 vervangen door alkylgroep
 (arylaminen (anilinen) in later hoofdstuk)
 • 1°, 2°, 3°: aantal alkylgroepen op N (en niet op C)
-
 Primair amine
-
 Secundair amine
-
-R"
-
 H
-
 H
 R
-
 Tertiair amine
-
 R
-
 N
-
 R
-
 N
-
-R'
-
-R'
-
 H
-
 N
-
-147 pm
 Quaternair ammoniumzout
-R4N+X-
-
-112°
 Aminen en alkaloïden
-
-106°
-1
-
  9.1 Nomenclatuur
-
 radicofunctionele naamgeving
-
 • Naam alkylgroep(en) + -amine
-
 N-methylethaanamine (subst.)
-
 N, N-diëthylpropaan-2-amine (subst.)
-
 Aminen en alkaloïden
-
-2
-
  • Quaternair ammoniumzout:
 namen alkylgroepen + -ammonium + naam anion
-
 • Indien meer prioritaire functionele groepen aanwezig zijn:
 als aminosubstituent beschouwen
-2
-
-1
-
 Aminen en alkaloïden
-
-3
-
  • Heterocyclische ringen:
-
 • Chiraal en optisch actief ?
-
 Geen inversie mogelijk
 Tetra-alkylammoniumzouten?
-
 Aminen en alkaloïden
-
-4
-
  9.2 Voorkomen van aminen
 • typische geur rotte vis en bedorven vlees
 • aminogroep speelt belangrijke rol bij aminozuren
 • histamine (weefselhormoon)
-
 Gebonden
 aan eiwit:
 inactief
 allergeen
 antilichaam
-
 Mastcel
-
 ✓ allergische reactie:
 vrijkomen histamine …
 (gevolg: loopneus, jeuk, astma …)
 ✓ ook in gif bijen en mieren
-
 histamine
-
 Aminen en alkaloïden
-
-5
-
  ✓antihistamine geneesmiddelen (antihistaminica)
-
 • hormonen adrenaline (epinefrine) en noradrenaline:
-
 Stereochemie belangrijk:
 natuurlijke (R)-(-)-vorm 20 x actiever
-dan (S)-(+)-vorm !
-
 Aminen en alkaloïden
-
-6
-
  • amfetamines: verwant met neurotransmitter dopamine
 HO
-
 NH2
-
 amfetamine
 NH2
-
 HO
-
 dopamine
-
 ✓stimulerend effect (pepmiddelen)
 ✓dopingsmiddel
 OH
-
 NH
-
 O
-
 CH3
-
 NH
 CH3
 CH3
-
 Efedrine, behandeling astma,
 hooikoorts, neusverkoudheid
-
 Aminen en alkaloïden
-
 O
-
 CH3
-
 XTC, of MDMA
 (3,4-methyleendioxy-N-methamfetamine)
-
-7
-
  • quaternaire ammoniumzouten zijn stabiele zouten
-
 bij lange alkylketen:
 ✓ zeepachtige eigenschappen (kationisch detergent)
 ✓ vaak antibacteriële werking
 ✓ toegevoegd aan ontsmettingszepen en schoonmaakmiddelen,
 wasverzachters
 ✓ CTAB wordt gebruikt in buffers voor DNA-extractie
-
 Aminen en alkaloïden
-
-8
-
  • acetylcholine (ACh) als neurotransmitter
 O
-
 CH3
-N+
-
 CH3
-
 Zenuw:
 elektrische prikkel
-
 CH3
-
 O
 CH3
-
 Synaps (20 nm):
 chemische prikkel
-
 Zenuw, spiercel:
 elektrische prikkel
-
 Aminen en alkaloïden
-
-9
-
  ✓Afbraak ACh door acetylcholinesterase (AChE)
-
 ✓Bij verstoorde werking of inhibitie AChE: ongecontroleerde
 spiercontracties, -verlammingen en ademhalingsproblemen
 Bepaalde insecticiden inhiberen AChE bij insecten, bijvoorbeeld carbaryl
 Bepaalde zogenaamde zenuwgassen inhiberen AChE (sarin, novichok)
 O
-
 H3C
 CH
 H3C
-
 O
-
 P
 F
-
 CH3
-
 sarin
-
 Aminen en alkaloïden
-
 novichok
-
-10
-
  Cholinesteraseinhibitie
-
-3
-
 carbamaatinsecticiden
 carbaryl
-
 Aminen en alkaloïden
-
-11
-
  Atropine (plantenextract uit Atropa belladonna):
 tegengif bij vergiftiging door cholinesteraseremmers
 (ook in oogdruppels)
@@ -240,14 +125,9 @@ Curare: plantenextract Amazone-indianen
 tubocurarine – hoge dosis: toxisch door AChE-inhibitie
 – zeer lage dosis: therapeutisch gebruik
 als spierontspanner
-
 ✓Gebrek ACh in hersenen geassocieerd met ziekte van
 Alzheimer, enkele geneesmiddelen inhiberen AChE
-
 Aminen en alkaloïden
-
-12
-
  9.3 Fysische eigenschappen van aminen
 ✓ polair, goed oplosbaar in water (behalve bij te lange alkylrest)
 ✓ vorming waterstofbruggen (1°, 2° zowel donor als acceptor,
@@ -255,116 +135,54 @@ Aminen en alkaloïden
 ✓ kookpunt: tussen alkanen en alcoholen
 (waterstofbruggen minder sterk dan bij alcoholen, E.N. N < E.N. O)
 Verbinding
-
 M (g/mol)
-
-tk (°C)
-
 Ethaan
 Methylamine
 Methanol
-
-30.0
-31.0
-32.0
-
--89
--7
-64
-
 Propaan
 Ethylamine
 Ethanol
-
-44.0
-45.0
-46.0
-
--42
-17
-78
-
 ✓Onaangename geur (afbraakproducten vlees, vis)
 putrescine (butaan-1,4-diamine), cadaverine (pentaan-1,5-diamine)
-
 Aminen en alkaloïden
-
-13
-
  ✓ Vergelijking met ammoniumzouten:
 RNH2 + HCl → RNH3+ + Clbeter oplosbaar in water, reukloos
 hoger smeltpunt, stabieler want
 minder gevoelig aan oxidatie
-
 Toepassing tijdens synthese en scheiding/zuivering van
 geneesmiddelen
 NH3
 NH2
-
 Cl
-
 onoplosbaar in H2O
-
 onoplosbaar in H2O
 HCl
-
-NH 3+
-
 oplosbaar in H2O
-
 Aminen en alkaloïden
-
-14
-
  9.4 Basische eigenschappen van aminen
-
 ✓ dimethylamine > methylamine > ammoniak (e--gevend effect)
 ✓ trimethylamine < (sterker apolair, minder hydratatie R3NH+)
-
-3,35
-
 ✓ ammoniumion zwak zuur (pKa  10), amine zeer zwak zuur (pKa  35)
-
 Aminen en alkaloïden
-
-15
-
  9.5 Nucleofiele eigenschappen van aminen
 ✓ Vrij elektronenpaar stikstofatoom goed nucleofiel
 ✓ Nucleofiele substitutie van een halogeenalkaan
-
 Evenwichtsreactie of neutraliseren met sterke base (OH-)
-
 meestal wordt mengsel van aminen gevormd
-
 Aminen en alkaloïden
-
-16
-
  ✓ Nucleofiele reactie met carbonylverbindingen
-
 imine of Shiff base
 ✓ Nucleofiele reactie met carbonzuurderivaten (aminolyse)
-
 Aminen en alkaloïden
-
-17
-
  9.6 Alkaloïden
-
 echte – pseudo - proto
-
 ✓ groep natuurproducten met grote verscheidenheid
 ✓ vroeger: bevat basisch stikstofatoom, extraheerbaar met zuur
 ✓ nu: bevat stikstofatoom in heterocyclische ring
 - echte alkaloïden afgeleid van aminozuren
 - pseudo-alkaloiden afgeleid van terpenen, purine…
 - proto-alkaloïden bevatten geen stikstofhoudende ring
-
 Aminen en alkaloïden
-
-18
-
  isolatie uit plantaardig materiaal:
 • extractie met petroleumether (verwijderen apolaire stoffen)
 • extractie met methanol of ethanol
@@ -374,53 +192,30 @@ zure, polaire
 natuurproducten
 (terpenen,
 polyfenolen …)
-
 Aminen en alkaloïden
-
 alkaloïden als zouten
 • basisch maken
 • alkaloïden extraheren met ethylacetaat
 • afdampen ethylacetaat
 • verdere chromatografische scheiding
-
-19
-
  papaver
-
 Rauvolfia
 serpentina (wortel)
 antihypertensivum
-
 Cinchona ledgeriana
 pseudoalkaloïde
-
 Aardappel – nachtschade
 Bestanddeel
 glycoalkaloïde solanine
-
 Aminen en alkaloïden
-
-20
-
  koffieplant
 tabaksplant
 (synthese wortels,
 opslag bladeren)
-
 H
-
 pseudoalkaloïde
-
 protoalkaloïde
-
 cocaplant
-
 Aminen en alkaloïden
-
 San Pedro cactus
-
 Lipiden
-
-21
-
- 

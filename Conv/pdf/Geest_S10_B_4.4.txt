@@ -1,177 +1,28 @@
 Techniek #2: Valentie en weglaatbaarheid: Valentie,
 subcategorisatie, en zinsdelen
-(45)
-
 a. Ik hoop op een vreedzame oplossing.
 b. *Ik hoop een vreedzame oplossing.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
  Techniek #2: Valentie en weglaatbaarheid: Valentie,
 subcategorisatie, en zinsdelen
-(45)
-
 a. Ik hoop op een vreedzame oplossing.
 b. *Ik hoop een vreedzame oplossing.
-
-(46)
-
-a.
-b.
-c.
-
 Ik eet vandaag een koekje.
 Ik eet na het eten een koekje.
 Ik eet elke dag een koekje.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
  Techniek #2: Valentie en weglaatbaarheid: Valentie,
 subcategorisatie, en zinsdelen
-
 ∈ valentie
 essentieel zinsdeel
 participant
 meestal niet weglaatbaar
 theta-rol
-
 ∈/ valentie
 niet-essentieel zinsdeel
 omstandigheid
 weglaatbaar
 geen theta-rol
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
  Techniek #2: Valentie en weglaatbaarheid: Valentie,
 subcategorisatie, en zinsdelen
-
 ∈ valentie
 essentieel zinsdeel
 participant
@@ -179,108 +30,16 @@ meestal niet weglaatbaar
 theta-rol
 vorm bepaald door gezegde
 (subcategorisatie)
-
 ∈/ valentie
 niet-essentieel zinsdeel
 omstandigheid
 weglaatbaar
 geen theta-rol
 vorm niet bepaald door gezegde
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
  Techniek #2: Valentie en weglaatbaarheid: Valentie,
 subcategorisatie, en zinsdelen
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
  Techniek #2: Valentie en weglaatbaarheid: Valentie,
 subcategorisatie, en zinsdelen
-
 ∈ valentie
 essentieel zinsdeel
 participant
@@ -289,7 +48,6 @@ theta-rol
 vorm bepaald door gezegde
 (subcategorisatie)
 object/voorwerp/complement/subject
-
 ∈/ valentie
 niet-essentieel zinsdeel
 omstandigheid
@@ -297,99 +55,8 @@ weglaatbaar
 geen theta-rol
 vorm niet bepaald door gezegde
 bepaling
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
  Techniek #2: Valentie en weglaatbaarheid: Oefening
 Lees aandachtig onderstaande (bij)zin. Welke valentieschema’s bevat deze
 zin, en door welke woordgroepen worden de lege plaatsen in die
 valentieschema’s ingevuld?
 (1) omdat ik je Jan met Marie wil laten horen discussiëren
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
- 
