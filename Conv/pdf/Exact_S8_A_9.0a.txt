@@ -376,11 +376,12 @@ N
 O
 N
 H
-HO
 C
 O
 H
-hexaan-1, 6-diamine
+hexaan-1,
+HO
+6-diamine
 C
 OH
 adipinezuur

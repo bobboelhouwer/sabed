@@ -9,6 +9,10 @@ Inwendig product
 • Een inwendig product, gedefiniëerd op een
 vectorruimte V, is een functie die een paar vectoren u
 en v afbeeldt op reëel getal u.v zodat:
+o
+o
+o
+o
 • Oefening: check dat u.v in Rn deze 4 eigenschappen
 heeft
 • Oefening: toon aan dat in P4
@@ -39,6 +43,7 @@ Orthogonale projectie: voorbeeld
 • Welke polynoom in P2 ligt dichtst bij v = 5 −   ?
 v.p
 v.p
+v.p
 Cauchy – Schwarz - ongelijkheid
 • Bewijs:
 o u = 0 triviaal
@@ -52,6 +57,7 @@ tijdsinterval
 • Inwendig product
 • Volgende 6 signalen vormen een orthonormale
 basis in S6 :
+cos
 Discrete-cosinustransformatie
 • Elk signaal g kan exact geschreven worden als
 met c0 ... c5 de coördinaten van g in de

@@ -23,10 +23,10 @@ Faculteit Psychologie en Pedagogische Wetenschappen
  ECTS fiche
 • Zie Studiewijzer op Toledo
 • Doelstellingen: Na het voltooien van dit OPO kan de student:
-▪ de empirische cyclus begrijpen en de fasen beheersen
-▪ het concept variabiliteit kritisch vatten en inschatten
-▪ onderzoek systematisch evalueren op vlak van validiteit en betrouwbaarheid
-▪ kritisch reflecteren over verschillende onderzoeksdesigns en hun beperkingen
+de empirische cyclus begrijpen en de fasen beheersen
+het concept variabiliteit kritisch vatten en inschatten
+onderzoek systematisch evalueren op vlak van validiteit en betrouwbaarheid
+kritisch reflecteren over verschillende onderzoeksdesigns en hun beperkingen
 aangeven
 ▪ verschillende onderzoeksmethoden herkennen en vergelijken
 ▪ resultaten van verschillende onderzoeksdesigns correct interpreteren
@@ -35,10 +35,10 @@ zijn
 Faculteit Psychologie en Pedagogische Wetenschappen
  ECTS fiche
 • Inhoud: Tijdens de hoorcolleges worden volgende thema’s behandeld:
-▪ De empirische cyclus
-▪ Variabelen en meetniveaus
-▪ Betrouwbaarheid en validiteit
-▪ Onderzoeksdesigns in de psychologie (survey onderzoek, correlationeel
+De empirische cyclus
+Variabelen en meetniveaus
+Betrouwbaarheid en validiteit
+Onderzoeksdesigns in de psychologie (survey onderzoek, correlationeel
 onderzoek, experimenteel onderzoek, quasi-experimenteel onderzoek, singlecase onderzoek, etc.)
 ▪ Steekproeftrekking
 ▪ Responsible research practices (repliceerbaarheid, open science, preregistratie,
@@ -95,12 +95,13 @@ Faculteit Psychologie en Pedagogische Wetenschappen
  Toledo
 • Leerplatform
 • Intensief gebruik:
-▪ Slides (op Toledo op maandag voor de les, update na de les)
-▪ Aankondigingen
-▪ Studiewijzer
-▪ Ondersteunend materiaal
-▪ Voorbeeldexamen
-▪ Forum
+Slides (op Toledo op maandag voor de les, update na de les)
+Aankondigingen
+Studiewijzer
+Ondersteunend materiaal
+Voorbeeldexamen
+Forum
+Etc.
 Faculteit Psychologie en Pedagogische Wetenschappen
  Toledo
 Faculteit Psychologie en Pedagogische Wetenschappen
@@ -139,11 +140,11 @@ Prof. Dr. Eva Van den Bussche
  Overzicht
 • Waarom een vak methoden?
 • Niet-wetenschappelijke methoden om kennis te vergaren
-▪ Vasthoudendheid (tenacity)
-▪ Intuïtie
-▪ Autoriteit
-▪ Rationalisme
-▪ Empirie
+Vasthoudendheid (tenacity)
+Intuïtie
+Autoriteit
+Rationalisme
+Empirie
 • De wetenschappelijke methode
 • De empirische cyclus
 Faculteit Psychologie en Pedagogische Wetenschappen

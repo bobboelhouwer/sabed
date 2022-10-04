@@ -15,6 +15,7 @@ Basis voor Wk+1
 • dus is {v1 … vk+1} een verzameling k+1 l.o.
 vectoren in Wk+1 en zijn ze hiervoor een basis
 Gram-Schmidt proces
+v
 • Eventueel vi normeren → orthonormale basis
 QR-decompositie/factorisatie
 • A een m x n matrix met l.o. kolommen

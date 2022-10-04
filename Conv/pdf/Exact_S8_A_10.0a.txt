@@ -72,8 +72,6 @@ P
 OCH3
 OH-
 OCH3
-Zwavel- en koolstofnucleofielen
-OCH3
 O
 CH3
 P
@@ -82,6 +80,8 @@ OCH3
 OCH3
 O
 P
+OCH3
+Zwavel- en koolstofnucleofielen
 OCH3
 Fosfaten en fosfaatesters
  ✓ reactie methionine met ATP

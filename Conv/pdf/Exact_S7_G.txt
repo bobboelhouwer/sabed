@@ -6,7 +6,6 @@ Samengestelde lineaire transformatie
 • Beschouw lineaire transformatie
 y
 • Beschouw lineaire transformatie
-p
 x
 Samengestelde
 lineaire
@@ -20,8 +19,9 @@ AB berekenen
 • Noteer de elementen van B  n×p als bij : (B)ij = bij
 Eigenschappen van het product van
 matrices
-• A, B, C matrices van geschikte afmeting
-• r is scalair
+Gevolg van AB = [Ab1 Ab2 … Abp]
+A, B, C matrices van geschikte afmeting
+r is scalair
 Aanvullingen
 Getransponeerde matrix
 • A een mxn matrix, dan is AT een nxm matrix gevormd

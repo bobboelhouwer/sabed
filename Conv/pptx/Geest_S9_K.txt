@@ -1,284 +1,237 @@
-Aanvullingen
-Responsie op
-ingangssignalen en begintoestand
-Responsie berekenen
-• Gegeven toestandsbeschrijving (A, B, C, D) ,
-• Toestandsbeschrijving
-• Exhaustieve berekening van x[k] en y[k]
-Voorbeeld
-Gegeven
-“Oplossen” toestandsvergelijking
-• Gegeven toestandsbeschrijving, u[k] en x[0], wat zijn x[k] en y[k] ?
-• Toestandsbeschrijving
-A
-Algemeen:
-• Uitgangssignaal
-Nulingangs- en nultoestandsrespons
-Nulingangsresponsie
-Nultoestandsresponsie
-• Nulingangsresponsie: y[k] als u[k]
-• Nultoestandsresponsie: y[k] als x[0] = 0
-Toestandsbeschrijving en
-gelijkvormige matrices
-Toestandsbeschrijving is niet uniek
-, np] een nxn inverteerbare matrix
-– Is verandering van coördinaten: w[k] zijn de coordinaten van x[k] in de
-basis {p
-Toestandsbeschrijving is niet uniek
-• In de nieuwe toestandsvector w[k] hebben we een
-equivalente toestandsbeschrijving:
-A en zijn gelijkvormig
-• Beide systemen zijn equivalent. Let wel op initiële
-toestand. Nulingangsresponsie:
-Zorg ervoor dat P w[0] = x[0], dan is ook P w[k] = x[k]
-voor k>0, en dus y[k]=
-Voorbeeld
-D
-D
-Voorbeeld (2)
-Kies
-zodat x[k] = P w[k]
-D
-D
-Toestandsbeschrijving en
-matrixdiagonalisatie
-Diagonaalvorm
-• Veronderstel dat A diagonaliseerbaar is
-• Kies P =1,[v... , nv] met iveigenvector van A met
-eigenwaarde
-• Voor SISO systeem:
-• Toestand i beinvloedt toestand
-≠i niet
-j
-Diagonaalvorm voor SISO systeem
-• Som van
-eerste-orde
-systemen
-• Plus directe
-verbinding
-met winst̅+
-Voorbeeld
-D
-D
-Minimaliteit
-Voor sommige systemen kan een
-/ * = 0. De toestandsveranderlijke
-wi[k] kan dan niet beïnvloed
-worden. Het systeem is niet
-controleerbaar.
-Voor sommige systemen kan een
-0̅* = 0. De toestandsveranderlijke
-wi[k] kan de uitvoer niet
-beïnvloeden. Het systeem is niet
-observeerbaar.
-Een systeem dat niet observeerbaar
-en/of niet controleerbaar is heet
-niet-minimaal. Hetzelfde ingangsuitgangsgedrag kan gerealiseerd
-worden met een kleiner aantal
-geheugenelementen.
-Inwendige (interne) stabiliteit
-• Een systeem is inwendig stabiel →
-als0 x[k]
-als k
-k
-w λnk vn
-• Inwendig instabiel zodra één
-• Inwendig stabiel
-Nulingangsresponsie
-Nulingangsresponsie
-Nultoestandsresponsie
-• Ak x[0] bestuderen
-A
-(c = rijvector; SISO system)
-Nulingangsresponsie
-k
-w λnk vn
-basis {v
-= P-1 x[k] is de coördinatenvector van x[k] in de
-k
-basis {v
-is een gewogen som van exponentiële functies in k
-Nulingangsresponsie
-Bijdragen tot nulingangsresponsie
-Attractor / aantrekker
-Inwendig stabiel
-Repeller / afstoter
-Inwendig onstabiel
-Saddle point / zadelpunt
-Inwendig onstabiel
-Complexe eigenwaarden
-ω is genormaliseerde frequentie. 0 < 7 < 1
-• Eigenvectoren
-i en
-i
-• Neem complex toegevoegde termen samen in
-E
-een reële rijvector;
-ccis
-E
-Re
-G
-Complexe eigenwaarden (2)
-G
-• Bijdrage door complexe eigenwaarde in y[k] is
-product van:
-k - zie
-o Exponentieel verloop
-r reële eigenwaarde
-o Golvend verloop (K
-cos
-Complexe eigenwaarden
-Inwendig stabiel
-Bijdrage tot nulingangsresponsie
-Canonieke vorm en
-differentievergelijking
-Canonieke vorm
-• Zoek transformatiematrix 1Q
-q] zodat door de
-n
-M
-gelijkvormigheidstransformatie:
-M
-R
-Mnoemen we een compagnon-matrix
-Men A hebben dezelfde K.P. want gelijkvormig
-• Constructie van Q – zie later
-Waarom die Ã O
-en
-Constructie van Q
-2de vergelijking:T
-T
-Constructie van Q
-U
-T
-PQ
-PQ
-Waarom die Ã O
-en
-w
-w
-w
-w
-w
-w
-w
-Waarom die Ã O
-en
-Dus:
-Uitgangsvergelijking:
-Herschrijf:
-w1[k] elimineren
-Differentievergelijking
-O
-O
-f
-• Rechtstreeks verband tussen u[k] en y[k]
-• Dit heet een differentievergelijking
-• Alternatief voor de toestandsbeschrijving
-• Is een verband tussen differentievergelijking en canonieke vorm
-• M.a.w.: gegeven een differentievergelijking
-f
-f
-f
-Dan komen daarmee toestandsbeschrijvingen overeen die allemaal dezelfde K.P.
-hebben:%! + PQ
-R
-• Ook: gegeven een toestandsbeschrijving (A, b, c, d), dan komt daarmee een
-differentievergelijking overeen waarbij
-dedeã coëfficiënten van de K.P.
-i ook
-van A zijn
-Voorbeeld
-X
-Y
-X
-Y
-Z
-PQ
-PQ
-Voorbeeld
-O
-Met Q =
-, canonieke vorm:
-D
-D
-Voorbeeld
-PQ
-D
-D
-de differentievergelijking gehaald uit de canonieke vorm
-Impulsresponsie en convolutie
-Impulsresponsie
-• Doel: berekenen van de responsie. We hadden al:
-Exhaustief
-• Nultoestandsimpulsrespons (impulsrespons) h[k] van
-een SISO DTLTI systeem is y[k] wanneer
-k
-k
-k
-Verschoven impuls
-k
-k
-k
-k
-Ontbinding u[k]
-Lineair en tijdsinvariant
-Convolutie
-• Formeel
-d
-efd
-d
-b
-Lineair
-Tijdsinvariant
-• Voor een systeem dat uit de nultoestand vertrekt !
-• y[k] is de convolutie van u[k] en h[k]
-• Uitvoer is convolutie van invoer en impulsresponsie
-Convolutie
-Neutraal element: a[k]
-Lineair:
-• Enkelzijdige signalen a[k] = b[k] = 0 voor k<0 :
-d
-E
-=aPb
-efd
-efR
-• Causaal systeem: h[k] = 0 voor k<0
-Geen respons vóór de excitatie
-Impulsresponsie
-Nulingangsresponsie
-Nultoestandsresponsie
-2 term blijft enkel index j=0 staan
-de term:
-cA
-b
-Voorbeeld
-d
-E
-E
-E
-E
-steorde
-Impulsresponsie van
-1 systeem
-b
-D
-c
-k
-op
-E
-cb
-c
-q
-E
-E
-E
-Vorm impulsresponsie
-cAvoor k > 0
-• Zelfde bespreking als nulingangsresponsie
-steorde systeem:λk-1
-cb, zie boven
-• Voor diagonaliseerbare A, som van:
-o Exponentiëel verloop
-λ complex)
-o Schommelend exponentiëel verloop
+Hoofdstuk 1.2
+De crisis van de moderniteit
+2. Weber
+3. Habermas
+• https://nl.wikipedia.
+org/wiki/Karl_Marx
+• Moderniteit en
+vervreemding
+Inspiratiebron: Ludwig Feuerbach,
+Das Wesen des Christentums (1841)
+• Religie is resultaat van projectie
+• Mens projecteert ideaalbeeld in
+God en onderwerpt zich aan dit
+beeld
+• Hoe rijker onze projectie van God,
+hoe armer we zelf worden
+Þ Mens herkent zich niet in eigen
+projecties
+Þ Vervreemding t.o.v. zichzelf
+ Feuerbach: mens terug centraal
+plaatsen
+Religie, arbeid en vervreemding
+• Religie en materiële omstandigheden
+• Religieuze vervreemding geworteld in
+maatschappelijke vervreemding
+• Vervreemding van de arbeid:
+– Ambachtsman realiseert zichzelf in zijn product
+– Arbeider wordt gescheiden van zijn product: toe-eigening
+door kapitalist
+– Arbeider wordt overheerst door zijn product (dat kapitaal
+wordt)
+– Arbeider herkent zichzelf niet meer in zijn product
+• Gevolg:
+– arbeider vervreemdt van zichzelf (want arbeid maakt de
+mens tot mens)
+• Algemener: we hebben een economisch systeem gecreëerd
+Parallel tussen:
+• Omkering in de religie: de mens maakt de religie,
+de religie maakt niet de mens.
+• Omkering in de kapitalistische maatschappij: de
+mens maakt het kapitaal, het kapitaal maakt niet
+de mens
+Religie is opium van het volk:
+• troostende illusie
+• …die tegelijk verhindert dat mensen hun echte
+situatie (bv. uitbuiting) nuchter onder ogen zien.
+Maar: impact van religie vermindert door
+modernisering
+Marx over moderniteit
+• Communistisch Manifest (1848): De motor
+van de geschiedenis is de klassenstrijd
+• ‘De geschiedenis van iedere maatschappij
+tot nu toe is de geschiedenis van de
+klassenstrijd. Vrije en slaaf, patriciër en
+plebejer, baron en lijfeigene, gildemeester
+en gezel, kortom onderdrukkers en
+onderdrukten stonden in voortdurende
+tegenstelling tot elkaar’
+• Moderne samenleving: de bourgeoisie
+speelt een revolutionaire rol
+• ‘De voortdurende omwenteling van de productie, de
+onafgebroken schok aan alle maatschappelijke toestanden,
+de eeuwige onzekerheid en beweging onderscheidt de
+bourgeoisperiode van alle andere. Alle vaste, ingeroeste
+verhoudingen met hun gevolg van eerbiedwaardige
+voorstellingen en zienswijzen worden opgelost, alle
+nieuwgevormde verouderen, voordat zij zich kunnen
+verstenen. Al het feodale en al het vaststaande
+verdampt, al het heilige wordt ontwijd, en de mensen
+zijn eindelijk gedwongen hun plaats in het leven, hun
+wederzijdse betrekkingen met nuchtere ogen te
+aanzien.’
+Þ‘Fluïditeit’ van de moderniteit
+ÞDesacralisering: we kijken steeds meer met ‘nuchtere’ blik’
+ 2. Weber
+• https://nl.wikipedia.
+org/wiki/Max_Webe
+r_(socioloog)
+• Moderniteit en
+rationalisering
+ 2. Weber
+Modernisering = rationalisering van het sociale
+handelen
+Rationalisering als overgang
+• Van handelen o.b.v. traditie en emotie =>
+abstracte, berekenbare regels
+• Bron van gezag: van religie =>
+gespecialiseerde wetenschap
+• Ideaal voor mens: gecultiveerde persoon =>
+getrainde expert
+=> Alles kan rationeel gepland en berekend
+worden.
+ 2. Weber
+Twee vormen van rationaliteit
+(1)Waarderationaliteit
+• Gericht op de intrinsieke waarde van een
+handeling
+• Bv. vegetarisme: je hele leven methodisch
+inrichten volgens een bepaalde waarde
+• Bv. politiek engagement: elke handeling
+van de politicus belichaamt zijn waarden en
+overtuigingen
+≠ efficiëntie
+ 2. Weber
+(2) Doelrationaliteit (= instrumentele
+rationaliteit, doel-middel denken,
+‘efficiëntiedenken’)
+• Middelen rationeel inzetten i.f.v. gegeven doel
+• Doel-middel afweging: zakelijke, berekenende
+houding
+• Bv. industrieel kapitalisme: arbeidsdeling,
+wetenschappelijk management
+Moderniteit: overwicht van doelrationaliteit
+ 2. Weber
+Gevolgen van rationalisering:
+(1) Onttovering (= desacralisering) van de
+werkelijkheid
+• Alles wordt object van berekening: dit zorgt voor
+betekenisverlies
+ 2. Weber
+(2) Sociale of functionele differentiatie
+• Premoderne samenleving: overkoepelend religieus
+betekenissysteem
+– Economie is ingebed in religieus zingevingskader; bv.
+intrest is verboden
+• Moderne samenleving: verlies aan overkoepelende
+betekenisorde
+– Elk sociaal domein ontwikkelt eigen methodes en
+principes: economie, recht, techniek, cultuur worden
+werelden apart
+– Bv. economie ontwikkelt zich los van religieuze
+bekommernissen
+– Doelrationalisering en verzakelijking in elk domein
+ 2. Weber
+(3) Bureaucratisering
+• Rationele organisatie in overheid of bedrijfsleven:
+arbeidsdeling; duidelijke hiërarchie; objectieve,
+algemene en onpersoonlijke regels
+• Positief:
+– geen persoonlijke afhankelijkheid zoals in
+feodalisme
+– objectiviteit, gelijke behandeling
+• Negatief:
+– depersonalisering, nl. uitschakeling van het
+individuele, de particuliere persoon: het individu
+wordt een radertje in de machine, een nummer
+– bureaucratische mentaliteit: afwentelen van je
+verantwoordelijkheid
+ 2. Weber
+• Reactie van het individu:
+vlucht naar de innerlijkheid:
+subjectieve belevingscultuur
+tegen verzakelijkte
+werkelijkheid
+Cf. belang van authenticiteit
+• https://nl.wikipedia.org/wiki/Franz
+_Kafka
+• Het proces, Het slot
+• Onpersoonlijke maatschappij
+en bureaucratie, impact op
+ 2. Weber
+Rationalisering en
+rationaliteit
+• Auschwitz als
+ir/rationele
+onderneming?
+aanvankelijk
+instrument van
+emancipatie en
+bevrijding, wordt
+instrument van
+onderdrukking
+ 2. Weber
+• Adolf Eichmann
+• Verantwoordelijk voor
+logistiek jodendeportaties
+WOII
+• Gevlucht naar Argentinië
+executie
+Hannah Arendt,
+Duits-Amerikaanse filosofe
+De ‘banaliteit van het kwaad’
+Eichmann deed wat hem werd
+opgedragen
+• https://nl.wikipedia.org/wiki/H
+ 2. Weber
+Hoe ver kan rationalisering gaan? Blijft er niet
+altijd iets ‘sacraals’? Leven en dood, liefde,
+Vincent van Gogh
+ 3. Habermas
+• https://nl.wikipedia.org/wiki
+/J%C3%BCrgen_Habermas
+• Moderniteit en kolonisering
+van de leefwereld
+ 3. Habermas
+• Wat betekent het om rationeel te zijn na
+Auschwitz?
+• Instrumentele vs communicatieve rationaliteit
+• Communicatieve rationaliteit:
+- rationele argumenten in dialoog om de ander te
+overtuigen (≠ retoriek, propaganda, manipulatief
+taalgebruik…)
+- alle claims kunnen ter discussie worden gesteld
+- gericht op consensus
+• Basis van dialoog = ‘leefwereld’: achtergrond van
+gedeelde betekenissen die wederzijds begrip
+mogelijk maken (cultuur)
+ 3. Habermas
+• In moderne samenleving komt samenwerking vaak tot
+stand op andere manieren dan via communicatie
+– Coördinatie tussen mensen via ‘sturingsmedia’ i.p.v.
+de taal, namelijk geld en macht
+– Deze zijn de basis van ‘systemen’: economie en
+politiek
+– Gedrag sturen aan de hand van geld i.p.v. argumenten
+– Coördinatie via de markt: vergt geen overleg of
+dialoog
+• Macht
+– Gedrag sturen op basis van macht i.p.v. argumenten
+– Bureaucratie, bv. in de overheid of het bedrijfsleven
+ 3. Habermas
+• ‘Kolonisering van de leefwereld’: het systeem
+(bv. de economie) ondermijnt de leefwereld
+• Aantasting van de zin of betekenis in de
+leefwereld:
+– Bv. patiënt is klant, verpleegkundigen hebben
+geen tijd meer voor communicatie
+– Bv. gezagsdrager dwingt ondergeschikte om
+opdracht uit te voeren, ook al heeft hij geen
+goede argumenten
+– Bv. burger wordt een ‘belastingbetaler’ of
+ 3. Habermas
+• Gevolgen van kolonisering leefwereld door
+economische en politieke systemen:
+– Wegvallen van sociale verbanden
+– Vervreemding
+– Sociale instabiliteit

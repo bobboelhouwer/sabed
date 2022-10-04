@@ -96,9 +96,9 @@ AV
  Techniek #4: Verplaatsbaarheid: Het middenveld
 VV
 Stef
+VV
 heeft
 dat
-VV
 MV
 gisteren met Bo
 Stef gisteren met Bo
@@ -140,24 +140,24 @@ heeft
 heeft
 heeft
 heeft
+MV1
 MV
 Najib de brief aan Paulien
 de brief Najib aan Paulien
 de brief aan Paulien Najib
-gegeven.
-gegeven.
-gegeven.
-AV
-MV1
 MV2
 altijd
 iemand gisteren
-gelegen.
-gesproken
-AV
+gegeven.
+gegeven.
+gegeven.
 MV3
 zand
 met Hans
+AV
+gelegen.
+gesproken
+AV
  Techniek #4: Verplaatsbaarheid: Het middenveld
 2. scene-setting adverbia
 VV
@@ -223,17 +223,17 @@ heb
 MV
 vaak
 de resultaten
-gedacht
-bekeken
-AV
-aan Jamila.
-van dat onderzoek.
 VV
 dat
 *dat
 MV
 Jamila Ilse
 Dirk vroeger
+gedacht
+bekeken
+AV
+aan Jamila.
+van dat onderzoek.
 heeft gezien
 woonde
 AV

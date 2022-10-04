@@ -99,14 +99,14 @@ hem niet.
 ik hem niet.
 AV
 UL
-AV
-van het nieuws
-van het nieuws
 breng
 breng
 MV
 ik hem
 ik hem
+AV
+van het nieuws
+van het nieuws
 UL
  Techniek #4: Verplaatsbaarheid: Extra posities: aanloop &
 uitloop
@@ -139,15 +139,15 @@ Ik
 ken
 ken
 breng
-MV
-hem niet,
-hem niet,
-hem daar/dat
 VV
 Ik
 Ik
 heb
 heb
+MV
+hem niet,
+hem niet,
+hem daar/dat
 MV
 er nog lang over
 nog lang
@@ -239,24 +239,24 @@ zinsdelen & verplaatsing
 Ik heb de moeder gezien van Raza.
  Techniek #4: Verplaatsbaarheid: Complicatie: gesplitste
 zinsdelen & verplaatsing
-Ik heb de moeder gezien van Raza.
 VV
+Ik heb de moeder gezien van Raza.
 MV
 AV
  Techniek #4: Verplaatsbaarheid: Complicatie: gesplitste
 zinsdelen & verplaatsing
-Ik heb de moeder gezien van Raza.
 VV
-Dat boek denk ik niet dat hij zal lezen.
+Ik heb de moeder gezien van Raza.
 MV
 AV
+Dat boek denk ik niet dat hij zal lezen.
  Techniek #4: Verplaatsbaarheid: Complicatie: gesplitste
 zinsdelen & verplaatsing
 Ik heb de moeder gezien van Raza.
 VV
+MV
+AV
 Dat boek denk ik niet dat hij zal lezen.
 VV
 MV
-MV
-AV
 AV

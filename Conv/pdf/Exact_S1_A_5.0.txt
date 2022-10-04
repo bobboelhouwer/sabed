@@ -143,8 +143,8 @@ toe in termen van evenwichtsconstanten.
 Wanneer we een evenwichtsreactie achterstevoren schrijven, dan nemen we voor de
 omgekeerde reactie de inverse van de evenwichtsconstante
 Kc
-c
 K
+c
 Kc
 Wanneer de voorgetallen in een reactievergelijking worden veranderd, dan vinden
 we deze factor terug in de exponent van de evenwichtsconstante
@@ -211,8 +211,8 @@ gassen in rekening brengen). Zie hiervoor ook paragraaf 4.6 uit hoofdstuk I.
 In bepaalde situaties (zie verder) dienen we in de uitdrukking van Kp partieeldrukken
 in te vullen in bar i.p.v. in kPa. Gezien 1 bar = 100 kPa bekomen we Kp (bar) voor het
 bovenstaande reactievoorbeeld
-PNH
 Algemeen:
+PNH
  Algemene Scheikunde : Hfst. VII Chemisch Evenwicht en Thermochemie
 Rekenen met evenwichten
 Berekenen van evenwichtsconcentraties en evenwichtspartieeldrukken
@@ -243,8 +243,9 @@ Rekenvoorbeeld: Voor de ontbinding van water is Kc = 6,0 10-28 (mol.l-1) bij 500
 Bereken de evenwichtsconcentraties aan H2 en O2 vetrekkende van 2 mol waterdamp in 5 l.
 start:
 Kc
-x
 Kc
+x
+x
 We bekomen een vergelijking van de 3de graad. Naarmate de voorgetallen in de reactievergelijking groter worden, worden we geconfronteerd met ingewikkelder mathematische opgaven. Eerder dan ons te wagen aan de exacte oplossing, proberen
 we ‘chemisch’ na te denken. We weten immers uit de bijzonder kleine waarde van de
 evenwichtsconstante dat slechts een onmeetbaar kleine hoeveelheid water zal worden omgezet en dat we (- 2 x) in de noemer van de uitdrukking Kc gerust kunnen
@@ -261,13 +262,13 @@ het over aan de lezer om uit te maken welke werkwijze het minste aantal berekeni
 2 NOCl(g)
 start:
 evenwicht
-Kc
 evenwicht
-Kc
 (kPa)
+Kc
 (via gaswet)
 2 NOCl(g)
 start:
+Kc
 p NO
 pCl2
 p NOCl
@@ -759,13 +760,13 @@ in standaardvoorwaarden, dan is voor iedere willekeurige reactie Q = 1
 Neem b.v.
 aA + bB
 cC + dD
-[A]a [B]b start
 Onder die voorwaarden wordt
 Voor een evenwicht dat vooral naar rechts is gelegen
 Een evenwicht dat matig naar rechts is gelegen
 Een evenwicht exact in het midden
 Een evenwicht in beperkte mate naar links
 Voor een evenwicht sterk naar links
+start
  Algemene Scheikunde : Hfst. VII Chemisch Evenwicht en Thermochemie
 In dit verband komt het begrip standaardvoorwaarde tot zijn volle betekenis. Voor
 opgeloste deeltjes hebben we de keuze voor de standaardconcentratie vastgelegd bij
@@ -850,8 +851,8 @@ meest stabiele samenstelling.
  Algemene Scheikunde : Hfst. VII Chemisch Evenwicht en Thermochemie
 Nemen we opnieuw
 v R
-R
 v L
+R
 L
 Bij een andere temperatuur veranderen de waarden voor G°R en G°L op een andere
 wijze afhankelijk van de entropie van S°R en S°L. Hierdoor komt het minimum in de

@@ -81,7 +81,11 @@ Matrix voor T tov basis 𝛃 en basis 𝛄
  Thm. 8 (hier geldt V=W)
 Stel T(x) = Ax en stel A = PDP-1 met P = [v1 v2 … vn] (= eigenvectoren van A).
 Bewijs:
+Stel x
+Dus x
  Vervolg bewijs:
+Av'
+Notatie: M)) = T
  5.5 Complexe eigenwaarden
 x
 Eigenwaarden 1+i, 1-i

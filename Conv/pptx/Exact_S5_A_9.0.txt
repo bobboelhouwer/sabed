@@ -1,284 +1,284 @@
-Aanvullingen
-Responsie op
-ingangssignalen en begintoestand
-Responsie berekenen
-• Gegeven toestandsbeschrijving (A, B, C, D) ,
-• Toestandsbeschrijving
-• Exhaustieve berekening van x[k] en y[k]
-Voorbeeld
-Gegeven
-“Oplossen” toestandsvergelijking
-• Gegeven toestandsbeschrijving, u[k] en x[0], wat zijn x[k] en y[k] ?
-• Toestandsbeschrijving
-A
-Algemeen:
-• Uitgangssignaal
-Nulingangs- en nultoestandsrespons
-Nulingangsresponsie
-Nultoestandsresponsie
-• Nulingangsresponsie: y[k] als u[k]
-• Nultoestandsresponsie: y[k] als x[0] = 0
-Toestandsbeschrijving en
-gelijkvormige matrices
-Toestandsbeschrijving is niet uniek
-, np] een nxn inverteerbare matrix
-– Is verandering van coördinaten: w[k] zijn de coordinaten van x[k] in de
-basis {p
-Toestandsbeschrijving is niet uniek
-• In de nieuwe toestandsvector w[k] hebben we een
-equivalente toestandsbeschrijving:
-A en zijn gelijkvormig
-• Beide systemen zijn equivalent. Let wel op initiële
-toestand. Nulingangsresponsie:
-Zorg ervoor dat P w[0] = x[0], dan is ook P w[k] = x[k]
-voor k>0, en dus y[k]=
-Voorbeeld
-D
-D
-Voorbeeld (2)
-Kies
-zodat x[k] = P w[k]
-D
-D
-Toestandsbeschrijving en
-matrixdiagonalisatie
-Diagonaalvorm
-• Veronderstel dat A diagonaliseerbaar is
-• Kies P =1,[v... , nv] met iveigenvector van A met
-eigenwaarde
-• Voor SISO systeem:
-• Toestand i beinvloedt toestand
-≠i niet
-j
-Diagonaalvorm voor SISO systeem
-• Som van
-eerste-orde
-systemen
-• Plus directe
-verbinding
-met winst̅+
-Voorbeeld
-D
-D
-Minimaliteit
-Voor sommige systemen kan een
-/ * = 0. De toestandsveranderlijke
-wi[k] kan dan niet beïnvloed
-worden. Het systeem is niet
-controleerbaar.
-Voor sommige systemen kan een
-0̅* = 0. De toestandsveranderlijke
-wi[k] kan de uitvoer niet
-beïnvloeden. Het systeem is niet
-observeerbaar.
-Een systeem dat niet observeerbaar
-en/of niet controleerbaar is heet
-niet-minimaal. Hetzelfde ingangsuitgangsgedrag kan gerealiseerd
-worden met een kleiner aantal
-geheugenelementen.
-Inwendige (interne) stabiliteit
-• Een systeem is inwendig stabiel →
-als0 x[k]
-als k
-k
-w λnk vn
-• Inwendig instabiel zodra één
-• Inwendig stabiel
-Nulingangsresponsie
-Nulingangsresponsie
-Nultoestandsresponsie
-• Ak x[0] bestuderen
-A
-(c = rijvector; SISO system)
-Nulingangsresponsie
-k
-w λnk vn
-basis {v
-= P-1 x[k] is de coördinatenvector van x[k] in de
-k
-basis {v
-is een gewogen som van exponentiële functies in k
-Nulingangsresponsie
-Bijdragen tot nulingangsresponsie
-Attractor / aantrekker
-Inwendig stabiel
-Repeller / afstoter
-Inwendig onstabiel
-Saddle point / zadelpunt
-Inwendig onstabiel
-Complexe eigenwaarden
-ω is genormaliseerde frequentie. 0 < 7 < 1
-• Eigenvectoren
-i en
+Les 9: Impuls
+1. Impuls en de relatie met kracht
+2. Behoud van impuls
+3. Botsingen en stoot
+4. Behoud van energie en impuls bij botsingen
+5. Elastische botsingen in één dimensie
+6. Niet-elastische botsingen
+7. Botsingen in twee of drie dimensies
+8. Massamiddelpunt
+9. Massamiddelpunt en translationele beweging
+10. Systemen met variabele massa; raketaandrijving
+Keigoede les
+Dynamica en energie, les 9
+ Herhaling
+houd van mechanische energie in een conservatief sys
+Behoud van energie in het algemeen
+ΔK + ΔU + (veranderingen van alle vormen
+van energie )= 0
+Dynamica en energie, les 9
+ Dynamica en energie, les 9
+ Dynamica en energie, les 9
+ 8.1 Impuls en de relatie met kracht
+Definitie van impuls p
+m de impuls van een voorwerp te veranderen, is een kracht
+Dynamica en energie, les 9
+ 8.1 Impuls en de relatie met kracht
+De snelheid van de verandering van de
+impuls van een voorwerp is gelijk aan de
+nettokracht die erop uitgeoefend wordt.
+Stel dat m=constante dan
+a
+Dynamica en energie, les 9
+ 8.1 Impuls en de relatie met kracht
+ave A: zeilen op zonlicht
+http://deredactie.be/cm/vrtnieuws/wetenschap/1.2627757
+https://videolab.avnet.kuleuven.be/video/?id=99f49f4938cabd140a05d
+7554720a78f&height=390&width=640&autoplay=false
+Dynamica en energie, les 9
+ 8.1 Impuls en de relatie met kracht
+ave A: zeilen op zonlicht
+Moet het materiaal, waaruit men het
+zonnescherm construeert, sterk
+absorberend of sterk reflecterend zijn
+om een maximale kracht van het
+zonlicht te kunnen opwekken?
+Dynamica en energie, les 9
+ Dynamica en energie, les 9
+ 8.1 Impuls en de relatie met kracht
+ave A: zeilen op zonlicht
+absorberend
+reflecterend
+Dynamica en energie, les 9
+ 8.1 Impuls en de relatie met kracht
+Voorbeeld 8.2
+Gegeven:
+1,5 kg water stroomt per s door de sla
+snelheid water = 20 m/s (horizontaal)
+Water komt tot stilstand op de wagen
+Verwaarloos de zwaartekracht dankzij
+korte tijdspanne van de botsing.
+Gevraagd:
+Fdoor het water op de auto = ?
+Dynamica en energie, les 9
+ 8.1 Impuls en de relatie met kracht
+Voorbeeld 8.1
+Oplossing
+Fdoor het water op de auto = - Fdoor de auto op het wa
+Fdoor de auto op het water =
+Pwater eind = 0 kg m/s
+Fdoor het water op de auto = - () = 30 N
+x
+Dynamica en energie, les 9
+ Dynamica en energie, les 9
+ 8.1 Impuls en de relatie met kracht
+Voorbeeld 8.1: als het water terugspettert
+Pwater eind = x < 0
+x
+Dynamica en energie, les 9
+ 8.2 Behoud van impuls
+oud van impuls (indien geen netto uitwendige krachte
+Dynamica en energie, les 9
+ 8.2 Behoud van impuls
+ewijs via de bewegingswetten van Newton
+Fdoor A op B = F =
+dt
+= constant
+Dynamica en energie, les 9
+ 8.2 Behoud van impuls
+Voorbeeld 8.3
+x
+Gegeven:
+De wagons haken aan elkaar
+vast na de botsing.
+Wrijving verwaarlozen dankzij
+korte tijdspanne van de botsin
+Gevraagd:
+Dynamica en energie, les 9
+ 8.2 Behoud van impuls
+Voorbeeld 8.3
+Oplossing:
+pbegin = peind
+x
+Dynamica en energie, les 9
+ Dynamica en energie, les 9
+ 8.2 Behoud van impuls
+Vergroten van de massa van wagon B?
+Oplossing:
+pbegin = peind
+x
+ v’ wordt kleiner want
+mA vA = constant
+Dynamica en energie, les 9
+ 8.2 Behoud van impuls
+Opgave C
+Iemand met een massa van 50kg rent met een
+snelheid van 2 m/s een steiger af en landt in een
+roeiboot met een massa van 150kg.
+Met welke snelheid beweegt de roeiboot weg van de
+kant?
+Dynamica en energie, les 9
+ Dynamica en energie, les 9
+ 8.2 Behoud van impuls
+Oplossing Opgave C
+pbegin = peind
+mpersoon vpersoon + mboot vboot = msamen vsamen
+vsamen = (mpersoon vpersoon)/msamen
+Dynamica en energie, les 9
+ 8.2 Behoud van impuls
+Opmerkingen
+1. Wat als er uitwendige krachten
+aanwezig zijn?
+Impulsen meten onmiddellijk voor en na de
+botsing!
+De kracht bij de botsing is op dat moment
+heel groot.
+Vb Kracht bij slag op tennisbal = enkele
+honderden N 𝐅
+dt
 i
-• Neem complex toegevoegde termen samen in
-E
-een reële rijvector;
-ccis
-E
-Re
-G
-Complexe eigenwaarden (2)
-G
-• Bijdrage door complexe eigenwaarde in y[k] is
-product van:
-k - zie
-o Exponentieel verloop
-r reële eigenwaarde
-o Golvend verloop (K
-cos
-Complexe eigenwaarden
-Inwendig stabiel
-Bijdrage tot nulingangsresponsie
-Canonieke vorm en
-differentievergelijking
-Canonieke vorm
-• Zoek transformatiematrix 1Q
-q] zodat door de
-n
-M
-gelijkvormigheidstransformatie:
-M
-R
-Mnoemen we een compagnon-matrix
-Men A hebben dezelfde K.P. want gelijkvormig
-• Constructie van Q – zie later
-Waarom die Ã O
-en
-Constructie van Q
-2de vergelijking:T
-T
-Constructie van Q
-U
-T
-PQ
-PQ
-Waarom die Ã O
-en
-w
-w
-w
-w
-w
-w
-w
-Waarom die Ã O
-en
-Dus:
-Uitgangsvergelijking:
-Herschrijf:
-w1[k] elimineren
-Differentievergelijking
-O
-O
-f
-• Rechtstreeks verband tussen u[k] en y[k]
-• Dit heet een differentievergelijking
-• Alternatief voor de toestandsbeschrijving
-• Is een verband tussen differentievergelijking en canonieke vorm
-• M.a.w.: gegeven een differentievergelijking
-f
-f
-f
-Dan komen daarmee toestandsbeschrijvingen overeen die allemaal dezelfde K.P.
-hebben:%! + PQ
-R
-• Ook: gegeven een toestandsbeschrijving (A, b, c, d), dan komt daarmee een
-differentievergelijking overeen waarbij
-dedeã coëfficiënten van de K.P.
-i ook
-van A zijn
-Voorbeeld
-X
-Y
-X
-Y
-Z
-PQ
-PQ
-Voorbeeld
-O
-Met Q =
-, canonieke vorm:
-D
-D
-Voorbeeld
-PQ
-D
-D
-de differentievergelijking gehaald uit de canonieke vorm
-Impulsresponsie en convolutie
-Impulsresponsie
-• Doel: berekenen van de responsie. We hadden al:
-Exhaustief
-• Nultoestandsimpulsrespons (impulsrespons) h[k] van
-een SISO DTLTI systeem is y[k] wanneer
-k
-k
-k
-Verschoven impuls
-k
-k
-k
-k
-Ontbinding u[k]
-Lineair en tijdsinvariant
-Convolutie
-• Formeel
-d
-efd
-d
-b
-Lineair
-Tijdsinvariant
-• Voor een systeem dat uit de nultoestand vertrekt !
-• y[k] is de convolutie van u[k] en h[k]
-• Uitvoer is convolutie van invoer en impulsresponsie
-Convolutie
-Neutraal element: a[k]
-Lineair:
-• Enkelzijdige signalen a[k] = b[k] = 0 voor k<0 :
-d
-E
-=aPb
-efd
-efR
-• Causaal systeem: h[k] = 0 voor k<0
-Geen respons vóór de excitatie
-Impulsresponsie
-Nulingangsresponsie
-Nultoestandsresponsie
-2 term blijft enkel index j=0 staan
-de term:
-cA
-b
-Voorbeeld
-d
-E
-E
-E
-E
-steorde
-Impulsresponsie van
-1 systeem
-b
-D
-c
-k
-op
-E
-cb
-c
-q
-E
-E
-E
-Vorm impulsresponsie
-cAvoor k > 0
-• Zelfde bespreking als nulingangsresponsie
-steorde systeem:λk-1
-cb, zie boven
-• Voor diagonaliseerbare A, som van:
-o Exponentiëel verloop
-λ complex)
-o Schommelend exponentiëel verloop
+2. Wat als er veel voorwerpen botsen?
+Dynamica en energie, les 9
+ 8.2 Behoud van impuls
+Conceptvoorbeeld
+Een lege slede glijdt wrijvingsloos over ijs.
+Suzanne valt vanuit een boom naar beneden en
+belandt op de slede.
+Zal de slede versnellen, vertragen of met
+dezelfde snelheid blijven bewegen?
+Dynamica en energie, les 9
+ Dynamica en energie, les 9
+ 8.2 Behoud van impuls
+Conceptvoorbeeld
+Suzanne valt vanuit een boom naar beneden en
+belandt op de slede.
+pbegin = peind
+mpersoon vpersoon + mslede vslede = msamen vsamen
+vsamen = (mslede vslede)/msamen
+vsamen < vslede
+Dynamica en energie, les 9
+ 8.2 Behoud van impuls
+Conceptvoorbeeld
+Een lege slede glijdt wrijvingsloos over ijs.
+Suzanne valt zijdelings van de slede af.
+Zal de slede versnellen, vertragen of met
+dezelfde snelheid blijven bewegen?
+Dynamica en energie, les 9
+ Dynamica en energie, les 9
+ 8.2 Behoud van impuls
+Conceptvoorbeeld
+Suzanne valt zijdelings van de slede af.
+pbegin = peinde
+msamen vsamen = mpersoon vpersoon + mslede vslede
+vpersoon na de val = vsamen want geen kracht op persoon
+vslede = ((msamen - mpersoon )/mslede ) vsamen
+vsamen = vslede
+Dynamica en energie, les 9
+ Dynamica en energie, les 9
+ 8.2 Behoud van impuls
+Antwoord
+pbegin = peinde
+(mstenen + mwagon) vsamen = mstenen vstenen + mwagon vwagon
+vwagon = (msamen vsamen - mstenen vstenen ) / mwagon
+negatief
+vwagon > vsamen
+x
+Dynamica en energie, les 9
+ Dynamica en energie, les 9
+ 8.2 Behoud van impuls
+Antwoord
+pbegin = peinde
+(mstenen + mwagon) vsamen = mstenen vsamen + mwagon vwagon
+vwagon = (msamen - mstenen )/mwagon ) vsamen
+vwagon = vsamen
+x
+Dynamica en energie, les 9
+ 8.4 Behoud van energie en impuls
+bij botsingen
+Elastische botsing
+= botsing waarbij de totale kinetische energie behouden blij
+Niet-elastische botsing
+= botsing waarbij een deel van de energie omgezet wordt,
+bijvoorbeeld in warmte.
+Merk op: de twee ballen laten elkaar na de botsing terug los
+Dynamica en energie, les 9
+ 8.4 Behoud van energie en impuls
+bij botsingen
+Elastische botsing
+= botsing waarbij de totale kinetische energie behouden blij
+Niet-elastische botsing
+= botsing waarbij een deel van de energie omgezet wordt,
+bijvoorbeeld in warmte.
+KA + KB = K’A + K’B + thermische en andere vormen van ener
+Dynamica en energie, les 9
+ 8.4 Behoud van energie en impuls
+bij botsingen
+Elastische botsing
+= botsing waarbij de totale kinetische energie behouden blij
+Niet-elastische botsing
+= botsing waarbij een deel van de energie omgezet wordt,
+bijvoorbeeld in warmte.
+Dynamica en energie, les 9
+ 8.4 Behoud van energie en impuls
+bij botsingen
+Elastische botsing
+= botsing waarbij de totale kinetische energie behouden blij
+Niet-elastische botsing
+= botsing waarbij een deel van de energie omgezet wordt,
+bijvoorbeeld in warmte.
+Dynamica en energie, les 9
+ 8.5 Elastische botsingen in 1
+dimensie
+houd van energie en behoud van impuls toepassen
+Dynamica en energie, les 9
+Relatieve snelheid =- (relatieve
+voor de botsing
+snelheid
+na de botsing)
+onafhankelijk van de massa’s!
+ 8.5 Elastische botsingen in 1
+dimensie
+Voorbeeld 8.7
+Gegeven:
+Twee identieke biljartballen botsen via elastische botsing
+a) vA en vB verschillend van 0 m/s
+Gevraagd:
+Dynamica en energie, les 9
+ 8.5 Elastische botsingen in 1
+dimensie
+Voorbeeld 8.7
+Dynamica en energie, les 9
+ 8.5 Elastische botsingen in 1
+dimensie
+Voorbeeld 8.8
+Gegeven:
+en zwaar bewegend voorwerp A botst elastisch in 1D tegen
+en licht stilstaand voorwerp B.
+Gevraagd:
+Dynamica en energie, les 9
+ 8.5 Elastische botsingen in 1
+dimensie
+Voorbeeld 8.8
+Dynamica en energie, les 9
+ 8.6 Niet-elastische botsingen
+Volkomen niet-elastische botsingen
+Voorbeelden
+Dynamica en energie, les 9
+ 8.7 Botsingen in 2 of 3 dimensies
+Dynamica en energie, les 9
+ 8.7 Botsingen in 2 of 3 dimensies
+mA vAx + mB vBx = mA v’Ax + mB v’Bx
+mA vAy+ mB vBy = mA v’Ay + mB v’By
+mA vAz+ mB vBz = mA v’Az + mB v’Bz
+Dynamica en energie, les 9
+ 8.8 Massamiddelpunt
+Niet kennen
+Dynamica en energie, les 9
+ 8.9 Massamiddelpunt en
+translationele beweging
+Niet kennen
+Dynamica en energie, les 9
+ 8.10 Systemen met variabele
+massa; raketaandrijving
+Niet kennen
+Dynamica en energie, les 9

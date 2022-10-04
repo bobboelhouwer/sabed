@@ -1,284 +1,231 @@
-Aanvullingen
-Responsie op
-ingangssignalen en begintoestand
-Responsie berekenen
-• Gegeven toestandsbeschrijving (A, B, C, D) ,
-• Toestandsbeschrijving
-• Exhaustieve berekening van x[k] en y[k]
-Voorbeeld
-Gegeven
-“Oplossen” toestandsvergelijking
-• Gegeven toestandsbeschrijving, u[k] en x[0], wat zijn x[k] en y[k] ?
-• Toestandsbeschrijving
-A
-Algemeen:
-• Uitgangssignaal
-Nulingangs- en nultoestandsrespons
-Nulingangsresponsie
-Nultoestandsresponsie
-• Nulingangsresponsie: y[k] als u[k]
-• Nultoestandsresponsie: y[k] als x[0] = 0
-Toestandsbeschrijving en
-gelijkvormige matrices
-Toestandsbeschrijving is niet uniek
-, np] een nxn inverteerbare matrix
-– Is verandering van coördinaten: w[k] zijn de coordinaten van x[k] in de
-basis {p
-Toestandsbeschrijving is niet uniek
-• In de nieuwe toestandsvector w[k] hebben we een
-equivalente toestandsbeschrijving:
-A en zijn gelijkvormig
-• Beide systemen zijn equivalent. Let wel op initiële
-toestand. Nulingangsresponsie:
-Zorg ervoor dat P w[0] = x[0], dan is ook P w[k] = x[k]
-voor k>0, en dus y[k]=
-Voorbeeld
-D
-D
-Voorbeeld (2)
-Kies
-zodat x[k] = P w[k]
-D
-D
-Toestandsbeschrijving en
-matrixdiagonalisatie
-Diagonaalvorm
-• Veronderstel dat A diagonaliseerbaar is
-• Kies P =1,[v... , nv] met iveigenvector van A met
-eigenwaarde
-• Voor SISO systeem:
-• Toestand i beinvloedt toestand
-≠i niet
-j
-Diagonaalvorm voor SISO systeem
-• Som van
-eerste-orde
-systemen
-• Plus directe
-verbinding
-met winst̅+
-Voorbeeld
-D
-D
-Minimaliteit
-Voor sommige systemen kan een
-/ * = 0. De toestandsveranderlijke
-wi[k] kan dan niet beïnvloed
-worden. Het systeem is niet
-controleerbaar.
-Voor sommige systemen kan een
-0̅* = 0. De toestandsveranderlijke
-wi[k] kan de uitvoer niet
-beïnvloeden. Het systeem is niet
-observeerbaar.
-Een systeem dat niet observeerbaar
-en/of niet controleerbaar is heet
-niet-minimaal. Hetzelfde ingangsuitgangsgedrag kan gerealiseerd
-worden met een kleiner aantal
-geheugenelementen.
-Inwendige (interne) stabiliteit
-• Een systeem is inwendig stabiel →
-als0 x[k]
-als k
-k
-w λnk vn
-• Inwendig instabiel zodra één
-• Inwendig stabiel
-Nulingangsresponsie
-Nulingangsresponsie
-Nultoestandsresponsie
-• Ak x[0] bestuderen
-A
-(c = rijvector; SISO system)
-Nulingangsresponsie
-k
-w λnk vn
-basis {v
-= P-1 x[k] is de coördinatenvector van x[k] in de
-k
-basis {v
-is een gewogen som van exponentiële functies in k
-Nulingangsresponsie
-Bijdragen tot nulingangsresponsie
-Attractor / aantrekker
-Inwendig stabiel
-Repeller / afstoter
-Inwendig onstabiel
-Saddle point / zadelpunt
-Inwendig onstabiel
-Complexe eigenwaarden
-ω is genormaliseerde frequentie. 0 < 7 < 1
-• Eigenvectoren
-i en
-i
-• Neem complex toegevoegde termen samen in
-E
-een reële rijvector;
-ccis
-E
-Re
-G
-Complexe eigenwaarden (2)
-G
-• Bijdrage door complexe eigenwaarde in y[k] is
-product van:
-k - zie
-o Exponentieel verloop
-r reële eigenwaarde
-o Golvend verloop (K
-cos
-Complexe eigenwaarden
-Inwendig stabiel
-Bijdrage tot nulingangsresponsie
-Canonieke vorm en
-differentievergelijking
-Canonieke vorm
-• Zoek transformatiematrix 1Q
-q] zodat door de
+DEEL 1: Leven in een
+moderne maatschappij
+ Hoofdstuk 1.1
+Het moderne wereldbeeld
+Twee wereldbeelden
+Moderniteit
+Aristoteles
+Moderne wetenschap
+Moderne ervaring
+ 1. Twee wereldbeelden
+Lissabon 1 november 1755
+• Aardbeving Lissabon
+• Oordeel van God?
+• Einde der tijden
+nakend?
+• https://nl.wikipedia.org/
+wiki/Aardbeving_Lissab
+ 1. Twee wereldbeelden
+• Theodicee: rechtvaardiging
+van bestaan van goede God
+terwijl de wereld kwaad kent
+• God heeft de beste van alle
+mogelijke werelden
+geschapen
+• Een geschapen wereld is
+echter per definitie begrensd
+en onvolmaakt.
+• https://nl.wikipedia.org/wiki/
+Gottfried_Wilhelm_Leibniz
+ 1. Twee wereldbeelden
+• Satire op Leibniz, tegen religie en
+optimisme
+• Filosofieleraar Pangloss: ‘hij die
+alles goedpraat’
+• ‘Als dit de beste van alle mogelijke
+werelden is, hoe moeten die andere
+werelden er dan uitzien?’
+• ‘Ecrasez l'Infâme!’ (Vernietig het
+schandelijke bijgeloof)
+• https://nl.wikipedia.org/wiki/Voltaire
+ 2. Moderniteit
+• Desacralisering/onttovering. Wegvallen
+van omvattende
+betekenisorde
+• Rationalisering
+• Verwetenschappelijking
+• Secularisering
+• Individualisering
+ 2. Moderniteit
+• Ontdekkingsreizen (1492: Amerika)
+• Uitvindingen (boekdrukkunst, kompas)
+• Modern kapitalisme (handels- en
+geldeconomie versus grondeconomie)
+• Moderne staat (oorsprong van het recht is de
+wil van de soeverein, niet de natuur of God)
+• Reformatie (bijbel versus kerkgezag) en later
+secularisering
+• Moderne natuurwetenschap (Copernicus,
+Kepler, Galilei, Newton)
+• Filosofie: centrale rol van het subject (cf.
+Descartes, Kant)
+ 2. Moderniteit
+• Sleutelmoment: Verlichting (18de eeuw)
+– Kritisch, o.a. t.o.v. de traditie
+– Emancipatie, vooruitgangsgedachte
+– https://nl.wikipedia.org/wiki/Verlichting_(stroming)
+- Verlichting is het uittreden van de mens uit de
+onmondigheid die hij aan zichzelf te wijten heeft.
+- ‘Sapere aude’: durf je van je eigen verstand te
+bedienen
+- https://nl.wikipedia.org/wiki/Immanuel_Kant
+• Doorwerking tot op vandaag
+ Michelangelo, De schepping van
+ Daniel Defoe : Robinson Crusoe
+ 3. Aristoteles
+• https://nl.wikipedia.org/wiki/Arist
+oteles
+• Logica, biologie, psychologie,
+politiek, ethiek, astronomie,
+metafysica
+• Empirische methode
+• Inventariseren en classificeren
+(ordenen)
+• Zowel natuur (planten,
+dieren…) als politiek (regimes)
+• Geen experimenten, enkel
+observeren
+• Niet in labo, maar in open lucht
+ 3. Aristoteles
+• Aristoteles meet niet, zoekt geen wiskundige
+verbanden
+– Hoewel meetinstrumenten (bv. weegschaal)
+en wiskundige inzichten voorhanden waren
+• Aristoteles probeert veeleer de ‘essentie’ van
+de dingen te bepalen
+– onveranderlijk wezen: doel/functie
+• Eenheid en hiërarchie van de kennis
+– Alle weten vormt één systeem
+– Hiërarchisch geordend, b.v. biologie <
+fysica < metafysica
+ 3. Aristoteles
+Theorie van de vier oorzaken
+(1) De materiële oorzaak
+• ‘het bestanddeel waaruit iets ontstaat’:
+de materie
+• bv. het brons van een standbeeld
+(2) De formele oorzaak
+• de vorm
+• bv. de vorm van een standbeeld
+ 3. Aristoteles
+(3) De efficiënte of bewerkende oorzaak
+• ‘de bron van de verandering of rust’
+• bv. de beeldhouwer is de bewerkende
+oorzaak van het totstandkomen van het
+beeld
+• bv. vader in de voortplanting
+ 3. Aristoteles
+(4) De doeloorzaak
+• Alles in de werkelijkheid streeft vanuit
+zichzelf een doel (telos) na
+• Doel als streefdoel, gericht op
+vervolmaking
+– Bv. beeldhouwer heeft als doel beelden
+te maken
+– Bv. een eikel streeft ernaar een eik te
+worden, want de eikel is in potentie een
+eik (en niet een kastanjeboom)
+– Bv. de mens streeft ernaar zo volmaakt
+ 3. Aristoteles
+• Verklaring in termen van doeloorzaak =
+verklaring in termen van het doel (= het
+– Het wezen van een eend is zwemmer te
+zijn
+– Daartoe heeft de eend zwemvliezen
+nodig
+– Daarom is het ‘goed’ dat eenden
+zwemvliezen hebben
+Dankzij de zwemvliezen kan de eend haar17
+ 3. Aristoteles
+Aristoteles’ verklaringsmodel is teleologisch
+Teleologisch = vanuit het doel
+Waarom hebben mensen handen?
+Aristoteles:
+– ‘Anaxagoras zegt dat mensen de intelligentste dieren
+zijn omdat zij handen hebben; maar het ligt in de rede
+om aan te nemen dat ze handen hebben omdat ze
+het intelligentst zijn. Want handen zijn een werktuig,
+en de natuur wijst, net als een intelligent mens, elk
+ding altijd toe aan iets dat het kan gebruiken (…).
+(Als) de natuur datgene doet wat onder de
+omstandigheden het beste is, dan is de mens niet het
+intelligentst omdat hij handen heeft, maar heeft hij
+handen omdat hij het intelligentst van alle dieren is.’18
+ 3. Aristoteles
+• Doel (of het ‘goed’, of de bestemming) van
+de mens = rede of intelligentie realiseren.
+• Dat is (doel)oorzaak van feit dat mensen
+handen hebben.
+• Alles heeft een ‘natuurlijke’, juiste plaats,
+doel, bestemming
+– Bv. rook stijgt, steen valt naar beneden
+– De natuur doet niets zonder reden
+ 4. Moderne wetenschap
+• Nieuwe methodes
+– Experimenten
+– Meetinstrumenten
+– Mathematisering
+• Opsplitsing van het weten  premoderne synthese van
+het weten (bv. christelijke filosofie in de middeleeuwen)
+• Gericht op praktische toepassingen: technologie 
+contemplatie (=geluk ervaren door inzicht) in het
+premoderne denken
+– In de moderne tijd wordt de werkelijkheid manipuleerbaar,
+controleerbaar
+ 4. Moderne wetenschap
+• Modern, mechanisch wereldbeeld
+– Natuur als mechanisme ( premodern:
+organische opvatting van de natuur)
+• Verwerping van de premoderne
+teleologie
+– Bv. Darwin: natuur als resultaat van
+toevallige variatie en selectie (survival of
+the fittest),
+– https://nl.wikipedia.org/wiki/Charles_Darwi
 n
-M
-gelijkvormigheidstransformatie:
-M
-R
-Mnoemen we een compagnon-matrix
-Men A hebben dezelfde K.P. want gelijkvormig
-• Constructie van Q – zie later
-Waarom die Ã O
-en
-Constructie van Q
-2de vergelijking:T
-T
-Constructie van Q
-U
-T
-PQ
-PQ
-Waarom die Ã O
-en
-w
-w
-w
-w
-w
-w
-w
-Waarom die Ã O
-en
-Dus:
-Uitgangsvergelijking:
-Herschrijf:
-w1[k] elimineren
-Differentievergelijking
-O
-O
-f
-• Rechtstreeks verband tussen u[k] en y[k]
-• Dit heet een differentievergelijking
-• Alternatief voor de toestandsbeschrijving
-• Is een verband tussen differentievergelijking en canonieke vorm
-• M.a.w.: gegeven een differentievergelijking
-f
-f
-f
-Dan komen daarmee toestandsbeschrijvingen overeen die allemaal dezelfde K.P.
-hebben:%! + PQ
-R
-• Ook: gegeven een toestandsbeschrijving (A, b, c, d), dan komt daarmee een
-differentievergelijking overeen waarbij
-dedeã coëfficiënten van de K.P.
-i ook
-van A zijn
-Voorbeeld
-X
-Y
-X
-Y
-Z
-PQ
-PQ
-Voorbeeld
-O
-Met Q =
-, canonieke vorm:
-D
-D
-Voorbeeld
-PQ
-D
-D
-de differentievergelijking gehaald uit de canonieke vorm
-Impulsresponsie en convolutie
-Impulsresponsie
-• Doel: berekenen van de responsie. We hadden al:
-Exhaustief
-• Nultoestandsimpulsrespons (impulsrespons) h[k] van
-een SISO DTLTI systeem is y[k] wanneer
-k
-k
-k
-Verschoven impuls
-k
-k
-k
-k
-Ontbinding u[k]
-Lineair en tijdsinvariant
-Convolutie
-• Formeel
-d
-efd
-d
-b
-Lineair
-Tijdsinvariant
-• Voor een systeem dat uit de nultoestand vertrekt !
-• y[k] is de convolutie van u[k] en h[k]
-• Uitvoer is convolutie van invoer en impulsresponsie
-Convolutie
-Neutraal element: a[k]
-Lineair:
-• Enkelzijdige signalen a[k] = b[k] = 0 voor k<0 :
-d
-E
-=aPb
-efd
-efR
-• Causaal systeem: h[k] = 0 voor k<0
-Geen respons vóór de excitatie
-Impulsresponsie
-Nulingangsresponsie
-Nultoestandsresponsie
-2 term blijft enkel index j=0 staan
-de term:
-cA
-b
-Voorbeeld
-d
-E
-E
-E
-E
-steorde
-Impulsresponsie van
-1 systeem
-b
-D
-c
-k
-op
-E
-cb
-c
-q
-E
-E
-E
-Vorm impulsresponsie
-cAvoor k > 0
-• Zelfde bespreking als nulingangsresponsie
-steorde systeem:λk-1
-cb, zie boven
-• Voor diagonaliseerbare A, som van:
-o Exponentiëel verloop
-λ complex)
-o Schommelend exponentiëel verloop
+– Geen doelgerichtheid, geen ‘plan’ in de
+natuur. Niet ‘waarom’ (premoderne vraag),
+maar ‘hoe’ (moderne vraag)?
+• De (natuurlijke) werkelijkheid
+ 5. Moderne ervaring
+Moderne ervaring: contingentie, brute feiten, toeval,
+geen diepere betekenis
+https://nl.wikipedia.org/wiki/Albert_Camus
+• De mythe van Sisyphus:
+‘Er bestaat maar één werkelijk ernstig filosofisch probleem:
+de zelfmoord. Oordelen of het leven wel of niet de moeite
+waard is geleefd te worden, is antwoord geven op de
+fundamentele vraag van de filosofie. Al het andere – of de
+wereld drie dimensies, de geest negen of twaalf
+categorieën heeft – komt pas daarna. Dat is maar spel;
+eerst moet men antwoord geven. En als het waar is, zoals
+Nietzsche zegt, dat een filosoof, om gezag te hebben, zelf
+het voorbeeld moet geven, dan begrijpt men het belang 22
+van dit antwoord, omdat de beslissende daad er dan op
+ 5. Moderne ervaring
+De mythe van Sisyphus
+• Sisyphus: de beweging
+is eindeloos, heeft
+geen zin  Aristoteles
+• De zinvolheid van de
+werkelijkheid en van
+het leven is niet
+gegarandeerd
+ 5. Moderne ervaring
+• ‘(Sisyphus) is van oordeel dat alles goed is.
+Dit universum dat geen meester meer kent, is
+voor hem niet steriel noch betekenisloos. Elk
+stukje van dit rotsblok, elke steenscherf van
+dit in duisternis gehulde gebergte, vormt op
+zich een wereld. Het gevecht om de top te
+bereiken is genoeg om het hart van een mens
+te vullen. We moeten ons Sisyphus als een
+gelukkig mens voorstellen.’
+• Hoe omgaan met de absurditeit? Leven met
+tragiek
+• Sisyphus als held
+ 5. Moderne ervaring
+De mens wordt op zichzelf teruggeworpen
+De werkelijkheid verschijnt als vreemd
+De mens moet zelf betekenis scheppen
+‘Zingevingscrisis’

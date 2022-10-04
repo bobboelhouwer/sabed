@@ -23,8 +23,8 @@ Pentaan
 Hexaan
 7 CH3CH2CH2CH2CH2CH2CH3
 Heptaan
-8 CH3CH2CH2CH2CH2CH2CH2CH3
 Octaan
+8 CH3CH2CH2CH2CH2CH2CH2CH3
 Alkanen en cycloalkanen
  IUPAC-nomenclatuurregels:
 1. de uitgang van de naam is –aan

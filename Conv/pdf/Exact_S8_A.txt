@@ -139,8 +139,8 @@ sp3-orbitaal
 s-orbitaal
 sp3-s-s-binding
 sp3-orbitaal
-sp3-sp3-s-binding
 sp3-orbitaal
+sp3-sp3-s-binding
 p-orbitalen
 sp2-sp2-s- en
 p-p-p -binding
@@ -201,12 +201,14 @@ H
 H
 H
 H
+H
 H H
 H
 1,4-pentadieen
 Inleiding
  d) Alkadiënen
 Met geïsoleerde dubbele bindingen
+H
 C C C
 H
 H
@@ -454,6 +456,7 @@ CH
 C
 OH
 2-amino-3-hydroxypropaanzuur
+CH2
 OH
 O
 CH3
@@ -605,7 +608,8 @@ O estergroep
 ether
 C
 OR
-O
+fenylO
+substituent
 C ketonfunctie
 R
 O
@@ -613,7 +617,6 @@ C
 H
 Inleiding
 nitrilgroep
-fenylsubstituent
 aldehydefunctie
  Sterkte van inductief elektronengevende (+I) effecten
 H3C
@@ -791,8 +794,8 @@ OH
 OH
 CH 3 CH 2OH
 NO2
-Inleiding
 NO2
+Inleiding
 NO2
 NO2
  Invloed van mesomere effecten op zuurheid

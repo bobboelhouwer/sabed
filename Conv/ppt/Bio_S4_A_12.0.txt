@@ -1,284 +1,415 @@
-Aanvullingen
-Responsie op
-ingangssignalen en begintoestand
-Responsie berekenen
-• Gegeven toestandsbeschrijving (A, B, C, D) ,
-• Toestandsbeschrijving
-• Exhaustieve berekening van x[k] en y[k]
-Voorbeeld
-Gegeven
-“Oplossen” toestandsvergelijking
-• Gegeven toestandsbeschrijving, u[k] en x[0], wat zijn x[k] en y[k] ?
-• Toestandsbeschrijving
-A
-Algemeen:
-• Uitgangssignaal
-Nulingangs- en nultoestandsrespons
-Nulingangsresponsie
-Nultoestandsresponsie
-• Nulingangsresponsie: y[k] als u[k]
-• Nultoestandsresponsie: y[k] als x[0] = 0
-Toestandsbeschrijving en
-gelijkvormige matrices
-Toestandsbeschrijving is niet uniek
-, np] een nxn inverteerbare matrix
-– Is verandering van coördinaten: w[k] zijn de coordinaten van x[k] in de
-basis {p
-Toestandsbeschrijving is niet uniek
-• In de nieuwe toestandsvector w[k] hebben we een
-equivalente toestandsbeschrijving:
-A en zijn gelijkvormig
-• Beide systemen zijn equivalent. Let wel op initiële
-toestand. Nulingangsresponsie:
-Zorg ervoor dat P w[0] = x[0], dan is ook P w[k] = x[k]
-voor k>0, en dus y[k]=
-Voorbeeld
-D
-D
-Voorbeeld (2)
-Kies
-zodat x[k] = P w[k]
-D
-D
-Toestandsbeschrijving en
-matrixdiagonalisatie
-Diagonaalvorm
-• Veronderstel dat A diagonaliseerbaar is
-• Kies P =1,[v... , nv] met iveigenvector van A met
-eigenwaarde
-• Voor SISO systeem:
-• Toestand i beinvloedt toestand
-≠i niet
-j
-Diagonaalvorm voor SISO systeem
-• Som van
-eerste-orde
-systemen
-• Plus directe
-verbinding
-met winst̅+
-Voorbeeld
-D
-D
-Minimaliteit
-Voor sommige systemen kan een
-/ * = 0. De toestandsveranderlijke
-wi[k] kan dan niet beïnvloed
-worden. Het systeem is niet
-controleerbaar.
-Voor sommige systemen kan een
-0̅* = 0. De toestandsveranderlijke
-wi[k] kan de uitvoer niet
-beïnvloeden. Het systeem is niet
-observeerbaar.
-Een systeem dat niet observeerbaar
-en/of niet controleerbaar is heet
-niet-minimaal. Hetzelfde ingangsuitgangsgedrag kan gerealiseerd
-worden met een kleiner aantal
-geheugenelementen.
-Inwendige (interne) stabiliteit
-• Een systeem is inwendig stabiel →
-als0 x[k]
-als k
-k
-w λnk vn
-• Inwendig instabiel zodra één
-• Inwendig stabiel
-Nulingangsresponsie
-Nulingangsresponsie
-Nultoestandsresponsie
-• Ak x[0] bestuderen
-A
-(c = rijvector; SISO system)
-Nulingangsresponsie
-k
-w λnk vn
-basis {v
-= P-1 x[k] is de coördinatenvector van x[k] in de
-k
-basis {v
-is een gewogen som van exponentiële functies in k
-Nulingangsresponsie
-Bijdragen tot nulingangsresponsie
-Attractor / aantrekker
-Inwendig stabiel
-Repeller / afstoter
-Inwendig onstabiel
-Saddle point / zadelpunt
-Inwendig onstabiel
-Complexe eigenwaarden
-ω is genormaliseerde frequentie. 0 < 7 < 1
-• Eigenvectoren
-i en
-i
-• Neem complex toegevoegde termen samen in
-E
-een reële rijvector;
-ccis
-E
-Re
-G
-Complexe eigenwaarden (2)
-G
-• Bijdrage door complexe eigenwaarde in y[k] is
-product van:
-k - zie
-o Exponentieel verloop
-r reële eigenwaarde
-o Golvend verloop (K
-cos
-Complexe eigenwaarden
-Inwendig stabiel
-Bijdrage tot nulingangsresponsie
-Canonieke vorm en
-differentievergelijking
-Canonieke vorm
-• Zoek transformatiematrix 1Q
-q] zodat door de
-n
-M
-gelijkvormigheidstransformatie:
-M
-R
-Mnoemen we een compagnon-matrix
-Men A hebben dezelfde K.P. want gelijkvormig
-• Constructie van Q – zie later
-Waarom die Ã O
-en
-Constructie van Q
-2de vergelijking:T
-T
-Constructie van Q
-U
-T
-PQ
-PQ
-Waarom die Ã O
-en
-w
-w
-w
-w
-w
-w
-w
-Waarom die Ã O
-en
-Dus:
-Uitgangsvergelijking:
-Herschrijf:
-w1[k] elimineren
-Differentievergelijking
-O
-O
-f
-• Rechtstreeks verband tussen u[k] en y[k]
-• Dit heet een differentievergelijking
-• Alternatief voor de toestandsbeschrijving
-• Is een verband tussen differentievergelijking en canonieke vorm
-• M.a.w.: gegeven een differentievergelijking
-f
-f
-f
-Dan komen daarmee toestandsbeschrijvingen overeen die allemaal dezelfde K.P.
-hebben:%! + PQ
-R
-• Ook: gegeven een toestandsbeschrijving (A, b, c, d), dan komt daarmee een
-differentievergelijking overeen waarbij
-dedeã coëfficiënten van de K.P.
-i ook
-van A zijn
-Voorbeeld
-X
-Y
-X
-Y
-Z
-PQ
-PQ
-Voorbeeld
-O
-Met Q =
-, canonieke vorm:
-D
-D
-Voorbeeld
-PQ
-D
-D
-de differentievergelijking gehaald uit de canonieke vorm
-Impulsresponsie en convolutie
-Impulsresponsie
-• Doel: berekenen van de responsie. We hadden al:
-Exhaustief
-• Nultoestandsimpulsrespons (impulsrespons) h[k] van
-een SISO DTLTI systeem is y[k] wanneer
-k
-k
-k
-Verschoven impuls
-k
-k
-k
-k
-Ontbinding u[k]
-Lineair en tijdsinvariant
-Convolutie
-• Formeel
-d
-efd
-d
-b
-Lineair
-Tijdsinvariant
-• Voor een systeem dat uit de nultoestand vertrekt !
-• y[k] is de convolutie van u[k] en h[k]
-• Uitvoer is convolutie van invoer en impulsresponsie
-Convolutie
-Neutraal element: a[k]
-Lineair:
-• Enkelzijdige signalen a[k] = b[k] = 0 voor k<0 :
-d
-E
-=aPb
-efd
-efR
-• Causaal systeem: h[k] = 0 voor k<0
-Geen respons vóór de excitatie
-Impulsresponsie
-Nulingangsresponsie
-Nultoestandsresponsie
-2 term blijft enkel index j=0 staan
-de term:
-cA
-b
-Voorbeeld
-d
-E
-E
-E
-E
-steorde
-Impulsresponsie van
-1 systeem
-b
-D
-c
-k
-op
-E
-cb
-c
-q
-E
-E
-E
-Vorm impulsresponsie
-cAvoor k > 0
-• Zelfde bespreking als nulingangsresponsie
-steorde systeem:λk-1
-cb, zie boven
-• Voor diagonaliseerbare A, som van:
-o Exponentiëel verloop
-λ complex)
-o Schommelend exponentiëel verloop
+Prenatale en preïmplantatie diagnos
+ ECHOGRAFIE
+Beeldvorming via
+ultratonen
+ ECHOGRAFIE
+elgie: 3 echo’s terugbetaald
+1-14 weken: zwduur, evolutie, meerling, NT
+0 weken: fetale anatomie
+2 weken: groei /placenta-lokalisatie
+ Trisomie 21 (Down syndroom)
+Incidentie: 1/800 geboorten
+Invasieve tests risico op miskraam van 0.5 - 1%
+ Daarom ontwikkeling van
+screening
+of risicoberekening
+Eerste trimester : nekplooi +
+biochemie
+Tweede trimester : triple test
+ Eerste trimester
+Nuchale Translucentie:11-14w
+ Eerste trimester:
+uchale translucentie/zw duur/leeftijd
+etectie 75% t21
+5% vals positief
++ biochemie:
+MS Papp-A / freeB-HCG
+detectie 90% t21
+5% vals positief
++ fetaal neusbeen
+detectie 97% t21
+5% vals positief
+olaides,Ultr.Obstet.Gynecol.,2003;21:313-321
+ Bij afwijkende screening
+wordt vlokkentest (10-13 weken)
+of vruchtwaterpunctie (15-18 weken)
+voorgesteld (diagnose)
+ INDICATIES voor invasief prenataal onderzoek
+- abnormale screening (triple-nekplooi)
+abnormaal resultaat NIPT
+- leeftijd (Belgie >35 jaar)
+- vorig kind met numerieke chromosomenfout
+- ouders met structurele chromosomenfout
+- monogeen overerfbare aandoeningen
+- echografische afwijkingen
+ Vlokkentest / chorionvillusbiopsie
+• Vanaf 10 weken
+• transabdominaal-transcervicaal
+• miskraamrisico: 1%
+• Chromosomen (array CGH)
+  Center: mesenchym core met capillairen
+met fetaal bloed
+Buitenlaag: syncytiotrofoblast
+Binnenlaag mitotisch actieve cytotrofoblast
+ Vruchtwaterpunktie / amniocentesis
+vanaf 15 weken
+•Chromosomen (array CGH)
+•miskraamrisico: 0.5 %
+ vruchtwaterpunktie
+Vanaf 2010: array CGH
+   PT : niet invasieve prenatale testing
+PD : niet invasieve prenatale diagno
+PS : niet invasieve prenatale screeni
+ cell free fetal DNA : cff DNA
+cell free DNA : cf DNA
+ RSPRONG cff DNA : APOPTOTISCHE TROFOBLASTCELL
+apoptotische foetaal
+trofoblastcellen
+bloed
+trofoblast
+Chorion villus
+materneel
+bloed
+ DNA
+DNA en histonen : nucleosomen
+Apoptose
+DNA
+ragmentatie
+DNA fragmenten van +/-140-180 baseparen
+ MATERNE
+EL
+plasma :
+cell free DNA
+FOETAAL
+ e fractie
+% cf DNA van foetale oorspro
+• grote range
+voor NIPT
+pat1
+pat2
+pat3
+pat4
+ ntwikkeling van nieuwe niet-invasieve technieken:
+ij DNA van de fetus in het bloed van de moeder:
+t kan gebruikt worden voor het opsporen
+an mutaties geërfd van vader/bloedgroep/Y-chrom
+ sporen mutaties die afkomstig zijn van vader
+ IPT: niet-invasievetechniek
+prenatale test
+Isoleren cf DNA
+Massief parallel sequeneren :
+sequentie van >5 miljoen DNA
+molecules
+ atie studie 285 stalen
+Aantal “reads”
+per staal
+aantal gesequeneerde
+DNA molecules
+per staal
+= =aantal
+gesequeneerde
+DNA mol
+minstens
+Minstens 57miljoen
+miljoen
+“mapping”
+= plaatsen van de sequenties
+op elk van de 24 chromosomen
+waarvan ze afkomstig zijn
+chr1
+Chr2 enz.
+ aantal
+sequenti
+es
+chr
+chr2
+enz.
+Tellen :
+aantal sequenties
+per chromosoom
+Chromosoom nummer
+ ANALYSE
+% bases
+per
+chromos.
+Genormaliseerd
+per staal
+interindividuele
+variatie
+per chromosoom
+is zéér beperkt!
+8 stalen
+ Genormaliseerd per
+chromosoom
+interindividuele
+variatie
+per chromosoom
+is zéér beperkt!
+ teveel reads van één bepaald chromosoom =
+trisomie
+te weinig reads van een bepaald chromosom
+= monosomie
+foetus nr
+foetus nr 5
+chromosoom
+ NIPT in the Centre for Human
+Genetics, Leuven
+Counseling
+Risk
+assessment
+Blood
+sampling
+‘cfDNA
+tubes’
+Validated &
+Accredited
+November 2013
+Plasma
+isolation
+Cell-free DNA
+extraction
+mother + fetus
+Sequencing
+Bioinformatics - Data
+analysis
+(Bayindir et al., 2015)
+Centre for Human Genetics, Leuven
+Pool 23
+samples
+>7 million
+reads
+Library
+preparation
+ NIPT genome-wide profile per
+patient
+ oetale bevindingen
+ecurrente microdeletie/microduplicatiesyndromen: vb Smith Magenis
+NIPT
+(placenta
+ Independent blood sampling shows
+reproducible abnormal NIPT profile
+ Maternal cancer
+high grade serous ovarian cancer
+Whole body MRI
+Genome-wide NIPT profile
+Before treatment
+After 1st course of treatment
+ 2. Pre-implantatie Genetische Test (PGT)
+ Wat is PGT?
+• genetische diagnose op 1 (of meerdere) cellen van een embryo bekomen
+via IVF/ICSI
+• Bij koppels met een hoog genetisch risico op een “ernstige” aandoening
+• Kind met genetische aandoening
+• Eén van de partners heeft een genetische aandoening
+• Via familie-onderzoek werd dragerschap van een genetische
+aandoening vastgesteld
+• Enkel indien het genetisch defect gekend is
+• Doel: “gezonde” embryo’s terugplaatsen
+• “vroege PND”, die TOP vermijdt maar wel IVF vraagt
+ Indicaties voor PGT
+Monogeen
+• Autosomaal dominant (ook voor late-onset aandoeningen)
+• Autosomaal recessief
+• X-gebonden
+Chromosomaal
+Reciproke translocatie
+Robertsoniaanse translocatie
+Microdeletie
+Complexe chromosoomafwijkingen
+Inversies
+ Top 20 indicaties in UZ Leuven
+BRCA2
+BRCA1
+PKD1
+FMR1
+NF1
+DMPK
+CFTR
+HTT
+C9ORF72
+EXT1
+HBB
+DUX4
+(FSHD)
+CMT1A
+DMD
+MYBPC3
+PSEN1
+SCN5A
+APC
+Borst en eierstok-kanker
+Borst en eierstok-kanker
+Polycystische nieren ADPKD
+Fragiele-X syndroom
+Neurofibromatosis type 1
+Steinert/ myotone dystrofie
+Mucoviscidose
+Huntington
+ALS
+Exostose – multipele type 1
+Sikkelcelanemie / Beta-thalassemie
+Facio-Scapulo-Humeral musculaire dystrofie FSHD
+Charcot-Marie-Tooth disease, type 1A
+Becker/ Duchenne Musculaire Dystrofie
+Hemofilie A
+Cardiomyopathie hypertrofe, HCM
+Alzheimer
+Brugada syndroom
+Familiale Adenomateuse Polypose
+ Ethische overwegingen ivm indicatiestelling
+• UZ Leuven
+• Aandoeningen die niet ernstig of behandelbaar zijn, bvb hemochromatose > geen prenatale diagnose, geen PGT
+• Zeer ernstige aandoeningen, bvb mucoviscidose, ziekte van Duchenne ->
+prenatale diagnose/PGT mogelijk
+• Ernstige aandoeningen zonder ID of mortaliteit bij kinderen, bvb BRCA1/2,
+doofheid -> wel PGT, geen prenatale diagnose
+• Geen consensus in België: Sommige centra bieden prenatale
+diagnose aan voor alle aandoeningen waarvoor PGT wordt
+aangeboden
+ Aanpak bij vraag voor nieuwe aandoening
+• Indien duidelijk zeer ernstige aandoening: ok
+• Bij twijfel
+• Bespreking stafvergadering genetica
+• Bespreking specialist discipline
+• Indien geen consensus: ad hoc ethisch comité
+ Genetische raadpleging: Reproductieve opties
+Reproductieve opties voor koppel met hoog herhalingsrisico
+voor erfelijke aandoening
+Risico nemen
+Prenatale diagnose
+Preimplantatie genetische testing
+Kinderloos blijven
+Gebruik van donorgameten
+Adoptie
+Hoe tot een keuze komen?
+Keuze gebaseerd op correcte informatie
+Best afspraak in genetisch centrum bij kinderwens
+Onderling overleg koppel
+Mogelijkheid van gesprek met psychosociaal medewerker
+ PGT procedure
+Genetische analyse
+op D5 morfologisch goedgekeurde embryo’s
+TAT 1 maand
+Dag 0
+Eicelaspirat
+ie
+Verwerking
+sperma
+‘geneti
+sch
+normal
+embryo
+Ontdooicyclus
+Embryo
+biopsie
+Invriezen van
+morfologisch goedgekeurde embryo’s
+ICS
+I
+Dag 1
+Dag 2
+Dag 3
+Dag 4
+Embryo ontwikkeling en
+evaluatie
+Embryo transfer volgend cyclus
+ observed cumulative delivery rates in different age groups
+<25years
+PGD treatment cycle
+Verpoest et al., Hum Reprod 2009
+ Wat met overblijvende embryo’s?
+Aangetaste / Abnormale/Slechte kwaliteit embryo’s:
+• Vernietiging
+• Wetenschappelijk onderzoek
+Gezonde embryo’s:
+• Cryopreservatie
+• Nadien:
+• Vernietiging
+• Wetenschappelijk onderzoek
+• (embryodonatie)
+ Kosten
+• In België terugbetaling labokosten + medicatie IVF/ICSI cycli voor
+maximaal 6 behandelcycli met eicelaspiratie
+• Forfaitair bedrag voor embryobiopsie aangerekend aan patiënt
+ Specifieke topics
+• PGT exclusietesting
+• Transferbeleid bij X gebonden aandoeningen
+ Speciale vorm van PGT: PGT exclusie
+Wat als er een sterke kinderwens is voor een biologisch eigen kind?
+Maar een predictieve test echt niet haalbaar lijkt?
+Mogelijkheid van PGT exclusie-testing
+ PGT exclusie: principe
+Er wordt geen predictieve test uitgevoerd.
+Patiënt weet niet of hij drager is.
+Labo en arts weten het ook niet.
+In de embryo’s wordt geselecteerd tegen het
+allel van de aangetaste grootouder.
+50% kans dat de procedure voor niets wordt
+uitgevoerd, als wensouder geen drager is
+niet-aangetaste embryo’s die worden vernietigd
+ PGT voor X-gebonden aandoeningen
+• Quid lot vrouwelijke draagsters?
+• Counseling ivm risico op ziektesymptomen (bvb hemofilie/DMD
+vs fragiele X)
+• Advies ethische commissie: Bij geslachtsgebonden
+aandoeningen, kunnen de resultaten van de PGT analyse - in
+de standaard terminologie worden gegeven als:
+1. pathologische variant van het gen niet aanwezig, (“unaffected”)
+2. pathologische variant aanwezig maar geen ziek fenotype te
+verwachten (bv vrouwelijke drager hemofilie) (“carrier”)-> KEUZE
+3. pathologische variant, met (risico op) ziek fenotype (“affected”):
+niet terugplaatsen.
+ PGT voor X-gebonden aandoeningen
+• KEUZE bij start behandeling na counseling op genetische
+raadpleging
+• Transferbeleid veranderen kan enkel bij start nieuwe cyclus na
+bijkomende counseling
+• Embryo’s die niet voldoen aan de criteria voor terugplaatsing
+worden onmiddellijk vernietigd (of gebruikt voor
+wetenschappelijk onderzoek).
+ PGT: beslissingsproces en psychosociale
+aspecten
+Belangrijkste factoren in besluitvorming
+PGT versus spontane zwangerschap zonder testing?
+Subjectieve ervaring van ernst van de aandoening: sterk afhankelijk
+van persoonlijke, eventueel familiale ervaring
+PGT versus prenatale test (met bedoeling tot TOP indien slecht resultaat)?
+Moreel verschil tussen embryoselectie en TOP
+ Motieven om voor PGT te kiezen
+• Kind beschermen voor de fysieke en psychische gevolgen van de
+aandoening
+• Aandoening uitroeien voor het volledige nageslacht: “de ziekte
+stoppen”
+• Gevoel van morele plicht om kinderen te beschermen voor lijden,
+gezien het risico dat ze kennen en de optie om het te vermijden
+• Vermijden om later schuldgevoelens te hebben tov kind – angst om
+later spijt te hebben voor de makkelijkere weg gekozen te hebben
+• Vermijden dat kind later voor zelfde reproductieve dilemma moet staan
+• TOP vermijden
+ Motieven om niet voor PGT te kiezen
+• Fysieke en psychische belasting van IVF behandeling terwijl er geen fertiliteitsprobleem is
+• Conceptie medicaliseren-romantiek verliezen- controle als koppel verliezen
+• Schuldgevoelens tov partner (zeker als man drager is)
+• Als er al een kind is: morele problemen tov PGT voor volgend kind
+• Angst dat PGT niet lukt, en wat dan? Zeker als er wens is voor groter gezin
+• Ethisch bezwaar tegen embryoselectie: embryo’s (toekomstige kinderen) die vernietigd
+worden
+• Praktische bezwaren: lage zwangerschapskansen, frequente ziekenhuisbezoeken,
+noodzaak om familieleden te betrekken bij testontwikkeling, lange duur van PGT traject
+• Variabele ernst van de aandoening: “Misschien valt het wel mee”
+• Geen garantie op gezond kind
+• Vertrouwen om een kind met de aandoening goed te kunnen begeleiden
+• Vertrouwen in medische vooruitgang en toekomstige therapeutische opties
+ Emotionele impact van beslissing voor PGT
+• Koppels bereiden zichzelf voor op fysieke en praktische last, maar
+geven aan dat ze psychologische impact onderschatten
+stress tijdens hormonale behandeling
+pick-up eicellen
+transfer embryo
+voor zwangerschapstest
+• Impact van PGT op relatie
+• spanning niet kunnen uitdrukken tov partner
+• Angst dat PGT niet zal lukken: Wat dan?
+• kinderloos blijven of minder ideale optie?
+• toch gevoel geprobeerd te hebben voor meest ideale optie?
+• tweede kind zonder PGT?

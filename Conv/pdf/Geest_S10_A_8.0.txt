@@ -20,6 +20,6 @@ badhanddoek
  Inleiding
 hiërarchische structuur
 hoofdigheid
-▶ compositionaliteit
-▶ structurele ambiguïteit
-▶ valentie & subcategorisatie
+compositionaliteit
+structurele ambiguïteit
+valentie & subcategorisatie

@@ -2,11 +2,11 @@ Aanvullende voorbeelden bij Hoofdstuk VI
 Voor de ontbindingsreactie van distikstofpentaoxide in stikstofdioxide en zuurstofgas
 werd de N2O5 concentratie i.f.v. de tijd gevolgd en dit leverde volgende resultaten op
 tijd ( s)
-(a) Bepaal de orde van bovenstaande reactie.
-(b) Bepaal de waarde van de reactiesnelheidsconstante.
-(c) Ga na met welke snelheid N2O5 verdwijnt na 300 s.
-(d) Bereken de halveringstijd.
-(e) Hoelang duurt het voor 80 % van N2O5 ontbonden is?
+Bepaal de orde van bovenstaande reactie.
+Bepaal de waarde van de reactiesnelheidsconstante.
+Ga na met welke snelheid N2O5 verdwijnt na 300 s.
+Bereken de halveringstijd.
+Hoelang duurt het voor 80 % van N2O5 ontbonden is?
 Oplossing
 (a) Om na te gaan of het gaat om een 0de, 1ste of 2de orde reactie, moeten volgende
 grafieken uitgezet worden
@@ -51,10 +51,10 @@ Voor de reactie
 waarvoor
 dt
 worden bij verschillende temperaturen de snelheidsconstanten 2,45 10-4 l.mol-1s-1 (bij
-(a) Bereken de waarde van de activeringsenergie Ea.
-(b) Bepaal de constante A uit de Arrheniusvergelijking.
-(c) Bereken de waarde van de reactiesnelheidsconstante k bij 375 °C.
-(d) Wanneer gestart wordt met 0,1 M H2, wat wordt de concentratie van H2 na 30 s
+Bereken de waarde van de activeringsenergie Ea.
+Bepaal de constante A uit de Arrheniusvergelijking.
+Bereken de waarde van de reactiesnelheidsconstante k bij 375 °C.
+Wanneer gestart wordt met 0,1 M H2, wat wordt de concentratie van H2 na 30 s
 bij een temperatuur van 375 °C.
 Oplossing
 (a) We maken gebruik van onderstaande vergelijking

@@ -1,284 +1,223 @@
-Aanvullingen
-Responsie op
-ingangssignalen en begintoestand
-Responsie berekenen
-• Gegeven toestandsbeschrijving (A, B, C, D) ,
-• Toestandsbeschrijving
-• Exhaustieve berekening van x[k] en y[k]
-Voorbeeld
-Gegeven
-“Oplossen” toestandsvergelijking
-• Gegeven toestandsbeschrijving, u[k] en x[0], wat zijn x[k] en y[k] ?
-• Toestandsbeschrijving
-A
-Algemeen:
-• Uitgangssignaal
-Nulingangs- en nultoestandsrespons
-Nulingangsresponsie
-Nultoestandsresponsie
-• Nulingangsresponsie: y[k] als u[k]
-• Nultoestandsresponsie: y[k] als x[0] = 0
-Toestandsbeschrijving en
-gelijkvormige matrices
-Toestandsbeschrijving is niet uniek
-, np] een nxn inverteerbare matrix
-– Is verandering van coördinaten: w[k] zijn de coordinaten van x[k] in de
-basis {p
-Toestandsbeschrijving is niet uniek
-• In de nieuwe toestandsvector w[k] hebben we een
-equivalente toestandsbeschrijving:
-A en zijn gelijkvormig
-• Beide systemen zijn equivalent. Let wel op initiële
-toestand. Nulingangsresponsie:
-Zorg ervoor dat P w[0] = x[0], dan is ook P w[k] = x[k]
-voor k>0, en dus y[k]=
-Voorbeeld
-D
-D
-Voorbeeld (2)
-Kies
-zodat x[k] = P w[k]
-D
-D
-Toestandsbeschrijving en
-matrixdiagonalisatie
-Diagonaalvorm
-• Veronderstel dat A diagonaliseerbaar is
-• Kies P =1,[v... , nv] met iveigenvector van A met
-eigenwaarde
-• Voor SISO systeem:
-• Toestand i beinvloedt toestand
-≠i niet
-j
-Diagonaalvorm voor SISO systeem
-• Som van
-eerste-orde
-systemen
-• Plus directe
-verbinding
-met winst̅+
-Voorbeeld
-D
-D
-Minimaliteit
-Voor sommige systemen kan een
-/ * = 0. De toestandsveranderlijke
-wi[k] kan dan niet beïnvloed
-worden. Het systeem is niet
-controleerbaar.
-Voor sommige systemen kan een
-0̅* = 0. De toestandsveranderlijke
-wi[k] kan de uitvoer niet
-beïnvloeden. Het systeem is niet
-observeerbaar.
-Een systeem dat niet observeerbaar
-en/of niet controleerbaar is heet
-niet-minimaal. Hetzelfde ingangsuitgangsgedrag kan gerealiseerd
-worden met een kleiner aantal
-geheugenelementen.
-Inwendige (interne) stabiliteit
-• Een systeem is inwendig stabiel →
-als0 x[k]
-als k
-k
-w λnk vn
-• Inwendig instabiel zodra één
-• Inwendig stabiel
-Nulingangsresponsie
-Nulingangsresponsie
-Nultoestandsresponsie
-• Ak x[0] bestuderen
-A
-(c = rijvector; SISO system)
-Nulingangsresponsie
-k
-w λnk vn
-basis {v
-= P-1 x[k] is de coördinatenvector van x[k] in de
-k
-basis {v
-is een gewogen som van exponentiële functies in k
-Nulingangsresponsie
-Bijdragen tot nulingangsresponsie
-Attractor / aantrekker
-Inwendig stabiel
-Repeller / afstoter
-Inwendig onstabiel
-Saddle point / zadelpunt
-Inwendig onstabiel
-Complexe eigenwaarden
-ω is genormaliseerde frequentie. 0 < 7 < 1
-• Eigenvectoren
-i en
-i
-• Neem complex toegevoegde termen samen in
-E
-een reële rijvector;
-ccis
-E
-Re
-G
-Complexe eigenwaarden (2)
-G
-• Bijdrage door complexe eigenwaarde in y[k] is
-product van:
-k - zie
-o Exponentieel verloop
-r reële eigenwaarde
-o Golvend verloop (K
-cos
-Complexe eigenwaarden
-Inwendig stabiel
-Bijdrage tot nulingangsresponsie
-Canonieke vorm en
-differentievergelijking
-Canonieke vorm
-• Zoek transformatiematrix 1Q
-q] zodat door de
-n
-M
-gelijkvormigheidstransformatie:
-M
-R
-Mnoemen we een compagnon-matrix
-Men A hebben dezelfde K.P. want gelijkvormig
-• Constructie van Q – zie later
-Waarom die Ã O
-en
-Constructie van Q
-2de vergelijking:T
-T
-Constructie van Q
-U
-T
-PQ
-PQ
-Waarom die Ã O
-en
-w
-w
-w
-w
-w
-w
-w
-Waarom die Ã O
-en
-Dus:
-Uitgangsvergelijking:
-Herschrijf:
-w1[k] elimineren
-Differentievergelijking
-O
-O
-f
-• Rechtstreeks verband tussen u[k] en y[k]
-• Dit heet een differentievergelijking
-• Alternatief voor de toestandsbeschrijving
-• Is een verband tussen differentievergelijking en canonieke vorm
-• M.a.w.: gegeven een differentievergelijking
-f
-f
-f
-Dan komen daarmee toestandsbeschrijvingen overeen die allemaal dezelfde K.P.
-hebben:%! + PQ
-R
-• Ook: gegeven een toestandsbeschrijving (A, b, c, d), dan komt daarmee een
-differentievergelijking overeen waarbij
-dedeã coëfficiënten van de K.P.
-i ook
-van A zijn
-Voorbeeld
-X
-Y
-X
-Y
-Z
-PQ
-PQ
-Voorbeeld
-O
-Met Q =
-, canonieke vorm:
-D
-D
-Voorbeeld
-PQ
-D
-D
-de differentievergelijking gehaald uit de canonieke vorm
-Impulsresponsie en convolutie
-Impulsresponsie
-• Doel: berekenen van de responsie. We hadden al:
-Exhaustief
-• Nultoestandsimpulsrespons (impulsrespons) h[k] van
-een SISO DTLTI systeem is y[k] wanneer
-k
-k
-k
-Verschoven impuls
-k
-k
-k
-k
-Ontbinding u[k]
-Lineair en tijdsinvariant
-Convolutie
-• Formeel
-d
-efd
-d
-b
-Lineair
-Tijdsinvariant
-• Voor een systeem dat uit de nultoestand vertrekt !
-• y[k] is de convolutie van u[k] en h[k]
-• Uitvoer is convolutie van invoer en impulsresponsie
-Convolutie
-Neutraal element: a[k]
-Lineair:
-• Enkelzijdige signalen a[k] = b[k] = 0 voor k<0 :
-d
-E
-=aPb
-efd
-efR
-• Causaal systeem: h[k] = 0 voor k<0
-Geen respons vóór de excitatie
-Impulsresponsie
-Nulingangsresponsie
-Nultoestandsresponsie
-2 term blijft enkel index j=0 staan
-de term:
-cA
-b
-Voorbeeld
-d
-E
-E
-E
-E
-steorde
-Impulsresponsie van
-1 systeem
-b
-D
-c
-k
-op
-E
-cb
-c
-q
-E
-E
-E
-Vorm impulsresponsie
-cAvoor k > 0
-• Zelfde bespreking als nulingangsresponsie
-steorde systeem:λk-1
-cb, zie boven
-• Voor diagonaliseerbare A, som van:
-o Exponentiëel verloop
-λ complex)
-o Schommelend exponentiëel verloop
+Tekstwetenschap 1
+Les 6 – discours en retorica – deel 2
+ Hedendaagse retorica
+en argumentatie
+ Definitie
+• “Argumentation is a verbal and social activity of reason
+aimed at increasing (or decreasing) the acceptability of a
+controversial standpoint for the listener or reader, by
+putting forward a constellation of propositions intended to
+justify (or refute) the standpoint before a rational judge
+• dialectiek vs retorica: focus op (inherente) kwaliteit van
+argumentatie vs focus op effectiviteit van argumentatie
+ Toulmin (1)
+• Uses of Argument (1958); reactie tegen formele logica
+• Uitgangspunten
+o
+o
+o
+standaards en waarden van praktisch redeneren zijn
+niet zuiver abstract en formeel
+‘soundness criteria’ hangen samen met aard van het
+probleem
+argumentatie betreft het rechtvaardigen van ‘claims’
+ Toulmin (2)
+• Kernconcepten
+o
+Verschillende types van claims
+• Feitelijke bewering (over verleden of heden), predictie, moreel
+oordeel, causaal oordeel, opinie, esthetisch oordeel
+o
+Field-invariant characteristics vs field-dependent
+characteristics
+• FI = procedure, modal force
+• FD = modal criteria, warrant, backing etc.
+ Model van Toulmin
+ New Rhetoric (1)
+• Perelman en Olbrechts-Tytica (1969). The New Rhetoric.
+(Franstalige tekst uit 1958)
+• “The study of discursive techniques allowing to induce or
+to increase the mind’s adherence to theses presented for
+• Uitgangspunten
+o
+o
+publiek ‘aanspreken’ en overtuigen via ‘plausibele’ argumenten –
+zoeken naar ‘common ground’ (context en waarden)
+argumenten zijn ‘persuasive’ voor een ‘particular audience’ of
+‘convincing voor een ‘universal audience’; publiek = (veranderlijk)
+construct van de argumenteerder
+ New Rhetoric (2)
+• Kernconcepten
+o
+Twee types van uitgangspunten
+• Feitelijke uitgangspunten: feiten, waarheden, veronderstellingen
+• Waardegebaseerde uitgangspunten: waarden, waardehiërarchieën, loci
+o
+o
+Aanvechtbaar omwille van status, relevantie of presentatie
+Argumentatieschema’s
+• Via associatie: quasi-logische argumentatie, argumentatie gebaseerd op de
+structuur van de realiteit, argumentatie die de realiteit herstructureert (op basis
+van voorbeeld of analogie)
+• Via dissociatie: een bestaand concept opsplitsen (schijnbaar vs eigenlijk)
+ New Rhetoric (3)
+• Illustratie: types van argumentatie gebaseerd op de
+structuur van de realiteit
+argumentation based on a sequential relation
+o
+cause and effect (i.e. pragmatic argumentation)
+o
+ends and means
+argumentation based on a coexistential relation
+o
+a person and his or her acts (i.e. argumentation from authority)
+o
+a group and its constituents
+o
+an essence and its manifestations
+o
+the symbol and the symbolized
+argumentation based on a combination of sequential and coexistential relations
+o
+double hierarchy argumentation
+o
+differences of degree
+o
+differences of order
+ Burke
+• A Grammar of Motives (1945)
+• Uitgangspunt: elk verhaal is eigenlijk retorisch
+• Dramatistic Pentad
+o
+o
+analysemodel om retorische focus te achterhalen
+5 componenten: Act, Scene, Actor, Agency, Purpose
+• David Ling's early analysis of Senator Edward Kennedy's speech on
+Chappaquiddick illustrates these functions: Faced with the act of leaving the
+scene of an accident that killed Mary Jo Kopechne, Kennedy directed attention to
+a scene of a narrow, unlighted bridge over cold, dark, rushing water that left him
+nearly drowned and not thinking straight. That terministic focus attempted to draw
+attention away from alternative terms, such as agent (Kennedy as irresponsible),
+agency (driving under the influence), attitude (careless), and so forth. It also
+sought to characterize a term (the scene, as life-threatening and overwhelming)
+and to characterize a terministic relationship (clearly implying that the scene
+controlled the act, as Kennedy staggered away in a daze).
+http://ac-journal.org/journal/vol1/iss3/burke/rountree.html
+ Radicaal argumentativisme
+• Anscombre en Ducrot (1976): L’argumentation dans la
+langue.
+• Uitgangspunt: zo goed als alle taalgebruik is argumentatief
+• Principes:
+o
+« il existe, en français, des expressions, ni marginales ni exceptionnelles,
+dont l'utilisation discursive est soumise à certaines restrictions impossibles
+à déduire de leur valeur informative, même en dilatant à l'extrême cette
+dernière notion. Plus précisément, dès qu'un énoncé les contient, on voit
+apparaître des contraintes sur le type de conclusions en faveur desquelles
+o
+“ Pour nous, il est constitutif du sens d'un énoncé de prétendre orienter la
+suite du dialogue. » (o.c.14)
+ Discourse historical approach
+• Benadering binnen de CDA
+• Reisigl and Wodak (2001)
+o
+o
+“gesitueerde” argumentatie: historische context
+Focus op inhoudelijke ‘topoi’ en ‘fallacies’ die in een
+corpus gehanteerd worden; ethische dimensie
+• “The two validity claims of (theoretical) truth and normative
+rightness are central in almost all DH studies.” (Reisigl, 2018:50)
+o
+Voorbeeld: populistische retoriek in Oostenrijk
+• Topos of ‘law and order’ – Fallacy: If I or we have the power, we
+will provide for/guarantee law and order.
+• Topos of ‘dirty politics’ – Fallacy: Since politics is a dirty
+business, we must clear up/have a clean-out/muck out the stable
+ Pragmadialectiek
+• “In the pragma-dialectical approach, argumentation is treated as part
+of a reasonable argumentative discourse aimed at resolving a
+difference of opinion.” (Van Eemeren en Grootendorst, 1995: 3)
+“In zijn pogingen om het tegelijkertijd nastreven van dialectische en
+retorische doelen met elkaar te verenigen – en mogelijke fricties
+tussen beide te verminderen – maakt hij gebruik van wat wij hebben
+genoemd strategisch manoeuvreren.” (Van Eemeren en Houtlosser,
+Instrumentarium:
+o Tien regels voor kritische discussie: b.v. je mag geen impliciete
+uitgangspunten als premisse hanteren
+o Fallacies (oneigenlijke argumentatie): b.v. ad hominem
+o Actietypes: adjudication, deliberation, disputation, communionseeking
+ Pragmadialectiek (2)
+RULE 7
+(b) The antagonist has successfully attacked the propositional content of the
+complex speech act of argumentation if the application of the intersubjective
+identification procedure yields a negative result and the protagonist has not
+successfully defended a positive sub-standpoint with regard to this
+propositional content in a sub-discussion
+(a) The protagonist has successfully defended the propositional content of a
+complex speech act of argumentation against an attack by the antagonist if the
+application of the intersubjective identification procedure yields a positive result
+or if the propositional content is in the second instance accepted by both
+parties as a result of a sub-discussion in which the protagonist has
+successfully defended a positive sub-standpoint with regard to this
+propositional content.
+ Pragmadialectiek (3)
+The Validity Rule (7) can be violated at the argumentation stage by the
+protagonist in a variety of ways. Some cases of logical invalidity occur
+regularly and are not always immediately recognized. Among them are
+confusing a necessary condition with a sufficient condition (or vice versa) in
+arguments with an “If . . ., then . . .” premise (affirming the consequent,
+denying the antecedent). Other violations amount, for instance, to erroneously
+attributing a (relative and structure-dependent) property of the constituent parts
+to the whole or vice versa (fallacies of composition and division).
+ domains of
+genres of
+communication communicative
+activity
+communicative
+activity types
+speech events
+legal
+communication
+adjudication
+- Criminal trial
+- civil court case
+- arbitration
+- summoning
+plea o/t defense at
+O.J. Simpson’s
+murder trial
+[criminal trial]
+political
+communication
+deliberation
+- American Presidential debate
+- general debate in
+the EParliament
+- PM Question Time
+1960 NixonKennedy
+debate [American
+presidential debate]
+academic
+communication
+disputation
+- book review
+- scientific paper
+- keynote speech
+Dr. Apt’s critique of
+Controversy and
+Confrontation [book
+review]
+interpersonal
+communication
+communionseeking
+- chat
+- love letter
+- party invitation
+Dima’s talk with
+Corina about how
+they spent the
+weekend [chat]
+ Kerngedachten hedendaagse retorica
+• argumentatie = ruimer dan ‘overtuigen’;
+• argumentatie = gesitueerd;
+• argumentatie = gericht op aanvaardbaarheid (eerder dan

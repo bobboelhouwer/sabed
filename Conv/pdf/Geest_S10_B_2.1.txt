@@ -18,9 +18,9 @@ Bijwoorden
 Tussenwerpsels
 Dwarsverbanden
  De open woordsoorten: Nomina
-▶ syntactische & semantische kenmerken
+syntactische & semantische kenmerken
  De open woordsoorten: Nomina
-▶ syntactische & semantische kenmerken
+syntactische & semantische kenmerken
 zus, bakker
 hond
 warenhuis
@@ -34,22 +34,7 @@ goedheid
 januari
 Fanta
  De open woordsoorten: Nomina
-▶ syntactische & semantische kenmerken
-zus, bakker
-hond
-warenhuis
-groep, kudde
-fruit, vee
-regen, koﬃe
-Harry
-Lassie
-Delhaize
-goedheid
-januari
-Fanta
-telbaarheid
- De open woordsoorten: Nomina
-▶ syntactische & semantische kenmerken
+syntactische & semantische kenmerken
 zus, bakker
 hond
 warenhuis
@@ -63,9 +48,8 @@ goedheid
 januari
 Fanta
 telbaarheid
-subklasseverschuivingen
  De open woordsoorten: Nomina
-▶ syntactische & semantische kenmerken
+syntactische & semantische kenmerken
 zus, bakker
 hond
 warenhuis
@@ -80,18 +64,34 @@ januari
 Fanta
 telbaarheid
 subklasseverschuivingen
-▶ genus
  De open woordsoorten: Nomina
-▶ morfologische kenmerken
+syntactische & semantische kenmerken
+zus, bakker
+hond
+warenhuis
+groep, kudde
+fruit, vee
+regen, koﬃe
+Harry
+Lassie
+Delhaize
+goedheid
+januari
+Fanta
+telbaarheid
+subklasseverschuivingen
+genus
  De open woordsoorten: Nomina
-▶ morfologische kenmerken
+morfologische kenmerken
+ De open woordsoorten: Nomina
+morfologische kenmerken
 meervoud
  De open woordsoorten: Nomina
-▶ morfologische kenmerken
+morfologische kenmerken
 meervoud
 naamval
  De open woordsoorten: Nomina
-▶ morfologische kenmerken
+morfologische kenmerken
 meervoud
 naamval
-▶ diminutief
+diminutief

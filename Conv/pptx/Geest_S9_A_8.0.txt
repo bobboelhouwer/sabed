@@ -1,284 +1,172 @@
-Aanvullingen
-Responsie op
-ingangssignalen en begintoestand
-Responsie berekenen
-• Gegeven toestandsbeschrijving (A, B, C, D) ,
-• Toestandsbeschrijving
-• Exhaustieve berekening van x[k] en y[k]
-Voorbeeld
-Gegeven
-“Oplossen” toestandsvergelijking
-• Gegeven toestandsbeschrijving, u[k] en x[0], wat zijn x[k] en y[k] ?
-• Toestandsbeschrijving
-A
-Algemeen:
-• Uitgangssignaal
-Nulingangs- en nultoestandsrespons
-Nulingangsresponsie
-Nultoestandsresponsie
-• Nulingangsresponsie: y[k] als u[k]
-• Nultoestandsresponsie: y[k] als x[0] = 0
-Toestandsbeschrijving en
-gelijkvormige matrices
-Toestandsbeschrijving is niet uniek
-, np] een nxn inverteerbare matrix
-– Is verandering van coördinaten: w[k] zijn de coordinaten van x[k] in de
-basis {p
-Toestandsbeschrijving is niet uniek
-• In de nieuwe toestandsvector w[k] hebben we een
-equivalente toestandsbeschrijving:
-A en zijn gelijkvormig
-• Beide systemen zijn equivalent. Let wel op initiële
-toestand. Nulingangsresponsie:
-Zorg ervoor dat P w[0] = x[0], dan is ook P w[k] = x[k]
-voor k>0, en dus y[k]=
-Voorbeeld
-D
-D
-Voorbeeld (2)
-Kies
-zodat x[k] = P w[k]
-D
-D
-Toestandsbeschrijving en
-matrixdiagonalisatie
-Diagonaalvorm
-• Veronderstel dat A diagonaliseerbaar is
-• Kies P =1,[v... , nv] met iveigenvector van A met
-eigenwaarde
-• Voor SISO systeem:
-• Toestand i beinvloedt toestand
-≠i niet
-j
-Diagonaalvorm voor SISO systeem
-• Som van
-eerste-orde
-systemen
-• Plus directe
-verbinding
-met winst̅+
-Voorbeeld
-D
-D
-Minimaliteit
-Voor sommige systemen kan een
-/ * = 0. De toestandsveranderlijke
-wi[k] kan dan niet beïnvloed
-worden. Het systeem is niet
-controleerbaar.
-Voor sommige systemen kan een
-0̅* = 0. De toestandsveranderlijke
-wi[k] kan de uitvoer niet
-beïnvloeden. Het systeem is niet
-observeerbaar.
-Een systeem dat niet observeerbaar
-en/of niet controleerbaar is heet
-niet-minimaal. Hetzelfde ingangsuitgangsgedrag kan gerealiseerd
-worden met een kleiner aantal
-geheugenelementen.
-Inwendige (interne) stabiliteit
-• Een systeem is inwendig stabiel →
-als0 x[k]
-als k
-k
-w λnk vn
-• Inwendig instabiel zodra één
-• Inwendig stabiel
-Nulingangsresponsie
-Nulingangsresponsie
-Nultoestandsresponsie
-• Ak x[0] bestuderen
-A
-(c = rijvector; SISO system)
-Nulingangsresponsie
-k
-w λnk vn
-basis {v
-= P-1 x[k] is de coördinatenvector van x[k] in de
-k
-basis {v
-is een gewogen som van exponentiële functies in k
-Nulingangsresponsie
-Bijdragen tot nulingangsresponsie
-Attractor / aantrekker
-Inwendig stabiel
-Repeller / afstoter
-Inwendig onstabiel
-Saddle point / zadelpunt
-Inwendig onstabiel
-Complexe eigenwaarden
-ω is genormaliseerde frequentie. 0 < 7 < 1
-• Eigenvectoren
-i en
-i
-• Neem complex toegevoegde termen samen in
-E
-een reële rijvector;
-ccis
-E
-Re
-G
-Complexe eigenwaarden (2)
-G
-• Bijdrage door complexe eigenwaarde in y[k] is
-product van:
-k - zie
-o Exponentieel verloop
-r reële eigenwaarde
-o Golvend verloop (K
-cos
-Complexe eigenwaarden
-Inwendig stabiel
-Bijdrage tot nulingangsresponsie
-Canonieke vorm en
-differentievergelijking
-Canonieke vorm
-• Zoek transformatiematrix 1Q
-q] zodat door de
-n
-M
-gelijkvormigheidstransformatie:
-M
-R
-Mnoemen we een compagnon-matrix
-Men A hebben dezelfde K.P. want gelijkvormig
-• Constructie van Q – zie later
-Waarom die Ã O
-en
-Constructie van Q
-2de vergelijking:T
-T
-Constructie van Q
-U
-T
-PQ
-PQ
-Waarom die Ã O
-en
-w
-w
-w
-w
-w
-w
-w
-Waarom die Ã O
-en
-Dus:
-Uitgangsvergelijking:
-Herschrijf:
-w1[k] elimineren
-Differentievergelijking
-O
-O
-f
-• Rechtstreeks verband tussen u[k] en y[k]
-• Dit heet een differentievergelijking
-• Alternatief voor de toestandsbeschrijving
-• Is een verband tussen differentievergelijking en canonieke vorm
-• M.a.w.: gegeven een differentievergelijking
-f
-f
-f
-Dan komen daarmee toestandsbeschrijvingen overeen die allemaal dezelfde K.P.
-hebben:%! + PQ
-R
-• Ook: gegeven een toestandsbeschrijving (A, b, c, d), dan komt daarmee een
-differentievergelijking overeen waarbij
-dedeã coëfficiënten van de K.P.
-i ook
-van A zijn
-Voorbeeld
-X
-Y
-X
-Y
-Z
-PQ
-PQ
-Voorbeeld
-O
-Met Q =
-, canonieke vorm:
-D
-D
-Voorbeeld
-PQ
-D
-D
-de differentievergelijking gehaald uit de canonieke vorm
-Impulsresponsie en convolutie
-Impulsresponsie
-• Doel: berekenen van de responsie. We hadden al:
-Exhaustief
-• Nultoestandsimpulsrespons (impulsrespons) h[k] van
-een SISO DTLTI systeem is y[k] wanneer
-k
-k
-k
-Verschoven impuls
-k
-k
-k
-k
-Ontbinding u[k]
-Lineair en tijdsinvariant
-Convolutie
-• Formeel
-d
-efd
-d
-b
-Lineair
-Tijdsinvariant
-• Voor een systeem dat uit de nultoestand vertrekt !
-• y[k] is de convolutie van u[k] en h[k]
-• Uitvoer is convolutie van invoer en impulsresponsie
-Convolutie
-Neutraal element: a[k]
-Lineair:
-• Enkelzijdige signalen a[k] = b[k] = 0 voor k<0 :
-d
-E
-=aPb
-efd
-efR
-• Causaal systeem: h[k] = 0 voor k<0
-Geen respons vóór de excitatie
-Impulsresponsie
-Nulingangsresponsie
-Nultoestandsresponsie
-2 term blijft enkel index j=0 staan
-de term:
-cA
-b
-Voorbeeld
-d
-E
-E
-E
-E
-steorde
-Impulsresponsie van
-1 systeem
-b
-D
-c
-k
-op
-E
-cb
-c
-q
-E
-E
-E
-Vorm impulsresponsie
-cAvoor k > 0
-• Zelfde bespreking als nulingangsresponsie
-steorde systeem:λk-1
-cb, zie boven
-• Voor diagonaliseerbare A, som van:
-o Exponentiëel verloop
-λ complex)
-o Schommelend exponentiëel verloop
+Hoofdstuk 5
+Zorgethiek
+Inleiding
+Zorgethiek
+Kritieken op zorgethiek
+Zorgethiek en andere theorieën
+ 1. Inleiding
+• Carol Gilligan, In a Different Voice
+• https://nl.wikipedia.org/wiki/Carol_Gillig
+an
+• Vs. Lawrence Kohlberg, The Philosophy
+of Moral Development (1981)
+• https://nl.wikipedia.org/wiki/Lawrence_K
+ohlberg
+• Heinz-dilemma
+• Recht op leven vs. recht op eigendom
+ 1. Inleiding
+• Beslissingen meisjes minder vaak uit algemene
+principes afgeleid
+• Voorbeeld: suggestie dat Heinz en apotheker moeten
+praten
+• Jongens accepteerden makkelijker dilemma
+• Kohlberg: meisjes scoren gemiddeld lager dan jongens
+ 1. Inleiding
+• Gilligan: geen lagere morele ontwikkeling, wel andere
+waardenschaal
+• Algemene regels en beginselen als ‘mannelijke’ waarde
+• Communicatie, responsiviteit (adequaat en spontaan
+reageren op specifieke situaties) en relaties als
+‘vrouwelijk’
+• Zorgethiek vs. rechtvaardigheidsethiek
+ 1. Inleiding
+Vier belangrijke kenmerken zorgethiek:
+• (1) Focus op ethische problemen in praktijk en hoe ze in
+praktijk w opgelost, in bijzonder dr communicatie.
+Problemen met gebruik van kunstmatige voorbeelden
+en argumentatie o.b.v. abstracte principes
+• (2) Geen algemene regels voor zorg; alles komt neer op
+oordeelsvorming in het concrete geval
+ 1. Inleiding
+• (3) Zorg op gespannen voet met notie van plicht (Zie
+voorbeeld Stocker: ‘Ik kom je bezoeken omdat het mijn
+plicht is.’)
+• (4) Zorgethiek gaat niet over handelen tussen
+ongebonden rationele subjecten, maar draait om het
+behouden en ontwikkelen van relaties tussen concrete
+mensen en het handelen binnen die relaties
+ 1. Inleiding
+• Typevoorbeeld zorgrelatie: moeder-kind
+• Zorgethiek als vrouwenethiek?
+• Ouder-kindrelatie als model voor andere relaties
+(verpleger-patiënt, leraar-leerling)
+• Zorg vereist geen voorafgaande relatie, in zorg ontstaat
+een relatie
+ 2. Zorgethiek
+(1) Praktijk en communicatie
+• Zorgethiek gaat uit van mens als relationeel, afhankelijk
+wezen
+• Zorg is praktijk die relatie veronderstelt tss
+zorgontvanger en zorgverlener
+• Goede zorg: verlener reageert adequaat op ontvanger,
+kan zien wat nodig is en handelt spontaan
+• Zorg niet alleen gericht op materiële behoeften
+(voeding), maar ook op emotionele (lachen, luisteren)
+en op versterking relatie
+ 2. Zorgethiek
+• Zorg vereist juiste empathische reactie
+• Verlener moet juiste houding aannemen en goed
+luisteren, kan niet eenzijdig bepalen waarin goede zorg
+bestaat, moet met ontvanger in gesprek gaan
+• Gaat niet om wat mensen in het algemeen nodig
+hebben of verlangen, maar om wat deze concrete mens
+nodig heeft of wenst
+• In confrontatie met dilemma (zie Heinz) is ideaal om
+gezamenlijk tot oplossing te komen, i.p.v. eenzijdig
+belangen en principes af te wegen
+ 2. Zorgethiek
+(2) Regels
+• Model voor oplossen ethische vragen niet rechter die
+knoop doorhakt, maar partijen die gezamenlijk naar
+oplossing zoeken
+• Sceptisch t.o.v. universeel geldige regels
+• Regels nooit absoluut: afwijken van regel mogelijk als
+nodig voor zorg
+ 2. Zorgethiek
+(3) Plicht
+• Zorgethici vermijden liever woord ‘plicht’
+• Algemene norm: doe wat zorg in gegeven
+omstandigheden vergt, handel zoals goed zorgverlener
+zou doen
+• Veeleisend? Soms supererogatoir handelen vereist,
+geen maximalisatie
+ 2. Zorgethiek
+(4) Relaties tss concrete mensen
+• Wat je moet doen, w niet louter bepaald door
+geïsoleerde situatie
+• Belang relatie en geschiedenis daarvan
+ 3. Kritieken op zorgethiek
+• Drie bezwaren:
+(1)Alleen geschikt binnen relaties, niet voor handelen
+t.o.v. vreemden, niet voor instituties
+(2)Niet onpartijdig en universeel
+(3)Autonomie en gelijkheid van zorgverlener en
+zorgontvanger?
+ 3. Kritieken op zorgethiek
+(1)Niet toepasbaar op vreemden, niet geschikt voor
+instituties
+• Repliek 1: reikwijdte van relaties
+(a) Meeste ethische problemen in relaties
+(b) ‘Relatie’ hoeft niet eng te worden opgevat
+(c) In zorg komt relatie tot stand
+ 3. Kritieken op zorgethiek
+• Probleem: soms geen persoonlijke relaties. Plicht t.o.v.
+vreemden?
+• Peter Singer: verplichting om onbekenden van honger te
+redden is even sterk als verplichting om bekende
+drenkeling te redden
+• Repliek 2: zorg als basisbeginsel, ook als geen concrete
+relaties
+• Hoe moeten ontwikkelingshulp, arbeidswetgeving,
+sociale regelgeving eruitzien, gegeven dat mensen zorg
+nodig hebben?
+ 3. Kritieken op zorgethiek
+(2) Niet onpartijdig en universeel
+• Repliek 1. Moet ethiek onpartijdig en universeel zijn?
+• Onpartijdigheid en principes toch soms vereist?
+• Repliek 2. Uitgaan van relaties, aanpassen waar ze
+ontbreken
+• Onpartijdigheid kan botsen met zorg
+• Repliek 3. Eisen van onpartijdigheid als eisen om
+rekening te houden met concrete vreemden,
+onpartijdigheid als vorm van zorg
+• Belang relatie en impact beslissing op relatie
+ 3. Kritieken op zorgethiek
+(3) Autonomie
+(a) Autonomie zorgverlener?
+• Repliek. Goede zorgrelatie ≠ wegcijferen zorgverlener
+(b) Autonomie zorgontvanger? Gevaar paternalisme?
+• Repliek. Goede zorgverlener projecteert eigen
+interpretaties en verlangens niet op zorgontvanger
+• Zorgrelatie gericht op bevorderen autonomie
+• Autonomie mogelijk dankzij zorg en nooit totaal
+ 4. Zorgethiek en andere theorieën
+Consequentialisme
+(a) Gelijkenissen
+• Belang van resultaten
+(b) Verschillen
+• Intrinsiek belang van juiste houding, empathie en
+behoud relatie
+• Niet altijd onpartijdig
+• Geen verplichting tot maximalisatie
+ 4. Zorgethiek en andere theorieën
+Deontologie
+(a) Gelijkenissen
+• Hedendaagse deontologie en aandacht voor concrete
+personen
+(b) Verschillen
+• Plicht ten dienste van zorg
+• Uitzonderingen op algemene regels als zorg dat vraagt
+• Soms supererogatoir handelen nodig
+• Plicht kan niet o.b.v. algemeen principe (CI) worden
+vastgesteld
+ 4. Zorgethiek en andere theorieën
+Deugdenethiek: zorgethiek als vorm van deugdenethiek?
+(a) Gelijkenissen
+• Belang van emotie (Hume)
+• Belang van specifieke context (Aristoteles)
+• Belang van spontaniteit
+(b) Verschillen
+• Niet primair gericht op zelfvervolmaking of einddoel van
+geslaagd leven
+• Fundamenteel gericht op de ander

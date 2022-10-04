@@ -15,10 +15,10 @@ Uit cursus G108: “Archaeometallurgy”, UCL, 2011
 • Objecten zijn vaak eind-product (studie van consumptie/gebruik)
 • Aan de basis ligt een productie-keten (chaîne opératoire)
 • Technologie
-• Productie-processen en -technieken
-• Uitvinding, verspreiding en aanpassing
-• Technologische keuzes, stijl
-• Organisatie en context van productie
+Productie-processen en -technieken
+Uitvinding, verspreiding en aanpassing
+Technologische keuzes, stijl
+Organisatie en context van productie
 • Workshops/ateliers en sites
 • Samenlevingen en culturen
 • Herkomst
@@ -43,10 +43,10 @@ niet een doel op zich
 • Inleiding: energie, atomen, EM straling
 • Belangrijkste archeologische materialen
 • Analysemethodes
-• Beeldvorming
-• Spectroscopie
-• Scheidingsmethoden
-• Andere analysemethoden
+Beeldvorming
+Spectroscopie
+Scheidingsmethoden
+Andere analysemethoden
 • Anorganische materialen: analyse
 • Organische materialen: analyse
  Inleiding
@@ -182,15 +182,16 @@ Anion
  Inleiding
  Archeologische materialen
 • Meest voorkomende archeologische materialen (anorganisch):
-• Gesteenten
-• Keramiek
-• Metaal
+Gesteenten
+Keramiek
+Glas
+Metaal
  Archeologische materialen: gesteenten
 Kwarts: SiO2
 Graniet: kwarts + verschillende veldspaten
  Archeologische materialen: gesteenten
 • Gesteenten zijn opgebouwd uit mineralen
-• Haliden – bevatten Br-, Cl-, F-, I• Sulfiden – bevatten S2• Oxiden, hydroxides – bevatten O2- of OH• Carbonaten, nitraten, boraten – bevatten CO3-, NO3- of BO33• Sulfaten – bevatten SO4• Fosfaten, arsenaten, vanadaten – bevatten PO43-, AsO43- of VO43• Silicaten – bevatten SiO44- → Meest voorkomend op aarde
+Haliden – bevatten Br-, Cl-, F-, ISulfiden – bevatten S2Oxiden, hydroxides – bevatten O2- of OHCarbonaten, nitraten, boraten – bevatten CO3-, NO3- of BO33Sulfaten – bevatten SO4Fosfaten, arsenaten, vanadaten – bevatten PO43-, AsO43- of VO43Silicaten – bevatten SiO44- → Meest voorkomend op aarde
  Archeologische materialen: gesteenten
 • Silicaten worden ingedeeld volgens kristal-structuur
  Archeologische materialen: gesteenten
@@ -500,29 +501,29 @@ Slak in smeltkroes voor brons: Qantir, Egypte
 Ijzerslak
  Lichtmicroscopie: gebruik?
 TL-OM = transmitted light – doorvallend licht
-• Alle vaste materialen
-• Slijpplaatje (thin section) 30µm
-• Silicaten, carbonaten, haliden etc.
-• Gesteenten en mineralen (petrografie); keramiek
-• Palynologie, anthracologie, residu-analyse
-• Micro-morphologie
+Alle vaste materialen
+Slijpplaatje (thin section) 30µm
+Silicaten, carbonaten, haliden etc.
+Gesteenten en mineralen (petrografie); keramiek
+Palynologie, anthracologie, residu-analyse
+Micro-morphologie
 RL-OM = reflected light – gereflecteerd licht
-• Metallografische analyse
-• Polijstvlak van dik staal
-• Metalen & oxides
-• Ertsen, metallurgische slakken
+Metallografische analyse
+Polijstvlak van dik staal
+Metalen & oxides
+Ertsen, metallurgische slakken
 PPL: plane polarised light vs. XPL: cross polarised light
  Lichtmicroscopie: gebruik?
 • Invasief
 • Relatief (!) goedkoop
 • Grootte staal: enkele cm
-• Kristallografie
-• Identificatie van verschillende fasen (mineralen)
-• Korrelgroottes, vormen en verdelingen
-• Porositeit
-• Aanwezigheid van defecten (bv. splijting)
-• Mechanische deformaties
-• Amorfe componenten
+Kristallografie
+Identificatie van verschillende fasen (mineralen)
+Korrelgroottes, vormen en verdelingen
+Porositeit
+Aanwezigheid van defecten (bv. splijting)
+Mechanische deformaties
+Amorfe componenten
 → Reconstructie van herkomst en technologie
  Analyse: indeling
  IR fotografie
@@ -721,10 +722,10 @@ Analysemethodes
 • Accuraatheid, precisie, detectielimiet?
 • Hoofd-, neven- en spoorelementen
 Major, minor, trace elements
-• Hoofd- & neven-elementen: > 99% van totaal
-• Hoofd-elementen: > 1%
-• Neven-elementen: ca. 0.1-1%
-• Spoorelementen: < 0.01%
+Hoofd- & neven-elementen: > 99% van totaal
+Hoofd-elementen: > 1%
+Neven-elementen: ca. 0.1-1%
+Spoorelementen: < 0.01%
 Cu
 Sn
 Pb
@@ -942,14 +943,14 @@ Totaal
 (geen matrix-effect bij ICP-technieken)
 → Verschillende standaarden voor glas, metaal, keramiek, gesteente
  Spectroscopie: XRF
-• X-stralen in
-• X-stralen uit
-• Geen lichte elementen
-• Detectielimiet varieert
-• Accuraatheid en precisie: ca. 5-10%
-• Betere resolutie WD-XRF dan ED-XRF
-• Snel, goedkoop
-• Gebruik van standaarden voor kalibratie
+X-stralen in
+X-stralen uit
+Geen lichte elementen
+Detectielimiet varieert
+Accuraatheid en precisie: ca. 5-10%
+Betere resolutie WD-XRF dan ED-XRF
+Snel, goedkoop
+Gebruik van standaarden voor kalibratie
  Spectroscopie: XRF
 • Invasief (poeder of glas pellets)
  Spectroscopie: XRF
@@ -1240,10 +1241,10 @@ onderzoeksreactoren
 • Gebruikt om mengsel in moleculaire componenten te scheiden
 → Organische materialen
 • Verschillende technieken
-• Kolom chromatografie (klassiek)
-• Dunne laag chromatografie (TLC)
-• Gas chromatografie (GC)
-• High performance liquid chromatography (HPLC)
+Kolom chromatografie (klassiek)
+Dunne laag chromatografie (TLC)
+Gas chromatografie (GC)
+High performance liquid chromatography (HPLC)
  Chromatografie
 • Principe: scheiden van molecules o.b.v. fysisch gedrag
 • De scheiding van verschillende molecules gebeurt o.b.v. hun
@@ -1519,17 +1520,17 @@ XRD: voorbeelden
  XRD (XRF)
 https://www.vrt.be/vrtnws/nl/2018/03/07/-meisje-met-de-parel--krijgt--full-body-scan--door-antwerps-spec/
  XRD
-• Wet van Bragg
-• Interferentie X-stralen
-• Niveau molecule
-• Identificatie
-• Alle kristallijne structuren
-• Mineralen
-• Gesteenten
-• Keramiek
-• Pigmenten
-• Organische materialen zoals collageen
-• Metalen kan ook, maar minder in archeologie (metallografie)
+Wet van Bragg
+Interferentie X-stralen
+Niveau molecule
+Identificatie
+Alle kristallijne structuren
+Mineralen
+Gesteenten
+Keramiek
+Pigmenten
+Organische materialen zoals collageen
+Metalen kan ook, maar minder in archeologie (metallografie)
  XRD
 • Voordelen
 • Goede identificatie van
@@ -1844,9 +1845,10 @@ Mediterranean Archaeology and
 Archaeometry, 12, 21-29
   Herkomst - Grondstoffen
 • Keramiek
-• Natuurlijke inclusies
-• Organische magering
-• Anorganische magering
+Klei
+Natuurlijke inclusies
+Organische magering
+Anorganische magering
 • Grog (vermalen keramiek)
 • Grof sediment, gesteente-fragmenten
 • Glazuur
@@ -1858,20 +1860,20 @@ to Archaeological Chemistry, Springer
 • Vormingsmethodes
 • Bak-proces
 Badari – Egypte, 5e mill. BCE
-• Type oven
-• Temperatuur
-• Redox
-• Meerdere stappen
+Type oven
+Temperatuur
+Redox
+Meerdere stappen
 Pi-Ramesse – Egypte, 13e eeuw BCE
 Zelfde workshops; verschillend recept en ontwerp
 van smeltkroezen voor glas en metaal
 Athene – Griekenland, 6e-4e eeuw BCE
  Technologie – keramiek
 • Functionaliteit
-• Kookpot
-• Waterkan
-• Transport-amfoor
-• Pyrotechnologie
+Kookpot
+Waterkan
+Transport-amfoor
+Pyrotechnologie
 Grape – ME kookpot
 Tajine – modern
 • Esthetiek, materialiteit, …
@@ -2109,11 +2111,11 @@ c
 Lo Schiavo et al., 2013
  Herkomst – metalen
 • Mogelijke problemen met Pb isotopen (herkomst-postulaat!)
-• Meerdere ertsen kunnen dezelfde Pb isotopen hebben
-• Variatie aan isotopen in een erts-lichaam
-• Invloed van smelt-proces? Verwaarloosbaar
-• Recyclage en mengen van verschillende soorten koper
-• Bijmengen van Pb door legering: brons (Sn), Pb brons
+Meerdere ertsen kunnen dezelfde Pb isotopen hebben
+Variatie aan isotopen in een erts-lichaam
+Invloed van smelt-proces? Verwaarloosbaar
+Recyclage en mengen van verschillende soorten koper
+Bijmengen van Pb door legering: brons (Sn), Pb brons
 → Zeer scherpe debatten tijdens de jaren ‘90
  Herkomst – metalen
  Herkomst – metalen
@@ -2171,9 +2173,9 @@ Journal of Archaeological Science
  Technologie – glas
 18e Dynastie, Amarna, Egypte
 (British Museum: EA55193)
+https://youtu.be/iBZb2bkn4KU
 “Cage cup”, Keulen, mid-4e eeuw CE
 (Collection Staatliche Antikensammlung, Munchen)
-https://youtu.be/iBZb2bkn4KU
 https://youtu.be/JlrI6TFO-DI
  Herkomst – glas
 • Componenten (zand + flux + stabilisator) zijn steeds gelijkaardig in
@@ -2208,7 +2210,7 @@ used in Roman glass-making', Archaeometry, 55, 214-234.
 • Analysetechniek
 • Invasief, destructief?
 • Welke materiaal-gegevens nodig?
-• Structuur/textuur
-• Mineralogie
-• Chemische samenstelling: hoofd/neven/spoor-elementen
-• Isotopen van bepaalde elementen
+Structuur/textuur
+Mineralogie
+Chemische samenstelling: hoofd/neven/spoor-elementen
+Isotopen van bepaalde elementen

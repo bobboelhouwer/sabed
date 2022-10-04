@@ -1,284 +1,367 @@
-Aanvullingen
-Responsie op
-ingangssignalen en begintoestand
-Responsie berekenen
-• Gegeven toestandsbeschrijving (A, B, C, D) ,
-• Toestandsbeschrijving
-• Exhaustieve berekening van x[k] en y[k]
-Voorbeeld
-Gegeven
-“Oplossen” toestandsvergelijking
-• Gegeven toestandsbeschrijving, u[k] en x[0], wat zijn x[k] en y[k] ?
-• Toestandsbeschrijving
+MULTIFACTORIELE
+ERFELIJKHEID
+ Complexe kenmerken en aandoeningen
+MONOGEEN
+POLYGEEN
+MULTIFACTORIEEL
+genen
+1 gen
+vele genen
+geen
+veel
+omgevingsfactoren
+ Complexe kenmerken en aandoeningen
+Meer dan 1 gen of een combinatie van één of
+meer genen en omgevingsfactoren liggen
+aan de basis van een
+complexe aandoening
+ Complexe kenmerken en aandoeningen
+ interactie van
+- verschillende genloci onderling
+Polygenetisch
+- genen met toevoeging van omgevingsinvloed
+Multifactorieel
+ interactie tussen genen en omgeving is niet statisch:
+omgeving heeft andere invloed volgens genotype van persoon
+z
+e
+k
+ ziek
+ Multifactoriële kenmerken:
+Bloeddruk, lengte, intelligentie, huidskleur
+Multifactoriële aandoeningen:
+• aanwezig geboorte: hartafwijkingen, lipspleet, spina bifida
+• later in leven: astma, suikerziekte, kanker, hypertensie,
+psychiatrische aandoeningen
+Frequent + belang volksgezondheid is groot
+ Complexe kenmerken en aandoeningen
+1. Additieve polygenie (continue variabelen)
+2. Drempel polygenie (discontinue variabelen)
+ Complexe kenmerken en aandoeningen
+1. Additieve polygenie (continue variabelen)
+2. Drempel polygenie (discontinue variabelen)
+ 1. KWANTITATIEF MEETBARE EIGENSCHAPPEN DOOR
+ADDITIEVE POLYGENIE
 A
-Algemeen:
-• Uitgangssignaal
-Nulingangs- en nultoestandsrespons
-Nulingangsresponsie
-Nultoestandsresponsie
-• Nulingangsresponsie: y[k] als u[k]
-• Nultoestandsresponsie: y[k] als x[0] = 0
-Toestandsbeschrijving en
-gelijkvormige matrices
-Toestandsbeschrijving is niet uniek
-, np] een nxn inverteerbare matrix
-– Is verandering van coördinaten: w[k] zijn de coordinaten van x[k] in de
-basis {p
-Toestandsbeschrijving is niet uniek
-• In de nieuwe toestandsvector w[k] hebben we een
-equivalente toestandsbeschrijving:
-A en zijn gelijkvormig
-• Beide systemen zijn equivalent. Let wel op initiële
-toestand. Nulingangsresponsie:
-Zorg ervoor dat P w[0] = x[0], dan is ook P w[k] = x[k]
-voor k>0, en dus y[k]=
-Voorbeeld
-D
-D
-Voorbeeld (2)
-Kies
-zodat x[k] = P w[k]
-D
-D
-Toestandsbeschrijving en
-matrixdiagonalisatie
-Diagonaalvorm
-• Veronderstel dat A diagonaliseerbaar is
-• Kies P =1,[v... , nv] met iveigenvector van A met
-eigenwaarde
-• Voor SISO systeem:
-• Toestand i beinvloedt toestand
-≠i niet
-j
-Diagonaalvorm voor SISO systeem
-• Som van
-eerste-orde
-systemen
-• Plus directe
-verbinding
-met winst̅+
-Voorbeeld
-D
-D
-Minimaliteit
-Voor sommige systemen kan een
-/ * = 0. De toestandsveranderlijke
-wi[k] kan dan niet beïnvloed
-worden. Het systeem is niet
-controleerbaar.
-Voor sommige systemen kan een
-0̅* = 0. De toestandsveranderlijke
-wi[k] kan de uitvoer niet
-beïnvloeden. Het systeem is niet
-observeerbaar.
-Een systeem dat niet observeerbaar
-en/of niet controleerbaar is heet
-niet-minimaal. Hetzelfde ingangsuitgangsgedrag kan gerealiseerd
-worden met een kleiner aantal
-geheugenelementen.
-Inwendige (interne) stabiliteit
-• Een systeem is inwendig stabiel →
-als0 x[k]
-als k
-k
-w λnk vn
-• Inwendig instabiel zodra één
-• Inwendig stabiel
-Nulingangsresponsie
-Nulingangsresponsie
-Nultoestandsresponsie
-• Ak x[0] bestuderen
+a
 A
-(c = rijvector; SISO system)
-Nulingangsresponsie
-k
-w λnk vn
-basis {v
-= P-1 x[k] is de coördinatenvector van x[k] in de
-k
-basis {v
-is een gewogen som van exponentiële functies in k
-Nulingangsresponsie
-Bijdragen tot nulingangsresponsie
-Attractor / aantrekker
-Inwendig stabiel
-Repeller / afstoter
-Inwendig onstabiel
-Saddle point / zadelpunt
-Inwendig onstabiel
-Complexe eigenwaarden
-ω is genormaliseerde frequentie. 0 < 7 < 1
-• Eigenvectoren
-i en
-i
-• Neem complex toegevoegde termen samen in
-E
-een reële rijvector;
-ccis
-E
-Re
-G
-Complexe eigenwaarden (2)
-G
-• Bijdrage door complexe eigenwaarde in y[k] is
-product van:
-k - zie
-o Exponentieel verloop
-r reële eigenwaarde
-o Golvend verloop (K
-cos
-Complexe eigenwaarden
-Inwendig stabiel
-Bijdrage tot nulingangsresponsie
-Canonieke vorm en
-differentievergelijking
-Canonieke vorm
-• Zoek transformatiematrix 1Q
-q] zodat door de
-n
-M
-gelijkvormigheidstransformatie:
-M
-R
-Mnoemen we een compagnon-matrix
-Men A hebben dezelfde K.P. want gelijkvormig
-• Constructie van Q – zie later
-Waarom die Ã O
-en
-Constructie van Q
-2de vergelijking:T
+AA
+aA
+a
+Aa
+aa
+Een bepaald gen komt voor onder twee vormen: allel A en allel a
+Allel frequenties gelijk: p=q=0.5
+Zo Hardy-Weinberg evenwicht genotypes: 1(AA)/2(Aa)/1(aa) (p²/2pq/q²)
+ 1. KWANTITATIEF MEETBARE EIGENSCHAPPEN DOOR
+ADDITIEVE POLYGENIE
+aantal
+aa
+Aa
+aA
+AA
+A levert grotere bijdrage aan lichaamslengte dan a
+lengte
+  1. KWANTITATIEF MEETBARE EIGENSCHAPPEN DOOR
+ADDITIEVE POLYGENIE
+AB
+Ab
+aB
+ab
+AB
+AABB
+AAbB
+aABB
+aAbB
+Ab
+AABb
+Aabb
+aABb
+aAbb
+aB
+AaBB
+AabB
+aaBB
+aabB
+ab
+AaBb
+Aabb
+aaBb
+aabb
+A en B: grotere bijdrage aan lichaamslengte dan a en b
+ 1. KWANTITATIEF MEETBARE EIGENSCHAPPEN DOOR
+ADDITIEVE POLYGENIE
+aantal
+aabb
+AABB
+lengte
+ alle mogelijke GENETISCHE
+en OMGEVINGS factoren
+Voorbeeld: huidskleur, lengte, IQ
+ CONTINUE VARIABELEN
+Cut-off waarden voor afwijkend
+ Complexe kenmerken en aandoeningen
+1. Additieve polygenie (continue variabelen)
+2. Drempel polygenie (discontinue variabelen)
+   2. DREMPELPOLYGENIE: DISCONTINUE VARIABELEN: JA/NEE
+NORMALE VERDELING VAN VATBAARHEID
+Aantal individuen
+normaal
+Prevalentie in de bevolking
+Aantal individuen
+Aantal defecte allelen
+Verhoogd
+risico
+Prevalentie in familieleden van
+de aangetaste persoon
+ monogeen
+multifactorieel
+ Single-Nucleotide Polymorphisms (SNP)
+één van de belangrijkste vormen van variatie
+Deze SNPs (varianten) komen ook voor binnen de coderende
+sequenties van genen, en hebben soms een positieve
+of negatieve invloed op de werking van het overeenkomstige eiwit
+ SNP variant
+C
+Gen X individu 1
+neutraal
 T
-Constructie van Q
-U
-T
-PQ
-PQ
-Waarom die Ã O
-en
-w
-w
-w
-w
-w
-w
-w
-Waarom die Ã O
-en
-Dus:
-Uitgangsvergelijking:
-Herschrijf:
-w1[k] elimineren
-Differentievergelijking
-O
-O
-f
-• Rechtstreeks verband tussen u[k] en y[k]
-• Dit heet een differentievergelijking
-• Alternatief voor de toestandsbeschrijving
-• Is een verband tussen differentievergelijking en canonieke vorm
-• M.a.w.: gegeven een differentievergelijking
-f
-f
-f
-Dan komen daarmee toestandsbeschrijvingen overeen die allemaal dezelfde K.P.
-hebben:%! + PQ
-R
-• Ook: gegeven een toestandsbeschrijving (A, b, c, d), dan komt daarmee een
-differentievergelijking overeen waarbij
-dedeã coëfficiënten van de K.P.
-i ook
-van A zijn
-Voorbeeld
-X
-Y
-X
-Y
-Z
-PQ
-PQ
-Voorbeeld
-O
-Met Q =
-, canonieke vorm:
-D
-D
-Voorbeeld
-PQ
-D
-D
-de differentievergelijking gehaald uit de canonieke vorm
-Impulsresponsie en convolutie
-Impulsresponsie
-• Doel: berekenen van de responsie. We hadden al:
-Exhaustief
-• Nultoestandsimpulsrespons (impulsrespons) h[k] van
-een SISO DTLTI systeem is y[k] wanneer
-k
-k
-k
-Verschoven impuls
-k
-k
-k
-k
-Ontbinding u[k]
-Lineair en tijdsinvariant
-Convolutie
-• Formeel
-d
-efd
-d
-b
-Lineair
-Tijdsinvariant
-• Voor een systeem dat uit de nultoestand vertrekt !
-• y[k] is de convolutie van u[k] en h[k]
-• Uitvoer is convolutie van invoer en impulsresponsie
-Convolutie
-Neutraal element: a[k]
-Lineair:
-• Enkelzijdige signalen a[k] = b[k] = 0 voor k<0 :
-d
-E
-=aPb
-efd
-efR
-• Causaal systeem: h[k] = 0 voor k<0
-Geen respons vóór de excitatie
-Impulsresponsie
-Nulingangsresponsie
-Nultoestandsresponsie
-2 term blijft enkel index j=0 staan
-de term:
-cA
-b
-Voorbeeld
-d
-E
-E
-E
-E
-steorde
-Impulsresponsie van
-1 systeem
-b
-D
-c
-k
-op
-E
-cb
-c
-q
-E
-E
-E
-Vorm impulsresponsie
-cAvoor k > 0
-• Zelfde bespreking als nulingangsresponsie
-steorde systeem:λk-1
-cb, zie boven
-• Voor diagonaliseerbare A, som van:
-o Exponentiëel verloop
-λ complex)
-o Schommelend exponentiëel verloop
+Gen X individu 2
+ongunstig
+G
+gunstig
+Gen X individu 3
+ SNP geassocieerd met de aandoening
+ Identificatie van Genen betrokken in
+Complexe Quantitatieve Aandoeningen/Kenmerken
+ • Gen betrokken bij een complexe aandoening (poly-gen model) noemt men
+een Quantitative Trait Locus (QTL)
+• QTL worden overgeërfd volgens de wetten van Mendel
+• In een poly-gen model hebben ze elk een relatief klein effect (hoe meer
+genen dat het kenmerk bepalen hoe kleiner het individueel aandeel)
+Hoe vinden we deze QTL ?
+ Hoe vinden we deze QTL ?
+1. Dier modellen:
+zowel genetische manipulatie van het proefdier, als manipulatie
+van de omgeving
+2. Whole Genome Association Studies (WGAS):
+zoeken van QTLs geassocieerd aan het fenotype
+ 1. Dier modellen: zowel genetische manipulatie als
+manipulatie van de omgeving
+voorbeelden: huidskleur, gedrag ..
+ Huidskleur
+mens) codeert voor een eiwit
+betrokken in de vorming en
+funktie van melanocyten
+(pigmentcellen).
+wt
+gol
+• Mutaties in “golden” gen
+resulteert in meer blekere en
+transparante visjes.
+wt
+gol
+ SLC24A5 bij de mens ?
+•Oorspronkelijke allel is sterk
+geconserveerd in Afrika, OostAzie.
+•Variante allel is gefixeerd in
+Europese bevolkingsgroepen met
+lichter huidtype
+•Study suggest that SLC24A5
+explains 25-38% of the
+European-African difference in
+skin melanin index.
+ huid en oogkleur
+variatie
+SNP
+mutatie
+albinisme
+ Omgeving ?
+ Gedrag
+• Verschillende loci geidentificeerd die bijdragen aan gedrag en
+afwijkend gedrag
+– Bipolar disorder, Schizophrenie
+– Autisme
+– ADD and ADHD
+• Studies in honden:
+– “Rage” in English Spring Spaniels
+– Obsessief Compulsief Disorder in Bull Terriers
+– Ander natuurlijk gedrag zoals hoeden, prooi drijven, leren, etc.
+ 2. Whole Genome Association Studies
+Ondervragen van duizenden tot
+miljoenen variabele punten in
+ons genoom: SNP
+Dit in een grote groep van personen:
+Aandoening versus Controles
+Identificatie van SNPs / QTL die een
+aandeel hebben in de betreffende
+complexe ziekte
+ Technologie is beschikbaar: SNP arrays
+Affymetrix
+Illumina
+ SNP Chip Image
+ vb. Associatie van SNP rs2236639 met ontstaan van
+ziekte van Parkinson (Fictief !)
+Personen > 60
+jaar
+Variant Allele
+ziek
+geen ziekte
+ontwikkeld
+Present
+Absent
+Total
+Risico bij drager A
+Relatieve Risico =
+Risico bij drager
+normale allel
+totaal
+ Pijnpunten
+- Grote cohorten nodig om voldoende statische power
+- Vaak niet repliceerbaar in andere populaties/studies
+- Vaak varianten met zeer klein effect : klinisch nut ?
+“Each discovery of a biologically relevant locus is a potential first
+step in a translational journey, and some journeys will be shorter
+than others. With a more complete collection of relevant genes and
+pathways, we can hope to shorten the interval between biologic
+knowledge and improved patient care.”
+ VOORBEELDEN VAN GEKENDE QTL BIJ
+MULTIFACTORIELE
+AANDOENINGEN
+ neurale buis defecten
+ Voorkomen van neurale buis defecten
+ FOLIUMZUUR METABOLISME
+MTHFR (methyleen tetrahydrofoliumzuur reductase) = enzyme
+2 allelen :
+* C-allel : normale aktiviteit
+* T-allel : verminderde aktiviteit
+= op positie 677 van het gen is een cytosine
+vervangen door een thymine (Ala->Val)
+3 mogelijke genotypes :
+CC
+CT
+TT = verlaagde concentraties foliumzuur
+verhoogde concentraties homocysteine
+ FOLIUMZUUR METABOLISME
+TT
+CT
+CC
+NBD
+Controle
+ Is dit polymorfisme de oorzaak van NBD?
+1. 8% van de bevolking is TT incidentie NBD = 1/1000
+2. Dus enkel een risicofactor :
+3. Niet enige factor : 37% van NBD : heeft CC genotype
+Het T-allel van MTHFR is geassocieerd met NBD
+ Ernst Covid infectie
+Welke genetische factoren spelen een rol in de ernst van
+een COVID-19 infectie?
+ Associatie studie
+patiënten (ICU)
+normale Britse bevolking
+Cases
+Controles
+Allerlei klinische
+kenmerken
+Allerlei klinische
+kenmerken
+zijn er verschillen
+in frequentie van bepaalde kenmerken ?
+kritisch zieke mensen
+hebben vaker
+-Obesitas
+-Suikerziekte
+-Oudere leeftijd
+-Ziekten van hart- en bloedvaten
+= risico-factoren voor ernstige ziekte
+vb : overgewicht :
+- 40% meer kans op hospitalisatie
+  Associatie studie
+patiënten (ICU)
+normale Britse bevolking
+Cases
+Controles
+Genoom-wijde
+SNP bepaling
+zijn er verschillen
+in frequentie van bepaalde SNPs?
+Genoom-wijde
+SNP bepaling
+ Significantie
+Chromosomale positie SNP’s
+Chromosoom 3 :
+- meest significante SNP in gen LZTFL1
+-Normale allel C – risico allel T
+-Frequentie T = 8% van alle allelen
+-Grootte van risico : iemand die T-allel draagt: méér dan 2 keer zoveel kans
+om ernstig ziek te zijn (Odds ratio = relatieve risico = 2,14)
+ Geografische verschillen in frequentie van (een andere) SNP in deze regio
+Europa : allel T = 8%
+Afrika : afwezig
+this genetic region is almost identical to that of a 50,000-year old
+Neanderthal from southern Europe. Further analysis has shown that,
+through interbreeding, the variants came over from the Neanderthals
+to the ancestors of modern humans about 60,000 years ago, when the
+two groups met,
+ Migratie van Homo sapiens (out of Africa) - +/ 50,000 yrs geleden
+Homo neanderthalensis : 400,000 – 40,000 yrs geleden
+mating
+ HUMAAN GENOOM (Eurasia) 1-2%
+Neanderthaler
+sequenties
+NEANDERTHALER GENOOM
+vertegenwoordigen 20%
+van het Neanderthaler genoom
+ Darwiniaanse evolutie
+* Europese homo sapiens verwerft nieuwe genetische varianten
+van de Neanderthaler
+2. SELECTIE
+* Neanderthaler leefde hier al 400,000 jaar, en is dus goed aan
+de omgeving aangepast (= klimaat, voeding, pathogenen,…)
+shortcut in de evolutie
+voordelige Neanderthaler genen werden weerhouden
+-bloedstolling
+-keratine (huid & haar)
+-immuniteit - onder andere weerstand tegen virussen
+ POLYMORFISME
+MUTATIE
+Bv:
+- Sikkel cel anemie
+- ziekte van Huntington
+- Achondroplasie
+Bv:
+-silent substituties
+-meeste CA-repeats
+“FUNCTIONEEL POLYMORFISME”
+* Gewijzigde genfunctie maar fenotypisch effect
+is afhankelijk van bijkomende genetische
+en omgevingsfactoren.
+- MTHFR C/T allel
+ Hoe wordt bij een multifactoriële aandoening
+de herhalingskans berekend ?
+ A. ERNST VAN DE AANDOENING
+lip/verhemeltespleet
+unilaterale lipspleet
+bilaterale lip+verhemelte
+ normaal
+Verhoogd
+risico
+ B. AANTAL AANGEDANE VERWANTEN
+twee eerstegraadsverwanten
+ C. GRAAD VAN VERWANTSCHAP.
+* 2de graad
+* 3de graad
+* 4de graad
+= populatierisico (0.1%)
+ D. GESLACHT VAN AANGEDANE PERSOON
+incidentie : jongens > meisjes
+herhalingsrisico hoger
+* als meisje aandoening heeft
+* voor jongens dan meisjes
+ E. POPULATIE FREQUENTIE
+Genetische kenmerken
+Genetische ziekten
+geografie
+ genetische variatie (spontaan)
+adaptieve evolutie
+niet adaptieve evolutie

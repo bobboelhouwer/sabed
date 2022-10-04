@@ -13,6 +13,8 @@ Wat is de concentratie aan H+, CH3COO- en CH3COOH in een oplossing, bereid door 
 oplossen van 0,1 mol CH3COONa en 0,2 mol CH3COOH, in voldoende water om 1 liter
 oplossing te bekomen.
 oplossing:
+[CH COO ]
+[CH 3COOH ]
 Oefening 5
 Bereken het procent ionisatie van volgende azijnzuur-oplossingen:
 oplossing:

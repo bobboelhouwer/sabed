@@ -33,8 +33,8 @@ Voorbeeld
 D
 D
 Voorbeeld (2)
-zodat x[k] = P w[k]
 Kies
+zodat x[k] = P w[k]
 D
 D
 Toestandsbeschrijving en
@@ -116,8 +116,8 @@ M en A hebben dezelfde K.P. want gelijkvormig
 Waarom die Ã en &
 Constructie van Q
 M en N&
-2de vergelijking:
-T
+2de
+vergelijking: T
 Constructie van Q
 Waarom die Ã en &
 Waarom die Ã en &
@@ -142,8 +142,8 @@ X
 Y
 Z
 Voorbeeld
-, canonieke vorm:
 Met Q =
+, canonieke vorm:
 D
 D
 Voorbeeld
@@ -188,13 +188,14 @@ efR
 Impulsresponsie
 Nulingangsresponsie
 Nultoestandsresponsie
-• u[k] = δ[k] ⇒ in 2de term blijft enkel index j=0 staan
+u[k] = δ[k] ⇒ in 2de term blijft enkel index j=0 staan
 Voorbeeld
 Impulsresponsie van 1ste orde systeem
 b
 D
 c
 op
+q
 Vorm impulsresponsie
 • Zelfde bespreking als nulingangsresponsie
 – vb. 1ste orde systeem: cbλk-1, zie boven

@@ -89,6 +89,7 @@ een 50:50 mengsel heeft dus [a] = 0°
 Stereochemie
  • Optische zuiverheid (%):
 specifieke rotatie staal
+X
 specifieke rotatie puur enantiomeer
 ✓ nul voor racemisch mengsel
 ✓ hieruit samenstelling mengsel te bepalen!

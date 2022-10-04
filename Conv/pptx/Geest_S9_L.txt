@@ -1,284 +1,330 @@
-Aanvullingen
-Responsie op
-ingangssignalen en begintoestand
-Responsie berekenen
-• Gegeven toestandsbeschrijving (A, B, C, D) ,
-• Toestandsbeschrijving
-• Exhaustieve berekening van x[k] en y[k]
-Voorbeeld
-Gegeven
-“Oplossen” toestandsvergelijking
-• Gegeven toestandsbeschrijving, u[k] en x[0], wat zijn x[k] en y[k] ?
-• Toestandsbeschrijving
-A
-Algemeen:
-• Uitgangssignaal
-Nulingangs- en nultoestandsrespons
-Nulingangsresponsie
-Nultoestandsresponsie
-• Nulingangsresponsie: y[k] als u[k]
-• Nultoestandsresponsie: y[k] als x[0] = 0
-Toestandsbeschrijving en
-gelijkvormige matrices
-Toestandsbeschrijving is niet uniek
-, np] een nxn inverteerbare matrix
-– Is verandering van coördinaten: w[k] zijn de coordinaten van x[k] in de
-basis {p
-Toestandsbeschrijving is niet uniek
-• In de nieuwe toestandsvector w[k] hebben we een
-equivalente toestandsbeschrijving:
-A en zijn gelijkvormig
-• Beide systemen zijn equivalent. Let wel op initiële
-toestand. Nulingangsresponsie:
-Zorg ervoor dat P w[0] = x[0], dan is ook P w[k] = x[k]
-voor k>0, en dus y[k]=
-Voorbeeld
-D
-D
-Voorbeeld (2)
-Kies
-zodat x[k] = P w[k]
-D
-D
-Toestandsbeschrijving en
-matrixdiagonalisatie
-Diagonaalvorm
-• Veronderstel dat A diagonaliseerbaar is
-• Kies P =1,[v... , nv] met iveigenvector van A met
-eigenwaarde
-• Voor SISO systeem:
-• Toestand i beinvloedt toestand
-≠i niet
-j
-Diagonaalvorm voor SISO systeem
-• Som van
-eerste-orde
-systemen
-• Plus directe
-verbinding
-met winst̅+
-Voorbeeld
-D
-D
-Minimaliteit
-Voor sommige systemen kan een
-/ * = 0. De toestandsveranderlijke
-wi[k] kan dan niet beïnvloed
-worden. Het systeem is niet
-controleerbaar.
-Voor sommige systemen kan een
-0̅* = 0. De toestandsveranderlijke
-wi[k] kan de uitvoer niet
-beïnvloeden. Het systeem is niet
-observeerbaar.
-Een systeem dat niet observeerbaar
-en/of niet controleerbaar is heet
-niet-minimaal. Hetzelfde ingangsuitgangsgedrag kan gerealiseerd
-worden met een kleiner aantal
-geheugenelementen.
-Inwendige (interne) stabiliteit
-• Een systeem is inwendig stabiel →
-als0 x[k]
-als k
-k
-w λnk vn
-• Inwendig instabiel zodra één
-• Inwendig stabiel
-Nulingangsresponsie
-Nulingangsresponsie
-Nultoestandsresponsie
-• Ak x[0] bestuderen
-A
-(c = rijvector; SISO system)
-Nulingangsresponsie
-k
-w λnk vn
-basis {v
-= P-1 x[k] is de coördinatenvector van x[k] in de
-k
-basis {v
-is een gewogen som van exponentiële functies in k
-Nulingangsresponsie
-Bijdragen tot nulingangsresponsie
-Attractor / aantrekker
-Inwendig stabiel
-Repeller / afstoter
-Inwendig onstabiel
-Saddle point / zadelpunt
-Inwendig onstabiel
-Complexe eigenwaarden
-ω is genormaliseerde frequentie. 0 < 7 < 1
-• Eigenvectoren
-i en
-i
-• Neem complex toegevoegde termen samen in
-E
-een reële rijvector;
-ccis
-E
-Re
-G
-Complexe eigenwaarden (2)
-G
-• Bijdrage door complexe eigenwaarde in y[k] is
-product van:
-k - zie
-o Exponentieel verloop
-r reële eigenwaarde
-o Golvend verloop (K
-cos
-Complexe eigenwaarden
-Inwendig stabiel
-Bijdrage tot nulingangsresponsie
-Canonieke vorm en
-differentievergelijking
-Canonieke vorm
-• Zoek transformatiematrix 1Q
-q] zodat door de
-n
-M
-gelijkvormigheidstransformatie:
-M
-R
-Mnoemen we een compagnon-matrix
-Men A hebben dezelfde K.P. want gelijkvormig
-• Constructie van Q – zie later
-Waarom die Ã O
-en
-Constructie van Q
-2de vergelijking:T
-T
-Constructie van Q
-U
-T
-PQ
-PQ
-Waarom die Ã O
-en
-w
-w
-w
-w
-w
-w
-w
-Waarom die Ã O
-en
-Dus:
-Uitgangsvergelijking:
-Herschrijf:
-w1[k] elimineren
-Differentievergelijking
-O
-O
-f
-• Rechtstreeks verband tussen u[k] en y[k]
-• Dit heet een differentievergelijking
-• Alternatief voor de toestandsbeschrijving
-• Is een verband tussen differentievergelijking en canonieke vorm
-• M.a.w.: gegeven een differentievergelijking
-f
-f
-f
-Dan komen daarmee toestandsbeschrijvingen overeen die allemaal dezelfde K.P.
-hebben:%! + PQ
-R
-• Ook: gegeven een toestandsbeschrijving (A, b, c, d), dan komt daarmee een
-differentievergelijking overeen waarbij
-dedeã coëfficiënten van de K.P.
-i ook
-van A zijn
-Voorbeeld
-X
-Y
-X
-Y
-Z
-PQ
-PQ
-Voorbeeld
-O
-Met Q =
-, canonieke vorm:
-D
-D
-Voorbeeld
-PQ
-D
-D
-de differentievergelijking gehaald uit de canonieke vorm
-Impulsresponsie en convolutie
-Impulsresponsie
-• Doel: berekenen van de responsie. We hadden al:
-Exhaustief
-• Nultoestandsimpulsrespons (impulsrespons) h[k] van
-een SISO DTLTI systeem is y[k] wanneer
-k
-k
-k
-Verschoven impuls
-k
-k
-k
-k
-Ontbinding u[k]
-Lineair en tijdsinvariant
-Convolutie
-• Formeel
-d
-efd
-d
-b
-Lineair
-Tijdsinvariant
-• Voor een systeem dat uit de nultoestand vertrekt !
-• y[k] is de convolutie van u[k] en h[k]
-• Uitvoer is convolutie van invoer en impulsresponsie
-Convolutie
-Neutraal element: a[k]
-Lineair:
-• Enkelzijdige signalen a[k] = b[k] = 0 voor k<0 :
-d
-E
-=aPb
-efd
-efR
-• Causaal systeem: h[k] = 0 voor k<0
-Geen respons vóór de excitatie
-Impulsresponsie
-Nulingangsresponsie
-Nultoestandsresponsie
-2 term blijft enkel index j=0 staan
-de term:
-cA
-b
-Voorbeeld
-d
-E
-E
-E
-E
-steorde
-Impulsresponsie van
-1 systeem
-b
-D
-c
-k
-op
-E
-cb
-c
-q
-E
-E
-E
-Vorm impulsresponsie
-cAvoor k > 0
-• Zelfde bespreking als nulingangsresponsie
-steorde systeem:λk-1
-cb, zie boven
-• Voor diagonaliseerbare A, som van:
-o Exponentiëel verloop
-λ complex)
-o Schommelend exponentiëel verloop
+Hoofdstuk 1.3
+Het authentieke leven
+Inleiding
+Kierkegaard
+Heidegger
+Sartre en de Beauvoir
+ 1. Inleiding
+• Ervaring van disharmonie in de moderne maatschappij:
+• Gevoel van vervreemding t.o.v. de wereld
+• Kloof tussen individu en wereld: verlies aan oriëntatie en
+zekerheid
+• Toenemend belang van existentiële vragen: wie ben ik?
+• Toenemend belang van authenticiteit, ‘zichzelf zijn’
+• Onmogelijkheid van harmonie met de wereld, dus harmonie
+met zichzelf proberen te realiseren
+ 1. Inleiding
+(1) Traditioneel: diep, wezenlijk, oorspronkelijk zelf, soort essentie
+• Naar die essentie moet je op zoek gaan, kan lukken of
+mislukken (‘Ze heeft zichzelf nog niet gevonden’, ‘Hij is weer
+helemaal zichzelf’)
+• Imago kan wel of niet overeenkomen met iemands diepe zelf
+• Authentiek leven = leven in overeenstemming met gegeven
+essentie
+(2) Existentiefilosofen: geen dieper zelf, je creëert het door
+invulling te geven aan je bestaan
+ 2. Kierkegaard
+• https://nl.wikipedia.org/wiki/S%C3%B8r
+en_Kierkegaard
+• Abstracte theorie zegt niet hoe je moet
+leven
+• Het concrete individuele bestaan
+(existentie) kan niet begrepen
+worden a.d.h.v. abstracte filosofie
+• Moderne tijd: denken in abstracties.
+‘Niemand, geen mens, durft “ik” te
+zeggen.’
+• ‘Het leven is een mysterie dat geleefd
+moet worden, niet een probleem dat
+ 2. Kierkegaard
+• Stadia op de levensweg
+(1) Esthetisch stadium (Don Juan)
+• Genieten zonder verantwoordelijkheid te nemen: genot,
+avontuur
+• Focus op het uiterlijke, en dus vergankelijke
+• Leven van moment tot moment: geen stabiliteit of
+continuïteit
+• Oppervlakkig sociaal, fundamenteel eenzaam: geen
+echte relaties
+• Oppervlakkig actief, fundamenteel passief: afhankelijk
+van wat op zijn levensweg komt
+• Maar: nooit echte bevrediging, soort leegte =>
+ 2. Kierkegaard
+(2) Ethisch stadium (Socrates)
+• https://nl.wikipedia.org/wiki/Socrates_(filosoof)
+• Verantwoord leven volgens absolute ethische normen
+• Niet passief, maar actief handelen in de wereld
+• Duurzame engagementen
+• Maar: confrontatie met tekortkomingen, botsende plichten,
+zondigheid=> schuldbewustzijn
+ 2. Kierkegaard
+(3) Religieus stadium (Abraham)
+• Opgeven om het bestaan in eigen handen te nemen
+• Geloof in God als sprong: irrationele overgave aan God
+• Geloof niet op basis van argumenten of bewijzen
+• Authentiek leven = kunnen springen zonder dat je zekerheid
+hebt
+• Het bestaan wordt pas betekenisvol als men het uit handen geeft
+• Moderne invulling van ‘geloof’
+• Geloof is niet rationeel of wetenschappelijk te begronden
+• Geloof als resultaat van de persoonlijke keuze om te
+‘springen’
+ 3. Heidegger
+• https://nl.wikipedia.org/wiki/Marti
+n_Heidegger
+Inspiratiebronnen: o.a.
+• Existentiefilosofie: cf. Kierkegaard
+• Fenomenologie: Edmund Husserl
+ 3. Heidegger
+Edmund
+Fenomenologie
+• Grondlegger Edmund Husserl (1859-1938)
+• https://nl.wikipedia.org/wiki/Edmund_Husserl
+• Centrale vraag : hoe verschijnt de wereld
+aan het bewustzijn?
+• Bewustzijn = gericht op de dingen
+• Fenomenologie = werkelijkheid beschrijven
+zoals die wordt ervaren
+• Leefwereld = de wereld zoals die betekenis
+krijgt in de onmiddellijke ervaring,
+voorafgaand aan wetenschappelijke
+interpretatie
+ 3. Heidegger
+Fenomenologie Husserl
+• Wetenschap objectiveert en idealiseert
+• Objectivering: om zaken aan anderen over te brengen
+• Idealisering: ideële constructies, bv. economische modellen
+• Probleem: objectivisme
+• Wetenschap vergeet dat ze gebaseerd is op constructies
+• Wetenschap vergeet dat ze maar één methode biedt om wereld te
+beschrijven
+• Wetenschap komt pas in tweede instantie, in eerste instantie leven we
+in de ‘leefwereld’
+• Bv. muziek – opeenvolging van trillingen met bepaalde frequenties
+ 3. Heidegger
+Fenomenologie Husserl
+• Nood aan studie van de leefwereld: filosofie als
+‘strenge Wissenschaft’
+• De leefwereld ‘verschijnt’ anders afhankelijk van
+situatie
+• Bv. ervaring van de tijd
+• Wetenschap: de tijd van de klok (de tijd als ruimte)
+• Leefwereld: de tijd van de verveling, de tijd van de
+haast, de tijd van de angst enz.
+ 3. Heidegger
+Sein und Zeit
+• Wat is de zin van het zijn?
+• De mens als enige zijnde dat zich verhoudt tot feit dat het is
+• De mens heeft zelf niet gekozen om er te zijn
+• Hij is ‘geworpen’: hij heeft ‘te zijn’
+• Wel: besluiten ‘hoe’ te zijn
+• Geen vaste eigenschappen
+• Maar mogelijke manieren om zich te verhouden tot je
+feitelijke eigenschappen, om er een invulling aan te
+geven.
+ 3. Heidegger
+• Menselijk zijn is wezenlijk ‘Mit-sein’
+• Anderen zijn aanwezig in alles wat we doen (bv.
+gemeenschappelijke taal)
+• Wat ik doe, is mee bepaald door wat ‘men’ doet
+• ‘das Man’: anoniem, onpersoonlijk.
+• Zich laten leiden door het ‘men’ = inauthentiek (‘uneigentlich’)
+• ‘Men denkt’ zus of zo
+• Bv. publieke opinie
+• Onvermijdelijk in het dagelijks leven
+• Je laat de anderen voor je beslissen, maar impliciet heb je
+daar zelf toe besloten (inauthenticiteit is een keuze)
+•  Authenticiteit (‘Eigentlichkeit’) = trouw zijn aan je zelf
+ 3. Heidegger
+• Authenticiteit = ‘Sein zum Tode’
+• Confrontatie met de dood = confrontatie met je zijn
+• Niemand kan jouw dood sterven / jouw leven leiden
+• De dood haalt ons weg van het ‘men’:
+• ‘In zekere zin kan ik alleen in het sterven absoluut
+• Vrees: voor een bepaald object
+• Angst: voor het niets, de leegte
+ 3. Heidegger
+• Sterven = bevrijding
+• Het lichaam ketent onze
+ziel vast
+• Dood bevrijdt de ziel
+• ‘Als wij er zijn is de dood er
+niet,
+en als de dood er is, zijn wij
+er niet.’
+ 3. Heidegger
+• Hoe omgaan met de dood?
+• Je laten leiden door ‘sas Man’: de dood wegduwen
+• Cf. ‘gebabbel’ (= je eigen dood verdoezelen)
+• Cf. plaats van de dood en het rouwen in de moderne
+samenleving
+• Maar: de dood is alomtegenwoordig, ook in het
+alledaagse leven
+• Bv. zich haasten
+ 3. Heidegger
+• Onsterfelijkheid = eeuwigdurend uitstel van keuzes, niets
+heeft nog betekenis
+• Het leven krijgt zin door de sterfelijkheid
+• Authenticiteit: de dood begrijpen als baken van het leven
+• De dood is niet een toestand die intreedt op het einde,
+niet iets voor ‘later’
+• De dood doortrekt heel het leven: de dood is een manier
+van zijn
+• De dood intensifieert het leven, maakt het uniek
+• Door de dood krijgen onze keuzes een speciale betekenis.
+ 4. Sartre en de
+Beauvoir
+• https://nl.wikipedia.org/wiki/J
+ean-Paul_Sartre
+• Radicale vrijheid van het
+individu
+• Radicale afwezigheid van
+harmonie tussen individu en
+wereld
+• Authenticiteit = trouw zijn
+aan de eigen vrijheid
+ 4. Sartre en de Beauvoir
+• Existentie
+• Dingen bestaan
+• Mensen existeren: ze zijn betrokken op hun bestaan (existentialisme)
+• Existentie vereist bewustzijn
+• Bewustzijn ≠ vat waarin voorstellingen en ideeën zitten
+• Bewustzijn = intentionaliteit (cf. Husserl)
+• D.w.z. ‘gerichtheid op’
+• Bewustzijn is altijd bewustzijn van iets
+• Twee vormen van ‘zijn’: de mens en de andere ‘zijnden’
+• De mens: bewustzijn => “pour soi” (het voor-zich-zijn)
+• De andere zijnden => “en soi” (het op-zich-zijn)
+ 4. Sartre en de Beauvoir
+En soi
+• De dingen zijn wat ze zijn
+• Ze zijn bepaald
+• Ze zijn niet betrokken op iets, noch op zichzelf
+• Ze hebben geen ‘mogelijkheden’ om te iets anders te
+worden dan ze zijn.
+• De dingen zijn identiek aan zichzelf
+ 4. Sartre en de Beauvoir
+Pour soi
+• De mens is een werkelijkheid die voor zichzelf is en
+waarvoor andere werkelijkheden kunnen zijn
+• Het bewustzijn van de mens is onderscheiden van
+datgene waarop het betrokken is
+• Wanneer het bewustzijn gericht is op een object, dan
+weet het bewustzijn dat het niet identiek is met dat
+object
+• Dat object kan ook het ‘ik’ zijn
+• Bewustzijn als mogelijkheid om ja/nee te zeggen tegen wat
+je bent
+ 4. Sartre en de Beauvoir
+• Mens zijn = vrij zijn = onbepaald zijn
+• De mens heeft geen ‘essentie’: een vaste, onveranderlijke
+kern
+• ‘L’existence précède l’essence’
+• De mens ‘is’ niet, maar ‘existeert’: de mens moet zichzelf
+• Dat ik ben gaat vooraf aan wat ik ben: de mens moet
+zichzelf scheppen, zichzelf steeds opnieuw heruitvinden,
+zichzelf overstijgen
+• Authenticiteit vs. ‘kwade trouw’: zichzelf voorliegen
+• Bv. zichzelf wijsmaken dat je een essentie hebt
+ 4. Sartre en de Beauvoir
+Racisme als kwade trouw
+• De racist (bv. antisemiet)
+• pint de mens vast op een essentie , ze zijn nu eenmaal zo
+• De democraat/liberaal
+• ‘alle mensen zijn gelijk’: abstractie van huidskleur of etnische
+achtergrond
+• Black pride
+• fier zijn op de essentie van ‘zwart’ zijn
+ Authenticiteit: je behoudt een afstand tot je identiteit
+• Je bent Jood, maar ‘jood zijn’ is niet je essentie: je ‘leeft’ je
+jood-zijn op altijd weer creatieve manieren
+• Huidskleur is niet je essentie: je moet ze op een bepaalde
+manier ‘leven’
+ 4. Sartre en de
+Beauvoir
+• https://nl.wikipedia.org/wiki/Simo
+ne_de_Beauvoir
+• ‘Je wordt niet als vrouw geboren,
+je wordt tot vrouw gemaakt’: er
+is geen essentie van ‘vrouw zijn’
+• Le deuxième sexe: sleutelwerk
+20e eeuws feminisme
+ 4. Sartre en de Beauvoir
+• Patriarchaat (= te kwader trouw)
+• ‘Vrouwen zijn van nature minder rationeel, emotioneler’
+(=biologische essentie)
+• Liberaal (= te kwader trouw)
+• Alle mensen gelijk: tegen feminisme, man/vrouw
+onderscheid overstijgen
+• ‘Een vrouw die claimt voorbij de sekse te staan is te
+kwader trouw.’
+ Feminisme = vrij zijn, kwade trouw laten varen
+• Risico durven nemen door in te gaan tegen mannen
+• Vrouw-zijn telkens heruitvinden
+• Vrijheid kan angst met zich mee brengen
+ 4. Sartre en de Beauvoir
+Vrijheid
+• Vrij zijn = niet dit of dat zijn, geen essentie hebben
+• Vrij zijn = de mogelijkheid openhouden om ook iets anders
+te zijn
+• Vrij zijn = het vermogen ‘neen’ te zeggen
+• Vrij zijn = onbepaaldheid behouden
+• Vrijheid => verantwoordelijkheid
+• Je kan je verhouden t.a.v. je karakter: bv. beschaamd zijn.
+• Je valt niet samen met je karakter. Je kan ‘neen’ zeggen aan
+je karakter.
+• Je hebt er in zekere zin voor gekozen, ook al deed je dat niet
+bewust.
+ 4. Sartre en de Beauvoir
+Kwade trouw, inauthenticiteit
+• Je vrijheid miskennen, doen alsof je bepaald wordt door
+externe krachten, bv. waarden, karakter, omstandigheden.
+• Bv. schuld bij de omstandigheden leggen = vrijheid
+ontlopen.
+• Bv. ‘ik kan niet anders’
+• Bv. ‘ik ben nu eenmaal zo’
+=> miskennen dat we vrije keuzes maken
+ 4. Sartre en de Beauvoir
+• Kwade trouw = jezelf voorliegen: miskennen dat je radicaal
+vrij en onbepaald bent
+• Bv. Je helemaal proberen te identificeren met je rol: de ober
+• Beseft niet meer dat hij een rol speelt, dat hij ervoor kiest
+ober te zijn, dat hij vrij beslist elke ochtend vroeg op te
+staan.
+• Hij handelt als een ding, een mechanisme.
+• Hij speelt dat hij kelner is, maar vergeet dat het spel is.
+ 4. Sartre en de Beauvoir
+Relatie met de ander
+• Je kijkt door het sleutelgat, en je merkt plots dat iemand je
+gezien heeft.
+• De blik van de ander transformeert mijn hele wereld.
+• In de ogen van de ander ben je een voyeur. Je hebt een
+‘essentie’.
+• De blik objectiveert: hij maakt jou tot ding of object, een
+• Plots ervaar je jezelf als een object voor de blik van de
+ander
+• Ik ontdek dat ik een voyeur ben, in schaamte. Mijn
+schaamte is een bekentenis.
+• Reactie in kwade trouw: dit is nu eenmaal hoe ik ben, dit
+ 4. Sartre en de Beauvoir
+• Mogelijke reactie: je gaat op je beurt de ander tot en soi
+herleiden.
+• Elke sociale relatie: ik word door de ander tot object
+gemaakt, of ik maak de ander tot object
+• Wederzijdse erkenning en harmonie zijn onmogelijk =>
+fundamenteel conflict
+• Authenticiteit: fundamenteel conflict (tss. mezelf en
+anderen, mezelf en de wereld) aanvaarden
+ 4. Sartre en de Beauvoir
+De mens is veroordeeld om vrij te zijn.
+• We zijn gedoemd om keuzes te maken
+• Inauthenticiteit is ook een keuze, nl. om de eigen vrijheid te
+ontvluchten
+• We zijn verantwoordelijk voor onze keuzes
+• Er is geen objectieve basis om keuzes te maken: niets biedt
+ons de zekerheid dat we de juiste keuze maken
+• Belang van engagement (omdat we vrij en verantwoordelijk
+zijn)
+• Sartres filosofie houdt een oproep in om bewust na te
+denken over hoe en wie je wil zijn, en je daarvoor te
+engageren, jezelf voortdurend te overstijgen.

@@ -34,10 +34,10 @@ Ze zijn al vertrokken, dus wij zullen ook vertrekken.
 Ze zijn al vertrokken, dus zullen wij ook vertrekken.
 Ze zijn al vertrokken, wij zullen dus ook vertrekken.
  Nevenschikking: Basistypes
+VV
 Ze zijn al vertrokken, dus wij zullen ook vertrekken.
 Ze zijn al vertrokken, dus zullen wij ook vertrekken.
 Ze zijn al vertrokken, wij zullen dus ook vertrekken.
-VV
 MV
 AV
 VV

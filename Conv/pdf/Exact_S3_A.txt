@@ -5,18 +5,30 @@ KU Leuven campus Kulak Kortrijk
 Karel.Dekimpe@kuleuven.be
   Inhoudsopgave
 1 Wiskundige beweringen en bewijzen
-1.5.3 Variatie 2: Sterke principe van volledige inductie . . . . . . . . . . . . .
+1.2.3 Logische equivalenties en tautologieën . . . . . .
+1.3.3 Achterwaarts construeren van bewijzen . . . . .
+1.4.2 Bewijs van implicaties uit het ongerijmde . . . .
+1.5.1 Het principe van volledige inductie . . . . . . . .
+1.5.3 Variatie 2: Sterke principe van volledige inductie
 2 Verzamelingen en kwantoren
+2.2.1 De universele en existentiële kwantor . . .
+2.2.2 Bewijzen van beweringen met kwantoren .
 iii
  INHOUDSOPGAVE
 3 Relaties
+3.1.2 Inverse relatie en samenstelling
+3.1.3 Grafische voorstelling . . . . .
+3.2.2 Partities en equivalentieklassen
+3.3.2 Begrippen rond orderelaties . .
 4 Functies en Afbeeldingen
+4.1.3 Beeld en invers beeld van een verzameling
+4.2 Injecties, surjecties en bijecties . . . . . . . . . .
 5 Tellen, telwijzen en toepassingen
-5.3.1 Volgorde van belang - geen teruglegging (dus geen herhaling mogelijk) . 80
-5.3.2 Volgorde van belang - met teruglegging (dus herhaling mogelijk) . . . . 81
-5.3.3 Volgorde niet van belang - geen teruglegging (dus geen herhaling mogelijk) 81
-5.3.4 Volgorde niet van belang - met teruglegging (dus herhaling toegelaten) . 82
-5.6.1 Over de voorstelling van reële getallen t.o.v. een gekozen grondtal . . . 91
+5.3.1 Volgorde van belang - geen teruglegging (dus geen herhaling mogelijk) .
+5.3.2 Volgorde van belang - met teruglegging (dus herhaling mogelijk) . . . .
+5.3.3 Volgorde niet van belang - geen teruglegging (dus geen herhaling mogelijk)
+5.3.4 Volgorde niet van belang - met teruglegging (dus herhaling toegelaten) .
+5.6.1 Over de voorstelling van reële getallen t.o.v. een gekozen grondtal . . .
 © K. Dekimpe
 Pagina iv
  INHOUDSOPGAVE
@@ -325,8 +337,9 @@ Nu gaan we nadenken hoe het te bewijzen zou kunnen volgen uit het gegeven. Omdat
 iets willen weten over a2 en b2 ligt het voor de hand om de gegeven ongelijkheid met a en b te
 vermenigvuldigen. Omdat a en b strikt positief zijn blijven de ongelijkheden behouden zodat
 en
-Omdat we aangenomen hebben dat a < b waar is volgt nu dat a2 < ab en ab < b2 . Deze twee
+Omdat we aangenomen hebben dat a < b waar is volgt nu dat
 ongelijkheden bevatten beide ab en er geldt
+Deze twee
 Omdat a < b weten we al dat a2 < ab en ab < b2 en daarom geldt vanwege (1.3) dat a2 < b2
 waar is.
 De lezer zou zich kunnen afvragen waarom we weten dat (1.1), (1.2) en (1.3) waar zijn. Het
@@ -602,6 +615,7 @@ volgende eigenschappen:
 (b) f4n is deelbaar door 3 voor alle n ≥ 1,
 n
 n
+voor alle n ≥ 1. Hint: bereken eerst α2
 9. Iemand beweert: “voor elk natuurlijk getal n groter of gelijk aan 1 geldt dat, als er n
 paarden in een verzameling zijn, die paarden allemaal dezelfde kleur hebben”. Hij zet
 zijn bewering kracht bij door het volgende bewijs (door volledige inductie).
@@ -1684,7 +1698,8 @@ Voorbeeld 4.10 – Beschouw de functies
 Pagina 61
  FUNCTIES EN AFBEELDINGEN
 en
-We weten dat dom(f ) = R+
+We weten dat dom(f ) =
+en dom(g) =
 Als y = f (x) ∈ R+ , dan is het mogelijk om
 g(y) = g(f (x)) te bepalen. Als we f en g als relaties noteren, dan weten we uit Definitie 3.8
 dat
@@ -2186,6 +2201,7 @@ toepassingen hiervan.
 We zullen hierbij gebruik maken van de volgende definitie.
 Definitie 5.20
 Voor elk natuurlijk getal n definieert men
+als n =
 Heel wat telproblemen kunnen herleid worden tot een basisvorm van het type:
 “Kies (neem, trek) uit een voorraad van n voorwerpen k keer na elkaar een
 voorwerp.”
@@ -2474,22 +2490,27 @@ k
 • (Inductiestap) Veronderstel nu dat de stelling geldt voor alle waarden n kleiner of gelijk
 aan N ; dit betekent in het bijzonder dat
 X
+a
 k
 Bijgevolg is
 X
+a
+b
+k
 X
+X
+a
+a
+b
+X
+k
+a
+k
 X
 k
 N
-a
-k
-k
-a
-k
 X
 k
-N
-X
 a
 b
 a
@@ -2604,7 +2625,6 @@ De cijfers in een decimale voorstelling komen uit de verzameling {0, 1, 2, . . .
 Een decimale schrijfwijze van een reëel getal is niet noodzakelijk uniek bepaald. Immers,
 b.v. in de cursus “Analyse en Calculus” leert men dat
 X
-i
 Analoog verifieert men dat b.v.
 In het algemeen kan elke ‘eindigende voorstelling’ (een eindig aantal cijfers na de komma), op
 die manier geschreven worden als een niet eindigende voorstelling (behalve 0), met een “staart
@@ -2630,8 +2650,8 @@ We gaan gebruiken dat we elk reëel getal x ∈ [0, 1] kunnen schrijven door mi
 unieke decimale ontwikkeling (gebruik staarten van 9’s i.p.v. eindigende voorstellingen) van
 de vorm
 schrijven de decimale ontwikkeling van het getal f (j) als
-met getallen ajk ∈ {0, 1, 2 . . . , 9}. We zetten al deze decimale ontwikkelingen bijeen in een
 (oneindige) matrix
+al deze decimale ontwikkelingen bijeen in een
 We gaan nu laten zien dat er een getal x ∈ [0, 1] bestaat met een decimale ontwikkeling
 die verschillend is van al de bovenstaande decimale ontwikkelingen. Dit doen we met een
 zogenaamd diagonaalargument.

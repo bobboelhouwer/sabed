@@ -184,8 +184,8 @@ Aminozuren en eiwitten
  15.7 Peptiden
 • voorstelling polypeptideketen
 begin
-einde
 basische eind
+einde
 zure eind
 • tripeptide met drie verschillende aminozuren (n → n!)
 • onderscheid peptide – polypeptide - eiwit niet scherp
@@ -252,10 +252,11 @@ gly
 gly-ala
 Aminozuren en eiwitten
  • voorbeeld schutgroep X:
-voorwaarden ✓ nucleofiel karakter –NH2 uitschakelen
+✓ nucleofiel karakter –NH2 uitschakelen
 ✓ na synthese gemakkelijk en selectief te verwijderen
 zuurchloride? amine → amide
 niet selectief te verwijderen
+voorwaarden
 tert-butyloxycarbonylchloride (BOC)
 CH3
 C

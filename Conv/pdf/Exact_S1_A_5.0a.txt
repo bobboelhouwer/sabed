@@ -56,16 +56,16 @@ Oplossing
 n RT
 V
 evenwicht: Ptotaal = 1000 kPa
+2 NOCl(g)
 start
 evenwicht
-2 NOCl(g)
 = PNOCl
 Ptotaal
 PNO +
-PCl2
-x
 Kp
 PNOCl
+PCl2
+x
 (kPa)
 x
 waardoor de drukken bij evenwicht worden:
@@ -75,17 +75,17 @@ PNOCl
 PNO
 PCl2
 x
+o
+o
 met
-o
-o
  Aanvullende voorbeelden bij Hoofdstuk VII
 NO(g)
 Bij een temperatuur van 25 °C brengen we 200 kPa ozon en 2 mol stikstofmonoxidegas in een vat van 10 l. Bij evenwicht bedraagt de druk van het zuurstofgas 0,3 atm.
 Bijkomende gegevens: Hov (NO, g) = 91,3 kJ mol-1
-(a) Bereken Kp.
-(b) Bij welke temperatuur krijgen we een Kp-waarde van 0,9?
-(c) Wat wordt de Kc-waarde bij 50 °C?
-(d) Wanneer de temperatuur wordt opgedreven tot 50 °C, wat wordt na instellen
+Bereken Kp.
+Bij welke temperatuur krijgen we een Kp-waarde van 0,9?
+Wat wordt de Kc-waarde bij 50 °C?
+Wanneer de temperatuur wordt opgedreven tot 50 °C, wat wordt na instellen
 van het nieuwe evenwicht de druk van stikstofdioxide?
 oplossing
 n RT
@@ -94,21 +94,21 @@ V
 evenwicht: PO2
 NO(g)
 start
-x
-evenwicht
-PO2
+en
 PNO2
+x
 x
 PNO
 PO3
-en
 PNO2 PO2
-Kp
 PNO PO3
 x
 (b) De Van ’t Hoff vergelijking:
 ln
 R
+PO2
+Kp
+evenwicht
 x
 (kPa)
  Aanvullende voorbeelden bij Hoofdstuk VII
@@ -121,6 +121,7 @@ R
 met
 ln
 ln
+ng
 Vermits ng = 0
 wordt
  Aanvullende voorbeelden bij Hoofdstuk VII
@@ -165,8 +166,8 @@ x
 bijvoegen van Cl2: 3 mol per 20 l = 0,15 M
 PCl5(g)
 PCl3(g)
-evenwicht 0,29 + x
 start
+evenwicht 0,29 + x
 Na uitwerken krijgen we:
 Bij evenwicht:
 Le Châtelier : PCl3

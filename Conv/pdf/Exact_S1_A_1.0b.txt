@@ -339,7 +339,7 @@ van ureum.
 Oplossing:
 Oefening 58
 Gegeven:
-Gevraagd: Bereken ∆H
+Gevraagd: Bereken
 V
 van ClF3.
 Oplossing:

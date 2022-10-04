@@ -1,284 +1,116 @@
-Aanvullingen
-Responsie op
-ingangssignalen en begintoestand
-Responsie berekenen
-• Gegeven toestandsbeschrijving (A, B, C, D) ,
-• Toestandsbeschrijving
-• Exhaustieve berekening van x[k] en y[k]
-Voorbeeld
-Gegeven
-“Oplossen” toestandsvergelijking
-• Gegeven toestandsbeschrijving, u[k] en x[0], wat zijn x[k] en y[k] ?
-• Toestandsbeschrijving
-A
-Algemeen:
-• Uitgangssignaal
-Nulingangs- en nultoestandsrespons
-Nulingangsresponsie
-Nultoestandsresponsie
-• Nulingangsresponsie: y[k] als u[k]
-• Nultoestandsresponsie: y[k] als x[0] = 0
-Toestandsbeschrijving en
-gelijkvormige matrices
-Toestandsbeschrijving is niet uniek
-, np] een nxn inverteerbare matrix
-– Is verandering van coördinaten: w[k] zijn de coordinaten van x[k] in de
-basis {p
-Toestandsbeschrijving is niet uniek
-• In de nieuwe toestandsvector w[k] hebben we een
-equivalente toestandsbeschrijving:
-A en zijn gelijkvormig
-• Beide systemen zijn equivalent. Let wel op initiële
-toestand. Nulingangsresponsie:
-Zorg ervoor dat P w[0] = x[0], dan is ook P w[k] = x[k]
-voor k>0, en dus y[k]=
-Voorbeeld
-D
-D
-Voorbeeld (2)
-Kies
-zodat x[k] = P w[k]
-D
-D
-Toestandsbeschrijving en
-matrixdiagonalisatie
-Diagonaalvorm
-• Veronderstel dat A diagonaliseerbaar is
-• Kies P =1,[v... , nv] met iveigenvector van A met
-eigenwaarde
-• Voor SISO systeem:
-• Toestand i beinvloedt toestand
-≠i niet
-j
-Diagonaalvorm voor SISO systeem
-• Som van
-eerste-orde
-systemen
-• Plus directe
-verbinding
-met winst̅+
-Voorbeeld
-D
-D
-Minimaliteit
-Voor sommige systemen kan een
-/ * = 0. De toestandsveranderlijke
-wi[k] kan dan niet beïnvloed
-worden. Het systeem is niet
-controleerbaar.
-Voor sommige systemen kan een
-0̅* = 0. De toestandsveranderlijke
-wi[k] kan de uitvoer niet
-beïnvloeden. Het systeem is niet
-observeerbaar.
-Een systeem dat niet observeerbaar
-en/of niet controleerbaar is heet
-niet-minimaal. Hetzelfde ingangsuitgangsgedrag kan gerealiseerd
-worden met een kleiner aantal
-geheugenelementen.
-Inwendige (interne) stabiliteit
-• Een systeem is inwendig stabiel →
-als0 x[k]
-als k
-k
-w λnk vn
-• Inwendig instabiel zodra één
-• Inwendig stabiel
-Nulingangsresponsie
-Nulingangsresponsie
-Nultoestandsresponsie
-• Ak x[0] bestuderen
-A
-(c = rijvector; SISO system)
-Nulingangsresponsie
-k
-w λnk vn
-basis {v
-= P-1 x[k] is de coördinatenvector van x[k] in de
-k
-basis {v
-is een gewogen som van exponentiële functies in k
-Nulingangsresponsie
-Bijdragen tot nulingangsresponsie
-Attractor / aantrekker
-Inwendig stabiel
-Repeller / afstoter
-Inwendig onstabiel
-Saddle point / zadelpunt
-Inwendig onstabiel
-Complexe eigenwaarden
-ω is genormaliseerde frequentie. 0 < 7 < 1
-• Eigenvectoren
-i en
-i
-• Neem complex toegevoegde termen samen in
-E
-een reële rijvector;
-ccis
-E
-Re
-G
-Complexe eigenwaarden (2)
-G
-• Bijdrage door complexe eigenwaarde in y[k] is
-product van:
-k - zie
-o Exponentieel verloop
-r reële eigenwaarde
-o Golvend verloop (K
-cos
-Complexe eigenwaarden
-Inwendig stabiel
-Bijdrage tot nulingangsresponsie
-Canonieke vorm en
-differentievergelijking
-Canonieke vorm
-• Zoek transformatiematrix 1Q
-q] zodat door de
-n
-M
-gelijkvormigheidstransformatie:
-M
-R
-Mnoemen we een compagnon-matrix
-Men A hebben dezelfde K.P. want gelijkvormig
-• Constructie van Q – zie later
-Waarom die Ã O
+Ondernemingsbewijsrecht
+ Wetgevende evolutie
+o
+o
+o
+Bewijs in handelszaken verspreid over verschillende artikelen W.Kh. en BW
+Veel rechtspraak
+Aanknopingspunten: “handelaar”, “koopman” en “daden van koophandel”
+• Tijdelijke oplossing: art. 1348bis BW
+o
+Aanknopingspunt: “onderneming” in formele zin (toepassingsgebied verruimd)
+o
+o
+o
+Boek 8 “Bewijs” in het nieuw Burgerlijk Wetboek
+Inwerkingtreding 1 november 2020
+Art. 1348bis oud BW wordt, met enkele wijzingen, nieuw artikel 8.11 NBW.
+ (Nieuw) Burgerlijk Wetboek in de stijgers
+boek 1. Algemene bepalingen
+boek 2. Personen, familie en relatievermogensrecht
+boek 3. Goederen
+boek 4. Nalatenschappen, schenkingen en testamenten
+boek 5. Verbintenissen
+boek 6. Bijzondere overeenkomsten
+boek 7. Zekerheden
+boek 8. Bewijs
+boek 9. Verjaring
+ “Bewijzen”
+Art. 8.3. Algemene regel
+Behalve in de gevallen waarin de wet anders bepaalt, moeten feiten of
+rechtshandelingen worden bewezen wanneer ze aangevoerd en betwist zijn.
+Algemeen bekende feiten of ervaringsregels moeten niet bewezen worden.
+Het recht, zelfs buitenlands, moet niet bewezen worden.
+ Bewijslast
+Art. 8.4. Regels die de bewijslast bepalen
+Hij die meent een ander in rechte te kunnen aanspreken, moet de rechtshandelingen of feiten
+bewijzen die daaraan ten grondslag liggen.
+Hij die beweert bevrijd te zijn, moet de rechtshandelingen of feiten bewijzen die zijn bewering
+ondersteunen.
+Alle partijen zijn gehouden om mee te werken aan de bewijsvoering.
+In geval van twijfel wordt hij die de door hem beweerde rechtshandelingen Bofewfeiten moet
+ijsri
+sico
+bewijzen, in het ongelijk gesteld, tenzij de wet anders bepaalt.
+De rechter kan, bij een met bijzondere redenen omkleed vonnis, in het licht van uitzonderlijke
+omstandigheden, bepalen wie de bewijslast draagt wanneer de toepassing van de in de vorige
+leden opgelegde regels kennelijk onredelijk zou zijn (…)
+ Toelaatbaarheid van bewijsmiddelen
+≠ rechtm
+atig
+(verkreg
 en
-Constructie van Q
-2de vergelijking:T
-T
-Constructie van Q
-U
-T
-PQ
-PQ
-Waarom die Ã O
-en
-w
-w
-w
-w
-w
-w
-w
-Waarom die Ã O
-en
-Dus:
-Uitgangsvergelijking:
-Herschrijf:
-w1[k] elimineren
-Differentievergelijking
-O
-O
-f
-• Rechtstreeks verband tussen u[k] en y[k]
-• Dit heet een differentievergelijking
-• Alternatief voor de toestandsbeschrijving
-• Is een verband tussen differentievergelijking en canonieke vorm
-• M.a.w.: gegeven een differentievergelijking
-f
-f
-f
-Dan komen daarmee toestandsbeschrijvingen overeen die allemaal dezelfde K.P.
-hebben:%! + PQ
-R
-• Ook: gegeven een toestandsbeschrijving (A, b, c, d), dan komt daarmee een
-differentievergelijking overeen waarbij
-dedeã coëfficiënten van de K.P.
-i ook
-van A zijn
-Voorbeeld
-X
-Y
-X
-Y
-Z
-PQ
-PQ
-Voorbeeld
-O
-Met Q =
-, canonieke vorm:
-D
-D
-Voorbeeld
-PQ
-D
-D
-de differentievergelijking gehaald uit de canonieke vorm
-Impulsresponsie en convolutie
-Impulsresponsie
-• Doel: berekenen van de responsie. We hadden al:
-Exhaustief
-• Nultoestandsimpulsrespons (impulsrespons) h[k] van
-een SISO DTLTI systeem is y[k] wanneer
-k
-k
-k
-Verschoven impuls
-k
-k
-k
-k
-Ontbinding u[k]
-Lineair en tijdsinvariant
-Convolutie
-• Formeel
-d
-efd
-d
-b
-Lineair
-Tijdsinvariant
-• Voor een systeem dat uit de nultoestand vertrekt !
-• y[k] is de convolutie van u[k] en h[k]
-• Uitvoer is convolutie van invoer en impulsresponsie
-Convolutie
-Neutraal element: a[k]
-Lineair:
-• Enkelzijdige signalen a[k] = b[k] = 0 voor k<0 :
-d
-E
-=aPb
-efd
-efR
-• Causaal systeem: h[k] = 0 voor k<0
-Geen respons vóór de excitatie
-Impulsresponsie
-Nulingangsresponsie
-Nultoestandsresponsie
-2 term blijft enkel index j=0 staan
-de term:
-cA
-b
-Voorbeeld
-d
-E
-E
-E
-E
-steorde
-Impulsresponsie van
-1 systeem
-b
-D
-c
-k
-op
-E
-cb
-c
-q
-E
-E
-E
-Vorm impulsresponsie
-cAvoor k > 0
-• Zelfde bespreking als nulingangsresponsie
-steorde systeem:λk-1
-cb, zie boven
-• Voor diagonaliseerbare A, som van:
-o Exponentiëel verloop
-λ complex)
-o Schommelend exponentiëel verloop
+bewijs (P )
+Art. 8.8. Vrij bewijsstelsel
+Behalve in de gevallen waarin de wet anders bepaalt, kan het bewijs met alle bewijsmiddelen
+worden geleverd.
+Niet als louter feit
+Art. 8.9. Gereglementeerd bewijsstelsel
+§ 1. De rechtshandeling met betrekking tot een som of een waarde die gelijk is aan of hoger is
+dan 3 500,00 euro, moet door de partijen worden bewezen door een ondertekend geschrift.
+Dat bedrag kan worden aangepast bij een koninklijk besluit vastgesteld na overleg in de
+Ministerraad in het licht van de evolutie van de levenskosten of de sociale noden.
+Het bewijs boven of tegen een ondertekend geschrift kan enkel worden geleverd door een ander
+ondertekend geschrift, zelfs indien de som of de waarde dat bedrag niet te boven gaat.
+ “Ondertekend geschrift”
+Art. 8.1.Definities
+Wordt verstaan onder:
+4° onderhandse akte: een geschrift dat rechtsgevolgen beoogt, dat door de partij(en) ondertekend
+wordt met de bedoeling om met de inhoud ervan in te stemmen, en dat geen authentieke akte is;
+5° authentieke akte: een geschrift dat in de wettelijke vorm is verleden voor een openbare of
+ministerieel ambtenaar die de bevoegdheid en hoedanigheid heeft om te instrumenteren;
+6° ondertekend geschrift: elke onderhandse of authentieke akte
+ Uitzondering: bewijs tegen ondernemingen
+Art. 8.11. Bewijs door en tegen ondernemingen
+§ 1. Bewijs kan tussen ondernemingen of tegen ondernemingen, zoals
+omschreven in artikel I.1, eerste lid van het Wetboek economisch recht worden
+geleverd door alle bewijsmiddelen, behalve in de uitzonderingen die vastgesteld
+zijn voor bijzondere gevallen.
+De in het eerste lid opgelegde regel is niet van toepassing op de ondernemingen
+wanneer zij willen bewijzen tegen een partij die geen onderneming is. Partijen die
+geen onderneming zijn en die tegen een onderneming wensen te bewijzen,
+kunnen alle bewijsmiddelen gebruiken.
+De in het eerste lid opgelegde regel is evenmin van toepassing op natuurlijke
+personen die een onderneming uitoefenen ter zake van het bewijs van
+rechtshandelingen die kennelijk vreemd zijn aan de onderneming.
+ Bijzondere bewijsmiddelen: aanvaarde factuur
+Behoudens tegenbewijs, levert een door een onderneming aanvaarde of niet binnen een redelijke termijn
+betwiste factuur tegen deze onderneming bewijs op van de aangevoerde rechtshandeling.
+Factuur
+o door schuldeiser opgestelde
+o schriftelijke aanspraakbevestiging
+o van een contractuele schuld volgend uit levering van goederen of diensten
+o die aan schuldenaar wordt overgemaakt
+o Wettelijke
+bewijswaarde van:
+• bestaan van overeenkomst;
+• essentiële voorwaarden van overeenkomst; en
+• andere voorwaarden op factuur
+met mogelijkheid
+van tegenbewijs,
+ook als uitdrukkelijk
+aanvaard
+ Uitdrukking algemeen principe ondernemingsrecht
+Wie zwijgt tegen aanspraakbevestiging,
+wordt geacht in te stemmen (behoudens
+tegenbewijs)
+ Bewijswaarde boekhouding
+§ 2. De boekhouding van een onderneming heeft slechts een wettelijke
+bewijswaarde tegen een andere onderneming indien de vermeldingen in de
+boekhouding van de onderscheiden partijen overeenstemmend zijn. In alle andere
+gevallen oordeelt de rechter vrij over de bewijswaarde van de boekhouding.
+De boekhouding van een onderneming levert geen wettelijke bewijswaarde op
+tegen personen die geen onderneming zijn.
+De boekhouding van een onderneming mag worden ingeroepen tegen deze
+onderneming. Deze boekhouding mag niet ten nadele van die onderneming
+worden gesplitst, behalve wanneer ze niet op regelmatige wijze gehouden is.

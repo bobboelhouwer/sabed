@@ -1,9 +1,9 @@
 Definitie
 • A n x n, reëel is symmetrisch ⇔ A = AT
-• De e.w. van een symmetrische matrix zijn reëel
-• λ1 en v1 e.w./e.v. van A symmetrisch
-• Dus niet enkel l.o., maar zelfs ⊥
-• De eigenruimten v.e. symm. matrix zijn orthogonaal
+De e.w. van een symmetrische matrix zijn reëel
+λ1 en v1 e.w./e.v. van A symmetrisch
+Dus niet enkel l.o., maar zelfs ⊥
+De eigenruimten v.e. symm. matrix zijn orthogonaal
 Voorbeeld
 • Diagonaliseer
 Voorbeeld

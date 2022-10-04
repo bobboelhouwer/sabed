@@ -1,284 +1,397 @@
-Aanvullingen
-Responsie op
-ingangssignalen en begintoestand
-Responsie berekenen
-• Gegeven toestandsbeschrijving (A, B, C, D) ,
-• Toestandsbeschrijving
-• Exhaustieve berekening van x[k] en y[k]
-Voorbeeld
-Gegeven
-“Oplossen” toestandsvergelijking
-• Gegeven toestandsbeschrijving, u[k] en x[0], wat zijn x[k] en y[k] ?
-• Toestandsbeschrijving
-A
-Algemeen:
-• Uitgangssignaal
-Nulingangs- en nultoestandsrespons
-Nulingangsresponsie
-Nultoestandsresponsie
-• Nulingangsresponsie: y[k] als u[k]
-• Nultoestandsresponsie: y[k] als x[0] = 0
-Toestandsbeschrijving en
-gelijkvormige matrices
-Toestandsbeschrijving is niet uniek
-, np] een nxn inverteerbare matrix
-– Is verandering van coördinaten: w[k] zijn de coordinaten van x[k] in de
-basis {p
-Toestandsbeschrijving is niet uniek
-• In de nieuwe toestandsvector w[k] hebben we een
-equivalente toestandsbeschrijving:
-A en zijn gelijkvormig
-• Beide systemen zijn equivalent. Let wel op initiële
-toestand. Nulingangsresponsie:
-Zorg ervoor dat P w[0] = x[0], dan is ook P w[k] = x[k]
-voor k>0, en dus y[k]=
-Voorbeeld
-D
-D
-Voorbeeld (2)
-Kies
-zodat x[k] = P w[k]
-D
-D
-Toestandsbeschrijving en
-matrixdiagonalisatie
-Diagonaalvorm
-• Veronderstel dat A diagonaliseerbaar is
-• Kies P =1,[v... , nv] met iveigenvector van A met
-eigenwaarde
-• Voor SISO systeem:
-• Toestand i beinvloedt toestand
-≠i niet
-j
-Diagonaalvorm voor SISO systeem
-• Som van
-eerste-orde
-systemen
-• Plus directe
-verbinding
-met winst̅+
-Voorbeeld
-D
-D
-Minimaliteit
-Voor sommige systemen kan een
-/ * = 0. De toestandsveranderlijke
-wi[k] kan dan niet beïnvloed
-worden. Het systeem is niet
-controleerbaar.
-Voor sommige systemen kan een
-0̅* = 0. De toestandsveranderlijke
-wi[k] kan de uitvoer niet
-beïnvloeden. Het systeem is niet
-observeerbaar.
-Een systeem dat niet observeerbaar
-en/of niet controleerbaar is heet
-niet-minimaal. Hetzelfde ingangsuitgangsgedrag kan gerealiseerd
-worden met een kleiner aantal
-geheugenelementen.
-Inwendige (interne) stabiliteit
-• Een systeem is inwendig stabiel →
-als0 x[k]
-als k
-k
-w λnk vn
-• Inwendig instabiel zodra één
-• Inwendig stabiel
-Nulingangsresponsie
-Nulingangsresponsie
-Nultoestandsresponsie
-• Ak x[0] bestuderen
-A
-(c = rijvector; SISO system)
-Nulingangsresponsie
-k
-w λnk vn
-basis {v
-= P-1 x[k] is de coördinatenvector van x[k] in de
-k
-basis {v
-is een gewogen som van exponentiële functies in k
-Nulingangsresponsie
-Bijdragen tot nulingangsresponsie
-Attractor / aantrekker
-Inwendig stabiel
-Repeller / afstoter
-Inwendig onstabiel
-Saddle point / zadelpunt
-Inwendig onstabiel
-Complexe eigenwaarden
-ω is genormaliseerde frequentie. 0 < 7 < 1
-• Eigenvectoren
-i en
-i
-• Neem complex toegevoegde termen samen in
-E
-een reële rijvector;
-ccis
-E
-Re
-G
-Complexe eigenwaarden (2)
-G
-• Bijdrage door complexe eigenwaarde in y[k] is
-product van:
-k - zie
-o Exponentieel verloop
-r reële eigenwaarde
-o Golvend verloop (K
-cos
-Complexe eigenwaarden
-Inwendig stabiel
-Bijdrage tot nulingangsresponsie
-Canonieke vorm en
-differentievergelijking
-Canonieke vorm
-• Zoek transformatiematrix 1Q
-q] zodat door de
+Rechtssubjecten
+ Rechtssubject?
+ Rechtssubject?
+Art. 1:7. Dit wetboek
+erkent als stichting
+met
+rechtspersoonlijkheid:
+§ 2. Dit wetboek
+erkent als
+vennootschappen
+met
+rechtspersoonlijkheid:
+§ 2. Dit wetboek
+erkent als
+verenigingen met
+rechtspersoonlijkheid:
+ natuurlijke
+personen
+RECHTSSUBJECT
+activa
+Rechten
+rechtspersonen
+Buiten-patrimoniële rechten
+Zakelijke rechten (art. 3.33 BW)
+Persoonlijke rechten (schuldeiser:
+“heeft schuldvordering”)
+• Intellectuele-eigendomsrechten
+vermogen als (vlottend)
+onderpand
+passiva
+Verbintenissen
+(schuldenaar: “heeft schuld”, “is
+aansprakelijk”)
+• < rechtsfeit (bv.
+buitencontractuele
+aansprakelijkheid)
+• < rechtshandeling (bv.
+contractuele aansprakelijkheid)
+Wat als
+als schuldenaar
+schuldenaar verbintenis
+verbintenis niet
+niet vrijwillig
+vrijwillig
+Wat
+nakomt?
+nakomt?
+schuldenaar wordt
+wordt in
+in gebreke
+gebreke gesteld
+gesteld door
+door schuldeiser
+schuldeiser
+schuldenaar
+schuldeiser
+stelt
+vordering
+in
+tegen
+schuldenaar
+schuldeiser (“eiser”) stelt vordering in tegen schuldenaar
+(“verweerder”)
+voor
+rechtbank
+eiser
+verkrijgt,
+als hij
+hij in
+in
+(“verweerder”) voor rechtbank  eiser verkrijgt, als
+gelijk
+wordt
+gesteld,
+van
+rechter
+veroordeling
+van
+gelijk wordt gesteld, van rechter veroordeling van
+verweerder =
+= uitvoerbare
+uitvoerbare titel
+titel
+verweerder
+... WORDEN UITGEWONNEN OP ... = dwang uitvoering (“sterke hand”)
+ Overheidsmonopolie
+– geen “eigenrichting”
+ Aan banden gelegd in publiekrecht
+ RECHTSSUBJECT
+activa
+Rechten
+passiva
+Verbintenissen
+Buiten-patrimoniële rechten
+Zakelijke rechten
+Persoonlijke rechten (schuldeiser:
+“heeft schuldvordering”)
+• Intellectuele rechten
+(schuldenaar: “heeft schuld”, “is
+aansprakelijk”)
+• < rechtsfeit (bv.
+buitencontractuele
+aansprakelijkheid)
+• < rechtshandeling (bv.
+contractuele aansprakelijkheid)
+vermogen als (vlottend)
+onderpand
+partij
+Geven
+Doen
+Niet doen
+Rechtsbekwaam?
+Rechtsbekwaam?
+rechtsopvolger
+Handelingsbekwaa
+Handelingsbekwaa
+zie art. 1122 oud BW
+ Rechtssubject?
+Definitie
+Het vermogen van een persoon is de juridische algemeenheid die het geheel van
+de bestaande en toekomstige goederen en verbintenissen omvat.
+Elke natuurlijke persoon of rechtspersoon heeft een vermogen en, behoudens
+indien de wet anders bepaalt, slechts één enkel vermogen.
+ Rechtssubject?
+§1. De maatschap is
+een vennootschap
+zonder
+rechtspersoonlijkheid.
+Boek III - Titel V.
+(oud) BW - Stelsel
+van gemeenschap
+van goederen
+§ 1. De feitelijke
+vereniging is een
+vereniging zonder
+rechtspersoonlijkheid
+beheerst door de
+overeenkomst tussen
+partijen.
+ Persoonlijke en
+zakelijke rechten
+ RECHTSSUBJECT
+activa
+Rechten
+Buiten-patrimoniële rechten
+Zakelijke rechten
+Persoonlijke rechten (schuldeiser:
+“heeft schuldvordering”)
+• Intellectuele rechten
+passiva
+Verbintenissen
+(schuldenaar: “heeft schuld”, “is
+aansprakelijk”)
+• < rechtsfeit (bv.
+buitencontractuele
+aansprakelijkheid)
+• < rechtshandeling (bv.
+contractuele aansprakelijkheid)
+vermogen als (vlottend)
+onderpand
+Geven
+Doen
+Niet doen
+ Persoonlijke rechten
+Art. 3.36. Algemeen verhaalsonderpand
+Welk wetboek?
+Welk wetboek?
+Tenzij de wet of het contract anders bepaalt, kan een schuldeiser zijn vordering
+op alle goederen van zijn schuldenaar verhalen.
+In geval van samenloop tussen de schuldeisers, wordt de opbrengst ervan onder
+hen naar evenredigheid van hun vordering verdeeld, tenzij er tussen de
+schuldeisers wettige redenen van voorrang bestaan. Een schuldeiser kan met zijn
+schuldenaar overeenkomen dat hij tegenover bepaalde of alle schuldeisers een
+lagere rang neemt dan de wet hem toekent.
+ Vermogen als onderpand
+Schuldeiser
+Schuldenaar
+Goederen
+ “Realiseren” van schuldvordering
+“Executie”, bv. uitvoerend beslag
+Schuldeiser 1
+Schuldenaar
+Schuldeiser 3
+Goederen
+Schuldeiser 2
+ Probleem
+ Corporate veil
+Natuurlijke
+persoon
+Schuldeiser A
+Controle
+Rechtspersoo
 n
-M
-gelijkvormigheidstransformatie:
-M
-R
-Mnoemen we een compagnon-matrix
-Men A hebben dezelfde K.P. want gelijkvormig
-• Constructie van Q – zie later
-Waarom die Ã O
-en
-Constructie van Q
-2de vergelijking:T
-T
-Constructie van Q
-U
-T
-PQ
-PQ
-Waarom die Ã O
-en
-w
-w
-w
-w
-w
-w
-w
-Waarom die Ã O
-en
-Dus:
-Uitgangsvergelijking:
-Herschrijf:
-w1[k] elimineren
-Differentievergelijking
-O
-O
-f
-• Rechtstreeks verband tussen u[k] en y[k]
-• Dit heet een differentievergelijking
-• Alternatief voor de toestandsbeschrijving
-• Is een verband tussen differentievergelijking en canonieke vorm
-• M.a.w.: gegeven een differentievergelijking
-f
-f
-f
-Dan komen daarmee toestandsbeschrijvingen overeen die allemaal dezelfde K.P.
-hebben:%! + PQ
-R
-• Ook: gegeven een toestandsbeschrijving (A, b, c, d), dan komt daarmee een
-differentievergelijking overeen waarbij
-dedeã coëfficiënten van de K.P.
-i ook
-van A zijn
-Voorbeeld
-X
-Y
-X
-Y
-Z
-PQ
-PQ
-Voorbeeld
-O
-Met Q =
-, canonieke vorm:
-D
-D
-Voorbeeld
-PQ
-D
-D
-de differentievergelijking gehaald uit de canonieke vorm
-Impulsresponsie en convolutie
-Impulsresponsie
-• Doel: berekenen van de responsie. We hadden al:
-Exhaustief
-• Nultoestandsimpulsrespons (impulsrespons) h[k] van
-een SISO DTLTI systeem is y[k] wanneer
-k
-k
-k
-Verschoven impuls
-k
-k
-k
-k
-Ontbinding u[k]
-Lineair en tijdsinvariant
-Convolutie
-• Formeel
-d
-efd
-d
-b
-Lineair
-Tijdsinvariant
-• Voor een systeem dat uit de nultoestand vertrekt !
-• y[k] is de convolutie van u[k] en h[k]
-• Uitvoer is convolutie van invoer en impulsresponsie
-Convolutie
-Neutraal element: a[k]
-Lineair:
-• Enkelzijdige signalen a[k] = b[k] = 0 voor k<0 :
-d
-E
-=aPb
-efd
-efR
-• Causaal systeem: h[k] = 0 voor k<0
-Geen respons vóór de excitatie
-Impulsresponsie
-Nulingangsresponsie
-Nultoestandsresponsie
-2 term blijft enkel index j=0 staan
-de term:
-cA
-b
-Voorbeeld
-d
-E
-E
-E
-E
-steorde
-Impulsresponsie van
-1 systeem
-b
-D
-c
-k
-op
-E
-cb
-c
-q
-E
-E
-E
-Vorm impulsresponsie
-cAvoor k > 0
-• Zelfde bespreking als nulingangsresponsie
-steorde systeem:λk-1
-cb, zie boven
-• Voor diagonaliseerbare A, som van:
-o Exponentiëel verloop
-λ complex)
-o Schommelend exponentiëel verloop
+Schuldeiser B
+ Zakelijke rechten
+• Droit réel vs. Créance
+De eerste man die een stuk land omheinde
+en zei "dit is van mij" en mensen vond die
+naïef genoeg waren om hem te geloven, deze
+man was de stichter van de
+burgermaatschappij.
+Rousseau, Discours sur l'origine et les fondements de l'inégalité parmi les hommes
+ Zakelijke rechten
+e
+claus rus
+nut?
+Art. 3.3. Gesloten stelsel van zakelijke rechten
+Enkel de wetgever kan zakelijke rechten creëren.
+De zakelijke rechten zijn het eigendomsrecht, de mede-eigendom, de zakelijke
+gebruiksrechten en de zakelijke zekerheden.
+De zakelijke gebruiksrechten zijn de erfdienstbaarheden, het recht van
+vruchtgebruik, erfpacht en opstal.
+De zakelijke zekerheden in de zin van dit Boek zijn de bijzondere voorrechten,
+het pand, de hypotheek en het retentierecht.
+ Mede-eigendom
+Art. 3.68. Definitie
+Er is mede-eigendom wanneer verschillende personen op eenzelfde goed of
+geheel van goederen titularis zijn van een eigendomsrecht, zonder dat elk van
+hen een exclusief recht op een bepaald gedeelte hiervan kan laten gelden.
+Indien de mede-eigendom betrekking heeft op een juridisch geheel van
+goederen, hebben de rechten van de mede-eigenaars enkel dat geheel tot
+voorwerp en niet de afzonderlijke goederen.
+De mede-eigendom kan ontstaan door toeval, door de wil van de partijen of op
+gedwongen wijze.
+Inz
+et:
+ander
+e
+regels
+ Mede-eigendom
+• Toevallig
+ Mede-eigendom
+• Vrijwillig
+ Mede-eigendom
+• Gedwongen
+ Zakelijke gebruiksrechten
+Art. 3.3. Gesloten stelsel van zakelijke rechten
+Enkel de wetgever kan zakelijke rechten creëren.
+De zakelijke rechten zijn het eigendomsrecht, de mede-eigendom, de zakelijke
+gebruiksrechten en de zakelijke zekerheden.
+De zakelijke gebruiksrechten zijn de erfdienstbaarheden, het recht van
+vruchtgebruik, erfpacht en opstal.
+De zakelijke zekerheden in de zin van dit Boek zijn de bijzondere voorrechten,
+het pand, de hypotheek en het retentierecht.
+ Keerzijde van blote eigendom
+Art. 3.55. Algemene regel inzake natrekking
+De eigenaar van een goed is tevens eigenaar van alle inherente bestanddelen van dat goed,
+overeenkomstig artikel 3.8, § 2. Indien een goed door de natuurlijke gang van zaken of door een
+handelen van de mens inherent bestanddeel wordt van een ander goed, treedt de natrekking
+onmiddellijk en van rechtswege in, onder voorbehoud van andere bepalingen in dit Boek.
+Art. 3.64. Kunstmatige onroerende natrekking
+§ 1. Bouwwerken en beplantingen die boven, op of onder een grond worden aangebracht,
+worden vermoed aan de grondeigenaar toe te behoren.
+Dit vermoeden is weerlegbaar door wet of rechtshandeling, in welk geval de diverse
+vergoedingsregels gelden wanneer de wettelijke of contractuele titel eindigt.
+ Blote eigendom en zakelijke gebruiksrechten
+Gebruiksrecht
+Genotsrecht
+Beschikkingsbevoegdheid
+ Erfdienstbaarheden
+Een erfdienstbaarheid is een last op een onroerend goed, het lijdend erf, tot
+gebruik en tot nut van andermans onroerend goed, het heersend erf.
+ Vruchtgebruik
+Art. 3.138. Definitie
+Vruchtgebruik verleent aan zijn titularis het tijdelijk recht op het gebruik en genot
+van een goed van de blote eigenaar, zoals een voorzichtig en redelijk persoon, in
+overeenstemming met de bestemming van dat goed en onder de verplichting om
+het goed bij het einde van zijn recht terug te geven.
+ Vruchtgebruik
+Art. 3.141. Duurtijd
+Een vruchtgebruik kan worden gevestigd voor bepaalde of onbepaalde duur.
+Niettegenstaande enig andersluidend beding, kan het vruchtgebruik:
+1° maximaal negenennegentig jaar duren, behalve indien de natuurlijke persoon
+op wiens hoofd het is gevestigd, langer leeft; en
+2° niet voortbestaan na het overlijden van de persoon op wiens hoofd het
+vruchtgebruik is gevestigd.
+De faillietverklaring of de vrijwillige, wettelijke of gerechtelijke ontbinding van de
+rechtspersoon zijn beëindigingsgronden in de zin van het tweede lid. Behoudens
+andersluidend beding eindigt het recht van vruchtgebruik niet in geval van fusie,
+splitsing of gelijkgestelde verrichting.
+ Erfpacht
+Art. 3.167. Definitie
+Het erfpachtrecht is een zakelijk gebruiksrecht dat een vol gebruik en genot
+verleent van andermans goed dat onroerend is uit zijn aard of door incorporatie.
+De erfpachter mag niets doen dat de waarde van het onroerend goed
+vermindert, onder voorbehoud van normale slijtage, ouderdom of overmacht. Hij
+kan, behoudens andersluidend beding, de bestemming van het onroerend goed
+wijzigen.
+ Erfpacht
+Art. 3.169. Duurtijd
+Niettegenstaande enig andersluidend beding, kan de duurtijd van een
+erfpachtrecht niet korter dan vijftien jaar en niet langer dan negenennegentig jaar
+zijn. Het erfpachtrecht kan worden verlengd, evenwel zonder dat zijn totale
+duurtijd meer dan negenennegentig jaar mag bedragen. Het kan worden
+hernieuwd met het uitdrukkelijk akkoord van de partijen.
+Het erfpachtrecht kan eeuwigdurend zijn wanneer en zolang het voor doeleinden
+van het openbaar domein door de eigenaar van het onroerend goed gevestigd is.
+ Opstal
+Art. 3.177. Definitie
+Het opstalrecht is een zakelijk gebruiksrecht dat het eigendomsrecht verleent op
+al dan niet gebouwde volumes, voor het geheel of een deel, op, boven of onder
+andermans grond om er bouwwerken of beplantingen te hebben.
+ Opstal
+Art. 3.180. Duurtijd
+Niettegenstaande enig andersluidend beding, kan de duurtijd van een opstalrecht niet langer dan
+negenennegentig jaar zijn. Het opstalrecht kan worden verlengd, evenwel zonder dat zijn totale
+duurtijd meer dan negenennegentig jaar mag bedragen. Het kan worden hernieuwd met het
+uitdrukkelijk akkoord van de partijen.
+Het opstalrecht kan eeuwigdurend zijn wanneer en zolang het door de eigenaar van de grond
+gevestigd is:
+1° hetzij voor doeleinden van het openbaar domein;
+2° hetzij om de verdeling in volumes mogelijk te maken van een complex en heterogeen
+onroerend geheel dat verschillende volumes omvat die in aanmerking komen voor zelfstandig en
+verscheiden gebruik en onderling geen enkel gemeenschappelijk deel hebben.
+Wanneer het opstalrecht het gevolg is van een hoofdrecht, overeenkomstig artikel 3.182, is de
+duur ervan identiek aan de duur van dat hoofdrecht.
+ Zakelijke vs. persoonlijke gebruiksrechten
+Huur van goederen is een contract waarbij de ene partij zich verbindt om de
+andere het genot [en gebruik] van een zaak [of goed] te doen hebben gedurende
+een zekere tijd, en tegen een bepaalde prijs, die de laatstgenoemde zich verbindt
+te betalen.
+ Insolventiebestendigheid
+Art. 3.5. Bescherming tegen insolvabiliteit
+Zonder afbreuk te doen aan de artikelen 3.28 en 3.30 blijven eigendom, medeeigendom en zakelijke gebruiksrechten buiten de samenloop die ontstaat door de
+insolvabiliteit van derden.
+Zakelijke zekerheden geven een recht van voorrang op de verkoopsopbrengst van
+hun onderpand.
+ Insolventiebestendigheid
+Art. 3.51. Vorderingen van de eigenaar
+Onder voorbehoud van andere bepalingen in dit Boek kan
+de eigenaar het voorwerp terugvorderen uit handen van
+degene die het onder zich heeft en zich verzetten tegen elke
+inbreuk of aanspraak van een derde.
+Het eigendomsrecht en de vorderingen die het recht
+sanctioneren, doven niet uit door het niet-gebruik ervan.
+ Vergelijk
+Art. XX.139 WER
+§ 1. Na hun ambtsaanvaarding beslissen de curatoren
+onverwijld of zij de overeenkomsten die gesloten zijn voor de
+datum van het vonnis van faillietverklaring en waaraan door dat
+vonnis geen einde wordt gemaakt, al dan niet verder uitvoeren,
+dan wel of zij de overeenkomsten eenzijdig beëindigen wanneer
+het beheer van de boedel dit noodzakelijkerwijs vereist. Deze
+beslissing kan geen afbreuk doen aan zakelijke rechten van
+derden tegenwerpelijk aan de boedel.
+ Vergelijk
+https://juportal.be/
+ Vergelijk
+https://juportal.be/
+ Zakelijk recht blijft buiten samenloop
+Samenloop
+SCHULDEISERS
+ Zakelijke zekerheden
+Art. 3.3. Gesloten stelsel van zakelijke rechten
+Enkel de wetgever kan zakelijke rechten creëren.
+De zakelijke rechten zijn het eigendomsrecht, de mede-eigendom, de zakelijke
+gebruiksrechten en de zakelijke zekerheden.
+De zakelijke gebruiksrechten zijn de erfdienstbaarheden, het recht van
+vruchtgebruik, erfpacht en opstal.
+De zakelijke zekerheden in de zin van dit Boek zijn de bijzondere voorrechten,
+het pand, de hypotheek en het retentierecht.
+ Insolventiebestendigheid
+Art. 3.5. Bescherming tegen insolvabiliteit
+Zonder afbreuk te doen aan de artikelen 3.28 en 3.30 blijven eigendom, medeeigendom en zakelijke gebruiksrechten buiten de samenloop die ontstaat door de
+insolvabiliteit van derden.
+Zakelijke zekerheden geven een recht van voorrang op de verkoopsopbrengst van
+hun onderpand.
+ Recht van voorrang
+Samenloop
+SCHULDEISER
+SCHULDEISERS
+ RECHTSSUBJECT
+activa
+Rechten
+• Buiten-patrimoniële rechten
+• Eigendom, zakelijke
+“securiseren”
+gebruiksrechten
+• Zakelijke zekerheden
+• Persoonlijke rechten (schuldeiser:
+“heeft schuldvordering”)
+• Intellectuele rechten
+passiva
+Verbintenissen
+(schuldenaar: “heeft schuld”, “is
+aansprakelijk”)
+• < rechtsfeit (bv.
+buitencontractuele
+aansprakelijkheid)
+• < rechtshandeling (bv.
+contractuele aansprakelijkheid)
+vermogen als (vlottend)
+onderpand
+Geven
+Doen
+Niet doen
+ Vermogensrechten

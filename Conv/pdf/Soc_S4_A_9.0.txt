@@ -175,9 +175,9 @@ dq i
 dq i
 • De marginale opbrengst is lager dan de prijs omdat:
 dp(q)/dqi ≤ 0 (vraagfuncties zijn dalend)
-• Een bijkomende eenheid kan slechts verkocht worden
+Een bijkomende eenheid kan slechts verkocht worden
 door de prijs een beetje te verlagen.
-• De prijsverlaging geldt voor alle verkochte eenheden
+De prijsverlaging geldt voor alle verkochte eenheden
 (onder uniforme prijszetting).
  Marginale opbrengsten en de
 prijselasticiteit van de vraag
@@ -422,10 +422,11 @@ te gaan. Studenten zijn prijsgevoeliger dan werkenden en
 betalen minder dan werkenden.
  Examples of price discrimination
 • Directe versus indirecte segmentering:
+o
 Indirecte segmentering: consument kiest zelf een prijsschema
 uit een keuzemenu (= zelfselectie op basis van voorwaarden
 aankoop van product of dienst).
- bvb. vliegtuigtickets voor business versus economy reizigers.
+bvb. vliegtuigtickets voor business versus economy reizigers.
 Zakenmensen boeken hun vlucht slechts enkele dagen voor
 vertrek. Zij willen echter in het weekend liever thuis zijn. Zij
 betalen hun vliegtuigticket niet zelf en zijn daarom minder
@@ -434,7 +435,6 @@ op voorhand boeken en maken daarbij geen onderscheid tussen
 weekend en weekdagen in hun vrije tijd. Op basis van deze
 voorkeuren worden vliegtuigtickets tegen verschillend tarief
 aangeboden.
-o
  Directe marktsegmentering
 • Directe segmentering houdt in dat de producent zelf de groepen
 indeelt op basis van een duidelijk meetbaar en onveranderlijk

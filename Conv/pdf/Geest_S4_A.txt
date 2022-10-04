@@ -34,7 +34,9 @@ de specifieke eigenschappen van deze of gene taal haar belangstelling wegdragen,
 en wat karakteristiek is voor het verschijnsel "taal" als zodanig. In dit hoofdstuk staan we stil bij de afbakening van het verschijnsel "natuurlijke menselijke
 taal".
 Als eerste stap stellen we vast dat de taal een systeem van tekens is. Nu
-zijn er naast de natuurlijke menselijke taal nog heel wat andere tekensystemen; de discipline die zich met de studie van tekensystemen in het algemeen inlaat, noemen we de SEMIOTIEK. Eenvoudig identificeerbaar als tekens
+zijn er naast de natuurlijke menselijke taal nog heel wat andere tekensystemen; de discipline die zich met de studie van tekensystemen in het algemeen inlaat, noemen we de
+SEMIOTIEK.
+Eenvoudig identificeerbaar als tekens
 zijn vlaggen, uniformen, insignes, verkeersborden, logo's en andere signalen
 waarvoor we ook in het dagelijkse taalgebruik het woord teken kunnen gebruiken: het logo van de universiteit is een teken voor die instelling, zoals een
 verkeersbord een teken is voor een verbod of toelating. Niet alle tekens (in de
@@ -50,12 +52,16 @@ relatie die bestaat tussen het teken als zodanig, en datgene waar het teken
 voor staat. In aansluiting bij de terminologie van de Zwitserse taalkundige
 Ferdinand de Saussure (1857-1913) spreekt men in dit verband ook wel van
 de signifiant (het teken als betekenisdragende vorm) en signifié (het betekende, datgene waar het teken voor staat).
-Van ICONISCHE TEKENS spreken we wanneer een feitelijke, fysieke gelijkenis bestaat tussen de vorm van het betekende en de vorm van de
+Van
+ICONISCHE TEKENS
+spreken we wanneer een feitelijke, fysieke gelij-
+kenis bestaat tussen de vorm van het betekende en de vorm van de
 betekenisdrager. Een figuratief schilderij, bijvoorbeeld, vertoont een visuele gelijkenis met de afgebeelde werkelijkheid, en in sommige woorden kunnen we een auditieve gelijkenis herkennen met een geluid uit
 de buitentalige werkelijkheid. Een woord als miauwen, bijvoorbeeld, lijkt
 in zijn hoorbare vorm een imitatie te zijn van het geluid waarnaar het
 verwijst.
-INDEXICALE TEKENS zijn tekens waarbij tussen de betekenisdrager en het
+INDEXICALE TEKENS
+zijn tekens waarbij tussen de betekenisdrager en het
 betekende een fysieke relatie van contiguïteit bestaat, d.w.z. een relatie waarbij beide in hetzelfde stuk werkelijkheid door een reële band
 met elkaar verbonden zijn. Gelijkenisrelaties bestaan a.h.w. buiten de
 tijd en de ruimte: de gelijkenis bestaat ook wanneer de dingen die op
@@ -73,7 +79,8 @@ door wie het in welke situatie gebruikt werd voor we kunnen afleiden
 wat precies met hier bedoeld werd.
 Waar bij iconische tekens en indexicale tekens de relatie tussen betekenisdrager en betekende gemotiveerd wordt door de gelijkenis- of
 contiguïteitsrelatie, is de combinatie van betekenaar en betekenis bij
-SYMBOLISCHE TEKENS volledig ongemotiveerd. Dat we precies de vorm
+SYMBOLISCHE TEKENS
+volledig ongemotiveerd. Dat we precies de vorm
 koning gebruiken om naar een bepaald type staatshoofd te verwijzen is
 een voorbeeld van wat De Saussure de ARBITRARITEIT van het taalteken
 genoemd heeft: dat we in het Nederlands precies de betekenaar koning en niet de betekenaar lolapaloeza met de betekenis "staatshoofd
@@ -84,7 +91,9 @@ Waarom iconische en indexicale tekens als tekens kunnen functioneren ligt
 voor de hand: als de motiverende gelijkenis- of contiguïteitsrelatie duidelijk is
 voor diegene die met het teken geconfronteerd wordt, kan de mentale sprong
 van het teken naar het betekende worden gemaakt. Maar hoe zit dat met symbolische tekens, waar een doorzichtige gemotiveerde relatie tussen teken en
-betekende ontbreekt? Dat arbitraire, symbolische tekens toch als tekens kunnen functioneren komt doordat ze CONVENTIONEEL zijn. Het zijn pas tekens
+betekende ontbreekt? Dat arbitraire, symbolische tekens toch als tekens kunnen functioneren komt doordat ze
+CONVENTIONEEL
+zijn. Het zijn pas tekens
 krachtens een stilzwijgende afspraak tussen de leden van een gemeenschap,
 die de betreffende koppeling van betekenaar en betekenis als teken erkennen.
 De vorm koning is voor de leden van de Franse taalgemeenschap geen teken,
@@ -132,7 +141,9 @@ tekens, een tekensysteem vormt. Maar er zijn ook tekensystemen die verschillen v
 onder het begrip natuurlijke menselijke taal kunnen verstaan. We zullen ach-
  Tekens en Talen
 tereenvolgens kijken naar auxiliaire linguïstische tekensystemen, dierlijke talen, en artificiële talen.
-1. We spreken van AUXILIAIRE LINGUÏSTISCHE tekensystemen bij semiotische
+1. We spreken van
+AUXILIAIRE LINGUÏSTISCHE
+tekensystemen bij semiotische
 codes die in samenhang met en als ondersteuning van het systeem van de
 natuurlijke taal gebruikt worden. We bedoelen met deze "hulpsystemen" niet
 de tekensystemen die als medium voor de natuurlijke taal worden gebruikt,
@@ -140,10 +151,16 @@ zoals alle mogelijke schriftsoorten, maar wel de tekens die a.h.w. als begeleidi
 zijn zonder dat het in een bepaald medium (spraak of schrift) vervat is. De hier
 bedoelde begeleidende verschijnselen zijn echter niet noodzakelijk aanwezig
 bij het gebruik van de natuurlijke taal. We onderscheiden twee soorten.
-Onder PARALINGUISTISCHE tekens verstaat men gewoonlijk alle uitspraakkenmerken die niet tot het taalsysteem zelf behoren, maar die wel relevante
+Onder
+PARALINGUISTISCHE
+tekens verstaat men gewoonlijk alle uitspraak-
+kenmerken die niet tot het taalsysteem zelf behoren, maar die wel relevante
 informatie kunnen toevoegen aan het proces van gesproken communicatie.
 Een fluisterende toon, bijvoorbeeld, kan geheimzinnigheid of intimiteit uitdrukken, terwijl een hortende uitspraak op aarzeling of twijfel kan wijzen.
-Onder LICHAAMSTAAL verstaan we alles wat met lichaamshouding en lichaamsbeweging te maken heeft: de al dan niet onwillekeurige bewegingen
+Onder
+LICHAAMSTAAL
+verstaan we alles wat met lichaamshouding en li-
+chaamsbeweging te maken heeft: de al dan niet onwillekeurige bewegingen
 die we bij het spreken maken, de gelaatsuitdrukking, de afstand die we houden t.o.v. onze gesprekspartner.
 Opgemerkt moet worden dat het in beide gevallen wel degelijk om (althans
 ten dele) conventionele tekensystemen gaat, waarin culturele verschillen kunnen optreden. Zo is het bekend dat de afstand tussen gesprekspartners bij
@@ -155,7 +172,8 @@ vinden, heeft waarschijnlijk mede iets met dit verschil in lichaamstaal te maken
 onze cultuur een signaal van vermoeidheid, of opwinding, of eventueel verbazing; in het Japans is het echter een conventioneel signaal van een eerbiedige
 en onderdanige houding.
  Het Terrein van de Algemene Taalkunde
-2. ANIMALE COMMUNICATIESYSTEMEN kunnen onderling (en in hun relatie tot de
+ANIMALE COMMUNICATIESYSTEMEN
+kunnen onderling (en in hun relatie tot de
 natuurlijke taal) sterk verschillen. We zullen de bestaande variatie hier niet
 systematisch behandelen, maar we zullen ons beperken tot één beroemd
 voorbeeld van dierlijk tekengebruik: de dans van de bijen, zoals onderzocht
@@ -175,7 +193,12 @@ abrupt of gradueel is: hoe uniek zijn we met ons taalgebruik? In de praktijk
 concentreert die vraag zich op het taalvermogen van onze naaste biologische
 buren, de mensapen: hoe sterk ontwikkeld is het spontane tekengebruik van
 primaten, en kunnen we ze menselijke taal aanleren?
-3. Onder de noemer ARTIFICIËLE TALEN of KUNSTTALEN vallen semiotische systemen die niet, zoals de natuurlijke talen, het product zijn van een langdurige
+3. Onder de noemer
+ARTIFICIËLE TALEN
+of
+KUNSTTALEN
+vallen semiotische sys-
+temen die niet, zoals de natuurlijke talen, het product zijn van een langdurige
 historische ontwikkeling, maar die integendeel op een bepaald ogenblik wetens en willens, en met een specifieke doelstelling ontworpen zijn. De natuurlijke taal die wij in onze jeugd aanleren is ons gegeven: we hebben ze niet zelf
 gemaakt, en ook al kan de creativiteit van ons persoonlijke taalgebruik misschien enige invloed uitoefenen op de manier waarop ze zich verder ontwikkelt, een doorslaggevende invloed op haar structuurkenmerken hebben we
 geenszins. In formele wetenschappelijke talen zoals computertalen en de notatiesystemen van scheikunde, algebra en formele logica ligt dat anders. Die
@@ -345,10 +368,17 @@ hoe wordt ze door jonge kinderen verworven, etc.? Het onderscheid tussen
 een interne en een externe benadering is, zoals we zullen zien, niet zeer strikt,
 maar het helpt wel om het overzicht van de vigerende benaderingen enigszins
 ordelijk te houden. Soms wordt wel naar het onderscheid verwezen met de
-termen STRUCTUURTAALKUNDE versus VARIATIETAALKUNDE, maar die termen zijn
+termen
+STRUCTUURTAALKUNDE
+versus
+VARIATIETAALKUNDE,
+maar die termen zijn
 niet helemaal adequaat: we zullen er bijvoorbeeld op wijzen dat de buitenkantbenadering niet tot taalvariatieonderzoek beperkt is.
 De indeling van de interne benadering verwijst naar twee dimensies.
-Langs de ene dimensie onderscheiden we verschillende NIVEAUS in de structuur van taalbouwsels: het niveau van de klanken, het niveau de woorddelen,
+Langs de ene dimensie onderscheiden we verschillende
+NIVEAUS
+in de struc-
+tuur van taalbouwsels: het niveau van de klanken, het niveau de woorddelen,
 het niveau van de woorden, het niveau van de zinnen, en het niveau van de
 teksten. We kunnen op dit punt volstaan met onze intuïtieve, nog niet linguïstisch onderbouwde definities van deze begrippen; we zullen later zien dat de
 definitie van zoiets als "woord" niet onproblematisch is. Alleen het niveau van
@@ -368,7 +398,14 @@ daarop volgende niveau: de combinatie van klanken levert woorddelen op,
 woorddelen vormen woorden, woorden worden samengevoegd tot zinnen, en
 samenhangende verzamelingen van zinnen zijn teksten.
 Langs de tweede dimensie van de classificatie onderscheiden we drie perspectieven vanwaaruit de verschillende niveaus bestudeerd kunnen worden:
-dat van de VORM, dat van de FUNCTIE, en dat van het GEBRUIK van de taalbouwsels op de betrokken niveaus. Het onderscheid tussen de studie van de
+dat van de
+VORM,
+dat van de
+FUNCTIE,
+en dat van het
+GEBRUIK
+van de taal-
+bouwsels op de betrokken niveaus. Het onderscheid tussen de studie van de
 vorm en de studie van de functie zal duidelijk zijn: het formele onderzoek gaat
 na hoe de verschillende talige entiteiten opgebouwd zijn (bijvoorbeeld, volgens welke combinatieregels gebonden morfemen zoals ver- met andere morfemen tot woorden kunnen worden samengevoegd), terwijl het functionele
 onderzoek beschrijft welke communicatieve waarde (in de meest ruime zin) de
@@ -404,8 +441,8 @@ MORFOLOGIE
 woord
 LEXICOLOGIE
 zin
-SYNTAXIS
 tekst
+SYNTAXIS
 TEKSTGRAMMATICA
 Figuur 2.1
 Taalkundige disciplines in onderling verband
@@ -440,10 +477,10 @@ woord
 LEXICOLOGIE→
 SEMAN-
 PRAGMA-
-zin
 SYNTAXIS→
 TIEK
 TIEK
+zin
 tekst
 TEKSTANALYSE→
 Figuur 2.2
@@ -470,20 +507,24 @@ MORFOLOGIE→
 woord
 LEXICOLOGIE→
 zin
-SYNTAXIS→
 tekst
-TEKSTANALYSE→
-SEMANTIEK→
 gebruik
+SEMANTIEK→
 PRAGMATIEK
+SYNTAXIS→
+TEKSTANALYSE→
 Figuur 2.3
 Taalkundige disciplines in onderling verband,
 met expansie van de pragmatiek
 Het belangrijkst is echter de vaststelling dat binnen de contemporaine taalkunde discussies aan de gang zijn over de autonomie van de drie perspectieven die we langs de horizontale as onderscheiden hebben. De discussie gaat
 daarbij vooral over de vraag hoe autonoom de studie van de vormkant van de
-taal kan zijn. Aan de ene kant staat hier een FORMALISTISCHE benadering, die
+taal kan zijn. Aan de ene kant staat hier een
+FORMALISTISCHE
+benadering, die
 ervan uitgaat dat de formele kant van de taal eigen kenmerken bezit die niet
-tot semantische en pragmatische eigenschappen kunnen worden teruggebracht, en die dus ook op een autonome manier, binnen een eigen kader kunnen worden bestudeerd. Aan de andere kant staan de FUNCTIONALISTEN, die
+tot semantische en pragmatische eigenschappen kunnen worden teruggebracht, en die dus ook op een autonome manier, binnen een eigen kader kunnen worden bestudeerd. Aan de andere kant staan de
+FUNCTIONALISTEN,
+die
 een expansieve rol toekennen aan semantiek en pragmatiek, en die er van
 uitgaan dat de studie van de taalvorm niet kan worden losgemaakt van een
 doorgedreven aandacht voor de functionele en pragmatische facetten van de
@@ -494,8 +535,10 @@ van figuur 2.2 met de nodige voorzichtigheid moet worden gebruikt.
 De hierboven gepresenteerde indeling betreft wat we eerder interne perspectieven genoemd hebben: taalkundige disciplines die zich concentreren op
 de "binnenkant" van de taal. Gaan we over tot een indeling van de externe
  Het Terrein van de Algemene Taalkunde
-perspectieven, dan kan een driedeling wat orde brengen in de verscheidenheid. We onderscheiden dan, in de eerste plaats, verschillende types van taalvariatieonderzoek. Taalvariatie in de tijd wordt onderzocht in de DIACHRONE
-LINGUÏSTIEK. Als tegengestelde van de term diachroon gebruiken we de term
+perspectieven, dan kan een driedeling wat orde brengen in de verscheidenheid. We onderscheiden dan, in de eerste plaats, verschillende types van taalvariatieonderzoek. Taalvariatie in de tijd wordt onderzocht in de
+LINGUÏSTIEK.
+DIACHRONE
+Als tegengestelde van de term diachroon gebruiken we de term
 synchroon. Synchroon linguïstisch onderzoek bestudeert een taalsysteem in
 één bepaalde periode waarin het systeem een hoge mate van stabiliteit vertoont (of verondersteld wordt te vertonen). Diachroon linguïstisch onderzoek,
 aan de andere kant, bestudeert taal in ontwikkeling: hoe van de ene toestand
@@ -505,7 +548,8 @@ oriëntatie van zo'n onderzoek zouden ze het niet bij de diachrone taalkunde
 willen plaatsen.
 Talen variëren niet alleen in de tijd, maar ook in de ruimte. De traditionele
 vorm van het onderzoek naar de ruimtelijke distributie van taalvariëteiten is de
-DIALECTOLOGIE, het onderzoek naar stads- en streektalen. De benaming dialec-
+DIALECTOLOGIE,
+het onderzoek naar stads- en streektalen. De benaming dialec-
 tologie wekt de indruk dat het onderzoek van de ruimtelijke taalvariatie beperkt
 zou blijven tot regionale verschillen tussen varianten van eenzelfde taal, terwijl
 bijvoorbeeld ook onderzocht kan worden hoe talen die niet met elkaar verwant
@@ -516,7 +560,9 @@ Talen variëren tenslotte ook nog langs een sociale dimensie: sociaal gedefiniee
 hogere klasse kunnen verschillen van die van lager geschoolden, of in de zin
 dat een bepaalde sociale groep eigen talige groepskenmerken vertoont, als
 onderdeel van z'n sociale identiteit. Voor het onderzoek van dit type variatie
-gebruiken we de term SOCIOLINGUÏSTIEK. Daaronder valt ook het onderzoek
+gebruiken we de term
+SOCIOLINGUÏSTIEK.
+Daaronder valt ook het onderzoek
 naar de wijze waarop de sociale facetten van de context waarin het taalgebruik plaats vindt – of het om een informele of een formele gelegenheid gaat,
 bijvoorbeeld – het taalgebruik beïnvloeden. Het onderzoek naar de relatie
 tussen taal en sociale groep kan ook uitgebreid worden naar volledige ge-
@@ -528,8 +574,11 @@ LINGUÏSTIEK of ETNOLINGUÏSTIEK.
 We moeten hieraan toevoegen dat het onderzoek naar taalvariatie en verschillen tussen talen ook in de "interne", op de binnenkant van het taalsysteem georiënteerde taalkunde een eigen terminologische plaats inneemt. (De
 koppeling aan externe factoren zoals tijd, ruimte, of sprekersgroep is daarbij
 afwezig.) Bij de vergelijking van specifieke talen spreekt men van
-CONTRASTIEVE TAALKUNDE; men onderzoekt dan, bijvoorbeeld met het oog op
-didactische toepassingen, welke structurele verschillen taal x en taal y vertonen. Onderzoek in de TAALTYPOLOGIE, aan de andere kant, gebeurt op ruimere
+CONTRASTIEVE TAALKUNDE;
+men onderzoekt dan, bijvoorbeeld met het oog op
+didactische toepassingen, welke structurele verschillen taal x en taal y vertonen. Onderzoek in de
+TAALTYPOLOGIE,
+aan de andere kant, gebeurt op ruimere
 schaal: in principe worden alle talen van de wereld daarbij betrokken. De bedoeling is immers om structurele gelijkenissen tussen talen op het spoor te
 komen, los van een eventuele historische verwantschap tussen die talen. Het
 onderzoek naar linguïstische universalia (waaraan we in het begin van dit
@@ -538,7 +587,8 @@ Naast het variationele perspectief is een tweede groep van "externe" disciplines
 een individuele aangelegenheid is, en niet alleen een zaak van groepen en
 gemeenschappen. Dat individuele aspect van de taal kan zowel softwarematig
 als hardwarematig bestudeerd worden. Aan de softwarekant plaatsen we de
-PSYCHOLINGUÏSTIEK: het onderzoek naar de manier waarop de taal samenhangt
+PSYCHOLINGUÏSTIEK:
+het onderzoek naar de manier waarop de taal samenhangt
 met psychologische processen en de manier waarop ze een mentale realiteit
 vormt. Daar valt enerzijds het onderzoek onder naar de mentale processen
 die bij het verwerken of produceren van taal in werking treden, en anderzijds
@@ -548,7 +598,9 @@ naar het brein veeleer dan de psyche: op welke manier is ons taalvermogen
 fysiologisch in de hersenen aanwezig? We spreken bij deze vraagstelling van
 NEUROLINGUÏSTIEK.
 Naast het psycholinguïstische en neurolinguïstische onderzoek bestaat
-nog een derde onderzoeksgebied dat licht probeert te werpen op de menselijke belichaming van de taal. De BIOLINGUÏSTIEK bekijkt het menselijke taalver-
+nog een derde onderzoeksgebied dat licht probeert te werpen op de menselijke belichaming van de taal. De
+BIOLINGUÏSTIEK
+bekijkt het menselijke taalver-
  Het Terrein van de Algemene Taalkunde
 mogen als biologisch gegeven, d.w.z., als een vermogen dat specifiek is voor
 de menselijke soort. In het bijzonder tracht men na te gaan hoe specifiek: is
@@ -557,7 +609,10 @@ een rijk geschakeerde taal te verwerven? Die vraag wordt in het bijzonder
 toegespitst op de relatie van het menselijke taalvermogen met dat van de andere primaten: is het mogelijk een taal met de kenmerken van de natuurlijke
 menselijke taal aan apen aan te leren?
 Een derde en laatste groot gebied met externe benaderingen van de taal
-betreft de hele sector van de TOEGEPASTE TAALKUNDE. In het algemeen verstaan we daaronder al die benaderingen die de bevindingen, theorieën of methodes van het wetenschappelijke taalkundige onderzoek gebruiken bij het
+betreft de hele sector van de
+TOEGEPASTE TAALKUNDE.
+In het algemeen ver-
+staan we daaronder al die benaderingen die de bevindingen, theorieën of methodes van het wetenschappelijke taalkundige onderzoek gebruiken bij het
 oplossen van praktische problemen en het ontwerpen van praktische toepassingen. Omdat een volledig overzicht van dit gebied buiten de mogelijkheden
 van dit hoofdstuk valt, beperken we ons tot enkele illustraties. Zo rekent men
 tot de toegepaste linguïstiek o.m. de taaldidactiek, die toepassingen in het
@@ -618,13 +673,16 @@ In dit hoofdstuk en de twee volgende, ronden we onze inleidende bewegingen
 af door te kijken naar de materiële vormen waarin de natuurlijke taal verschijnt: de spraak en het schrift. Om te beginnen introduceren we een aantal
 technische begrippen uit de taalkundige studie van klanken en klanksystemen
 – begrippen die we overigens nodig zullen hebben om de historische vraagstelling die ons in de eerste helft van dit boek als leidraad dient, op een efficiente manier aan te pakken. We spreken bij het onderzoek naar klanken en
-klanksystemen, zoals we al aangaven in het vorige hoofdstuk, van FONETIEK
+klanksystemen, zoals we al aangaven in het vorige hoofdstuk, van
+FONETIEK
 en FONOLOGIE. Het onderscheid tussen die twee disciplines kunnen we, op een
 iets meer gedetailleerde manier dan daarnet, als volgt weergeven.
 Bepaalde klankverschillen die we wel in de uitspraak van het Nederlands
 kunnen aantreffen zijn niet betekenisonderscheidend: het maakt niets uit of je
 een woord als rood uitspreekt met een tongpunt-r of een huig-r (een "Franse
-r"). Het onderscheid tussen de klanken (of FONEN) die worden geproduceerd
+r"). Het onderscheid tussen de klanken (of
+FONEN)
+die worden geproduceerd
 door het trillen van de huig of door het trillen van de tong tegen de achterzijde
 van de tanden is in het Nederlands niet functioneel: er zijn geen woordparen
 te vinden die van elkaar verschillen enkel en alleen doordat het ene woord
@@ -634,9 +692,12 @@ dan de andere, of misschien zelfs chiquer. Maar lexicaal distinctief zijn de
 klanken in ieder geval niet: ze zorgen niet voor een kenmerkend onderscheid
 tussen twee woorden. Dat ligt anders met het onderscheid tussen de k van
 koek en de g van gaan: het onderscheid tussen gat en kat hangt enkel daarvan af. We zeggen dan dat de g van gaan en de k van koek in het Nederlands
-FONEMEN zijn: fonen die een functionele waarde hebben, in het bijzonder in de
+FONEMEN
+zijn: fonen die een functionele waarde hebben, in het bijzonder in de
 zin dat ze betekenisonderscheidend werken in een woordpaar als gat/kat. Zo'n
-woordpaar noemen we dan weer een MINIMAAL PAAR: een paar dat slechts in
+woordpaar noemen we dan weer een
+MINIMAAL PAAR:
+een paar dat slechts in
 één klanksegment verschilt, en dat op die manier gebruikt kan worden om de
 fonemische status van een bepaald klankverschil te bevestigen. De klanken
 die niet functioneel belast zijn, zoals de tongpunt-r en de huig-r kunnen we beschouwen als varianten van een meer abstract gegeven, dat dan wel fonemi-
@@ -659,9 +720,11 @@ uitgesproken. De b van bijl daarentegen is stemhebbend: de stembanden trillen we
 tussen de k en de Franse g ligt 'm in het stemloze versus het stemhebbende
 karakter van de klanken. Bij hakbijl zien we het dan gebeuren dat een klank
 die normalerwijze stemloos is, stemhebbend wordt onder invloed van de volgende stemhebbende b. Bij de uitspraak van de k van hak wordt a.h.w. geanticipeerd op de stemhebbende uitspraak van b. We spreken bij zulke onderlinge beïnvloeding van klanken in elkaars buurt van ASSIMILATIE.
-We zien nu duidelijk het verschil tussen het r-voorbeeld en het hakbijlvoorbeeld: in het eerste geval zijn de tongpunt-r en de huig-r VRIJE VARIANTEN
+We zien nu duidelijk het verschil tussen het r-voorbeeld en het hakbijlvoorbeeld: in het eerste geval zijn de tongpunt-r en de huig-r
+VRIJE VARIANTEN
 van het r-foneem, terwijl in het tweede geval de Franse g een
-COMBINATORISCHE VARIANT van de k is: alleen in bepaalde klankcombinaties
+COMBINATORISCHE VARIANT
+van de k is: alleen in bepaalde klankcombinaties
 treffen we de Franse g aan als een variant van k. Het combinatorische, i.c.
 assimilatorische karakter van het optreden van de Franse g in hakbijl betekent
 nu ook dat we een regel kunnen formuleren die voorspelt wanneer we de
@@ -677,7 +740,13 @@ veeleer dan omgekeerd. De regel die we hebben geformuleerd behoeft daarom een in
 en v. Het is dan de vraag of die twee reeksen (b-d enerzijds en g-z-v anderzijds) in fonetisch opzicht iets gemeenschappelijks hebben waardoor een algemene formulering van de regel mogelijk wordt. Welnu, bij b en d wordt bij de
 productie van de klank de luchtstroom ergens in de mond kort afgesloten; bij
 het opheffen van de obstructie ontstaat een "ontploffing". We spreken in dat
-verband van PLOFKLANKEN of PLOSIEVEN of OCCLUSIEVEN. Bij g, v en z treedt
+verband van
+PLOFKLANKEN
+of
+PLOSIEVEN
+of
+OCCLUSIEVEN.
+Bij g, v en z treedt
 zo'n afsluiting van het luchtkanaal niet op, maar wel wordt de luchtstroom,
 door een karakteristieke vernauwing van de mondholte, op een zodanige manier samengeperst dat een enigszins schurend geluid ontstaat. De technische
 term voor klanken als g, v en z is FRICATIEVEN (of RUISKLANKEN).
@@ -688,13 +757,17 @@ treedt de klank t ook als allofoon van d op, zoals in het woord rood: stemhebben
 Om het onderscheid tussen het niveau van de fonen en dat van de fonemen goed aan te geven, gebruiken we verschillende notaties. Klanken zonder
 meer, fonen, geven we aan tussen rechte haken. De k van koek en dak schrijven we als [k], de g van garçon en hakbijl als [g], en de g van gaan en gat als
 [ɣ]. De systematische studie van de klanken van een taal noemen we dan de
-FONETIEK. Fonemen aan de andere kant worden bestudeerd in de FONOLOGIE.
+FONETIEK.
+Fonemen aan de andere kant worden bestudeerd in de
+FONOLOGIE.
 Ze worden weergegeven tussen schuine strepen: we zeggen dan dat in het
 Nederlands /k/ en / ɣ / fonemen zijn, of dat het foneem /k/ met de allofonen [k]
 en [g] voorkomt.
  De Media van Taalgebruik
 Behalve fonen en fonemen moeten we overigens ook klank en spelling
-goed uit elkaar houden. We schrijven dus wel hoed met een d, maar we zeggen hoet met een t: de klank [t] blijkt in het Nederlands niet altijd gerepresenteerd te worden door het spellingteken (het GRAFEEM) t, en omgekeerd blijkt
+goed uit elkaar houden. We schrijven dus wel hoed met een d, maar we zeggen hoet met een t: de klank [t] blijkt in het Nederlands niet altijd gerepresenteerd te worden door het spellingteken (het
+GRAFEEM)
+t, en omgekeerd blijkt
 het grafeem d niet altijd de klank [d] voor te stellen. Grafemen kunnen we tussen vishaken weergeven: we kunnen dus bijvoorbeeld zeggen dat <d> zowel
 met [t] als met [d] kan overeenstemmen. Dat er niet een één-op-éénverhouding bestaat tussen fonen en grafemen blijkt nog uit andere voorbeelden: de klank [EI] wordt afhankelijk van het woord geschreven als <ei> of <ij>
 (eitje, rijtje, feit, fijt), en in het grafeem <ei> zelf heeft de letter e duidelijk niet
@@ -718,16 +791,23 @@ klanken helemaal op dezelfde wijze geproduceerd: de stembanden trillen, de
 luchtstroom wordt nergens tussen het strottenhoofd en de lippen onderbroken,
 en de stand van de tong is in beide gevallen identiek.
 Die benadering, waarbij we kijken naar de productie van spraakklanken,
-noemen we de ARTICULATORISCHE FONETIEK. Er bestaat daarnaast ook een
-AKOESTISCHE FONETIEK, waarbij gekeken wordt naar het product van de articu-
+noemen we de
+ARTICULATORISCHE FONETIEK.
+AKOESTISCHE FONETIEK,
+Er bestaat daarnaast ook een
+waarbij gekeken wordt naar het product van de articu-
 latorische activiteit in z'n fysische vorm, d.w.z., naar de aard van de klankgolven die bij het spreken worden voortgebracht. De rest van dit hoofdstuk heeft
 tot doel de basisgedachten van de akoestische fonetiek uiteen te zetten; de
 articulatorische fonetiek komt aan bod in het volgende hoofdstuk.
  Klanken en Spraakproductie
 Geluid wordt veroorzaakt door de trilling van luchtdeeltjes. Die trillingen
 kunnen worden voorgesteld in de vorm van een diagram: langs de verticale as
-geven we de sterkte van de trilling weer, langs de horizontale as het tijdsverloop. Zo'n diagram noemen we een akoestisch SPECTRUM. We moeten dan
-een onderscheid maken tussen PERIODIEKE en NIET-PERIODIEKE trillingen. Bij de
+geven we de sterkte van de trilling weer, langs de horizontale as het tijdsverloop. Zo'n diagram noemen we een akoestisch
+een onderscheid maken tussen
+PERIODIEKE
+SPECTRUM.
+We moeten dan
+en NIET-PERIODIEKE trillingen. Bij de
 periodieke trillingen is een terugkerend patroon te herkennen in het verloop
 van de trilling. In zijn zuiverste vorm neemt dat patroon de vorm aan van een
 sinusgolf. De hoogte van de golf (de amplitude) geeft de sterkte van het geluid, terwijl de toonhoogte bepaald wordt door het aantal volledige golven per
@@ -748,8 +828,14 @@ Ook klinkers, waarvan het trillingspatroon niet met niet-periodieke ruis vermeng
 golfpatroon. Een periodieke klinkergolf bestaat vrijwel altijd uit een samenstel
 van enkelvoudige periodieke trillingen. Het linkergedeelte van figuur 3.1 laat
 zien hoe een complexe golf geanalyseerd wordt als een complex van drie
-eenvoudige golven, die men HARMONISCHEN noemt. De trilling met de laagste
-frequentie is de GRONDTOON, de andere heten BOVENTONEN. De decompositie
+noemt. De trilling met de laagste
+eenvoudige golven, die men
+HARMONISCHEN
+frequentie is de
+de andere heten
+GRONDTOON,
+BOVENTONEN.
+De decompositie
 van complexe golven in harmonischen heet "Fourieranalyse". Voor een voor-
  De Media van Taalgebruik
 stelling als in het linkergedeelte van figuur 3.1 bestaat ook een alternatief,
@@ -765,9 +851,13 @@ niet-periodieke karakter van de trilling van de medeklinker duidelijk, maar ook
 ziet men dat bij de klinker bepaalde harmonischen sterker doorwegen dan
  Klanken en Spraakproductie
 andere: ze hebben een grotere relatieve amplitude, klinken dus sterker door in
-de spraakklank. Men spreekt in dat geval van FORMANTEN. De aanwezigheid
+de spraakklank. Men spreekt in dat geval van
+FORMANTEN.
+De aanwezigheid
 van formanten bij de productie van klinkers blijkt ook uit nog een andere vorm
-van representatie van spraakklanken, nl. het SPECTROGRAM. Een spectrograaf
+van representatie van spraakklanken, nl. het
+SPECTROGRAM.
+Een spectrograaf
 is een toestel dat de spectrale samenstelling van spraakklanken registreert
 door langs de horizontale as de duur, langs de verticale as de frequentie, en
 door een verschillende graad van zwarting de relatieve amplitudesterkte van
@@ -793,7 +883,9 @@ wordt gegeven door het
 BRON-EN-FILTERMODEL
 van spraakproductie. Het
 spraakkanaal wordt daarin beschouwd als een klankkast die bepaalde geluidsfrequenties versterkt en andere onderdrukt. Die geamplificeerde of weggefilterde frequenties zelf zijn afkomstig van de trilling van de stembanden in het
-strottenhoofd (of LARYNX). Iedere stand van het spraakkanaal heeft nu een
+strottenhoofd (of
+LARYNX).
+Iedere stand van het spraakkanaal heeft nu een
 eigen filterende functie. Bij het uitspreken van [i] komt het middengedeelte van
 de tong bijvoorbeeld vrij dicht tot bij het gehemelte, waardoor het mondkanaal
 voor de passerende lucht vernauwd wordt. Bij het uitspreken van [a.] als in
@@ -867,28 +959,39 @@ vocalen en de beschrijving van de consonanten.
 De zes basiskenmerken voor de beschrijving van de klinkers kunnen worden voorgesteld aan de hand van de Nederlandse klinkers: de positie van de
 tong, de openingsgraad van de mond, de positie van de lippen, de lengte van
 de klank, het al dan niet nasale karakter van de klank, en het al dan niet monoftongische karakter van de klank.
-– Bij VOORKLINKERS wordt het voorste gedeelte van de tong omhoog gebracht, bij MIDDENKLINKERS stijgt het middengedeelte van de tong, en bij
-ACHTERKLINKERS het achterste deel van de tong.
-– De OPENINGSGRAAD van een klinker betreft de afstand tussen het
+– Bij VOORKLINKERS wordt het voorste gedeelte van de tong omhoog gebracht, bij
+MIDDENKLINKERS
+ACHTERKLINKERS
+stijgt het middengedeelte van de tong, en bij
+het achterste deel van de tong.
+OPENINGSGRAAD
+van een klinker betreft de afstand tussen het
 hoogste punt van de tong en het verhemelte; meestal worden vier openingsgraden onderscheiden (open, halfopen, halfgesloten en gesloten),
 maar het continue karakter van de overgangen tussen deze vier graden betekent dat voor de beschrijving van afzonderlijke talen soms
 subtielere verschillen moeten kunnen worden aangegeven.
-– Bij een langere klinker wordt de LENGTEGRAAD aangegeven met een
+– Bij een langere klinker wordt de
+LENGTEGRAAD
+aangegeven met een
 puntje (of soms twee) na het symbool voor de korte klinker. (Een alternatief systeem, dat in de historische taalkunde vaak gebruikt wordt en
 dat ook in de volgende hoofdstukken terug te vinden zal zijn, plaatst
  De Media van Taalgebruik
 een recht streepje boven het teken van de corresponderende korte
 klinker.)
 – De lippen kunnen bij het uitspreken van de klinkers al dan niet gerond zijn; we spreken van GESPREIDE of GERONDE klinkers.
-– Bij NASALERING zakt het zachte verhemelte, zodat de neusholte mee
+NASALERING
+zakt het zachte verhemelte, zodat de neusholte mee
 resoneert bij de productie van de klank. Klinkers waarbij dat niet het
 geval is noemen we "oraal".
-– Bij DIFTONGEN of "tweeklanken" gaan twee klinkers haast onmerkbaar
+DIFTONGEN
+of "tweeklanken" gaan twee klinkers haast onmerkbaar
 in elkaar over. Bij stijgende diftongen is het tweede element meer gesloten dan het eerste; bij dalende diftongen wordt het meer open uitgesproken. De Nederlandse diftongen zijn alle stijgende diftongen; het
 In figuur 4.1 worden voorbeelden gegeven van de Nederlandse klinkers
 (afgezien van de nasalen) en medeklinkers. De klinkers die beschreven kunnen worden als een combinatie van de eerste vier kenmerken zijn in figuur 4.2
 in hun onderlinge verband weergegeven. Daar komen dan nog de genasaleerde klinkers bij, die we in het Nederlands uitsluitend aantreffen bij leenwoorden. Nasalering wordt aangegeven met een tilde als diakritisch teken:
-parfum wordt [pa{f.ø)]. (Een DIAKRITISCH TEKEN is een teken dat wordt toegevoegd aan een basissymbool om de waarde daarvan enigszins te wijzigen: de
+parfum wordt [pa{f.ø)]. (Een
+DIAKRITISCH TEKEN
+is een teken dat wordt toege-
+voegd aan een basissymbool om de waarde daarvan enigszins te wijzigen: de
 puntjes die we gebruiken om lange klinkers aan te duiden, bijvoorbeeld, zijn
 ook diakritische tekens.
 KLINKERS
@@ -983,40 +1086,52 @@ Nederlandse klinkers (zonder diftongen en nasalen)
 Bij de beschrijving van de consonanten worden de relevante kenmerken
 meestal ingedeeld op grond van vijf attributen: articulatieplaats, articulatiewijze, bron van de luchtstroom, richting van de luchtstroom, en stemkarakter. Het
  De Media van Taalgebruik
-STEMHEBBENDE of STEMLOZE karakter van medeklinkers hangt af van de vraag
+STEMHEBBENDE
+of
+STEMLOZE
+karakter van medeklinkers hangt af van de vraag
 of de stembanden in trilling worden gebracht tijdens de productie van de medeklinker. M.b.t. de articulatiewijze van medeklinkers onderscheidt men de
 volgende zeven basisgevallen. (Wanneer we het in de volgende opsomming
 over "articulatoren" hebben bedoelen we de onderdelen van het spraakkanaal
 die kunnen bewegen: strottenhoofd, huig, tong, zacht verhemelte, lippen).
-– OCCLUSIEVEN: het spraakkanaal wordt op een bepaald punt tijdelijk
+OCCLUSIEVEN:
+het spraakkanaal wordt op een bepaald punt tijdelijk
 volledig afgesloten bij de spraakproductie, zodanig dat de luchtstroom
 gedurende korte tijd volledig wordt onderbroken. Wordt het spraakkanaal vervolgens weer vrijgemaakt, dan ontsnapt de lucht met een kleine explosie. Stemloze occlusieven zijn bijvoorbeeld [p], [t] en [k]; de
 stemhebbende pendanten daarvan zijn [b], [d] en [g] (zoals in garçon).
-Occlusieven kunnen GEASPIREERD of niet geaspireerd zijn. Bij aspiratie
+Occlusieven kunnen
+GEASPIREERD
+of niet geaspireerd zijn. Bij aspiratie
 duurt het langer dan ongeveer 40 milliseconden voor de occlusie van
 het spraakkanaal opgeheven wordt; de medeklinker krijgt dan een
 soort van h-achtige naklank. De Engelse uitspraak van t en p, bijvoorbeeld, is geaspireerd; we geven dat aan met een klein h-teken:
 [tH], [pH]. We zullen later zien dat in sommige talen het onderscheid
 tussen geaspireerde en niet-geaspireerde occlusieven fonemische status heeft.
-– FRICATIEVEN: onderdelen van het spraakkanaal worden (zonder dat
+FRICATIEVEN:
+onderdelen van het spraakkanaal worden (zonder dat
 sprake is van een volledige afsluiting) zo dicht bij elkaar gebracht dat
 een "schurend" effect ontstaat; de luchtstroom wordt omgezet in een
 turbulente wervelstroom. Stemhebbende fricatieven zijn bijvoorbeeld
 – NASALEN: de luchtstroom wordt ergens in het mondkanaal afgesloten,
 maar het zachte verhemelte zakt, zodanig dat de lucht via de neusholte kan ontsnappen. In het Nederlands geldt dit voor [n], [m], [N].
-– LATERALEN: de luchtstroom wordt tegengehouden in het midden van
+LATERALEN:
+de luchtstroom wordt tegengehouden in het midden van
 het mondkanaal (doordat de tong het gehemelte raakt of zeer dicht nadert), maar vindt een uitweg langs de zijkanten van de tong. In het Nederlands geldt dit uitsluitend voor [l].
 – TRILKLANKEN: één articulator (m.n. de tongpunt of de huig) beweegt op
 een snelle, trillende manier tegen een andere. De tongpunt-r transcri-
  Fonetische Transcriptie
 beren we als [r], de huig-r als [{]. Wanneer de trilling beperkt is tot één
 enkele beweging spreekt men van een FLAP.
-– AFFRICATEN: een occlusief wordt zeer snel gevolgd door een homorgane fricatief. (Met "homorgaan" bedoelen we dat de twee segmenten
+AFFRICATEN:
+een occlusief wordt zeer snel gevolgd door een homor-
+gane fricatief. (Met "homorgaan" bedoelen we dat de twee segmenten
 dezelfde – of nagenoeg dezelfde – articulatieplaats hebben.) Voorbeelden zijn de [ts] van het Duits (Zeit), en de [tS] van het Engels (chicken).
 – APPROXIMANTEN: waar de voorgaande articulatiewijzen een sterke vernauwing van het spraakkanaal inhouden, bedoelen we hier articulaties
 die met een minder sterke vernauwing gepaard gaan, en die daardoor
 dicht in de buurt van een klinkerrealisatie komen. Bij de [j] en [w]
-spreekt men in het bijzonder van SEMIVOCALEN. De [l] is een laterale
+spreekt men in het bijzonder van
+SEMIVOCALEN.
+De [l] is een laterale
 approximant. Sommige realisaties van r zijn ook approximanten. Dat is
 enerzijds het geval voor de de "Amerikaanse" r, hetzij dentaal of alveolair [®], hetzij retroflex [”] uitgesproken. Anderzijds wordt ook de "gebrouwde" r, waarbij de r met een scherpe, op [X] gelijkende keelklank
 wordt uitgesproken, soms als approximant beschouwd; in het IPA vind
@@ -1029,27 +1144,37 @@ f = palataal-alveolair, g = palataal, h = velair, i = uvulair, j = faryngaal
 De articulatieplaats van de consonanten wordt beschreven aan de hand
 van de volgende tien posities. (Een indicatie van de betrokken plaatsen is te
 vinden in figuur 4.3.)
-– BILABIAAL: boven- en onderlip worden samengebracht, of zorgen voor
+BILABIAAL:
+boven- en onderlip worden samengebracht, of zorgen voor
 een sterke vernauwing van de mondopening. Dit geldt voor [m], [b] en
 [p], en voor de Belgisch-Nederlandse realisatie van <w>: [w]. Het
 Spaans kent een bilabiale fricatief, als in Cuba [B].
 – LABIODENTAAL: de onderlip raakt de boventanden, zoals in [v] en [f] en
 de Nederlands-Nederlandse realisatie van <w>: [V].
-– DENTAAL: de tongpunt raakt de boventanden, als in [T] (zoals Engels
+DENTAAL:
+de tongpunt raakt de boventanden, als in [T] (zoals Engels
 thin) en [D] (zoals Engels there).
-– ALVEOLAIR: de tongpunt of het tongblad raakt de bovenste tandkas
+ALVEOLAIR:
+de tongpunt of het tongblad raakt de bovenste tandkas
 (het alveolum). Voorbeelden zijn [t] en [d], [s] en [z], [l] en de tongpunt-r
-– RETROFLEX: de tongpunt wordt omgekruld en maakt (bijna) contact
+RETROFLEX:
+de tongpunt wordt omgekruld en maakt (bijna) contact
 met het harde verhemelte. Een retroflexe r wordt weergegeven als [”].
-– PALATAAL: de voorkant van de tong raakt of nadert het harde verhemelte (het palatum), zoals bij de [S] van chocolade en chips, en de [Z]
+PALATAAL:
+de voorkant van de tong raakt of nadert het harde verhe-
+melte (het palatum), zoals bij de [S] van chocolade en chips, en de [Z]
 van journaal.
-– VELAIR: de tongrug raakt of nadert het zachte verhemelte. Dit is het
+VELAIR:
+de tongrug raakt of nadert het zachte verhemelte. Dit is het
 geval bij [k] en [g], bij [X] (chroom) en [ɣ] (goed), en bij [N] (lang).
-– UVULAIR: de achterkant van de tong raakt de huig (uvula), zoals bij de
-– FARYNGAAL: de achterkant van de tong raakt of nadert de keelwand
+UVULAIR:
+de achterkant van de tong raakt de huig (uvula), zoals bij de
+FARYNGAAL:
+de achterkant van de tong raakt of nadert de keelwand
 (farynx). Het Nederlands kent geen faryngale klanken; de typische
 Arabische keelklanken zijn faryngaal.
-– GLOTTAAL: de stembanden spelen een rol als articulator; een duidelijk
+GLOTTAAL:
+de stembanden spelen een rol als articulator; een duidelijk
 geval is de glottisslag [/], een soort kuchje waarbij de stembanden
 voor een occlusie zorgen. Die glottisslag vindt men bijvoorbeeld terug
 in de Cockneyuitspraak van bottle [bç/…] en in het Duits tussen twee
@@ -1059,17 +1184,25 @@ dat voor de h geen specifieke articulatieplaats kan worden bepaald,
  Fonetische Transcriptie
 omdat ze net gekenmerkt wordt door een vrije, ongehinderde doorstroming van de lucht. Vanuit dit perspectief is het ook veeleer een approximant dan een fricatief.)
 De meeste medeklinkers worden geproduceerd met een luchtstroom die
-vanuit de longen komt; men spreekt dan van PULMONALE klanken. Niet-pulmonale klanken, aan de andere kant, kunnen op twee verschillende manieren geproduceerd worden. In het geval van glottale niet-pulmonale klanken worden
+vanuit de longen komt; men spreekt dan van
+PULMONALE
+klanken. Niet-pulmo-
+nale klanken, aan de andere kant, kunnen op twee verschillende manieren geproduceerd worden. In het geval van glottale niet-pulmonale klanken worden
 de stembanden gebruikt om een luchtstroom op gang te brengen (en niet om
 hem op een bepaalde manier aan het trillen te brengen, zoals bij pulmonale
 klanken). Hiervoor bestaan dan weer twee mogelijkheden.
-Bij EJECTIEVEN wordt het spraakkanaal langs twee zijden afgesloten, enerzijds doordat de tong de articulatieplaats inneemt van een consonant als [p] of
+Bij
+EJECTIEVEN
+wordt het spraakkanaal langs twee zijden afgesloten, ener-
+zijds doordat de tong de articulatieplaats inneemt van een consonant als [p] of
 [t], anderzijds doordat de stembanden het strottenhoofd hermetisch afsluiten:
 in zekere zin houdt men even de adem in. Het strottenhoofd wordt vervolgens
 lichtjes naar boven gekanteld, zodanig dat de luchtdruk in het afgesloten
 spraakkanaal stijgt. Wordt daarna de occlusie in de mond opgeheven, dan
 ontsnapt de samengeperste lucht met een soort van plofgeluid.
-Bij IMPLOSIEVEN gebeurt, vertrekkend van een identieke basissituatie, het
+Bij
+IMPLOSIEVEN
+gebeurt, vertrekkend van een identieke basissituatie, het
 omgekeerde: het gesloten strottenhoofd wordt lichtjes naar beneden gebracht,
 zodat de luchtdruk in het afgesloten spraakkanaal vermindert. Bij opheffing
 van de occlusie in de mond wordt dan, door het luchtdrukverschil, lucht van
@@ -1082,14 +1215,22 @@ lichtjes naar beneden te bewegen ontstaat een luchtdrukverlaging in het afgeslot
 stroomt. Omwille van het geproduceerde effect spreekt men in zo'n geval van
 KLIK-KLANKEN (CLICKS).
 Deze niet-pulmonale klanken laten zien dat we bij de beschrijving van de
-luchtstroom zowel een INGRESSIEVE als EGRESSIEVE richting moeten onderscheiden. Niet-pulmonale klanken komen in de Indo-europese talen niet op
+luchtstroom zowel een
+INGRESSIEVE
+als
+EGRESSIEVE
+richting moeten onder-
+scheiden. Niet-pulmonale klanken komen in de Indo-europese talen niet op
 een systematische manier voor. Implosieve consonanten worden vooral aangetroffen in een aantal Amerikaans-Indiaanse en een aantal Afrikaanse talen.
 Dat geldt ook voor de ejectieve consonanten, die daarnaast vooral typisch zijn
  De Media van Taalgebruik
 voor een aantal Kaukasische talen. Klikklanken zijn bekend uit de talen van de
 Khoisan-familie in zuidelijk Afrika.
 Het tot hier gepresenteerde descriptieve systeem kan zowel vereenvoudigd als verder verfijnd worden. Een vereenvoudigde benadering zou dan bijvoorbeeld in de beschrijving van een bepaalde taal het onderscheid tussen
-dentale en alveolaire consonanten laten vallen, en daar nog slechts van "apicale" klanken spreken. Bij een verdere verfijning kan men bijvoorbeeld rekening houden met de zogeheten SECUNDAIRE ARTICULATIES van de medeklinkers. Het betreft dan uitspraakvormen waarbij medeklinkers een vocaalachtige
+dentale en alveolaire consonanten laten vallen, en daar nog slechts van "apicale" klanken spreken. Bij een verdere verfijning kan men bijvoorbeeld rekening houden met de zogeheten
+SECUNDAIRE ARTICULATIES
+van de medeklin-
+kers. Het betreft dan uitspraakvormen waarbij medeklinkers een vocaalachtige
 bijklank krijgen. Typerend is bijvoorbeeld de palatalisatie in Slavische talen: de
 gewone uitspraak van de consonant wordt gecombineerd met een hoge positie van het voorste gedeelte van de tong, zoals in het Russische [bratJ] "nemen". Bij velarisatie wordt juist het achterste gedeelte van de tong geheven,
 wat een "dikke" uitspraak met zich meebrengt, zoals bij een Engelse l aan het
@@ -1101,7 +1242,8 @@ features bestaat, waarbij klinkers en medeklinkers op een uniforme manier
 (d.w.z. aan de hand van dezelfde features) beschreven worden.
 De fonetische kenmerken die we tot hier toe beschreven hebben, betreffen
 telkens afzonderlijke segmenten uit het spraakgeheel. Er bestaan echter ook
-NIET-SEGMENTELE kenmerken. Die vallen in grote trekken uiteen in twee cate-
+NIET-SEGMENTELE
+kenmerken. Die vallen in grote trekken uiteen in twee cate-
 gorieën. Aan de ene kant staan de kenmerken die te maken hebben met het
 individuele timbre van iemands stem (of hij een "warme" of een hese stem
 heeft, bijvoorbeeld) of met zekere paralinguïstische spraakeffecten, die veelal
@@ -1109,7 +1251,10 @@ een emotionele of stilistische waarde hebben (fluisteren als signaal van geheimz
 kant, een aantal kenmerken die alle vandoen hebben met de toonhoogte, de
 duur en de geluidssterkte van de spraak. We noemen vier verschijnselen die
 kunnen worden beschreven in termen van deze drie dimensies; men spreekt
-in dat verband van het PROSODISCHE SYSTEEM van een taal. De vier verschijnselen zijn op een systematische manier aan elkaar gerelateerd: we bekijken
+in dat verband van het
+PROSODISCHE SYSTEEM
+van een taal. De vier verschijn-
+selen zijn op een systematische manier aan elkaar gerelateerd: we bekijken
  Fonetische Transcriptie
 accentueringsverschijnselen enerzijds en intonatieverschijnselen anderzijds,
 en dat telkens op het niveau van het woord en op het niveau van de zin.
@@ -1123,7 +1268,9 @@ fonologische, maar veeleer de morfologische bouw van het woord die de accentueri
 gelede woorden speelt de aard van de voor- en achtervoegsels een rol: verdraagt in werkwoorden nooit het accent, terwijl in adjectieven afgeleid op -aal
 (zoals synodaal, departementaal) de klemtoon net op het achtervoegsel ligt.
 – WOORDINTONATIE
-Onder TOON verstaan we het gebruik van toonhoogteverschillen als lexicaal
+Onder
+TOON
+verstaan we het gebruik van toonhoogteverschillen als lexicaal
 distinctief kenmerk; talen waarin toonhoogte een distinctieve status heeft,
 noemen we toontalen. Het klassieke voorbeeld bij uitstek is het Chinees,
 waarin de klankreeks [ma] vier verschillende betekenissen kan hebben, afhankelijk van het intonatiepatroon: bij een vlakke hoge toon betekent het
@@ -1237,7 +1384,10 @@ van de taal los van de vocale representatie; dat is het geval bij schriftsysteme
  Schriftsystemen
 die de betekenis representeert. Binnen ieder van deze twee hoofdgroepen (de
 niet-fonografische en de fonografische) zijn een aantal subtypes te onderscheiden.
-De eerste realisatie van niet-fonografische schriftsystemen zijn de PICTOGRAFISCHE schriftvormen: niet alleen stemt ieder karakter met een volledig
+De eerste realisatie van niet-fonografische schriftsystemen zijn de
+GRAFISCHE
+PICTO-
+schriftvormen: niet alleen stemt ieder karakter met een volledig
 (woord)concept overeen, maar bovendien bestaat er een iconische relatie tussen de vorm van het teken en de betekenis. In het Soemerisch schrift dat rond
 3300 voor Christus tot ontwikkeling komt, bijvoorbeeld, wordt het concept "os"
 weergegeven door een tekening die op een visueel transparante manier een
@@ -1259,7 +1409,9 @@ zijn opeenvolgende stadia te traceren. Er is in ieder geval wel sprake van conve
 Dat is bijvoorbeeld het geval geweest met de ontwikkeling van het spijkerschrift, dat nog in het 4de millennium tot ontwikkeling komt, en dat gedurende
 3000 jaar in het Nabije Oosten in gebruik blijft in culturen als die van de Soemeriërs, de Babyloniërs en de Hittieten. In het volgende voorbeeld ziet men
 hoe het oorspronkelijke pictografische teken voor "os" zijn iconische motivatie
-verliest. We spreken van IDEOGRAFISCHE schrijfsystemen wanneer de karak-
+verliest. We spreken van
+IDEOGRAFISCHE
+schrijfsystemen wanneer de karak-
  De Media van Taalgebruik
 ters van het niet-fonografische schrift een abstracte, niet-iconische relatie met
 hun betekenis hebben.
@@ -1273,7 +1425,10 @@ heeft. In een representatiesysteem dat concepten symboliseert zonder rekening te
 krijgen dan "zon"; wat in werkelijkheid gesymboliseerd wordt is het woord rì,
 als talige entiteit met twee samenhangende betekenissen. Omwille van die
 talige status van wat in ideografische systemen gerepresenteerd wordt, wordt
-door sommigen van LOGOGRAMMEN gesproken i.p.v. ideogrammen; deze laatste term blijft ondertussen echter zijn traditionele populariteit behouden.
+door sommigen van
+LOGOGRAMMEN
+gesproken i.p.v. ideogrammen; deze laat-
+ste term blijft ondertussen echter zijn traditionele populariteit behouden.
 Het Chinees-Japanse schriftsysteem is het enige nu nog in gebruik zijnde
 niet-fonografische systeem. Oudere, niet langer gebruikte pictografischideografische schriften zijn o.a. het Egyptische hiërogliefenschrift, het Soemerische spijkerschrift, en de hiëroglifische systemen van Maya's en Azteken.
 Dat het fonografische principe sterker vertegenwoordigd is dan het pictografisch-ideografische hoeft overigens niet te verwonderen: fonografische systemen munten in het algemeen uit door een grotere leerbaarheid en een grotere soepelheid dan de niet-fonografische. Dat heeft in de twee gevallen iets
@@ -1295,7 +1450,8 @@ van die woorden, en niet slechts de betekenis. Wordt de klank van het woord
 in de representatie geïsoleerd van de betekenis, dan is in principe de overgang naar een fonografisch systeem gemaakt. In essentie steunt die overgang op het rebusprincipe: wanneer we bijvoorbeeld beschikken over een
 pictografisch teken voor het woord "bij" en een ander teken voor "bel", dan
 kunnen we de woordvorm bijbel in rebusvorm symboliseren door een combinatie van het bijtje en het belletje.
-Het Soemerische ideografische schrift kent die evolutie naar het fonografische systeem rond 3000 voor Christus. Er ontwikkelt zich dan een SYLLABAIR
+Het Soemerische ideografische schrift kent die evolutie naar het fonografische systeem rond 3000 voor Christus. Er ontwikkelt zich dan een
+SYLLABAIR
 schrift waarin ieder teken de klankwaarde van een lettergreep symboliseert:
 de tekens die oorspronkelijk woorden representeerden, worden tekens voor
 de klank van die woorden, zoals die los van de betekenis als lettergreep in
@@ -1312,7 +1468,8 @@ we zien hoe Amerika geschreven wordt met vier syllabaire tekens.
 Het Japans blijkt m.a.w. een schriftsysteem te bezitten waarin een fonografisch subsysteem naast een ideografisch hoofdsysteem te vinden is. Dergelijke gecombineerde, niet-zuivere systemen zijn volstrekt niet uitzonderlijk in
 de loop van de geschiedenis van het schrift. Het Soemerische schriftsysteem
 zelf vertoont ook een gemengd karakter, in de zin dat het niet volledig fonografisch wordt. Dat blijkt misschien nog het duidelijkst uit het gebruik van
-DETERMINATIEVEN. Dat zijn tekentjes die a.h.w. een semantische verrijking ge-
+DETERMINATIEVEN.
+Dat zijn tekentjes die a.h.w. een semantische verrijking ge-
 ven van een in hoofdzaak fonografisch systeem. Zo kent het Soemerisch o.a.
 de determinatieve elementen dingir en ki, die respectievelijk gebruikt worden
 voor goden en voor landen en steden. Het onderscheid tussen Assur als
@@ -1326,7 +1483,9 @@ het dingir- en het ki-determinatief toch nog verschillend uit, ondanks het feit
 dat het fonografische principe slechts één enkel symbool voor de klankvorm
 Assur oplevert.
 De volgende stap in de evolutie treedt op wanneer het syllabaire systeem
-de basis vormt voor een CONSONANTISCH systeem: de symbolen van het
+de basis vormt voor een
+CONSONANTISCH
+systeem: de symbolen van het
 schriftsysteem zijn dan geen lettergreepsymbolen meer, maar medeklinkersymbolen. Die stap wordt rond het midden van het 2de millennium voor Christus genomen door de Semitische volkeren die toen in het Nabije Oosten leefden. De oudste voorbeelden zijn het Oegaritische spijkerschrift, en het cursieve Fenicische alfabet. Oegarit was een stad in het noorden van het huidige
 Syrië; behalve in het oude Hebreeuwse schrift in Palestina kende het Oegari-
  Schriftsystemen
@@ -1334,7 +1493,9 @@ tische schrift geen verspreiding buiten dat oorspronkelijke gebied. Het Fenicisc
 een grote verspreiding: er zijn voorbeelden van teruggevonden in Fenicische
 handelskolonies op Cyprus, Sicilië en Sardinië, en in Noord-Afrika. Vooral
 echter werd het Fenicische schrift overgenomen en aangepast door de Grieken, de Etrusken en de Romeinen, wat uiteindelijk ons Latijnse alfabet opleverde.
-Die overgang naar een volledig ALFABETISCH systeem wordt gerealiseerd
+Die overgang naar een volledig
+ALFABETISCH
+systeem wordt gerealiseerd
 door de Grieken. De benaming alfabet is overigens , zoals het schrift zelf, onrechtstreeks uit het Fenicisch afkomstig: de Griekse namen alfa en beta zijn
 ontleend aan de Fenicische vormen alef en bet, waarmee de eerste lettertekens van het Fenicische alfabet benoemd worden. Tegelijkertijd hebben die
 Fenicische vormen ook nog een betekenis als een gewoon woord: alef betekent "os", en bet betekent "huis". Kijken we dan ook nog naar de vorm van de
@@ -1581,7 +1742,9 @@ over. Maar waarom? Waarom zijn de voorstellen van Isidorus van Sevilla of
 van Becanus geen wetenschappelijke etymologieën? Het ontbreken van twee
 belangrijke inzichten belet de traditionele etymologie om boven het niveau van
 de fantasie uit te stijgen.
-In de eerste plaats ontbreken RESTRICTIES op wat als een aanvaardbare
+In de eerste plaats ontbreken
+RESTRICTIES
+op wat als een aanvaardbare
 etymologie kan worden beschouwd. Dat geldt m.n. de formele ontwikkelingen
 die, binnen één taal of van de veronderstelde oertaal naar de bekende talen,
 als de mechanismen van taalverandering worden voorgesteld. Zowat alles lijkt
@@ -1595,7 +1758,9 @@ talen vaker voor? (Met opzet vermelden we hier de "natuurlijke" ontwikkeling
 van talen: in commerciële naamgeving is het procédé niet ongebruikelijk, zoals kan blijken uit vormen als Amro-bank, uit Amsterdam en Rotterdam. Daarbij gaat het echter om bewuste, gezochte naamgeving, niet om spontane ontwikkelingen: daarin is het samentrekkingsprocédé in kwestie net ongebruikelijk.
 Zoiets kom je natuurlijk pas te weten door op grote schaal talen met elkaar
 te vergelijken, en ook dat is iets waaraan het, in de tweede plaats, in het voorwetenschappelijke stadium ontbreekt: de gevolgde methode berust niet op
-een SYSTEMATISCHE VERGELIJKING van het beschikbare taalmateriaal, maar
+een
+SYSTEMATISCHE VERGELIJKING
+van het beschikbare taalmateriaal, maar
 beperkt zich grotendeels tot afzonderlijke gevallen. Bovendien beperkt men
 zich bij het etymologiseren vaak tot het zoeken van verbanden binnen de
 woordenschat van één enkele taal.
@@ -1627,8 +1792,7 @@ Indo-europese k komt regelmatig voor bij het grootste gedeelte van de oostelijke
 woord voor het begrip "honderd" terug te vinden is in het Avestisch en het Latijn spreekt men dan ook wel van satem-talen, waarin de k een sisklank geworden is, en centum-talen, waarin de k bewaard werd, of verdere ontwikkelingen onderging, zoals in de Germaanse ontwikkeling naar X en vervolgens
 naar h.)
 ie *p
-IE *t
-IE *k
+IE
 pita#
 [pita.]
 pater
@@ -1653,6 +1817,7 @@ worden
 vee
 SANSKRIET
 LATIJN
+IE
 Figuur 6.2
 De ontwikkeling van de Indo-europese stemloze occlusieven
 In de veronderstelling dat het Gotisch op dit punt karakteristiek is voor het
@@ -1662,16 +1827,20 @@ het Latijn, en het Sanskriet gaan terug op eenzelfde prototaal. En omdat de
  Historische Taalkunde
 vorm die we in het Sanskriet, het Grieks en het Latijn aantreffen in de meerderheid is t.o.v. de Germaanse vorm, lijkt het waarschijnlijk dat de oorspronkelijke vorm in de Indo-europese prototaal respectievelijk p, t en k geweest is.
 Die bevinding is op twee manieren weer te geven. Enerzijds kunnen we
-zeggen dat de systematische vergelijking van de talen een RECONSTRUCTIE
+zeggen dat de systematische vergelijking van de talen een
+RECONSTRUCTIE
 oplevert van het (Proto-)Indo-europees. We kunnen m.a.w. als onderdeel van
 de Indo-europese fonetische inventaris de elementen *p, *t en *k poneren.
 (We voegen daar een sterretje aan toe, precies om te laten zien dat het om
 gereconstrueerde, niet-geattesteerde vormen gaat.)
 Anderzijds kunnen we, vertrekkend van die reconstructie, de historische
 ontwikkelingen beschrijven die het Grieks, het Latijn, het Sanskriet, of het OerGermaans doen ontstaan uit het Indo-europees. M.b.t. de betrokken talen
-levert dat een STAMBOOMMODEL van taalontwikkeling op: het Grieks, het Latijn,
+levert dat een
+STAMBOOMMODEL
+van taalontwikkeling op: het Grieks, het Latijn,
 het Oer-Germaans zijn dochters die ontstaan uit de Indo-europese moedertaal, en die dat m.n. doen door zich linguïstisch van de prototaal te differentieren. Het Grieks of het Latijn bestaat immers pas op het moment dat het systematisch verschilt van het Indo-europees.
-M.b.t. de betrokken klanken levert hetzelfde beeld een reeks KLANKWETTEN
+M.b.t. de betrokken klanken levert hetzelfde beeld een reeks
+KLANKWETTEN
 op: we kunnen bijvoorbeeld zeggen dat de Indo-europese p in het Latijn bewaard blijft, maar dat ze in het Oer-Germaans terug te vinden is als f. Dat wil
 zeggen dat in alle posities waarin we in het Indo-europees een p menen te
 moeten postuleren (en waarin talen als Grieks, Latijn en Sanskriet alvast een
@@ -1795,7 +1964,10 @@ niet meer dan een paar inscripties bezitten, of het Frygisch uit het centrale
 deel van Turkije, waar enkele honderden inscripties van zijn overgebleven. De
 taalgroepen worden voorgesteld naargelang de ouderdom van de oudste
 overblijfselen.
-De ANATOLISCHE talen werden vanaf ongeveer 2000 voor Christus gesproken op het grondgebied van het huidige Turkije en Syrië; sinds ongeveer 1200
+De
+ANATOLISCHE
+talen werden vanaf ongeveer 2000 voor Christus gespro-
+ken op het grondgebied van het huidige Turkije en Syrië; sinds ongeveer 1200
 voor Christus zijn ze uitgestorven. De belangrijkste Anatolische taal is het
 Hittitisch, waarvan in 1906 een grote hoeveelheid kleitabletten (ongeveer
 25000) teruggevonden werd, daterende uit de periode van 1700 tot 1200 voor
@@ -1803,11 +1975,18 @@ Christus. Door die relatief recente ontdekking was het Hittitisch niet betrokken
 bij de "klassieke" reconstructie van het Indo-europees zoals die in de 19de
 eeuw werd uitgevoerd. Het archaïsche Hittitische taalmateriaal bevestigde
 echter op vele punten de voorgestelde reconstructie.
-Van het GRIEKS treffen we de oudste, Myceens restanten aan van ongeveer 1400 voor Christus. Het betreft hier de kleitabletten uit Knossos op Kreta
+Van het
+GRIEKS
+treffen we de oudste, Myceens restanten aan van onge-
+veer 1400 voor Christus. Het betreft hier de kleitabletten uit Knossos op Kreta
 die geschreven zijn in het zogeheten Lineair B, een schriftsoort die pas in
 1952 ontcijferd werd. Van de verschillende dialecten van het klassieke Grieks
 hebben we inscripties vanaf de 9de eeuw voor Christus; in de 8ste eeuw begint met Homerus de literaire overlevering.
-Het Indo-Iraans is de benaming voor de IRAANSE en de INDISCHE taalgroep
+Het Indo-Iraans is de benaming voor de
+IRAANSE
+en de
+INDISCHE
+taalgroep
 samen; die twee worden op basis van hun nauwe verwantschap samen gegroepeerd. Het moderne Indisch omvat o.a. het Hindi (dat in Pakistan ook
  Historische Taalkunde
 Urdu genoemd wordt), het Bengalees, en het Singalees; ook het Romani, de
@@ -1819,12 +1998,16 @@ Tot de moderne Iraanse talen behoren het Perzisch (of Farsi) in Iran, het
 Pasjto in Afganistan, het Koerdisch in Oost-Turkije en West-Irak, en het Ossetisch in de Kaukasus. De oudste taal uit deze groep is het Avestisch, de taal
 van de Avesta's. Deze religieuze teksten van het zoroastrisme (de leer van
 Zarathoestra) zijn gedateerd vanaf 1000 voor Christus.
-De ITALISCHE talen omvatten het Latijn en met het Latijn verwante kleinere
+De
+ITALISCHE
+talen omvatten het Latijn en met het Latijn verwante kleinere
 talen die in de Oudheid op het Italiaanse schiereiland gesproken werden, zoals het Oskisch en het Umbrisch. De gesproken vorm van het Latijn (het
 "volkslatijn" of "vulgair Latijn") vormde de basis voor de huidige Romaanse
 talen (Frans, Portugees, Spaans, Catalaans, Italiaans, Roemeens, Sardisch,
 Reto-Romaans). Inscripties in het Latijn zijn er van in de 6de eeuw voor Christus, terwijl de literatuur begint vanaf de 3de eeuw.
-De GERMAANSE talen zijn verdeeld in drie groepen: het Noord-Germaans
+De
+GERMAANSE
+talen zijn verdeeld in drie groepen: het Noord-Germaans
 (Zweeds, Deens, Noors, IJslands, en Faerøers)het West-Germaans (Nederlands, Engels, Duits en Fries) en het Oost-Germaans (Gotisch). Het uitgestorven Gotisch is erg belangrijk voor de linguïstische geschiedenis van de Germaanse talen, omdat het is overgeleverd in de 4de-eeuwse bijbelvertaling van
 bisschop Wulfila. Van het Noord-Germaans is een beperkt aantal runeninscripties vanaf de 3de eeuw na Christus bekend, maar lopende teksten (m.b.
 literaire teksten) zijn er vanaf de 12de eeuw; we spreken daarbij van het OudNoors (of Oud-IJslands).
@@ -1840,25 +2023,40 @@ van Duitsland gesproken worden, maar in de late Middeleeuwen was het Nederduits 
 Duitse Hanzesteden.
 Een bijzondere status binnen de West-Germaanse groep hebben het Afrikaans, dat een late afsplitsing van het Nederlands is, en het Jiddisch, dat in
 oorsprong de in hoofdzaak op het Middel-Hoog-Duits gebaseerde, met Hebreeuwse en Slavische elementen vermengde taal van de Midden- en OostEuropese joden is.
-Het KELTISCH bestaat nu nog slechts in de vorm van het Iers, het Schots
+Het
+KELTISCH
+bestaat nu nog slechts in de vorm van het Iers, het Schots
 Gaelic, het Bretons, en het Welsh. Het Oud-Iers wordt teruggevonden in inscripties vanaf de 4de eeuw na Christus, maar lopende teksten zijn er pas
 vanaf de 7de eeuw.
-Het ARMEENS heeft zijn thuisbasis in Armenië en in Oost-Turkije. De vroegste geschreven teksten zijn christelijke geschriften uit de 5de eeuw.
-Zoals het Anatolisch is het TOCHAARS uitgestorven. Het werd in het eerste
+Het
+ARMEENS
+heeft zijn thuisbasis in Armenië en in Oost-Turkije. De vroeg-
+ste geschreven teksten zijn christelijke geschriften uit de 5de eeuw.
+Zoals het Anatolisch is het
+TOCHAARS
+uitgestorven. Het werd in het eerste
 millennium van onze jaartelling gesproken in het noordelijke deel van Chinees
 Turkestan. De overblijfselen waarover we beschikken (boeddhistische teksten
 en commerciële documenten) dateren uit ongeveer de 7de eeuw.
-De SLAVISCHE talen worden op grond van de onderlinge gelijkenis vaak samen gegroepeerd met de Baltische talen; men spreekt dan van de Balto-Slavische talen. De huidige Slavische talen worden verdeeld in Oost-, West- en
+De
+SLAVISCHE
+talen worden op grond van de onderlinge gelijkenis vaak sa-
+men gegroepeerd met de Baltische talen; men spreekt dan van de Balto-Slavische talen. De huidige Slavische talen worden verdeeld in Oost-, West- en
 Zuid-Slavisch. Tot het Oost-Slavisch behoren het Russisch, het Oekraïens en
 het Wit-Russisch. West-Slavisch zijn o.a. het Pools, Tsjechisch en Slowaaks,
 naast kleinere talen zoals het Sorbisch. Zuid-Slavisch zijn het Bulgaars, het
 Macedonisch, het Sloveens, en het Servo-Kroatisch. De oudste teksten in het
 Slavisch dateren uit de 9de eeuw; het zijn bijbelvertalingen in het Oudkerkslavisch (of "Oudbulgaars").
-De thans nog levende BALTISCHE talen zijn het Lets en het Litouws, met
+De thans nog levende
+BALTISCHE
+talen zijn het Lets en het Litouws, met
 teksten vanaf de 14de eeuw. Ook van een derde, maar uitgestorven Baltische
 taal, het Oudpruisisch, zijn een aantal teksten bekend.
  Historische Taalkunde
-Het ALBANEES wordt gesproken in Albanië en enkele aangrenzende gebieden van Griekenland en het voormalige Joegoslavië. Oudere teksten zijn er
+Het
+ALBANEES
+wordt gesproken in Albanië en enkele aangrenzende gebie-
+den van Griekenland en het voormalige Joegoslavië. Oudere teksten zijn er
 pas vanaf de 15de eeuw. Het Albanees staat in zijn huidige vorm vrij ver van
 het Indo-europees af, o.a. omdat het zeer veel ontleend heeft uit het Latijn,
 het Turks, het Grieks en de Slavische talen.
@@ -1964,12 +2162,17 @@ De geografische verspreiding van de Indo-europese talen
  Het Stamboommodel
 Verder moeten we goed beseffen dat het stamboommodel van taalontwikkeling een aantal specifieke hypotheses inhoudt over de manier waarop talen
 zich in historisch opzicht tot elkaar kunnen verhouden. Een eerste hypothese
-is dat talen alleen in genetisch opzicht historische verwantschapsrelaties vertonen: NIET-GENETISCHE RELATIES zijn in het model niet terug te vinden. Toch
+is dat talen alleen in genetisch opzicht historische verwantschapsrelaties vertonen:
+NIET-GENETISCHE RELATIES
+zijn in het model niet terug te vinden. Toch
 kunnen zulke niet-genetische relaties reëel zijn: als het moderne Nederlands
 het woord nasigoreng ontleent aan het Maleis, dan ondergaat het een invloed
 van een genealogisch niet verwante taal.
 Een tweede hypothese houdt in dat alleen tijdsrelaties een rol spelen in
-taalontwikkelingen: RUIMTELIJKE FACTOREN zijn in het model niet terug te vinden, of alleen zijdelings, wanneer men aanneemt dat zustertalen ieder een
+taalontwikkelingen:
+RUIMTELIJKE FACTOREN
+zijn in het model niet terug te vin-
+den, of alleen zijdelings, wanneer men aanneemt dat zustertalen ieder een
 aparte positie in de ruimte innemen. Dat laatste wordt natuurlijk wel gesuggereerd door de geschiedenis van de Indo-europese talen: de linguïstische differentiatie gaat gepaard met omzwervingen van volksstammen die zich van het
 Indo-europese moederland verwijderen. Tegelijkertijd kunnen die omzwervingen echter ook voor een gelijktijdige ruimtelijke aanwezigheid zorgen: we hebben er bijvoorbeeld daarnet op gewezen dat de Romeinen en later de Germanen grondgebied binnendringen dat in eerste instantie Keltisch is. Men kan
 zich dan afvragen of die geografische contactsituaties geen invloed zullen
@@ -1978,7 +2181,8 @@ Een derde hypothese die impliciet in het stamboommodel aanwezig is,
 houdt in dat de historische relaties binnen een taalfamilie alleen de richting
 uitgaan van een grotere divergentie: talen splitsen zich af hun onmiddellijke
 voorgangers, en de stamboom wordt naar onder toe alleen maar breder. Maar
-CONVERGERENDE ONTWIKKELINGEN lijken niet uitgesloten: standaardiseringspro-
+CONVERGERENDE ONTWIKKELINGEN
+lijken niet uitgesloten: standaardiseringspro-
 cessen waarbij standaardtalen zich boven een aantal dialecten komen plaatsen, en eventueel ook die dialecten mettertijd verdringen, zijn niet ongebruikelijk.
 We moeten concluderen, kortom, dat het stamboommodel een aantal impliciete beperkingen inhoudt die niet met de werkelijkheid stroken. Het zal dan
 ook nodig zijn dieper in te gaan op de factoren die door het stamboommodel
@@ -2058,7 +2262,10 @@ Figuur 8.1
 De ontwikkeling van de Indo-europese
 stemhebbende occlusieven
 De klankwetten die de overgang van de Indo-europese consonanten naar
-het Oer-Germaans beregelen staan bekend als de WET VAN GRIMM, zo genoemd naar Jakob Grimm (1785-1863), die de ontwikkelingen in 1822 beschreef. De ontwikkeling van de klanken zelf staat ook bekend als de Germaanse klankverschuiving (of ook wel als de "eerste" klankverschuiving, omdat er binnen de Germaanse talen nog een tweede klankverschuiving optreedt, die voor de eigen positie van het Oud-Hoog-Duits zorgt; daarover volgt
+het Oer-Germaans beregelen staan bekend als de
+WET VAN GRIMM,
+zo ge-
+noemd naar Jakob Grimm (1785-1863), die de ontwikkelingen in 1822 beschreef. De ontwikkeling van de klanken zelf staat ook bekend als de Germaanse klankverschuiving (of ook wel als de "eerste" klankverschuiving, omdat er binnen de Germaanse talen nog een tweede klankverschuiving optreedt, die voor de eigen positie van het Oud-Hoog-Duits zorgt; daarover volgt
 meer in hoofdstuk 17.) Overigens was Grimm niet de eerste om het systematische verband tussen de Germaanse talen en de overige Indo-europese talen
 in deze vorm te beschrijven: die eer komt in feite de Deen Rasmus Rask
 (1787-1832) toe, die in 1811 een historische grammatica van het IJslands
@@ -2085,7 +2292,10 @@ helemaal geen wet, maar alleen maar een statistische tendens.
 De oplossing werd in 1875 geformuleerd door de Deense linguïst Karl Verner (1846-1896). Hij liet zien dat het in de genoemde gevallen om niet meer
 dan schijnuitzonderingen ging, of althans, dat een toevoeging aan de wet van
 Grimm de uitzonderingen op een systematische manier kon wegwerken. Hij
-formuleerde de regel (sindsdien bekend als de WET VAN VERNER) dat de OerGermaanse stemloze fricatieven (met inbegrip van s) stemhebbende fricatieven worden wanneer het Indo-europese woordaccent niet op de onmiddellijk
+formuleerde de regel (sindsdien bekend als de
+WET VAN VERNER)
+dat de Oer-
+Germaanse stemloze fricatieven (met inbegrip van s) stemhebbende fricatieven worden wanneer het Indo-europese woordaccent niet op de onmiddellijk
 voorafgaande klinker viel; aan het woordbegin is de wet van Verner niet van
 toepassing. Cruciaal hierbij is informatie over het vermoedelijke woordaccent
 in de Indo-europese prototaal. Die gegevens haalt men uit het Sanskriet en
@@ -2163,7 +2373,9 @@ indogermanischen Sprachen van Karl Brugmann (1849-1919) en Berthold
 Men zou kunnen menen dat met dit Neogrammatische model van regelmatige klankveranderingen het wetenschappelijke beeld van taalveranderingsprocessen rond is. Er is echter een groot aantal factoren die voor verstoringen van de klankwettige ontwikkelingen kunnen zorgen. In het volgende
 overzicht worden vier van dergelijke factoren vermeld; de conclusie moet telkens zijn dat de historische taalkunde een systematisch onderzoek aan de
 betrokken factoren zal moeten wijden. Dat zullen we ook zelf doen in de volgende hoofdstukken; aan het einde van dit hoofdstuk wordt het pad uitgetekend dat we daarbij in de volgende hoofdstukken zullen volgen.
-Een eerste factor omvat NIET-GENETISCHE RELATIES TUSSEN TALEN. In de
+Een eerste factor omvat
+NIET-GENETISCHE RELATIES TUSSEN TALEN.
+In de
 voorbeelden die we tot nu toe gezien hebben van historische relaties tussen
 talen, was telkens sprake van "genealogische" relaties: de ene taal is in de
 stamboom de moeder, dochter, nicht van de andere. Maar talen kunnen ook
@@ -2176,7 +2388,9 @@ geldt dat een Latijnse p overeenstemt met een Nederlandse v: pater/vader;
 dat heeft uiteraard alles met de Germaanse klankverschuiving te maken. Maar
 wanneer het Nederlands het woord pater zelf, in de religieuze betekenis, aan
 het Latijn ontleent, gaat de klankwettige relatie niet meer op.
-Een tweede factor betreft INCIDENTELE KLANKONTWIKKELINGEN; dat zijn dus
+Een tweede factor betreft
+INCIDENTELE KLANKONTWIKKELINGEN;
+dat zijn dus
 klankontwikkelingen die niet in de vorm van klankwetten kunnen worden geformuleerd, omdat ze niet algemeen van toepassing zijn op hun potentiële
 toepassingsterrein. Een voorbeeld is het Indo-europese telwoord "vijf". Dat
 wordt gereconstrueerd als *penkwe; geattesteerde vormen zijn o.m. Latijn
@@ -2192,7 +2406,9 @@ worden. In het Latijn gaat de assimilatorische invloed dan weer in omgekeerde
 richting: de oorspronkelijke p wordt kw. Ook het Griekse woord pente vertoont
 de invloed van een gelijkschakeling tussen klanken: omdat de dentale articulatiepositie zich tussen de labiale en de velare in bevindt, is de t verklaarbaar
 als een gedeeltelijke aanpassing van de velaar aan de labiaal.
-Een derde factor betreft STRUCTURELE REORGANISATIES binnen een reeks
+Een derde factor betreft
+STRUCTURELE REORGANISATIES
+binnen een reeks
 systematisch samenhangende taalvormen (zoals een flexioneel paradigma,
 d.w.z. het geheel van de verbuigings- of vervoegingsvormen van een woord).
 Een voorbeeld is de wegwerking van de zogenaamde "grammatische wisseling" bij een werkwoord als kiezen. We analyseren de ontwikkeling in drie
@@ -2219,7 +2435,9 @@ belangrijkste op dit punt) zorgt voor een inbreuk op de klankwetten: in
 plaats van de klankwettige r vinden we een analogische z. Op te merken valt dat een relict van de grammatische wisseling nog terug te vinden is in het adjectief uitverkoren. En in het werkwoord vriezen zien we
 dat de gelijkschakeling niet gaat in de richting van s/z, maar in de richting van r : vroor/gevroren.
 Een vierde en laatste factor die nadere beschouwing verdient is de invloed
-van de SEMANTIEK op de ontwikkelingen. Semantische factoren kunnen voor
+van de
+SEMANTIEK
+op de ontwikkelingen. Semantische factoren kunnen voor
 een doorbreking van de klankwetten zorgen bij expressieve woordvormen:
 woorden met een iconische waarde, zoals koekoek, ondergaan niet noodzakelijk de klankwettige ontwikkelingen. Naast het Nederlandse koekoek komen
 in andere Indo-europese talen o.a. voor: Latijn cuculus, Grieks kokkux, Bulgaars kukavica, Oudindisch ko#kila – van de werking van de Germaanse
@@ -2371,8 +2589,11 @@ c) een onderzoeksstroming die stelde dat woordgeschiedenis niet gescheiden
 van zaakgeschiedenis kan worden bestudeerd
 KLANKVERANDERING
 Bij de classificatie van klankveranderingen zijn drie theoretische distincties in
-de gaten te houden. In de eerste plaats is er het onderscheid tussen VRIJE en
-WETMATIGE klankveranderingen. Wetmatige klankveranderingen zijn van het
+de gaten te houden. In de eerste plaats is er het onderscheid tussen
+WETMATIGE
+VRIJE
+en
+klankveranderingen. Wetmatige klankveranderingen zijn van het
 type dat we bij de introductie van de reconstructieve methodologie hebben
 leren kennen: in principe geldt de overgang van Indo-europees p naar OerGermaans f voor alle gevallen die ervoor in aanmerking komen (rekening houdend, natuurlijk, met additionele condities zoals die bijvoorbeeld in de wet van
 Verner zijn vastgelegd). Wetmatige klankveranderingen zijn, kortom, veranderingen die in een klankwet kunnen worden vastgelegd. Vrije veranderingen,
@@ -2380,18 +2601,28 @@ aan de andere kant, treden op een sporadische manier op, in slechts een aantal v
 wel tegenkomt bij een woord als hesp, wat dan heps wordt. Strikt genomen
 zou zo'n omwisseling van s en p aan het woordeinde en na een klinker ook
 kunnen voorkomen bij rasp, maar de vorm raps zal men niet gauw aantreffen.
-Een tweede onderscheid is dat tussen GECONDITIONEERDE en SPONTANE
+Een tweede onderscheid is dat tussen
+GECONDITIONEERDE
+en
+SPONTANE
 veranderingen. Spontane veranderingen zijn niet-geconditioneerd: bij de beschrijving van de wijzigingen hoeft niet verwezen te worden naar een beperkende conditie. De overgang van de Indo-europese stemhebbende occlusieven tot stemloze occlusieven in het Oer-Germaans is bijvoorbeeld zo'n nietgeconditioneerde verandering: in de beschrijving ervan hoef je niet te verwijzen naar specifieke fonetische of andere omgevingen waartoe de verandering
 beperkt blijft. De wet van Verner is dan natuurlijk wel een geconditioneerde
 verandering: ze zegt dat de Indo-europese stemloze occlusieven OerGermaanse stemloze fricatieven worden, behalve wanneer het woordaccent
 niet op de onmiddellijk voorafgaande klinker valt.
-Een derde terminologisch paar maakt het onderscheid tussen FONETISCHE
-en FONOLOGISCHE veranderingen. Dit onderscheid is een eenvoudige extrapolatie van het onderscheid tussen fonetiek en fonologie zelf. Fonologische veranderingen betreffen de foneeminventaris van een taal, of eventueel de fonologische regels die in die taal werken. Fonetische veranderingen betreffen de
+Een derde terminologisch paar maakt het onderscheid tussen
+en
+FONOLOGISCHE
+FONETISCHE
+veranderingen. Dit onderscheid is een eenvoudige extrapo-
+latie van het onderscheid tussen fonetiek en fonologie zelf. Fonologische veranderingen betreffen de foneeminventaris van een taal, of eventueel de fonologische regels die in die taal werken. Fonetische veranderingen betreffen de
  Taalverandering in Microperspectief
 klankinventaris van de taal, los van de vraag of de klanken in kwestie fonemische status hebben. Zo zullen bepaalde geconditioneerde klankvariaties vanuit fonologisch oogpunt geen structurele consequenties hebben, omdat ze het
 automatische, wetmatige gevolg zijn van de aanwezigheid van conditionerende factoren. Wel kan men in zo'n gevallen zeggen dat de geconditioneerde
 verandering nieuwe allofonen introduceert.
-Een volgende stap in de ontwikkeling kan de FONOLOGIZATIE van de allofonen zijn: die krijgen dan een fonemische status doordat de conditionerende
+Een volgende stap in de ontwikkeling kan de
+FONOLOGIZATIE
+van de allofo-
+nen zijn: die krijgen dan een fonemische status doordat de conditionerende
 factoren verdwijnen. Een voorbeeld daarvan is te vinden bij het Nederlandse
 doublet vallen/vellen. Beide woorden zijn historisch verwant: vellen is in oorsprong een causatiefafleiding van vallen. (Causatieven zijn werkwoorden die
 uitdrukken dat een bepaalde handeling, een bepaald proces of een bepaalde
@@ -2431,9 +2662,13 @@ eindstadium: fonologizatie
 Figuur 9.1
 Fonologisering van allofonen
 De in dit voorbeeld beschreven fonologische verandering is van het type
-dat wel SPLITSING (of, met de Engelse benaming, split) genoemd wordt: één
+dat wel
+SPLITSING
+(of, met de Engelse benaming, split) genoemd wordt: één
 oorspronkelijk foneem valt uiteen in twee nieuwe fonemen. Ook het omgekeerde komt voor: twee fonemen kunnen versmelten tot één enkel foneem.
-We spreken dan van SAMENVAL (of, in het Engels, merger). Een voorbeeld
+We spreken dan van
+SAMENVAL
+(of, in het Engels, merger). Een voorbeeld
 daarvan is te vinden bij de ontwikkeling van de Indo-europese korte klinkers
 naar het Germaans. Uit de volgende voorbeelden zal blijken dat de Indoeuropese korte o en korte a in het Oer-Germaans zijn samengevallen in een
 korte a. (Het Latijn kan in de voorbeelden als representatief voor het Indoeuropees, het Gotisch als representatief voor het Oer-Germaans worden beschouwd.)
@@ -2465,7 +2700,9 @@ occlusieven).
 We kijken nu verder naar de classificatie van fonetische veranderingen,
 zonder verdere aandacht voor hun fonologische gevolgen. Om te beginnen
 presenteren we een aantal veel voorkomende geconditioneerde klankveranderingen. Die vallen uiteen in vijf klassen: assimilatie, dissimilatie, plaatsverwisseling, weglating en toevoeging.
-Bij ASSIMILATIE neemt een klanksegment kenmerken over van klanken in
+Bij
+ASSIMILATIE
+neemt een klanksegment kenmerken over van klanken in
 zijn omgeving. We kregen daarnet al een voorbeeld: bij i/j-umlaut krijgen klinkers in de voorafgaande lettergreep een meer gesloten uitspraak onder invloed van het fonetisch gesloten karakter van i en j. We noemen hier nog een
 aantal courante subtypes van de categorie "assimilatie". Bij regressieve (of
 anticiperende) assimilatie gaat de beïnvloede klank aan de beïnvloedende
@@ -2485,12 +2722,15 @@ ontstaat doordat bij het wegvallen van de nasaal de korte klinker gerekt wordt
  Klankverandering
 tot een lange [i.]; bij de overgang van Middelnederlands naar Nieuwnederlands ondergaat die lange [i.] vervolgens de regelmatige diftongering tot ij, die
 bijvoorbeeld ook schinen tot schijnen maakt.
-Waar bij assimilatie klanken in elkaars omgeving meer op elkaar gaan lijken, gebeurt bij DISSIMILATIE het omgekeerde: klanken gaan er minder gelijk
+Waar bij assimilatie klanken in elkaars omgeving meer op elkaar gaan lijken, gebeurt bij
+DISSIMILATIE
+het omgekeerde: klanken gaan er minder gelijk
 uitzien. De l in pelgrim, bijvoorbeeld, is het resultaat van een dissimilatie op de
 ontleende Latijnse vorm peregrinus; vergelijkbaar zijn het Engelse marble
 naar het Franse marbre, en de dialectvorm purpel naast de Standaardnederlandse vorm purper.
 De ontwikkeling waarbij twee klanken van plaats verwisselen noemen we
-METATHESIS. De weps/wesp-alternantie van daarstraks is er een voorbeeld
+METATHESIS.
+De weps/wesp-alternantie van daarstraks is er een voorbeeld
 van, zoals ook de dialectvorm pranile, uit praline. Men zou op grond van deze
 voorbeelden kunnen denken dat metathesis uitsluitend optreedt als een incidentele vervorming in informeel taalgebruik, maar dat is zeker niet altijd het
 geval. Zo is de alternantie in het Standaardnederlands tussen de vormen drie
@@ -2499,7 +2739,11 @@ klinker + dentaal de korte klinker en de r van plaats deed verwisselen. De
 vormen met een lange klinker (zoals drie en vriezen) hebben de omzetting dus
 niet meegemaakt, terwijl daarnaast de woorden met korte klinker in het Duits
 (Brust) of het Engels (frost) nog met de oorspronkelijke volgorde terug te vinden zijn.
-De WEGLATING en de TOEVOEGING van klanken kunnen we het makkelijkst
+De
+WEGLATING
+en de
+TOEVOEGING
+van klanken kunnen we het makkelijkst
 samen behandelen, omdat de gebruikelijke terminologie in beide gevallen op
 dezelfde distincties gebaseerd is, nl. op de vraag of de weglating of toevoeging gebeurt in de anlaut (bij het woordbegin), in de inlaut (in het midden van
 een woord), of in de auslaut (aan het woordeinde). De gebruikelijke termen
@@ -2535,7 +2779,9 @@ toe gezien hebben, is dat wel het geval: de geconditioneerde veranderingen in
 de voorgaande bladzijden vinden plaats in de context van andere klanken, of
 in een bepaalde formele positie in het woord (zoals anlaut of auslaut). De
 condities kunnen echter ook van een andere aard zijn. We zullen twee gevallen behandelen: grammaticale condities, en semantische condities.
-Een voorbeeld van GRAMMATICALE CONDITIONERING is het behoud van de
+Een voorbeeld van
+GRAMMATICALE CONDITIONERING
+is het behoud van de
 sjwa in de uitgang van de verledentijdsvorm van de zwakke werkwoorden in
 het Nederlands. De Middelnederlandse vormen van deze werkwoorden hebben zowel in de tegenwoordige tijd als in de verleden tijd een sjwa-uitgang. De
 afslijting van de uitgangen (een proces dat in de geschiedenis van de Germaanse talen al veel eerder begonnen was) zorgt voor een sjwa-apocope bij
@@ -2580,7 +2826,10 @@ als
 niet-
 geconditioneerd zijn.
 Wanneer een aantal klankveranderingen in een samenhangend geheel
-optreden, spreken we van een KLANKVERSCHUIVING; de Germaanse klankverschuiving zoals beschreven in de wetten van Grimm en Verner vormt daarvan
+optreden, spreken we van een
+KLANKVERSCHUIVING;
+de Germaanse klankver-
+schuiving zoals beschreven in de wetten van Grimm en Verner vormt daarvan
 natuurlijk een goed voorbeeld.
 Opgaven bij Hoofdstuk 9
 1) Bij de overgang van het IE naar het OG werden stemloze occlusieven
@@ -2639,7 +2888,12 @@ c) mogelijks (mogelijk)
 d) (ik) wach ( (ik) wacht)
 MORFOLOGISCHE VERANDERING
 Binnen het terrein van de morfologie worden traditioneel twee deelgebieden
-onderscheiden: FLEXIONELE morfologie en DERIVATIONELE morfologie. De flexionele morfologie houdt zich bezig met de vraag hoe woorden vormveranderingen ondergaan om binnen zinnen grammaticale distincties uit te drukken.
+onderscheiden:
+FLEXIONELE
+morfologie en
+DERIVATIONELE
+morfologie. De flexio-
+nele morfologie houdt zich bezig met de vraag hoe woorden vormveranderingen ondergaan om binnen zinnen grammaticale distincties uit te drukken.
 Tempusverschillen bij werkwoorden, bijvoorbeeld, of getalsverschillen bij substantieven zijn grammaticale categorieën die kunnen worden uitgedrukt met
 flexionele middelen: het onderscheid tussen tafel en tafels is uitgedrukt door
 het meervoudssuffix -s. Van tafel en tafels zullen we zeggen dat het geïnflecteerde vormen zijn van hetzelfde woord; een categorie als "getal", die in het
@@ -2677,7 +2931,10 @@ van de betrokken klinkerwisseling en op de opbouw van de stam van het
 werkwoord. Die klinkerwisseling is een flexioneel verschijnsel: de e/o-wisseling
 in zwem/zwom is een onderdeel van de vervoeging van het werkwoord, omdat
 het uitdrukking geeft aan het onderscheid tussen tegenwoordige en verleden
-tijd. Zo'n klinkerwisseling met morfologische consequenties heet in de historische taalkunde ABLAUT. Ablaut is overigens niet beperkt tot flexieverschijnselen: de relatie tussen het werkwoord schieten en het zelfstandig naamwoord
+tijd. Zo'n klinkerwisseling met morfologische consequenties heet in de historische taalkunde
+ABLAUT.
+Ablaut is overigens niet beperkt tot flexieverschijnse-
+len: de relatie tussen het werkwoord schieten en het zelfstandig naamwoord
 schot (het resultaat van het schieten) is bijvoorbeeld ook een voorbeeld van
 historische ablaut. Ablaut is evenmin beperkt tot de Germaanse of zelfs maar
 de Indo-europese talen: in Semitische talen zoals het Arabisch is ablaut een
@@ -2739,8 +2996,10 @@ Typisch is ook dat in specifieke syntactische of semantische functies relicten
 van de oudere vervoeging kunnen blijven bestaan. Van de oorspronkelijk sterke vervoeging van belgen, bijvoorbeeld, treffen we nog uitsluitend iets bij het
 adjectief verbolgen aan, zoals we ook het adjectief verholen naast het verder
 helemaal zwak geworden werkwoord verhelen aantreffen.
-We kunnen in de voorbeelden van daarnet spreken van PROPORTIONELE
-ANALOGIE, omdat de werking van het analogische mechanisme de vorm aan-
+We kunnen in de voorbeelden van daarnet spreken van
+ANALOGIE,
+PROPORTIONELE
+omdat de werking van het analogische mechanisme de vorm aan-
 neemt van een "regel van drie". De nieuwe vorm die naar analogie met bestaande vormen in de taal geïntroduceerd wordt, biedt a.h.w. een antwoord op
 de vraag "Als a staat tot b zoals c staat tot x, hoe ziet x er dan uit?". Voor het
 ontstaan van de analogische enkelvoudsvorm bond in het Nederlands kan
@@ -2772,8 +3031,9 @@ Figuur 10.3
 Niet-proportionele analogie bij kind
  Taalverandering in Microperspectief
 Naast proportionele analogie onderscheiden we
+ANALOGIE.
 NIET-PROPORTIONELE
-ANALOGIE. Hierbij wordt ook weer een nieuwe vorm geïntroduceerd naar het
+Hierbij wordt ook weer een nieuwe vorm geïntroduceerd naar het
 voorbeeld van een bestaande vorm, maar het mechanisme als geheel is niet
 in de vorm van een vergelijking of een breuk te beschrijven. Een voorbeeld
 vinden we bij de vorming van stapelvormen als in kinderen, kalveren, eieren.
@@ -2805,13 +3065,16 @@ minder systematische aard dan de voorbeelden van daarnet. Niet het systeem
 van de morfologische productiviteit verandert, maar de morfologische opbouw
 van
 afzonderlijke
+REÏNTERPRETATIE
+of
 woorden.
 We
+METANALYSE.
 spreken
 dan
 van
 MORFOLOGISCHE
-REÏNTERPRETATIE of METANALYSE. In essentie komt het er op neer dat de morfo-
+In essentie komt het er op neer dat de morfo-
 logische structuur van een woord anders geïnterpreteerd wordt dan oorspronkelijk het geval is; die reïnterpretatie wordt echter pas goed zichtbaar wanneer
 op basis van de reïnterpretatie nieuwe vormen tot stand komen. We zullen
 vier subtypes bespreken.
@@ -2820,7 +3083,9 @@ deel van het grondwoord; die reïnterpretatie komt aan de oppervlakte wanneer
 het gereïnterpreteerde woord een nieuwe, aanvullende uitgang krijgt. Een
 voorbeeld vinden we o.m. bij schoen, dat etymologisch gezien zelf al een
 meervoud is (denk aan het Engels shoe of het Duits Schuh) maar niet langer
-als zodanig herkend wordt, zodat we een "dubbel" meervoud schoenen krijgen. De grens van de enkelvoudsvorm wordt a.h.w. verlegd tot na de oorspronkelijke meervoudsuitgang; de nieuwe meervoudsvorm schoenen noemen we dan een STAPELVORM, omdat hij in diachroon opzicht (maar dan ook
+als zodanig herkend wordt, zodat we een "dubbel" meervoud schoenen krijgen. De grens van de enkelvoudsvorm wordt a.h.w. verlegd tot na de oorspronkelijke meervoudsuitgang; de nieuwe meervoudsvorm schoenen noemen we dan een
+STAPELVORM,
+omdat hij in diachroon opzicht (maar dan ook
 alleen in diachroon opzicht) twee meervoudsuitgangen vertoont. (Stapelvormen als schoenen komen ook elders voor: de stapelvorm kinderen vervangt in
 een proces van niet-proportionele analogie, zoals we gezien hebben, het historisch juiste meervoud kinder.)
 Een tweede type van reïnterpretatie is het spiegelbeeld van het vorige:
@@ -2830,7 +3095,13 @@ Een reïnterpretatie van de -n van de enkelvoudsvorm leidt enerzijds tot het
 verdwijnen van de meervoudsvormen ravenen en ravens, anderzijds tot de
 vorming van een nieuw grondwoord rave (dat dan in het latere Nederlands, via
 een algemeen proces van afslijting van de uitgangen, raaf wordt). Men spreekt
-hier wel van RETROGRADE VORMING (of BACKFORMATION, of RÜCKBILDUNG): een
+hier wel van
+RETROGRADE VORMING
+(of
+BACKFORMATION,
+of
+RÜCKBILDUNG):
+een
 nieuwe grondvorm wordt gemaakt op basis van een vermeende morfologische
 analyse van een bestaande vorm.
  Taalverandering in Microperspectief
@@ -3028,12 +3299,19 @@ VSO
 Figuur 11.3
 De cyclus voor de morfologische taaltypen
 De oppositie tussen analytische en synthetische talen kan verfijnd worden
-tot de driedeling isolerend/agglutinerend/fusionerend. Een ISOLERENDE taal is
+tot de driedeling isolerend/agglutinerend/fusionerend. Een
+ISOLERENDE
+taal is
 het equivalent van een analytische taal. De talen die de syntactische relatie
-a.h.v. de inflectionele morfologie uitdrukken, worden opgesplitst in agglutinerende en fusionerende talen. In een AGGLUTINERENDE taal heeft elk inflectioneel morfeem exact één betekenis. Om een complexe betekenis uit te drukken, worden verschillende morfemen aan elkaar ‘geplakt’. Het Turks bijvoorbeeld vormt het nominale meervoud door toevoeging van het suffix -ler, ev-ler
+a.h.v. de inflectionele morfologie uitdrukken, worden opgesplitst in agglutinerende en fusionerende talen. In een
+AGGLUTINERENDE
+taal heeft elk inflectio-
+neel morfeem exact één betekenis. Om een complexe betekenis uit te drukken, worden verschillende morfemen aan elkaar ‘geplakt’. Het Turks bijvoorbeeld vormt het nominale meervoud door toevoeging van het suffix -ler, ev-ler
 (letterlijk ‘huis-MV’, ‘huizen’). De bezitsrelatie gebruikt het suffix -in, ev-in (letterlijk ‘huis-mijn’, ‘mijn huis’). Zo een spreker meerdere huizen bezit, ‘plakt’ hij
 beide suffixen aan de nominale stam, ev-ler-in (letterlijk ‘huis-MV-mijn’, ‘mijn
-huizen’). In tegenstelling tot een agglutinerend morfeem dat exact één betekenis heeft, combineert een FUSIONEREND morfeem meerdere betekenissen.
+huizen’). In tegenstelling tot een agglutinerend morfeem dat exact één betekenis heeft, combineert een
+FUSIONEREND
+morfeem meerdere betekenissen.
 Het suffix -em in canem duidt gelijktijdig de naamval, accusatief, en het getal,
  Syntactische Verandering
 enkelvoud, aan (letterlijk ‘hond-ACCUSATIEF&ENKELVOUD’). De suffixen -is en es in can-is en can-es zijn respectievelijk de nominatief enkelvoud (letterlijk
@@ -3051,11 +3329,14 @@ na (‘ik’) en ko (‘jij’), enerzijds, en het prefix voor de toekomstige ti
 zal het zien’) en *ko-i-lesi-nau (lett. ‘jij-TOEKOMST-zien-mij’, ‘jij zal me zien’),
 werden respectievelijk ni-lesi-ø (lett. ‘ik&TOEKOMST-zien-het’, ‘ik zal het zien’)
 en ki-lesi-nau (lett. ‘jij&TOEKOMST-zien-mij’, ‘jij zal me zien’). Fusionerende talen, tot slot, worden isolerend door toedoen van deflectie. Het naamwoordelijke casussysteem van het Latijn drukte naast de syntactische functie ook het
-getal uit, mur-us (let. ‘muur-NOMINATIEF&ENKV’, ‘muur’) vs. mur-i (lett. ‘muurNOMINATIEF&MV’, ‘muren’). In het Oud-Frans vielen deze vormen door klank-
+getal uit, mur-us (let. ‘muur-NOMINATIEF&ENKV’, ‘muur’) vs. mur-i (lett. ‘muurNOMINATIEF&MV’,
+‘muren’). In het Oud-Frans vielen deze vormen door klank-
 wettige evoluties fonetisch samen tot [myR], mur (‘muur’) en murs (‘muren’),
 zodat een functiewoord, meer bepaald het lidwoord, geïntroduceerd werd om
 het getal aan te duiden, le mur vs. les murs.
-In de morfologische typologie speelt GRAMMATICALISATIE, het proces van
+In de morfologische typologie speelt
+GRAMMATICALISATIE,
+het proces van
 grammaticale creatie, een belangrijke rol. Dit proces verandert autonome, lexicale eenheden in gebonden, grammaticale eenheden. In het Modern Engels
 zijn shall en will hulpwerkwoorden die bij een ander werkwoord worden geplaatst om de toekomende tijd uit te drukken: I shall leave (‘ik zal vertrekken’).
 Deze vormen waren in het Oud-Engels aanvankelijk autonome werkwoorden,
@@ -3143,7 +3424,8 @@ Het conceptuele type vormt de laatste typologische classificatie. Deze typologie
 het werkwoord steeds vooraf, zowel in transitieve, His brother paints the wall
 (‘Zijn broer verft de muur’), als in intransitieve zinnen, His brother laughes
 (‘Zijn broer lacht’). Het object volgt altijd het transitieve werkwoord. Een synthetische taal als het Latijn behandelt deze relaties op analoge wijze. Voor het
-subject wordt altijd de nominatiefcasus gebruikt en voor het object de accusatiefcasus, zowel in transitieve, domin-us serv-um audit (letterlijk ‘heerNOMINATIEF slaaf-ACCUSATIEF hoort’, de heer hoort de slaaf’), als in intransitieve
+subject wordt altijd de nominatiefcasus gebruikt en voor het object de accusatiefcasus, zowel in transitieve, domin-us serv-um audit (letterlijk ‘heerNOMINATIEF
+slaaf-ACCUSATIEF hoort’, de heer hoort de slaaf’), als in intransitieve
 zinnen, serv-us venit (letterlijk ‘slaaf-NOMINATIEF komt’, ‘de slaaf komt’). De
 analytische en synthetische talen die consequent het onderwerp en het object
 onderscheiden, worden nominatief-accusatieve talen of kortweg accusatieve
@@ -3226,10 +3508,11 @@ bijzin). Een tweede voorbeeld van een vergelijkbare vereenvoudiging ontlenen
 we aan het Fins. In het Oud-Fins vielen de oorspronkelijke vormen van de
 accusatief
 enkelvoud,
+ACCUSATIEF&ENKV’),
 bijvoorbeeld
 miehe-m
 (letterlijk
-ACCUSATIEF&ENKV’), en de genitief enkelvoud, bijvoorbeeld miehe-n (letterlijk
+en de genitief enkelvoud, bijvoorbeeld miehe-n (letterlijk
 ‘man-GENITIEF&ENKV’), samen als gevolg van een klankverandering waarbij de
 m in de auslaut een n werd. Hierdoor kreeg de genitiefvorm bij een deelwoord
  Taalverandering in Microperspectief
@@ -3252,7 +3535,13 @@ Woordbetekenissen zijn in hun relatie tot de woorden van een taal op twee
 manieren te bestuderen. Enerzijds rijst de vraag "Welke betekenissen heeft
 een bepaald woord?". Anderzijds is er de vraag "Met welke verschillende
 woorden (of ruimer: talige middelen) kan een gegeven betekenis uitgedrukt
-worden?". De eerste vraag ligt aan de basis van het SEMASIOLOGISCHE betekenisonderzoek, de tweede van het ONOMASIOLOGISCHE onderzoek. Het verschil tussen beide is er een van perspectief veeleer dan van studieterrein;
+worden?". De eerste vraag ligt aan de basis van het
+kenisonderzoek, de tweede van het
+SEMASIOLOGISCHE
+ONOMASIOLOGISCHE
+bete-
+onderzoek. Het ver-
+schil tussen beide is er een van perspectief veeleer dan van studieterrein;
 eenzelfde studieobject (de relatie tussen woorden en betekenissen) wordt uit
 twee hoeken bekeken. De semasiologie neemt haar uitgangspunt bij het
 woord; de onomasiologie vertrekt van de betekenis.
@@ -3274,7 +3563,9 @@ onomasiologische perspectief is ruimer dan het semasiologische. Het is op
  Taalverandering in Microperspectief
 grond van die gedachtegang dat we de behandeling van lexicale taalveranderingen aanvatten vanuit een onomasiologisch perspectief: de semasiologische
 mechanismen van betekenisverschuiving komen aan bod in hoofdstukken 13
-Onomasiologisch wordt het vraagstuk van de lexicale verandering beschouwd vanuit het perspectief van de NAAMGEVING, i.e. we stellen de vraag
+Onomasiologisch wordt het vraagstuk van de lexicale verandering beschouwd vanuit het perspectief van de
+NAAMGEVING,
+i.e. we stellen de vraag
 "Waar komen nieuwe uitdrukkingsvormen vandaan?" (en dit los van de vraag
 of die uitdrukkingen reeds op een andere manier gelexicaliseerde, of wel volstrekt nieuwe begrippen aanduiden). Het aantal basismogelijkheden is natuurlijk beperkt: nieuwe uitdrukkingen voor een bestaand begrip of nieuwe uitdrukkingsvormen überhaupt kunnen helemaal nieuw gevormd worden (hetzij door
 toepassing van productieve morfologische regels, hetzij door vorming "uit het
@@ -3286,7 +3577,9 @@ bladzijden staan we bij ieder van deze vijf basistypes stil (zij het slechts kor
 de twee laatste, die respectievelijk in hoofdstuk 16 en in de hoofdstukken 13
 en 14 uitvoeriger aan bod komen).
 1. Het belangrijkste, meest gebruikelijke procédé voor de vorming van nieuwe
-woorden is de toepassing van PRODUCTIEVE MORFOLOGISCHE REGELS voor de
+woorden is de toepassing van
+PRODUCTIEVE MORFOLOGISCHE REGELS
+voor de
 vorming van samenstellingen en afleidingen. Daarover zal in de tweede helft
 van het boek nog meer te vertellen zijn; hier volstaan we met een eenvoudige
 vermelding. Wel moeten we er op wijzen dat we in de diachrone context van
@@ -3304,15 +3597,19 @@ volstrekt nieuwe uitdrukkingen worden gemaakt, i.e. uitdrukkingen die noch in
 de betreffende, noch in een andere taal reeds bestaan, en waarvoor ook geen
 duidelijke morfologische voorbeelden aan te wijzen zijn. Men spreekt hierbij
 ook wel (ter onderscheiding met de net besproken gebruikelijke woordvormingsmechanismen) van
+(ZUIVERE
+NIEUWVORMING)
 WOORDSCHEPPING.
 In zijn meest extreme vorm
-(ZUIVERE NIEUWVORMING) is het verschijnsel erg zeldzaam. Behalve aan de
+is het verschijnsel erg zeldzaam. Behalve aan de
 smurfen valt te denken aan het in 1954 door Simon Carmiggelt gevormde
 epibreren ("zich, bepaaldelijk als ambtenaar of functionaris, met zaken bezighouden waarvan men de aard niet wil specificeren doch waaraan men een
 schijn van gewichtigheid wil geven"), of aan het tussenwerpsel pollens, dat in
 de jaren '70 en '80 een zekere populariteit genoot als uitroep van verbazing,
 nadat het in 1972 door Wim Schippers in een tv-show was geïntroduceerd.
-Naast deze zeldzame zuivere nieuwvorming staat KLANKNABOOTSING als
+Naast deze zeldzame zuivere nieuwvorming staat
+KLANKNABOOTSING
+als
 een vorm van iconisch gemotiveerde nieuwvorming: in woorden als miauwen,
 hinniken, bulderen, tjilpen, koekoek, tjiftjaf, snerpen, piepen of pingpong wordt
 de betekeniswaarde van het woord gemotiveerd door de gelijkenisrelatie tussen de woordvorm en een geluid in de werkelijkheid. In een aantal gevallen
@@ -3334,21 +3631,27 @@ laag nikkel bedekken"?) Men verklaart het bijzondere statuut van deze woorden do
 naïef-romantische houding om in zowat alle klanken in zowat alle woorden
 klanksymboliek te zien).
 3. Bij de vervorming van bestaande uitdrukkingen hoort in de eerste plaats de
-VERKORTING of ellips: piano uit pianoforte; pils uit Pilsener, en dat zelf uit Pilse-
+VERKORTING
+of ellips: piano uit pianoforte; pils uit Pilsener, en dat zelf uit Pilse-
 ner bier; bus uit omnibus, en prof uit professor of professioneel. Verkortingen
 zijn niet altijd zuivere truncaties van een deel van het oorspronkelijke woord:
 er kan ook (zoals bij de spotnaam limbo uit Limburger) een formele aanpassing mee samengaan. Een bijzonder type van ellips is het letterwoord (of
 acroniem), bepaaldelijk wanneer het als geheel wordt uitgesproken: VUT
 ("vervroegde uittreding") heeft thans in zo'n mate woordstatus gekregen, dat
 het zelf de basis vormt voor de afleidingen vutten, vutter.
-Een tweede type van vervorming is de CONTAMINATIE, waarbij twee semantisch identieke woorden (synoniemen) in elkaar getelescopeerd worden: optelefoneren uit telefoneren en opbellen, of onafgezien uit afgezien en ongeacht.
+Een tweede type van vervorming is de
+CONTAMINATIE,
+waarbij twee seman-
+tisch identieke woorden (synoniemen) in elkaar getelescopeerd worden: optelefoneren uit telefoneren en opbellen, of onafgezien uit afgezien en ongeacht.
 Deze voorbeelden overlappen vanzelfsprekend met de categorie van de productieve woordvorming op basis van regelmatige morfologische patronen: alle
 voorbeelden zijn te analyseren als reguliere samenstellingen. Andere vormen
 van contaminatie zijn echter niet op die manier te analyseren, zoals het bewust grappig bedoelde portemonnix "portemonnee, vooral wanneer die leeg is
 of de neiging heeft voortdurend leeg te zijn". Het is precies omwille van deze
 gevallen dat we de categorie van de contaminaties niet zonder meer kunnen
 laten opgaan in de eerste hoofdcategorie hierboven.
-Ten derde wijzen we op de VOLKSETYMOLOGIE. Hierbij wordt de klankvorm
+Ten derde wijzen we op de
+VOLKSETYMOLOGIE.
+Hierbij wordt de klankvorm
 van een (moeilijk, semantisch ondoorzichtig) woord zo veranderd dat aansluiting wordt verkregen bij andere, beter bekende of minder moeilijke woorden.
 Voor het Nederlands is hangmat een klassiek voorbeeld: dat woord is de om-
  Lexicale Verandering
@@ -3384,7 +3687,9 @@ geluid maken zoals van vogeltjes en muisjes", en "een instrument bespelen
  Taalverandering in Microperspectief
 dat een vergelijkbaar geluid produceert", krijgen we nu twee woorden piepen
 en pijpen, die respectievelijk de eerste en de tweede betekenis uitdrukken.
-Een klankverandering blijkt dus zowel lexicale consequenties te kunnen hebben als niet, en dat wil zeggen dat we FONETISCHE ONTWIKKELINGEN als vierde
+Een klankverandering blijkt dus zowel lexicale consequenties te kunnen hebben als niet, en dat wil zeggen dat we
+FONETISCHE ONTWIKKELINGEN
+als vierde
 type van woordvormende vervorming kunnen noemen. Eenzelfde mechanisme blijkt in ieder geval wel zowel een puur fonetische als een echte lexicale
 wijziging te kunnen veroorzaken. Een metathesis als die waarbij een WestGermaanse opeenvolging van r + korte vocaal + dentaal in het Nederlands
 wordt omgezet in de opeenvolging korte vocaal + r + dentaal, bijvoorbeeld,
@@ -3422,7 +3727,9 @@ Op dezelfde manier is het volksetymologische scheurbuik of hangmat een ander woo
 rol: de nieuwe morfologische structuur voegt ook op het semantische vlak iets
 toe aan het woord.
 Gewapend met deze criteria kunnen we nu ook vaststellen dat een aantal
-van de MORFOLOGISCHE REÏNTERPRETATIES die we in hoofdstuk 10 voorgesteld
+van de
+MORFOLOGISCHE REÏNTERPRETATIES
+die we in hoofdstuk 10 voorgesteld
 hebben, een lexicogenetisch effect kunnen hebben (en dat is dan een vijfde
 type van vervormende woordvorming). Voor de voorbeelden van de eerste
 twee types van reïnterpretatie die we daar gegeven hebben is dat niet het
@@ -3454,7 +3761,8 @@ dialecten zullen we in hoofdstuk 17 en 18 terugkomen, omdat het hele
 procédé een bijzonder licht werpt op de Neogrammatische standpunten over
 het ontstaan en de verspreiding van klankveranderingen.
 5. Een vijfde basismechanisme van onomasiologische vernieuwing is de
-SEMASIOLOGISCHE EXTENSIE of betekenisuitbreiding van bestaande woorden.
+SEMASIOLOGISCHE EXTENSIE
+of betekenisuitbreiding van bestaande woorden.
 Zoals bij ontlening gaat het om het gebruik, bij de naamgeving, van bestaande
 woordvormen, zij het dat deze uit de eigen taal komen, en niet uit een andere.
 Anders dan bij de hiervoor opgesomde onomasiologische types wordt de totale woordinventaris van de taal hierbij niet uitgebreid: bestaande woorden kunnen worden gebruikt om nieuwe begrippen te benoemen (of om begrippen op
@@ -3510,14 +3818,17 @@ dient men rekening te houden met een tweetal hoofdonderscheidingen. In de
 eerste plaats moet men een verschil maken tussen de mechanismen die betrekking hebben op een verandering in de denotationele betekenis van de
 woorden,
 en
+DENOTATIONELE
 die
 welke
 connotatieveranderingen
 betreffen
 (Met
 de
-DENOTATIONELE betekenis van een taalvorm bedoelen we het feit dat hij naar
-iets in de buitentalige werkelijkheid verwijst. De CONNOTATIONELE betekenis
+betekenis van een taalvorm bedoelen we het feit dat hij naar
+iets in de buitentalige werkelijkheid verwijst. De
+CONNOTATIONELE
+betekenis
 betreft dan bijvoorbeeld de gevoels- of stijlwaarde van een taalvorm. Woorden
 kunnen volgens deze terminologie een identieke denotationele waarde maar
 een verschillende connotationele betekenis hebben; dat geldt bijvoorbeeld bij
@@ -3531,7 +3842,9 @@ ook drie types van semasiologische veranderingen vermeld: onafhankelijke
 denotationele wijzigingen, afhankelijke denotationele wijzigingen en connotationele wijzigingen. We zullen de verschillende mechanismen die in deze
 groepen thuishoren, hier beknopt voorstellen; aan de twee meest besproken
 gevallen (metafoor en metonymie) wijden we vervolgens nog een extra hoofdstuk.
-In de groep van de ONAFHANKELIJKE DENOTATIONELE WIJZIGINGEN (waarbij de
+In de groep van de
+ONAFHANKELIJKE DENOTATIONELE WIJZIGINGEN
+(waarbij de
 semantiek van andere uitdrukkingen geen rol speelt) zijn vier hoofdvormen te
 vermelden: generalisatie, specialisatie, metafoor en metonymie. Metafoor en
 metonymie worden in het volgende hoofdstuk uitgediept; we beperken ons
@@ -3592,7 +3905,10 @@ wanneer men i.v.m. een discussie zou zeggen dat een stelling geen stand
 hield tegen de artillerie (het geschut, het spervuur e.d.) van kritische argumenten die de opponenten in het strijdperk brachten. Daarmee rijst natuurlijk de
 vraag in welke omstandigheden een vergelijking precies overdrachtelijk is of
 niet, maar daar komen we in het volgende hoofdstuk nog op terug.
-Bij AFHANKELIJKE DENOTATIONELE WIJZIGINGEN (die ook wel "analogisch" genoemd worden) wordt de betekenis van een uitdrukking beïnvloed door de
+Bij
+AFHANKELIJKE DENOTATIONELE WIJZIGINGEN
+(die ook wel "analogisch" ge-
+noemd worden) wordt de betekenis van een uitdrukking beïnvloed door de
 betekenis van een andere, verwante uitdrukking; een nieuwe betekenis wordt
 "bereikbaar" voor een woord omdat een vergelijkbaar woord die betekenis ook
 al heeft. Het is op grond van de aard van die vergelijkbaarheid dat we binnen
@@ -3685,8 +4001,9 @@ het woord melk de toepassing "karnemelk" heeft gekregen; het begrip "zoete
 melk" wordt daar dan uitgedrukt door room, dat zijn oorspronkelijke betekenis
 "room" verliest.)
 Tenslotte gaan we nog even in op de types van
+WIJZIGINGEN.
 CONNOTATIONELE
-WIJZIGINGEN. Verschuivingen in gevoelswaarde zijn in hoofdzaak pejoratief of
+Verschuivingen in gevoelswaarde zijn in hoofdzaak pejoratief of
 melioratief: de woorden krijgen een negatievere of een positievere bijklank.
 Men spreekt ook wel van ontwikkelingen in malam partem (ten kwade) of in
 bonam partem (ten goede). Bij vergelijking van het oudere (bijvoorbeeld 17deeeuwse) en het huidige Nederlands zijn van beide ontwikkelingen sprekende
@@ -3713,7 +4030,8 @@ woorden als geheel. Lexicaal-semantisch onderzoek heeft aangetoond dat
 niet alle betekenissen in het semasiologische bereik van een woord even
 zwaar wegen: sommige toepassingen hebben een centralere functie en een
 grotere frequentie dan de andere. Men spreekt in dat verband van
-PROTOTYPICITEIT, een verschijnsel waarop we in hoofdstuk 22 (en in de tweede
+PROTOTYPICITEIT,
+een verschijnsel waarop we in hoofdstuk 22 (en in de tweede
 helft van het boek) nog uitvoeriger ingaan. Het hele diachrone punt is dan dat
 betekenisontwikkelingen ook door de prototypiciteitsstructuur van een woord
 beperkt worden: een ontwikkeling die haar aanknopingspunt neemt in een
@@ -3800,7 +4118,8 @@ waarschijnlijk ook bij brood.
 f. Het product t.o.v. de herkomst. In hoofdzaak onderscheiden we binnen deze
 groep twee subtypes naargelang de plaats van herkomst of de persoon van
 herkomst (de producent) bedoeld is. Bij het eerste subtype (de zogenaamde
-GEONIEMEN) vallen voorbeelden te vermelden als champagne, krijt ( < Kreta),
+GEONIEMEN)
+vallen voorbeelden te vermelden als champagne, krijt ( < Kreta),
 perkament (< Pergamon), faience (< Faenza), krent (< Corinthe) en astrakan.
 Men merkt aan deze voorbeelden dat ook typische plaatsen van herkomst als
 naam optreden, zonder dat t.a.v. het product sprake kan zijn van één exclusieve herkomst: krenten kwamen zeker niet alleen uit Corinthe; men zou
@@ -3808,7 +4127,9 @@ hooguit kunnen zeggen dat ze daar oorspronkelijk of hoofdzakelijk uit werden
 aangevoerd. Ook vermeende plaatsen van herkomst komen voor: de kalkoen
  Taalverandering in Microperspectief
 heet in het Engels turkey, maar heeft met Turkije niets te maken. Kenmerkend
-voor de tweede subgroep (de EPONIEMEN) zijn de namen van kunstenaars als
+voor de tweede subgroep (de
+EPONIEMEN)
+zijn de namen van kunstenaars als
 naam voor hun producten: we bekijken een Giacometti of lezen in Stendhal.
 Soms gaat het om uitvinders (braille), maar elders gaat het meer om typische
 met de herkomst van een zaak verbonden figuren dan om de personen die de
@@ -3866,7 +4187,10 @@ ruimtelijke relatie, of is het maar het beste om er in overeenstemming met de
 traditie een apart type van te maken? De classificatiemoeilijkheden blijken ook
 wanneer men grotere groeperingen van de opgesomde types beschouwt. De
 traditionele retorica maakt m.n. een onderscheid tussen metonymie enerzijds
-en SYNECDOCHE anderzijds, waarbij die laatste in hoofdzaak de deel/geheelen de materiaal/product-relatie omvat. De systematische gronden voor zo'n
+en
+SYNECDOCHE
+anderzijds, waarbij die laatste in hoofdzaak de deel/geheel-
+en de materiaal/product-relatie omvat. De systematische gronden voor zo'n
 hoofdonderscheid zijn echter niet zo duidelijk: de intuïtieve verbanden tussen
 de twee gevallen onderling zijn zeker niet veel sterker dan bijvoorbeeld de
 band tussen de deel/geheel-relatie en de ruimtelijke relatie, of tussen de materiaal/product-relatie en de herkomst/product-relatie.
@@ -3909,7 +4233,9 @@ EXPERIËNTIËLE metaforen tenslotte berusten op een overeenkomst in de
 subjectieve ervaring die de taalgebruiker heeft van de betrokken zaken, i.e.
 van het subjectieve effect dat die zaken op hem hebben. Dat subjectieve effect contrasteert met de veel meer objectieve gronden van materiële en functionele metaforen; het is voornamelijk op emotioneel en zelfs lichamelijk vlak
 te situeren. Het is in deze groep dat we het verschijnsel moeten plaatsen dat
-traditioneel als SYNESTHESIE wordt aangeduid: de overdracht van een begrip
+traditioneel als
+SYNESTHESIE
+wordt aangeduid: de overdracht van een begrip
 van één ervaringsmodus naar een andere. Met "ervaringsmodus" zijn hier
 o.m. de verschillende zintuiglijke waarnemingsvormen, het gevoel, somatische
 reflexen en de motorische omgang met de wereld bedoeld. De eenvoudigste
@@ -3949,7 +4275,10 @@ Bij de voorgestelde driedeling moet tenslotte nog opgemerkt worden dat
 ook alternatieve indelingen van metaforen in omloop zijn. We zullen er hier
 drie behandelen.
 In de eerste plaats moeten we het hebben over het onderscheid tussen
-LEVEND(IG)E en VERBLEEKTE (ook wel "dode" of "versteende") metaforen. Dit
+LEVEND(IG)E
+en
+VERBLEEKTE
+(ook wel "dode" of "versteende") metaforen. Dit
 onderscheid heeft te maken met de vraag of de metaforische oorsprong van
 de overdrachtelijke gebruikswijze nog opvalt of niet. In hoofdzaak gaat het
 daarbij om de vraag of de letterlijke betekenis van het metaforisch gebruikte
@@ -3977,11 +4306,14 @@ In de tweede plaats wordt wel gezocht naar classificaties van metaforen
 die specifieker zijn dan algemene categorieën als "experiëntiële" of "functionele" of "verbleekte" metaforen, en die qua specificiteitsgraad vergelijkbaar zijn
 met wat we daarnet voor de metonymische ontwikkelingen geïllustreerd hebben. Dergelijke klassen van metaforen (die enerzijds het zuiver lexicale niveau
 overstijgen, maar die anderzijds minder algemeen zijn dan de categorieën van
-daarstraks) worden in de recentere literatuur GEGENERALISEERDE METAFOREN
+daarstraks) worden in de recentere literatuur
+GEGENERALISEERDE METAFOREN
 genoemd: metaforische denkpatronen die zich manifesteren op een ruimer
 conceptueel terrein dan dat van het individuele woord. In het werk van Lakoff
-& Johnson (1980) wordt o.m. gesteld dat de gegeneraliseerde metafoor LOVE
-IS WAR aan de basis ligt van de volgende afzonderlijke metaforen:
+& Johnson (1980) wordt o.m. gesteld dat de gegeneraliseerde metafoor
+IS WAR
+LOVE
+aan de basis ligt van de volgende afzonderlijke metaforen:
 He is known for his many rapid conquests. She fought for him, but his
 mistress won out. He fled from her advances. She pursued him relentlessly. Het is slowly gaining ground with her. He won her hand in marriage. He overpowered her. She is besieged by suitors. He has to fend
  Taalverandering in Microperspectief
@@ -4056,15 +4388,23 @@ worden niet genoemd, en de genetisch geïsoleerde talen slechts in zeer beperkte
 verdelingen gememoreerd. De vermelde talen of taalgroepen zijn oorspronkelijke, "inheemse" talen (zoals ook in hoofdstuk 7 met de verspreiding van de
 Indo-europese talen door de kolonisatie geen rekening is gehouden). De kaarten aan het einde van het hoofdstuk illustreren de geografische verspreiding
 van de taalfamilies.
-Om te beginnen noemen we enkele talen die op het Europese grondgebied gesproken worden (of werden), maar die niet tot de Indo-europese taalgroep behoren. Het Hongaars behoort samen met o.a. het Fins en het Samojeeds (dat gesproken wordt in Noord-West-Siberië) tot de OERALISCHE taalgroep. Het Hongaars, dat van deze groep de meeste sprekers heeft, bevindt
+Om te beginnen noemen we enkele talen die op het Europese grondgebied gesproken worden (of werden), maar die niet tot de Indo-europese taalgroep behoren. Het Hongaars behoort samen met o.a. het Fins en het Samojeeds (dat gesproken wordt in Noord-West-Siberië) tot de
+OERALISCHE
+taal-
+groep. Het Hongaars, dat van deze groep de meeste sprekers heeft, bevindt
 zich a.h.w. als een Oeralisch eiland in het Indo-europese gebied. Dat geldt
-ook voor het BASKISCH, in de Pyreneeën en het noorden van Spanje. Het Baskisch is echter niet alleen in ruimtelijke zin geïsoleerd: het heeft tot nu toe alle
+ook voor het
+BASKISCH,
+in de Pyreneeën en het noorden van Spanje. Het Bas-
+kisch is echter niet alleen in ruimtelijke zin geïsoleerd: het heeft tot nu toe alle
 pogingen weerstaan om het op een overtuigende wijze met andere talen in
 verband te brengen. Het Baskisch illustreert op die manier het verschijnsel
 van de (genetisch) geïsoleerde talen: talen die niet op een zinnige wijze in de
 bestaande families kunnen worden ingepast, en die zo een taalgroep op zich
 vormen.
-Nog zo'n voorbeeld van een geïsoleerde taal binnen de grenzen van Europa is het ETRUSKISCH, de taal van de Etruskische beschaving die in de 6de
+Nog zo'n voorbeeld van een geïsoleerde taal binnen de grenzen van Europa is het
+ETRUSKISCH,
+de taal van de Etruskische beschaving die in de 6de
 eeuw voor Christus haar hoogtepunt bereikte. Het Etruskisch werd mogelijk
 nog tot de 4de eeuw na het begin van onze jaartelling in het gebied van de
  De Taalfamilies van de Wereld
@@ -4081,8 +4421,13 @@ zichzelf staande taal is.
 Het Turks (dat een Europese taal is voor zover het in Europees Turkije,
 aan deze zijde van de Bosporus, gesproken wordt) behoort tot samen met
 o.a. het Oezbeeks, het Azerbeidzjaans, het Turkmeens en het Tataars tot de
-Turkse taalgroep, en die behoort dan weer tot de ALTAÏSCHE familie. Die Altaische familie strekt zich van de Balkan over Centraal-Azië uit tot Noord-WestSiberië, en omvat naast de Turkse talen de Mongoolse talen en de Toengoezische talen.
-De KAUKASISCHE talen zijn te vinden in de Kaukasus, in het gebied tussen
+Turkse taalgroep, en die behoort dan weer tot de
+ALTAÏSCHE
+familie. Die Alta-
+ische familie strekt zich van de Balkan over Centraal-Azië uit tot Noord-WestSiberië, en omvat naast de Turkse talen de Mongoolse talen en de Toengoezische talen.
+De
+KAUKASISCHE
+talen zijn te vinden in de Kaukasus, in het gebied tussen
 de Zwarte Zee en de Kaspische Zee. Het gebied in kwestie kent een zeer
 hoge concentratie aan talen uit verschillende taalfamilies: behalve Indoeuropese talen (zoals het Armeens) en Altaïsche talen (zoals het Azerbeidzjaans) treft men er een drietal taalgroepen aan die traditioneel als één familie
 worden behandeld, maar waarvan het eigenlijk nog niet helemaal zeker is of
@@ -4092,7 +4437,11 @@ het Avaars.
 De DRAVIDISCHE talen worden voornamelijk gesproken in het zuiden van het
 Indische subcontinent. Het bekendst is het Tamil, naast het Kannada en het
 Teloegoe.
-De positie van het KOREAANS en het JAPANS in de genetische classificatie
+De positie van het
+KOREAANS
+en het
+JAPANS
+in de genetische classificatie
 van de talen van de wereld is onduidelijk. In sommige classificaties worden ze
 in de Altaïsche groep opgenomen, maar in andere gevallen worden ze ieder
 als een geïsoleerde taal beschouwd. De moeilijke plaatsbaarheid heeft o.a. te
@@ -4104,11 +4453,16 @@ De SINO-TIBETAANSE taalfamilie omvat, aan de kant van de Chinese tak van
 de familie, de verschillende Chinese talen (zoals het Kantonees en het Mandarijns). Omwille van het gemeenschappelijke schrift en de gezamenlijke literaire en culturele traditie is het gebruikelijk te spreken van de Chinese "dialecten"; objectief gesproken verschillen die variëteiten van het Chinees echter
 niet minder van elkaar dan bijvoorbeeld de Romaanse of Germaanse talen
 onderling. De Tibetaanse tak van de Sino-Tibetaanse familie omvat het Tibetaans zelf en het Burmees.
-De THAI-familie omvat een aantal talen die worden gesproken in Thailand
+De
+THAI-familie
+omvat een aantal talen die worden gesproken in Thailand
 en in de omgeving van dat land. De belangrijkste zijn het Thais en het Laotiaans.
-AUSTRO-AZIATISCHE talen treft men aan van Oost-India tot Zuidoost-Azië.
+AUSTRO-AZIATISCHE
+talen treft men aan van Oost-India tot Zuidoost-Azië.
 De belangrijkste zijn het Khmer (de nationale taal van Cambodja) en het Vietnamees.
-De AUSTRONESISCHE taalfamilie omvat de meeste eilanden van de Stille
+De
+AUSTRONESISCHE
+taalfamilie omvat de meeste eilanden van de Stille
 Oceaan, met uitzondering van Australië, Tasmanië en het grootste deel van
 Nieuw-Guinea. Het betreft hier m.a.w. een gebied van Madagascar tot het
 Paaseiland, en van Taiwan en Hawaï tot Nieuw-Zeeland; een van de meer
@@ -4120,34 +4474,61 @@ en Tasmanië. Oorspronkelijk (voor de Europese kolonisatie) moeten er zo'n
 tweehonderd verschillende geweest zijn. De meeste daarvan zijn nu uitgestorven, en het grootste gedeelte van de thans nog gesproken talen is met uitsterven bedreigd, omdat ze niet meer aan de kinderen worden aangeleerd.
 R.M.W. Dixon, een specialist ter zake, gaat ervan uit dat er nog slechts een
 twintigtal echt gezonde Aboriginal talen overblijven.
-De term PAPOEA-talen wordt gebruikt voor de op Nieuw-Guinea gesproken
+De term
+PAPOEA-talen
+wordt gebruikt voor de op Nieuw-Guinea gesproken
 talen die niet tot het Austronesisch behoren. Van een werkelijke genetische
 identiteit is echter geen sprake.
 Gaan we op onze wereldreis nog een eindje verder naar het westen, dan
-bereiken we Amerika. Over de genetische indeling van de inheemse Amerikaanse talen (ook wel AMERINDISCHE talen genoemd) bestaat lang geen eens-
+bereiken we Amerika. Over de genetische indeling van de inheemse Amerikaanse talen (ook wel
+AMERINDISCHE
+talen genoemd) bestaat lang geen eens-
  De Taalfamilies van de Wereld
 gezindheid: zowel in Noord-Amerika, in Midden-Amerika, als in Zuid-Amerika
 zijn een aantal vrij duidelijk gedefinieerde taalfamilies te onderscheiden, maar
 over de grotere groepering daarvan lopen de meningen uiteen. Sommige onderzoekers gaan uit van niet meer dan drie superfamilies, maar anderen onderscheiden misschien wel een tweehonderdtal niet verwante families en geisoleerde talen. We noemen hier slechts enkele taalfamilies waarover geen
 discussie bestaat.
 In Noord-Amerika onderscheiden we om te beginnen de
+ALEOETISCHE familie,
 ESKIMO-
-ALEOETISCHE familie, een relatief kleine groep talen met het Eskimo als belang-
-rijkste. De omvangrijkste taal in de NA-DENÉ-familie is het Navaho; de Apachetalen zijn hiermee nauw verwant. Van de ALGONKIN-talen kennen Cree en
-Ojibwa de meeste sprekers. Tot de MACRO-SIOUAN-familie behoren o.m.
+een relatief kleine groep talen met het Eskimo als belang-
+rijkste. De omvangrijkste taal in de
+NA-DENÉ-familie
+talen zijn hiermee nauw verwant. Van de
+Ojibwa de meeste sprekers. Tot de
+is het Navaho; de Apache-
+ALGONKIN-talen
+kennen Cree en
+MACRO-SIOUAN-familie
+behoren o.m.
 Irokees, Dakota (of Sioux), Crow, Mohawk, en Pawnee.
-Voor Midden-Amerika kunnen we wijzen op het UTO-AZTEEKS, waartoe o.a.
+Voor Midden-Amerika kunnen we wijzen op het
+UTO-AZTEEKS,
+waartoe o.a.
 het Nahuatl (de taal van de Azteken) behoort, en op de MAYA-talen.
-In Zuid-Amerika zijn de twee belangrijkste talen het Quechua en het Aymara. Het QUECHUA (de taal van de Inca's) is waarschijnlijk een genetisch geisoleerde taal; het Aymara behoort tot de JAQÍ-familie.
-Tenslotte belanden we in Afrika, waar we vier families kunnen onderscheiden. De kleinste, het KHOISAN, omvat de talen van de Bosjesmannen en de
+In Zuid-Amerika zijn de twee belangrijkste talen het Quechua en het Aymara. Het
+QUECHUA
+(de taal van de Inca's) is waarschijnlijk een genetisch ge-
+isoleerde taal; het Aymara behoort tot de JAQÍ-familie.
+Tenslotte belanden we in Afrika, waar we vier families kunnen onderscheiden. De kleinste, het
+KHOISAN,
+omvat de talen van de Bosjesmannen en de
 Hottentotten, in het zuidwesten van het Afrikaanse continent.
-De omvangrijkste familie is die van de NIGER-CONGO-talen, die worden gesproken in het grootste gedeelte van Afrika ten zuiden van de Sahara. Deze
+De omvangrijkste familie is die van de
+NIGER-CONGO-talen,
+die worden ge-
+sproken in het grootste gedeelte van Afrika ten zuiden van de Sahara. Deze
 familie wordt zelf weer onderverdeeld in verschillende groepen, waarvan de
 Bantoe-groep verreweg de belangrijkste is, niet alleen omwille van het aantal
 talen (een vijfhonderdtal), maar ook omwille van het Swahili, dat door ongeveer 300 miljoen sprekers als lingua franca gebruikt wordt. Niet-Bantoe-talen
 binnen de Niger-Congo-familie zijn o.a. Efik, Yoruba, Igbo en Ewe.
-De NILO-SAHARAANSE familie is enerzijds terug te vinden in Tsjaad, anderzijds in (delen van) Ethiopië, Sudan, Uganda en Kenia.
-De AFRO-AZIATISCHE familie tenslotte bedekt het noorden van Afrika en een
+De
+NILO-SAHARAANSE
+familie is enerzijds terug te vinden in Tsjaad, ander-
+zijds in (delen van) Ethiopië, Sudan, Uganda en Kenia.
+De
+AFRO-AZIATISCHE
+familie tenslotte bedekt het noorden van Afrika en een
 groot stuk van het Midden-Oosten. Vijf groepen worden onderscheiden, waarvan het Semitisch de meest bekende is. De andere groepen binnen de AfroAziatische familie worden gevormd door het Oudegyptisch (dat als zodanig
 uiteraard uitgestorven is, en waarvan de nakomeling, het Koptisch, nog
 slechts gebruikt wordt als religieuze taal door de monofysitische Christenen
@@ -4246,8 +4627,13 @@ De eerste indeling is gebaseerd op de vaststelling dat taalcontact inhoudt
 dat sprekers van een bepaalde taal kennis hebben (hoe miniem ook) van een
 tweede taal: naast hun eerste taal of moedertaal (T1) hebben ze een tweede
 taal (T2), of onderdelen daarvan, verworven. Beïnvloedingsprocessen kunnen
-nu zowel optreden van T1 naar T2 als omgekeerd. Wanneer T2 invloed uitoefent op T1 kunnen we spreken van OVERNAME; die treedt bijvoorbeeld op wanneer het Nederlands (d.w.z.,de sprekers van het Nederlands) woorden als
-computer, hi tech, virtual reality ontlenen uit het Engels. Wanneer, omgekeerd, T1 invloed uitoefent op T2 wordt wel gesproken van OVERDRACHT. Die
+nu zowel optreden van T1 naar T2 als omgekeerd. Wanneer T2 invloed uitoefent op T1 kunnen we spreken van
+OVERNAME;
+die treedt bijvoorbeeld op wan-
+neer het Nederlands (d.w.z.,de sprekers van het Nederlands) woorden als
+computer, hi tech, virtual reality ontlenen uit het Engels. Wanneer, omgekeerd, T1 invloed uitoefent op T2 wordt wel gesproken van
+OVERDRACHT.
+Die
  Taalverandering in Macroperspectief
 treedt bijvoorbeeld op wanneer een Nederlandssprekende zijn articulatiegewoonten overdraagt op zijn uitspraak van het Engels: hoorbare problemen met
 de fricatieve dentalen van het Engels (de stemloze th van thing en de stemhebbende th van the) zijn een uiting van een dergelijk overdrachtsproces.
@@ -4381,7 +4767,10 @@ Loudun
 Fr., dept. Vienne
 Figuur 16.2
 Verspreiding van het Keltische toponiem Lugudunos
-De ontlening van WOORDEN is het frequentst voorkomende ontleningsprocédé; de omvang van het verschijnsel wordt duidelijk wanneer we inzien dat
+De ontlening van
+WOORDEN
+is het frequentst voorkomende ontleningspro-
+cédé; de omvang van het verschijnsel wordt duidelijk wanneer we inzien dat
 ook in het Nederlands zeer alledaagse woorden als muur, toren of wijn oude
 ontleningen zijn: in dit geval gaat het om ontleningen van respectievelijk de
 Latijnse woorden murus, turris, vinum. Een paar bijzondere gevallen van lexicale ontlening zijn een aparte vermelding waard. Ze illustreren ook weer hoe
@@ -4407,7 +4796,9 @@ Gold enerzijds en Nederlands goud anderzijds. De Latijnse vorm altare komt
 in het Nederlands terecht nog voor de genoemde regel in werking treedt. Uiteraard ondergaat het leenwoord naderhand de regel, wat outer oplevert (een
 woord dat nu weliswaar hoogstens nog in archaïserend taalgebruik aangetroffen wordt). Een tweede ontlening van altare nadat de genoemde klankwet
 uitgewerkt is, levert altaar op.
-De ontlening van FONOLOGISCHE elementen gebeurt onrechtstreeks, via de
+De ontlening van
+FONOLOGISCHE
+elementen gebeurt onrechtstreeks, via de
 ontlening van woorden. Zo komt in het Nederlands een leenfoneem als /Z/
 terecht via Franse leenwoorden als horloge of pelgrimage. Hetzelfde geldt
 voor nasale klinkers als in sans rancune. Overigens worden leenwoorden
@@ -4430,7 +4821,9 @@ de Nederlandse morfeeminventaris wanneer woorden ontstaan als vrijage,
 lekkage en slijtage, die gevormd zijn op basis van een Nederlandse stam. Op
 dezelfde manier kunnen stommiteit en flauwiteit gevormd worden nadat -iteit
 geabstraheerd is uit leenwoorden als kwaliteit.
-Nog in de MORFOLOGISCHE sfeer moet gewezen worden op de overname
+Nog in de
+MORFOLOGISCHE
+sfeer moet gewezen worden op de overname
 van morfologische constructietypes, en m.n. van samenstellingen. Het betreft
 dan de omzetting van Engels loudspeaker naar Nederlands luidspreker, van
 Duits Zeitschrift naar Nederlands tijdschrift, van Frans belle fille naar Nederlands schoondochter, of van Latijn prepositio naar Nederlands voorzetsel. De
@@ -4440,7 +4833,10 @@ van positio zou veeleer tot voorplaatsing of voorstand dan tot voorzetsel geleid
 hebben. Voor dergelijke onzuivere leenvertalingen gebruikt men wel de term
 "leenoverdracht"; ook de Duitse termen Lehnübersetzung en Lehnübertragung
 worden wel gebruikt voor leenvertaling en leenoverdracht.
-Op het gebied van de SYNTAXIS zijn ontleningen minder frequent (en in ieder geval moeilijker aanwijsbaar) dan in de lexicale en de morfologische sfeer.
+Op het gebied van de
+SYNTAXIS
+zijn ontleningen minder frequent (en in ie-
+der geval moeilijker aanwijsbaar) dan in de lexicale en de morfologische sfeer.
 Een vaak geciteerd voorbeeld vinden we op de Balkan, waar talen uit verschillende Indo-europese taalgroepen naast elkaar bestaan: naast Grieks en Albanees treft men er Slavische talen zoals het Bulgaars en een Romaanse taal
 (het Roemeens) aan. Ondanks hun verschillende oorsprong binnen het Indoeuropese geheel zijn deze talen verbonden door gemeenschappelijke ken-
  Taalverandering in Macroperspectief
@@ -4458,7 +4854,9 @@ constructie al te vinden is in het Nieuwe Testament), maar in andere gevallen
 is de bron van de gemeenschappelijke eigenschappen bij een van de andere
 talen te zoeken. Men noemt een dergelijk geografisch convergentiegebied een
 Sprachbund.
-Van SEMANTISCHE ontlening tenslotte spreken we wanneer het woord in de
+Van
+SEMANTISCHE
+ontlening tenslotte spreken we wanneer het woord in de
 ontvangende taal dat de voornaamste betekenis van een woord in de donortaal uitdrukt, een secundaire betekenis van het donortaalwoord overneemt. Dit
 proces, dat ook wel "(semantische) calque" genoemd wordt, komt er dus op
 neer dat woorden in hun betekenisontwikkeling beïnvloed worden door het
@@ -4598,7 +4996,8 @@ Een onderzoek naar de geografische facetten van deze verschuiving, uitgevoerd do
 overal in het Duitse taalgebied en bloc opereren. In de Rijnlandse dialecten
 blijken sommige onderdelen van de verschuiving wel, en andere niet aanwezig
 te zijn. Dat kan op een overzichtelijke manier aangetoond worden door de
-ISOGLOSSEN te tekenen voor de relevante verschijnselen. Isoglossen zijn de lij-
+ISOGLOSSEN
+te tekenen voor de relevante verschijnselen. Isoglossen zijn de lij-
 nen waarmee men in de dialectologie gebieden met een bepaald linguïstisch
 kenmerk op de kaart van elkaar scheidt. Voor het onderzoek naar de Rijnse
 waaier bekijkt men de isoglossen voor de woorden ik, maken, dorp, dat, appel
@@ -4660,7 +5059,9 @@ van het ich-gebied scheidt noemt men de Ürdingerlijn, naar het plaatsje Ürding
 maken/machen-isoglosse de Benratherlijn, naar de plaats Benrath.
 De weerspiegeling van het geografische terraslandschap in de verdeling
 van de woordvormen over de dialecten laat een karakteristiek patroon zien dat
-bekendstaat als een IMPLICATIONELE SCHAAL. Als een gebied, bijvoorbeeld, de
+bekendstaat als een
+IMPLICATIONELE SCHAAL.
+Als een gebied, bijvoorbeeld, de
 Hoogduitse vorm heeft in het woord appel, dan impliceert dat meteen dat ook
 de andere woorden eveneens de Hoogduitse klankverschuiving hebben doorgemaakt. Vertoont een dialect echter de vorm machen, dan kunnen we alleen
 maar besluiten dat ook ich de Hoogduitse vorm zal hebben; over de andere
@@ -4721,7 +5122,9 @@ Germaanse dialecten die (met uitzondering van de Friese dialecten) gesproken wor
 Voor de reserves t.o.v. het stamboommodel is dat laatste echter van ondergeschikt belang. De moderne standaardtalen zijn immers ontstaan na het
 tot stand komen van de dialectvariatie; ze vormen (zoals we al eerder suggereerden) een convergerende, overkoepelende tendens naast de primaire divergerende tendensen. Het stamboommodel, dat in eerste instantie die divergerende taalontwikkelingen beschrijft, suggereert ook op dat primaire dialectniveau dat de geografische grenzen tussen de dialecten scherper zijn dan ze
 in werkelijkheid blijken te zijn.
-Reeds in 1872 beschreef Johannes Schmidt een model van taalverandering dat het stamboommodel op dit punt corrigeert. Het GOLFMODEL behelst de
+Reeds in 1872 beschreef Johannes Schmidt een model van taalverandering dat het stamboommodel op dit punt corrigeert. Het
+GOLFMODEL
+behelst de
 gedachte dat taalveranderingen een geografisch centrum hebben, en zich
 geleidelijk, in "golven", vanuit dat geografische centrum verspreiden: naarmate
 men verder van het centrum afkomt, kan de realisatie van de ontwikkeling
@@ -4785,8 +5188,10 @@ onder ogen zien, maar toen bleek het wel mogelijk de betrokken klankveranderinge
 is die uitweg er echter niet: we zien dat de overgang van de oude oe naar uu
 bij twee woorden die fonetisch nagenoeg identiek zijn, toch tot verschillende
 isoglossen leidt. M.n. blijkt dat de isoglosse voor huus verder oostelijk is doorgedrongen dan de isoglosse voor muus.
-Dit suggereert dat klankveranderingen niet alleen op een geografisch geleidelijke manier, door verspreiding vanuit een expansiegebied, tot stand kunnen komen, maar dat ze ook in lexicaal opzicht geleidelijk kunnen zijn: ze verspreiden zich a.h.w. van woord tot woord, en treffen in ieder geval niet de volledige woordenschat tegelijkertijd. Men spreekt in dit verband van LEXICALE
-DIFFUSIE, een term die door William Wang (1969) in de historische taalkunde
+Dit suggereert dat klankveranderingen niet alleen op een geografisch geleidelijke manier, door verspreiding vanuit een expansiegebied, tot stand kunnen komen, maar dat ze ook in lexicaal opzicht geleidelijk kunnen zijn: ze verspreiden zich a.h.w. van woord tot woord, en treffen in ieder geval niet de volledige woordenschat tegelijkertijd. Men spreekt in dit verband van
+DIFFUSIE,
+LEXICALE
+een term die door William Wang (1969) in de historische taalkunde
 werd geïntroduceerd. We komen aan het einde van het volgende hoofdstuk op
 het verschijnsel terug, maar hier kunnen we alvast op twee punten wijzen.
 In de eerste plaats impliceert lexicale diffusie een taalveranderingsmodel
@@ -4863,7 +5268,9 @@ SOCIALE FACTOREN
 In dit hoofdstuk laten we zien dat de golftheorie moet worden uitgebreid met
 een verticale dimensie: taalveranderingsgolven verplaatsen zich niet alleen
 langs de ruimtelijke as van dialect naar dialect, maar ook langs een sociale dimensie van de ene sociale groep naar de andere. We komen daarmee op het
-terrein van de SOCIOLINGUÏSTIEK, de studie van de taal in haar sociologische
+terrein van de
+SOCIOLINGUÏSTIEK,
+de studie van de taal in haar sociologische
 context. Dat taalgebruik een sociaal gegeven is, is geen nieuwe wijsheid: ook
 in de klassieke historische taalkunde is men zich bewust van de socioculturele dimensie van het taalgebruik. In de jaren '60 komt het sociolinguïstische onderzoek echter in een stroomversnelling terecht, wanneer William
 Labov kwantitatieve methodes in het onderzoek introduceert.
@@ -4878,9 +5285,21 @@ Britse Engels, waar de r in woorden als card en car in normatief taalgebruik
 onuitgesproken blijft). In de figuur worden de percentages met de uitspraak
 van de postvocalische r afgezet tegen twee variabelen: de socio-economische
 klasse van de sprekers, en de formaliteit van de spreeksituatie. De waarden
-op de formaliteitsschaal zijn: CS voor "casual speech" (waarbij de informanten
-een ongedwongen gesprek voeren), FS voor "formal style" (waarbij een interview afgenomen wordt), RPS voor "reading passage style" (waarbij de informanten een tekst lezen), WLS voor "word list style" (waarbij een woordenlijst
-dient te worden voorgelezen), en MP voor "minimal paris" (waarbij minimale
+op de formaliteitsschaal zijn:
+CS
+voor "casual speech" (waarbij de informanten
+een ongedwongen gesprek voeren),
+view afgenomen wordt),
+RPS
+manten een tekst lezen),
+FS
+voor "formal style" (waarbij een inter-
+voor "reading passage style" (waarbij de infor-
+WLS
+voor "word list style" (waarbij een woordenlijst
+dient te worden voorgelezen), en
+MP
+voor "minimal paris" (waarbij minimale
 paren worden gelezen). De waarden op de klasseschaal gaan van UMC (Upper
 Middle Class) tot LWC (Lower Working Class).
  Taalverandering in Macroperspectief
@@ -4890,7 +5309,9 @@ Uit de figuur blijkt dat de volle uitspraak van r zowel toeneemt met de formalit
 dat gebeurt meer naarmate de omstandigheden om een formelere stijl vragen.
 Opvallend is wel dat de leden van de Lower Middle Class vanaf een bepaald
 stijlniveau hoger scoren dan de leden van de Upper Middle Class. Labov
-spreekt in dat verband van HYPERCORRECTIE: de leden van de Lower Middle
+spreekt in dat verband van
+HYPERCORRECTIE:
+de leden van de Lower Middle
 Class overdrijven a.h.w. in hun realisatie van de prestigevariant. Die overdrijving bevestigt het prestigekarakter van de voluit uitgesproken r: dat is enerzijds een variant die men kan identificeren met het prestige van de hoogste
 maatschappelijke groep, en anderzijds blijkt de ambitieuze Lower Middle
 Class te streven naar een assimilatie met die referentiegroep, zodanig zelfs
@@ -4902,7 +5323,9 @@ Figuur 18.2
 R-stratificatie in de New Yorkse warenhuizen
 De gegevens in figuur 18.1 zijn afkomstig van onderzoekssituaties die
 door de informanten als zodanig herkend kunnen worden (eventueel met uitzondering van het ongedwongen gesprek). Dat levert het gevaar op van wat
-Labov de OBSERVER'S PARADOX noemt: het feit dat de onderzoekssituatie zelf
+Labov de
+OBSERVER'S PARADOX
+noemt: het feit dat de onderzoekssituatie zelf
 het resultaat van de waarnemingen beïnvloedt (wat bijvoorbeeld zou gebeuren
 wanneer de informanten door de aanwezigheid van een hen niet bekende
 onderzoeker vanzelf op een formelere stijl overschakelen). Om dat methodologische gevaar te omzeilen deed Labov ook een onderzoek waarbij de gegevens verzameld werden op een voor de informanten onmerkbare manier.
@@ -4927,8 +5350,12 @@ beperkt tot de betrokken leeftijdsgroep, terwijl de taalkenmerken van de jongere
 men wel van AGE GRADING: leeftijdsgebonden variatiepatronen die niet een aan
 de gang zijnde taalverandering weerspiegelen.
 Methodologische zekerheid over de interpretatie van een leeftijdspatroon
-kan men verkrijgen bij een vergelijking van historische gegevens met synchrone gegevens. Labov spreekt in dit verband van onderzoek IN APPARENT
-TIME versus onderzoek IN REAL TIME. In het eerste geval beschikt men uitslui-
+kan men verkrijgen bij een vergelijking van historische gegevens met synchrone gegevens. Labov spreekt in dit verband van onderzoek
+TIME
+versus onderzoek
+IN REAL TIME.
+IN APPARENT
+In het eerste geval beschikt men uitslui-
 tend over gegevens i.v.m. de leeftijdsstratificatie van een bepaald linguïstisch
 verschijnsel op een bepaald moment. In het tweede geval kan men reële gegevens van bijvoorbeeld dertig jaar geleden vergelijken met gegevens van nu;
 daaruit zou dan afgeleid kunnen worden of de jongeren van toen inderdaad de
@@ -5002,14 +5429,22 @@ inkomen e.d., maar hij kan ook lid zijn van een aantal andere sociale entiteiten
 de Belgische filatelievereniging enzovoort. Ieder van deze facetten van iemands sociale identiteit kan een rol spelen in zijn taalgebruik. Een door James
  Taalverandering in Macroperspectief
 en Lesley Milroy geïntroduceerd alternatief voor de Laboviaanse benadering
-vertrekt van het concept van SOCIALE NETWERKEN om deze factoren in het onderzoek te betrekken: taalgebruikers zijn tegelijkertijd lid van verschillende
+vertrekt van het concept van
+SOCIALE NETWERKEN
+om deze factoren in het on-
+derzoek te betrekken: taalgebruikers zijn tegelijkertijd lid van verschillende
 netwerken van sociale relaties. Het linguïstische belang van die netwerken
 blijkt daaruit dat wie zich centraal in een netwerk bevindt (bijvoorbeeld, wie
 actief deelneemt aan de activiteiten van het net) meer geneigd blijkt te zijn
 zich bij de linguïstische eigenheid van het netwerk aan te sluiten.
 Nadrukkelijker nog dan in de Laboviaanse benadering beklemtoont de netwerkbenadering dat de sociale dynamiek van de taal op twee tegengestelde
-impulsen kan berusten: SOLIDARITEIT binnen een groep of netwerk (zoals wanneer de oorspronkelijke bewoners van Martha's Vineyard hun groepsidentiteit
-bevestigd willen blijven zien), of aanpassing aan het PRESTIGE van een andere
+impulsen kan berusten:
+SOLIDARITEIT
+binnen een groep of netwerk (zoals wan-
+neer de oorspronkelijke bewoners van Martha's Vineyard hun groepsidentiteit
+bevestigd willen blijven zien), of aanpassing aan het
+PRESTIGE
+van een andere
 groep (zoals wanneer taalgebruikers uit de middenklasse het model van de
 hogere klasse imiteren).
 In de tweede plaats is het nuttig een onderscheid te maken tussen de min
@@ -5023,12 +5458,13 @@ variëteit uit dit repertoire laat afhangen van de omstandigheden. Deze benaderi
 soms
 wel
 TAALSOCIOLOGIE
+SOCIOLINGUÏSTIEK
 genoemd,
 ter
 onderscheiding
 van
 de
-SOCIOLINGUÏSTIEK als vertegenwoordigd door de Laboviaanse richting. Het on-
+als vertegenwoordigd door de Laboviaanse richting. Het on-
 derscheid tussen de twee benaderingen is er een van klemtoon. In de taalsociologie is de belangstelling voornamelijk sociologisch, in de zin dat nagegaan
 wordt welke sociale rol taalgedrag (en verschil in taalgedrag) vervult. In de
 sociolinguïstiek is de belangstelling primair taalkundig, in de zin dat bekeken
@@ -5044,7 +5480,9 @@ plaatsen bij de gedachte dat linguïstische en sociale eigenschappen zomaar
 als onafhankelijke gegevens kunnen worden beschouwd. Dat kan voor het
 kwantitatieve onderzoek nuttig of zelfs noodzakelijk zijn, maar er zijn anderzijds ook aanwijzingen dat taalgebruik niet zonder meer de sociale realiteit
 weerspiegelt, maar die zelf mee bepaalt. Het taalgebruik heeft dan niet een
-epifenomenale, maar een CONSTITUTIEVE SOCIALE ROL: het taalgebruik zelf is
+epifenomenale, maar een
+CONSTITUTIEVE SOCIALE ROL:
+het taalgebruik zelf is
 een onderdeel van de definitie van de sociale realiteit.
 Dat blijkt overigens al uit de studies van Labov zelf. De "hypercorrecte"
 keuzes van de middenklasse, bijvoorbeeld, kunnen niet alleen worden beschouwd als een reflectie van de ambitie van die klasse, maar ook als een poging om die ambitie te realiseren. De poging tot assimilatie met de hogere
@@ -5060,8 +5498,10 @@ taalgebruik van de hogere klasse op de lagere uitoefent is spontaan tot stand
 gekomen, het wordt niet gedecreteerd of officieel opgelegd. Dergelijke opgelegde taalverhoudingen bestaan echter ook (denk aan de officiële spellingregeling van het Nederlands), en spelen net bij standaardiseringsverschijnselen
 dikwijls een reële rol.
  Taalverandering in Macroperspectief
-Het beeld dat uit dit alles oprijst, is in zekere zin een grondige OMKERING
-VAN HET KLASSIEKE MODEL dat we in hoofdstuk 6 introduceerden. We kunnen
+Het beeld dat uit dit alles oprijst, is in zekere zin een grondige
+VAN HET KLASSIEKE MODEL
+OMKERING
+dat we in hoofdstuk 6 introduceerden. We kunnen
 dat verduidelijken m.b.t. de beide hoofdaspecten van dat klassieke model, nl.
 het stamboommodel van de relatie tussen talen, en de regelmaat van klankwetten.
 Tegenover de gedachte dat het genealogische stamboommodel de normale situatie is, en dat ontlening (langs de horizontale dimensie van de stamboom) een verstoring is van die normale, "verticale" relatie, lijken we toe te
@@ -5215,8 +5655,12 @@ incidenteel blijven, of althans, dan zullen we kunnen zien dat de woordenschat
 van de taal permanent verrijkt wordt met een of meer nieuwe woorden. De
 basis van zo'n taalverandering ligt echter telkens bij individuele taaldaden van
 afzonderlijke taalgebruikers: de taal zelf kan natuurlijk niet handelen.
-Ook van het tweede teleologische verklaringstype vinden we in de diachrone lexicologie voorbeelden. Daarbij staat dan niet de EXPRESSIEVE functie
-van de taal voorop, maar de EFFICIËNTIE die zij als systeem moet bezitten om
+Ook van het tweede teleologische verklaringstype vinden we in de diachrone lexicologie voorbeelden. Daarbij staat dan niet de
+van de taal voorop, maar de
+EFFICIËNTIE
+EXPRESSIEVE
+functie
+die zij als systeem moet bezitten om
  De Verklaring van Taalverandering
 haar functie te vervullen. Een klassiek voorbeeld van een verklaring in deze
 richting is Gilliérons gebruik van HOMONYMIEVREES ter verklaring van woordverlies (Gilliéron & Roques 1912). Het principe van de homonymievrees stelt dat
@@ -5240,18 +5684,22 @@ Belangrijk voor ons betoog is het feit dat het ultieme motief voor het vermijden
 Gilliéron stelt ook niet dat homonymie altijd tot lexicale reorganisaties leidt,
 maar alleen wanneer het samenvallen van twee woorden functioneel hinderlijk
 kan zijn. Meer in het algemeen is homonymievrees een voorbeeld van wat wel
-het PRINCIPE VAN HUMBOLDT genoemd wordt: het principe nl. dat stelt dat natuurlijke talen streven naar een één-op-één-verhouding tussen het formele en
+het
+PRINCIPE VAN HUMBOLDT
+genoemd wordt: het principe nl. dat stelt dat na-
+tuurlijke talen streven naar een één-op-één-verhouding tussen het formele en
 het inhoudelijke niveau, i.c. naar een isomorfie tussen woordvormen en concepten. Die isomorfie is doorbroken wanneer één woordvorm correspondeert
 met uiteenlopende concepten (zoals bij homonymie), maar ook wanneer één
 concept
 met
 verschillende
+ISOMORFIEBEGINSEL
 woorden
 kan
 worden
 uitgedrukt.
 Het
-ISOMORFIEBEGINSEL zou dan kunnen verklaren waarom er zo weinig zuivere
+zou dan kunnen verklaren waarom er zo weinig zuivere
 synoniemen in een taal te vinden zijn: zuivere synonymie is in Humboldtiaans
 perspectief een overbodige luxe die al snel tot een functionele differentiatie
 (en dus een bijna-synonymie) van de betrokken vormen zal leiden. Zo kan
@@ -5348,7 +5796,9 @@ taalhandelingen met een communicatieve intentie.
 Op de achtergrond van deze discussie zijn twee visies op de aard van de
 taal in het geding die in de loop van de geschiedenis van de taalkunde allebei
 een rol hebben gespeeld – en nog spelen. Aan de ene kant staat de opvatting
-dat de taal een NATUURFENOMEEN is, zoals een organisme. De taalkunde is in
+dat de taal een
+NATUURFENOMEEN
+is, zoals een organisme. De taalkunde is in
 deze opvatting een natuurwetenschap. August Schleicher (1821-1868), die de
 stamboomtheorie ontwikkelde, formuleert een en ander als volgt:
 Die Sprachen sind Naturorganismen die, ohne vom Willen des Menschen bestimmbar zu sein, entstunden, nach bestimmten Gesetzen
@@ -5358,7 +5808,8 @@ dem Namen 'Leben' zu verstehen pflegt. Die Glottik, die Wissenschaft
 der Sprache, ist demnach eine Naturwissenschaft; ihre Methode ist im
 Ganzen und Allgemeinen dieselbe, wie die der übrigen Naturwissenschaften (1863: 6-7).
 Aan de andere kant staat de opvatting dat de taal in eerste instantie een
-CULTUURFENOMEEN is. Een vroege formulering van deze opvatting komt van
+CULTUURFENOMEEN
+is. Een vroege formulering van deze opvatting komt van
 Wilhelm von Humboldt (1762-1835), die de taal als product onderscheidt van
 de taal als gedrag:
 [Die Sprache] ist kein Werk (Ergon), sondern eine Thätigkeit (Energeia). Ihre ware Definition kann daher nur eine genetische seyn. Sie ist
@@ -5397,7 +5848,9 @@ bekende dingen op een nieuwe manier willen uitdrukken), op drie terreinen te
 situeren, naargelang de aard van het geëxprimeerde. Zo onderscheiden we
 denotationele, connotationele en stilistische expressiviteit, naargelang de expressieve behoefte zich bevindt op het vlak van de verwijzende waarde, de
 gevoelswaarde, of de stijlwaarde van de talige uitdrukkingen.
-DENOTATIONELE EXPRESSIVITEIT betreft de referentiële betekenis van de
+DENOTATIONELE
+EXPRESSIVITEIT
+betreft de referentiële betekenis van de
 taalvormen: nieuwe gedachten moeten worden uitgedrukt, nieuwe voorwerpen, toestanden, processen e.d. benoemd. In hoofdzaak zijn twee types te
 onderscheiden: de aanleiding voor de expressieve behoefte ligt bij een verandering in de werkelijkheid zelf, of bij de wijze waarop de mens die realiteit ervaart of kent. Exemplarisch voor het eerste type zijn de voorbeelden die hoger
 werden gegeven van de introductie van nieuwe zaken in een cultuur: vuurwapens als artillerie, schrijfstokken als pen, deltaplanes. Als exemplarisch voor
@@ -5412,7 +5865,10 @@ CONNOTATIONELE EXPRESSIVITEIT heeft betrekking op de gevoelswaarde van
 de gebruikte uitdrukkingen. De semantiek onderscheidt een vijftal hoofdtypes
 van lexicale verandering op grond van connotationele expressiviteit: eufemisme, dysfemisme, hyperbool, litotes en humor. Eufemisme en dysfemisme
 enerzijds en hyperbool en litotes anderzijds zijn antoniemenparen.
-Zo worden bij eufemisme verzachtende uitdrukkingen, bij dysfemisme diffamerende uitdrukkingen gebruikt. Bij EUFEMISME wordt een zaak met een onaangename connotatie verzachtend aangeduid met een uitdrukking met een
+Zo worden bij eufemisme verzachtende uitdrukkingen, bij dysfemisme diffamerende uitdrukkingen gebruikt. Bij
+EUFEMISME
+wordt een zaak met een on-
+aangename connotatie verzachtend aangeduid met een uitdrukking met een
  De Verklaring van Taalverandering
 minder onaangename gevoelswaarde: de geest geven voor sterven, jongeheer voor penis of gekleurde medemens voor neger zijn evenzoveel uitdrukkingen waardoor het schokkende of beledigende van het noemen van een
 zekere zaak wordt verzacht door een onrechtstreekse omschrijving met een
@@ -5487,7 +5943,9 @@ dysfemisme
 Figuur 20.1
 Gevoelswaardeconfiguraties in onderling verband
 Het spel van de expressieve factoren wordt overigens nog ingewikkelder
-wanneer we er ironie bij betrekken (één van de vormen van HUMOR): ironisch
+wanneer we er ironie bij betrekken (één van de vormen van
+HUMOR):
+ironisch
  De Verklaring van Taalverandering
 zegt men het tegengestelde van wat men bedoelt, zodat een waarderende
 uitdrukking als je bent een genie de waarde krijgt "je bent een domoor", terwijl
@@ -5511,7 +5969,9 @@ bij de realisering van die intenties de verschillende in hoofdstukken 9 tot 14
 genoemde mechanismen een rol kunnen spelen: zo b.v. onomasiologische
 vervorming bij een humoristische uitdrukking als portemonnix, metonymie bij
 een eufemisme als beer, of ontlening bij een eufemisme als toilet.
-Bij STILISTISCHE EXPRESSIVITEIT, tenslotte, spelen vaak sociolinguïstische
+Bij
+STILISTISCHE EXPRESSIVITEIT,
+tenslotte, spelen vaak sociolinguïstische
 factoren een rol: binnen een taalgemeenschap bestaan een aantal groepsgebonden taalvarianten waarvan de ene al meer prestige draagt dan de andere,
 zoals die groepen zelf. Ontlening geeft goede voorbeelden van het belang van
 deze factoren: de keuze van een vreemd woord kan ingegeven zijn door een
@@ -5674,7 +6134,10 @@ het Humboldtiaanse principe. Omdat dat principe betrekking heeft op de relatie t
 die wijzen op een tendens tot rationele organisatie. We knopen daarvoor aan
 bij de prototypetheorie, die aan het einde van hoofdstuk 13 summier werd
 voorgesteld.
-Die PROTOTYPETHEORIE kwam in het begin van de jaren '70 in de psycholinguïstiek tot ontwikkeling, en heeft sindsdien in de lexicale semantiek van
+Die
+PROTOTYPETHEORIE
+kwam in het begin van de jaren '70 in de psycho-
+linguïstiek tot ontwikkeling, en heeft sindsdien in de lexicale semantiek van
 taalkundige origine grote weerklank gevonden. Eleanor Rosch, die de theorie
 als eerste formuleerde, geeft de centrale gedachte als volgt weer.
 As speakers of our language and members of our culture, we know
@@ -5810,7 +6273,9 @@ te bouwen. Zou het niet duidelijker zijn als categorisatieprincipe niet gelijken
 maar volstrekte gelijkheid te hanteren? Waarom geen verwarring voorkomen,
 en alles wat inhoudelijk verschillend is, ook een aparte plaats in het categoriale systeem geven? Welnu, het voordeel van een geclusterde categorisatie ligt
 bij twee punten: zuinigheid en soepelheid.
-Een categoriaal systeem op prototypische basis is ZUINIG omdat het het
+Een categoriaal systeem op prototypische basis is
+ZUINIG
+omdat het het
 aantal categorieën beperkt. Omdat één prototypische categorie een hoeveelheid concepten verenigt die strikt genomen verschillend zijn, en die dus volgens een strenger categorisatieprincipe een eigen categorie zouden moeten
 vormen, zijn er minder categoriale plaatsen nodig. Die economische opbouw
 van het geheugen is zelf weer voordelig, omdat de werkelijkheid zo'n enorme
@@ -5827,7 +6292,8 @@ im Gedächtnis behalten könnte. Bedeutungswandel und Polysemie
 sind demnach Folgen des Bemühens, ja des Zwanges, die Unendlichkeit der Gegebenheiten mit einer endlichen Anzahl lautlicher Symbole
  De Verklaring van Taalverandering
 Nauw met de zuinigheid van de categoriale classificatie verbonden, is de
-SOEPELHEID ervan. Die flexibiliteit moet juist instaan voor de aanpassing van
+SOEPELHEID
+ervan. Die flexibiliteit moet juist instaan voor de aanpassing van
 het conceptuele systeem aan de verscheidenheid van de werkelijkheid. Taalgebruikers worden voortdurend met nieuwe, andere omstandigheden geconfronteerd, en hun conceptuele apparaat moet daarop snel kunnen reageren.
 De prototypische organisatievorm biedt daarvoor een geëigende strategie: zij
 biedt de mogelijkheid nieuwe gegevens te interpreteren in functie van bestaande categorieën. Enerzijds worden afwijkende gevallen geclassificeerd als
@@ -5974,9 +6440,18 @@ Natuurlijke Fonologie niet expliciet behandeld. We vinden ze echter wel terug
 in de opvattingen van de Franse linguïst André Martinet. Hij gaat uit van de
 redenering dat de primaire functie van fonemen er in bestaat woorden uit elkaar te houden; fonemen worden immers per definitie op grond van hun distinctieve karakter geïdentificeerd. Door ontwikkelingen die te maken kunnen
 hebben met, bijvoorbeeld, "ease of articulation" kan een fonologisch systeem
-echter verstoord raken. Martinet identificeert dan twee types van therapeutische ontwikkelingen waardoor de fonologische optimaliteit hersteld kan worden. Bij CHAÎNES DE PROPULSION (of PUSH CHAINS) wordt een fonologische samenval vermeden doordat een van de potentieel samenvallende elementen
-een reactieve verschuiving ondergaat. Bij CHAÎNES DE TRACTION (of DRAG
-CHAINS) ontstaat door de verschuiving van een element een lege plaats in het
+echter verstoord raken. Martinet identificeert dan twee types van therapeutische ontwikkelingen waardoor de fonologische optimaliteit hersteld kan worden. Bij
+CHAÎNES DE PROPULSION
+(of
+PUSH CHAINS)
+wordt een fonologische sa-
+menval vermeden doordat een van de potentieel samenvallende elementen
+een reactieve verschuiving ondergaat. Bij
+CHAINS)
+CHAÎNES DE TRACTION
+(of
+DRAG
+ontstaat door de verschuiving van een element een lege plaats in het
 fonologische systeem die dan a.h.w. een ander element naar zich toe trekt.
 Ter illustratie laten we zien dat de Germaanse klankverschuiving zowel als
 een push chain als wel als een drag chain kan worden voorgesteld. (Wat werkelijk het geval geweest is, is overigens moeilijk te achterhalen, omdat we
@@ -6015,7 +6490,10 @@ Gilliérons voorbeeld van homonymievrees dat hinderlijke homonymie ook met
 een lexicale therapie kan worden weggewerkt. Men neemt dan ook aan dat
 een fonologische therapie zoals belichaamd door het push-chainmodel alleen
 optreedt wanneer op vrij grote schaal hinderlijke homonymie zou ontstaan.
-Men spreekt in dat verband van de FUNCTIONELE BELASTING van een fonologische oppositie; een stabiele samenval van fonemen zou dan pas toegestaan zijn bij opposities met een relatief lage functionele belasting. Empirisch
+Men spreekt in dat verband van de
+FUNCTIONELE BELASTING
+van een fono-
+logische oppositie; een stabiele samenval van fonemen zou dan pas toegestaan zijn bij opposities met een relatief lage functionele belasting. Empirisch
 onderzoek heeft echter uitgewezen dat deze hypothese niet klopt (King 1967);
 bij de verklarende waarde van het push-chainmodel worden dan ook vaak
 vraagtekens geplaatst.
@@ -8204,10 +8682,18 @@ D De prototypetheorie realiseert de isomorfie op het niveau van de relatie tusse
 vertoont.
 Geef een beschrijving in distinctieve kenmerken van [N].
  Voorbeelden van Examenvragen
-A +pulmonaal +egressief +stem
-B +pulmonaal –egressief –stem
-C +pulmonaal +egressief +stem
-D –pulmonaal +egressief +stem
+A +pulmonaal
+B +pulmonaal
+C +pulmonaal
+D –pulmonaal
++egressief
+–egressief
++egressief
++egressief
++stem
+–stem
++stem
++stem
 palataal
 velair
 velair
@@ -8507,12 +8993,12 @@ DE VERKLARING VAN TAALVERANDERING
 Inleiding
  Natuurlijke menselijke taal
 taal
+menselijk
+natuurlijk
 andere semiotische systemen
 a) tekensystemen in het algemeen
 b) linguïstische hulpsystemen
-menselijk
 dierlijke tekensystemen
-natuurlijk
 kunsttalen
 a) artificiële natuurlijke talen
 b) formele talen
@@ -8629,8 +9115,8 @@ morfologie
 woord
 lexicologie
 zin
-syntaxis
 tekst
+syntaxis
 tekstlinguïstiek
 Hoofdstuk 2. Taalkundige disciplines
 Aanvullende indeling
@@ -8642,9 +9128,6 @@ als , maar (semantische) tekstanalyse wordt als
 onderdeel van pragmatiek beschouwd
 Hoofdstuk 2. Taalkundige disciplines
  alternatief 1
-VORM
-FUNCTIE
-GEBRUIK
 klank
 fonetiek
 fonologie
@@ -8656,13 +9139,13 @@ zin
 syntaxis
 tekst
 tekstlx
-semantiek
+GEBRUIK
 pragmatiek
+FUNCTIE
+semantiek
+VORM
 Hoofdstuk 2. Taalkundige disciplines
 alternatief 2
-VORM
-FUNCTIE
-GEBRUIK
 klank
 fonetiek
 fonologie
@@ -8674,9 +9157,12 @@ zin
 syntaxis
 tekst
 tekstlx
-semantiek
-pragmatiek
 Hoofdstuk 2. Taalkundige disciplines
+GEBRUIK
+pragmatiek
+FUNCTIE
+semantiek
+VORM
  Indeling externe benaderingen
 toegepaste taalkunde, o.a.
 − taaldidactiek
@@ -9137,51 +9623,77 @@ occlusieven
 - IE geaspireerde stemhebbende occlusieven → OGM
 stemhebbende fricatieven
 Hoofdstuk 8. Klankwetten en uitzonderingen
-IE stemloze occlusieven
+stemloze occlusieven
 → OGM stemloze fricatieven
-IE *p
-LAT pater
-GOT fadar
-IE *t
-LAT verto
-GOT wairþan
-IE *k
-LAT pecu
-GOT faihu
+IE
+IE
+LAT
+pater
+GOT
+fadar
+IE
+LAT
+verto
+GOT
+wairþan
+IE
+LAT
+pecu
+GOT
+faihu
 Hoofdstuk 8. Klankwetten en uitzonderingen
- IE stemhebbende occlusieven
+ stemhebbende occlusieven
 → OGM stemloze occlusieven
-IE *b
-LAT turba
-GOT þaurp
-IE *d
-LAT decem
-GOT taihun
-IE *g
-LAT iugum
-GOT juk
+IE
+IE
+LAT
+turba
+GOT
+þaurp
+IE
+LAT
+decem
+GOT
+taihun
+IE
+LAT
+iugum
+GOT
+juk
 Hoofdstuk 8. Klankwetten en uitzonderingen
-IE geaspireerde stemhebbende occlusieven
+geaspireerde stemhebbende occlusieven
 → OGM stemhebbende fricatieven
-IE *bh
-OI bhara̅mi
-GOT bairan
-IE *dh
-OI vidhava̅
-GOT widuwo
-IE *gh
-OI stighno̅ti
-GOT steigan
+IE
+IE
+*bh
+OI
+bhara̅mi
+GOT
+bairan
+IE
+*dh
+OI
+vidhava̅
+GOT
+widuwo
+IE
+*gh
+OI
+stighno̅ti
+GOT
+steigan
 Hoofdstuk 8. Klankwetten en uitzonderingen
  Het Germaanse voorbeeld: stap 2
 probleem: afwijkende ontwikkelingen
-IE *t → LAT pater ≈ GOT fadar [D]
-IE *t → LAT frater ≈ GOT broþar [T]
+IE *t
+→ LAT pater ≈ GOT fadar [D]
+IE *t
+→ LAT frater ≈ GOT broþar [T]
 oplossing: de wet van Verner (1846-1896)
 "Es muss eine Regel für die Unregelmässigkeit da sein, es
 gilt nur diese ausfindig zu machen"
 Hoofdstuk 8. Klankwetten en uitzonderingen
-IE stemloze occlusieven worden OGM stemhebbende
+stemloze occlusieven worden OGM stemhebbende
 fricatieven wanneer het IE woordaccent niet op de
 onmiddellijk voorafgaande syllabe valt
 IE
@@ -9208,6 +9720,7 @@ vader
 zeven
 broeder
 vee
+IE
 Hoofdstuk 8. Klankwetten en uitzonderingen
  Opmerking 1
 informatie over IE accent komt uit OI en GR, waar accent
@@ -9237,15 +9750,21 @@ op de onmiddellijk voorafgaande syllabe valt"
 Hoofdstuk 8. Klankwetten en uitzonderingen
 De Germaanse klankverschuiving:
 overzicht
-IE bh dh gh
-IE p t k
-IE b d g
-[volgens wet
-[na stemloze
-van Verner]
+IE
+bh dh gh
+IE
+ptk
 fricatief]
+van Verner]
+bdg
+[na stemloze
+[volgens wet
+OGM
+IE
+OGM
 Hoofdstuk 8. Klankwetten en uitzonderingen
-OGM p t k
+OGM
+ptk
  Uitzonderingen op de Ausnahmslosigkeit
 door de Neogrammatici onderkend en erkend:
 ontlening
@@ -9256,20 +9775,23 @@ Hoofdstuk 8. Klankwetten en uitzonderingen
 Ontlening als bron van uitzonderingen
 normaal:
 en dus LAT p ≈ GOT f
+IE
 echter: LAT purpura ≈ GOT paurpura [pçrpura] "purper"
 ⇒ verklaring op grond van ontlening
 Hoofdstuk 8. Klankwetten en uitzonderingen
  Incidentele ontwikkelingen als bron van
 uitzonderingen
 IE *penkwe
-LAT quinque
+LAT
+quinque
+GR pente
+GOT
+fimf
 regressieve assimilatie van articulatieplaats
 (labiaal > velair)
-GR pente
 gedeeltelijke progressieve assimilatie van
 articulatieplaats (labiaal > dentaal), met
 verlies van secundaire articulatie
-GOT fimf
 volledige progressieve assimilatie (nog voor
 de werking van de GM klankverschuiving)
 Hoofdstuk 8. Klankwetten en uitzonderingen
@@ -9328,11 +9850,12 @@ Hoofdstuk 8. Klankwetten en uitzonderingen
 semantische expressiviteit, o.a. in de vorm van
 klanknabootsing (iconiciteit)
 bv. NED koekoek
-DU Kuckuck
+Kuckuck
 LAT cuculus
 GR kokkuks
 SKRT kokila
 RUSS kukúš ka
+DU
 Hoofdstuk 8. Klankwetten en uitzonderingen
 ⇒ doorbreking klankwettige correspondenties
 voorbeeld
@@ -9432,6 +9955,7 @@ geconditioneerd
 dissimilatie
 wet van Verner
 niet geconditioneerd
+IE d,b,g
 vraag 1
 bestaan vrije ongeconditioneerde veranderingen ?
 volgens de neogrammatische hypothese onmogelijk
@@ -9479,7 +10003,6 @@ voorbeeld:
 GOTISCH
 NEDERLANDS
 DUITS
-INFINITIEF
 bindan
 binden
 binden
@@ -9495,6 +10018,7 @@ VOLT.DEELW.
 bundans
 gebonden
 gebunden
+INFINITIEF
 Hoofdstuk 10. Morfologische verandering
 Analogische extensie
 vb.: sterk > zwak
@@ -9620,10 +10144,12 @@ soms ook morfologische reïnterpretatie: uitweiden >
 uitwijden (cf. infra)
 Hoofdstuk 12. Lexicale verandering
 vorming van doubletten door klankontwikkelingen:
-MNL pipen
+MNL
+pipen
 1° geluid maken als van vogels
 2° een instrument bespelen dat zo'n geluid produceert
-NNL echter 1° piepen naast klankwettig 2° pijpen
+NNL echter
+1° piepen naast klankwettig 2° pijpen
 morfologische reïnterpretatie:
 hamburg-er > ham-burger
 connotation > connotate (naast connote)
@@ -9738,7 +10264,8 @@ Hoofdstuk 14. Semantische verandering 2
 – hoogste niveau: het mechanisme "metafoor"
 – laagste niveau: individuele gevallen
 – intermediair: types van metafoor, zoals "love is war"
-GEGENERALISEERDE, CONCEPTUELE (i.e. supra-lexicale)
+GEGENERALISEERDE, CONCEPTUELE (i.e.
+supra-lexicale)
 METAFOREN
 Hoofdstuk 14. Semantische verandering 2
 Conceptuele metaforen
@@ -9810,7 +10337,8 @@ Hoofdstuk 16. Taalcontact en ontlening
 Ontlening en klankwetten 1
 eerder behandeld:doorbreken van klankwettige
 correspondenties als gevolg van ontlening
-IE penkw- "vijf"
+IE
+penkw- "vijf"
 Ned. vijf
 Lat. quintus "vijfde"
 ≈ Ned. quintet
@@ -9893,13 +10421,16 @@ warenhuizen
 Hoofdstuk 18. Sociale factoren
 Sociale stratificatie
 bevindingen van Labov:
-♦ sterke correlatie van linguïstische variatie met sociale
+♦ sterke
 klasse
-♦ specifiek patroon: hypercorrectie bij de middenklasse
+correlatie van linguïstische variatie met sociale
+patroon: hypercorrectie bij de middenklasse
 ('overdrijving')
-PS er is nog een andere betekenis van
+♦ specifiek
+er is nog een andere betekenis van
 hypercorrectie (normatieve hypercorrectie):
 'ik hoef te komen'
+PS
 Hoofdstuk 18. Sociale factoren
  Hoofdstuk 18. Sociale factoren
 Hoofdstuk 18. Sociale factoren
@@ -9930,9 +10461,9 @@ sociale achtergrond: identificatie met eiland, in contrast met
 de immigrerende 'mainlanders'
 Hoofdstuk 18. Sociale factoren
  Het Laboviaanse taalveranderingsmodel
-• natuurlijke en spontane vrije variatie
-• een variant krijgt een groepsidentificerende functie
-• prestigefactoren kunnen zorgen voor expansie van de
+natuurlijke en spontane vrije variatie
+een variant krijgt een groepsidentificerende functie
+prestigefactoren kunnen zorgen voor expansie van de
 variabele buiten de oorspronkelijke groep
 Hoofdstuk 18. Sociale factoren
 Résumé van het parcours
@@ -9957,7 +10488,8 @@ lexicaal gebonden
 in het lexicale-diffusiemodel is de lexicale gebondenheid
 van klankveranderingen normaal; klankwetttigheid is het
 limietgeval van een dergelijke lexicale diffusie
-PS [a] en [b] hoeven niet samen te gaan
+PS
+[a] en [b] hoeven niet samen te gaan
 Hoofdstuk 18. Sociale factoren
  Uitgangspunten
 we weten nu meer over de mechanismen van

@@ -262,8 +262,9 @@ Elementen
 Een groep van isotopen (atomen met eenzelfde Z) vormt een element.
 Het is belangrijk te beseffen dat binnen een element de isotopen steeds met een bepaalde (constante)
 abundantie voorkomen.
-Zo bestaat het element chloor steeds uit 75,5% van de isotoop 17 Cl en 24,5% van het 17 Cl . Anders
+Zo bestaat het element chloor steeds uit 75,5% van de isotoop 17 Cl en 24,5% van het
 gezegd, de abundantie van de beide isotopen is respectievelijk 75,5 % en 24,5 %.
+Cl . Anders
 Onderstaande tabel geeft de belangrijkste elementen met hun rangnummer Z, hun symbool en naam.
 Z symbool
 H
@@ -353,7 +354,7 @@ https://www.youtube.com/watch?v=xA4QWwaweWA
 Het is uiteraard ook niet mogelijk hun massa rechtstreeks te meten. Om de absolute atoommassa’s van
 de verschillende atomen onderling te kunnen vergelijken, heeft men de atoommassa eenheid u (atomic
 mass unit, amu) ingevoerd.
-Per definitie is 1 u = 1/12 van massa van een 6 C isotoop = 1,66.10-27 kg
+Per definitie is 1 u = 1/12 van massa van een
 Om de atoommassa van een element te berekenen moet men rekening houden met de abundanties van
 de isotopen van het element.
 Voorbeeld
@@ -904,15 +905,15 @@ kiezelzuur
 boorzuur
 chroomzuur
 cyaanzuur
-ClO3 - chloraat-ion
-SO4 2- sulfaat-ion
-NO3 - nitraat-ion
-PO4 3- fosfaat-ion
-CO3 2- carbonaat-ion
-SiO4 4- silicaat-ion
-BO3 3- boraat-ion
-CrO4 2- chromaat-ion
-OCN - cyanaat-ion
+chloraat-ion
+sulfaat-ion
+nitraat-ion
+fosfaat-ion
+carbonaat-ion
+silicaat-ion
+boraat-ion
+chromaat-ion
+cyanaat-ion
 Een aantal van bovenstaande oxozuren komen ook voor met één atoom zuurstof minder in hun
 zuurrest. Een dergelijk oxozuur wordt benoemd als "igzuur" en de corresponderende zuurrest krijgt de
 uitgang "iet".
@@ -1116,11 +1117,6 @@ NH4Br
 NH4I
 NH4OH
 NH4CN
-b
-c
-d
-e
-f
 g
 h
 i
@@ -1161,23 +1157,6 @@ q
 ammoniumfosfaat
 q
 r
-b
-c
-d
-e
-f
-g
-h
-i
-j
-k
-l
-m
-n
-o
-p
-q
-r
 magnesiumfluoride
 calciumchloride
 bariumbromide
@@ -1215,7 +1194,29 @@ d
 e
 f
 g
+b
+c
+d
+e
+f
+g
+h
+i
+j
+k
+l
+m
+n
+o
+p
+q
+r
 H. Rijckaert
+b
+c
+d
+e
+f
 waterstoffluoride
 lithiumchloride
 natriumbromide
@@ -2145,34 +2146,41 @@ totale ionaire vergelijking
 netto ionaire vergelijking
 Voorbeeld 2. De reactie tussen een waterige oplossing van zwavelzuur en natriumcarbonaat.
 maar H2CO3 is onstabiel en zal spontaan ontbinden: H2CO3 (aq) → H2O + CO2 (g)
+Sterke zuren
+HClO4 perchloorzuur
+HI
+waterstofjodide
+HBr
+waterstofbromide
+HCl
+zoutzuur
+H2SO4 zwavelzuur
+HNO3 salpeterzuur
+HClO3 chloorzuur
+Zwakke zuren
+HlO3 joodzuur
+HOAc
+H2SO3 zwaveligzuur
+H2CO3
+H3PO3 fosforigzuur
+H2S
+HClO2 chlorigzuur
+HClO
+H3PO4 fosforzuur
+HF
+waterstoffluoride HCN
+HNO2 salpeterigzuur
+HCO3-
 stoffenvergelijking
 totale ionaire vgl
 netto ionaire vgl
-Sterke zuren
-Zwakke zuren
-HClO4 perchloorzuur
-HlO3 joodzuur
-HOAc azijnzuur
-HI
-waterstofjodide H2SO3 zwaveligzuur
-H2CO3 koolzuur
-HBr
-waterstofbromide H3PO3 fosforigzuur
-H2S
+azijnzuur
+koolzuur
 waterstofsulfide
-HCl
-zoutzuur
-HClO2 chlorigzuur
-HClO hypochlorigzuur
-H2SO4 zwavelzuur
-H3PO4 fosforzuur
-NH4+ ammonium ion
-HNO3 salpeterzuur
-HF
-waterstoffluoride HCN blauwzuur
-HClO3 chloorzuur
-HNO2 salpeterigzuur
-HCO3- bicarbonaat ion
+hypochlorigzuur
+ammonium ion
+blauwzuur
+bicarbonaat ion
 Tabel 2.3: zuren gerangschikt van, sterkst naar zwakst
 H. Rijckaert
  2. Chemie in waterige oplossingen
@@ -2629,9 +2637,11 @@ Voor een ideaal gas geldt:
 ⇒ dit is zo voor verdunde gassen ⇒ dus bij lage druk
 mol . K
 n.T
+CaCO3
+1 mol
 T
 1 mol
-1 mol 1 mol
+1 mol
 V
 Er wordt ook 0,152 mol CO2 gas gevormd ⇒
 p
@@ -2830,7 +2840,9 @@ uitgaande van hun enkelvoudige stoffen, exotherm zijn. De standaard vormingsenth
 enkelvoudige stoffen zoals bijvoorbeeld O2 bedraagt nul.
 Om de reactieënthalpie te berekenen uit vormingsenthalpieën wordt gebruik gemaakt van de volgende
 expressie
-ΔH=r ∑ n.ΔH f0 (reactieproducten)-∑ n.ΔH 0f (reagentia)
+∑ n.ΔH (reactieproducten)-∑ n.ΔH (reagentia)
+f
+f
 met n de reactiecoëfficiënt van de beschouwde stof.
 H. Rijckaert
  4. Thermodynamica
@@ -2870,7 +2882,9 @@ N=C
 Tabel 4.1: gemiddelde bindingsenergieën
 Op basis van deze waarden is het mogelijk de reactieënthalpie te berekenen gebruik makend van de
 expressie
-ΔH=r ∑ n.ΔH 0a (verdwenen bindingen) -∑ n.ΔH 0a (gevormde bindingen)
+∑ n.ΔH (verdwenen bindingen) -∑ n.ΔH (gevormde bindingen)
+a
+a
 met n de reactiecoëfficiënt van de beschouwde stof.
 Bemerkingen
 Omdat de bindingsenergieën gemiddelde waarden zijn, zijn de berekende reactieënthalpieën uiteraard
@@ -2911,8 +2925,12 @@ H. Rijckaert
  4. Thermodynamica
 De totale arbeid die deze isotherme reversibele expansie op de omgeving uitoefent (W<0), is de som
 van de pV arbeid van al de infinitesimaal kleine expansiestapjes dV waaruit dit proces bestaat.
+p.dV
 n.R.T
+.dV
+V
 dV
+V
 Omdat het systeem gedurende het ganse proces met zijn omgeving in evenwicht blijft, wijzigt de
 inwendige energie van het systeem niet:
 Qrev + Wrev = 0
@@ -3119,11 +3137,13 @@ opeenvolgende elementaire reacties noemt men het reactiemechanisme. Elke element
 bepaald door het aantal deelnemende partners of moleculariteit.
 Het belang van het uitschrijven van het reactiemechanisme in elementaire deelreacties is dat voor een
 elementaire reactie de orde gelijk aan de moleculariteit van deze reactie !
-elementaire reactiestap moleculariteit reactiesnelheid
-unimoleculair k.[A]
-bimoleculair k.[A]2
-bimoleculair k.[A].[B]
-termoleculair k.[A]2.[B]
+elementaire reactiestap
+moleculariteit
+unimoleculair
+bimoleculair
+bimoleculair
+termoleculair
+reactiesnelheid
 Tabel 5.1: moleculariteit van een chemische reactie
 In een reactie die uit meerdere deelreacties bestaat, verlopen niet alle elementaire reacties even snel.
 Meestal verloopt een bepaalde elementaire reactie veel trager dan alle andere. Omdat deze traagste
@@ -3264,7 +3284,7 @@ https://www.youtube.com/watch?v=ftSf-T9Mins
 Vragen en oefeningen
 1. Stel de snelheidsvergelijking op en bepaal de waarde van k voor de reactie
 aan de hand van de volgende experimenteel gemeten beginsnelheden.
-experiment [BrO3 - ]0
+experiment
 beginsnelheid
 2. Toon aan dat de reactie 2 N2O5 (g) → 4 NO2 (g) + O2 (g) van eerste orde is en bereken k uitgaande
 van de volgende experimentele vaststellingen.
@@ -3701,13 +3721,6 @@ H. Rijckaert
  7. Zuren en basen
 Onderstaande tabel geeft een overzicht van de zuurconstanten Ka en basiciteitsconstanten Kb bij 25°C
 van een aantal belangrijke zuren en hun geconjugeerde base.
-HClO4
-HI
-HBr
-HCl
-H2SO4
-HNO3
-HClO3
 brønstedzuur
 perchloorzuur
 waterstofjodide
@@ -3716,6 +3729,13 @@ zoutzuur
 zwavelzuur
 salpeterzuur
 chloorzuur
+HClO4
+HI
+HBr
+HCl
+H2SO4
+HNO3
+HClO3
 geconjugeerde base
 ClO4
 perchloraat ion
@@ -3726,7 +3746,10 @@ HSO4
 waterstofsulfaat ion
 NO3nitraat ion
 ClO3chloraat ion
+Ka
 pKa
+Kb
+pKb
 oxonium ion
 H2O
 water
@@ -3796,9 +3819,6 @@ hydroxide ion
 ammoniak
 oxide ion
 amine ion
-Ka
-Kb
-pKb
 Tabel 7.3: Ka en Kb bij 25°C van een aantal belangrijke zuren en hun geconjugeerde base.
 H. Rijckaert
  7. Zuren en basen
@@ -4193,6 +4213,9 @@ waterige oplossing van zijn corresponderend kation Mn+(aq) is een kenmerkend voo
 Bovenstaand principe beperkt zich niet enkel tot metaal/kation maar geldt bij uitbreiding voor elke
 redoxkoppel oxidator/reductor
 STERKSTE REDUCTANS (←)
+Na+(aq)
+Ag+(aq)
+MnO4-(aq)
 STERKSTE OXIDANS (→)
 Tabel 8.1: standaard reductiepotentialen bij 25°C voor een aantal redoxkoppels
 H. Rijckaert
@@ -4727,8 +4750,8 @@ H. Rijckaert
 De basisnaam van een KWS wordt in de eerste plaats bepaald door het aantal koolstoffen in de
 hoofdketen,
 methethpropbutpent-
-C6 hexC7 heptC8 octC9 nonC10 dec-
-C11 undecC12 dodecC13 tridecC14 tetradecC15 pentadec-
+hexheptoctnondec-
+undecdodectridectetradecpentadec-
 hexadecheptadecoctodecnonadeceicos-
 Tabel 10.1: basisnaam organische verbinding
 aangevuld met een suffix op basis van de verzadiging van de koolstofketen.
@@ -5116,9 +5139,9 @@ propaan-2-on
 aceton
 3-oxohexanal
 HCHO
+CH3 CHO
 methanal
 formaldehyde
-CH3 CHO
 ethanal
 acetaldehyde
 3-oxopropaanzuur
@@ -5617,10 +5640,10 @@ In principe is de D,L-nomenclatuur vervangen door de R,S-nomenclatuur. De eerste
 ingeburgerd in de biochemie dat ze in deze tak van de chemie nog volop gebruikt wordt.
 Cahn, Ingold en Prelog hebben de CIP-regels opgesteld voor de benoeming van de configuratie van
 chirale koolstofatomen. Deze regels zijn
-1. Atomen nummeren van grootste naar kleinste atoomnummer.
-2. De chirale koolstof zo houden dat de laagste atoomnummer (4) naar achter staat.
-3. Doorloop de overige drie groepen van (1) over (2) naar (3).
-4. Is de loop in wijzerzin dan krijgt de chirale koolstof de indicatie R (rectus).
+Atomen nummeren van grootste naar kleinste atoomnummer.
+De chirale koolstof zo houden dat de laagste atoomnummer (4) naar achter staat.
+Doorloop de overige drie groepen van (1) over (2) naar (3).
+Is de loop in wijzerzin dan krijgt de chirale koolstof de indicatie R (rectus).
 Is de loop in tegenwijzerzin dan krijgt de chirale koolstof de indicatie S (sinister).
 Figuur 11.12: principe van de R,S-nomenclatuur
 H. Rijckaert

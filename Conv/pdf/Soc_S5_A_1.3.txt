@@ -5,15 +5,15 @@ Prof. Dr. Eva Van den Bussche
 Handboek Hoofdstuk 5 (pp. 109-126)
 Prof. Dr. Eva Van den Bussche
  Overzicht
-• Terugkoppeling oefening
-• Empirische cyclus
-• Steekproeftrekking
-• Probability sampling
-▪ Simple random sampling
-▪ Systematische sampling
-▪ Gestratificeerde random sampling
-▪ Proportionele gestratificeerde random sampling
-▪ Cluster sampling
+Terugkoppeling oefening
+Empirische cyclus
+Steekproeftrekking
+Probability sampling
+Simple random sampling
+Systematische sampling
+Gestratificeerde random sampling
+Proportionele gestratificeerde random sampling
+Cluster sampling
 • Nonprobability sampling
 ▪ Convenience sampling
 ▪ Quota sampling

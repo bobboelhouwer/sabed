@@ -4,13 +4,16 @@ Vincent Rijmen en Hugo Van hamme
 Augustus 2021
  Inhoudsopgave
 1 Beschrijving van signalen en systemen
-1.4.2 Toestandsbeschrijving afleiden uit het schema . . . . . . . . . . . . . .
-2 Analyse van systemen
-2.3.6 Canonieke vorm en differentievergelijkingen . . . . . . . . . . . . . . .
-2.4.5 Impulsresponsie in de toestandsbeschrijving . . . . . . . . . . . . . . .
+1.4.2 Toestandsbeschrijving afleiden uit het schema
 3 Voorbeelden inwendig product (Lay H6.8)
+2 Analyse van systemen
+2.2 Oplossen van de toestandsvergelijkingen . . . . . .
+2.3.1 Verandering van toestandsvector . . . . . .
+2.3.6 Canonieke vorm en differentievergelijkingen
+2.4.3 Responsie op een willekeurige ingang . . . .
+2.4.5 Impulsresponsie in de toestandsbeschrijving
  4 Aanvullingen op H6
-4.4 Eigenwaardenontbinding van Hermitische matrices . . . . . . . . . . . . . . .
+4.4 Eigenwaardenontbinding van Hermitische matrices
  Afkortingen
 DTLTI
 MIMO
@@ -163,10 +166,10 @@ D
 l
 Figuur 1.5: Schematische weergave van de rol van de matrices A, B, C en D uit de toestandsvoorstelling.
 Dit geeft voor de toestandsbeschrijving:
+h
 A
 B
 h i
-h
 i
 C
 D

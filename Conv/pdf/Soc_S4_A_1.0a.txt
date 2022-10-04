@@ -251,10 +251,10 @@ GPA
 (uren)
 MPA
 (doosjes per extra uur)
-• als marginale > gemiddelde, zal gemiddelde toenemen,
-• als marginale < gemiddelde, zal gemiddelde afnemen,
-• als marginale = gemiddelde, zal gemiddelde gelijk blijven.
- Dit is een algemene wiskundige wetmatigheid
+als marginale > gemiddelde, zal gemiddelde toenemen,
+als marginale < gemiddelde, zal gemiddelde afnemen,
+als marginale = gemiddelde, zal gemiddelde gelijk blijven.
+Dit is een algemene wiskundige wetmatigheid
  Wet van afnemende meeropbrengsten
 • Marginale productiviteit noemen we ook meeropbrengsten. Veel
 productieprocessen vertonen variabele meeropbrengsten.
@@ -493,14 +493,15 @@ schaalnadelen
 q
  Schaalvoordelen en verloop LGK-curve
 Vaak vertonen LGK curves een U-vormig verloop (zie ook fig. 6.5):
+o
+o
 Aanvankelijk (tussen 0 en q3) zijn er schaalvoordelen (economies
 of scale) verbonden aan hogere productievolumes (efficiëntere
 benutting productiepotentieel, specialisatie, …)
  LGK curve daalt
-o Maar er komt een moment (vanaf q3) dat schaalnadelen
+Maar er komt een moment (vanaf q3) dat schaalnadelen
 (diseconomies of scale) overheersen (organisatieproblemen, …)
  LGK curve stijgt
-o
  Causes of Economies of Scale
 (1) hoge vaste kosten:
 o door technologische vooruitgang zoals bij netwerksectoren (banken,

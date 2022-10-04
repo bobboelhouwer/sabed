@@ -76,6 +76,7 @@ Gelijkvormigheid: inleiding
 • In B uitgedrukt wordt de standaardmatrix P-1 A P
 Voorbeeld
 Merk op: b1 is eigenvector
+AP=
 Voorbeeld 1: het beeld van b1 met
 coordinaat [1 0]T in B is [2 0]T in B
 (eigenwaarde is 2)

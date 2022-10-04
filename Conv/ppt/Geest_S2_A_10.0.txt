@@ -1,284 +1,275 @@
-Aanvullingen
-Responsie op
-ingangssignalen en begintoestand
-Responsie berekenen
-• Gegeven toestandsbeschrijving (A, B, C, D) ,
-• Toestandsbeschrijving
-• Exhaustieve berekening van x[k] en y[k]
-Voorbeeld
-Gegeven
-“Oplossen” toestandsvergelijking
-• Gegeven toestandsbeschrijving, u[k] en x[0], wat zijn x[k] en y[k] ?
-• Toestandsbeschrijving
-A
-Algemeen:
-• Uitgangssignaal
-Nulingangs- en nultoestandsrespons
-Nulingangsresponsie
-Nultoestandsresponsie
-• Nulingangsresponsie: y[k] als u[k]
-• Nultoestandsresponsie: y[k] als x[0] = 0
-Toestandsbeschrijving en
-gelijkvormige matrices
-Toestandsbeschrijving is niet uniek
-, np] een nxn inverteerbare matrix
-– Is verandering van coördinaten: w[k] zijn de coordinaten van x[k] in de
-basis {p
-Toestandsbeschrijving is niet uniek
-• In de nieuwe toestandsvector w[k] hebben we een
-equivalente toestandsbeschrijving:
-A en zijn gelijkvormig
-• Beide systemen zijn equivalent. Let wel op initiële
-toestand. Nulingangsresponsie:
-Zorg ervoor dat P w[0] = x[0], dan is ook P w[k] = x[k]
-voor k>0, en dus y[k]=
-Voorbeeld
-D
-D
-Voorbeeld (2)
-Kies
-zodat x[k] = P w[k]
-D
-D
-Toestandsbeschrijving en
-matrixdiagonalisatie
-Diagonaalvorm
-• Veronderstel dat A diagonaliseerbaar is
-• Kies P =1,[v... , nv] met iveigenvector van A met
-eigenwaarde
-• Voor SISO systeem:
-• Toestand i beinvloedt toestand
-≠i niet
-j
-Diagonaalvorm voor SISO systeem
-• Som van
-eerste-orde
-systemen
-• Plus directe
-verbinding
-met winst̅+
-Voorbeeld
-D
-D
-Minimaliteit
-Voor sommige systemen kan een
-/ * = 0. De toestandsveranderlijke
-wi[k] kan dan niet beïnvloed
-worden. Het systeem is niet
-controleerbaar.
-Voor sommige systemen kan een
-0̅* = 0. De toestandsveranderlijke
-wi[k] kan de uitvoer niet
-beïnvloeden. Het systeem is niet
-observeerbaar.
-Een systeem dat niet observeerbaar
-en/of niet controleerbaar is heet
-niet-minimaal. Hetzelfde ingangsuitgangsgedrag kan gerealiseerd
-worden met een kleiner aantal
-geheugenelementen.
-Inwendige (interne) stabiliteit
-• Een systeem is inwendig stabiel →
-als0 x[k]
-als k
-k
-w λnk vn
-• Inwendig instabiel zodra één
-• Inwendig stabiel
-Nulingangsresponsie
-Nulingangsresponsie
-Nultoestandsresponsie
-• Ak x[0] bestuderen
-A
-(c = rijvector; SISO system)
-Nulingangsresponsie
-k
-w λnk vn
-basis {v
-= P-1 x[k] is de coördinatenvector van x[k] in de
-k
-basis {v
-is een gewogen som van exponentiële functies in k
-Nulingangsresponsie
-Bijdragen tot nulingangsresponsie
-Attractor / aantrekker
-Inwendig stabiel
-Repeller / afstoter
-Inwendig onstabiel
-Saddle point / zadelpunt
-Inwendig onstabiel
-Complexe eigenwaarden
-ω is genormaliseerde frequentie. 0 < 7 < 1
-• Eigenvectoren
-i en
-i
-• Neem complex toegevoegde termen samen in
-E
-een reële rijvector;
-ccis
-E
-Re
-G
-Complexe eigenwaarden (2)
-G
-• Bijdrage door complexe eigenwaarde in y[k] is
-product van:
-k - zie
-o Exponentieel verloop
-r reële eigenwaarde
-o Golvend verloop (K
-cos
-Complexe eigenwaarden
-Inwendig stabiel
-Bijdrage tot nulingangsresponsie
-Canonieke vorm en
-differentievergelijking
-Canonieke vorm
-• Zoek transformatiematrix 1Q
-q] zodat door de
-n
-M
-gelijkvormigheidstransformatie:
-M
-R
-Mnoemen we een compagnon-matrix
-Men A hebben dezelfde K.P. want gelijkvormig
-• Constructie van Q – zie later
-Waarom die Ã O
-en
-Constructie van Q
-2de vergelijking:T
-T
-Constructie van Q
-U
-T
-PQ
-PQ
-Waarom die Ã O
-en
-w
-w
-w
-w
-w
-w
-w
-Waarom die Ã O
-en
-Dus:
-Uitgangsvergelijking:
-Herschrijf:
-w1[k] elimineren
-Differentievergelijking
-O
-O
-f
-• Rechtstreeks verband tussen u[k] en y[k]
-• Dit heet een differentievergelijking
-• Alternatief voor de toestandsbeschrijving
-• Is een verband tussen differentievergelijking en canonieke vorm
-• M.a.w.: gegeven een differentievergelijking
-f
-f
-f
-Dan komen daarmee toestandsbeschrijvingen overeen die allemaal dezelfde K.P.
-hebben:%! + PQ
-R
-• Ook: gegeven een toestandsbeschrijving (A, b, c, d), dan komt daarmee een
-differentievergelijking overeen waarbij
-dedeã coëfficiënten van de K.P.
-i ook
-van A zijn
-Voorbeeld
-X
-Y
-X
-Y
-Z
-PQ
-PQ
-Voorbeeld
-O
-Met Q =
-, canonieke vorm:
-D
-D
-Voorbeeld
-PQ
-D
-D
-de differentievergelijking gehaald uit de canonieke vorm
-Impulsresponsie en convolutie
-Impulsresponsie
-• Doel: berekenen van de responsie. We hadden al:
-Exhaustief
-• Nultoestandsimpulsrespons (impulsrespons) h[k] van
-een SISO DTLTI systeem is y[k] wanneer
-k
-k
-k
-Verschoven impuls
-k
-k
-k
-k
-Ontbinding u[k]
-Lineair en tijdsinvariant
-Convolutie
-• Formeel
-d
-efd
-d
-b
-Lineair
-Tijdsinvariant
-• Voor een systeem dat uit de nultoestand vertrekt !
-• y[k] is de convolutie van u[k] en h[k]
-• Uitvoer is convolutie van invoer en impulsresponsie
-Convolutie
-Neutraal element: a[k]
-Lineair:
-• Enkelzijdige signalen a[k] = b[k] = 0 voor k<0 :
-d
-E
-=aPb
-efd
-efR
-• Causaal systeem: h[k] = 0 voor k<0
-Geen respons vóór de excitatie
-Impulsresponsie
-Nulingangsresponsie
-Nultoestandsresponsie
-2 term blijft enkel index j=0 staan
-de term:
-cA
-b
-Voorbeeld
-d
-E
-E
-E
-E
-steorde
-Impulsresponsie van
-1 systeem
-b
-D
-c
-k
-op
-E
-cb
-c
-q
-E
-E
-E
-Vorm impulsresponsie
-cAvoor k > 0
-• Zelfde bespreking als nulingangsresponsie
-steorde systeem:λk-1
-cb, zie boven
-• Voor diagonaliseerbare A, som van:
-o Exponentiëel verloop
-λ complex)
-o Schommelend exponentiëel verloop
+Theorie & praktijk
+v/h grammaticaal
+onderzoek
+II. De constructiegrammatica
+(of dat was de bedoeling…)
+ Theorie & praktijk
+v/h grammaticaal
+onderzoek
+II. De commotie
+over de nieuwe
+ANS en de
+ Algemene Nederlandse
+Spraakkunst (ANS)
+20 april 2021: lancering van ANS3
+volledig vernieuwde digitale omgeving
+ eerste drie inhoudelijk volledig herziene
+hoofdstukken
+ periode 2021-2026: inhoudelijke herwerking
+resterende hoofdstukken
+ Tragische misverstanden
+Je zegt iets tegen een journalist, die vraagt naar
+groter dan vs. groter als, nl.
+er is een klein aantal symbolische kwesties waar
+iedereen voortdurend op gefixeerd is
+ in de ANS, een descriptieve grammatica, laten
+we zien dat ook in die gevallen de realiteit van
+het taalgebruik complexer is dan louter “goed” en
+ dat deden we trouwens in veel gevallen ook al in
+de ANS uit 1997 en zelfs in die van 1984
+ Tragische misverstanden
+Specifiek over dan en als zeggen we:
+de als-variant komt al eeuwenlang voor, met
+name in het wat informelere taalgebruik
+een gruwelijke grammaticale aberratie is groter
+als dus niet: die variant is niet minder “logisch” dan
+groter dan
+veel taalgebruikers zijn wel van oordeel dat in het
+verzorgde geschreven taalgebruik groter dan de
+“nettere” vorm is
+die beschrijving is nog identiek aan die uit 1997,
+want dat hoofdstuk is nog niet eens herzien!
+ Tragische misverstanden
+Wat wordt daarvan gemaakt?
+ De ANS heeft bij deze beslist een aantal
+grammaticale regels “af te schaffen”
+ groter als en groter dan zijn van nu af aan even
+goed
+ leraren mogen van nu af aan groter als niet meer
+fout rekenen!
+ Tragische misverstanden
+Beste meneer Colleman,
+Ik vernam zonet dat u achter de nieuwe taalwijziging
+staat. Ik behoor zelf tot de jeugd en kan u verzekeren
+dat de meerderheid tegen die nieuwe taalregels is. Oke,
+een klein deel van de Belgische bevolking dat de oude
+taalregels niet eens begreep is voorstander... Ik hoop ten
+zeerste dat dit herdacht word want dit is echt
+degoutant.
+“laat de
+lat maar zakken tot op de grond”
+“de Hollanders achternalopen ja”
+Met ‘groter als’ is de
+Nederlandse
+“een knieval voor de domheid”
+grammatica de
+doodsteek
+En dit mag voor u
+toegebracht
+dan ook allemaal
+“alles moet maar mogen, alles
+zeker: <willekeurige
+moet maar kunnen – proficiat!”
+reeks spelfouten>
+ Wat is een grammatica?
+Wat veel taalgebruikers denken:
+een verzameling voorschriften over wat we wel
+en niet “mogen zeggen”
+die voorschriften kunnen, zoals spellingregels,
+worden “gedecreteerd”: er is een commissie van
+(zogezegde) experts die de officiële
+grammaticaregels van het Nederlands vastlegt
+ “Spelling en grammatica”
+Worden vaak in één adem genoemd, maar zijn
+nogal verschillend
+Een officiële spelling is een systeem dat
+bedacht wordt aan de tekentafel en dat
+inderdaad van bovenaf wordt opgelegd
+Daardoor is er voor de grote meerderheid van
+de woorden van het Nederlands maar één
+correcte spelwijze:
+circus is goed
+sirkus is fout
+ “Spelling en grammatica”
+Grammatica ontstaat vanzelf:
+talen die niet worden opgeschreven, hebben óók
+een grammatica
+iemand die nooit heeft leren lezen of schrijven, kan
+even goed de grammaticale regels van het
+Nederlands toepassen
+de grammaticale “regels” worden bepaald door de
+taalgemeenschap, niet door een commissie
+een grammaticaal systeem bevat daardoor
+automatisch variatie: in veel gevallen zijn er
+meerdere grammaticale middelen beschikbaar
+ Opgelegde
+grammaticaregels
+in sommige gevallen van variatie zijn er wel
+bepaalde conventies ontstaan over welke variant
+de “beste” is in de verzorgde (schrijf)taal
+vaak toevallig:
+een prescriptieve grammatica (lees: een taaladviesboek)
+heeft op een bepaald moment een voorstel gedaan, en
+dat heeft aangeslagen
+net zo goed zijn er allerlei zulke voorstellen die niet door
+anderen zijn nagevolgd
+en er zijn ook adviezen die vroeger wel werden
+nagevolgd en nu niet meer, of in mindere mate
+ Een bekend voorbeeld
+Bv. objectsvormen hen voor het DO en hun voor
+het IO
+Christiaen Van Heule, 1625, De Nederduytsche
+Grammatica ofte Spraeckonst:
+introduceert dat onderscheid
+onderliggende gedachte: een taal met verschillende
+vormen voor datief en accusatief is “beter” dan een taal
+zonder
+omdat een aantal invloedrijke schrijvers dat onderscheid
+hebben opgepikt, is dat gaandeweg uitgegroeid tot een
+symbool voor “correct Nederlands”
+ Een bekend voorbeeld
+Echter, niemand past dat onderscheid altijd toe –
+en dat is ook nooit zo geweest
+Sommige taalgebruikers proberen dat wel zo goed
+mogelijk te doen in hun verzorgde schrijftaal:
+ voor neerlandici is het belangrijk zulke gevalletjes
+te kennen: deel van je stilistische taalbeheersing
+(cf. syllabus taalzorg)
+ iemand kapittelen omdat die zegt Ik geef hen een
+boek = schoolvosserij
+ Even aan jullie
+A. Ik heb het boek aan hun gegeven.
+B. Ik heb het boek aan hen gegeven.
+A. Het is hun ter ore gekomen.
+B. Het is hen ter ore gekomen.
+A. Ze nam hun bij de neus.
+B. Ze nam hen bij de neus.
+A. De minister diende hun van repliek.
+B. De minister diende hen van repliek.
+A. Het geluk lachte hun toe.
+B. Het geluk lachte hen toe.
+A. Het lot was hun goed gezind.
+B. Het lot was hen goed gezind.
+ “Taalfouten”
+Wat zijn nu echte grammaticale fouten?
+Bv. * Ik heb die oefening niet opgelost gekund.
+* Biertjes heb ik drie gedronken.
+* Een auto aan een marktkramer verkocht
+heeft hij gisteren.
+* Ik interesseer dat niet.
+= zinnen waarin wordt gezondigd tegen een of meer
+grammaticale regelmatigheden van het Nederlands
+ “Taalfouten”
+Vergelijk met:
+Ze is een nog veel fanatiekere supporter van
+RSC Anderlecht als haar broer.
+Hij gelooft echt dat iedereen denkt zoals hem.
+Dat is het meisje waarmee ze ruzie heeft.
+Dit zijn geen “fouten tegen het Nederlands”: wel
+kun je zeggen dat het vormen zijn die stilistisch
+minder goed passen in een verzorgde tekst (met
+gradatieverschillen)
+ Een (overdreven) voorbeeld
+ter vergelijking
+Een middelbare scholier schrijft in een
+boekbespreking voor school:
+“Dat hele kutboek interesseerde me geen fluit.
+Ik weet niet wat die schrijver gesnoven heeft,
+maar dat verhaaltje is compleet van de pot
+gerukt. Dat er wel goede recensies
+van geschreven
+zijn, dat zal me verder aan
+mijn reet roesten!”
+Zijn dit fouten tegen het Nederlands?
+Heeft de scholier woordenschat gebruikt die in
+deze context niet past?
+ Een (overdreven) voorbeeld
+ter vergelijking
+Iedereen begrijpt: de woordenschat van het
+Nederlands bestaat zowel uit woorden die je in
+allerlei contexten kan gebruiken als woorden die je
+in sommige contexten beter niet gebruikt
+Ook andersom: ‘Schat, ik ga even naar de
+geneesheer’
+Dat je ook in de grammatica vaak verschillende
+vormen hebt, met verschillende gebruikswaarden,
+maar geen van alle “fout” = voor veel mensen
+moeilijker
+ Taalverandering =
+taalverloedering
+In de woordenschat kan de gebruiks- of
+gevoelswaarde van een woord veranderen
+bv. Het hoofd van de commentator bleef zo lang vaag dat het
+wel leek op een vraaggesprek met een homofiel. (Jan Wolkers,
+Horrible Tango, 1967)
+Ze hadden alle drie de handen uit de mouwen gestoken
+om de hut weer op orde te brengen en het twaalfuurtje
+aan
+te rechten.(Johan Daisne, De trap van steen
+Dat kan ook in de grammatica: normen verschuiven –
+het kan bv. dat een constructie die vroeger “informeel”
+was, nu door veel gebruikers ook in de verzorgde taal
+wordt gebruikt
+ Taalverandering =
+taalverloedering
+In deze tijden van informalisering, gaat dat proces
+wellicht wat sneller dan vroeger:
+veel meer dan vroeger zijn er allerlei genres waarin heel
+informeel wordt geschreven
+op radio en tv wordt er ook veel meer dan vroeger
+redelijk informeel gebabbeld
+de omgangsvormen zijn ook op allerlei andere gebieden
+informeler geworden
+Sommige taalgebruikers hebben de indruk dat de
+taal tegen een snel tempo “verloedert”
+ Taalverandering =
+taalverloedering
+Commentaren: “ja ja, als een fout maar voldoende
+vaak gemaakt wordt, dan laten jullie het toe.”
+Achterliggende veronderstellingen:
+taalverandering is per definitie achteruitgang
+zoals ik het vroeger zelf op school heb geleerd, zo moet
+het
+wie het anders zegt dan ik, is een dommerik die de regel
+gewoon niet snapt
+de jeugd springt veel te slordig met de taal om
+ Tussen haakjes
+Een ander soort “taalfout”: vormen die beperkt
+zijn tot de substandaard (dialect, regiolect,
+tussentaal, enz.)
+dus 't stad gaat geen eigen IT-mensen niet meer
+hebben (CGN) (ANS-label: “in BN, informeel: -ST”)
+Ook dat kun je geen “fouten tegen het Nederlands”
+noemen – het zijn vormen die weinig of niet
+voorkomen in het standaardtalige taalgebruik, ze
+behoren niet tot het Standaardnederlands
+Meer over geografische variatie in het college van
+volgende week
+ Opgelegde taalregels
+Sommige prescriptieve adviezen van vroeger zijn
+intussen helemaal uit de aandacht
+Voorbeeld 1: dat hij dat gezegd heeft vs. dat hij dat
+heeft gezegd:
+tot in de jaren 1970 in sommige
+taaladviesboeken: in de verzorgde schrijftaal past
+enkel de tweede volgorde!
+ dat advies staat niet meer in de handboeken
+ Opgelegde taalregels
+Voorbeeld 2: om
+vroeger taaladvies: om kan alleen om een doel uit te
+drukken
+Ik ga naar de markt om bloemen te kopen. = GOED
+Ik besloot om me te laten vaccineren. = FOUT
+Nog niet zo heel lang geleden was Ik besloot om
+me te laten vaccineren voor sommigen dus ook een
+gruwelijke taalfout
+Geen mens zou daar vandaag nog over vallen
+ “Taalfoutenfetisjisme”
+term van Rik Vosters in DM (24/04/2021)
+Zeker in Vlaanderen wordt het debat over taal nog
+altijd heel erg gereduceerd tot “goed” en “fout” –
+vanuit een grote taalonzekerheid
+Heeft voor een stuk te maken met de manier
+waarop veel Vlamingen Standaardnederlands
+hebben geleerd
+Taalvaardigheid is ook variatiegevoeligheid!

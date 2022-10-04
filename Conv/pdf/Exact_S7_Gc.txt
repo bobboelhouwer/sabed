@@ -33,6 +33,9 @@ Hoe L snel construeren ?
 spil, creëren nullen in L op dezelfde plaats
 • Dus kolom van L = kolom van de tussenstap in de
 berekening van de EV, gedeeld door spil
+a
+b
+c
 • Product van Ek-1 Ek+1-1 bouwt L, kolom na kolom
 Samengevat
 • L is kolom na kolom, de verhouding van de

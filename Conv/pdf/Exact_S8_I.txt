@@ -20,10 +20,10 @@ vergelijking met verbindingen met gelijkaardige massa
 C6H5CH3
 C6H5OH
 C6H5F
-Molecuulmassa
 Smelpunt (°C)
 Kookpunt (°C,1 atm)
 Oplosbaarheid in
+Molecuulmassa
 Fenolen en anilinen
  • vroeger als antisepticum gebruikt
 • fenolcoëfficiënt (effectiviteit tegen Staphylococcus aureus

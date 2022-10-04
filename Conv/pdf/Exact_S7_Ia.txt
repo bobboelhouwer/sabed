@@ -17,7 +17,8 @@ Span{u, v, w} = Nul A
 • Aantal vrije variabelen x3 x4 x6 is aantal niet-pivotkolommen
 • Dim (Nul A) = aantal niet-pivotkolommen
 Kolomruimte
-• Is deelruimte van m
+mn matrix A
+Is deelruimte van m
 Kolomruimte
 Col A is heel m
 Basis voor Col A
@@ -35,6 +36,10 @@ de overeenstemmende kolommen van A
 • PK van A zijn l.o. + voortbrengend voor Col A  PK van
 A vormen een basis voor Col A
 Dimensiestelling
+m  n matrix A
+#PK + #NPK = #kolommen = n
+dim(Col A) + dim(Nul A) = n
+Rank A + dim(Nul A) = n
 Row A
 • Row A = Span{rijen van A} = Col AT
 ER op A uitvoeren is l.c. van rijen maken

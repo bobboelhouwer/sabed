@@ -102,12 +102,12 @@ A
 diameter (Å)
 suikerconformatie
 Rise
+Twist
+Nucleotiden en nucleïnezuren
 B
 Z
-Twist
 Inclination
 Propeller
-Nucleotiden en nucleïnezuren
  (illustratie)
 suikerconformatie en invloed op P…P-afstand
 Nucleotiden en nucleïnezuren

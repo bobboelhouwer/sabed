@@ -65,18 +65,18 @@ AV
 woordvolgordeprincipe (1): het oud-nieuwprincipe
 VV
 Ik
-heb
-heb
-MV1
-MV2
-gisteren
-een boek
 VV
 Ik
 *Ik
 heb
 heb
+heb
+heb
 MV1
+MV1
+MV2
+gisteren
+een boek
 MV2
 gisteren
 gisteren

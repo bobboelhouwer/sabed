@@ -1,284 +1,232 @@
-Aanvullingen
-Responsie op
-ingangssignalen en begintoestand
-Responsie berekenen
-• Gegeven toestandsbeschrijving (A, B, C, D) ,
-• Toestandsbeschrijving
-• Exhaustieve berekening van x[k] en y[k]
-Voorbeeld
-Gegeven
-“Oplossen” toestandsvergelijking
-• Gegeven toestandsbeschrijving, u[k] en x[0], wat zijn x[k] en y[k] ?
-• Toestandsbeschrijving
-A
-Algemeen:
-• Uitgangssignaal
-Nulingangs- en nultoestandsrespons
-Nulingangsresponsie
-Nultoestandsresponsie
-• Nulingangsresponsie: y[k] als u[k]
-• Nultoestandsresponsie: y[k] als x[0] = 0
-Toestandsbeschrijving en
-gelijkvormige matrices
-Toestandsbeschrijving is niet uniek
-, np] een nxn inverteerbare matrix
-– Is verandering van coördinaten: w[k] zijn de coordinaten van x[k] in de
-basis {p
-Toestandsbeschrijving is niet uniek
-• In de nieuwe toestandsvector w[k] hebben we een
-equivalente toestandsbeschrijving:
-A en zijn gelijkvormig
-• Beide systemen zijn equivalent. Let wel op initiële
-toestand. Nulingangsresponsie:
-Zorg ervoor dat P w[0] = x[0], dan is ook P w[k] = x[k]
-voor k>0, en dus y[k]=
-Voorbeeld
-D
-D
-Voorbeeld (2)
-Kies
-zodat x[k] = P w[k]
-D
-D
-Toestandsbeschrijving en
-matrixdiagonalisatie
-Diagonaalvorm
-• Veronderstel dat A diagonaliseerbaar is
-• Kies P =1,[v... , nv] met iveigenvector van A met
-eigenwaarde
-• Voor SISO systeem:
-• Toestand i beinvloedt toestand
-≠i niet
-j
-Diagonaalvorm voor SISO systeem
-• Som van
-eerste-orde
-systemen
-• Plus directe
-verbinding
-met winst̅+
-Voorbeeld
-D
-D
-Minimaliteit
-Voor sommige systemen kan een
-/ * = 0. De toestandsveranderlijke
-wi[k] kan dan niet beïnvloed
-worden. Het systeem is niet
-controleerbaar.
-Voor sommige systemen kan een
-0̅* = 0. De toestandsveranderlijke
-wi[k] kan de uitvoer niet
-beïnvloeden. Het systeem is niet
-observeerbaar.
-Een systeem dat niet observeerbaar
-en/of niet controleerbaar is heet
-niet-minimaal. Hetzelfde ingangsuitgangsgedrag kan gerealiseerd
-worden met een kleiner aantal
-geheugenelementen.
-Inwendige (interne) stabiliteit
-• Een systeem is inwendig stabiel →
-als0 x[k]
-als k
-k
-w λnk vn
-• Inwendig instabiel zodra één
-• Inwendig stabiel
-Nulingangsresponsie
-Nulingangsresponsie
-Nultoestandsresponsie
-• Ak x[0] bestuderen
-A
-(c = rijvector; SISO system)
-Nulingangsresponsie
-k
-w λnk vn
-basis {v
-= P-1 x[k] is de coördinatenvector van x[k] in de
-k
-basis {v
-is een gewogen som van exponentiële functies in k
-Nulingangsresponsie
-Bijdragen tot nulingangsresponsie
-Attractor / aantrekker
-Inwendig stabiel
-Repeller / afstoter
-Inwendig onstabiel
-Saddle point / zadelpunt
-Inwendig onstabiel
-Complexe eigenwaarden
-ω is genormaliseerde frequentie. 0 < 7 < 1
-• Eigenvectoren
-i en
-i
-• Neem complex toegevoegde termen samen in
-E
-een reële rijvector;
-ccis
-E
-Re
-G
-Complexe eigenwaarden (2)
-G
-• Bijdrage door complexe eigenwaarde in y[k] is
-product van:
-k - zie
-o Exponentieel verloop
-r reële eigenwaarde
-o Golvend verloop (K
-cos
-Complexe eigenwaarden
-Inwendig stabiel
-Bijdrage tot nulingangsresponsie
-Canonieke vorm en
-differentievergelijking
-Canonieke vorm
-• Zoek transformatiematrix 1Q
-q] zodat door de
-n
-M
-gelijkvormigheidstransformatie:
-M
-R
-Mnoemen we een compagnon-matrix
-Men A hebben dezelfde K.P. want gelijkvormig
-• Constructie van Q – zie later
-Waarom die Ã O
-en
-Constructie van Q
-2de vergelijking:T
-T
-Constructie van Q
-U
-T
-PQ
-PQ
-Waarom die Ã O
-en
-w
-w
-w
-w
-w
-w
-w
-Waarom die Ã O
-en
-Dus:
-Uitgangsvergelijking:
-Herschrijf:
-w1[k] elimineren
-Differentievergelijking
-O
-O
-f
-• Rechtstreeks verband tussen u[k] en y[k]
-• Dit heet een differentievergelijking
-• Alternatief voor de toestandsbeschrijving
-• Is een verband tussen differentievergelijking en canonieke vorm
-• M.a.w.: gegeven een differentievergelijking
-f
-f
-f
-Dan komen daarmee toestandsbeschrijvingen overeen die allemaal dezelfde K.P.
-hebben:%! + PQ
-R
-• Ook: gegeven een toestandsbeschrijving (A, b, c, d), dan komt daarmee een
-differentievergelijking overeen waarbij
-dedeã coëfficiënten van de K.P.
-i ook
-van A zijn
-Voorbeeld
-X
-Y
-X
-Y
-Z
-PQ
-PQ
-Voorbeeld
-O
-Met Q =
-, canonieke vorm:
-D
-D
-Voorbeeld
-PQ
-D
-D
-de differentievergelijking gehaald uit de canonieke vorm
-Impulsresponsie en convolutie
-Impulsresponsie
-• Doel: berekenen van de responsie. We hadden al:
-Exhaustief
-• Nultoestandsimpulsrespons (impulsrespons) h[k] van
-een SISO DTLTI systeem is y[k] wanneer
-k
-k
-k
-Verschoven impuls
-k
-k
-k
-k
-Ontbinding u[k]
-Lineair en tijdsinvariant
-Convolutie
-• Formeel
-d
-efd
-d
-b
-Lineair
-Tijdsinvariant
-• Voor een systeem dat uit de nultoestand vertrekt !
-• y[k] is de convolutie van u[k] en h[k]
-• Uitvoer is convolutie van invoer en impulsresponsie
-Convolutie
-Neutraal element: a[k]
-Lineair:
-• Enkelzijdige signalen a[k] = b[k] = 0 voor k<0 :
-d
-E
-=aPb
-efd
-efR
-• Causaal systeem: h[k] = 0 voor k<0
-Geen respons vóór de excitatie
-Impulsresponsie
-Nulingangsresponsie
-Nultoestandsresponsie
-2 term blijft enkel index j=0 staan
-de term:
-cA
-b
-Voorbeeld
-d
-E
-E
-E
-E
-steorde
-Impulsresponsie van
-1 systeem
-b
-D
-c
-k
-op
-E
-cb
-c
-q
-E
-E
-E
-Vorm impulsresponsie
-cAvoor k > 0
-• Zelfde bespreking als nulingangsresponsie
-steorde systeem:λk-1
-cb, zie boven
-• Voor diagonaliseerbare A, som van:
-o Exponentiëel verloop
-λ complex)
-o Schommelend exponentiëel verloop
+VERSTANDELIJKE BEPERKING
+ Alfred Binet
+Franse psycholoog
+In 1905 stelde hij een eerste test voor intelligentie op
+Om lagere schoolkinderen met achterstand en
+leerproblemen op te sporen
+ William Stern
+Duitse psycholoog
+In 1912 ontwikkelde hij het idee van een intelligentie-quotiënt:
+mentale leeftijd
+chronologische leeftijd
+ Distributie van IQ in de bevolking
+Personen met
+leerproblemen
+Fs
+ Definitie van verstandelijke beperking (DSM IV)
+2. Geassocieerd aan gedrags en/of aanpassingsproblemen
+in minstens 2 domeinen van het dagelijkse leven (communicatie,
+sociale vaardigheden, zelfredzaamheid, in staat onafhankelijk
+te leven, beslissingen maken, werk, ontspanning, gezondheid
+en veiligheid)
+3. Aanwezig < 18 jaar (tot DSM IV)
+*Kinderen jonger dan 2.5 jaar: ontwikkelingsachterstand ipv verstandelijke handicap
+ Indeling van verstandelijke handicap
+terminology
+terminology
+IQ niveau
+DSM-IV criteria
+Borderline
+Borderline
+Feeble minded
+Mild
+Low degree imbecile
+Matig
+High degree imbecile
+Ernstig
+Idiot
+Diep
+ DSM V
+Volgens de DSM­V begint een verstandelijke beperking gedurende de ontwikkelingsperiode, met beperkingen
+in zowel het verstandelijk als het adaptieve functioneren, in de conceptuele, sociale en praktische domeinen.
+In DSM ­V wordt aangehouden dat mensen met een verstandelijke beperking ongeveer twee standaardafwijkingen
+onder het populatiegemiddelde scoren, rekening houdend met een meetfoutenmarge (meestal +5
+punten). Uitgaande van de statistische kenmerken van alle gangbare intelligentietests betekent dit dat een
+IQ ≤ 70 ± 5 een belangrijke maar op zich onvoldoende voorwaarde is om een verstandelijke beperking te
+mogen classificeren.
+Bij een verstandelijke beperking dienen volgens de DSM­V beperkingen te bestaan in zowel het verstandelijk
+als het adaptieve functioneren, in de volgende domeinen:
+• Het conceptuele (onderwijs)domein betref onder andere competenties op het gebied van het geheugen,
+taal, lezen, schrijven, rekenkundig redeneren, het verwerven van praktische kennis, probleem oplossen
+en het beoordelen van nieuwe situaties.
+• Het sociale domein betref onder andere het besef van de gedachten, gevoelens en ervaringen van
+anderen (empathie), interpersoonlijke communicatieve vaardigheden, het vermogen om vriendschap te
+sluiten en het sociale oordeelsvermogen.
+• Het praktische domein omvat het leervermogen en zelfmanagement in verschillende levenssituaties,
+waaronder zelfverzorging, de verantwoordelijkheden van een baan, geldbeheer, vrijetijdsbesteding,
+zelfmanagement van gedrag, en het plannen van taken op school en het werk.
+ Meten van IQ
+De belangrijkste voorwaarden voor een goede test zijn:
+een hoge betrouwbaarheid en voldoende gevalideerd
+reproductief en gestandaardiseerd (internationaal)
+toepasbaar voor mensen met een verstandelijke handicap: normen niet alleen
+berekend uitgaande van personen met een normale intelligentie maar ook
+minder begaafde personen
+praktisch hanteerbaar: korte afneemduur, duidelijk omschreven,
+leuk materiaal en opdrachtjes, makkelijk te scoren
+Nederlandstalige versie
+ Meten van IQ
+De tests kunnen verder ingedeeld worden op basis van het te onderzoeken domein:
+Cognitie, ontwikkeling (speciaal voor jonge kinderen)
+Specifieke domeinen, vaardigheden: zoals receptieve/expressieve taal,
+sociale vaardigheden, geheugen, concentratie etc..
+Persoonlijkheid- en gedragskenmerken
+Belangrijke aspecten voor het afnemen van testen bij minderbegaafden zijn:
+De plaats van het onderzoek (thuis, school, speciaal ingerichte ruimte)
+Tijdstip van het onderzoek wordt best aangepast aan het ritme van het kind
+Ervaring van de onderzoeker
+Duur en hoeveelheid van de opdrachtjes (soms kunnen testen gefractioneerd worden)
+ Meten van IQ
+ Meten van IQ
+Bayley Ontwikkelingsschalen
+Doelgroep: Kinderen in de leeftijd van 1 tot 42 maanden
+Doelgroep binnen de groep van verstandelijk gehandicapten:
+jonge kinderen functionerend op alle niveaus van MR;
+diep en ernstige MR tot omstreeks 10 jaar burgerlijke leeftijd
+Domein: mentaal en motorisch ontwikkelingsniveau
+Is in ons taalgebied de enige goed onderbouwde en genormeerde
+test voor zeer jonge kinderen
+ Wechsler Testen
+WPPSI-R
+Wechsler Preschool and Primary Scale of Intelligence-Revised
+Doelgroep: Kinderen van 4 jaar tot 7 jaar ½
+Doelgroep binnen de groep van verstandelijk gehandicapten:
+dezelfde leeftijdsgroep als hierboven.
+Voor wie deze test te moeilijk is dient te worden overgeschakeld
+naar de Bayley.
+Minimum verstandelijke leeftijd van 3 jaar nodig.
+Deze test meet de algemene intelligentie.
+ WISC-R
+Wechsler Intelligence Scale for children-Revised
+Doelgroep: Kinderen van 6 jaar tot +/- 16 jaar
+Doelgroep binnen de groep van verstandelijk gehandicapten: dezelfde
+leeftijdsgroep als hierboven. Voor wie deze test te moeilijk is dient te
+worden overgeschakeld naar de WPPSI-R. Deze test meet de
+algemene intelligentie.
+ WAIS-IV
+Wechsler Adult Intelligence Scale – Third edition
+Doelgroep: 16 jaar tot +/- 85 jaar
+Doelgroep binnen de groep van verstandelijk gehandicapten: dezelfde
+leeftijdsgroep als hierboven met een niveau van functioneren: licht tot
+matige MR. Voor wie deze test te moeilijk is dient te worden
+overgeschakeld naar de WISC-R. Deze test meet de algemene
+intelligentie.
+Belangrijk te vermelden is ouderen steeds lager scoren dan jongeren
+met dezelfde intelligentie, door de aard van de items die behandeld
+worden in de test.
+ Prevalentie en geslachtsverdeling
++/- 2 tot 3% in de Westerse bevolking.
+85% heeft een milde cognitieve beperking
+10% matige cognitieve beperking
+3 à 4% ernstig cognitieve beperking
+1 à 2% diepe cognitieve beperking (volgens de DSM-V criteria)
+Binnen de populatie van verstandelijk gehandicapten zijn er meer
+jongens dan meisjes aangetast.
+Men schat dat er ongeveer 20 tot 30% meer jongens met een beperking
+zijn dan meisjes. Dit geslachtsverschil wordt toegeschreven aan
+geslachtsgebonden factoren zoals chromosoom X-gebonden beperking.
+ Etiologie van verstandelijke handicap
+omgevingsfactoren
+genetische factoren
+ Etiologie van verstandelijke handicap
+Niet-genetische biologische oorzaken van verstandelijke
+handicap
+Prenataal
+Infecties: rubella, toxoplasmosis, CMV, HIV
+Rhesus incompatibiliteit
+Drugs en overmatig alcohol
+Bestraling
+Perinataal
+Prematuriteit
+Zuurstof tekort
+Hersenbloeding
+Infectie: HIV, herpes
+Kernicterus
+Postnataal
+Infecties: meningitis, encephalitis
+Hersenbeschadiging door trauma, tumor, bloeding, thrombose
+Intoxicatie: lood, kwik
+Zuurstoftekort: hartstilstand
+Epilepsie
+Zeer ernstige ondervoeding
+Hormonaal: hypothyroidie
+ Etiologie van verstandelijke handicap
+Genetische oorzaken van verstandelijke handicap
+Chromosomaal
+Trisomie 21
+Meer zeldzaam: andere trisomies, partiële monosomies, deleties,
+translokaties en duplicaties
+Monogeen
+X-gebonden beperking, autosomaal dominant en recessief
+Multifactorieel
+ Voorbeeld van diagnostische studie in een school
+voor buitengewoon onderwijs
+DE KINDERVRIEND (ROLLEGEM)
+• BO type 1 en type 2, lager en kleuter
+• Externaat, semi-internaat en internaat
+• Ongeveer 160 kinderen in de school/jaar
+ 1. VOORBEREIDING
+- persoonlijke uitnodiging door sociaal assistent (Kindervriend)
+- vragenlijst ingevuld door ouders (+/- soc assistent Kindervriend)
+ administratieve gegevens
+ familiale geschiedenis
+ persoonlijke voorgeschiedenis van het kind
+2. ONDERZOEK
+- klinisch onderzoek
+- routine bloedonderzoek :
+- chromosomenonderzoek (array CGH)
+- DNA voor fragiele-X syndroom
+- Specifiek DNA onderzoek
+- eventueel aanvullende onderzoekingen :
+(genetisch, RX, hormonen, resultaten van vroeger onderzoek …)
+3. BESPREKING MET DE OUDERS
+- resultaten
+- aanvullende gegevens
+ 244 kinderen uit 196 families
+196 index personen
+48 siblings
+ INTELLIGENTIE VOLGENS HET GESLACHT
+196 INDEX KINDEREN :
+normaal borderline
+licht
+matig
+IQ
+ernstig
+Normaal
+IQ
+borderline
+ernst
+licht
+N° kinderen met dit IQ
+matig
+% etiologische diagnose
+normaal
+ernstig
+borderline
+licht
+XXY/XYY
+matig
+Down S
+Fragiele-X S
+Turner S
+Angelman
+S
+NF1
+Fam beperking
+ouders -
+kinderen
+Prader Willi S
+Velocardiofaciaal S
+ andere ontwikkelingsstoornissen
+IQ
+• borderline intelligentie
+• specifieke leerstoornissen
+(dyslexie, dyscalculie, …)
+meestal
+polygeen/multifactorieel
+ Onderscheid
+Niet-specifieke verstandelijke beperking: niet-syndromaal
+Syndromale verstandelijke beperking:
+verstandelijke beperking gaat gepaard met neurologische, metabole
+en/of dysmorfe kenmerken
+   Fragiele X syndroom

@@ -210,7 +210,7 @@ teken, m.a.w. meer negatief dan de negatieve waarde van de celpotentiaal.
 Zn
 Cu
 KATHODE
-+ ANODE
+ANODE
 Cu
 Zn
 elektrolytbrug
@@ -578,9 +578,9 @@ G
 E
 RT ln Q
 K
+K
 spontane reactie
 geen
-K
 evenwichtsligging
 naar rechts
 naar links
@@ -646,8 +646,7 @@ aflopend naar rechts mogen beschouwen. We gaan dus op zoek naar het beperkende r
 door toevoegen van 40 ml aan 200 ml een totaal volume van 240 ml en we houden
 rekening met een verdunningsfactor.
  Algemene Scheikunde : Hfst. IX Evenwichten voor Oxidantia en Reductantia
-MnO4-
-start
+MnO4start
 einde
 weg
 Enkel van het redoxsysteem Fe(III)/Fe(II) blijven nog oxidans en reductans over en
@@ -665,8 +664,7 @@ log
 Deel 4: Doordat in deze situatie de E in de omgeving blijft van E° van het systeem
 Fe(III)/Fe(II) (E = 0,77 is zelfs perfect gelijk aan E°) weten we dat Fe(II) samen met
 Fe(III) zal overblijven en dat MnO4- opnieuw beperkend is.
-MnO4-
-start
+MnO4start
 einde
 weg
 gegeven
@@ -793,8 +791,10 @@ PbSO4(v)
 Bij galvanische werking van de batterij wordt H2SO4 verbruikt.
 De celpotentiaal wordt bepaald door
 e
+SO4
 PbO2
 E cel
+log H +
 Dit type batterij kan worden heropgeladen door het aanleggen
 van een tegenspanning groter dan en tegengesteld aan de
 eigen celpotentiaal. De reacties worden dan verplicht in de
@@ -816,9 +816,10 @@ bij lage temperatuur onder katalytische omstandigheden beheerst doorgaan in een
 brandstofcel waarbij de chemische energie wordt vrijgemaakt onder de vorm van
 elektrische arbeid.
 De werking van dergelijke brandstofcel is hieronder schematisch voorgesteld.
+ee+
 H2O
 OH-
-H2O
+eeH2O
 K+ OHH2O
 OH-
 H2O
@@ -844,7 +845,14 @@ toestand gebracht en vervolgens eletrolytisch ontbonden.
 In spontane richting zal Cl2 elektronen opnemen en Na elektronen afstaan.
 Na+
 Na(v)
+Cl2
 Na-metaal
+Na-metaal
+Na Cl
+Cl
+Na
+grafietelektrode
+ijzerelektrode
 De cel die zich opbouwt door
 combinatie van deze twee
 halfreacties heeft een Ecel =
@@ -853,13 +861,6 @@ potentiaalverschil
 kleiner is dan – 4,07 V kunnen we de reacties dwingen
 in niet spontane zin te verlopen waarbij elektrolyse optreedt en Na-metaal en Cl2
 worden gevormd.
-Cl2
-Na-metaal
-Na Cl
-Cl
-Na
-grafietelektrode
-ijzerelektrode
 6.4.2 Elektrolyse vanuit waterige oplossing
 Wanneer we NaCl oplossen in H2O en deze oplossing onderwerpen aan elektrolyse,
 moet rekening gehouden worden met de reductie van water aan de kathode en de

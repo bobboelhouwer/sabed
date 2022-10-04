@@ -9,14 +9,15 @@ Voorbeeld in V = 2
 Twee coördinatentransformaties:
 Algemene vectorruimte V
 x
-• Vb: V = verzameling van veeltermen graad 2 of lager
+Vb: V = verzameling van veeltermen graad 2 of lager
 Verband tussen
+en
 a
 P
 = [b1]C [b2]C … [bn]C inverteerbaar.
+n B
 Analoog:
 P
-n B
 p
 p
 [bj]C

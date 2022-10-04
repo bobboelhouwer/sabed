@@ -49,8 +49,8 @@ D(extro), L(evo)
 hoogst genummerde
 chirale koolstofatoom
  D-aldosen
+stereoisomeren
 spiegelbeelden geven L-aldosen
-2n-2 stereoisomeren
 n
 Koolhydraten
  spiegelbeelden geven L-2-ketosen
@@ -66,21 +66,21 @@ L-arabinose en L-galactose
 • epimeren: diastereomeren die slechts aan één koolstofatoom verschillen in configuratie
 D-glucose
 D-mannose
+CHO
+CHO
+H
+HO
 D-galactose
 CHO
-CHO
-CHO
-H
 OH
 HO
 H
 H
-OH
-HO
 H
 HO
 H
 HO
+H
 H
 H
 OH
@@ -88,16 +88,16 @@ H
 OH
 HO
 H
-H
 OH
 H
 OH
 H
-OH
 CH2OH
 C2-epimeren
 Koolhydraten
 CH2OH
+OH
+OH
 CH2OH
 C4-epimeren
  Desoxy- en aminosuikers

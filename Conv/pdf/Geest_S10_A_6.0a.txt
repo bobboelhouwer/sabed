@@ -28,10 +28,10 @@ Jan heeft Piet gezien en Carla heeft mij geroepen.
  Nevenschikking: Basistypes
 Jan denkt dat Piet zingt en dat Marie danst.
  Nevenschikking: Basistypes
+VV
 Ze zijn al vertrokken, dus wij zullen ook vertrekken.
 Ze zijn al vertrokken, dus zullen wij ook vertrekken.
 Ze zijn al vertrokken, wij zullen dus ook vertrekken.
-VV
 MV
 AV
 VV

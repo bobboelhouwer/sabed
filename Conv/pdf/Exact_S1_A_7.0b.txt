@@ -40,9 +40,11 @@ oplossing:
 Oefening 11
 Bereken (H+) in een cel, waarbij:
 Reactie:
-Mg
-en
 oplossing: H +
+(opl)
+Mg
+(opl)
+en
 Oefening 12
 Bereken de pH van de oplossing in volgende cel:
 Oplossing: pH = 3,5
@@ -69,8 +71,8 @@ de concentratie van AgNO3 = 0,1 mol.l-1 en = 0,75
 Oplossing: E = 1,069 V (de Ag+ / Ag-elektrode is positief)
 Oefening 17
 In welke richting gaat de volgende reactie spontaan door?
-(Ce ) = (Ce ) = (NO ) = s tan daardconcentraties
 (reactie vervolledigen)
+= s tan daardconcentraties
 Bereken G en G° voor deze reactie.
 Oplossing:
 • naar links
@@ -90,7 +92,6 @@ Ag(v)
 Links:
 Ag+(opl)
 Rechts:
-cel
 Hoe groot moet de pH van de rechtse halfcel worden om, voor dezelfde concentraties
 aan Ag+ en Pb2+, een Ecel van 0,66 V te bekomen?
 Oplossing:
@@ -113,8 +114,7 @@ zijn opdat de cel in evenwicht zou zijn?
 Vervang de rechtse halfcel door Pt2+ / Pt. Hoe groot moet Pt 2 +
 stroom door die cel zou vloeien?
 Oplossing:
-] zijn opdat geen
-M
+zijn opdat geen
 Oefening 23
 Een oplossing bevat Fe2+ (0,05 M) bij een pH van 1. Aan 100 ml van die oplossing wordt 50
 ml KMnO4 (0,01 M) toegevoegd.
@@ -127,6 +127,7 @@ Links:
 Rechts:
 Reacties vervolledigen!
 Gegeven: links:
+rechts:
 Gevraagd: H
 Oplossing:
 links

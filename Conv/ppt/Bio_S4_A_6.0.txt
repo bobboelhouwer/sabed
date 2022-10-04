@@ -1,284 +1,357 @@
-Aanvullingen
-Responsie op
-ingangssignalen en begintoestand
-Responsie berekenen
-• Gegeven toestandsbeschrijving (A, B, C, D) ,
-• Toestandsbeschrijving
-• Exhaustieve berekening van x[k] en y[k]
-Voorbeeld
-Gegeven
-“Oplossen” toestandsvergelijking
-• Gegeven toestandsbeschrijving, u[k] en x[0], wat zijn x[k] en y[k] ?
-• Toestandsbeschrijving
-A
-Algemeen:
-• Uitgangssignaal
-Nulingangs- en nultoestandsrespons
-Nulingangsresponsie
-Nultoestandsresponsie
-• Nulingangsresponsie: y[k] als u[k]
-• Nultoestandsresponsie: y[k] als x[0] = 0
-Toestandsbeschrijving en
-gelijkvormige matrices
-Toestandsbeschrijving is niet uniek
-, np] een nxn inverteerbare matrix
-– Is verandering van coördinaten: w[k] zijn de coordinaten van x[k] in de
-basis {p
-Toestandsbeschrijving is niet uniek
-• In de nieuwe toestandsvector w[k] hebben we een
-equivalente toestandsbeschrijving:
-A en zijn gelijkvormig
-• Beide systemen zijn equivalent. Let wel op initiële
-toestand. Nulingangsresponsie:
-Zorg ervoor dat P w[0] = x[0], dan is ook P w[k] = x[k]
-voor k>0, en dus y[k]=
-Voorbeeld
-D
-D
-Voorbeeld (2)
-Kies
-zodat x[k] = P w[k]
-D
-D
-Toestandsbeschrijving en
-matrixdiagonalisatie
-Diagonaalvorm
-• Veronderstel dat A diagonaliseerbaar is
-• Kies P =1,[v... , nv] met iveigenvector van A met
-eigenwaarde
-• Voor SISO systeem:
-• Toestand i beinvloedt toestand
-≠i niet
-j
-Diagonaalvorm voor SISO systeem
-• Som van
-eerste-orde
-systemen
-• Plus directe
-verbinding
-met winst̅+
-Voorbeeld
-D
-D
-Minimaliteit
-Voor sommige systemen kan een
-/ * = 0. De toestandsveranderlijke
-wi[k] kan dan niet beïnvloed
-worden. Het systeem is niet
-controleerbaar.
-Voor sommige systemen kan een
-0̅* = 0. De toestandsveranderlijke
-wi[k] kan de uitvoer niet
-beïnvloeden. Het systeem is niet
-observeerbaar.
-Een systeem dat niet observeerbaar
-en/of niet controleerbaar is heet
-niet-minimaal. Hetzelfde ingangsuitgangsgedrag kan gerealiseerd
-worden met een kleiner aantal
-geheugenelementen.
-Inwendige (interne) stabiliteit
-• Een systeem is inwendig stabiel →
-als0 x[k]
-als k
-k
-w λnk vn
-• Inwendig instabiel zodra één
-• Inwendig stabiel
-Nulingangsresponsie
-Nulingangsresponsie
-Nultoestandsresponsie
-• Ak x[0] bestuderen
-A
-(c = rijvector; SISO system)
-Nulingangsresponsie
-k
-w λnk vn
-basis {v
-= P-1 x[k] is de coördinatenvector van x[k] in de
-k
-basis {v
-is een gewogen som van exponentiële functies in k
-Nulingangsresponsie
-Bijdragen tot nulingangsresponsie
-Attractor / aantrekker
-Inwendig stabiel
-Repeller / afstoter
-Inwendig onstabiel
-Saddle point / zadelpunt
-Inwendig onstabiel
-Complexe eigenwaarden
-ω is genormaliseerde frequentie. 0 < 7 < 1
-• Eigenvectoren
-i en
-i
-• Neem complex toegevoegde termen samen in
-E
-een reële rijvector;
-ccis
-E
-Re
-G
-Complexe eigenwaarden (2)
-G
-• Bijdrage door complexe eigenwaarde in y[k] is
-product van:
-k - zie
-o Exponentieel verloop
-r reële eigenwaarde
-o Golvend verloop (K
-cos
-Complexe eigenwaarden
-Inwendig stabiel
-Bijdrage tot nulingangsresponsie
-Canonieke vorm en
-differentievergelijking
-Canonieke vorm
-• Zoek transformatiematrix 1Q
-q] zodat door de
-n
-M
-gelijkvormigheidstransformatie:
-M
-R
-Mnoemen we een compagnon-matrix
-Men A hebben dezelfde K.P. want gelijkvormig
-• Constructie van Q – zie later
-Waarom die Ã O
-en
-Constructie van Q
-2de vergelijking:T
-T
-Constructie van Q
-U
-T
-PQ
-PQ
-Waarom die Ã O
-en
-w
-w
-w
-w
-w
-w
-w
-Waarom die Ã O
-en
-Dus:
-Uitgangsvergelijking:
-Herschrijf:
-w1[k] elimineren
-Differentievergelijking
-O
-O
-f
-• Rechtstreeks verband tussen u[k] en y[k]
-• Dit heet een differentievergelijking
-• Alternatief voor de toestandsbeschrijving
-• Is een verband tussen differentievergelijking en canonieke vorm
-• M.a.w.: gegeven een differentievergelijking
-f
-f
-f
-Dan komen daarmee toestandsbeschrijvingen overeen die allemaal dezelfde K.P.
-hebben:%! + PQ
-R
-• Ook: gegeven een toestandsbeschrijving (A, b, c, d), dan komt daarmee een
-differentievergelijking overeen waarbij
-dedeã coëfficiënten van de K.P.
-i ook
-van A zijn
-Voorbeeld
-X
-Y
-X
-Y
-Z
-PQ
-PQ
-Voorbeeld
-O
-Met Q =
-, canonieke vorm:
-D
-D
-Voorbeeld
-PQ
-D
-D
-de differentievergelijking gehaald uit de canonieke vorm
-Impulsresponsie en convolutie
-Impulsresponsie
-• Doel: berekenen van de responsie. We hadden al:
-Exhaustief
-• Nultoestandsimpulsrespons (impulsrespons) h[k] van
-een SISO DTLTI systeem is y[k] wanneer
-k
-k
-k
-Verschoven impuls
-k
-k
-k
-k
-Ontbinding u[k]
-Lineair en tijdsinvariant
-Convolutie
-• Formeel
-d
-efd
-d
-b
-Lineair
-Tijdsinvariant
-• Voor een systeem dat uit de nultoestand vertrekt !
-• y[k] is de convolutie van u[k] en h[k]
-• Uitvoer is convolutie van invoer en impulsresponsie
-Convolutie
-Neutraal element: a[k]
-Lineair:
-• Enkelzijdige signalen a[k] = b[k] = 0 voor k<0 :
-d
-E
-=aPb
-efd
-efR
-• Causaal systeem: h[k] = 0 voor k<0
-Geen respons vóór de excitatie
-Impulsresponsie
-Nulingangsresponsie
-Nultoestandsresponsie
-2 term blijft enkel index j=0 staan
-de term:
-cA
-b
-Voorbeeld
-d
-E
-E
-E
-E
-steorde
-Impulsresponsie van
-1 systeem
-b
-D
-c
-k
-op
-E
-cb
-c
-q
-E
-E
-E
-Vorm impulsresponsie
-cAvoor k > 0
-• Zelfde bespreking als nulingangsresponsie
-steorde systeem:λk-1
-cb, zie boven
-• Voor diagonaliseerbare A, som van:
-o Exponentiëel verloop
-λ complex)
-o Schommelend exponentiëel verloop
+Mendeliaanse erfelijkheid
+- Monogeen
+- autosomaal dominant
+- autosomaal recessief
+- X-gebonden
+- Polygeen/multifactorieel
+Niet-Mendeliaanse erfelijkheid
+- Mitochondriële erfelijkheid
+- Onstabiele trinucleotide repeats
+- Mosaicisme
+- Genomische imprinting & epigenetische erfelijkheid
+- Uniparentele disomie
+ Niet-Mendeliaanse erfelijkheid
+- Mitochondriële erfelijkheid
+- Onstabiele trinucleotide repeats
+- Mosaicisme
+- Genomische imprinting & epigenetische erfelijkheid
+- Uniparentele disomie
+  Mitochondrieel DNA
+Circulair genoom, dsDNA
+13 coderende genen: eiwit
+24 genen: RNA
+meedere (5-10) per mitochondrium
+>100 mitochondriën/cel
+   OVERERVINGSPATROON VAN MITOCHONDRIELE AANDOENING
+• exclusief van moeder op kind
+• alle kinderen aangedaan, ernst in funktie van de verhouding heteroplasmie
+• weefsels die veel energie nodig hebben
+ OVERERVINGSPATROON VAN MITOCHONDRIELE AANDOENING
+Heteroplasmie = mosaicisme op niveau van mitochondriëel genoom :
+- verschillen tussen mitochondriën in één cel
+- verschillen tussen verschillende weefsels
+ Heteroplasmie
+Ernstig aangedaan kind, hoge
+lading mutante mitochondrieen
+Mild aangedaan kind, lage
+lading mutante mitochondrieen
+Normaal kind, zeer lage
+lading mutante mitochondrieen
+ Niet-Mendeliaanse erfelijkheid
+- Mitochondriële erfelijkheid
+- Onstabiele trinucleotide repeats- dynamische mutatie
+- Mosaicisme
+- Genomische imprinting & epigenetische erfelijkheid
+- Uniparentele disomie
+ Onstabiele trinucleotide repeats- dynamische mutatie
+Aaneenschakeling van DNA triplet repeats in of nabij een gen
+kan een effect hebben op de expressie van het gen:
+bv. CTG, CGG, CAG … repeats
+Repeats komen voor in de normale bevolking
+Lengte van de repeat → ontstaan van ziekte
+ Onstabiele trinucleotide repeats- dynamische mutatie
+1. Ziekte van Huntington
+2. Myotone dystrofie of
+Ziekte van Steinert
+3. Fragiele X syndroom
+ 1. ZIEKTE VAN HUNTINGTON
+snelle dementie, karakterveranderingen en motorische bewegingsstoornis
+CAG repeat
+- onstabiel
+- ziek
+- stabiel
+- niet ziek
+EXON
+mRNA
+eiwit :poly-Gln
+ ZIEKTE VAN HUNTINGTON
+snelle dementie, karakterveranderingen en motorische bewegingsstoornis
+ ZIEKTE VAN HUNTINGTON
+Lengte van de repeat
+→ vroeger ontstaan van ziekte
+ MYOTONE DYSTROFIE of ZIEKTE VAN STEINERT
+progressieve spierziekte
+premutatie- drager (42-90)
+CTG repeat
+ MYOTONE DYSTROFIE of ZIEKTE VAN STEINERT
+adulte vorm
+ MYOTONE DYSTROFIE of ZIEKTE VAN STEINERT
+kinderleeftijd
+ MYOTONE DYSTROFIE of ZIEKTE VAN STEINERT
+congenitale vorm
+ MYOTONE DYSTROFIE of ZIEKTE VAN STEINERT:
+Anticipatie: leidt tot toenemende ernst!
+Moeder kan slechts een milde expressie hebben!
+ FRAGIELE-X SYNDROOM : verstandelijke beperking
+CGGCGGCGG CGGCGGCGG
+CGGCGGCGG CGGCGGCGG
+CGGCGGCGG CGGCGGCGG
+CGGCGGCGG CGGCGGCGG
+CGGCGGCGG CGGCGGCGG
+CGGCGGCGG CGGCGGCGG
+CGGCGGCGG CGGCGGCGG
+CGGCGGCGG CGGCGGCGG
+CGGCGGCGG CGGCGGCGG
+CGGCGGCGG CGGCGGCGG
+CGGCGGCGG CGGCGGCGG
+CGGCGGCGG CGGCGGCGG
+CGGCGGCGG CGGCGGCGG
+CGGCGGCGG CGGCGGCGG
+CGGCGGCGG CGGCGGCGG
+CGGCGGCGG CGGCGGCGG
+CGGCGGCGG CGGCGGCGG
+CGGCGGCGG CGGCGGCGG
+DNA : (CGG)n
+Licht microscoop
+Electronen microscoop
+cytogenetisch
+ FRAGIELE-X SYNDROOM
+(CGG)n
+Volledige mutatie (>200) - onstabiel
+- fragiliteit X-chr.
+- genexpressie afwezig
+- fragiele X syndroom
+Premutatie (55-200)
+- onstabiel
+- normaal fenotype
+Normaal (<55) - stabiel, normaal fenotype
+FMR 1
+  FRAGIELE-X SYNDROOM
+< 55 CGG herhalingen
+FMR-1 gen
+NORMAAL
+55 - 200 CGG herhalingen
+FMR-1 gen
+PRE-MUTATIE
+> 200 CGG herhalingen
+MUTATIE
+FMR-1 gen
+methylatie
+   FRAGIELE-X SYNDROOM
+ Niet-Mendeliaanse erfelijkheid
+- Mitochondriële erfelijkheid
+- Onstabiele trinucleotide repeats
+- Mosaicisme
+- Genomische imprinting & epigenetische erfelijkheid
+- Uniparentele disomie
+  Kerntransplantatie experimenten
+ Normaal
+= maternele pronucleus
+= paternele pronucleus
+Gynogenoten
+* embryo : +/- normaal
+* placenta & dooierzak: +/- afwezig
+mens: teratoma
+Androgenoten
+* embryo : +/- afwezig
+* placenta & dooierzak: +/-normaal
+mens: mola hydatiformis
+ Mola hydatiformis
+Teratoma
+ GENOMISCHE IMPRINTING
+Genomische imprinting is een genetisch fenomeen dat voor een klein
+percentage van de genen in het genoom telt (<1%). Het bestaat eruit dat
+de aktiviteit van een gen afhankelijk is of het overgeërfd werd van vader
+of van moeder
+maternele imprinting
+* het vaderlijke gen is aktief
+* het moederlijke gen is niet aktief
+paternele imprinting
+* het vaderlijke gen is niet aktief
+* het moederlijke gen is aktief
+ GENOMISCHE IMPRINTING
+Mechanisme: methylatie van cytosine door specifieke enzymes
+ GENOMISCHE IMPRINTING
+Gemethyleerd DNA → gecondenseerd chromatine → gen silencing
+ = methylgroep
+CG-eiland
+Maternele gen: gemethyleerd, en dus INaktief
+mRNA
+CG-eiland
+Paternele gen: niet gemethyleerd, en dus aktief
+ Imprinting & methylering
+1. Aanwezig in de geslachtscellen
+2. Mitose overleven
+3. Genexpressie reguleren
+4. Reversiebel
+5. Beperkt aantal regio’s waar imprinting optreedt
+ Lichaamscel
+chr11
+= maternele imprint
+= paternele imprint
+p m
+chr11
+chr11
+pp
+mm
+Kiemcellijn
+Kiemcellijn
+chr11
+chr11
+ VADER
+aktief
+MOEDER
+aktief
+niet aktief
+p
+niet aktief
+p
+m
+m
+eicel
+zaadcel
+aktief
+niet
+aktief
+aktief
+p
+niet
+aktief
+m m
+p
+KIND
+aktief
+niet aktief
+p
+m
+ GENOMISCHE IMPRINTING :
+FYSIOLOGISCHE BETEKENIS?
+ “THE BATTLE OF SEXES” hypothese
+(Haig and Westoby, 1989)
+Conflict tussen materneel en paterneel genoom
+over de groei van embryo en foetus
+moeder : groei beperken, voor volgende zwangerschap
+vader : maximale groei = maximale overlevingskansen
+ HET PRADER-WILLI SYNDROOM
+HET ANGELMAN SYNDROOM
+als imprinting fout loopt
+ PRADER-WILLI SYNDROOM
+zuigeling :
+- uitgesproken hypotonie
+- voedingsmoeilijkheden
+- obesitas (onverzadigbare eetlust)
+- vertraagde ontwikkeling
+- onderontwikkelde geslachtsorganen
+- gedragsproblemen
+ ANGELMAN SYNDROOM
+Progressieve microcefalie (kleine hoofdomtrek)
+Ernstige verstandelijke beperking
+Ataxie
+Epilepsie
+“Happy puppet”
+ REGIO OP CHROMOSOOM 15q11-13
+cen
+NECDIN
+SNRPN
+PAR-5
+PAR-1
+UBE3A
+imprinting center
+Paterneel aktief
+Materneel aktief
+tel
+ PRADER-WILLI SYNDROOM
+normale situatie
+paterneel
+materneel
+aktief
+niet aktief
+p
+m
+chromosoom 15
+ PRADER-WILLI SYNDROOM
+1. Oorzaak PWS = microdeletie van dit fragmentje van het chromosoom
+paterneel
+materneel
+aktief
+niet aktief
+p
+m
+chromosoom 15
+ PRADER-WILLI SYNDROOM
+2. Oorzaak PWS = maternele uniparentele disomie chromosoom 15
+materneel
+materneel
+niet aktief
+niet aktief
+m
+m
+chromosoom 15
+ normaal
+m p
+= paterneel chr.
+= materneel chr.
+uniparentele disomie
+p p
+paterneel
+m m
+materneel
+ TRISOMIE 15
+Maternele non-disjunction
+(meiosis I fout)
+normale zaadcel
+47,XX,15+ = NIET leefbaar
+ HERSTEL VAN TRISOMIE : verlies van één chr. 15
+UPD15mat
+* al of niet met mosaicisme voor trisomie 15
+afhankelijk van tijdstip en weefsel distributie
+NORMAAL
+  PRADER-WILLI SYNDROOM
+3. Oorzaak PWS = mutatie imprinting centre
+paterneel
+materneel
+niet aktief
+niet aktief
+p
+m
+chromosoom 15
+ ANGELMAN SYNDROOM
+normale situatie
+paterneel
+materneel
+UBE3A
+niet-aktief
+aktief
+p
+m
+chromosoom 15
+ ANGELMAN SYNDROOM
+1. Oorzaak AS: microdeletie van fragment chromosoom
+paterneel
+materneel
+UBE3A
+niet-aktief
+aktief
+p
+m
+chromosoom 15
+ ANGELMAN SYNDROOM
+2. Oorzaak AS = paternele uniparentele disomie chromosoom 15
+paterneel
+paterneel
+UBE3A
+niet-aktief
+niet-aktief
+p
+m
+chromosoom 15
+ ANGELMAN SYNDROOM
+3. Oorzaak AS = mutatie imprinting centre
+paterneel
+materneel
+UBE3A
+niet-aktief
+niet-aktief
+p
+m
+chromosoom 15
+ ANGELMAN SYNDROOM
+4. Oorzaak AS = mutatie UBE3A gen
+paterneel
+materneel
+UBE3A
+niet-aktief
+niet-aktief
+p
+m
+chromosoom 15

@@ -1,284 +1,559 @@
-Aanvullingen
-Responsie op
-ingangssignalen en begintoestand
-Responsie berekenen
-• Gegeven toestandsbeschrijving (A, B, C, D) ,
-• Toestandsbeschrijving
-• Exhaustieve berekening van x[k] en y[k]
-Voorbeeld
-Gegeven
-“Oplossen” toestandsvergelijking
-• Gegeven toestandsbeschrijving, u[k] en x[0], wat zijn x[k] en y[k] ?
-• Toestandsbeschrijving
-A
-Algemeen:
-• Uitgangssignaal
-Nulingangs- en nultoestandsrespons
-Nulingangsresponsie
-Nultoestandsresponsie
-• Nulingangsresponsie: y[k] als u[k]
-• Nultoestandsresponsie: y[k] als x[0] = 0
-Toestandsbeschrijving en
-gelijkvormige matrices
-Toestandsbeschrijving is niet uniek
-, np] een nxn inverteerbare matrix
-– Is verandering van coördinaten: w[k] zijn de coordinaten van x[k] in de
-basis {p
-Toestandsbeschrijving is niet uniek
-• In de nieuwe toestandsvector w[k] hebben we een
-equivalente toestandsbeschrijving:
-A en zijn gelijkvormig
-• Beide systemen zijn equivalent. Let wel op initiële
-toestand. Nulingangsresponsie:
-Zorg ervoor dat P w[0] = x[0], dan is ook P w[k] = x[k]
-voor k>0, en dus y[k]=
-Voorbeeld
-D
-D
-Voorbeeld (2)
-Kies
-zodat x[k] = P w[k]
-D
-D
-Toestandsbeschrijving en
-matrixdiagonalisatie
-Diagonaalvorm
-• Veronderstel dat A diagonaliseerbaar is
-• Kies P =1,[v... , nv] met iveigenvector van A met
-eigenwaarde
-• Voor SISO systeem:
-• Toestand i beinvloedt toestand
-≠i niet
-j
-Diagonaalvorm voor SISO systeem
-• Som van
-eerste-orde
-systemen
-• Plus directe
-verbinding
-met winst̅+
-Voorbeeld
-D
-D
-Minimaliteit
-Voor sommige systemen kan een
-/ * = 0. De toestandsveranderlijke
-wi[k] kan dan niet beïnvloed
-worden. Het systeem is niet
-controleerbaar.
-Voor sommige systemen kan een
-0̅* = 0. De toestandsveranderlijke
-wi[k] kan de uitvoer niet
-beïnvloeden. Het systeem is niet
-observeerbaar.
-Een systeem dat niet observeerbaar
-en/of niet controleerbaar is heet
-niet-minimaal. Hetzelfde ingangsuitgangsgedrag kan gerealiseerd
-worden met een kleiner aantal
-geheugenelementen.
-Inwendige (interne) stabiliteit
-• Een systeem is inwendig stabiel →
-als0 x[k]
-als k
-k
-w λnk vn
-• Inwendig instabiel zodra één
-• Inwendig stabiel
-Nulingangsresponsie
-Nulingangsresponsie
-Nultoestandsresponsie
-• Ak x[0] bestuderen
-A
-(c = rijvector; SISO system)
-Nulingangsresponsie
-k
-w λnk vn
-basis {v
-= P-1 x[k] is de coördinatenvector van x[k] in de
-k
-basis {v
-is een gewogen som van exponentiële functies in k
-Nulingangsresponsie
-Bijdragen tot nulingangsresponsie
-Attractor / aantrekker
-Inwendig stabiel
-Repeller / afstoter
-Inwendig onstabiel
-Saddle point / zadelpunt
-Inwendig onstabiel
-Complexe eigenwaarden
-ω is genormaliseerde frequentie. 0 < 7 < 1
-• Eigenvectoren
-i en
-i
-• Neem complex toegevoegde termen samen in
-E
-een reële rijvector;
-ccis
-E
-Re
-G
-Complexe eigenwaarden (2)
-G
-• Bijdrage door complexe eigenwaarde in y[k] is
-product van:
-k - zie
-o Exponentieel verloop
-r reële eigenwaarde
-o Golvend verloop (K
-cos
-Complexe eigenwaarden
-Inwendig stabiel
-Bijdrage tot nulingangsresponsie
-Canonieke vorm en
-differentievergelijking
-Canonieke vorm
-• Zoek transformatiematrix 1Q
-q] zodat door de
-n
+Genregulatie
+ Genetica
+Niveau’s van regulatie
+Genregulatie
+Controle van genexpressie
+genotype
+fenotype
+DNA
+RNA
+RNA polymerase
+(regulatie van transcriptie door
+proteïnen of
+chromatinestructuur)
+zie Raven 16
+proteine
+ribosomen
+(posttranscriptionele
+regulatie door RNA
+interferentie,
+splicing, mRNA
+editing, translation
+factors,…)
+proteasoom
+(gecontroleerde
+afbraak van
+proteinen door
+ubiquitinatie)
+ Genetica
+Prokaryoten versus eukaryoten
+Genregulatie
+Controle van genexpressie
+Prokaryoten:
+• optimalisatie van groei in functie van wijzigingen in de omgeving
+• wijzigingen in genexpressie zijn reversibel
+Eukaryoten:
+• behoud van homeostasis (organisme is afgescheiden van omgeving)
+• cellen zijn deel van groter (meercellig) organisme
+• genregulatie in functie van veranderingen in omgeving, maar ook in functie van
+groei en ontwikkeling
+zie Raven 16
+ Genetica
+Transcriptiefactoren
+Genregulatie
+Transcriptiefactoren interageren met het DNA via de brede groeve keten
+Ze kunnen DNA ‘lezen’ zonder dat de DNA
+keten zich ontdubbelt; via de brede groeve
+zijn de basenparen toegankelijk
+zie Raven 16
+ Genetica
+Transcriptiefactoren
+Genregulatie
+Transcriptiefactoren hebben specifieke motieven met een DNA-bindend
+domein
+helix-turn-helix motief:
+twee α-helices die verbonden zijn; één helix past in de brede groeve van DNA, de
+andere zit aan buitenkant van de DNA helix
+• komen vaak voor
+in paren (sterkere
+binding met DNA)
+homeodomein
+motief:
+• motief in DNAbindende helix
+aminozuren dat
+rol speelt in
+ontwikkeling bij
+Drosophila
+zie Raven 16
+ Genetica
+Transcriptiefactoren
+Genregulatie
+• zink vinger motief:
+één of meerdere α-helices zijn verbonden met β-vlak van
+proteïne via zink atomen
+lijkt op hand met vingers die de DNA keten vastgrijpt
+• leucine zipper motief:
+twee α-helices zijn verbonden met hydrofobe leucine
+aminozuren
+twee α-helices die kunnen binden met verschillende DNA
+sequenties resulteert in grote flexibiliteit in genregulatie
+zie Raven 16
+ Genetica
+Genregulatie
+Genregulatie bij prokaryoten
+Positieve en negatieve controle van transcriptie
+• negatieve controle:
+repressor proteïnen binden aan DNA tussen de promotor en de coderende genen,
+waardoor RNA polymerase geen toegang krijgt tot de coderende genen en
+transcriptie wordt afgeremd. Ze inhiberen transcriptie.
+positieve controle:
+activator proteïnen binden aan DNA stroomopwaarts van de promotor en stimuleren
+transcriptie door RNA polymerase.
+zie Raven 16
+ Genetica
+Genregulatie
+Genregulatie bij prokaryoten
+Positieve en negatieve controle van transcriptie
+Activator en repressor proteïnen interageren met een effector molecule. Deze effector
+zorgt voor wijziging in de conformatie van het proteïne (allosterisch proteïne) waardoor
+dit proteïne al dan niet bindt met DNA. Een effector kan er voor zorgen dat een
+repressor/activator loskomt van het DNA of net gaat binden met DNA.
+in dit voorbeeld zorgt effector
+voor inductie van transcriptie
+zie Raven 16
+ Genetica
+Genregulatie
+Genregulatie bij prokaryoten
+operon: transcriptie van genen die deel uitmaken van zelfde metabolische
+pathway verloopt gelijktijdig (bevinden zich naast elkaar in genoom, worden
+geactiveerd door zelfde operator)
+inductie van operon:
+katabolisme: afbraak van organische moleculen
+genen worden geactiveerd door effector molecule
+vb. lac operon dat instaat voor afbraak van lactose wordt pas actief als er lactose
+beschikbaar is
+repressie van operon:
+anabolisme: aanmaak van organische moleculen
+genen wordt geïnactiveerd door effector molecule
+vb. trp operon wordt geïnactiveerd wanneer er voldoende tryptofaan in de cel is
+zie Raven 16
+ Genetica
+Genregulatie
+Regulatie van lac operon
+lac operon
+inductie van operon door combinatie van negatieve controle door repressor en
+positieve controle door inducer
+• genen: lacZ (β-galactosidase), lacY (lactose permease), lacA (lactose
+transacetylase)
+• lacI: gen voor repressor van lac operon; repressor bindt aan operator
+• RNA polymerase bindt aan de promoter regio
+• CAP proteïne is activator
+zie Raven 16
+ Genetica
+Genregulatie
+Regulatie van lac operon
+Geen lactose aanwezig: transcriptie van lac operon is onderdrukt
+• repressor proteïne bindt aan operator en verhindert transcriptie door RNA
+polymerase
+zie Raven 16
+ Genetica
+Genregulatie
+Regulatie van lac operon
+lactose is aanwezig: inductie van transcriptie door de effector molecule
+allolactose
+• lactose wordt omgezet in allolactose en dit allolactose is de effector die bindt
+aan de repressor
+• de repressor komt los van DNA, waardoor transcriptie gestart wordt
+zie Raven 16
+ Genetica
+Genregulatie
+Regulatie van lac operon
+glucose repressie door CAP activator
+• glucose wordt preferentieel gebruikt door de cel wanneer lactose aanwezig is
+• wanneer zowel glucose als lactose aanwezig zijn zal lac operon niet
+geïnduceerd worden; wanneer er veel glucose is, is er weinig cAMP
+• CAP of cataboliet activator proteïne: in aanwezigheid van cAPM bindt CAP aan
+DNA en stimuleert transcriptie van lac operon
+• positieve regulatie van transcriptie door CAP, met cAMP als effector
+zie Raven 16
+ Genetica
+Regulatie van lac operon
+Genregulatie
+glucose repressie door CAP activator
+• weinig glucose > veel cAMP
+• CAP of cataboliet activator proteïne: in aanwezigheid van cAPM bindt CAP aan
+DNA en stimuleert transcriptie van lac operon
+• positieve regulatie van transcriptie door CAP, met cAMP als effector
+NB: extra regulatie door
+inducer exclusie:
+glucose inhibeert import van
+lactose in de cel
+zie Raven 16
+ Genetica
+Regulatie van lac operon
+Genregulatie
+CAP activator
+• weinig glucose > ATP
+omgezet in cAMP
+• cAMP bindt aan CAP en
+CAP activeert genen
+• CAP activeert diverse
+genen wanneer weinig
+glucose laag is (alternatieve
+bronnen van energie)
+zie Raven 16
+ Experimenten Jacob en Monod
+E. coli gebruikt pas lactose wanneer
+alle glucose is opgebruikt
+Hypothese: “enzyme adaptation”
+Enzyme past veranderd van vorm en past
+zich aan aan de suikers die aanwezig zijn in
+medium.
+Lactose is tegelijk substraat en inducer
+voor het enzyme.
+ Experimenten Jacob en Monod
+Chemische varianten van lactose
+IPTG
+•kan lac operon induceren
+•is geen substraat voor galactosidase
+X-gal
+•kan lac operon niet induceren
+•is substraat voor galactosidase (LacZ)
+Conclusie: er moeten twee proteïnen een rol spelen, één dat bindt met inducer
+en een ander dat bindt met substraat
+ Experimenten Jacob en Monod
+X-gal wordt gebruikt om inductie van lac
+operon op te volgen
+•E. coli op lactose agar met X-gal: blauwe
+kolonies
+•E. coli op glucose + lactose agar: witte
+kolonies
+•Gemuteerde E. coli op glucose + lactose
+agar: hier en daar blauwe kolonies
+Blauwe kolonies op glucose + lactose agar:
+constitutieve mutanten
+•lac operon steeds geactiveerd; geen
+repressie mogelijk.
+•mutatie werd gekarteerd stroomopwaarts
+van het lac operon: LacI gen, I- mutatie
+ Experimenten Jacob en Monod
+Twee hypotheses:
+•I- mutatie zorgt voor over-expressie van lac operon (‘super-activator mutatie’)
+• I- is dominant over I+
+•I- mutatie zorgt voor niet-functionele repressie van lac operon
+• I- recessief over I+
+Experiment:
+•introduceer I+ Z+ uit Hfr E. coli in I- Z- stam door conjugatie
+• I+ en Z+ worden tijdelijk tot expressie gebracht
+• expressie van LacZ kort na conjugatie, daarna repressie van LacZ activiteit
+• toevoeging van IPTG leidt tot inductie van LacZ
+Conclusie:
+•I- recessief over I+
+ Experimenten Jacob en Monod
+Hypothese:
+•LacI gen vormt proteïne dat interageert met een sequentie in het DNA, de operator
+(O) sequentie en verhindert transcriptie van operon
+•Wanneer dit proteïne bindt aan lactose komt het los van het DNA en vindt
+transcriptie van het lac operon plaats
+•Mutaties in O (OC) moeten ook constitutieve mutanten zijn
+Hoe vind je constitutieve mutanten in OC?
+•Gebruik makend van F’ plasmide waarop genen van lac operon gelegen zijn
+•E. coli met twee wild type kopieën van LacI (I+): op chromosoom en op F’ plasmide:
+•Kans op I- fenotype is zeer klein, want vereist twee keer mutatie in LacI
+•Kans op OC is groter, want vereist slechts één mutatie
+•Blauwe kolonies van E. coli I+ O+ Z+ Y+ / F` I+ mutanten op glucose + lactose agar
+met X-gal zullen vermoedelijk OC mutanten zijn.
+•Deze OC mutatie werd gekarteerd net stroomopwaarts van lac operon
+ Experimenten Jacob en Monod
+Onderscheid tussen I- en OC
+constitutieve mutanten:
+•I- mutatie: LacZ en LacY blijven actief
+•I+ introduceren op plasmide:
+• LacZ en LacY worden
+geïnactiveerd
+•I- is recessief over I+
+•I- heeft niet enkel invloed op activiteit
+van genen op zelfde DNA streng maar
+ook op activiteit van genen op andere
+DNA streng (trans werkend)
+ Experimenten Jacob en Monod
+Onderscheid tussen I- en OC
+constitutieve mutanten:
+•zonder IPTG:
+• LacY blijft actief door OC mutatie
+•met IPTG:
+• LacZ en LacY actief
+•OC is dominant over O+
+•OC heeft enkel invloed op activiteit van
+genen op zelfde DNA streng (cis
+werkend)
+ Genetica
+Blue-white screening
+Genregulatie
+E. coli met mutant LacZ gen (deletie die leidt tot verleis van enkele aminozuren)
+Plasmide wordt gebruikt om genen binnen te brengen in E. coli (vector)
+ontbrekende fragment van LacZ is ingebouwd in plasmide
+E. coli kolonies die succesvol getransformeerd zijn worden blauw in aanwezigheid van
+IPTG en X-gal
+zie Raven 16
+ Genetica
+Genregulatie
+Andere lac operon mutanten
+Superrepressor mutanten IS
+•mutatie in effector-bindend domein van repressor proteine waardoor effector niet bindt aan repressor en
+repressor niet loslaat van operator
+•mutatie IS is dominant over I+ (en is trans werkend)
+Mutatie in promotor P•mutatie in promotor sequentie waardoor RNA polymerase niet aan promotor kan binden
+•mutatie P- is recessief ten opzichte van P+ (en is cis werkend)
+zie Raven 16
+ Genetica
+Genregulatie
+Regulatie van trp operon
+Repressie van operon door tryptofaan: geen tryptofaan aanwezig
+• trp repressor bindt niet aan operator
+• er vindt transcriptie van operon plaats
+zie Raven 16
+ Genetica
+Genregulatie
+Regulatie van trp operon
+Repressie van operon door tryptofaan: wel tryptofaan aanwezig
+• trp repressor bindt aan operator en verhindert transcriptie van trp operon
+• repressie van transcriptie door tryptofaan; negatieve controle door repressor
+zie Raven 16
+ Genetica
+Genregulatie
+Regulatie van trp operon
+trp repressor
+• trp repressor is helixturn-helix proteïne
+• allosterische wijziging
+door binding met
+tryptofaan (effector)
+zie Raven 16
+ Genetica
+Genregulatie
+Genregulatie in eukaryoten
+Verschil met prokaryoten:
+• veel complexer, meer proteïnen actief
+• DNA georganiseerd in chromatine
+• Transcriptie in nucleus, translatie in
+cytoplasma
+Initiatiecomplex
+• RNA polymerase II
+• Algemene transcriptiefactoren: binden
+aan promoter-sequenties, belangrijkste is
+TFIID (bindt aan TATA box sequentie die
+deel uitmaakt van promoter van vele genen)
+• ‘transcription associated factors’
+Initiatiecomplex kan transcripite activeren, maar
+op zeer laag niveau
+zie Raven 16
+ Genetica
+Genregulatie
+Genregulatie in eukaryoten
+Specifieke transcriptie factoren
+• het initiatie complex alleen is niet voldoende om transcriptie te activeren
+• daarvoor zijn bijkomende, specifieke transcriptiefactoren nodig
+• ook activators genoemd, hebben DNA bindend motief en domein dat
+interageert met het initiatie complex
+zie Raven 16
+ Genetica
+Genregulatie
+Genregulatie in eukaryoten
+Specifieke transcriptiefactoren
+• Binden aan enhancer sequenties
+• de enhancers kunnen ver gelegen zijn
+van het gen zelf (DNA vormt lus)
+Specifieke transcriptiefactoren zijn nodig om
+transcriptie echt op gang te brengen.
+zie Raven 16
+ Genetica
+Genregulatie
+Genregulatie in eukaryoten
+Transcriptie complex
+• geheel van specifieke transcriptiefactoren en het initiatie complex
+zie Raven 16
+ Genetica
+Genregulatie
+Genregulatie op niveau van chromatine
+Wijzigingen in de chromatine
+structuur
+• euchromatine is actief,
+heterochromatine is inactief
+• gereguleerd door histonen
+(vb. acetylatie van
+histonen zorgt voor
+activatie van genen)
+zie Raven 16
+ Genetica
+Genregulatie
+Genregulatie op niveau van chromatine
+Positie effect variëgatie
+• door een inversie komt het w+ allel dichtbij het heterochromatine van het
+centromeer te liggen
+• soms ligt het in euchromatine en is w+ actief, soms ligt het in heterochromatine
+en wordt het geïnactiveerd
+zie Raven 16
+ Genetica
+Genregulatie
+Genregulatie op niveau van chromatine
+Methylatie van DNA
+• toevoegen van methyl-groepen op basen in het DNA zorgt voor inactivatie van
+genen
+• methylatiepatronen van DNA kunnen worden doorgegeven tijdens de mitose
+Methylatie van
+cytosine (5-methylcytosine)
+zie Raven 16
+ Genetica
+Genregulatie
+Genetische ‘imprinting’
+‘Genomic imprinting’
+• genen in kiemcellen worden geïnactiveerd en komen niet tot expressie in
+gameten waardoor zygote in feite haploid is voor deze genen
+• deze genen zijn vaak gegroepeerd in regio’s maar in mannelijke en vrouwelijke
+gameten worden verschillende genen uit deze regio’s geïnactiveerd
+• uitzondering op Mendel! ouders kunnen bepaalde genen die ze doorgeven aan
+hun nakomelingen uitschakelen
+• wordt veroorzaakt door methylatie van DNA of histonen
+• voorbeeld:
+Prader-Willi syndroom: kort lichaamsbouw, obesitas
+Angelman syndroom: hyperactiviteit, frequent lachen
+zie Raven 12.1
+ Genetica
+Genetische ‘imprinting’
+Genregulatie
+Prader-Willi en Angelman syndroom
+Prader-Willi syndroom: kort lichaamsbouw, obesitas
+Angelman syndroom: hyperactiviteit, frequent lachen
+m
+m
+Angelman
+P M
+m
+zie Raven 12.1
+P
 M
-gelijkvormigheidstransformatie:
-M
-R
-Mnoemen we een compagnon-matrix
-Men A hebben dezelfde K.P. want gelijkvormig
-• Constructie van Q – zie later
-Waarom die Ã O
-en
-Constructie van Q
-2de vergelijking:T
-T
-Constructie van Q
-U
-T
-PQ
-PQ
-Waarom die Ã O
-en
-w
-w
-w
-w
-w
-w
-w
-Waarom die Ã O
-en
-Dus:
-Uitgangsvergelijking:
-Herschrijf:
-w1[k] elimineren
-Differentievergelijking
-O
-O
-f
-• Rechtstreeks verband tussen u[k] en y[k]
-• Dit heet een differentievergelijking
-• Alternatief voor de toestandsbeschrijving
-• Is een verband tussen differentievergelijking en canonieke vorm
-• M.a.w.: gegeven een differentievergelijking
-f
-f
-f
-Dan komen daarmee toestandsbeschrijvingen overeen die allemaal dezelfde K.P.
-hebben:%! + PQ
-R
-• Ook: gegeven een toestandsbeschrijving (A, b, c, d), dan komt daarmee een
-differentievergelijking overeen waarbij
-dedeã coëfficiënten van de K.P.
-i ook
-van A zijn
-Voorbeeld
-X
-Y
-X
-Y
-Z
-PQ
-PQ
-Voorbeeld
-O
-Met Q =
-, canonieke vorm:
-D
-D
-Voorbeeld
-PQ
-D
-D
-de differentievergelijking gehaald uit de canonieke vorm
-Impulsresponsie en convolutie
-Impulsresponsie
-• Doel: berekenen van de responsie. We hadden al:
-Exhaustief
-• Nultoestandsimpulsrespons (impulsrespons) h[k] van
-een SISO DTLTI systeem is y[k] wanneer
-k
-k
-k
-Verschoven impuls
-k
-k
-k
-k
-Ontbinding u[k]
-Lineair en tijdsinvariant
-Convolutie
-• Formeel
-d
-efd
-d
-b
-Lineair
-Tijdsinvariant
-• Voor een systeem dat uit de nultoestand vertrekt !
-• y[k] is de convolutie van u[k] en h[k]
-• Uitvoer is convolutie van invoer en impulsresponsie
-Convolutie
-Neutraal element: a[k]
-Lineair:
-• Enkelzijdige signalen a[k] = b[k] = 0 voor k<0 :
-d
-E
-=aPb
-efd
-efR
-• Causaal systeem: h[k] = 0 voor k<0
-Geen respons vóór de excitatie
-Impulsresponsie
-Nulingangsresponsie
-Nultoestandsresponsie
-2 term blijft enkel index j=0 staan
-de term:
-cA
-b
-Voorbeeld
-d
-E
-E
-E
-E
-steorde
-Impulsresponsie van
-1 systeem
-b
-D
-c
-k
-op
-E
-cb
-c
-q
-E
-E
-E
-Vorm impulsresponsie
-cAvoor k > 0
-• Zelfde bespreking als nulingangsresponsie
-steorde systeem:λk-1
-cb, zie boven
-• Voor diagonaliseerbare A, som van:
-o Exponentiëel verloop
-λ complex)
-o Schommelend exponentiëel verloop
+m
+deletie
+Prader-Willi
+P M
+normaal
+P M
+deletie
+chromosoom 15 - regio 15q11-q13
+paternaal chromosoom
+maternaal chromosoom
+inactief (gemethyleerd)
+actief
+ Genetica
+Genregulatie
+Posttranscriptionele regulatie
+Kleine RNA molecules kunnen
+genexpressie reguleren: RNA
+interferentie
+Ontdekt in C. elegans: lin-4 gen speelde
+rol in ontwikkeling maar codeert niet voor
+proteïne maar voor 61 nt RNA molecule,
+deze wordt verknipt tot 22 nt die
+interfereren met expressie van gen lin14.
+Kleine RNA molecules die
+complementair zijn met RNA van genen
+kunnen translatie van RNA inhiberen. Er
+bestaat een grote diversiteit van
+dergelijke kleine RNA moleculen.
+Spelen rol in genexpressie door eigen
+genoom, door virusen. Kan ook
+toegepast worden om genexpressie te
+inhiberen in transgene organismen.
+zie Raven 16
+ Genetica
+Genregulatie
+Posttranscriptionele regulatie
+Micro RNA of miRNA
+• Bevinden zich in delen van genoom die niet
+coderen voor proteïnen
+• Transcriptie leidt tot Pri-miRNA
+• Pri-miRNA vormt lus; deze lus wordt uitgeknipt
+door Drosha enzyme en vormt pre-miRNA
+• pre-miRNA verlaat nucleus via exportine
+proteïne
+• in cytoplasma wordt pre-miRNA lus geknipt door
+Dicer enzyme tot dubbelstrengig miRNA
+• miRNA bindt aan Argo (argonaut), wat op zijn
+beurt deel uitmaakt van RISC
+• RISC bindt aan RNA dat complementaire
+sequentie bezit aan miRNA (vaak in ‘3 einde
+van RNA dat niet vertaald wordt in proteïne)
+zie Raven 16
+ Genetica
+Genregulatie
+Posttranscriptionele regulatie
+RNA interferentie: siRNA
+• ontstaat uit dubbelstrengig RNA
+(dsRNA) (afkomstig één enkel
+zelfcomplentair RNA of twee
+afzonderlijke complementaire RNA’s,
+of van een virus of een transposon)
+• dicer knipt dsRNA tot kleine stukjes
+siRNA
+• siRNA bindt via Argo aan RISC aan
+RNA dat complementaire sequentie
+bevat
+• mRNA wordt in stukjes geknipt,
+waardoor translatie verhindert wordt
+zie Raven 16
+ Genetica
+Genregulatie
+Posttranscriptionele regulatie
+Verschil tussen miRNA en siRNA
+miRNA
+• korte sequenties (ongeveer 22 nt)
+• sterk evolutionair geconserveerd, komen in verschillende organismen
+voorkomen
+• één Pre-miRNA transcript geeft slechts één miRNA
+siRNA
+• zeer variabel in lengte
+• niet geconserveerd
+• soms meerdere siRNA afkomstig van één enkele dsRNA streng
+zie Raven 16
+ Genetica 1
+Genregulatie
+Repressie van transposons via piRNA
+Repressie van transposon
+retrotransposons bouwen zich
+op willekeurige plaatsen in in
+het genoom
+een retrotransposon bouwt
+zich in in het pi-cluster
+alle sequenties in het picluster worden omgezet in
+piRNA
+dit piRNA zorgt voor silencing
+van het retrotransposon RNA
+zie Raven 10.2
+ Genetica
+Genregulatie
+Posttranscriptionele regulatie
+Genergulatie door alternatieve splicing
+• RNA van eukaryoten bestaat uit introns en exons
+• Na transcriptie worden introns weggeknipt door spliceosoom en exons
+worden aan elkaar gezet tot uiteindelijke RNA sequentie die proteïne zal
+vormen
+• Soms worden verschillende exons gebruikt in finaal RNA, waardoor
+verschillende proteïnen kunnen ontstaan uit één transcript (vb. calcitonine en
+CGRP proteïnen zijn afkomstig van zelfde transcript)
+zie Raven 16
+ Genetica
+Genregulatie
+Posttranscriptionele regulatie
+Andere vormen van posttranscriptionele genergulatie
+• variabele modificatie van RNA na transcriptie (wijzigen van mRNA zorgt voor
+stopcodon midden in RNA, waardoor een korter proteïne gevormd wordt; vb.
+apolipoproteïne B vormen ApoB48 en ApoB100)
+• wijzigen van basen in mRNA waardoor verschillende vormen van een
+proteïne kunnen ontstaan
+• controle van transport van RNA uit nucleus naar cytoplasma (slechts 5% van
+alle mRNA dat gevormd wordt komt in cytoplasma terecht)
+• translatie repressor proteïnen binden aan mRNA en verhinderen translatie
+(vb. inhibitie van translatie van mRNA voor ferretine)
+• controle van degradatie van RNA (gereguleerd door sequenties dichtbij de 3’
+poly-A staart)
+zie Raven 16
+ Genetica
+Genregulatie
+Posttranscriptionele regulatie
+zie Raven 16
+ Genetica
+Genregulatie
+Regulatie door degradatie van proteïnen
+Ubiquitinatie van proteïnen
+reguleert hun afbraak
+• proteïnen dienen afgebroken te
+worden omdat hun activiteit actief
+beëindigt moet worden of omdat
+ze inactief geworden zijn
+(verkeerd gevouwen, chemisch
+gewijzigd, polymeren vormen,…)
+• proteïnen worden gemerkt met
+ubiquitine (76 aminozuur
+proteine)
+• het proteasoom breekt geubiquitineerde proteïnen af
+zie Raven 16

@@ -184,10 +184,10 @@ dan de gezamenlijke winst bij kartelvorming.
 voor ondernemingen in een oligopolie de prijs hoger dan de MK.
  The equilibrium for an oligopoly
 competitive output
-competitive price: P = MK
 non-cooperative oligopoly output
-non-cooperative oligopoly price
 monopoly output = cartel output
+competitive price: P = MK
+non-cooperative oligopoly price
 monopoly price
  How the size of an oligopoly affects
 the market outcome

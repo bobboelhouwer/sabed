@@ -372,6 +372,7 @@ gezien isotopen van eenzelfde element toch steeds samen voorkomen en steeds in
 hun natuurlijke isotopische samenstelling en bovendien zijn ze chemisch identiek.
 Daarom wordt voor ieder element een gemiddelde relatieve atoommassa bepaald
 rekening houdende met de procentuele isotopische samenstelling.
+Cu
 en
  Algemene Scheikunde : Hfst. I Stoechiometrie in verbindingen en reacties
 De gemiddelde r.a.m. voor Cu wordt dus

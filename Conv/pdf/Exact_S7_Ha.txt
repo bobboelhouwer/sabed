@@ -21,6 +21,8 @@ vervanging
 Elementaire rijoperaties (ER)
 • Wat is het effect van rijoperaties op de determinant ?
 • Drie soorten elementaire matrices
+– Schaling 3de rij met k: E= 0
+– Omwisselen rij 2 en 3: E= 0
 – Rij 3 vervangen door k(rij 1)+(rij 3): E= 0
 • B = E A past de ER toe op A
 • Omwisseling: det
@@ -36,7 +38,10 @@ met Bij de (n-1)x(n-1) matrix bekomen door de ER op Aij uit te
 voeren, waarvoor det Bij =  det Aij
 • Bereken det E
 – Schaling det E=det 0
-– Vervanging: det E=det 0 1 0 = 1 (driehoeksmtx)
+– Omwisseling: det E=det 0
+– Vervanging: det E=det 0
+= 𝑘 (driehoeksmtx)
+0 = 1 (driehoeksmtx)
 Eigenschap 4
 • Aanvulling matrixinverstiestelling
 A inverteerbaar  det A  0

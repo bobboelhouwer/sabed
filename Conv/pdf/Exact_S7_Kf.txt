@@ -7,7 +7,12 @@ m.a.w. complex toegevoegd en getransponeerd
 o Een reële, symmetrische matrix is Hermitisch
 o Een Hermitische matrix heeft reële elementen op de diagonaal
 • Hermitisch product van u en v ∈ Cn : u • v =  
-o Als u en v ∈ Rn, wordt dit het gekende inwendig product
+o
+o
+o
+o
+o
+Als u en v ∈ Rn, wordt dit het gekende inwendig product
 Orthogonale basis
 • {u1, ... , up} is een orthogonale basis voor (deel)ruimte W
 Volgorde inwendig product belangrijk !

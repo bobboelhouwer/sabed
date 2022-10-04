@@ -89,8 +89,8 @@ Rotatie om y as
 vectoren:
 z
 z
-x
 j
+x
 x
 • Ook “gewicht” ongemoeid laten. Standaardmatrix:
 Ry=

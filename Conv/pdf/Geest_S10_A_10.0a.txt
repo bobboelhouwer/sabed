@@ -120,10 +120,6 @@ kort
 *onhoog
 *ondik
 *onlang
-*onklein
-*onlaag
-*ondun
-*onkort
 gelukkig
 verstandig
 interessant
@@ -139,14 +135,18 @@ onverstandig
 oninteressant
 onaangenaam
 onduidelijk
+veilig
+gevaarlijk
+onveilig
+*onklein
+*onlaag
+*ondun
+*onkort
 *ondroevig
 *ondom
 *onsaai
 *onvervelend
 *onverward
-veilig
-gevaarlijk
-onveilig
 ongevaarlijk
  Aﬂeiding door categorieneutrale preﬁgering
 herbouwen

@@ -144,8 +144,9 @@ Mol omzetten in gram :
 PbCrO4
 8,075 g PbCrO4 bevindt zich in 300ml oplossing (200ml Na2CrO4 en 100ml Pb(NO3)2 )
  Aanvullende voorbeelden bij Hoofdstuk 1
-Hoeveel gram SF4 (g) ontstaat er wanneer 5,00 g SCl2 (g) reageert met 4,50 g NaF (v)
+Hoeveel gram SF4 (g) ontstaat er wanneer 5,00 g SCl2
 volgens onderstaande reactievergelijking?
+reageert met 4,50 g NaF
 Welke druk veroorzaakt dit gas als deze reactie doorgaat in een vat van 10 l en bij een
 temperatuur van 25 °C?
 Welk volume neemt S2Cl2 (g) in als deze reactie zou doorgaan bij 1013 hPa en 30 °C?
@@ -176,7 +177,10 @@ V is het volume die het gas inneemt (in l)
 n is het aantal mol gas (in mol)
 R is de universele gasconstante ( = 8,314 J.mol-1 K-1)
 T is de temperatuur (in K)
-In dit geval is P = ?
+In dit geval is P
+V
+n
+T
 n x R xT
 V
 PSF4
@@ -203,7 +207,11 @@ Om dit probleem op te lossen zullen we weer moeten gebruik maken van de ideale g
 maar eerst zullen we de partieeldruk van O2 moeten bepalen.
 De partieeldruk van O2 is de totale gasdruk – de dampdruk van het H2O
 We berekenen het aantal mol O2 uit de ideale gaswet
-P = partieeldruk O2 = 96,7 kPa
+P
+V
+n
+T
+= partieeldruk O2 = 96,7 kPa
 P xV
 R xT
 nO2
@@ -261,8 +269,8 @@ Hoeveel energie kost het om 922 g CaCO3 te ontbinden volgens deze methode?
 oplossing
 g CaCO3
 mol CaCO3
-energie
 mol
+energie
 1 mol CaCO3 (v)
 H is recht evenredig met de
 hoeveelheid stof die weg

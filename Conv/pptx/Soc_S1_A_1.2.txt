@@ -1,284 +1,2023 @@
-Aanvullingen
-Responsie op
-ingangssignalen en begintoestand
-Responsie berekenen
-• Gegeven toestandsbeschrijving (A, B, C, D) ,
-• Toestandsbeschrijving
-• Exhaustieve berekening van x[k] en y[k]
-Voorbeeld
-Gegeven
-“Oplossen” toestandsvergelijking
-• Gegeven toestandsbeschrijving, u[k] en x[0], wat zijn x[k] en y[k] ?
-• Toestandsbeschrijving
-A
-Algemeen:
-• Uitgangssignaal
-Nulingangs- en nultoestandsrespons
-Nulingangsresponsie
-Nultoestandsresponsie
-• Nulingangsresponsie: y[k] als u[k]
-• Nultoestandsresponsie: y[k] als x[0] = 0
-Toestandsbeschrijving en
-gelijkvormige matrices
-Toestandsbeschrijving is niet uniek
-, np] een nxn inverteerbare matrix
-– Is verandering van coördinaten: w[k] zijn de coordinaten van x[k] in de
-basis {p
-Toestandsbeschrijving is niet uniek
-• In de nieuwe toestandsvector w[k] hebben we een
-equivalente toestandsbeschrijving:
-A en zijn gelijkvormig
-• Beide systemen zijn equivalent. Let wel op initiële
-toestand. Nulingangsresponsie:
-Zorg ervoor dat P w[0] = x[0], dan is ook P w[k] = x[k]
-voor k>0, en dus y[k]=
-Voorbeeld
-D
-D
-Voorbeeld (2)
-Kies
-zodat x[k] = P w[k]
-D
-D
-Toestandsbeschrijving en
-matrixdiagonalisatie
-Diagonaalvorm
-• Veronderstel dat A diagonaliseerbaar is
-• Kies P =1,[v... , nv] met iveigenvector van A met
-eigenwaarde
-• Voor SISO systeem:
-• Toestand i beinvloedt toestand
-≠i niet
-j
-Diagonaalvorm voor SISO systeem
-• Som van
-eerste-orde
-systemen
-• Plus directe
-verbinding
-met winst̅+
-Voorbeeld
-D
-D
-Minimaliteit
-Voor sommige systemen kan een
-/ * = 0. De toestandsveranderlijke
-wi[k] kan dan niet beïnvloed
-worden. Het systeem is niet
-controleerbaar.
-Voor sommige systemen kan een
-0̅* = 0. De toestandsveranderlijke
-wi[k] kan de uitvoer niet
-beïnvloeden. Het systeem is niet
-observeerbaar.
-Een systeem dat niet observeerbaar
-en/of niet controleerbaar is heet
-niet-minimaal. Hetzelfde ingangsuitgangsgedrag kan gerealiseerd
-worden met een kleiner aantal
-geheugenelementen.
-Inwendige (interne) stabiliteit
-• Een systeem is inwendig stabiel →
-als0 x[k]
-als k
-k
-w λnk vn
-• Inwendig instabiel zodra één
-• Inwendig stabiel
-Nulingangsresponsie
-Nulingangsresponsie
-Nultoestandsresponsie
-• Ak x[0] bestuderen
-A
-(c = rijvector; SISO system)
-Nulingangsresponsie
-k
-w λnk vn
-basis {v
-= P-1 x[k] is de coördinatenvector van x[k] in de
-k
-basis {v
-is een gewogen som van exponentiële functies in k
-Nulingangsresponsie
-Bijdragen tot nulingangsresponsie
-Attractor / aantrekker
-Inwendig stabiel
-Repeller / afstoter
-Inwendig onstabiel
-Saddle point / zadelpunt
-Inwendig onstabiel
-Complexe eigenwaarden
-ω is genormaliseerde frequentie. 0 < 7 < 1
-• Eigenvectoren
-i en
-i
-• Neem complex toegevoegde termen samen in
-E
-een reële rijvector;
-ccis
-E
-Re
-G
-Complexe eigenwaarden (2)
-G
-• Bijdrage door complexe eigenwaarde in y[k] is
-product van:
-k - zie
-o Exponentieel verloop
-r reële eigenwaarde
-o Golvend verloop (K
-cos
-Complexe eigenwaarden
-Inwendig stabiel
-Bijdrage tot nulingangsresponsie
-Canonieke vorm en
-differentievergelijking
-Canonieke vorm
-• Zoek transformatiematrix 1Q
-q] zodat door de
+DEEL I:
+Psychologie van Individuele Verschillen:
+WAT & HOE?
+2. Methoden in de PID
+ Vragen
+Hoe kunnen we verschillen tussen mensen
+meten?
+Hoe kunnen we verbanden leggen tussen
+verschillen?
+Welke wetenschappelijke technieken gebruikt
+men in de PID?
+ Overzicht
+Verzamelen van informatie over verschillen tussen mensen
+- Soorten gegevens in de PID
+Verbanden leggen tussen verschillen tussen mensen
+- soorten verbanden
+- de correlatie
+- factoranalyse
+Evaluatie van informatie over verschillen tussen mensen
+Correlationele vs. experimentele methode
+Factoranalyse
+ 2.1. Verzamelen van
+gegevens
+ 2.1.1. Soorten gegevens in de PID
+Mensen kunnen op allerlei manieren van elkaar verschillen
+- lengte, haarkleur, gezondheid, persoonlijkheid, intelligentie
+In de PID:
+®Verschillen op het vlak van psychologische kenmerken:
+Persoonlijkheid, intelligentie
+Probleem: niet direct of makkelijk meetbaar of observeerbaar
+- Illustratie: leugendetectie
+- relatief eenvoudig probleem
+- groot belang
+- geen oplossing
+Methoden nodig om informatie te verzamelen over (verschillen
+tussen mensen inzake) deze psychologische kenmerken
+ 2.1.1. Soorten gegevens in de PID
+ÞMethoden nodig om informatie te verzamelen over
+(verschillen tussen mensen inzake) deze psychologische
+kenmerken
+Noem enkele methoden die
+onderzoekers/leken/praktijkpsychologen gebruiken om
+informatie te bekomen inzake psychologische
+eigenschappen?
+ 2.1.1. Soorten gegevens in de PID
+PID maakt gebruik van 4 soorten bronnen/soorten
+gegevens voor informatie over verschillen tussen
+mensen:
+2.1.1.1. S-data: zelfrapportering
+2.1.1.2. O-data: observeerdersrapportering
+2.1.1.3. T-data: testgegevens
+2.1.1.4. L-data: levensgegevens
+ 2.1.1. Soorten gegevens in de PID
+2.1.1.1. S-data: Zelfrapportering
+persoon rapporteert direct over zichzelf
+vele verschillende manieren
+On- of semigestructureerd:
+- interview, open vragen
+- autobiografie
+- bv. “20 statement test”, “Mijn leven als een dier”
+o.a. interessant voor meten van centrale aspecten
+van
+iemands identiteit (en gebruikt in bv
+crosscultureel
+onderzoek)
+ 2.1.1. Soorten gegevens in de PID
+2.1.1.1. S-data: Zelfrapportering
+persoon rapporteert direct over zichzelf
+vele verschillende manieren
+On- of semigestructureerd :
+- interview, open vragen
+- autobiografie
+- Projectieve technieken
+bv. Rorschach, TAT: aanbieden weinig gestructureerd,
+ambigu materiaal.
+Antwoorden vooral bepaald door
+eigenschappen van persoon.
+ 2.1.1. Soorten gegevens in de PID
+Voorbeeld Rorschach: Wat zie je hierin?
+ 2.1.1. Soorten gegevens in de PID
+Voorbeeld TAT: Wat is hier gebeurd?
+ 2.1.1. Soorten gegevens in de PID
+2.1.1.1. S-data: Zelfrapportering
+persoon rapporteert direct over zichzelf
+vele verschillende manieren
+On- of semigestructureerd :
+MAAR: nood aan objectieve coderingsschemas om
+gegevens vergelijkbaar te maken over personen
+zeer moeilijk te bewerkstelligen gegeven hoog
+subjectief karakter van beoordelingen
+Bovendien: betrouwbaarheid en validiteit van
+projectieve technieken worden dikwijls in twijfel
+getrokken (zie artikel Lilienfeld et al.)
+Nochthans: veel gebruikt
+ 2.1.1. Soorten gegevens in de PID
+2.1.1.1. S-data: Zelfrapportering
+Gestructureerd:
+- zelfrapporteringsvragenlijst
+Uitspraken of adjectieven, … items worden aan persoon
+voorgelegd en gevraagd om aan te geven in welke mate dit
+henzelf beschrijft
+bv.
+“Ik ben een gewetensvol persoon”
+helemaal
+niet
+helemaal
+wel
+= Likert rating schaal
+Antwoorden op meerdere items worden opgeteld of
+gemiddeld (rekening houdende met de inhoud van de items)
+ 2.1.1. Soorten gegevens in de PID
+2.1.1.1. S-data: Zelfrapportering
+Gestructureerd:
+- zelfrapporteringsvragenlijst
+vb: dromerigheid
+past
+past
+past
+past
+helemaal niet bij me
+eigenlijk niet bij me
+een beetje bij me
+goed bij me
+Ik verlies mezelf dikwijls helemaal in mijn gedachten
+Ik betrap mezelf dikwijls op dagdromen
+Ik kan me steeds goed concentreren zonder mijn gedachten te laten afdwalen
+Ik ben in staat om uren voor mij uit te staren en te surfen op enkel mijn gedachten 1
+Ik ben geen dagdromer
+OPDRACHT: vul in en bereken je dagdroomscore adhv het
+gemiddelde
+ 2.1.1. Soorten gegevens in de PID
+2.1.1.1. S-data: Zelfrapportering
+Gestructureerd:
+- zelfrapporteringsvragenlijst
+bestaan in vele vormen
+- klassieke persoonlijkheidsvragenlijst: algemene uitspraken
+- gecontextualizeerde vragenlijst: vraagt naar
+gedrag/gedachten/gevoelens in verschillende contexten
+- met herhaalde metingen: bv. Experience Sampling onderzoek,
+dagboekonderzoek: fluctuaties in kaart brengen
+verzameling gebeurt in
+dagdagelijkse leven!
+ 2.1.1. Soorten gegevens in de PID
+2.1.1.1. S-data: Zelfrapportering
+VOORDELEN:
+- persoon is enige met directe kennis over eigen interne wereld
+cfr. Emily Pronin: wijzelf kennen enkel onze eigen interne wereld
+en de externe wereld van anderen: fundamenteel onevenwicht
+- makkelijk en snel een veelheid aan informatie
+NADELEN:
+- afhankelijk van motivatie & capaciteit van persoon
+- bv. alexithymie
+- gevoelig voor (opzettelijke en onopzettelijke) vervormingen:
+BIAS
+- sociale wenselijkheid, zelfrepresentatie
+- geheugenbiassen
+ 2.1.1. Soorten gegevens in de PID
+2.1.1.2. O-data: observeerdersrapportering
+Ipv aan persoon zelf, vraagt men anderen om over
+iemand te rapporteren aan de hand van zelfde
+technieken als S-data
+Mensen maken continu beoordelingen van anderen
+(Opm: terrein van sociale cognitie: onderzoek naar
+verrichten, opslaan, en verwerken van informatie over
+anderen): hierop beroep doen
+Verschillende wijzen
+- getrainde beoordelaars vs. gekenden
+bv. assessment, Facial Action Coding System
+(Ekman),
+familie of partner (zelfde?)
+- in naturalistische setting of in laboratorium
+ 2.1.1. Soorten gegevens in de PID
+2.1.1.2. O-data: observeerdersrapportering
+VOORDELEN:
+- sommige biassen minder aanwezig bv.
+zelfrepresentatie
+- toegang tot andere info bv. indruk op anderen
+- meerdere observatoren:
+interbeoordelaarsbetrouwbaarheid
+middelen over beoordelaars: wegwerken van
+idiosyncratische elementen
+NADELEN:
+- andere biassen komen weer in spel, nl. van
+observator,
+bv. trends in diagnoses, hostile attribution bias
+ 2.1.1. Soorten gegevens in de PID
+2.1.1.3. T-data: testgegevens
+Gegevens van gestandaardizeerde tests: personen
+worden in gestandaardizeerde omstandigheden geplaatst
+en hun reactie op bepaalde stimuli worden gemeten
+Bv. Taken
+- intelligentie-items (zie later)
+- experimentele manipulaties
+bv. Stress-test, provocatie, lampje gaat aan,
+emotionele films of fotos, perceptuele stimuli,
+gelijkenissen/verschillen detecteren, etc.
+ 2.1.1.Soorten gegevens in de PID
+2.1.1.3. T-data: testgegevens
+Wat wordt gemeten? Door gestandaardizeerde
+omstandigheden een onuitputtelijk arsenaal aan
+metingen:
+- Gedrag
+- observatie, reactietijden, gelaatsuitdrukkingen,…
+- Zelfrapportering (dus enigszins overlap)
+- antwoorden op items, open antwoorden (projectieve
+technieken), video mediated recall,…
+- Fysiologie
+- hartslag, bewegingen van gelaatsspieren (facial
+EMG), hersenactiviteit (bv. fMRI), pupildilatie,
+temperatuur,…
+ 2.1.1. Soorten gegevens in de PID
+2.1.1.3. T-data: testgegevens
+Voorbeeld: de IAT:
+ontwikkeld in de jaren 90 door Anthony Greenwald et al.
+Meting van attitudes etc (bv. houding tov bepaalde
+andere groepen, racisme) dikwijls beinvloed door sociale
+wenselijkheid, zelfrepresentatie, etc.
+Ontwikkelen van meting die deze bewuste
+zelfrepresentatie kan omzeilen: de IAT
+ 2.1.1. Soorten gegevens in de PID
+2.1.1.3. T-data: testgegevens
+IAT:
+Idee: de opvattingen over onszelf en andere zijn
+opgeslagen in associatieve netwerken: netwerken van
+associaties tussen verschillende concepten
+bv. goed, slecht, mezelf, eigen/andere cultuur,
+vrouwen, ouderen, etc..
+Attitude = sterkte van associatie tussen twee
+concepten bv.
+eigen/andere cultuur en goed/slecht
+Als we deze associatiesterkte kunnen meten op een
+manier die directe zelfrapportering omzeilt: impliciete
+associatie tussen concepten
+ 2.1.1. Soorten gegevens in de PID
+2.1.1.3. T-data: testgegevens
+IAT: bv 2 concepten “zwart/blank” en “goed/slecht”
+S1: S die verwijzen naar zwart of blank
+slecht
+bv. fotos
+Categorizeer
+Categorizeer
+Categorizeer
+Categorizeer
+S2: goed of
+bv. pos en neg woorden
+S1+S2 als “blank of goed” of “zwart of slecht”
+S1+S2 als “blank of slecht” of “zwart of goed”
+als sneller “blank of goed” dan “blank of slecht”:
+sterkere impliciete associatie tussen blank en goed dan
+slecht
+= sterkte van impliciete associatie
+ ZWART
+BLANK
+ ZWART
+BLANK
+ GOED
+SLECHT
+oorlog
+ GOED
+SLECHT
+mooi
+ GOED
+of
+BLANK
+SLECHT
+of
+ZWART
+mooi
+ GOED
+of
+BLANK
+SLECHT
+of
+ZWART
+ GOED
+of
+ZWART
+SLECHT
+of
+BLANK
+ 2.1.1. Soorten gegevens in de PID
+IAT:
+® Meten van associaties tussen concepten
+bv. zelfbeeld. racisme, attitides tov ouderen, politieke
+voorkeuren, vrouwen/mannen, homo/hetero, etc…
+® Op een manier waarbij zelf-representatie omzeild wordt
+correleert slechts matig positief met expliciete meting
+® Veel succes, veel gebruikt, veel onderzoek
+® MAAR ook veel kritiek
+Kan gefaket worden
+Psychometrische kritiek
+Wordt beinvloed door allerlei factoren: eerder familiariteit, cult.
+omgeving?
+Predictieve validiteit? Wordt in vraag gesteld (cfr meta-analyse
+Oswald et al., 2013, JPSP http://psycnet.apa.org/psycinfo
+ 2.1.1. Soorten gegevens in de PID
+VOORDELEN:
+- direct vergelijkbaar: storende factoren worden zoveel
+mogelijk uitgesloten (standaardisatie)
+- laboratoriumsituatie geeft mogelijkheid tot vele mogelijke
+(objectievere) metingen
+- laboratoriumsituatie geeft de mogelijkheid om causale
+factoren te
+manipuleren
+NADELEN:
+- ecologische validiteit:
+- is situatie levensecht genoeg?
+- is gesteld gedrag representatief voor alledaags
+gedrag ? (cfr. Social baseline theory)
+- in realiteit allerlei interacties met “storende variabelen”33
+ 2.1.1. Soorten gegevens in de PID
+2.1.1.4. L-data: levensgegevens
+gegevens over het leven van individuen obv hun activiteiten
+- “publieke data: ”opleiding, werk, burgerlijke stand,
+ouderschap, ongevallen,, …
+- (snoop) de manier waarop je je omgeving inricht en
+vormgeeft: beroepen, muziekkeuzes, huisinrichting, …: welke
+persoonlijkheids- of intelligentie kenmerken hangen hiermee
+samen?
+- supermarktaankopen, online gedrag, mobile sensing,
+sentiment analyse: The Age of Big Data
+= zeer hot momenteel
+bv. Persoonlijkheid, risico voor psychopathologie afleiden
+uit smartphonegegevens, online gedrag, etc
+ 2.1.1. Soorten gegevens in de PID
+2.1.1.4. L-data: levensgegevens
+VOORDELEN:
+- objectieve, levensechte gegevens
+NADEEL:
+- soms moeilijk beschikbaar (komt met internet
+verandering in)
+- privacy !?
+ 2.1.1. Soorten gegevens in de PID
+® Deze soorten gegevens leveren verschillende soorten
+informatie op over personen en de verschillen tussen
+personen
+= variabelen: een kenmerk dat verschillende waarden kan
+aannemen
+In PID: Variabelen beschrijven doorgaans verschillen tussen de
+mensen
+ 2.1.2. Variabelen
+Variabelen (die verschillen aangeven) kunnen van verschillende
+aard zijn:
+2.1.2.1. kwantitatief: waarden drukken verschillen uit in
+gradatie
+bv. van meer tot minder agressief, van veel tot weinig
+zelfvertrouwen, van hoge tot lage intelligentie, van veel tot
+weinig hersenactiviteit
+verschillen kunnen betekenisvol in cijfers uitgedrukt of
+geordend worden
+ 2.1.2.1. kwantitatieve
+variabelen
+• graad van agressie nagegaan via vragenlijst
+1.Ik ben impulsief
+ja neen
+2.Mijn potje kookt snel over
+ja neen
+3.Ik speel graag gewelddadige spelletjes ja neen
+ja neen
+ja neen
+ja neen
+ja neen
+ja neen
+ja neen
+ja neen
+ persoon
+agressie
+(score van 0 tot 10)
+Per persoon een score:
+• Verschillen tussen scores drukken kwantitatieve
+verschillen tussen mensen uit
+• Gemiddelde, SD, geven informatie over de
+verdeling van deze verschillen
+ 2.1.2. Variabelen
+Kwantitatieve verschillen tussen mensen nemen dikwijls (niet
+altijd) de vorm aan van een NORMAALDISTRIBUTIE (zie ook later)
+Reflecteert dat meeste mensen een waarde rond het gemiddelde
+hebben, en dat er steeds minder mensen zijn met een waarde
+meer extreem verwijderd van het gemiddelde
+-bv. lichaamslengte
+-Maar ook vele psychologische kenmerken: extraversie, IQ, …
+Wordt dikwijls grafisch voorgesteld :
+ Normaalverdeling
+ Normaalverdeling
+Enkele kenmerken:
+- 50% van de mensen scoren boven/onder het gemiddelde
+- ong. 68% heeft een score tussen -1/+1 SD van het gemiddelde
+- ong. 95% heeft een score tussen -2/+2 SD van het gemiddelde
+- slechts 2,3% heeft score 2SD boven gemiddelde,
+Dus voor vele psychologische kenmerken lijkt het zo te zijn dat
+-Meeste mensen hebben waarde dichtbij gemiddelde
+-Steeds minder mensen hebben meer extreme score in beide
+richtingen
+(Opm: dit is niet noodzakelijk altijd het geval, bv. aantal kinderen,
+frequentie van ervaren verschillende intensiteiten negatieve
+emoties: scheef verdeeld)
+ 2.1.2. Variabelen
+2.1.2.2. kwalitatief: waarden drukken verschillende soorten of
+groepen uit
+bv. mannen vs. vrouwen, verschillen tussen groepen,
+types,
+culturen
+® verschillen kunnen niet betekenisvol in cijfers uitgedrukt of
+geordend worden
+® verschillen zijn van kwalitatieve aard
+ 2.1.2.2. kwalitatieve
+variabelen
+1 iemand geslagen
+2 niet
+3 iemand geslagen
+4 niet
+5 niet
+6 niet
+iemand
+geslagen
+niet
+jongeren
+frequentietabel
+ Open lesweek
+Psychologie van individuele verschillen
+psychologie van algemene wetten
+= psychologie van VERSCHILLEN
+- tussen mensen
+- binnen mensen
+op vlak van
+- persoonlijkheid
+- cognitief functioneren, intelligentie
+ Open lesweek
+Psychologie van individuele verschillen
+Onderzoeksmethoden
+- hoe data verzamelen?
+- hoe inzicht krijgen in data? Cruciale vraag:
+Hoe hangen verschillen tussen/binnen mensen
+onderling samen?!
+- wat is het verband tussen intelligentie en schools
+presteren?
+- wat is het verband tussen gebruik sociale media en
+persoonlijkheid/mentaal welzijn?
+- wat is het verband tussen real life of online tijd
+doorbrengen met
+vrienden en hoe je je voelt?
+ 2.2. Verbanden tussen verschillen
+® Andere doel van PID: beschrijven van verbanden tussen
+verschillen
+® Dikwijls tussen verschillende soorten gegevens
+bv. hoe voorspelt intelligentie (T) levensoutcomes (L), hoe verhouden reacties op
+laboratoriumtaken (T) zich tot persoonlijkheidsvragenlijsten (S), hoe hangen
+individueel verschillen in hersenactiviteit (T) samen met gedrag in echte leven (L)?
+wat is het verband tussen gebruik sociale media (L) en persoonlijkheid/mentaal
+welzijn (S/O)? wat is het verband tussen real life of online tijd doorbrengen met
+vrienden (L) en hoe je je voelt (S)?
+(vragen rond triangulatie: zelfde fenomeen terugvinden in andere soorten
+gegevens?
+bv agressie)
+methoden nodig om verbanden tussen verschillen, variabelen te
+beschrijven
+ 2.2. Verbanden tussen verschillen
+Beschrijven van verbanden tussen verschillen: verschillende
+combinaties mogelijk afhankelijk van het soort variabelen
+2.2.1. kwalitatief-kwalitatief
+2.2.2. kwalitatief-kwantitatief
+2.2.3. kwantitatief-kwantitatief
+ 2.2.1. kwalitatief-kwalitatief
+iemand
+niet
+iemand
+niet
+niet
+niet
+niet
+geslagen man
+man
+geslagen man
+vrouw
+vrouw
+man
+vrouw
+man
+iemand
+geslage
 n
-M
-gelijkvormigheidstransformatie:
-M
-R
-Mnoemen we een compagnon-matrix
-Men A hebben dezelfde K.P. want gelijkvormig
-• Constructie van Q – zie later
-Waarom die Ã O
-en
-Constructie van Q
-2de vergelijking:T
-T
-Constructie van Q
-U
-T
-PQ
-PQ
-Waarom die Ã O
-en
-w
-w
-w
-w
-w
-w
-w
-Waarom die Ã O
-en
-Dus:
-Uitgangsvergelijking:
-Herschrijf:
-w1[k] elimineren
-Differentievergelijking
-O
-O
-f
-• Rechtstreeks verband tussen u[k] en y[k]
-• Dit heet een differentievergelijking
-• Alternatief voor de toestandsbeschrijving
-• Is een verband tussen differentievergelijking en canonieke vorm
-• M.a.w.: gegeven een differentievergelijking
-f
-f
-f
-Dan komen daarmee toestandsbeschrijvingen overeen die allemaal dezelfde K.P.
-hebben:%! + PQ
-R
-• Ook: gegeven een toestandsbeschrijving (A, b, c, d), dan komt daarmee een
-differentievergelijking overeen waarbij
-dedeã coëfficiënten van de K.P.
-i ook
-van A zijn
-Voorbeeld
+niet
+vrouw
+bivariate
+frequentietabel
+Als 0: implicationeel verband:
+ALS iemand geslagen, DAN man
+ kwalitatief-kwalitatief: interindividuele
+verschillen
+patiënt hallucinaties wanen
+kwalitatief-kwalitatief: intraindividuele
+verschillen
+tijdstip hallucinaties wanen
+ DUS: kwalitatief-kwalitatief:
+-Overlap tussen groepen
+-In kaart brengen adhv bivariate frequentietabel
+-Geeft zicht op implicationele verbanden: Als…dan…
+ patiënt
+hallucinaties wanen
+Oefening:
+• Maak de bivariate frequentietabel
+• Welk implicationeel verband kan je uit deze tabel afleiden?
+ 2.2.2. kwalitatief-kwantitatief
+persoon
+agressie
+geslacht
+man
+vrouw
+man
+man
+vrouw
+vrouw
+agressiescore
+agressiescore
+Vergelijking
+van
+gemiddelde
+mannen
+zijn
+agressieve
+r
+mannen
+vrouwen
+ DUS: kwantitatief-kwalitatief:
+-verschil tussen groepen
+-In kaart brengen adhv verschillen tussen
+gemiddelden
+-Geeft zicht op groepsverschillen
+ 2.2.3. kwantitatief-kwantitatief
+vragenlijst wantrouwen:
+1.ik krijg niet steeds wat ik verdien
+ja neen
+2.ik word soms achteruitgesteld
+ja neen
+3.ik word soms aangetast in mijn eer
+ja neen
+4.mensen zijn niet altijd te vertrouwen
+ja neen
+5.als er iets fout loopt, is dat de schuld van een ander
+ja neen
+6.mensen lopen soms over me heen
+ja neen
+7.arrogantie kan ik niet hebben
+ja neen
+8.voor schut staan is het ergste
+ja neen
+9.ik word geregeld gekwetst
+ja neen
+10.ik wil gerespecteerd worden
+ja neen
+ kwantitatief-kwantitatief: Interindividuele
+verschillen
+persoon
+agressie
+wantrouwen
+ kwantitatief-kwantitatief: Intraindividuele
+verschillen
+Situaties
+gepercipieerde
+belediging
+agressie
+ 2.2.3. De correlatie
+Verband tussen twee kwantitatieve variabelen wordt doorgaans (in
+meest eenvoudige vorm) uitgedrukt in een correlatie
+= essentiële methode in PID
+(Verschillen tussen mensen in psychologie worden dikwijls
+kwantitatief uitgedrukt)
+Meest gebruikte is de Pearson produkt-moment correlatiecoëfficiënt:
+n
+een goed begrip en inzicht hierin is essentieel voor PID
+ 2.2.3. De correlatie
+Meest gebruikte is de Pearson produkt-moment
+correlatiecoëfficient: n
+® Koppelt afwijkingen in 1 variabele van diens
+gemiddelde aan afwijkingen in andere variabele van
+diens gemiddelde (gedeeld door SD’s hetgeen waarde
+brengt tussen -1 en 1):
+ 2.2.3. De correlatie
+Meest gebruikte is de Pearson produkt-moment
+correlatiecoëfficiënt:
+n
+- Als afwijkingen van gemiddelde voor beide variabelen
+gelijklopen: hoge positieve waarde (r = .98)
 X
 Y
+ 2.2.3. De correlatie
+Meest gebruikte is de Pearson produkt-moment
+correlatiecoefficient:
+n
+- Als afwijkingen van gemiddelde voor beide variabelen
+tegengesteld verlopen: hoge negatieve waarde (r = -.98)
 X
 Y
-Z
-PQ
-PQ
-Voorbeeld
+ 2.2.3. De correlatie
+Meest gebruikte is de Pearson produkt-moment
+correlatiecoefficient:
+n
+- Als afwijkingen van gemiddelde niet samenhangen: rond 0
+X
+Y
+ 2.2.3. De correlatie
+n
+® Drukt verband uit tussen verschillen op het vlak van 1
+variabele met verschillen op het vlak van een tweede variabele
+als een grootheid -1 r 1
+2.2.3.1. RICHTING van verband
+als correlatie r > 0 : positieve samenhang : verschillen in de
+ene
+variabele hangen positief samen met verschillen in de
+andere variabele
+OF: Hoge score op de ene variabele hangt samen met hoge
+score op de
+andere variabele, en omgekeerd
+bv. r(schoenmaat,lengte), r(intelligentie, schoolse
+prestaties)
+2.2.3. De correlatie
+wantrouwen
+agressie
+hoger
+lager
+hoger
+lager
+ 2.2.3. De correlatie
+n
+® Drukt verband uit tussen verschillen op het vlak van 1
+variabele met verschillen op het vlak van een tweede variabele
+als een grootheid -1 r 1
+2.2.3.1. RICHTING van verband
+® als correlatie r < 0 : negatieve samenhang : verschillen
+in de ene variabele hangen omgekeerd samen met
+verschillen in de andere variabele
+OF: Hoge score op de ene variabele hangt samen met lage
+score op de
+andere variabele, en omgekeerd,
+bv. r(neuroticisme, geluk)
+2.2.3. De correlatie
+neuroticisme
+geluk
+hoger
+lager
+lager
+hoger
+2.2.3. De correlatie
+® correlatie is dus afhankelijk van/drukt uit:
+Hoe verschillen op 1 variabele samenhangen met verschillen op
+andere variabele
+Als verschillen veranderen, dan ook de r
+Þ Als verschillen tussen mensen veranderen, dan ook de
+correlatie?
+enkel als dit de SAMENHANG tussen verschillen beinvloedt
+twee belangrijke uitzonderingen
+2.2.3. De correlatie
+wantrouwen
+agressie
+® correlatie is NIET afhankelijk van
+- het gemiddelde van de variabelen
+- Cfr. r(schoenmaat, lengte)
+- Zie ook formule
+- de standaarddeviatie van de variabelen
+- cfr. r (schoenmaat, lengte)
+wantrouwen
+agressie
+- Zie ook formule
+Maw: r is invariant onder lineaire transformatie
+ 2.2.3. De correlatie
+2.2.3.2. STERKTE van verband
+Interpretatie van de grootte van een correlatie: wat is een sterk en
+wat is een zwak verband?
+1. Vuistregels Cohen (1988)
+2. Verklaarde variantie
+Er kan aangetoond worden dat r2 x 100 = % verklaarde variantie
+DUS: r = .50 25% van variantie in ene variabele is “te
+verklaren” aan de hand van de variantie in de andere
+variabele (lopen perfect samen)
+ 2.2.3. De correlatie
+2.2.3.2 STERKTE van verband
+Interpretatie van de grootte van een correlatie: wat is een
+sterk en wat is een zwak verband?
+2. Verklaarde variantie
+Er kan aangetoond worden dat r2 x 100 = % verklaarde
+variantie
+DUS: r = .50 25% van variantie in ene variabele is “te
+verklaren” aan de hand van de variantie in de
+andere variabele (lopen perfect samen)
+“verklaring”: statistische term, op zich verklaart
+het verband niets causaals
+ Verklaarde variantie
+PUNTEN
+DIFF PSYCH
+AANTAL
+STUDIEUREN
+ Verklaarde variantie
+PUNTEN
+DIFF PSYCH
+IQ
+AANTAL
+STUDIEUREN
+ Verklaarde variantie
+PUNTEN
+IQ
+AANTAL
+STUDIEUREN
+ 2.2.3. De correlatie
+2.2.3.3. Soorten correlaties
+CATTELL: taxonomie van soorten correlaties: interpretatie is
+afhankelijk van soort
+Gegevens in de psych:
+personen (doorgaans object in de psychologie)
+omstandigheden: tijdstippen, situaties, condities etc...
+variabelen: naar waar je kijkt; gedrag, test, activatie,
+antwoord op vraag, etc...
+Gegevenskubus: 2
+simon
+emily
+person
+en observatie
+pete
+liz
+83In 9elk
+zit
+een
+belogen
+kapot
+ongeluk
+situaties/tijdstippen
+beledigd
+woede frust wantoneerlijk
+r r
+variabe
+ 2.2.3. De correlatie
+2.2.3.3. Soorten correlaties
+CATTELL: taxonomie van soorten correlaties
+Afhankelijk van welke gegevens je beschouwd kunnen er
+verschillende r’s berekend worden die elk verschillende soort
+info opleveren:
+Gegevenskubus:
+simon
+observatie
+person
+en
+emily
+pete
+liz
+5In elk
+2 zit
+belogen
+kapot
+ongeluk
+beledigd
+situaties/tijdstippen
+woede frust wantoneerlijk
+r r
+variabe
+ 2.2.3. De correlatie
+Telkens 1 schijf uit de kubus nemen:
+1. Correlaties tussen gegevens bekomen bij 1 persoon
+2.2.3.3.1. O-correlatie: tussen twee momenten, over
+variabelen
+bv. r(belogen, kapot): mate waarin deze twee situaties
+gelijkaardig patroon van reacties uitlokken in bepaalde
+persoon
+simon
+emily
+pete
+liz
+woede frust wantoneerlijk
+r r
+belogen
+kapot
+ongeluk
+beledigd
+ 2.2.3.De correlatie
+Telkens 1 schijf uit de kubus nemen:
+1. Correlaties tussen gegevens bekomen bij 1 persoon
+2.2.3.3.2. P-correlatie: tussen twee variabelen, over
+momenten
+bv. r(woede, frustratie): mate waarin woede en
+frustratie gelijklopen doorheen verschillende situaties in
+bepaalde persoon
+simon
+emily
+pete
+liz
+woede frust wantoneerlijk
+r r
+belogen
+kapot
+ongeluk
+beledigd
+ 2.2.3.De correlatie
+Telkens 1 schijf uit de kubus nemen:
+Correlaties tussen gegevens bekomen op zelfde
+moment/situatie
+2.2.3.3.3. Q-correlatie: tussen twee personen, over
+variabelen
+bv. r(emily, pete): mate waarin ze gelijkaardig patroon
+van reacties vertonen in deze situatie 5 8 9 1
+simon
+emily
+pete
+liz
+woede frust wantoneerlijk
+r r
+belogen
+kapot
+ongeluk
+beledigd
+ 2.2.3.De correlatie
+Telkens 1 schijf uit de kubus nemen:
+Correlaties tussen gegevens bekomen op zelfde
+moment/situatie
+2.2.3.3.4. R-correlatie: tussen twee variabelen, over
+personen
+bv. r(woede, frustratie): mate waarin individuele
+verschillen in woede samenhangen met individuele
+verschillen in frustratie
+emily
+Opm: meest typische/gebruikte
+pete
+liz
+simon
+woede frust wantoneerlijk
+r r
+belogen
+kapot
+ongeluk
+beledigd
+ 2.2.3.De correlatie
+Telkens 1 schijf uit de kubus nemen:
+Correlaties tussen gegevens bekomen voor 1 variabele
+2.2.3.3.5. S-correlatie: tussen twee personen, over
+momenten
+bv. r(emily, liz): mate waarin deze twee personen gelijk
+patroon van frustratie vertonen over situaties
+simon
+emily
+pete
+liz
+woede frust wantoneerlijk
+r r
+belogen
+kapot
+ongeluk
+beledigd
+ 2.2.3.De correlatie
+Telkens 1 schijf uit de kubus nemen:
+Correlaties tussen gegevens bekomen voor 1 variabele
+2.2.3.3.6. T-correlatie: tussen twee momenten, over
+personen
+bv. r(belogen, kapot): mate waarin de 2 situaties
+gelijkaardige individele verschillen uitlokken
+simon
+emily
+pete
+liz
+woede frust wantoneerlijk
+r r
+belogen
+kapot
+ongeluk
+beledigd
+ 2.2.3.De correlatie
+Soorten correlaties:
+Welke zeggen iets over interindividuele verschillen??
+T en R correlaties: correlatie over personen:
+in welke mate hangen individuele verschillen samen?
+Als hoog positief: hoofdeffect van personen!
+Q en S correlaties: correlatie tussen personen:
+in welke mate hangt profiel van 1 persoon samen met
+profiel van
+andere persoon?
+ 2.2.3.De correlatie
+2 belangrijke opmerkingen:
+1. Correlatie is geen causaliteit!
+- samenhang kan in eender beider richtingen zijn
+bv. r(succes, geluk), r(kip,ei)
+- samenhang kan zijn als gevolg van derde variabele,
+of toevallig
+bv. r(ooievaars, geboortes), r(4:2 finger ratio,
+agressie)
+Correlatie drukt enkel lineair verband uit!
+ 2.2.3.De correlatie
+Dikwijls hebben we informatie over meerdere variabelen
+bv. prestaties op een hele reeks taken, antwoorden op een
+hele reeks items, activatie in vele verschillende hersendelen,
+etc.
+Levert soms een groot aantal correlaties op!
+Hoe hier inzicht in krijgen?
+FACTORANALYSE!
+= statistische techniek die toelaat om de verbanden tussen
+een groter aantal variabelen inzichtelijk te maken aan de hand
+van een kleiner aantal variabelen, genaamd factoren
+= zie straks
+ 2.3. Evaluatie van informatie
+over verschillen tussen
+mensen
+Verschillende soorten gegevens (L, T, S, O) leveren info op
+over verschillen tussen mensen in verschillende
+omstandigheden, met verschillende metingen, etc.
+De correlatie laat ons toe om verbanden tussen deze
+verschillen te beschrijven
+Dit kan in eerste instantie belangrijke informatie opleveren
+over de waarde en betekenis van de gemeten verschillen!
+2.3.1. betrouwbaarheid
+2.3.2. validiteit
+2.3.3. links tussen data en triangulatie
+ 2.3. Evaluatie van informatie
+over verschillen tussen
+mensen
+2.3.1. Betrouwbaarheid
+= de mate waarin een bepaalde maat een betrouwbare
+meting is
+“Hoe betrouwbaar is de test in het meten?”, ongeacht hoe
+goed het iets specifieks meet
+Bv. stel meten van dominantie: O-data vs. S-data vs. T-data (4:2 vingerratio)
+Ongeacht de mate waarin ze elk dominantie meten, kunnen we nagaan
+hoe betrouwbaar elke meting is
+Verschillende soorten:
+2.3.1.1. test-hertest betrouwbaarheid
+2.3.1.2. interne consistentie
+2.3.1.3. interbeoordelaarsbetrouwbaarheid
+ 2.3. Evaluatie van informatie
+over verschillen tussen
+mensen
+2.3.1.1. test-hertest betrouwbaarheid
+= r tussen afname van test op 1 moment en afname van
+zelfde test op ander moment, over personen
+Als hoog: individuele verschillen op 1 moment komen sterk
+overeen met individuele verschillen op ander moment: de
+test meet individuele verschillen op een consistente manier
+doorheen de tijd
+Als laag: individuele verschillen veranderen doorheen de tijd
+Opm: kan ook indicatie zijn dat mensen veranderen… (zie
+later)
+ 2.3. Evaluatie van informatie
+over verschillen tussen
+mensen
+2.3.1.2. interne consistentie
+Test = verzameling van items/subtests die zelfde
+onderliggende eigenschap zouden moeten meten
+Interne consistentie: mate waarin items van zelfde test
+onderling correleren over personen
+geeft aan hoezeer individuele verschillen op verschillende
+items met elkaar samenhangen
+als items zelfde meten, zouden correlaties hoog moeten
+zijn
+Bv. items intelligentietest, nabijgelegen hersenactiviteit
+extraversie: sociale dominantie EN expressie emoties
+ 2.3. Evaluatie van informatie
+over verschillen tussen
+mensen
+2.3.1.3. interbeoordelaarsbetrouwbaarheid
+als informatie over zelfde eigenschap/variabele bekomen
+is van verschillende observators:
+= r tussen scores van verschillende observators over
+personen
+geeft aan in welke mate individuele verschillen volgens 1
+(soort) observator samenhangen met individuele
+verschillen volgens andere observator
+ 2.3. Evaluatie van informatie
+over verschillen tussen
+mensen
+2.3.2. Validiteit
+= de mate waarin een test meet wat het bedoelt te meten
+“Hoe goed meet de test wat het wil meten”
+= niet eenvoudig na te gaan, omdat te meten eigenschap dikwijls
+niet (objectief) observeerbaar is
+Bv. dominantie: welke reflecteert best echte niveaus van dominantie?
+Verschillende soorten:
+Gezichtsvaliditeit
+Predictieve validiteit
+Convergente validiteit
+Discriminante validiteit
+Constructvaliditeit
+ 2.3. Evaluatie van informatie
+over verschillen tussen
+mensen
+Gezichtsvaliditeit (face vailidity)
+= meet de test, op het eerste zicht, wat het bedoelt te meten?
+Als je de items/test bekijkt, lijkt de test zinvol?
+= belangrijke eerste evaluatie voor psycholoog
+Predictieve validiteit (of criteriumvaliditeit)
+= kan de test een extern criterium voorspellen?
+bv. agressievragenlijst: samenhang met agressie in dagelijkse leven?: r tussen
+test en uiting van agressie over personen
+Convergente validiteit
+= correleert de test met andere tests van zelfde eigenschap?
+bv. twee agressietests: r tussen tests over personen
+ 2.3. Evaluatie van informatie
+over verschillen tussen
+mensen
+2.3.2.4. Discriminante validiteit
+= meet de test niet wat het niet zou moeten meten?
+zorgen dat test niet iets anders meet
+bv. levenstevredenheid en sociale wenselijkheid: r tussen tests over personen
+2.3.2.5. Construct validiteit
+= overkoepelend: meet de test het theoretische construct dat
+het bedoelt te meten
+onderliggende trekken zijn niet zichtbaar: is de test een
+goede meting van het onderliggende theoretische contruct
+bv. extraversie, intelligentie: niet zichtbaar. Als we een test hebben, is de
+test in staat tot theoretische voorspellingen? Correleert de test (niet)
+met andere tests? Etc.
+ 2.3. Evaluatie van informatie
+over verschillen tussen
+mensen
+2.3.3. Links tussen data en triangulatie
+Betrouwbaarheid en validiteit gaan dikwijls over hoe een soort gegevens ,
+bekomen in 1 context, samenhangen met een ander soort gegevens , in
+een andere context
+bv. interbeoordelaarsbetrouwbaarheid, convergente valditeit
+= belangrijk om waarde van meting te onderzoeken
+Triangulatie: zelfde bevindingen obv informatie uit verschillende bronnen
+bv. verband zelfwaarde en agressie: experiment, vragenlijst,
+hypothetische situatie, etc…
+MAAR: als geen overeenkomst, wijst dit niet noodzakelijk op falen van
+meting, maar kan interessante informatie opleveren over theoretische
+constructen
+bv. cross-situationele consistentie in PH, personality coefficient (zie later)
+imperfecte correlaties tussen intelligentietests (culture-free)
+ 2.4. Correlationeel vs.
+experimenteel onderzoek
+In psychologie wordt dikwijls onderscheid gemaakt tussen
+experimenteel en correlationeel onderzoek:
+Experimentele methode:
+Manipulatie van variabele
+Between subjects: ! van random toewijzing (condities
+moeten volledig gelijk zijn op gemanipuleerde variabele na)
+Within subjects: ! van contrabalanceren
+Meting van AV
+Causale uitspraken, maar ecologische validiteit/natuurlijke variatie?
+Bv. effect van lawaai op studeren
+Correlationele methode: samenhang tussen variabelen
+Meting van 1 variabele en van tweede variabele: samenhang
+Geen causale uitspraken mogelijk, maar ecologische
+validiteit/natuurlijke variatie
+Bv. samenhang lawaai en studeren
+ 2.4. Correlationeel vs.
+experimenteel onderzoek
+In psychologie wordt dikwijls onderscheid gemaakt tussen
+experimenteel en correlationeel onderzoek:
+PID wordt soms gelijk gesteld met correlationele methode, en
+functieleer met experimentele methode.
+Hoewel er een correlatie is tussen beide (;-)), is deze
+opsplitsing niet volledig gerechtvaardigd:
+- PID maakt tevens gebruik van experimentele methode of
+combinatie
+bv. effect van lawaai tijdens studeren ifv persoonlijkheid, zie later
+vragen in PID gaan echter dikwijls over natuurlijke variatie:
+moeilijk (of weinig ethisch) enkel met exp methoden te
+bestuderen
+bv. effecten van/op PH of intelligentie, kinderen opvoeden met bepaalde
+eigenschappen, in bepaalde omstandigheden, blootstelling trauma, etc.
+ Samenvatting
+In PID maakt men gebruik van verschillende soorten gegevens
+die info opleveren over verschillen tussen mensen
+Gegevens kunnen afkomstig zijn van persoon zelf,
+observator, lab, of leven
+® Kunnen kwantitatief of kwalitatief van aard zijn
+en kunnen gebruikt worden om verband met andere
+variabelen na te gaan
+- als check van B of V
+- als test van theoretisch verband
+Naast gebruik van exp methode in PID
+ Extra oefening 1
+patiënt
+hallucinaties wanen houterig
+sociaal
+geïsoleerd
+Oefening:
+• (Bereken de correlaties tussen de vier variabelen over
+patiënten.)
+• Welk implicationele verbanden kan je uit deze tabel
+afleiden?
+ DEEL I
+PID:
+WAT EN HOE?
+2.5. Factoranalyse
+ Vragen
+Hoe krijgen we inzicht in samenhang tussen
+vele variabelen?
+Hoe kunnen we informatie verkrijgen over
+trekken of vaardigheden die mogelijks
+onderliggend zijn aan correlaties tussen tests?
+Hoe kunnen we achterhalen welke de
+belangrijke, fundamentele dimensies zijn
+waarop mensen van elkaar verschillen in een
+bepaald domein?
+ Overzicht
+2.5.1. Inleiding
+2.5.1.1. Doelstelling
+2.5.2. Factoranalyse met 1 factor
+2.5.3. Factoranalyse met 2 factoren
+2.5.4. Factoranalyse met meerdere factoren: Aantal factoren?
+2.5.5. Factoranalyse: opmerkingen
+ 2.5.1. Inleiding
+PID = psychologie van verschillen tussen mensen
+Centrale aanname in vele centrale theorieen van PID (zie
+later):
+Mensen verschillen op het vlak van eigenschappen die
+• niet direct observeerbaar zijn
+• die relatief stabiel zijn doorheen de tijd (zgn,
+structuureigenschappen: kenmerken stabiele structuur van
+menselijk informatieverwerkend apparaat, maar zie later)
+• die onderliggend zijn aan ons gedrag, gedachten,
+gevoelens, en mentale capiciteiten
+=“trekken”, “vaardigheden”
+Bv. extraversie, intelligentie
+ 2.5.1. Inleiding
+Bv. extraversie, intelligentie
+Deze eigenschappen vormen continue DIMENSIES waarop
+mensen van elkaar kunnen verschillen:
+Emily Pete
+Weinig
+Simon
+Veel
+-elke persoon neemt positie in op een dimensie
+-positie kan verschillend zijn tussen personen
+-positie op deze dimensie bepaalt mee de mate waarin
+mensen gedrag (gevoelens, gedachten, prestaties) stellen op
+taken, gedragingen waar de dimensie relevant voor is :
+bepaalt individuele verschillen!
+- Bv. extraversie, intelligentie
+ 2.5.1.1. Doelstelling
+“Heilige graal” van PID bestaat er deels uit te achterhalen welke deze
+dimensies zijn.
+METHODE: zoveel mogelijk informatie verzamelen van manieren waarop
+mensen van elkaar kunnen verschillen inzake een bepaald domein
+bv. intelligentie: prestaties op allerlei taken
+persoonlijkheid: allerlei gedragingen, PHkenmerken
+agressie: allerlei soorten uitingen
+Op basis van deze info: HOE kunnen we de onderliggende dimensies
+achterhalen?
+FACTORANALYSE!
+= statistische techniek die toelaat om de verbanden tussen een groter
+aantal variabelen inzichtelijk te maken aan de hand van een kleiner aantal
+onderliggende variabelen, genaamd factoren
+Ontwikkeld binnen PID (intelligentieonderzoek) om deze vraag te
+beantwoorden!
+ 2.5.1.1. Doelstelling
+Voorbeeld: Vertrekpunt: correlaties tussen enkelvoudige taakjes, items
+over personen:
+kwaad
+124/6=? irritatie
+opgewekt
+-Cognitieve- of persoonlijkheidstests vertonen onderling (meestal)
+correlaties
+onderliggende cognitieve vaardighe(i)d(en)/trekken die r’s verklaren?
+- vaardigheid/trek= structuureigenschap van het organisme in S-O-R
+schema die niet observeerbaar is (latente dimensie)
+- cognitieve vaardigheden/trek zijn individuele verschildimensies: voor
+elke persoon kan je aangeven hoeveel hij/zij van de vaardigheid/trek
+bezit
+- individuele verschillen in een cognitieve vaardigheid/trek zijn (mee)
+de oorzaak van individuele verschillen in concrete cognitieve taken
+of gedrag in situaties waarin de vaardigheid/trek meespeelt
+hoeveel cognitieve vaardigheden/trekken zijn er en welke zijn ze?
+ 2.5.1.1. Doelstelling
+student
+blij
+opgewekt
+tevreden
+Verklaring correlaties: Misschien zijn correlaties
+gevolg van onderliggende vaardigheid die
+meespeelt in de drie tests?
+ X2(pp)=.8 vaardigh stud + rest
+X3(pp)=.9 vaardigh stud + rest
+Student
+blij
+opgewekt
+tevreden
+latente
+dimensie Y
+Rekenvaardigh
+eid
+Geluk
+Mits bepaalde bijkomende assumpties kan men aan de
+hand van bovenstaand model geobserveerde
+correlaties verklaren:
+DUS:
+Correlaties tussen tests, persoonlijkheidsscores, prestaties, …
+Hoe verklaren?
+Misschien zijn er enkele onderliggende dimensies die de
+correlaties veroorzaken?
+Op zoek gaan met FA
+1.2. Methode
+– neem zoveel mogelijk ‘cognitieve
+vaardigheden’/’persoonlijkheid’-tests af
+– bereken de correlaties tussen de tests
+– ga na hoeveel en welke niet geobserveerde cognitieve
+vaardigheden /persoonlijkheidstrekken er nodig zijn om de
+correlaties te verklaren
+HOE?
+“naieve” methode: niet geobserveerde eigenschappen
+afleiden uit correlatiematrix aan de hand van visuele
+inspectie
+voorbeeld: trein intelligentie
+eerste methode: bereken correlaties tussen
+tijden over personen
+Keulen Londen Overpelt Diksmuide
+Keulen
+Londen
+Overpelt
+Diksmuide
+één dimensie:
+vaardigheid om met de trein te reizen
+Keulen Londen Overpelt Diksmuide
+Keulen
+Londen
+Overpelt
+Diksmuide
+twee dimensies:
+vaardigheid om in het binnenland met de trein te
+reizen
+vaardigheid om naar het buitenland te reizen met
+de trein
+Dit is nog overzichtelijk.
+Maar wat als
+Meerdere tests
+Minder eenduidig correlatiepatroon?
+voorbeeld: correlaties tussen standaard subtests van
+intelligentietest
+ intercorrelaties van 11 subtests van
+WAIS (berekend over 2100 personen)
+subtest
+Informatie
+Begrijpen
+Rekenen
+Overeenkomsten
+Cijferreeksen
+Woordenschat
+Substitutie
+Onvolledige
+tekeningen
+Blokpatronen
+Plaatjes ordenen
+Figuurleggen
+I
+B
+R
 O
-Met Q =
-, canonieke vorm:
-D
-D
-Voorbeeld
-PQ
-D
-D
-de differentievergelijking gehaald uit de canonieke vorm
-Impulsresponsie en convolutie
-Impulsresponsie
-• Doel: berekenen van de responsie. We hadden al:
-Exhaustief
-• Nultoestandsimpulsrespons (impulsrespons) h[k] van
-een SISO DTLTI systeem is y[k] wanneer
-k
-k
-k
-Verschoven impuls
-k
-k
-k
-k
-Ontbinding u[k]
-Lineair en tijdsinvariant
-Convolutie
-• Formeel
-d
-efd
-d
-b
-Lineair
-Tijdsinvariant
-• Voor een systeem dat uit de nultoestand vertrekt !
-• y[k] is de convolutie van u[k] en h[k]
-• Uitvoer is convolutie van invoer en impulsresponsie
-Convolutie
-Neutraal element: a[k]
-Lineair:
-• Enkelzijdige signalen a[k] = b[k] = 0 voor k<0 :
-d
-E
-=aPb
-efd
-efR
-• Causaal systeem: h[k] = 0 voor k<0
-Geen respons vóór de excitatie
-Impulsresponsie
-Nulingangsresponsie
-Nultoestandsresponsie
-2 term blijft enkel index j=0 staan
-de term:
-cA
-b
-Voorbeeld
-d
-E
-E
-E
-E
-steorde
-Impulsresponsie van
-1 systeem
-b
-D
+C
+W
+S
+OT BP PO FL
+Dit is al minder overzichtelijk!
+Gebruik van FACTORANALYSE:
+= statistische techniek die toelaat om de verbanden tussen
+een groter aantal variabelen inzichtelijk te maken aan de
+hand van een kleiner aantal onderliggende variabelen,
+genaamd factoren
+FACTORANALYSE?
+• Theoretisch: structuur van individuele verschillen in
+cognitieve vaardigheden/persoonlijkheid kennen
+(individuele verschilsdimensies)
+• Praktisch:
+als we deze fundamentele dimensies kennen:
+gebruiken voor optimaal voorspellen van ziekte en
+gezondheid, schoolsucces of jobsucces, geluk,
+psychopathologie, relatietevredenheid, etc etc
+ 2.5.2. Factor-analyse met 1 factor
+n tests: n*(n-1)/2 correlaties tussen deze test
+• factoranalytisch model = model om correlaties (statistisch)
+te verklaren op basis van onderliggende, latente dimensies
+(cognitieve vaardigheden/ persoonlijkheidstrekken)
+• alle scores zijn uitgedrukt in gestandaardiseerde Z-scores
+ 2.5.2. Factor-analyse met 1 factor
+Model met 1 onderliggende factor:
+Basis uitgangspunt:
+Score van een persoon op een test wordt bepaald door
+1. Mate waarin persoon onderliggende algemene
+vaardigheid/trek bezit die meespeelt in de test
+2. Mate waarin test deze vaardigheid/trek meet
+3. Specifieke vaardigheden/trek voor de test + meetfout
+Nu in formules!
+- beter, preciezer inzicht
+- geeft toegang tot allerlei extra informatie
+ 2.5.2. Factor-analyse met 1 factor
+model voor n tests T1 ,
+gekend
+geobserveerd
+niet gekend
+niet
+geobserveerd
+te schatten,
+hoe valt buiten cursus
+ 2.5.2. Factor-analyse met 1 factor Model
+model voor n tests T1 ,
+j
+n
+Factorscores van personen op gemeenschappelijke
+factor F :
+• gemeenschappelijk voor alle n tests
+• Bv. in intelligentiedomein te interpreteren als cogn.118
+ 2. Factor-analyse: model met 1 factor
+model voor n tests T1 ,
+Factorladingen van verschillende tests:
+• geven aan in welke mate vaardigheid F meespeelt
+in resp. testen
+ 2. Factor-analyse: model met 1 factor
+model voor n tests T1 ,
+n specifieke variabelen, één per test: bevat
+1. specifieke vaardigheid voor test, die niet meespeelt
+in andere tests
+2. foutencomponent
+ 2. Factor-analyse: model met 1 factor
+model voor n tests T1 ,
+DUS: score van
+persoon i op test j
+wordt bepaald door:
+1. Mate waarin i
+algemene
+vaardigheid bezit
+die meespeelt in
+test (factorscore)
+x
+mate waarin deze
+vaardigheid
+meespeelt in test j
+(factorlading)
+Restcomponent: 121
+ 2. Factor-analyse met 1 factor
+T1 = liedje K3; T2 = liedje Gaga; T3 = liedje Pavarotti
+model voor n tests T1 ,
+zangprestatie
+zangtalent vermoeidheid, ziekte, specifieke
+vaardigheden
+n welke mate speelt zangtalent een rol in elk liedje?
+ 2.5.2. Factor-analyse: model met 1 factor
+2.5.2.2. Assumpties
+model
+factorscore op gemeenschappelijke
+factor
+geobserveerde
+score van pp i op
+test j
+factorlading
+specifieke vaardigheid + error
+assumpties
+ 2.5.2. Factor-analyse: model met 1 factor
+(1)factorladingen verklaren correlaties tussen tests
+populatiecorrelatie tussen 2 tests is product v.
+overeenkomstige factorladingen
+ 2.5.2. Factor-analyse: model met 1 factor
+DUS:
+Als je factorladingen kent, kan je correlaties tussen
+tests herberekenen:
+“Bestaan van onderliggende factor verklaart
+correlaties tussen tests”
+TERZIJDE: schattingsmethode is hierop gebaseerd:
+zoeken naar ladingen zodat deze de correlaties tussen
+de tests ZO GOED MOGELIJK verklaren
+ 2.5.2. Factor-analyse: model met 1 factor
+(2 factorladingen zijn
+) de resp. tests en de
+gelijk aan de populatiecorrelaties tussen
+factor F
+ 2.5.2. Factor-analyse: model met 1 factor
+factorladingen geven aan in welke mate de variantie van
+de resp. tests wordt verklaard door de factor F
+j
+F
+j
+Ej
+ 2.5.2. Factor-analyse: model met 1 factor
+factorladingen geven aan in welke mate de variantie van
+de resp. tests wordt verklaard door de factor F
+j
+Ej
+specificiteit
+communaliteit van test (hj2)
+grootte communaliteit bepaald door andere tests
+• erg heterogene tests → lage communaliteit
+• erg homogene tests → hoge communaliteit
+ 2.5.2. Factor-analyse: model met 1 factor
+DUS:
+Als je factorladingen kent, kan je berekenen hoeveel
+van de test bepaald wordt door de factor
+= de mate waarin de factor de score bepaalt op de
+test, meespeelt in de test
+= “communaliteit van test”: mate waarin
+gemeenschappelijke factor(en) meespeelt in de test
+; zie r2 = verklaarde variantie)
+ 2.5.2. Factor-analyse: model met 1 factor
+factorladingen geven belang van gemeenschappelijke
+factor aan
+prop. totale variantie
+verklaard door F
+j
+n
+j
+n
+n
+= de mate waarin de gemeenschappelijke factor een rol speelt
+in alle tests (proportie)
+ 2.5.2. Factor-analyse: model met 1 factor
+2.5.2.7. Interpretatie van factor
+(5) interpretatie van factor:
+– Factor = onderliggende WISKUNDIGE dimensie
+die scores op tests bepaalt (zie later)
+– Betekenis? geïnduceerd vanuit
+gemeenschappelijke kenmerken van tests die
+hoog laden op F
+ 1 factor-oplossing voor WAIS correlatiematrix
+subtests
+factorladingen
+Informatie
+Begrijpen
+Rekenen
+Overeenkomsten
+Cijferreeksen
+Woordenschat
+Substitutie
+Onvolledige tekeningen
+Blokpatronen
+Plaatjes ordenen
+Figuurleggen
+ Oefening:
+• Gegeven de 1 factor-oplossing voor de WAIS
+correlatiematrix:
+– Bereken de communaliteit van Cijferreeksen en
+Blokpatronen. Mag men besluiten dat
+Cijferreeksen een minder betrouwbare test is
+dan Blokpatronen?
+– Schat de correlaties tussen Woordenschat en
+Informatie, en tussen Blokpatronen en
+Figuurleggen. Vergelijk je uitkomst met de
+geobserveerde correlaties.
+– Wat is de prop. totale variantie verklaard door F?
+ Oefening:
+1. Hoe groot zijn 
+2. Hoe groot zijn de zes 
+’s als de eerste drie tests
+onderling .49 correleren en als de laatste drie tests
+onderling .64 correleren? En hoe groot zijn de
+correlaties tussen één van de eerste drie tests en
+één van de laatste drie tests?
+ 2.5.3. Factor-analyse: model met 2 factoren
+Model met meerdere onderliggende factoren: Basis
+uitgangspunt:
+Score op een test wordt bepaald door meer dan 1 factor
+die meespeelt in alle tests, dus
+Score van een persoon op een test wordt bepaald door
+1. Mate waarin persoon onderliggende
+vaardigheden/trekken bezit die meespelen in alle tests
+Mate waarin vaardigheden/trekken meespelen in test
+2. Specifieke vaardigheden/trek voor de test + meetfout
+DUS: scores op intelligentie/ persoonlijkheidstests worden
+bepaald door meerdere factoren
+ 2.5.3. Factor-analyse: model met 2 factoren
+Model met meerdere onderliggende factoren:
+Basis uitgangspunt:
+Score op een test wordt bepaald door meer dan 1 factor
+die meespeelt in alle tests, dus
+Voorbeelden:
+-voetbal, handbal, volleybal, tennis, …: lichamelijke conditie,
+balgevoel, spelinzicht (onafhankelijke vaardigheden die min
+of meer rol spelen in alle sporten)
+-Lachen, deur openhouden, met twee woorden spreken,
+knikken: vriendelijkheid en onderdanigheid (onafhankelijke
+factoren)
+ 2.5.3. Factor-analyse: model met 2 factoren
+model voor n tests T1 ,
+gekend
+geobserveerd
+niet gekend
+niet
+geobserveerd:
+worden geschat
+ 2.5.3. Factor-analyse: model met 2 factoren
+model voor n tests T1 ,
+• gemeenschappelijke factoren F1 en F2 voor alle n
+tests
+• Bv. cognitieve factoren in intelligentiedomein
+• elke persoon heeft een score op elke factor = 138
+ 2.5.3. Factor-analyse: model met 2 factoren
+model voor n tests T1 ,
+• factorladingen van tests op F1 en F2
+= mate waarin factor/vaardigheid meespeelt in test
+ 2.5.3. Factor-analyse: model met 2 factoren
+model voor n tests T1 ,
+• n specifieke variabelen, één per test:
+• specifieke vaardigheid die niet meespeelt in
+andere tests + foutencomponent
+ 2.5.3. Factor-analyse: model met 2 factoren
+2.5.3.2. Assumpties
+model
+factorscores op gemeenschappelijke
+factoren
+geobserveerde
+score van pp i op
+test
+j
+assumpties
+specifieke vaardigheid + e
+factorladingen
+ntercorrelatiematrix van gemeenschappelijke
+factoren=identiteitsmatrix
+ 2.5.3. Factor-analyse: model met 2 factoren
+(1) factorladingen
+verklaren correlaties tussen tests
+populatiecorrelatie tussen 2 tests is som van producten v.
+overeenkomstige factorladingen
+ 2.5.3. Factor-analyse: model met 2 factoren
+DUS:
+Als je factorladingen kent, kan je correlaties tussen
+tests herberekenen:
+Bestaan van onderliggende factoren verklaart
+correlaties tussen tests
+Opmerking: schattingsmethode is hierop gebaseerd:
+zoeken naar ladingen zodat deze de correlaties tussen
+de tests ZO GOED MOGELIJK verklaren
+ 2.5.3. Factor-analyse: model met 2 factoren
+(2)factorladingen
+zijn gelijk aan de populatiecorrelaties
+tussen de resp. tests en de factoren F1
+ 2.5.3. Factor-analyse: model met 2 factoren
+(3) factorladingen
+geven aan in welke mate de variantie van
+de resp. tests wordt verklaard door de factoren F1 en F2
+communaliteit specificiteit
+munaliteit v. test is som van gekwadrateerde factorladingen
+Ej
+Ej
+ 2.5.3. Factor-analyse: model met 2 factoren
+DUS:
+Als je factorladingen kent, kan je berekenen hoeveel
+van de test bepaald wordt door de factoren
+= de mate waarin de factoren de score bepalen op de
+test, meespelen in de test
+= “communaliteit van test”: mate waarin
+gemeenschappelijke factoren meespelen in de test
+(zie r2 = verklaarde variantie)
+ 2.5.3. Factor-analyse: model met 2 factoren
+(4)factorladingen
+geven belang van gemeenschappelijke
+factoren F1 en F2 aan
+prop. totale variantie
+verklaard door F1
+prop. totale variantie
+verklaard door F2
+ 2.5.3. Factor-analyse: model met 2 factoren
+2.5.3.7. Interpretatie van factor
+• interpretatie van factoren:
+– Factoren= onderliggende dimensies die scores
+op tests bepalen
+– Betekenis? geïnduceerd vanuit
+gemeenschappelijke kenmerken van tests die
+hoog laden op de resp. factor
+ 2 factor-oplossing voor WAIS correlatiematrix
+subtests
+Informatie
+Begrijpen
+Rekenen
+Overeenkomsten
+Cijferreeksen
+Woordenschat
+Substitutie
+Onvolledige tekeningen
+Blokpatronen
+Plaatjes ordenen
+Figuurleggen
+factorladingen F1 factorladingen F2
+ Oefening:
+• Gegeven de 2 factor-oplossing:
+– Bereken de communaliteit van Cijferreeksen en
+Blokpatronen. Vergelijk met de communaliteit
+gegeven de 1 factor-oplossing.
+– Schat de correlaties tussen Woordenschat en
+Informatie, en tussen Blokpatronen en
+Figuurleggen. Vergelijk je uitkomst met de
+geobserveerde correlaties en met de geschatte
+correlaties op basis van de 1 factor-oplossing.
+– Wat is de prop. totale variantie verklaard door F1
+’s op voor de volgende correlaties in het
+ 2.5.3. Factor-analyse: model met 2 factoren
+2.5.3.8. Grafische representatie
+Model met 1 factor:
+Kan grafisch gerepresenteerd worden als 1
+dimensie:
+Emily Pete
+Weinig
+Simon
+Veel
+Test 1
+Test 2
+Model met 2 (of meerdere factoren): kan voorgesteld
+worden in 2(meer)-dimensionele ruimte:
+ 2.5.3. Factor-analyse: model met 2 factoren
+2.5.3.8. Grafische representatie
+Factorladingen
+= coordinaten in
+assenstelsel
+Simon
+Emily
+ 2.5.3. Factor-analyse: model met 2 factoren
+2.5.3.8. Grafische representatie
+Deze figuurlijke
+voorstelling herbergt
+heel wat informatie:
 c
-k
-op
-E
-cb
+b
+a
+ 2.5.3. Factor-analyse: model met 2 factoren
+2.5.3.8. Grafische representatie
 c
-q
+b
+a
+1. gekwadrateerde
+lengte van test-vector is
+gelijk aan communaliteit
+van die
+cfr. stelling van
+Pythagoras
+= mate waarin factoren
+test bepalen!
+ 2.5.3. Factor-analyse: model met 2 factoren
+2.5.3.8. Grafische representatie
+c
+b
+a
+1. gekwadrateerde
+lengte van test-vector
+is gelijk aan
+communaliteit van die
+test
+DUS: lengte van de
+vector ~ hoeveel de
+factoroplossing
+verklaart in de test
+ 2.5.3. Factor-analyse: model met 2 factoren
+2.5.3.8. Grafische representatie
+2. geschatte correlatie tussen
+twee
+tests is gelijk aan scalair
+product van overeenkomstige
+test-vectoren, te berekenen
+aan de hand van de lengte
+van de vectoren en cos(θ)
+ 2.5.3. Factor-analyse: model met 2 factoren
+2.5.3.8. Grafische representatie
+2. geschatte correlatie tussen
+twee
+tests is gelijk aan scalair
+product van overeenkomstige
+test-vectoren
+DUS: hoek tussen twee tests
+weerspiegelt hun correlatie
+ 2.5.3. Factor-analyse: model met 2 factoren
+2.5.3.9. Uniciteit van schattingen
+• schattingen van factormodellen met meerdere
+factoren zijn niet uniek: er bestaan oneindig veel
+verzamelingen factorladingen,
+gemeenschappelijke factoren en specifieke
+factoren met
+– dezelfde geschatte correlaties tussen tests:
+– dezelfdeoplossing
+communaliteiten:
+oplossing 2
+test 1
+test 2
+ 2.5.3. Factor-analyse: model met 2 factoren
+2.5.3.9. Uniciteit van schattingen
+• grafisch komen verschillende oplossingen
+overeen met verschillende rotaties van
+assenstelsel!
+ 2.5.3. Factor-analyse: model met 2 factoren
+2.5.3.9. Uniciteit van schattingen
+• grafisch komen verschillende oplossingen
+overeen met verschillende rotaties van
+assenstelsel
+fde communaliteiten (cfr. Pythagoras)!
+fde geschatte correlaties (scalair product F1
+invariant onder orthogonale rotatie)!
+ 2.5.3. Factor-analyse: model met 2 factoren
+2.5.3.9. Uniciteit van schattingen
+• hoe kiezen tussen al die verschillende
+oplossingen / rotaties?
+• voor de hand liggend criterium:
+interpreteerbaarheid / psychologische
+begrijpbaarheid
+– simple structure: elke test heeft op slechts 1
+gemeenschappelijke factor een hoge lading
+– in intelligentieonderzoek: geen negatieve
+ladingen
+ voorbeeld simple structure
+test
+gemeenschappelijke factoren
+ 2 factor-oplossing voor de WAIS
+correlatiematrix
+ Orthogonaal geroteerde 2 factor-oplossing voor
+de WAIS correlatiematrix
+substitutie, onvolledige tekeningen,
+blokpatronen, plaatjes ordenen, figuurlegge
+informatie, begrijpen, rekenen, overeenkomsten,
+0,1 cijferreeksen, woordenschat
+ 2 factor-oplossing voor WAIS correlatiematrix:
+orthogonale rotatie naar simple structure
+subtests
+factorladingen F1 factorladingen F2
+Informatie
+Verbale
+Begrijpen
+intelligentie
+Rekenen
+Overeenkomsten
+Cijferreeksen
+Woordenschat
+Substitutie
+Onvolledige tekeningen
+Blokpatronen
+Plaatjes ordenen
+Figuurleggen
+Performanti
+e
+intelligentie
+ Voorbeeld: ingrediënten
+Factor1
+Factor2
+Factor3
+Factor4
+Pasta
+Tomaat
+Gehakt
+Parmesan
+Aardappel
+Vlees
+Mayonaise
+Selder
+Prei
+Soja
+Tofu
+Brood
+Gouda
+Hesp
+ Voorbeeld: factorladingen
+persoonlijkheidsbeschrijvende woorden
 E
-E
-E
-Vorm impulsresponsie
-cAvoor k > 0
-• Zelfde bespreking als nulingangsresponsie
-steorde systeem:λk-1
-cb, zie boven
-• Voor diagonaliseerbare A, som van:
-o Exponentiëel verloop
-λ complex)
-o Schommelend exponentiëel verloop
+V
+C
+N
+O
+2. Ruziezoekend .20
+3. Betrouwbaar .00
+4. Angstig
+5. openstaand
+6. Stil
+7. Vriendelijk .16
+8. Chaotisch
+ Oefening:
+• Gegeven de orthogonaal geroteerde 2 factoroplossing:
+– Bereken de communaliteit van Cijferreeksen en
+Blokpatronen. Vergelijk met de communaliteit
+gegeven de ongeroteerde 2 factor-oplossing.
+– Schat de correlaties tussen Woordenschat en
+Informatie, en tussen Blokpatronen en
+Figuurleggen. Vergelijk je uitkomst met de
+geschatte correlaties op basis van de
+ongeroteerde 2 factor-oplossing.
+– Wat is de prop. totale variantie verklaard door F1
+ 2.5.3. Factor-analyse: model met 2 factoren
+2.5.3.10. Oblieke rotaties
+• soms niet mogelijk om via orthogonale rotatie
+goed interpreteerbare oplossing te vinden
+• assumptie r(F1,F2)=0 laten vallen; is vaak ook
+inhoudelijk zinvol (bv verschillende soorten
+agressie, intelligentie)
+• grafisch:
+Obliek geroteerde 2 factor-oplossing voor de
+WAIS correlatiematrix
+ 2 factor-oplossing voor WAIS correlatiematrix:
+oblieke rotatie naar simple structure
+subtests
+factorladingen F1 factorladingen F2
+Informatie
+Verbale
+Begrijpen
+intelligentie
+Rekenen
+Overeenkomsten
+Cijferreeksen
+Woordenschat
+Substitutie
+Onvolledige tekeningen
+Blokpatronen
+Plaatjes ordenen
+Figuurleggen
+Performanti
+e
+intelligentie
+ 2.5.3. Factor-analyse: model met 2 factoren
+2.5.3.10. Oblieke rotaties
+• Gevolgen van het laten vallen van assumptie
+– ladingen zijn niet langer te interpreteren als
+correlaties tussen test en gemeenschappelijke
+r (T ,factor
+j
+j
+ 2.5.3. Factor-analyse: model met 2 factoren
+2.5.3.10. Oblieke rotaties
+– bij oblieke gemeenschappelijke factoren is
+correlatiematrix tussen factoren niet
+langer gelijk aan identiteitsmatrix:
+op de correlatiematrix kan je opnieuw factoranalyse toepassen = hogere orde
+factoranalyse (op correlaties tussen
+factorscores over personen)
+ 2.5.3. Factor-analyse: model met 2 factoren
+2.5.3.10. Oblieke rotaties
+– geschatte correlaties zijn niet langer de som
+van de producten van de
+overeenkomstige factorladingen
+ 2.5.3. Factor-analyse: model met 2 factoren
+2.5.3.10. Oblieke rotaties
+Oefening:
+Bepaal de formule voor het schatten van de
+correlatie tussen twee tests op basis van het
+factoranalytisch model met oblieke factoren.
+Controleer dan deze formule (moet zelfde resultaten
+opleveren als formule voor orthogonale factoren)
+door de geschatte correlatie tussen Woordenschat
+en Informatie te berekenen (r(F1,F2)=.63225;
+ladingen Informatie: .81872 en .02607;
+ 2.5.4. Factor-analyse: Model met
+meerdere factoren: Aantal factoren?
+(1) Tot nu: Factor analyse met 2 factoren. Echter:
+gemakkelijk uit te breiden naar meer factoren
+Vraag: Hoeveel gemeenschappelijke factoren
+kiezen?
+ 2.5.4. Factor-analyse: Model met
+meerdere factoren: Aantal factoren?
+• Vergelijking FA model met 1 versus 2 factoren
+1 factor model
+Communaliteit
+cijferreeksen
+Communaliteit
+blokpatronen
+Proportie verklaarde
+variantie
+2 factoren
+model
+ 2.5.4. Factor-analyse: Model met
+meerdere factoren: Aantal factoren?
+• Vergelijking FA model met 1 versus 2 factoren
+Correlatie tussen
+1 factor
+model
+2 factoren
+model
+geobserveerd
+Woordenschat en
+informatie
+Blokpatronen en
+figuurleggen
+ 2.5.4. Factor-analyse: Model met
+meerdere factoren: Aantal factoren?
+Conclusie:
+– geschatte correlaties tussen tests zijn slechts benadering
+van geobserveerde correlaties
+– hoe meer gemeenschappelijke factoren, hoe beter de
+benadering
+– indien evenveel gemeenschappelijke factoren als tests
+zullen voorspelde correlaties gelijk zijn aan geobserveerde
+correlaties MAAR niet spaarzaam.
+– Factoren moeten inzichtelijk zijn; gemakkelijk te
+interpreteren
+– Dus: Compromis zoeken tussen kwaliteit van
+benadering (veel factoren) en
+inzichtelijkheid/spaarzaamheid (weinig factoren).
+Dit is voor een stuk subjectief
+ 2.5.4. Factor-analyse: Model met
+meerdere factoren: Aantal factoren?
+Veelgebruikt criterium:
+Scree test (ontwikkeld door Cattell):
+Obv Eigenwaarde = totale variantie verklaard door factor
+®Geeft aan hoeveel factor uit het model verklaart
+Eigenwaarde daalt monotoon met aantal factoren (hoe meer factoren,
+hoe minder een bijkomende factor kan verklaren)
+Keuze = die oplossing met N factoren die een pak meer verklaart dan
+een oplossing met N-1 factoren, en die niet veel minder verklaart dan
+een oplossing met N+1 factoren
+= model VOOR de “elleboog” in een figuur die aantal factoren uitzet
+tegen eigenwaardes van oplossingen
+ 2.5.4. Factor-analyse: Model met
+meerdere factoren: Aantal factoren?
+Veelgebruikt criterium:
+Scree test (ontwikkeld door Cattell):
+= model VOOR de “elleboog”:
+1ste F verklaart 4.8
+2de F verklaart 1.1 (samen
+3de F verklaart 0.9 (samen
+ÞModel met 1 factor verklaart
+veel, extra factoren toevoegen
+verklaart niet veel meer extra
+ÞKeuze = model met 1 factor
+ 2.5.4. Factor-analyse: Model met
+meerdere factoren: Aantal factoren?
+Veelgebruikt criterium:
+Scree test (ontwikkeld door Cattell):
+= model VOOR de “elleboog”:
+1ste F verklaart 5.2
+2de F verklaart 3.3 (samen
+3de F verklaart 1.2 (samen
+4de F verklaart 1 (samen 10.7)
+ÞModel met 2 factor verklaart
+pak meer dan met 1 factor,
+extra factoren toevoegen
+verklaart niet veel meer extra,
+factor weglaten betekent groot
+verlies
+ 2.5.4. Factor-analyse: Model met
+meerdere factoren: welke factoren?
+(2) Gegeven bepaalde keuze voor
+gemeenschappelijk aantal factoren: Welke rotatie
+kiezen? Ongeroteerde oplossing, orthogonale
+rotatie, oblieke rotatie
+= oneindig veel wiskundig equivalente oplossingen
+(cfr. geen uniciteit)
+ Ongeroteerde 2 factor-oplossing voor WAIS
+correlatiematrix
+subtests
+Informatie
+Begrijpen
+Rekenen
+Overeenkomsten
+Cijferreeksen
+Woordenschat
+Substitutie
+Onvolledige tekeningen
+Blokpatronen
+Plaatjes ordenen
+Figuurleggen
+factorladingen F1 factorladingen F2
+ 2 factor-oplossing voor WAIS correlatiematrix:
+orthogonale rotatie naar simple structure
+subtests
+Informatie
+Begrijpen
+Rekenen
+Overeenkomsten
+Cijferreeksen
+Woordenschat
+Substitutie
+Onvolledige tekeningen
+Blokpatronen
+Plaatjes ordenen
+Figuurleggen
+factorladingen F1 factorladingen F2
+ 2 factor-oplossing voor WAIS correlatiematrix:
+oblieke rotatie naar simple structure
+subtests
+Informatie
+Begrijpen
+Rekenen
+Overeenkomsten
+Cijferreeksen
+Woordenschat
+Substitutie
+Onvolledige tekeningen
+Blokpatronen
+Plaatjes ordenen
+Figuurleggen
+factorladingen F1 factorladingen F2
+ 2.5.4. Factor-analyse: Model met
+meerdere factoren: welke factoren?
+Deze drie getoonde oplossingen zijn wiskundig equivalent:
+voorspelde correlaties hetzelfde, communaliteit van tests
+hetzelfde, totaal verklaarde variantie door factoren hetzelfde.
+Keuze?
+- Interpretatie van de factoren gebeurt op basis van de
+ladingen van de tests op de factoren
+- In cognitief domein: geen negatieve ladingen
+- Rotatie naar ‘simple structure’
+- Inhoudelijke interpretatie staat centraal; dit is voor een stuk
+subjectief
+ 2.5.5. Factor-analyse: opmerkingen
+1. De output van FA wordt volledig bepaald door de
+input
+a. Op vlak van proefpersonen
+Kenmerken proefgroep bepalen sterk gevonden structuur
+- allemaal zeer intelligent
+- allemaal sociaal voelend, etc.
+heeft invloed op welke structuur er gevonden wordt
+b. Op vlak van variabelen
+de onderliggende dimensies die je vindt hangen helemaal af van
+welke items of tests je oorspronkelijk hebt meegenomen in je
+analyse
+Bv. Dominant, bazig, assertief, machtig, krachtig, invloedrijk,
+autoritair, …
+Belangrijk dat je goede selectie maakt van items die het domein
+ 2.5.5. Factor-analyse: opmerkingen
+Statuut van de latente, onderliggende factor?
+Het feit dat je een factor vindt (=wiskundige zekerheid) betekent
+nog niet dat er dan ook echt een onderliggende factor bestaat
+bv. FA op lengtes van lichaamsdelen, mijn leeftijd, de prijs van
+zwitserse kaas, de lengte van mijn huisdierschildpad, en de
+afstand tussen melkwegen over de tijd: 1 factor
+1 onderliggende causale oorzaak?
++ oplossing heeft telkens oneindig veel equivalente varianten:
+wat zegt dit over werkelijkheidswaarde van “gevonden factoren”
+Factoranalyse is een van de meest gebruikte maar ook een van
+de meest misbruikte technieken in de psychologie!
+ ALS onderliggende factor DAN correlaties, maar niet per se
+ALS correlaties DAN onderliggende factor
+ 2.5.5. Factor-analyse: opmerkingen
+3. Rol van subjectiviteit
+FA-proces vergt verschillende subjectieve beslissingen
+(aantal factoren, rotatie): uiteindelijke uitkomst is hier dus
+ook van afhankelijk!
+Belang van starten met goede theorie
+ Extra oefeningen
+De correlaties tussen de drie oblieke factoren
+van eerste orde bedragen .06 (factor 1 en
+groot zijn de ladingen van deze factoren op de
+gemeenschappelijke factor van tweede orde?
+Als de tekens van de ladingen per factor
+omgekeerd worden, dan is dat zonder gevolgen
+• voor de correlaties --- juist? waarom wel /
+niet?
+• voor de interpretatie van de factoren ---idem
+ Extra oefeningen
+Hoe groot zijn r(T1,T2), r(T2,T3), r(T1,T3) als de
+’s de volgende zijn?
+en hoe groot zijn

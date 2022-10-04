@@ -7,9 +7,9 @@ badhanddoek
  Inleiding
 hiërarchische structuur
 hoofdigheid
-▶ compositionaliteit
-▶ structurele ambiguïteit
-▶ valentie & subcategorisatie
+compositionaliteit
+structurele ambiguïteit
+valentie & subcategorisatie
  Woorden & morfemen
 Een
 is een zelfstandige eenheid van vorm en betekenis.

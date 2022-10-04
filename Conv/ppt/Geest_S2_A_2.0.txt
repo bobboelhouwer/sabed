@@ -1,284 +1,203 @@
-Aanvullingen
-Responsie op
-ingangssignalen en begintoestand
-Responsie berekenen
-• Gegeven toestandsbeschrijving (A, B, C, D) ,
-• Toestandsbeschrijving
-• Exhaustieve berekening van x[k] en y[k]
-Voorbeeld
-Gegeven
-“Oplossen” toestandsvergelijking
-• Gegeven toestandsbeschrijving, u[k] en x[0], wat zijn x[k] en y[k] ?
-• Toestandsbeschrijving
-A
-Algemeen:
-• Uitgangssignaal
-Nulingangs- en nultoestandsrespons
-Nulingangsresponsie
-Nultoestandsresponsie
-• Nulingangsresponsie: y[k] als u[k]
-• Nultoestandsresponsie: y[k] als x[0] = 0
-Toestandsbeschrijving en
-gelijkvormige matrices
-Toestandsbeschrijving is niet uniek
-, np] een nxn inverteerbare matrix
-– Is verandering van coördinaten: w[k] zijn de coordinaten van x[k] in de
-basis {p
-Toestandsbeschrijving is niet uniek
-• In de nieuwe toestandsvector w[k] hebben we een
-equivalente toestandsbeschrijving:
-A en zijn gelijkvormig
-• Beide systemen zijn equivalent. Let wel op initiële
-toestand. Nulingangsresponsie:
-Zorg ervoor dat P w[0] = x[0], dan is ook P w[k] = x[k]
-voor k>0, en dus y[k]=
-Voorbeeld
-D
-D
-Voorbeeld (2)
-Kies
-zodat x[k] = P w[k]
-D
-D
-Toestandsbeschrijving en
-matrixdiagonalisatie
-Diagonaalvorm
-• Veronderstel dat A diagonaliseerbaar is
-• Kies P =1,[v... , nv] met iveigenvector van A met
-eigenwaarde
-• Voor SISO systeem:
-• Toestand i beinvloedt toestand
-≠i niet
-j
-Diagonaalvorm voor SISO systeem
-• Som van
-eerste-orde
-systemen
-• Plus directe
-verbinding
-met winst̅+
-Voorbeeld
-D
-D
-Minimaliteit
-Voor sommige systemen kan een
-/ * = 0. De toestandsveranderlijke
-wi[k] kan dan niet beïnvloed
-worden. Het systeem is niet
-controleerbaar.
-Voor sommige systemen kan een
-0̅* = 0. De toestandsveranderlijke
-wi[k] kan de uitvoer niet
-beïnvloeden. Het systeem is niet
-observeerbaar.
-Een systeem dat niet observeerbaar
-en/of niet controleerbaar is heet
-niet-minimaal. Hetzelfde ingangsuitgangsgedrag kan gerealiseerd
-worden met een kleiner aantal
-geheugenelementen.
-Inwendige (interne) stabiliteit
-• Een systeem is inwendig stabiel →
-als0 x[k]
-als k
-k
-w λnk vn
-• Inwendig instabiel zodra één
-• Inwendig stabiel
-Nulingangsresponsie
-Nulingangsresponsie
-Nultoestandsresponsie
-• Ak x[0] bestuderen
-A
-(c = rijvector; SISO system)
-Nulingangsresponsie
-k
-w λnk vn
-basis {v
-= P-1 x[k] is de coördinatenvector van x[k] in de
-k
-basis {v
-is een gewogen som van exponentiële functies in k
-Nulingangsresponsie
-Bijdragen tot nulingangsresponsie
-Attractor / aantrekker
-Inwendig stabiel
-Repeller / afstoter
-Inwendig onstabiel
-Saddle point / zadelpunt
-Inwendig onstabiel
-Complexe eigenwaarden
-ω is genormaliseerde frequentie. 0 < 7 < 1
-• Eigenvectoren
-i en
-i
-• Neem complex toegevoegde termen samen in
-E
-een reële rijvector;
-ccis
-E
-Re
-G
-Complexe eigenwaarden (2)
-G
-• Bijdrage door complexe eigenwaarde in y[k] is
-product van:
-k - zie
-o Exponentieel verloop
-r reële eigenwaarde
-o Golvend verloop (K
-cos
-Complexe eigenwaarden
-Inwendig stabiel
-Bijdrage tot nulingangsresponsie
-Canonieke vorm en
-differentievergelijking
-Canonieke vorm
-• Zoek transformatiematrix 1Q
-q] zodat door de
-n
-M
-gelijkvormigheidstransformatie:
-M
-R
-Mnoemen we een compagnon-matrix
-Men A hebben dezelfde K.P. want gelijkvormig
-• Constructie van Q – zie later
-Waarom die Ã O
-en
-Constructie van Q
-2de vergelijking:T
-T
-Constructie van Q
-U
-T
-PQ
-PQ
-Waarom die Ã O
-en
-w
-w
-w
-w
-w
-w
-w
-Waarom die Ã O
-en
-Dus:
-Uitgangsvergelijking:
-Herschrijf:
-w1[k] elimineren
-Differentievergelijking
-O
-O
-f
-• Rechtstreeks verband tussen u[k] en y[k]
-• Dit heet een differentievergelijking
-• Alternatief voor de toestandsbeschrijving
-• Is een verband tussen differentievergelijking en canonieke vorm
-• M.a.w.: gegeven een differentievergelijking
-f
-f
-f
-Dan komen daarmee toestandsbeschrijvingen overeen die allemaal dezelfde K.P.
-hebben:%! + PQ
-R
-• Ook: gegeven een toestandsbeschrijving (A, b, c, d), dan komt daarmee een
-differentievergelijking overeen waarbij
-dedeã coëfficiënten van de K.P.
-i ook
-van A zijn
-Voorbeeld
-X
-Y
-X
-Y
-Z
-PQ
-PQ
-Voorbeeld
-O
-Met Q =
-, canonieke vorm:
-D
-D
-Voorbeeld
-PQ
-D
-D
-de differentievergelijking gehaald uit de canonieke vorm
-Impulsresponsie en convolutie
-Impulsresponsie
-• Doel: berekenen van de responsie. We hadden al:
-Exhaustief
-• Nultoestandsimpulsrespons (impulsrespons) h[k] van
-een SISO DTLTI systeem is y[k] wanneer
-k
-k
-k
-Verschoven impuls
-k
-k
-k
-k
-Ontbinding u[k]
-Lineair en tijdsinvariant
-Convolutie
-• Formeel
-d
-efd
-d
-b
-Lineair
-Tijdsinvariant
-• Voor een systeem dat uit de nultoestand vertrekt !
-• y[k] is de convolutie van u[k] en h[k]
-• Uitvoer is convolutie van invoer en impulsresponsie
-Convolutie
-Neutraal element: a[k]
-Lineair:
-• Enkelzijdige signalen a[k] = b[k] = 0 voor k<0 :
-d
-E
-=aPb
-efd
-efR
-• Causaal systeem: h[k] = 0 voor k<0
-Geen respons vóór de excitatie
-Impulsresponsie
-Nulingangsresponsie
-Nultoestandsresponsie
-2 term blijft enkel index j=0 staan
-de term:
-cA
-b
-Voorbeeld
-d
-E
-E
-E
-E
-steorde
-Impulsresponsie van
-1 systeem
-b
-D
-c
-k
-op
-E
-cb
-c
-q
-E
-E
-E
-Vorm impulsresponsie
-cAvoor k > 0
-• Zelfde bespreking als nulingangsresponsie
-steorde systeem:λk-1
-cb, zie boven
-• Voor diagonaliseerbare A, som van:
-o Exponentiëel verloop
-λ complex)
-o Schommelend exponentiëel verloop
+De zinsdelen in
+vogelvlucht I:
+Subject en
+objecten
+ Subject (= onderwerp)
+Een van de medespelers die door het
+zinsww worden opgeroepen, neemt de
+functie van SUBJECT in
+ elke Nederlandse zin bevat een
+SUBJECT (op twee systematische
+uitzonderingen na)
+ Monovalente en avalente
+werkwoorden
+Monovalent zinswerkwoord: enige
+medespeler is SUBJECT:
+Bert lacht, Elvis leeft, Alles went, …
+Avalente ww’s krijgen een loos SUBJECT
+het:
+Het regent, Het heeft vorige week gesneeuwd
+= een louter structureel subject, heeft geen
+referent
+ Geprivilegieerde relatie
+tot
+ZR
+ Congruentie
+tussen SUBJECT en pv:
+overeenstemming in persoon en getal
+Ik heb de hele dag geslapen.
+De man heeft de hele dag geslapen.
+De mannen hebben de hele dag geslapen.
+Plaatsing: dichtbij de pv-plaats
+De mannen hebben gisteren de hele
+dag geslapen.
+Gisteren hebben de mannen de hele dag
+geslapen.
+ Divalente en trivalente
+werkwoorden
+ Veel werkwoorden: medespelervalentie > 1
+één MS = SUBJECT, andere medespelers
+verschijnen als object
+Nominale objecten: DIRECT OBJECT,
+INDIRECT OBJECT
+ Prepositionele objecten:
+VOORZETSELOBJECT, INDIRECT OBJECT
+(voor later: OORZAKELIJK OBJECT,
+AGENSOBJECT, BRONOBJECT)
+ De transitieve zin
+Het meest gewone zinstype: de transitieve zin met
+een ZINSRELATOR, een SUBJECT en een
+DIRECT OBJECT
+Jan beet de politieman.
+De vandalen vernielden het hele treinstel.
+Liesbeth bedacht ons aanvalsplan.
+Tim Wellens won de derde etappe.
+Het boek bevat 6 hoofdstukken.
+Herkenningscriteria: o.m. wordt SUBJECT bij
+passivering (indien mogelijk), krijgt van bij
+nominalisering
+ De transitieve zin
+Veel transitieve werkwoorden zijn handelingswerkwoorden:
+SUBJECT = Agens (controlerende instantie van wie de
+handeling uitgaat – degene die handelt)
+ DIRECT OBJECT = Patiens (niet-controlerende instantie
+die een handeling ondergaat, waarop een handeling gericht
+is)
+Maar zeker niet allemaal – andere voorbeelden:
+Mijn broer heeft drie huizen.
+Bart kreeg een nieuwe fiets.
+Die uitkomst verwondert mij.
+Ik weet de oplossing.
+ Twee soorten intransitieve
+zinnen
+ De enige medespeler bij een monovalent
+werkwoord is:
+ Agens: Bert lacht, Bob werkt, Brenda zucht, …
+ Patiens: Barbara valt, Benny sterft, De boshut
+brandt, …
+ Er is een reeks van werkwoorden met zowel
+een agentieve transitieve betekenis als een
+passissieve intransitieve betekenis
+Bart breekt de vaas / De vaas breekt
+Boris scheurt de stof / De stof scheurt
+Björn smelt de sneeuw / De sneeuw smelt
+ De ditransitieve zin
+Sommige trivalente werkwoorden kunnen twee
+krijgen: DIRECT OBJECT + INDIRECT OBJECT
+nominale objecten
+Jan geeft Piet een boek.
+De rector overhandigde de student het diploma.
+Hij vertelde zijn collega’s het goede nieuws.
+Ze weigerde de dronken klant de toegang.
+Anatool pakte Jommeke de voetbal af.
+INDIRECT OBJECT van het subtype Meewerkend
+Voorwerp:
+noemt tegenspeler van het SUBJECT in een overdracht (Recipiens of
+Bron)
+ Meewerkend voorwerp
+ Kenmerkende eigenschap: heeft een nominale
+vorm en een “omschreven” vorm met aan (of
+uitzonderlijk van)
+bv. Jan geeft een boek aan Piet.
+Hij vertelde het goede nieuws aan zijn
+collega’s.
+Anatool pakte de voetbal af van Jommeke.
+ Andere subtypes van het
+IO
+ Belanghebbend voorwerp (BV)
+Meemakend voorwerp (MmV)
+Oordelend voorwerp (OV)
+Possessieve datief (= een speciaal type MV en
+MmV)
+ Belanghebbend voorwerp
+ Noemt de Begunstigde van een handeling:
+Vader schonk de buurman een glas wijn in.
+Sergio bereidde ons een voedzame maaltijd.
+Karel kocht zijn zoontje een Playstation. (Belg. Nls)
+Mijn oma heeft mij een sjaal gebreid. (Belg. Nls)
+Verschil
+met MV:
+krijgt in de omschreven vorm voor
+noemt een medespeler die niet tot de valentie van het
+zinswerkwoord behoort
+ Meemakend voorwerp
+(MmV)
+ Komt voor bij divalente werkwoorden van het type
+overkomen = “affecterende” werkwoorden
+ Gisteren is de buren iets raars overkomen.
+ Een luide vloek ontsnapte de docent.
+ Er viel hem een warm onthaal te beurt.
+SUBJECT noemt doorgaans een zaak, MmV noemt
+de persoon die getroffen is door of betrokken bij het
+gebeuren
+ Meemakend voorwerp
+(MmV)
+ Verschil met MV: MmV is het enige object van het
+zinswerkwoord
+ Verschillen met DO: o.a. omschreven vorm met
+aan is mogelijk (zeker bij nominalisering)
+(Meer over verschil tussen MmV en DO in college 6)
+ Reflexieve DO’s en IO’s
+ Vast reflexieve verbindingen: vnw is deel van de
+zinsrelator. Bv: zich vergissen, zich schamen, zich
+onthouden
+Toevallig reflexieve verbindingen: vnw is DO of IO
+bv. Ik waste me, Els bekeek zich in de spiegel, Firmin
+gunde zich een verzetje
+Relevante verschil:
+ vnw is vervangbaar door andere NC (bv. iemand anders)
+ vnw is uitbreidbaar met –zelf
+ Voorzetselobject (VzO)
+ Sommige werkwoorden roepen een medespeler
+op die wordt geïntroduceerd door een vast
+voorzetsel = VOORZETSELOBJECT
+ Ik hou van grammatica, Ze denkt al aan de
+vakantie, We hopen op mooi weer, Ik verlang
+naar een fris pilsje, Hij bedient zich van de
+meest grove grappen, Ik reken op jullie, Ze
+trouwde met haar eerste jeugdliefde, …
+ Ze verplichten ons tot actie, Hij overtuigde me
+van zijn goede bedoelingen, De trainer
+vervangt de spits door een verdediger
+ Vast voorzetsel
+Het vz is niet-autonoom en paradigmaloos. Dat
+uit zich op verschillende manieren:
+1) niet vervangbaar:
+Ze legde zich neer bij/*onder de beslissing.
+Ze stak de draak met/*zonder haar baas.
+niet uitbreidbaar:
+Ik heb (samen) met hem een wandeling gemaakt.
+Hij stond (boven) op de kist.
+Ze stak de draak (*samen) met haar baas.
+Hij stond (*boven) op een correcte behandeling.
+ Vast voorzetsel
+niet weglaatbaar
+Ze overhandigde het pakje aan de buurman.
+Ze overhandigde de buurman het pakje.
+Ze ergert zich aan haar man.
+* Ze ergert zich haar man.
+Niet beklemtoonbaar:
+Hij stond OP de tafel.
+* Hij stond OP zijn rechten.
+ Vast voorzetsel
+In sommige gevallen is er wel een beperkt
+paradigma, maar dat correspondeert
+met
+(subtiel) betekenisverschil:
+Ik denk nu al aan de vakantie.
+Ze denkt over de aanschaf van een nieuwe
+auto.
+Denk om de vuilniszakken!
+ Plaatsingsvrijheid
+Belangrijke eigenschap van het
+VOORZETSELOBJECT: het kan zowel voor als na
+V
+… dat Chris op een correcte behandeling staat.
+… dat Chris staat op een correcte behandeling.
+… dat Chris aan de uitgang staat.
+…*dat Chris staat aan de uitgang.
+ Opdracht tegen volgende
+week
+ Lijst alle mogelijke combinaties op van de zinsdelen
+die we tot nu toe gezien hebben:
+SUBJ + ZR: Fido blaft.

@@ -1,5 +1,5 @@
 Definitie
-• n×n matrix A
+n×n matrix A
 n = 3, ontwikkeling langs 1ste kolom
 n = 3, ontwikkeling langs 2de kolom
 n = 3, ontwikkeling langs 3de kolom

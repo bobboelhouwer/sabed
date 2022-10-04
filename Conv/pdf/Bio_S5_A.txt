@@ -6,31 +6,52 @@ KU Leuven Kortrijk Kulak, Wetenschap & Technologie
 Academiejaar 2021-2022
  Inhoudsopgave
 1 Inleiding
-2 De experimenten van Mendel
+experimenten van Mendel
+Situering van Mendels werk . . . . .
+Monohybride kruisingen . . . . . . .
+Mendeliaanse overerving bij de mens
 3 Aanvullingen op Mendel
-3.2.3 Interactie tussen genen in metabole ketens . . . . . . . . . 33
+3.2.2 De erfelijke basis van gedrag . . . . . . .
+3.2.3 Interactie tussen genen in metabole ketens
 4 Chromosomen
-4.2 Genetische recombinatie door stukuitwisseling . . . . . . . . . . . 45
+4.1 Geslachtsgekoppelde overerving . . . . . . . .
+4.1.1 Geslachtsgekoppelde afwijkingen . . .
+4.2 Genetische recombinatie door stukuitwisseling
+4.4 Cytoplasmatische overerving . . . . . . . . . .
+4.5.2 Wijzigingen in chromosoomstructuur .
+4.5.3 Detectie van erfelijke afwijkingen . . .
 5 Mutaties en herstel
-5.2 Mutaties in meercellige organismen en kanker . . . . . . . . . . . 71
+5.1 Verschillende types mutaties . . . .
+5.2 Mutaties in meercellige organismen
+en kanker
 Inhoudsopgave
 6 Populatiegenetica
+6.2.1 Niet-willekeurige paring . . . . .
+6.3 Evolutie door natuurlijke selectie . . . .
+6.4 Het behoud van variatie in een populatie
+6.5 Selectie op continue variatie . . . . . . .
+6.7 Aanwijzingen voor evolutie . . . . . . .
 7 De genetica van bacteriën en virussen
+7.2.1 Het mechanisme van conjugatie
+7.2.2 Conjugatie en genkartering . .
+7.2.3 Gentransfer via plasmiden . . .
 8 Genregulatie
-8.2.3 Ontdekking van het lac operon door Jacob en Monod . . 121
-8.3.2 Activatie van transcriptie door RNA polymerase . . . . . 124
+8.2.3 Ontdekking van het lac operon door Jacob en Monod
+8.3.2 Activatie van transcriptie door RNA polymerase . . .
 9 Ontwikkelingsgenetica
-9.2.2 Embryonale ontwikkeling in ongewervelden . . . . . . . . 134
-9.2.3 Embryonale ontwikkeling in gewervelden . . . . . . . . . . 134
+9.2.2 Embryonale ontwikkeling in ongewervelden
+9.2.3 Embryonale ontwikkeling in gewervelden . .
+9.3.1 Celbestemming en celdifferentiatie . . . . .
  Inhoudsopgave
-9.4.1 Ontwikkeling van een zygote tot larve in Drosophila . . . 139
-9.4.5 Differentiatie van segmenten in Drosophila . . . . . . . . 141
+9.4.1 Ontwikkeling van een zygote tot larve in Drosophila . . .
+9.4.5 Differentiatie van segmenten in Drosophila . . . . . . . .
+Invloed van omgeving op de ontwikkeling . . . . . . . . . . . . .
 10 Evolutie van ontwikkeling
-10.1 Basisconcepten in evolutie van ontwikkeling . . . . . . . . . . . . 145
-10.2 Hoe mutaties tot een nieuw fenotype kunnen leiden . . . . . . . . 146
-10.3 Hoe bestaande genen een nieuwe functie kunnen krijgen . . . . . 150
-10.4 Convergente evolutie: mutaties in zelfde genen? . . . . . . . . . . 150
-10.6 Case-studie: verscheidenheid aan ogen in de dierenwereld . . . . 152
+10.1 Basisconcepten in evolutie van ontwikkeling . . . . . . . .
+10.2 Hoe mutaties tot een nieuw fenotype kunnen leiden . . . .
+10.3 Hoe bestaande genen een nieuwe functie kunnen krijgen .
+10.4 Convergente evolutie: mutaties in zelfde genen? . . . . . .
+10.6 Case-studie: verscheidenheid aan ogen in de dierenwereld
 11 Oefeningen
 Inhoudsopgave
  Hoofdstuk 1
@@ -3414,6 +3435,9 @@ De zygote heeft de vorm van de eicel en is dus radiaal symmetrisch. Tijdens de o
 een voor- en achterkant, een boven- en onderzijde en een reeks segmenten
 (patroonvorming). In een volgend stadium zullen deze verschillende delen van
 het lichaam op een eigen manier ontwikkelen en vorm krijgen (morfogenese).
+celdifferentiatie
+patroonvorming
+morfogenese
 Celdeling
 Van zygote naar embryo
 De zygote is een bijzonder grote cel. Kort na de bevruchting zal de zygote talrijke celdelingen ondergaan zonder dat de cel in grootte toeneemt. De talrijke
@@ -3425,9 +3449,6 @@ het cycline terug afgebroken. Daardoor kunnen de G1 en G2 fasen van de celcyclus
 te nemen. De sturing van de eerste delingen van de zygote is dus maternaal
 bepaald omdat ze gestuurd wordt door mRNA dat gevormd werd door de eicel
 voordat de eicel bevrucht was door de zaadcel.
-celdifferentiatie
-patroonvorming
-morfogenese
 blastomeren
 cycline
 Hoofdstuk 9. Ontwikkelingsgenetica

@@ -127,4 +127,5 @@ Matrix v.e. lineaire transformatie
 revisited (Lay 5.4)
 Wat zijn de coördinaten van deze vector in basis C ?
 Voorbeeld
-• T: VW is afgeleide naar t nemen
+Basis voor V = {1, t, t2} (keuze)
+T: VW is afgeleide naar t nemen

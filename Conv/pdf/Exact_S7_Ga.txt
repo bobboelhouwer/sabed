@@ -24,9 +24,13 @@ Elementaire matrices
 • Links vermenigvuldigen met een elementaire matrix voert een
 elementaire rij-operatie (ER) uit
 – Rijschaling: 0
+– Rijomwisseling: 0
+– Rijvervanging: 0
 Inverse van elementaire matrices
 • ER zijn omkeerbaar
 – Rijschaling: E= 0
+– Rijomwisseling: E= 0
+– Rijvervanging: E= 0
 • Bewijs: nagaan dat E-1E=EE-1=I
 A-1 berekenen
 A inverteerbaar  A  In

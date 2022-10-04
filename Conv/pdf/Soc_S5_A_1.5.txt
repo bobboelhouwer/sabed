@@ -11,12 +11,12 @@ Prof. Dr. Eva Van den Bussche
 • Terugkoppeling oefening
 • Empirische cyclus
 • De experimentele onderzoeksstrategie
-▪ Oorzaak-gevolg relaties
-▪ Elementen van een experiment
-▪ Bijkomende variabelen controleren
-▪ Controlecondities
-▪ Manipulatie checks
-▪ Externe validiteit verhogen
+Oorzaak-gevolg relaties
+Elementen van een experiment
+Bijkomende variabelen controleren
+Controlecondities
+Manipulatie checks
+Externe validiteit verhogen
 • Tussen-subject designs
 ▪ Karakteristieken
 ▪ Voor- en nadelen
@@ -397,10 +397,10 @@ Faculteit Psychologie en Pedagogische Wetenschappen
  Karakteristieken Tussen-subject design
 • Vergelijkt verschillende groepen participanten
 • Experiment:
-▪ Een onafh var wordt gemanipuleerd zodat er verschillende condities ontstaan
-▪ Een verschillende groep participanten wordt toegewezen aan elke conditie
-▪ De afh var wordt voor elke participant gemeten
-▪ De verschillen tussen de groepen wordt geanalyseerd
+Een onafh var wordt gemanipuleerd zodat er verschillende condities ontstaan
+Een verschillende groep participanten wordt toegewezen aan elke conditie
+De afh var wordt voor elke participant gemeten
+De verschillen tussen de groepen wordt geanalyseerd
 • Elke participant heeft slechts 1 score, elke score komt van een aparte, unieke
 participant → onafhankelijke scores
 • Voorbeeld: is er een verschil in effectiviteit tussen 2 onderwijsmethoden → 2
@@ -499,10 +499,10 @@ Faculteit Psychologie en Pedagogische Wetenschappen
 manipulatie)
 ▪ Variantie in de scores BINNEN groepen minimaliseren (= individuele verschillen)
 • Hoe kunnen we de binnen-groep variantie minimaliseren?
-▪ Gestandaardiseerde procedures en setting gebruiken
-▪ Individuele verschillen beperken (variabele constant houden)
-▪ Steekproefgrootte (n): grote steekproef verkleint variantie (cf. formule)
-▪ (Opmerking: matching en randomisatie hebben geen effect op binnen-groep
+Gestandaardiseerde procedures en setting gebruiken
+Individuele verschillen beperken (variabele constant houden)
+Steekproefgrootte (n): grote steekproef verkleint variantie (cf. formule)
+(Opmerking: matching en randomisatie hebben geen effect op binnen-groep
 variantie, enkel op verkleinen verschillen tussen groepen)
 Faculteit Psychologie en Pedagogische Wetenschappen
  Andere bedreigingen van interne validiteit

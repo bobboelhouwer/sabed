@@ -1,284 +1,454 @@
-Aanvullingen
-Responsie op
-ingangssignalen en begintoestand
-Responsie berekenen
-• Gegeven toestandsbeschrijving (A, B, C, D) ,
-• Toestandsbeschrijving
-• Exhaustieve berekening van x[k] en y[k]
-Voorbeeld
-Gegeven
-“Oplossen” toestandsvergelijking
-• Gegeven toestandsbeschrijving, u[k] en x[0], wat zijn x[k] en y[k] ?
-• Toestandsbeschrijving
-A
-Algemeen:
-• Uitgangssignaal
-Nulingangs- en nultoestandsrespons
-Nulingangsresponsie
-Nultoestandsresponsie
-• Nulingangsresponsie: y[k] als u[k]
-• Nultoestandsresponsie: y[k] als x[0] = 0
-Toestandsbeschrijving en
-gelijkvormige matrices
-Toestandsbeschrijving is niet uniek
-, np] een nxn inverteerbare matrix
-– Is verandering van coördinaten: w[k] zijn de coordinaten van x[k] in de
-basis {p
-Toestandsbeschrijving is niet uniek
-• In de nieuwe toestandsvector w[k] hebben we een
-equivalente toestandsbeschrijving:
-A en zijn gelijkvormig
-• Beide systemen zijn equivalent. Let wel op initiële
-toestand. Nulingangsresponsie:
-Zorg ervoor dat P w[0] = x[0], dan is ook P w[k] = x[k]
-voor k>0, en dus y[k]=
-Voorbeeld
-D
-D
-Voorbeeld (2)
-Kies
-zodat x[k] = P w[k]
-D
-D
-Toestandsbeschrijving en
-matrixdiagonalisatie
-Diagonaalvorm
-• Veronderstel dat A diagonaliseerbaar is
-• Kies P =1,[v... , nv] met iveigenvector van A met
-eigenwaarde
-• Voor SISO systeem:
-• Toestand i beinvloedt toestand
-≠i niet
-j
-Diagonaalvorm voor SISO systeem
-• Som van
-eerste-orde
-systemen
-• Plus directe
-verbinding
-met winst̅+
-Voorbeeld
-D
-D
-Minimaliteit
-Voor sommige systemen kan een
-/ * = 0. De toestandsveranderlijke
-wi[k] kan dan niet beïnvloed
-worden. Het systeem is niet
-controleerbaar.
-Voor sommige systemen kan een
-0̅* = 0. De toestandsveranderlijke
-wi[k] kan de uitvoer niet
-beïnvloeden. Het systeem is niet
-observeerbaar.
-Een systeem dat niet observeerbaar
-en/of niet controleerbaar is heet
-niet-minimaal. Hetzelfde ingangsuitgangsgedrag kan gerealiseerd
-worden met een kleiner aantal
-geheugenelementen.
-Inwendige (interne) stabiliteit
-• Een systeem is inwendig stabiel →
-als0 x[k]
-als k
-k
-w λnk vn
-• Inwendig instabiel zodra één
-• Inwendig stabiel
-Nulingangsresponsie
-Nulingangsresponsie
-Nultoestandsresponsie
-• Ak x[0] bestuderen
-A
-(c = rijvector; SISO system)
-Nulingangsresponsie
-k
-w λnk vn
-basis {v
-= P-1 x[k] is de coördinatenvector van x[k] in de
-k
-basis {v
-is een gewogen som van exponentiële functies in k
-Nulingangsresponsie
-Bijdragen tot nulingangsresponsie
-Attractor / aantrekker
-Inwendig stabiel
-Repeller / afstoter
-Inwendig onstabiel
-Saddle point / zadelpunt
-Inwendig onstabiel
-Complexe eigenwaarden
-ω is genormaliseerde frequentie. 0 < 7 < 1
-• Eigenvectoren
-i en
-i
-• Neem complex toegevoegde termen samen in
-E
-een reële rijvector;
-ccis
-E
-Re
-G
-Complexe eigenwaarden (2)
-G
-• Bijdrage door complexe eigenwaarde in y[k] is
-product van:
-k - zie
-o Exponentieel verloop
-r reële eigenwaarde
-o Golvend verloop (K
-cos
-Complexe eigenwaarden
-Inwendig stabiel
-Bijdrage tot nulingangsresponsie
-Canonieke vorm en
-differentievergelijking
-Canonieke vorm
-• Zoek transformatiematrix 1Q
-q] zodat door de
-n
-M
-gelijkvormigheidstransformatie:
-M
-R
-Mnoemen we een compagnon-matrix
-Men A hebben dezelfde K.P. want gelijkvormig
-• Constructie van Q – zie later
-Waarom die Ã O
-en
-Constructie van Q
-2de vergelijking:T
-T
-Constructie van Q
-U
-T
-PQ
-PQ
-Waarom die Ã O
-en
-w
-w
-w
-w
-w
-w
-w
-Waarom die Ã O
-en
-Dus:
-Uitgangsvergelijking:
-Herschrijf:
-w1[k] elimineren
-Differentievergelijking
-O
-O
-f
-• Rechtstreeks verband tussen u[k] en y[k]
-• Dit heet een differentievergelijking
-• Alternatief voor de toestandsbeschrijving
-• Is een verband tussen differentievergelijking en canonieke vorm
-• M.a.w.: gegeven een differentievergelijking
-f
-f
-f
-Dan komen daarmee toestandsbeschrijvingen overeen die allemaal dezelfde K.P.
-hebben:%! + PQ
-R
-• Ook: gegeven een toestandsbeschrijving (A, b, c, d), dan komt daarmee een
-differentievergelijking overeen waarbij
-dedeã coëfficiënten van de K.P.
-i ook
-van A zijn
-Voorbeeld
-X
-Y
-X
-Y
-Z
-PQ
-PQ
-Voorbeeld
-O
-Met Q =
-, canonieke vorm:
-D
-D
-Voorbeeld
-PQ
-D
-D
-de differentievergelijking gehaald uit de canonieke vorm
-Impulsresponsie en convolutie
-Impulsresponsie
-• Doel: berekenen van de responsie. We hadden al:
-Exhaustief
-• Nultoestandsimpulsrespons (impulsrespons) h[k] van
-een SISO DTLTI systeem is y[k] wanneer
-k
-k
-k
-Verschoven impuls
-k
-k
-k
-k
-Ontbinding u[k]
-Lineair en tijdsinvariant
-Convolutie
-• Formeel
-d
-efd
-d
-b
-Lineair
-Tijdsinvariant
-• Voor een systeem dat uit de nultoestand vertrekt !
-• y[k] is de convolutie van u[k] en h[k]
-• Uitvoer is convolutie van invoer en impulsresponsie
-Convolutie
-Neutraal element: a[k]
-Lineair:
-• Enkelzijdige signalen a[k] = b[k] = 0 voor k<0 :
-d
-E
-=aPb
-efd
-efR
-• Causaal systeem: h[k] = 0 voor k<0
-Geen respons vóór de excitatie
-Impulsresponsie
-Nulingangsresponsie
-Nultoestandsresponsie
-2 term blijft enkel index j=0 staan
-de term:
-cA
-b
-Voorbeeld
-d
-E
-E
-E
-E
-steorde
-Impulsresponsie van
-1 systeem
-b
-D
-c
-k
-op
-E
-cb
-c
-q
-E
-E
-E
-Vorm impulsresponsie
-cAvoor k > 0
-• Zelfde bespreking als nulingangsresponsie
-steorde systeem:λk-1
-cb, zie boven
-• Voor diagonaliseerbare A, som van:
-o Exponentiëel verloop
-λ complex)
-o Schommelend exponentiëel verloop
+Gedrag en genetica
+ HET KOMT IN DE FAMILIE VOOR …
+nature
+natuur
+genen
+erfelijk
+* bloedgroep
+nurture
+(op)voeding
+omgeving
+verworven
+* intelligentie
+* tafelmanieren
+* blauwe ogen
+* bloeddruk
+* dialect praten
+* mucoviscidose
+* dyslexie
+* recept voor taart
+* fragiele X-syndroom
+* gestalte
+* ziekte van Huntington
+* zwaarlijvigheid
+* geslacht
+ Aanleg criminalititeit
+genetisch
+gedetermineerd
+opvoeding
+“ongelukkige jeugd”
+ Aanleg sportieve prestaties
+talent
+training
+ Kwantitatieve genetica:
+Inschatten van de mate waarin waargenomen verschillen tussen individuen
+zijn te wijten aan genetische verschillen en/of verschillen in omgeving, zonder
+precies te bepalen wat deze specifieke genetische en omgevingsfactoren zijn.
+ HERITABILITEIT (H2)
+phenotype
+genotype
+VF
+omgevingsfactoren
+Welk percentage van de fenotypische variatie (VF)
+kan verklaard worden door genotypische variatie (VG)
+ HET KOMT IN DE FAMILIE VOOR …
+nature
+nurture
+natuur
+genen
+erfelijk
+(op)voeding
+omgeving
+verworven
+Aandeel van elk bepalen ?
+Experimenten (proef)dieren
+Mens: natuurlijk ontstane experimenten
+ HET KOMT IN DE FAMILIE VOOR …
+nature
+nurture
+natuur
+genen
+erfelijk
+(op)voeding
+omgeving
+verworven
+Aandeel van elk bepalen ?
+Experimenten (proef)dieren
+Mens: natuurlijk ontstane experimenten
+ Selectie (kweek) studies
+Bv. Trut Fox study Russia
+ Trage stijging van verschil tussen de 2 lijnen wijst op vele genen die een bijdrage leveren tot de variatie
+ HET KOMT IN DE FAMILIE VOOR …
+nature
+nurture
+natuur
+genen
+erfelijk
+(op)voeding
+omgeving
+verworven
+Aandeel van elk bepalen ?
+Experimenten (proef)dieren
+Mens: natuurlijk ontstane experimenten
+ Adoptiestudies
+ - Vergelijken van adoptie-kinderen met biologische ouders en met adoptie-ouders
+- Vergelijken tussen eigen kinderen en adoptie-kinderen
+- Vergelijken tussen genetisch verwante siblings, verschillend geadopteerd
+ Hoe meer het geadopteerde kind op de biologische ouders of broers en
+zussen lijkt, des te groter de invloed van genen;
+hoe meer de gelijkenis met het nieuwe adoptief gezin, des te sterker de
+invloed van omgeving
+ Adoptiestudies en cognitieve ontwikkeling ?
+ Adoptiestudies en cognitieve ontwikkeling ?
+correlatie
+Verbaal IQ
+performantieel IQ
+leeftijd
+kinderen en hun biologische ouders
+geadopteerde kinderen en hun biologische ouders
+geadopteerde kinderen en hun adoptie-ouders
+ Hoe komt het dat de erfelijke invloed op intelligentie
+oeneemt naarmate men ouder wordt, hoe meer je aan de
+omgeving bent blootgesteld ??
+Onze genen bepalen de omgeving waarin we leven…
+e zoeken een klimaat waarin hun potentie maximaal tot
+iting kan komen
+ Adoptiestudies en psychopathologie?
+Vb. schizofrenie
+Schizofrene biol-ouder(s)
+Niet-schizofrene biol-ouder(s)
+7% schizofrenie bij
+kinderen afgestaan adoptie
+0% schizofrenie bij
+kinderen afgestaan adoptie
+Schizofrenie
+adoptie-ouder/sib
+Schizofrenie
+biol-ouder/sib
+Schizofreen
+adoptie-kind
+Schizofrenie
+adoptie-ouder/sib
+Schizofrenie
+biol-ouder/sib
+Niet-schizofreen
+adoptie-kind
+ Tweelingstudies
+Één-eiige tweeling
+Twee-eiige tweeling
+TWEELINGSSTUDIES
+ Tweelingstudies
+Één-eiige tweeling
+Twee-eiige tweeling
+TWEELINGSSTUDIES
+ identieke tweeling
+niet-identieke tweeling
+CONCORDANTIE?
+*volledig genetisch bepaald
+als broer en zus
+*volledig omgeving bepaald
+wisselend, maar geen verschil identieke vs niet-identieke
+* multifactorieel
+wisselend, maar identieke > niet-identieke
+=> berekening van heritabiliteit
+ dizygote tweeling
+monozygote tweeling
+identiek
+GENEN
+OMGEVING
+gemeenschappelijk
+niet gemeenschappelijk
+identiek
+ monozygote tweeling
+identiek
+dizygote tweeling
+GENEN
+identiek
+OMGEVING
++ gemeenschappelijk
++niet gemeenschappelijk
+concordantie
+verschil in concordantie tussen MZ en DZ =
+ monozygote tweeling
+identiek
+dizygote tweeling
+GENEN
+identiek
+OMGEVING
++ gemeenschappelijk
++niet gemeenschappelijk
+concordantie
+verschil in concordantie tussen MZ en DZ =
+méér niet-gemeenschappelijke omgeving bij DZ tweelingen
+ 1. MZ tweelingen worden door omgeving
+meer op dezelfde manier behandeld
+2. MZ steeds zelfde geslacht => minder verschil
+in omgevingsinvloeden
+3. MZ tweelingen : kunnen monochoriaal zijn
+DZ tweelingen steeds dichoriaal
+Indien géén correctie voor groter gedeelte
+niet-gemeenschappelijke omgeving bij DZ tweelingen :
+Heritabiliteit wordt overgeschat.
+  Concordantie spraak-taalstoornissen :
+Monozygote tweelingen : > 90%
+Dizygote tweelingen : 50-60%
+Verschil = +/- 35 % => heritabiliteit is ongeveer 70%
+Welk percentage van de fenotypische variatie kan
+verklaard worden door genetische verschillen (VG)
+ monozygote tweeling
+dizygote tweeling
+ tweeling + adoptie
+apart opgevoed
+zelfde genen - andere omgeving
+concordantie
+= door genen
+verschil in concordantie
+= door omgeving
+   genen of omgeving
+genen en omgeving
+interactie
+ VOORBEELDEN VAN INTERACTIE
+GENEN EN OMGEVING
+ nature
+nurture
+antisociaal gedrag
+ Een van de grondleggers van de kwantitatieve genetica
+is Francis Galton (19de eeuw)
+Nature is all that a man brings with himself
+into the world; nurture is every influence
+from without that affects him after his birth
+ “”misdadiger worden is iemands noodlot”
+Johannes Lange, 1929
+10 /13 eeneiige tweelingen
+2 /17 twee-eiige tweelingen
+zaten samen in de gevangenis voor criminele feiten
+ MAO noodzakelijk voor afbreken van
+Neurotransmitters:
+dopamine, serotonine en noradrenaline.
+Serotonine betrokken bij regulatie agressie
+In deze familie: agressieve mannen stopmutatie in het MAO-gen
+ Polymorfisme in de promotor van MAO-gen (SNP)
+~1/3 personen populatie: lage aktiviteit
+~2/3 personen populatie: normale aktiviteit
+  risico op antisociaal
+gedrag
+mishandeling als kind
+  nature antisociaal gedrag
+nurture
+Genetische varianten
+in het MAOA gen
+Mishandeling als kind
+Laag socio-economisch milieu
+ Genen of omgeving
+Genen én omgeving
+Genen via omgeving
+“genetisch potentieel
+komt tot uiting
+via de omgeving”
+ SCHIZOFRENIE
+Nature
+Nurture
+“refrigerator mum”
+Cannabis: gen variant
+In het AKT1 gen, dat zorgt
+dat voorste hersenen
+overgevoelig worden aan
+dopamine.
+ Variatie van gestalte in de normale bevolking
+In welke mate komt deze variatie door
+Tweelingsstudies
+verschillen in genetische factoren ?
+verschillen in omgeving ?
+betere leefomstandigheden
+=> betere groei
+ Heritabiliteit
+= een maat voor genetische bijdrage
+aan de variatie van een kenmerk
+in welbepaalde omstandigheden
+in verschillende omstandigheden
+zal bijdrage van genen/omgeving
+verschillend zijn
+ wie wordt zwaarlijvig ?
+meer bepaald
+door voeding
+16de eeuw
+21e eeuw
+meer bepaald
+door genetische aanleg
+ Ongunstige omgeving
+ omgevingsfactoren verschillen sterk
+ variatie = bepaald door omgeving
+Optimale omgeving
+omgevingsfactoren meer gelijk
+variatie = bepaald door genen
+ Intelligentie
+NURTURE
+NATURE
+Ongelijke kansen
+Gelijke kansen
+Intelligentie = méér bepaald
+door toevallige omstandigheden die
+bepalen of je al of niet
+de kans krijgt te studeren
+Intelligentie is méér bepaald
+door genetische factoren
+Genetisch potentieel komt
+maximaal tot uiting
+ Gedragsproblemen bij specifieke
+genetische aandoeningen
+ Gedragsproblemen
+Gedragsproblemen treden vaak op bij personen met verstandelijke handicap (~1/3).
+biologische oorzaken
+psychologische
+sociale factoren kunnen hier aan de basis liggen.
+Personen met een verstandelijke handicap hebben dezelfde biologische en
+psychologische behoeften maar staan door hun handicap veel zwakker:
+minderwaardigheid, frustratie, angst, teruggetrokken, depressie.
+Deze gevoelens gaan zich dan uiten in abnormaal gedrag:
+agressiviteit (onbegrepen zijn), impulsiviteit (aandacht trekken), zelfverwondend
+gedrag.
+Bij ernstig verstandelijk gehandicapten komen gedragsproblemen vaker voor.
+Deze personen kunnen vaak niet op een adequate manier aan de omgeving kenbaar
+maken dat er iets aan de hand is (bijv. dat ze pijn hebben).
+ Gedragsfenotypes
+Sommige gedragspatronen zijn specifiek voor een bepaald syndroom
+= gedragsfenotypes
+helpen bij de diagnose,
+belangrijk voor zorgverleners en ouders
+De eerste beschrijving van een typisch gedragsfenotype gebeurde in 1971
+door W. Nyhan die het Lesch-Nyhan syndroom beschreef.
+Dit is een aangeboren metabole ziekte ten gevolge van een enzyme tekort
+(deficiëntie van hypoxanthine-guanine phosphoribosiltransferase (HPRT))
+en gaat gepaard met een uitzonderlijk gedrag van zelfverwonding (automutilatie).
+Bij een aantal andere syndromen zijn de kenmerken minder uitgesproken en
+realiseerde men zich pas later dat ze een essentieel deel van het syndroom vormden.
+  Voorbeelden van gedragsfenotypes
+Velo-cardio-facial syndroom (22q11.2 deletie)
+Prader-Willi syndroom (15q11-13 deletie)
+Smith-Magenis syndroom (17p11.2 deletie)
+Fragiel X syndroom
+- klinische phenotype
+- genotype
+- gedrags phenotype
+ Smith-Magenis Syndroom: klinische fenotype
+Brachycephalie
+Grof gelaat
+frontal bossing
+Tent mondje
+strabismus, myopie
+Hese-lage stem
+ Smith-Magenis Syndroom: genotype
+• deletie van
+ Smith-Magenis Syndroom: gedragsfenotype
+• Intelligentie varieert van mild tot ernstige MR
+• agressief en zelfverwondend gedrag: hoofd bonken,
+hand/vinger/pols bijten, nagels uittrekken, self-hugging
+• Aandacht zoeken
+• Woede aanvallen
+• Extreme slaap problemen:omdraaien dag-nacht,
+verschillende keren wakker worden ‘s nachts, zeer vroeg
+wakker
+  Implicaties
+Inlichten ouders !!!
+Behandelen van slaap problemen
+Frustratie vermijden
+long-term follow-up !
+ Prader-Willi Syndroom:
+klinische fenotype
+Ernstige neonatale hypotonie
+Hypogonadism
+Hyperphagia/obesitas
+Typische gelaat:
+smalle voorhoofd, amandelvormige
+ogen, kleine kin, dunne lippen
+ Prader-Willi Syndroom: genotype
+• 24% uniparentele maternele
+disomie
+• < 1% imprinting center defect
+ Prader-Willi Syndroom:
+gedrags fenotype
+MR
+Obsessie voor voedsel
+temper tantrums
+Psychosen
+Skin picking
+slaapproblemen
+ Implicaties
+Vroegtijdig ingrijpen (dieet en gedragsaanpak)
+Informatie aan de ouders en school
+Gestructureerde omgeving
+Supervisie rond voeding
+Zelfwaardegevoel, sociale vaardigheden
+Waakzaam zijn voor vroegtijdige signalen van
+psychopathologie
+• Zo nodig geneesmiddelen
+• Long-term follow-up!
+ Fragiele X syndroom
+ Fragiele X syndroom
+• 1943: Fragiele X syndroom beschreven door Martin & Bell
+• 1977: Fragiliteit van het X-chromosoom (Harvey et al.)
+• 1991: Ontdekking van de dynamische mutatie in FMR1:
+een amplificatie van het CGG tripletmethylatie van de
+promotor-region en het gen afwezigheid van het FMRP eiwit
+• Gedrags phenotype
+ Fragiele X syndroom
+  Fragiele X syndroom
+< 55 CGG herhalingen
+FMR-1 gen
+NORMAAL
+55 - 200 CGG herhalingen
+FMR-1 gen
+PRE-MUTATIE
+> 200 CGG herhalingen
+MUTATIE
+FMR-1 gen
+methylatie
+ Fragiele X syndroom: fenotype
+• Matige mentale handicap
+• Macro-orchidie
+• Faciale kenmerken:
+– Lang gezicht
+– Hoog voorhoofd
+– Prominente kin
+– Grote, wat afstaande oren
+Grote gestalte
+Macrocefalie
+Hyperlax
+Epilepsie
+ Fragiele X syndroom: fenotype
+ Typisch cognitief profiel
+• Matige verstandelijke handicap
+• Intellectuele achteruitgang met leeftijd
+• Zwakke concentratie
+ Typisch cognitief profiel
+• Problemen korte termijn geheugen
+• Deficit in “executive functioning”
+• Problemen visuo-constructieve en visuo-spatiale
+capaciteiten
+• Goede visuele analyse
+• Goed long-term geheugen
+• Zeer geïnteresseerd en alert
+ Typisch taal profiel
+Trage en late taalontwikkeling
+Articulatie problemen
+Weglatingen, stotteren
+Echolalie
+• Maar ze praten heel graag !
+ Typisch gedragsphenotype
+aandacht probleem zwakke
+concentratie
+hyperactiviteit
+motore stereotypieën
+nervositas
+agressiviteit
+verlegen
+vluchtig oogcontact
+vermijden van fysiek contact
+angstig
+ADHD
+Hypersensibiliteit aan sensoriële stimuli
+Onvoldoende inhibitie
+AUTISME
+ Fragiele X bij meisjes ?
+Fysieke kenmerken minder uitgesproken
+> 50%: lichte MR en leerstoornissen
+Cognitief niveau ~ ratio X-inactivatie
+Deficit in “executive functioning”
+Hyperactief
+Verlegen, sociaal wat teruggestrokken
+Depressieve aanleg
+  https://www.youtube.com/watch
+?v=_byqoPW_XFk
+https://
+www.youtube.com/watch?v=pg
+UZsOGOlfk

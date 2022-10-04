@@ -261,9 +261,9 @@ RS
 lineair verband conc. / tijd
 ln( A)t
 halveringstijd
+k
 eenheid van k
 mol
-k
 l
 ls
 s
@@ -462,7 +462,7 @@ we de waarde van k bepalen bij
 twee verschillende temperaturen
 Ae
 Ea
-k
+ln
 Ae
 Ea
 e

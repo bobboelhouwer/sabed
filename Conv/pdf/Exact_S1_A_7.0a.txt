@@ -10,8 +10,8 @@ Ag
 Ag ) 2 maal
 ln K
 ln K
-ln K
 K
+ln K
 Vermits het gaat over een zeer grote K waarde ligt het evenwicht sterk naar rechts.
 In welke richting gaat de onderstaande reactie spontaan door?
 Bijkomende gegevens:
@@ -21,19 +21,20 @@ De gegeven concentraties (druk) zijn geen standaard hoeveelheden en worden ingev
 de potentiaalbetrekking
  Aanvullende voorbeelden bij Hoofdstuk IX
 E
+ER
+EL
+oxidatie :
+reductie :
 links
 log
 n
 rechts
-ER
 log
 n
 PNO
-EL
 log Zn 2+
 n
-oxidatie :
-reductie :
+log
 log
 Zn wordt spontaan geoxideerd tot Zn2+ o.i.v. NO3- in aanwezigheid van H+ .
 De reactie in de opgave
@@ -44,6 +45,7 @@ Invullen van de gegevens in de potentiaalbetrekking
 ER
 log
 n
+log
  Aanvullende voorbeelden bij Hoofdstuk IX
 EL
 log
@@ -55,14 +57,13 @@ Bereken de Cu2+-concentratie als je weet dat onderstaande cel in evenwicht is.
 Oplossing
 Geen standaardomstandigheden:
 ER
+EL
+Evenwicht betekent
 log Cu 2+
 n
-EL
 log Sn 2+
 n
-Evenwicht betekent
 ER
-M
 dus
 ER = EL
  Aanvullende voorbeelden bij Hoofdstuk IX
@@ -79,9 +80,10 @@ n
 ER
 E cel
 R
-log
-log
 pH
+log
+log
+log
 log
 n
 log
@@ -97,8 +99,6 @@ van Co2+ en Fe3+. We bereken hiertoe de evenwichtsconstante voor de reactie
 log K ev
 log K ev
 a) samenvoegen maakt een totaal volume van 200 ml + 75 ml = 275 ml
-ml
-ml
 start
 einde
 weg
@@ -109,11 +109,13 @@ E = ECo
 log
 n
 b) samenvoegen maakt een totaal volume van
+x ml
+log
  Aanvullende voorbeelden bij Hoofdstuk IX
 start
-x
-weg
 einde
+weg
+x
 redoxbuffer
 In deze situatie is Co3+ het beperkend reagens en blijft Fe2+ over. Van het Fe3+/Fe2+ systeem
 zijn Ox en Red samen in oplossing en dit bepaalt de potentiaal.

@@ -1,284 +1,280 @@
-Aanvullingen
-Responsie op
-ingangssignalen en begintoestand
-Responsie berekenen
-• Gegeven toestandsbeschrijving (A, B, C, D) ,
-• Toestandsbeschrijving
-• Exhaustieve berekening van x[k] en y[k]
-Voorbeeld
-Gegeven
-“Oplossen” toestandsvergelijking
-• Gegeven toestandsbeschrijving, u[k] en x[0], wat zijn x[k] en y[k] ?
-• Toestandsbeschrijving
-A
-Algemeen:
-• Uitgangssignaal
-Nulingangs- en nultoestandsrespons
-Nulingangsresponsie
-Nultoestandsresponsie
-• Nulingangsresponsie: y[k] als u[k]
-• Nultoestandsresponsie: y[k] als x[0] = 0
-Toestandsbeschrijving en
-gelijkvormige matrices
-Toestandsbeschrijving is niet uniek
-, np] een nxn inverteerbare matrix
-– Is verandering van coördinaten: w[k] zijn de coordinaten van x[k] in de
-basis {p
-Toestandsbeschrijving is niet uniek
-• In de nieuwe toestandsvector w[k] hebben we een
-equivalente toestandsbeschrijving:
-A en zijn gelijkvormig
-• Beide systemen zijn equivalent. Let wel op initiële
-toestand. Nulingangsresponsie:
-Zorg ervoor dat P w[0] = x[0], dan is ook P w[k] = x[k]
-voor k>0, en dus y[k]=
-Voorbeeld
-D
-D
-Voorbeeld (2)
-Kies
-zodat x[k] = P w[k]
-D
-D
-Toestandsbeschrijving en
-matrixdiagonalisatie
-Diagonaalvorm
-• Veronderstel dat A diagonaliseerbaar is
-• Kies P =1,[v... , nv] met iveigenvector van A met
-eigenwaarde
-• Voor SISO systeem:
-• Toestand i beinvloedt toestand
-≠i niet
-j
-Diagonaalvorm voor SISO systeem
-• Som van
-eerste-orde
-systemen
-• Plus directe
-verbinding
-met winst̅+
-Voorbeeld
-D
-D
-Minimaliteit
-Voor sommige systemen kan een
-/ * = 0. De toestandsveranderlijke
-wi[k] kan dan niet beïnvloed
-worden. Het systeem is niet
-controleerbaar.
-Voor sommige systemen kan een
-0̅* = 0. De toestandsveranderlijke
-wi[k] kan de uitvoer niet
-beïnvloeden. Het systeem is niet
-observeerbaar.
-Een systeem dat niet observeerbaar
-en/of niet controleerbaar is heet
-niet-minimaal. Hetzelfde ingangsuitgangsgedrag kan gerealiseerd
-worden met een kleiner aantal
-geheugenelementen.
-Inwendige (interne) stabiliteit
-• Een systeem is inwendig stabiel →
-als0 x[k]
-als k
-k
-w λnk vn
-• Inwendig instabiel zodra één
-• Inwendig stabiel
-Nulingangsresponsie
-Nulingangsresponsie
-Nultoestandsresponsie
-• Ak x[0] bestuderen
-A
-(c = rijvector; SISO system)
-Nulingangsresponsie
-k
-w λnk vn
-basis {v
-= P-1 x[k] is de coördinatenvector van x[k] in de
-k
-basis {v
-is een gewogen som van exponentiële functies in k
-Nulingangsresponsie
-Bijdragen tot nulingangsresponsie
-Attractor / aantrekker
-Inwendig stabiel
-Repeller / afstoter
-Inwendig onstabiel
-Saddle point / zadelpunt
-Inwendig onstabiel
-Complexe eigenwaarden
-ω is genormaliseerde frequentie. 0 < 7 < 1
-• Eigenvectoren
-i en
-i
-• Neem complex toegevoegde termen samen in
-E
-een reële rijvector;
-ccis
-E
-Re
-G
-Complexe eigenwaarden (2)
-G
-• Bijdrage door complexe eigenwaarde in y[k] is
-product van:
-k - zie
-o Exponentieel verloop
-r reële eigenwaarde
-o Golvend verloop (K
-cos
-Complexe eigenwaarden
-Inwendig stabiel
-Bijdrage tot nulingangsresponsie
-Canonieke vorm en
-differentievergelijking
-Canonieke vorm
-• Zoek transformatiematrix 1Q
-q] zodat door de
-n
-M
-gelijkvormigheidstransformatie:
-M
-R
-Mnoemen we een compagnon-matrix
-Men A hebben dezelfde K.P. want gelijkvormig
-• Constructie van Q – zie later
-Waarom die Ã O
-en
-Constructie van Q
-2de vergelijking:T
-T
-Constructie van Q
-U
-T
-PQ
-PQ
-Waarom die Ã O
-en
-w
-w
-w
-w
-w
-w
-w
-Waarom die Ã O
-en
-Dus:
-Uitgangsvergelijking:
-Herschrijf:
-w1[k] elimineren
-Differentievergelijking
-O
-O
-f
-• Rechtstreeks verband tussen u[k] en y[k]
-• Dit heet een differentievergelijking
-• Alternatief voor de toestandsbeschrijving
-• Is een verband tussen differentievergelijking en canonieke vorm
-• M.a.w.: gegeven een differentievergelijking
-f
-f
-f
-Dan komen daarmee toestandsbeschrijvingen overeen die allemaal dezelfde K.P.
-hebben:%! + PQ
-R
-• Ook: gegeven een toestandsbeschrijving (A, b, c, d), dan komt daarmee een
-differentievergelijking overeen waarbij
-dedeã coëfficiënten van de K.P.
-i ook
-van A zijn
-Voorbeeld
-X
-Y
-X
-Y
-Z
-PQ
-PQ
-Voorbeeld
-O
-Met Q =
-, canonieke vorm:
-D
-D
-Voorbeeld
-PQ
-D
-D
-de differentievergelijking gehaald uit de canonieke vorm
-Impulsresponsie en convolutie
-Impulsresponsie
-• Doel: berekenen van de responsie. We hadden al:
-Exhaustief
-• Nultoestandsimpulsrespons (impulsrespons) h[k] van
-een SISO DTLTI systeem is y[k] wanneer
-k
-k
-k
-Verschoven impuls
-k
-k
-k
-k
-Ontbinding u[k]
-Lineair en tijdsinvariant
-Convolutie
-• Formeel
-d
-efd
-d
-b
-Lineair
-Tijdsinvariant
-• Voor een systeem dat uit de nultoestand vertrekt !
-• y[k] is de convolutie van u[k] en h[k]
-• Uitvoer is convolutie van invoer en impulsresponsie
-Convolutie
-Neutraal element: a[k]
-Lineair:
-• Enkelzijdige signalen a[k] = b[k] = 0 voor k<0 :
-d
-E
-=aPb
-efd
-efR
-• Causaal systeem: h[k] = 0 voor k<0
-Geen respons vóór de excitatie
-Impulsresponsie
-Nulingangsresponsie
-Nultoestandsresponsie
-2 term blijft enkel index j=0 staan
-de term:
-cA
-b
-Voorbeeld
-d
-E
-E
-E
-E
-steorde
-Impulsresponsie van
-1 systeem
-b
-D
-c
-k
-op
-E
-cb
-c
-q
-E
-E
-E
-Vorm impulsresponsie
-cAvoor k > 0
-• Zelfde bespreking als nulingangsresponsie
-steorde systeem:λk-1
-cb, zie boven
-• Voor diagonaliseerbare A, som van:
-o Exponentiëel verloop
-λ complex)
-o Schommelend exponentiëel verloop
+Vader ging X naar huis
+Satellieten
+Adverbiaal
+Bep. v. gesteldheid
+om vier uur ‘s nachts
+vrolijk
+Zinsmodificeerders
+jammer genoeg
+Zet in de juiste categorie:
+rechtstreeks, uit plichtsbesef, met een stuk in zijn kraag,
+waarschijnlijk, absoluut niet, ondanks het mooie
+weer, verbazend genoeg, als gebroken man, al, twee
+keer, gelukkig, met de serveerster, vrolijke liedjes
+zingend, namelijk, in tranen, te voet, blijkbaar
+ Vader ging X naar huis
+Satellieten
+Zinsmodificeerders
+Adverbiaal
+Bep. v. gesteldheid
+om vier uur ‘s nachts
+vrolijk
+jammer genoeg
+rechtstreeks
+met een stuk in zijn
+kraag
+waarschijnlijk
+uit plichtsbesef
+als gebroken man
+absoluut niet
+ondanks het mooie weer
+vrolijke liedjes
+zingend
+verbazend genoeg
+twee keer
+in tranen
+al
+met de serveerster
+namelijk
+te voet
+blijkbaar
+gelukkig
+gelukkig
+ Modale aanhef
+Ik heb helaas een droevige mededeling.
+> Het is helaas zo dat ik een droevige mededeling
+heb.
+Hij had zich naar het schijnt nauwelijks
+ingespannen.
+> Het is naar het schijnt zo dat…
+Vader ging gelukkig naar huis.
+‘Vader ging naar huis in een gelukkige toestand.’
+‘Het is gelukkig zo dat Vader naar huis ging.’
+ Bijzondere
+moeilijkheden
+Zeg het eens
+anders
+ Actief en passief
+Passivering = grammaticaal middel om een
+ander uitgangspunt voor de presentatie te nemen
+dan het Agens (“perspectiefomkering”)
+Een voorbeeld uit het SoNaR-corpus:
+In de tweede ronde kozen Timothy Dupont, Alexander Clynhens,
+Hannes Vandenbulcke, Nicolas Staelens, Jonas Sabbe en Karl Pottier
+het hazenpad. Dupont moest wegens kettingbreuk afhaken. Nog zeven
+renners pikten aan en uit die kopgroep flitsten in de finale Vandenbulcke
+en de Nieuw-Zeelander Hutchings weg. Hutchings werd opgeslorpt
+door een groep van dertien man. Een sterke Hannes Vandenbulcke
+hield knap stand en pakte zijn eerste seizoenszege. Kristof Vercouillie
+won de spurt van de achtervolgers voor Andy Lannoo .
+ Vorming van het passief
+hww worden of zijn + passief deelwoord
+ Patiens wordt subject
+ Agens kan genoemd worden in een doorconstituent = AGENS-OBJECT
+De knokploeg heeft de betogers verjaagd. >
+De betogers zijn verjaagd door de knokploeg =
+volledig passief
+De betogers zijn verjaagd. = onvolledig passief
+ Door-constituent en
+Agens-object
+ Opgelet: door-Ct in een zin met worden is
+niet per definitie AGENS-OBJECT
+Bv. De madeliefjes werden gitzwart door de
+vuile fabrieksrook.
+Door de plotse sneeuwval werd de
+wedstrijd afgelast.
+ Passiveerbaarheidsconditi
+e
+ Passivering is enkel mogelijk bij
+handelingswerkwoorden:
+Oswald kreeg een vulpen > * Een vulpen
+werd door Oswald gekregen.
+Het boek telt tien hoofdstukken > * Tien
+hoofdstukken worden door het boek geteld.
+MAAR:
+Fons telde de schapen voor de zekerheid
+nog een tweede keer. > De schapen werden
+voor de zekerheid nog een tweede keer
+geteld door Fons.
+ Onpersoonlijk passief
+Bijzonder kenmerk van het Nederlands: ook een
+actieve zin met een monovalent
+handelingswerkwoord kan worden gepassiveerd,
+ook al is er geen Patiens
+ Bv. De aanwezigen lachten en dansten tot diep in
+de nacht.
+> Er werd tot diep in de nacht gelachen en
+gedanst (door de aanwezigen).
+ Onpersoonlijk passief
+Veronderstelt normaal gezien een menselijk Agens
+Er wordt gebeld.
+?? Er wordt geblaft.
+Het horecapersoneel, het technisch onderhoudspersoneel en de kuisploegen legden gistermorgen spontaan het werk neer. Zowat veertig
+mensen bemanden een stakerspost. Aanleiding was het ontslag van
+horecamedewerkster R.B. ”Ik werk al sinds de start van het park in ’94
+hier. Maar met de nieuwe horecamanager gaat het van kwaad naar
+erger. Er wordt geblaft en gesnauwd.”
+ Bijzonder gebruik
+Passiveerbaarheidsconditie wordt wel eens
+doorbroken
+ Bijvoorbeeld:
+Want als er een binnenduinse brand uitbreekt in het naaldbos die
+zich gaat verplaatsen, zegt Bakker, kan dat wél een natuurramp
+worden . Maar het brandgevaar houdt hem niet uit de slaap "In de
+natuur wordt permanent gestorven. Aan het eind van deze dag
+zijn weer tien konijnen opgegeten door vossen en hebben een stuk
+of wat zeldzame zandhagedissen het loodje gelegd.’’
+Samuel Dumoulin was gevallen. Er wordt veel gevallen, deze
+Tour. De val van Dumoulin was een klassieke, want hij werd
+veroorzaakt door een overstekende hond. Een natgeregende hond
+van onbestemd ras, vermoedelijk .
+ Een ander grammaticaal
+middel
+Actief:
+De cowboy overhandigde de
+monnik de appel.
+Passief:
+De appel werd de monnik
+overhandigd (door de
+cowboy).
+Receptief: De monnik kreeg de appel
+overhandigd (van de
+cowboy).
+ Vorming van het receptief
+hww krijgen + passief deelwoord
+ Doel/Recipiens wordt subject
+ Bron kan genoemd worden in een van-constituent
+= BRON-OBJECT
+De universiteit kende hem een gulle subsidie toe >
+Hij kreeg van de universiteit een gulle
+subsidie
+toegekend = volledig receptief
+Hij kreeg een gulle subsidie
+toegekend =
+onvolledig receptief
+ Vorming van het receptief
+Opm. 1: in hedendaags taalgebruik ook (steeds
+vaker?) BRON-OBJECT met door i.p.v.
+van
+bv.
+Tot medio jaren 80 kende Parijs enkel de
+aloude, bekende cafés, waar je je
+espresso geserveerd kreeg door een
+zwart-witte, norse ober.
+Kapsones? Die waren er bij de man die de
+Godlike
+Genius-prijs in ontvangst
+mocht nemen : Ian
+Brown. De exStone Roses-zanger, in Engeland
+vereerd
+als een absolute god, wilde alleen komen
+als hij de prijs overhandigd kreeg door een van
+de leden van het superteam dat Manchester
+United in '99 had .
+ Vorming van het receptief
+Opm. 2: minder “regelmatig” dan passivering
+Is receptivering wel of niet mogelijk in de volgende
+zinnen?
+Het einde van de film bezorgde me koude rillingen.
+De jury pakte Eddy Merckx de overwinning af.
+De leerling gaf de onderwijzer het woordenboek.
+De leerling gaf de onderwijzer het woordenboek door.
+ Vorming van het receptief
+Opm. 3: is de onderstaande zin een receptiefzin?
+Reuzen als het Duitse Gerolsteiner , het
+Engelse Britvic en zelfs The Coca-Cola
+Company waren
+langsgekomen, maar het
+Leuvense
+Interbrew kreeg zijn
+slabakkende Waalse waterdochter niet
+verkocht en besloot twee jaar
+later in
+arren moede dan maar zelf opnieuw te
+proberen Chaudfontaine uit te bouwen tot een
+sterke Europese speler.
+ “Lexicale receptivering”
+= gebruik van een receptief ww als
+zinswerkwoord
+vgl.
+Mijn grootvader heeft mij dit uurwerk
+gegeven.
+Ik heb dit uurwerk van mijn grootvader
+gekregen.
+Karel heeft me dat nieuwtje verteld.
+Ik heb dat nieuwtje van Karel gehoord.
+ Prepositionele objecten
+Verschil tussen:
+VOORZETSELOBJECT: vast voorzetsel, geen eigen
+betekenis-bijdrage – rekenen op, houden van, wennen
+aan, zich schamen voor, enz.
+Andere prepositionele objecten: voorzetsel
+introduceert telkens een welbepaalde semantische rol
+ AGENS-OBJECT: door introduceert Agens
+ BRON-OBJECT: van introduceert Bron
+ Prepositioneel INDIRECT OBJECT: aan
+introduceert Recipiens, voor introduceert
+Belanghebbende
+ Bron-objecten
+BRON-OBJECT benoemt de Bron in een zin die het
+resultaat is van grammaticale receptivering:
+Maar ook een zin met een receptief of privatief
+zinswerkwoord kan een van-constituent bevatten die de
+Bron van de transfer benoemt
+Jan overhandigde mij het geschenk > Ik kreeg het geschenk van Jan
+(of: door Jan) overhandigd.
+De leraar deelde ons de resultaten mee > We kregen de resultaten
+van de leraar (of: door de leraar) meegedeeld.
+Piet heeft dat boek gekregen van Els.
+Piet heeft dat bericht vernomen van Karel.
+Piet heeft dat geld gestolen van de loodgieter.
+Ook zulke van-constituenten zijn BRON-OBJECT
+ Bron-objecten
+Tenzij het voorzetsel ook zou kunnen wegblijven:
+ Piet heeft de teddybeer afgepakt van zijn neefje.
+ Piet heeft zijn neefje de teddybeer afgepakt.
+Voorzetselproef geeft de doorslag: van-object bij afpakken
+e.d. = prepositioneel INDIRECT OBJECT
+ Mengconstructie: indirect
+passief
+ passieve constructie met Recipiens als
+subject
+Een vriendelijke boer wees mij de weg.
+> Mij werd de weg gewezen door….
+> Ik werd de weg gewezen door…
+beperkte mogelijkheden:
+een handvol werkwoorden zoals verzoeken,
+aanraden, wijzen, …
+ gevallen waarin “DO” en zinswerkwoord een
+eenheid vormen – bv. Ik werd de les
+gelezen.
+ Mengconstructie: indirect
+passief
+ in andere gevallen niet goed mogelijk:
+Ze kenden hem een onderscheiding toe.
+> * Hij werd een onderscheiding toegekend.
+Ze leende mij een fiets.
+> * Ik werd een fiets geleend.
+ Recipiens als Direct object
+De fabrieksbaas betaalt de arbeiders een
+hongerloon.
+nominalisering: het betalen van een hongerloon aan de
+arbeiders door de fabrieksbaas
+ passivering: Dat hongerloon wordt (aan) de arbeiders
+betaald door de fabrieksbaas.
+De fabrieksbaas betaalt de arbeiders.
+nominalisering: het betalen van de arbeiders door de
+fabrieksbaas
+ passivering: De arbeiders worden betaald door de
+fabrieksbaas.
+ Recipiens als Direct object
+Opnieuw slechts bij een klein aantal werkwoorden
+mogelijk
+Bv. De rector overhandigde de student het
+diploma.
+* De rector overhandigde de student (* in de
+bedoelde bet.)
+Opa vertelde de kinderen een verhaaltje.
+* Opa vertelde de kinderen.
+Wel: Ik heb hem een bericht gestuurd.
+Ik heb hem gestuurd.
